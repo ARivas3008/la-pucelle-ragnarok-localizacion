@@ -482,9 +482,9 @@
 12601,"Si tu objetivo no es simplemente resucitar al Príncipe Oscuro, entonces… ¿acaso pretendes…?",revisado,,
 12602,¡¿Acaso pretendes invocar al ángel caído Calamity?!,revisado,Calamity es el nombre propio del ángel caído en el guion de la serie.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 12603,…Como cabía esperar de… Tienes toda la razón.,requiere_investigacion,El original «As expected from You are absolutely correct» concatena un elogio truncado con una respuesta; confirmar la distribución.,
-12604,"Sin embargo, aunque sepas lo que pretendo, no podrás salvar a… Cualquier intento será inútil.",requiere_investigacion,Tras «cannot save» se perdió el complemento; la MTL lo convirtió injustificadamente en «no puedes salvarte».,
+12604,"Sin embargo, aunque conozcas mis planes, no podrás salvar a Croix. Por mucho que lo intentes, será inútil.",revisado,El objeto perdido tras «cannot save» se deduce del propósito explícito de Prier de rescatar a Croix (12600; 12654; 12659). Las unidades 21865–21867 y 21868–21869 forman dos frases.,corpus/12/entrada.csv (12600; 12654–12659); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21865–21869)
 12605,…¡¿Eh?!,revisado,,
-12606,"Pues bien, Doncella… Contempla cómo desaparece toda la inmundicia de este mundo.",requiere_investigacion,"«Well then, Maiden Observe» puede contener un título truncado y mezcla vocativo con mandato; cotejar escena.",
+12606,"Entonces, Doncella… ¡Contempla cómo desaparece toda la inmundicia de este mundo!",revisado,"Las unidades 21871–21874 dan una oración completa con vocativo «Maiden» y orden «Observe». Solo falta puntuación entre ambas partes, no información léxica.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21871–21874)
 12607,¡Jamás permitiré que te salgas con la tuya!,revisado,,
 12608,"Eres muy divertida, jovencita. Está bien.",revisado,,
 12609,"Si crees que puedes detenerme, adelante: inténtalo.",revisado,,
@@ -494,7 +494,7 @@
 12613,…¿Y dónde está exactamente?,revisado,,
 12614,¡¿Y yo qué sé?!,revisado,,
 12615,Para invocar al ángel caído Calamity hace falta una enorme cantidad de oscuridad.,revisado,,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
-12616,"Así que, si seguimos la energía oscura que está concentrándose por todo el reino de Paprica…",requiere_investigacion,"El inglés emplea «visit the dark energy», giro semánticamente anómalo; es probable que falte el lugar al que se dirigen. Cotejar texto antes de aprobar.",
+12616,"Así que, si seguimos la corriente de energía oscura que está concentrándose por todo el reino de Paprica…",revisado,«Visit the dark energy» es una anomalía del inglés de extracción; las unidades 21897–21901 y la réplica 12617 indican que se propone seguirla hasta donde está Croix. Se mantiene frase inconclusa por puntos suspensivos.,corpus/12/entrada.csv (12615–12617); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21897–21901)
 12617,Croix debería estar allí.,revisado,,
 12618,"O, mejor dicho, Santa… Supongo que ya lo sabes, pero con tu aspecto actual no te dejarán acercarte a esa zona.",requiere_investigacion,"Fuente fusionada «Or rather, Holy I believe...» con nombre o título cortado, posible cambio de voz. La propuesta de «Santa» es provisional.",
 12619,¡Déjamelo todo a mí!,revisado,,
@@ -524,14 +524,14 @@
 12643,He venido a detener a Noir y desbaratar sus planes.,revisado,,
 12644,¡¿Qué has dicho?!,revisado,,
 12645,Parece que la energía oscura se acumula más adentro…,revisado,,
-12646,"Seguro que Croix está por… ¡Si das un paso más, te mataremos aquí mismo!",requiere_investigacion,La frase «I bet Croix is in» queda truncada y se fusiona con una amenaza de otra voz. Revisar unidades y asignación de hablantes.,
+12646,"Seguro que Croix está ahí dentro… / ¡Si das un paso más, te mataremos aquí mismo!",revisado,"«I bet Croix is in» refiere al interior de las ruinas, mencionado justo antes en 12645; la amenaza empieza en la unidad 21975 y es otra intervención.",corpus/12/entrada.csv (12645–12647); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21974–21977)
 12647,¡Todo el que se interponga en mi camino tendrá que arrepentirse!,revisado,,
 12648,¡¡¡Preparaos!!!,revisado,Imperativo plural para los enemigos; tono enérgico de la escena.,
 12649,"Bueno, pasaron unas cuantas cosas y acabé convertida en la Señora Demonio… Pero conseguí recobrar el juicio justo a tiempo.",revisado,"Título femenino del glosario «魔王プリエ», y voz femenina de Prier.",glosario/terminos_investigados.csv (魔王プリエ); corpus/12/entrada.csv (contexto)
 12650,"Es verdad que ahora tengo aspecto de demonio, pero no te preocupes demasiado por eso.",revisado,,
 12651,¿Que no me preocupe por eso…?,revisado,,
-12652,¿Qué eres tú…?,requiere_investigacion,"«What are you...» se corta antes de completar la pregunta; el resto debe cotejarse, incluido el referente.",
-12653,"Creía que habías venido a frustrar mis planes, pero parece que solo querías charlar con… ¡No, no es eso!",requiere_investigacion,Original concatena dos turnos y corta el complemento de «with». No aprobar la distribución hasta cotejar unidades.,
+12652,¿Pero qué eres tú…?,revisado,"La única unidad 21995 contiene una pregunta voluntariamente inconclusa con puntos suspensivos. Se conserva como recurso dramático, sin inventar respuesta.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21995)
+12653,"Pensaba que venías a frustrar mis planes, ¡pero parece que solo querías charlar conmigo! / ¡No, no es eso!",revisado,"Noir habla de «my plans» y «chat with» él mismo, por lo que se recupera «me». La réplica de Prier empieza en la unidad 22001 y continúa en 12654.",corpus/12/entrada.csv (12652–12654); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21996–22001)
 12654,He venido para que Croix vuelva a ser el de antes.,revisado,,
 12655,"¿Ah, sí?",revisado,,
 12656,"Si Croix deja de trabajar para ti, te costará mucho más llevar a cabo tus planes, ¿no?",revisado,,
@@ -539,17 +539,17 @@
 12658,Espero que no creas que bastará con convencerlo de que cambie.,revisado,,
 12659,"¡Eso es lo que pienso hacer! ¡Cuando Croix comprenda que solo lo estás utilizando, podrá entrar en razón!",revisado,,
 12660,¿Dices que me están utilizando?,revisado,,
-12661,"Noir pretende resucitar al ángel caído… ¡Por eso necesita tu poder, Croix!",requiere_investigacion,El texto fusiona «reviving the fallen» con otra intervención y no conserva el objeto exacto tras «fallen»; no completar con un nombre sin cotejo.,
+12661,"¡Noir quiere resucitar al ángel caído Calamity! ¡Por eso necesita tu poder, Croix!",revisado,"La frase «reviving the fallen» se completa con «fallen angel Calamity», nombrado explícitamente en 12602 y 12615. Las unidades 22028–22029 y 22030–22031 forman dos intervenciones relacionadas.",corpus/12/entrada.csv (12602; 12615; 12661–12663); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22028–22031)
 12662,Lo que dice esta joven es cierto.,revisado,,
 12663,"Pero, una vez que Calamity sea invocado, toda la humanidad será aniquilada de un solo golpe.",revisado,Calamity se trata como nombre propio masculino del ángel caído.,glosario/terminos_investigados.csv (魔王プリエ); corpus/12/entrada.csv (contexto)
 12664,"En otras palabras, se cumplirá tu deseo de librar al mundo de los humanos.",revisado,,
-12665,No es un mal trato… Librar al mundo de los humanos…,requiere_investigacion,"Puede tratarse de dos voces o de una frase fragmentada («Not a bad tradeoff, Ridding…»). Verificar separación y puntuación.",
+12665,No es un mal trato… / Librar al mundo de los humanos…,revisado,El manifiesto revela una frase independiente en 22042 y una reflexión en 22043–22044. Se conserva el carácter fragmentario de la segunda sin inventar hablantes.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22042–22044)
 12666,Sí… No suena nada mal…,revisado,,
 12667,Esta jovencita ha venido para entrometerse en nuestros planes.,revisado,,
 12668,Así que quiero que te deshagas de ella.,revisado,,
 12669,¿Me estás pidiendo que luche contra Prier?,revisado,,
 12670,¿Es que no puedes?,revisado,Respuesta interrogativa completa a «¿Me estás pidiendo que luche contra Prier?» (12669). Se corrige la minúscula inicial inglesa y se conserva el tono provocador.,corpus/12/entrada.csv (12668–12671)
-12671,"¡Ja! Deja de decir… (Si esas dos bestias se enfrentan, ninguna saldrá ilesa…)",requiere_investigacion,El inglés concatena «quit spouting» sin objeto y un pensamiento entre paréntesis de otra voz. Cotejar la segmentación.,
+12671,"¡Bah, deja de decir tonterías! / (Si esas dos bestias se enfrentan, ninguna saldrá ilesa…)",revisado,«Quit spouting» es una réplica de desprecio cuyo objeto idiomático se recupera como «tonterías»; el pensamiento de Noir comienza con el paréntesis de 22056 y continúa en 12672.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22055–22059); corpus/12/entrada.csv (12670–12673)
 12672,"(Cuando acabe la batalla, utilizaré al que quede más debilitado como sacrificio para invocar a Calamity…",revisado,"«Fodder» alude a una víctima sacrificial, no a carne de cañón militar. Se conserva el pensamiento iniciado entre paréntesis.",
 12673,"Ja, ja, ja…)",revisado,Se cierra el pensamiento entre paréntesis del grupo anterior.,
 12674,¿De verdad piensas luchar contra mí?,revisado,,
@@ -589,7 +589,7 @@
 12708,¡Uaaaah!,revisado,,
 12709,¡¿Qué tonterías estás diciendo?!,revisado,,
 12710,…¡para bromear!,requiere_investigacion,"Solo se conserva «to joke around!» sin la frase a la que pertenece. El contexto sugiere una reprimenda, pero no permite completarla.",
-12711,Me convertí en la Señora Demonio para salvar… ¡No hice todo esto para matarte!,requiere_investigacion,"El original omite el objeto después de «save» y fusiona dos frases. Aunque Croix sea el referente, se conserva la interrupción hasta cotejo.",glosario/terminos_investigados.csv (魔王プリエ)
+12711,¡Me convertí en la Señora Demonio para salvarte! ¡No hice todo esto para matarte!,revisado,"El objeto elidido de «in order to save» es Croix, interlocutor de Prier desde 12705, reiterado en 12712–12713. Las unidades 22151–22152 y 22153–22154 forman dos frases.",corpus/12/entrada.csv (12705–12713); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22151–22154)
 12712,¡Así que sigue viviendo!,revisado,,
 12713,¡Domina la oscuridad que llevas dentro y sigue viviendo!,revisado,,
 12714,Pero he cometido pecados que jamás podré borrar como… Tengo que expiarlos…,requiere_investigacion,La expresión inglesa «as the I must atone» fusiona dos segmentos. No se recupera el título o condición mencionados.,
@@ -598,12 +598,12 @@
 12717,Me quedaré a tu lado…,revisado,,
 12718,Y no dejaré que vuelvas a sucumbir a la oscuridad.,revisado,,
 12719,"¡Siempre estaré aquí, a tu lado…!",revisado,,
-12720,Te lo suplico… Supongo que no me queda otra…,requiere_investigacion,Dos intervenciones concatenadas con probable cambio de voz; verificar asignación antes de aprobación.,
+12720,Te lo suplico… / Parece que no tengo elección…,revisado,"El manifiesto diferencia la súplica en 22178 y la respuesta resignada en 22179–22180, que encaja con la explicación posterior de Croix en 12721.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22178–22180); corpus/12/entrada.csv (12719–12722)
 12721,"Te has esforzado muchísimo por mí, incluso poniendo tu vida en peligro.",revisado,,
 12722,"Y, como hombre, debo asumir mi responsabilidad.",revisado,,
 12723,"¡Gracias a aquella patada, el Príncipe Oscuro ha muerto!",revisado,Croix habla figuradamente de la muerte de su identidad dominada por la oscuridad; no se presenta como muerte física.,
 12724,¡Y yo he vuelto a nacer!,revisado,,
-12725,"…Príncipe Oscuro, ¡pero mi corazón sigue siendo el del Croix de siempre!",requiere_investigacion,El texto comienza en «Dark Prince» sin verbo ni parte anterior de la frase. No se reconstruye la condición que precedía al título.,
+12725,"Puede que aún tenga el cuerpo del Príncipe Oscuro, ¡pero mi corazón sigue siendo el del Croix de siempre!",revisado,El inicio elidido se confirma por 12695 («Your body still remains that of the Dark Prince») y 12723–12724 sobre su renacimiento; 22191–22193 conservan el contraste explícito con su corazón.,corpus/12/entrada.csv (12695; 12723–12726); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22191–22193)
 12726,"¡Y para expiar todos mis pecados, seguiré viviendo hasta mi último aliento!",revisado,,
 12727,¡Croix! ¡Ahora sí que hablas como el de antes!,revisado,,
 12728,¡¡¡Basta ya de esta farsa!!!,revisado,,
@@ -657,7 +657,7 @@
 12776,Hermana Prier…,revisado,«Big sister» es el tratamiento familiar de Culotte.,
 12777,Ayú…,requiere_investigacion,«Hel…» está truncado. Podría ser «Help» o «Hello»; no se fuerza una reconstrucción.,
 12778,…ocurrir…,requiere_investigacion,Fragmento «happen…!» sin sujeto ni predicado completo; reconstrucción pendiente.,
-12779,"Pero, a fin de cuentas, te pega más ser la Señora Demonio que ser…",requiere_investigacion,El original termina en «than being» y no conserva la comparación; no inventar título faltante.,glosario/terminos_investigados.csv (魔王プリエ)
+12779,"Pero, si lo piensas bien, ¡te pega más ser la Señora Demonio que la Doncella de la Luz…!",revisado,"El final comparativo es verificable en el guion de la versión PS2, donde Culotte contrapone explícitamente Demon Lord con Maiden of Light; la premisa coincide con el japonés oficial del escenario de Prier.",corpus/12/entrada.csv (12779); https://www.neoseeker.com/la-pucelle/faqs/78770-a.html; https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
 12780,¿Prier…?,revisado,Se corrige el nombre mal traducido como «Fisgón».,
 12781,Tú eres…,revisado,,
 12782,Tú eres la…,requiere_investigacion,Predicado truncado «You are the»; la continuación no está conservada.,
@@ -670,14 +670,14 @@
 12789,¿Qué hacemos?,revisado,,
 12790,Las ruinas…,revisado,,
 12791,¡Las antiguas ruinas están empezando a derrumbarse!,revisado,,
-12792,"¡Si seguimos aquí, nos aplastarán…! ¡Cambiemos de rumbo, chicos!",requiere_investigacion,"Fuente fusiona «if we continue to stay» con la orden «Change course, gang!» sin cierre de oración; comprobar segmentación.",
+12792,"¡Si nos quedamos aquí, nos aplastarán! / ¡Vamos por otro camino, chicos!",revisado,El antecedente 12791 confirma que las ruinas se desploman; 22316–22317 forman la advertencia y 22318 ordena cambiar de rumbo. No se añade destino.,corpus/12/entrada.csv (12791–12793); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22316–22318)
 12793,¡Hay que salir de aquí a toda prisa!,revisado,,
 12794,"¡Eh, mirad!",revisado,,
 12795,"Vaya… Si no me esfuerzo al máximo, me van a dejar atrás…",revisado,,
 12796,¿Dejarte atrás?,revisado,,
 12797,"¡Ah, nada!",revisado,,
 12798,"Es hora de irnos, hermana…",revisado,Se conserva interrupción del vocativo.,
-12799,Ven a visitarnos de vez en cuando… ¿De verdad hemos hecho lo correcto?,requiere_investigacion,Dos frases probablemente de hablantes distintos y cambio de escena; cotejar unidades.,
+12799,¡Ven a visitarnos de vez en cuando…! / ¿De verdad hemos hecho lo correcto?,revisado,La invitación de 22328 y la pregunta de 22329–22330 son dos intervenciones completas que quedaron concatenadas. El cambio de tono se respeta sin inventar un destinatario.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22328–22330)
 12800,¿De verdad no vamos a ponernos en contacto con nadie…?,revisado,,
 12801,"¡Vamos, Croix! ¡Hay que ponerse en marcha!",revisado,,
 12802,"¡Al fin y al cabo, la leyenda del Dúo Oscuro no ha hecho más que empezar!",revisado,,
@@ -938,7 +938,7 @@
 14936,¡Maldito seas…! ¡Te arrancaré el corazón y lo veré latir entre mis manos!,revisado,"Amenaza enfurecida de combate, no pregunta literal «por qué tú».",
 14937,"(Madre, padre… ¿Me estáis viendo?)",revisado,,
 14938,(¡Ahora soy fuerte!),revisado,,
-14939,Aprovecharse así de los sentimientos de la gente… ¡No lo permitiré!,requiere_investigacion,El original «Taking advantage of peoples emotions like I will not allow it!» omite un complemento tras «like» y parece fusionar dos frases.,
+14939,¡No permitiré que te aproveches así de los sentimientos de la gente!,revisado,La estructura «Taking advantage of peoples emotions like / I will not allow it» permite reorganizar ambas cláusulas en español sin añadir motivos ni alterar el juicio del personaje.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_ids según entrada 14939)
 14940,¡Tu corazón me pertenece!,revisado,,
 14941,(¿De verdad está bien matar a este monstruo…?),revisado,,
 14942,¡El Libro Sagrado es lo único en lo que puedo creer de verdad!,revisado,,
@@ -958,12 +958,12 @@
 14956,¡No soy un gato cualquiera! ¡Miau!,revisado,,
 14957,¡Sucio demonio!,revisado,,
 14958,¡Te aprovechas de las debilidades de un hombre!,revisado,,
-14959,¡Te derrotaré en nombre de la Doncella…!,requiere_investigacion,"La fuente termina tras «Maiden», por lo que puede faltar un título completo. Cotejar las unidades antes de aprobar.",
+14959,¡Te derrotaré en nombre de la Doncella de la Luz!,revisado,"La expresión «in the name of the Maiden» es una invocación recurrente del guion original de PS2, donde se completa explícitamente «Maiden of Light». Se conserva su forma ritual.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html; corpus/12/entrada.csv (14959); https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
 14960,¡Aprovecharte de la calvicie de un hombre es caer muy bajo! ¡No lo permitiré!,revisado,La broma inglesa contrapone una vulnerabilidad masculina con la maldad del oponente; se evita el calco de la MTL.,
 14961,¡¡¡Prepárate para morir!!!,revisado,,
 14962,No quiero tener que hacer esto…,revisado,,
 14963,¡Pero debo conseguir que Éclair vuelva a ser la de antes! ¡Perdóname!,revisado,Nombre «Éclair» conforme al glosario; se distingue recuperar su estado de «personalidad normal».,glosario/terminos_investigados.csv (エクレール)
-14964,No tengo nada contra… ¡Pero debo salvar a Éclair! ¡Lo siento!,requiere_investigacion,Se corta «I have no quarrel with» y se fusiona con otra frase. No se inventa el destinatario.,glosario/terminos_investigados.csv (エクレール)
+14964,No tengo nada contra ti… ¡Pero debo salvar a Éclair! ¡Perdóname!,revisado,«I have no quarrel with» se completa naturalmente con el rival al que se dirige la frase. Las unidades siguientes explicitan el motivo: salvar a Éclair. No se inventa nombre del enemigo.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (25001–25003); corpus/12/entrada.csv (14962–14965)
 14965,Así que esto es un señor demonio…,revisado,Aquí «demon lord» alude a un oponente no identificado como Prier; se conserva título genérico masculino.,
 14966,¡Esto promete!,revisado,,
 14967,¡Por fin alguien que merece la pena!,revisado,,
