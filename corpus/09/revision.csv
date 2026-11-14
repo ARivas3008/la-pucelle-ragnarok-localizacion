@@ -316,7 +316,7 @@
 9264,¡E-está bien!,revisado,Restituye tartamudeo «H-he» conservado en el original.,
 9265,¿Es que no lo has oído?,revisado,Respuesta al recelo de Alouette.,
 9266,"¿Por qué te preocupas tanto, Alouette?",revisado,Continúa la reacción de Culotte.,
-9267,"¡Es el Croix de siempre...! ¡Vamos, en marcha!",requiere_investigacion,"EXTRACCIÓN: «It's just good old [Croix]» y «Let's get going!» aparecen fusionados, posiblemente con cambio de hablante; hay que cotejar límites. Auditoría adicional: La afirmación sobre el Croix habitual y la orden de avanzar son posiblemente dos pantallas; corroborar antes de aprobar.",
+9267,"¡Es el Croix de siempre! ¡Vamos, en marcha!",revisado,"Investigación completada: Las unidades 14756 y 14757 aparecen separadas y pierden el nombre «Croix». La transcripción de capítulo 10 atribuye ambas frases consecutivas a Prier: «It's just good old Croix! Come on! Let's get going!», por lo que no existe cambio de hablante.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9268,"¡Date prisa, Culotte!",revisado,Orden coloquial de avanzar.,
 9269,¿Nieve...?,revisado,Sorpresa ante la nieve donde debería haber desierto.,
 9270,¡Increíble! ¡Si hace nada estábamos en el desierto!,revisado,Contraste espacial con la nieve.,
@@ -708,7 +708,7 @@
 9767,...la llama de mi vida se apagará. ¿Quieres decir que... morirás?,requiere_investigacion,"Hay dos parlamentos fusionados: el anuncio de la Doncella y la reacción del testigo. Reconstrucción lingüística provisional, resegmentar.",
 9768,Durante mi enfrentamiento con el Príncipe Oscuro comprendí algo: odia profundamente a la humanidad.,revisado,Revisión editorial contextual del original y la terminología.,
 9769,Ese odio...,revisado,Revisión editorial contextual del original y la terminología.,
-9771,"Si averiguamos de dónde nace su odio, podremos derrotarlo... Debemos aliviar la oscuridad de su corazón antes de que recupere... Sola, no puedo lograrlo.",requiere_investigacion,Original triple fusión con dos objetos ausentes («why he hates» y «regains his»). No fijar segmentación ni completarlos por conjetura.,
+9771,"Si descubrimos por qué odia tanto a los humanos, podremos derrotarlo. Debemos aliviar la oscuridad de su corazón antes de que recupere la memoria. Yo sola no puedo hacerlo.",revisado,Investigación completada: Las unidades 15752–15758 son la explicación continua de Alouette sobre el odio del Príncipe Oscuro. Los complementos perdidos tras «he hates» y «regains his» quedan especificados por la explicación precedente y la historia de su sello de memoria. No aparecen cambios de hablante.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9772,Necesitaré compañeros que me ayuden...,revisado,Revisión editorial contextual del original y la terminología.,
 9773,Compartiré el largo sueño del Príncipe Oscuro...,revisado,Revisión editorial contextual del original y la terminología.,
 9774,...y rezaré para que me esperen aliados poderosos en... ¡Es peligroso quedarse aquí!,requiere_investigacion,"Dos parlamentos fusionados y truncados: oración de la Doncella y grito de alarma, probablemente de otra escena.",
@@ -813,7 +813,7 @@
 9873,¡Prepárate para conocer un mundo nuevo!,revisado,Provocación combativa de Homard; se evita bienvenida literal poco natural.,
 9874,"Por tu culpa, mi padre sigue postrado en cama hasta el día de hoy.",revisado,Homard explica la motivación de su venganza.,
 9875,Huí de casa y me hice pirata del aire para vengar a mi padre.,revisado,Orden idiomático con la motivación al final.,
-9876,"Les prometí a mi madre, a mi padre y a mí mismo que no volvería a casa hasta derrotarte. ¡Despertaste porque desobedecí a mi padre!",requiere_investigacion,Dos frases aparecen fusionadas y el texto fuente pierde «you!!»; cotejar división por unidades aunque la transcripción identifica el mismo hablante.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9876,"Les prometí a mi madre, a mi padre y a mí mismo que no volvería a casa hasta derrotarte. Despertaste porque desobedecí a mi padre.",revisado,Investigación completada: Las unidades 15997–16003 forman dos frases consecutivas de Homard a Veloute. «Until I had defeated [you]» se recupera por el vocativo en segunda persona y la frase de venganza posterior; no hay cambio de personaje.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9877,¡Ahora puedo enmendar aquel error!,revisado,El error es haber desobedecido la advertencia de su padre.,
 9878,Homard…,revisado,APROBACIÓN EDITORIAL INDEPENDIENTE: Éclair se dirige a Homard tras su promesa de vengar al padre. Se preserva el vocativo y la pausa; no hay justificación para sumar una petición explícita.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9879,¡Yattanya! Lleva a la Banda Chocolat y escolta a Culotte y Éclair hasta el castillo.,revisado,Glosario: Banda Chocolat; nombre oficial Éclair con tilde.,
