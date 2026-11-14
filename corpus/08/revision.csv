@@ -149,56 +149,56 @@
 8091,"¡¿Cómo vas a saber lo que se siente al ser la próxima reina?!",revisado,"",""
 8092,"¡¿Cómo vas a entender lo que es tener a todo el mundo contando contigo?!",revisado,"",""
 8093,"¡Yo quería que entendieras cómo me sentía!",revisado,"",""
-8094,,pendiente,,
-8095,,pendiente,,
-8096,,pendiente,,
-8097,,pendiente,,
-8098,,pendiente,,
-8099,,pendiente,,
-8100,,pendiente,,
-8101,,pendiente,,
-8102,,pendiente,,
-8103,,pendiente,,
-8104,,pendiente,,
-8105,,pendiente,,
-8106,,pendiente,,
-8107,,pendiente,,
-8108,,pendiente,,
-8109,,pendiente,,
-8110,,pendiente,,
-8111,,pendiente,,
-8112,,pendiente,,
-8113,,pendiente,,
-8114,,pendiente,,
-8115,,pendiente,,
-8116,,pendiente,,
-8117,,pendiente,,
-8118,,pendiente,,
-8119,,pendiente,,
-8120,,pendiente,,
-8121,,pendiente,,
-8122,,pendiente,,
-8123,,pendiente,,
-8124,,pendiente,,
-8125,,pendiente,,
-8126,,pendiente,,
-8127,,pendiente,,
-8128,,pendiente,,
-8129,,pendiente,,
-8130,,pendiente,,
-8131,,pendiente,,
-8132,,pendiente,,
-8133,,pendiente,,
-8134,,pendiente,,
-8135,,pendiente,,
-8136,,pendiente,,
-8137,,pendiente,,
-8138,,pendiente,,
-8139,,pendiente,,
-8140,,pendiente,,
-8141,,pendiente,,
-8142,,pendiente,,
-8143,,pendiente,,
+8094,"Pero la otra Éclair… ¡Ella jamás se atrevería a decir algo así!",revisado,"",""
+8095,"¡Siempre finge ser una niña buena y obedece a su madre en todo…!",revisado,"",""
+8096,"¡Como una marioneta!",revisado,"",""
+8097,"¡Por eso tuve que aparecer!",revisado,"Corregido falso amigo: «come out» se refiere a que emerge la personalidad oscura, no a «salir del armario».",""
+8098,"¿Verdad que te gusta más esta Éclair que la otra?",revisado,"",""
+8099,"Mira, no sé qué eres, pero podría acabar contigo sin esfuerzo.",revisado,"«Take care of you» es amenaza de neutralización en contexto (Croix apunta con su arma), no cuidar de Éclair.",""
+8100,"¡Croix!",revisado,"",""
+8101,"Solo tenemos que expulsarla, ¿no?",revisado,"«Kick her out» se refiere a expulsar a la Éclair oscura de su corazón.",""
+8102,"Esta es la forma más rápida.",revisado,"",""
+8103,"¡Pero ella también es Éclair!",revisado,"",""
+8104,"¡No quiero que siga sufriendo!",revisado,"",""
+8105,"¡Por favor!",revisado,"",""
+8106,"¡Vuelve a ser la de siempre, Éclair!",revisado,"",""
+8107,"Así que tú también prefieres a la otra Éclair… ¿verdad?",revisado,"",""
+8108,"¿Prefieres a esa muñeca?",revisado,"",""
+8109,"¿Esa muñeca que hace todo lo que le ordenan?",revisado,"",""
+8110,"¡Los odio a todos!",revisado,"",""
+8111,"¡Desaparezcan todos!",revisado,"",""
+8112,"Así que Éclair era el Caballero Oscuro desde el principio…",revisado,"",""
+8113,"He fracasado como madre.",revisado,"",""
+8114,"No tenía ni idea de la presión que soportaba mi hija…",revisado,"",""
+8115,"Dejaré que descanse una temporada.",revisado,"",""
+8116,"Sí, me parece lo mejor.",revisado,"",""
+8117,"Este… ¿Majestad?",revisado,"",""
+8118,"Por favor, trate bien a Éclair.",revisado,"La súplica de Prier va dirigida a la reina, no a varias personas.",""
+8119,"Tú eres Prier, ¿verdad?",revisado,"",""
+8120,"Mi hija me ha hablado de ti.",requiere_investigacion,"Original extraído es solo «about you.»; la transcripción externa completa «My daughter told me about you». Texto propuesto provisional, pero falta verificar que una unidad contenga la oración completa y su capacidad.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8121,"No sonríe muy a menudo, pero siempre parecía feliz cuando hablaba de ti.",revisado,"",""
+8122,"Debe de tenerte mucho cariño.",revisado,"",""
+8123,"Quizá puedas convencerla de que…",revisado,"",""
+8124,"No… Por favor, sigue siendo su amiga.",revisado,"",""
+8125,"Por supuesto, majestad.",revisado,"",""
+8126,"Tal como prometí, pueden entrar en la biblioteca real.",revisado,"Concesión a todo el grupo; se utiliza «pueden» (ustedes) para plural neutral.",""
+8127,"Pueden consultarla siempre que quieran.",revisado,"",""
+8128,"¿Has encontrado algo?",revisado,"",""
+8129,"Nada.",revisado,"",""
+8130,"Ni una pista.",revisado,"",""
+8131,"¡Con tanto libro, uno diría que debería haber algo útil!",revisado,"",""
+8132,"¡¿Q-qué pasa?!",revisado,"",""
+8133,"¡La estantería!",revisado,"",""
+8134,"¡Un pasadizo secreto!",revisado,"",""
+8135,"¡Casi me muero del susto!",revisado,"La expresión coloquial «scared me shiftless» alude a un susto grande; adaptación idiomática.",""
+8136,"¡Jamás imaginé que aquí hubiera un pasadizo oculto!",requiere_investigacion,"Original extraído «thought there was a hidden passage here!» carece de la negación; transcripción externa «I never would have thought...» da el sentido opuesto. Pendiente comprobar bytes y reparto antes de aprobar.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8137,"¿A que sí, chicos?",revisado,"",""
+8138,"¡¿Qué hacen todos ahí?!",revisado,"",""
+8139,"Entiendo lo de Culotte, pero ¿Croix?",revisado,"",""
+8140,"¡¿Por qué te agarras a Alouette?!",revisado,"",""
+8141,"¡Los hombres de hoy no tienen remedio!",revisado,"",""
+8142,"¡Dejar sola a una mujer tan frágil e indefensa como yo! ¡Será posible!",revisado,"Prier se queja irónicamente por haber quedado sola mientras Croix se aferra a Alouette.",""
+8143,"(¿Y por qué me pongo tan furiosa?)",revisado,"",""
 8144,,pendiente,,
 8145,,pendiente,,
 8146,,pendiente,,
