@@ -10,7 +10,7 @@
 12129,¡¿Y qué tengo yo de hipócrita?!,revisado,,
 12130,¿Te avergüenza ceder ante tu propia debilidad?,revisado,Se conserva la provocación retórica.,
 12131,¿O te parece patético?,revisado,Continúa la pregunta anterior.,
-12132,Presumes de que jamás te doblegarás ante el Señor Demonio y niegas por completo…,requiere_investigacion,La frase inglesa termina en «deny» sin complemento; requiere cotejo de unidades 20827–20831 y confirmación de título y de posible corte de diálogo.,
+12132,Presumes de que jamás te doblegarás ante el Señor Demonio y niegas por completo…,requiere_investigacion,"La frase inglesa termina en «deny» sin complemento; requiere cotejo de unidades 20827–20831 y confirmación de título y de posible corte de diálogo. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat, offset 81158, unidades 20827,20828,20829,20830,20831. Fuente conservada: «You are on your high horse about how you will not bow down to the Demon Lord, and you completely deny». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 20827,20828,20829,20830,20831)"
 12133,¡Claro! ¡Porque cuento con personas que me han prometido ayudarme a no sucumbir a la oscuridad de mi corazón!,revisado,,
 12134,"Por eso, no podría mirarlos a la cara si de verdad me convirtiera en la Señora Demonio… / ¡Y eso es lo que te hace una hipócrita!",revisado,El complemento omitido tras «become the» se identifica como Demon Lord por la réplica inmediata del grupo 12135. Las unidades 20839–20843 y 20844–20845 distinguen dos intervenciones.,corpus/12/entrada.csv (12133–12135); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (20839–20845); https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
 12135,"Si rechazas el inmenso poder de una Señora Demonio, ¡¿cómo piensas salvar a Croix?!",revisado,Título femenino en contexto de Prier; cotejado con entrada de glosario «魔王プリエ».,glosario/terminos_investigados.csv (魔王プリエ); https://www.mobygames.com/game/66480/la-pucelle-ragnar%C3%B8k/
@@ -20,15 +20,15 @@
 12139,¡Ninguno de ellos importa!,revisado,"Cotejada con «None of them matter!»; el borrador era fiel y natural, se aprueba de forma expresa.",
 12140,"¡Para detener a Croix, el Príncipe Oscuro, necesitas poder por encima de todo!",revisado,Conservado el título narrativo Dark Prince.,https://www.mobygames.com/game/66480/la-pucelle-ragnar%C3%B8k/
 12141,¡Y harás lo que sea para conseguir ese poder!,revisado,,
-12142,Aunque eso signifique dejar de lado lo que hay en tu… y convertirte en la Señora Demonio…,requiere_investigacion,"El inglés contiene «what is in your becoming», texto corrupto o fusionado; cotejar unidades y no completar el objeto perdido.",
+12142,Aunque eso signifique dejar de lado lo que hay en tu… y convertirte en la Señora Demonio…,requiere_investigacion,"El inglés contiene «what is in your becoming», texto corrupto o fusionado; cotejar unidades y no completar el objeto perdido. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat, offset 82810, unidades 20864,20865,20866,20867. Fuente conservada: «Even if it means casting aside what is in your becoming the Demon Lord...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 20864,20865,20866,20867)"
 12143,¡No importa cómo te vean los demás!,revisado,,
 12144,Eso es…,revisado,"Cotejada con «That is...»; interjección breve idiomática y contextual, se conserva intencionalmente.",
-12145,"¿No pensabas convertirte en la más fuerte sin sucumbir al poder de…? Tiene razón, hermana… ¡El poder de la oscuridad no puede salvar a Croix!",requiere_investigacion,Hay al menos dos frases concatenadas y cortes después de «Dark» y «Sister»; confirmar texto original y distribución de voces antes de aprobar.,
+12145,"¿No pensabas convertirte en la más fuerte sin sucumbir al poder de…? Tiene razón, hermana… ¡El poder de la oscuridad no puede salvar a Croix!",requiere_investigacion,"Hay al menos dos frases concatenadas y cortes después de «Dark» y «Sister»; confirmar texto original y distribución de voces antes de aprobar. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat, offset 83186, unidades 20871,20872,20873,20874,20875,20876,20877,20878,20879. Fuente conservada: «Were you not planning on becoming the strongest without succumbing to the power of the Dark He is right, Sister The powe…». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 20871,20872,20873,20874,20875,20876,20877,20878,20879)"
 12146,¿Estás diciendo que el poder de la luz SÍ puede…?,revisado,"«Puede» remite a salvar a Croix, tema de la línea previa; no se añade el objeto implícito.",https://www.mobygames.com/game/66480/la-pucelle-ragnar%C3%B8k/
 12147,¡¿Entonces no hay forma de que pueda salvar a Croix?!,revisado,,
 12148,¡No te creas tanto solo por ser la Doncella de la Luz!,revisado,Registro de enfrentamiento acorde con la recriminación.,https://www.mobygames.com/game/66480/la-pucelle-ragnar%C3%B8k/
 12149,Así que este es el final…,revisado,,
-12150,"Incluso después de todo esto, ¿piensas seguir viviendo a costa de tu verdadero…? Esto sí que es el final…",requiere_investigacion,Original termina el sintagma en «your true» y parece unir otra frase; imposible reconstruir objeto sin las unidades.,
+12150,"Incluso después de todo esto, ¿piensas seguir viviendo a costa de tu verdadero…? Esto sí que es el final…",requiere_investigacion,"Original termina el sintagma en «your true» y parece unir otra frase; imposible reconstruir objeto sin las unidades. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat, offset 84097, unidades 20889,20890,20891,20892,20893,20894. Fuente conservada: «Even after all this, you still plan on living by squeezing the life out of your true This really is the end...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 20889,20890,20891,20892,20893,20894)"
 12151,"Tú mejor que nadie sabes que no podría borrar mis verdaderos sentimientos, ¿verdad?",revisado,,
 12152,Solo pienso aceptar esta oscuridad sin dejar que me venza.,revisado,,
 12153,Nada más.,revisado,"Cotejada con «Nothing more.»; formulación concisa y exacta, conservada tras cotejo manual.",
@@ -37,9 +37,9 @@
 12156,¿Vas a renunciar a esa teoría sin fundamento…? / ¡Me repugna lo que sigues diciendo…!,revisado,Unidades 20911–20912 y 20913–20915: dos réplicas gramaticalmente recuperables; se conserva la suspensión de la primera pregunta.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (20911–20915)
 12157,"¡Si ansié el poder y acabé consumida por la oscuridad fue por ti, hermana Alouette…!",revisado,Concordancia femenina de Prier; mantiene reproche personal.,
 12158,¿La hermana Alouette provocó todo esto…?,revisado,,
-12159,¡…corazón! ¡Cálmate!,requiere_investigacion,La intervención comienza abruptamente en «heart!»; falta al menos el comienzo de la oración. Requiere cotejo de unidad.,
+12159,¡…corazón! ¡Cálmate!,requiere_investigacion,"La intervención comienza abruptamente en «heart!»; falta al menos el comienzo de la oración. Requiere cotejo de unidad. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat, offset 85695, unidades 20923. Fuente conservada: «heart! Calm yourself!». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 20923)
 12160,Mi sueño de convertirme en la Doncella de la Luz se ha hecho añicos… ¿Y encima piensas proteger a la hermana Alouette y luchar contra Croix?,revisado,Se mantiene pregunta acusatoria sin el calco sintáctico «no solo… sino que».,https://www.mobygames.com/game/66480/la-pucelle-ragnar%C3%B8k/
-12161,¡Tú jamás podrías hacer eso! ¡Porque yo quiero salvar a Croix!,requiere_investigacion,Cambio brusco de «you» a «I» sugiere dos hablantes o intervención fusionada; comprobar unidades antes de dar por válido el reparto.,
+12161,¡Tú jamás podrías hacer eso! ¡Porque yo quiero salvar a Croix!,requiere_investigacion,"Cambio brusco de «you» a «I» sugiere dos hablantes o intervención fusionada; comprobar unidades antes de dar por válido el reparto. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat, offset 86045, unidades 20931,20932,20933. Fuente conservada: «You could never do such a thing! Because I want to save Croix!». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 20931,20932,20933)"
 12162,Pero la oscuridad de mi corazón no puede salvar a Croix…,revisado,,
 12163,¡¿Entonces piensas dejar a Croix en manos de la Doncella de la Luz?!,revisado,,
 12164,¡¿Dejar a Croix en manos de la hermana Alouette…?!,revisado,,
@@ -52,7 +52,7 @@
 12171,Si esto sigue así…,revisado,,
 12172,"¡Reacciona, hermana! ¡Por favor, cálmate!",revisado,,
 12173,¡No podría soportarlo!,revisado,,
-12174,¡No pienso entregarle nada más a…! Yo…,requiere_investigacion,El original une «to» con «I will» y omite el destinatario; no completar la referencia sin cotejo con unidades.,
+12174,¡No pienso entregarle nada más a…! Yo…,requiere_investigacion,"El original une «to» con «I will» y omite el destinatario; no completar la referencia sin cotejo con unidades. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat, offset 87385, unidades 20957,20958,20959. Fuente conservada: «I will not hand over anything else to I will...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 20957,20958,20959)"
 12175,¡Seré yo quien salve a Croix!,revisado,,
 12176,Seré yo quien…,revisado,"Se corrige la MTL «el elegido»: «the one» retoma salvar a Croix, sin masculino ni elección predestinada.",
 12177,"¡No la escuches! ¡Si lo haces, volverás a caer en la oscuridad de tu corazón!",revisado,,
@@ -68,11 +68,11 @@
 12187,¡El milagro está empezando a perder su efecto!,revisado,Se omite el agente no identificable de «miracle that performed» y se preserva el sentido sin inventarlo.,
 12188,¿Qué he hecho…?,revisado,,
 12189,No hay remedio.,revisado,,
-12190,…culpable de haberme arrebatado todo cuanto tenía. Pero yo…,requiere_investigacion,Comienza por «one to blame» sin sujeto claro; la MTL inventa «Él». Cotejar unidad y voz.,
+12190,…culpable de haberme arrebatado todo cuanto tenía. Pero yo…,requiere_investigacion,"Comienza por «one to blame» sin sujeto claro; la MTL inventa «Él». Cotejar unidad y voz. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat, offset 88748, unidades 20984,20985,20986,20987. Fuente conservada: «one to blame for stealing every last thing I ever had, But I...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 20984,20985,20986,20987)"
 12191,¡Maldita sea!,revisado,,
 12192,¡Espabila de una maldita vez!,revisado,,
 12193,"Si Alouette desaparece, ¿quién detendrá a Croix, el Príncipe Oscuro?",revisado,,
-12194,Es evidente que…,requiere_investigacion,"Frase interrumpida tras «It should be obvious,»; falta el contenido de la conclusión.",
+12194,Es evidente que…,requiere_investigacion,"Frase interrumpida tras «It should be obvious,»; falta el contenido de la conclusión. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat, offset 89214, unidades 20994. Fuente conservada: «It should be obvious,». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 20994)
 12195,"¡Por favor, no escuches lo que te susurra la oscuridad de tu corazón!",revisado,,
 12196,Fuiste tú quien deseó que Alouette desapareciera. Ahora ya no hay vuelta atrás.,revisado,Se separan dos oraciones con puntuación natural; no se añaden relaciones causales.,
 12197,"¡Detente, Prier…!",revisado,,
@@ -80,7 +80,7 @@
 12199,No tienes por qué tener miedo.,revisado,,
 12200,Culotte ya lo dijo: me pega más ser la Señora Demonio…,revisado,Concordancia femenina y título conforme al glosario «魔王プリエ».,glosario/terminos_investigados.csv (魔王プリエ)
 12201,Pri…er…,revisado,"Es el nombre Prier pronunciado entrecortadamente, no «Fisgón», error de traducción automática.",
-12202,Mucho más que la… ¡Aaaaaah!,requiere_investigacion,«Much more than the» carece de sustantivo y se fusiona con un grito; cotejar las dos unidades de texto.,
+12202,Mucho más que la… ¡Aaaaaah!,requiere_investigacion,"«Much more than the» carece de sustantivo y se fusiona con un grito; cotejar las dos unidades de texto. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat, offset 90138, unidades 21013,21014. Fuente conservada: «Much more than the Ahhhhhhhhhh!!!!!». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21013,21014)"
 12203,¡Ah! ¡Un demonio!,revisado,,
 12204,¡¡¡Mamááá!!!,revisado,,
 12205,¡Me he puesto ropa interior limpia que mi mamá acababa de lavar!,revisado,Se evita especificar «calzoncillos»: el inglés solo indica «underwear».,
@@ -90,7 +90,7 @@
 12209,¡Que no voy a comerte!,revisado,,
 12210,¡Nadie nos había avisado de que iban a aparecer demonios en mitad de la ciudad!,revisado,Generaliza sujeto sin añadir argumento nuevo.,
 12211,¡Aaaah!,revisado,,
-12212,¡La chica demonio que… por fin se ha cruzado en mi camino!,requiere_investigacion,Original corrupto: «The demon girl who men has finally come my way»; «que ama a los hombres» en MTL no se sustenta.,
+12212,¡La chica demonio que… por fin se ha cruzado en mi camino!,requiere_investigacion,"Original corrupto: «The demon girl who men has finally come my way»; «que ama a los hombres» en MTL no se sustenta. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 19764, unidades 21030,21031,21032. Fuente conservada: «The demon girl who men has finally come my way!!!». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21030,21031,21032)"
 12213,¡¿Qué ha sido eso?!,revisado,,
 12214,…No puedo perder los estribos con este aspecto…,revisado,,
 12215,"Calma, calma…",revisado,,
@@ -98,9 +98,9 @@
 12217,"¡Ahora es cuando deberíais intervenir, hermanas de la Iglesia de la Santa Doncella!",revisado,,
 12218,¡Tú eres la hermana que se convirtió en demonio!,revisado,,
 12219,"¡Eres la que todos llaman «Hermana Demonio», ¿verdad?!",revisado,,
-12220,La Doncella da bastante miedo…,requiere_investigacion,«Maiden» podría ser el final de un título recortado en extracción. Comprobar si alude a la Iglesia o a alguien en concreto.,
+12220,La Doncella da bastante miedo…,requiere_investigacion,"«Maiden» podría ser el final de un título recortado en extracción. Comprobar si alude a la Iglesia o a alguien en concreto. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 21419, unidades 21047,21048. Fuente conservada: «Maiden really is frightening...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21047,21048)"
 12221,¡Dejen de ponerme apodos raros!,revisado,,
-12222,¡Para las hermanas de la… los demonios no son nada!,requiere_investigacion,La frase inglesa se corta después de «Sisters of the»; no completar el nombre de la institución sin cotejo.,
+12222,¡Para las hermanas de la… los demonios no son nada!,requiere_investigacion,"La frase inglesa se corta después de «Sisters of the»; no completar el nombre de la institución sin cotejo. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 22548, unidades 21051,21052. Fuente conservada: «Demons are nothing to the Sisters of the». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21051,21052)"
 12223,"Tú eres la famosa «Hermana Demonio», ¿verdad?",revisado,,
 12224,¡La prueba de que hasta un demonio puede tener buen corazón!,revisado,,
 12225,"Te agradezco el cumplido, ¡pero deja ya lo de «Hermana Demonio»…!",revisado,,
@@ -109,32 +109,32 @@
 12228,¿Eh? ¡Con tanto alboroto se me ha quitado el dolor de espalda!,revisado,,
 12229,¡Ha ocurrido otro milagro!,revisado,,
 12230,"Bueno, parece que ya se le ha curado la espalda.",revisado,,
-12231,…los detalles sin importancia…,requiere_investigacion,"Solo se conserva el fragmento «the minor details,»; no se conoce el verbo ni el resto de la frase.",
+12231,…los detalles sin importancia…,requiere_investigacion,"Solo se conserva el fragmento «the minor details,»; no se conoce el verbo ni el resto de la frase. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 24439, unidades 21072. Fuente conservada: «the minor details,». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21072)
 12232,¡Aaaah! ¡Un demonio!,revisado,,
 12233,¡Qué miedo!,revisado,,
 12234,"¡Socorro, hermanas!",revisado,,
 12235,¿Tú eres una hermana de la Iglesia?,revisado,"En el contexto «Sister» se usa para una integrante religiosa, no como parentesco.",
-12236,La Doncella es increíble…,requiere_investigacion,«Maiden» parece final truncado de una expresión religiosa; comprobar referente para traducir correctamente.,
-12237,Quizá debería unirme a… ¡¿Qué se te pasa por la cabeza…?!,requiere_investigacion,Original fusionado: «Maybe I should join What is with your thought process»; falta el grupo al que unirse y podría haber cambio de hablante.,
+12236,La Doncella es increíble…,requiere_investigacion,"«Maiden» parece final truncado de una expresión religiosa; comprobar referente para traducir correctamente. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 25729, unidades 21077. Fuente conservada: «Maiden is amazing...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21077)
+12237,Quizá debería unirme a… ¡¿Qué se te pasa por la cabeza…?!,requiere_investigacion,"Original fusionado: «Maybe I should join What is with your thought process»; falta el grupo al que unirse y podría haber cambio de hablante. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 25772, unidades 21078,21079,21080. Fuente conservada: «Maybe I should join What is with your thought process...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21078,21079,21080)"
 12238,¡No quiero saber nada de los demonios!,revisado,,
-12239,"¡Quién iba a decir que una hermana acabaría…! Es sorprendente, pero seguiré contando contigo.",requiere_investigacion,La primera intervención se corta en «would end up like» y parece enlazada a otra; revisar cortes y voces.,
+12239,"¡Quién iba a decir que una hermana acabaría…! Es sorprendente, pero seguiré contando contigo.",requiere_investigacion,"La primera intervención se corta en «would end up like» y parece enlazada a otra; revisar cortes y voces. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 26291, unidades 21083,21084,21085,21086. Fuente conservada: «To think that a Sister would end up like Surprising, but I will still be counting on ya.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21083,21084,21085,21086)"
 12240,"Vaya, hoy está cerrado…",revisado,,
 12241,Parece que han cerrado…,revisado,,
 12242,¡Vaya! Así que no es que la Iglesia de la Santa Doncella tenga una hermana a la que llamen Señora Demonio…,revisado,,glosario/terminos_investigados.csv (魔王プリエ)
 12243,¡Es que tienen a la mismísima Señora Demonio!,revisado,Continuación del chiste iniciado en 12242; título femenino según glosario.,glosario/terminos_investigados.csv (魔王プリエ)
 12244,¿Es verdad que estás de nuestro lado?,revisado,,
 12245,Estoy de parte de cualquiera que no sea mala persona.,revisado,,
-12246,"Me parecía que la ciudad estaba más alborotada de lo… Así que todo esto es culpa tuya, ¿eh?",requiere_investigacion,Original une dos frases y trunca comparación en «noisier than»; cotejar segmentación de unidades.,
+12246,"Me parecía que la ciudad estaba más alborotada de lo… Así que todo esto es culpa tuya, ¿eh?",requiere_investigacion,"Original une dos frases y trunca comparación en «noisier than»; cotejar segmentación de unidades. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 29022, unidades 21099,21100,21101,21102. Fuente conservada: «I thought the town was a bit noisier than So this is all your fault, huh?». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21099,21100,21101,21102)"
 12247,"Pero tampoco doy tanto miedo, ¿no?",revisado,,
 12248,"Bueno, mientras no hagas nada malo…",revisado,,
-12249,"Me enteré por… Menudo cambio de aspecto, hermana Prier.",requiere_investigacion,Se corta el informante tras «from» y sigue otra frase; revisar si hay dos hablantes.,
-12250,Rezo de todo corazón para que detengas el resurgimiento de…,requiere_investigacion,La referencia después de «revival of» no figura en la extracción; no completar con nombres supuestos.,
-12251,"¡Claro, déjamelo todo…!",requiere_investigacion,"El original «Yup, just leave it all» queda sin complemento; el siguiente grupo no permite reconstruir el cierre.",
-12252,…y encontrar a Croix…,requiere_investigacion,"La oración comienza por «and», sin predicado conservado; cotejar con unidades anteriores antes de aprobar.",
-12253,¡Así que la Iglesia de la Santa Doncella tenía una hermana demonio desde el principio…!,requiere_investigacion,"La fuente solo conserva «Maiden» y quizá omite «Church of the Holy»; reconstrucción contextual provisional, verificar.",
+12249,"Me enteré por… Menudo cambio de aspecto, hermana Prier.",requiere_investigacion,"Se corta el informante tras «from» y sigue otra frase; revisar si hay dos hablantes. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 29883, unidades 21108,21109,21110. Fuente conservada: «I heard the news from Your new look is quite something, Sister Prier.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21108,21109,21110)"
+12250,Rezo de todo corazón para que detengas el resurgimiento de…,requiere_investigacion,"La referencia después de «revival of» no figura en la extracción; no completar con nombres supuestos. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 30058, unidades 21111,21112,21113. Fuente conservada: «I pray from the bottom of my heart that you will stop the revival of». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21111,21112,21113)"
+12251,"¡Claro, déjamelo todo…!",requiere_investigacion,"El original «Yup, just leave it all» queda sin complemento; el siguiente grupo no permite reconstruir el cierre. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 30332, unidades 21114. Fuente conservada: «Yup, just leave it all». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21114)
+12252,…y encontrar a Croix…,requiere_investigacion,"La oración comienza por «and», sin predicado conservado; cotejar con unidades anteriores antes de aprobar. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 30808, unidades 21115. Fuente conservada: «and find Croix...!!». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21115)
+12253,¡Así que la Iglesia de la Santa Doncella tenía una hermana demonio desde el principio…!,requiere_investigacion,"La fuente solo conserva «Maiden» y quizá omite «Church of the Holy»; reconstrucción contextual provisional, verificar. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 31407, unidades 21116,21117,21118. Fuente conservada: «Maiden has had a Sister who was a demon since the beginning...!». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21116,21117,21118)"
 12254,¡Qué vergüenza!,revisado,,
 12255,"Si hasta la Doncella de la Luz y el Príncipe Oscuro forman parte del grupo, tener un demonio tampoco parece para tanto…",revisado,,
-12256,La hermana Prier ha mostrado su verdadera naturaleza y se ha convertido en…,requiere_investigacion,Intervención cortada después de «turned into»; no añadir el resultado aunque sea sugerente el contexto.,
+12256,La hermana Prier ha mostrado su verdadera naturaleza y se ha convertido en…,requiere_investigacion,"Intervención cortada después de «turned into»; no añadir el resultado aunque sea sugerente el contexto. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 33168, unidades 21126,21127,21128. Fuente conservada: «Sister Prier started to show her true colors and turned into...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21126,21127,21128)"
 12257,¡Aaaah! ¡¿Usted es la hermana Prier?!,revisado,,
 12258,¡Le pido mil disculpas!,revisado,Se mantiene el tratamiento de usted del interlocutor asustado de 12257–12260.,
 12259,¡No tenía ni idea de que estaba ahí!,revisado,Se mantiene usted.,
@@ -145,7 +145,7 @@
 12264,¡Sigan haciendo un gran trabajo!,revisado,,
 12265,"Los miembros de la Iglesia se fijan más en cómo es uno por dentro, ¿eh…?",revisado,,
 12266,Es posible…,revisado,,
-12267,"Me lo han contado todo en… Parece que has pasado por mucho, ¡pero sigues siendo la Prier de siempre!",requiere_investigacion,"«I heard everything from» no incluye el informante, y parece enlazar otra intervención; cotejar voces.",
+12267,"Me lo han contado todo en… Parece que has pasado por mucho, ¡pero sigues siendo la Prier de siempre!",requiere_investigacion,"«I heard everything from» no incluye el informante, y parece enlazar otra intervención; cotejar voces. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 35245, unidades 21147,21148,21149,21150,21151. Fuente conservada: «I heard everything from It sounds like you have been through a lot, but you are still the same old Prier!». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21147,21148,21149,21150,21151)"
 12268,"¡Mientras no destroces nada, puedes venir a nuestra tienda cuando quieras!",revisado,,
 12269,¡Que ya te he dicho que no voy a romper nada!,revisado,,
 12270,"Parece que está haciendo un esfuerzo tremendo, ¿eh?",revisado,,
@@ -165,7 +165,7 @@
 12284,¡¡¡MIRA TODO LO QUE QUIERAS!!!,revisado,,
 12285,"¡Solo hemos venido a comprar! ¡No hace falta que tengas tanto miedo, caray!",revisado,,
 12286,"Felicidades por tu despertar como Señora Demonio, Prier…",revisado,Título femenino del glosario «魔王プリエ».,glosario/terminos_investigados.csv (魔王プリエ)
-12287,Estuviste a punto de…,requiere_investigacion,"Oración cortada en «You were this close to», sin indicar qué iba a ocurrir.",
+12287,Estuviste a punto de…,requiere_investigacion,"Oración cortada en «You were this close to», sin indicar qué iba a ocurrir. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 42824, unidades 21200. Fuente conservada: «You were this close to». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21200)
 12288,Qué decepción…,revisado,,
 12289,¡Aaaah! ¡¿Un demonio?!,revisado,,
 12290,¡¿Has venido a quitarme toda mi suerte con los hombres y convertirme en demonio?!,revisado,,
@@ -183,13 +183,13 @@
 12302,G… gracias…,revisado,Se mantiene el tartamudeo de Prier.,
 12303,¡Hip…!,revisado,Onomatopeya del hipo o sollozo entrecortado; «Hipo» en la MTL no funciona como interjección.,
 12304,"Prier, dijiste que llegarías a ser la Doncella de la Luz… / ¡Pero ese atuendo te queda muy bien!",revisado,El título omitido se recupera de la aspiración explícita y reiterada de Prier a convertirse en la Doncella de la Luz; dos réplicas en 21236–21237 y 21238–21239.,corpus/12/entrada.csv (12567–12568); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21236–21239); https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
-12305,Tu aspecto diabólico está haciendo que me enamore de… ¿Y si dejamos en paz a esta diablilla?,requiere_investigacion,«fall for» carece de complemento y se fusiona con otra pregunta; no completar a quién se refiere ni atribuir ambas frases a una voz.,
+12305,Tu aspecto diabólico está haciendo que me enamore de… ¿Y si dejamos en paz a esta diablilla?,requiere_investigacion,"«fall for» carece de complemento y se fusiona con otra pregunta; no completar a quién se refiere ni atribuir ambas frases a una voz. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 49899, unidades 21240,21241,21242,21243. Fuente conservada: «Your devilish appearance is making me fall for How about we just let this little devil be?». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21240,21241,21242,21243)"
 12306,¡Nuestro futuro está en tus manos!,revisado,,
 12307,"¡Dalo todo, Prier!",revisado,,
 12308,"¡¡¡Sí, padre!!!",revisado,,
 12309,¿Crees que Rocini podría estudiar tanto en La Pucelle que también acabara convirtiéndose en demonio?,revisado,Se conserva Rocini como nombre propio y La Pucelle como organización.,
 12310,Te preocupas demasiado.,revisado,,
-12311,Sé mejor que nadie que te estás convirtiendo en una persona maravillosa… Pero procura no deambular buscando… La gente se asustará.,requiere_investigacion,Original fusiona al menos dos fragmentos y omite el complemento tras «wonderful» y «looking»; verificar distribución de voces y lagunas.,
+12311,Sé mejor que nadie que te estás convirtiendo en una persona maravillosa… Pero procura no deambular buscando… La gente se asustará.,requiere_investigacion,"Original fusiona al menos dos fragmentos y omite el complemento tras «wonderful» y «looking»; verificar distribución de voces y lagunas. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 52862, unidades 21255,21256,21257,21258,21259,21260,21261. Fuente conservada: «I know better than anyone that you are becoming a wonderful But try not to aimlessly wander around looking People will b…». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21255,21256,21257,21258,21259,21260,21261)"
 12312,Duele un poco que me lo digas tan a la cara…,revisado,"«like» queda colgando, pero el sentido de «direct» es recuperable sin inventar otro contenido.",
 12313,"Aunque Prier se haya convertido en demonio, jamás ha abandonado una misión de La Pucelle.",revisado,,
 12314,¡Eso sí que tiene mérito!,revisado,,
@@ -206,7 +206,7 @@
 12325,¡¿Precisamente aquí?!,revisado,,
 12326,¡Tengo que hacer algo…!,revisado,,
 12327,¡¿Eh?!,revisado,,
-12328,¿Desde cuándo están todos…?,requiere_investigacion,La pregunta se interrumpe tras «everyone»; no consta qué ha sucedido. Cotejar unidades.,
+12328,¿Desde cuándo están todos…?,requiere_investigacion,"La pregunta se interrumpe tras «everyone»; no consta qué ha sucedido. Cotejar unidades. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 70178, unidades 21289. Fuente conservada: «When did everyone...?». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21289)
 12329,¡Estás a salvo!,revisado,,
 12330,¡Menos mal!,revisado,«Thank goodness» se expresa de forma natural sin connotación religiosa adicional.,
 12331,"Ah, claro. Primero tengo que encargarme de esos demonios.",revisado,,
@@ -221,23 +221,23 @@
 12340,¡¿Un demonio?!,revisado,,
 12341,¿Te refieres a esas criaturas que te rodean?,revisado,,
 12342,¿O estás hablando de ti mismo?!,revisado,,
-12343,…¿padre?,requiere_investigacion,"«about, Father?» es final de frase sin comienzo.",
-12344,…para bromear…,requiere_investigacion,«to joke around» es un complemento sin oración principal.,
+12343,…¿padre?,requiere_investigacion,"«about, Father?» es final de frase sin comienzo. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 71285, unidades 21309. Fuente conservada: «about, Father?». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21309)
+12344,…para bromear…,requiere_investigacion,"«to joke around» es un complemento sin oración principal. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 71358, unidades 21310. Fuente conservada: «to joke around...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21310)
 12345,"¡Cuidado, todos!",revisado,,
-12346,"¡Culotte y los demás, protejan a la hermana…! ¿Así que crees que esas criaturas son Culotte y tus amigos…?",requiere_investigacion,Fusión de una orden cortada con otra voz; cotejar segmentación.,
-12347,¡Hasta la distracción tiene un límite…! ¿Padre…?,requiere_investigacion,Inglés corrupto «There is a limit to how scatterbrained you Father?»; voces potencialmente fusionadas.,
+12346,"¡Culotte y los demás, protejan a la hermana…! ¿Así que crees que esas criaturas son Culotte y tus amigos…?",requiere_investigacion,"Fusión de una orden cortada con otra voz; cotejar segmentación. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 71453, unidades 21312,21313,21314,21315,21316. Fuente conservada: «Culotte and everyone else, protect Sister So you are viewing those things as Culotte and your friends...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21312,21313,21314,21315,21316)"
+12347,¡Hasta la distracción tiene un límite…! ¿Padre…?,requiere_investigacion,"Inglés corrupto «There is a limit to how scatterbrained you Father?»; voces potencialmente fusionadas. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 71717, unidades 21317,21318,21319. Fuente conservada: «There is a limit to how scatterbrained you Father?». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21317,21318,21319)"
 12348,¿Todavía estás bromeando…?,revisado,,
 12349,"Si ese es Culotte, ¡¿quién demonios está desmayado allí?!",revisado,Culotte es un nombre masculino.,glosario/terminos_investigados.csv (キュロット)
 12350,¿Quién…?,revisado,Se corrige «OMS» de la MTL.,
 12351,¿Qué está pasando…?,revisado,,
-12352,¿Por qué está Culotte allí si él está…?,requiere_investigacion,Original se corta después de «he is».,
+12352,¿Por qué está Culotte allí si él está…?,requiere_investigacion,"Original se corta después de «he is». | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 72129, unidades 21326,21327. Fuente conservada: «Why is Culotte over there when he is...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21326,21327)"
 12353,¡No puede ser…!,revisado,,
 12354,¡¿Qué demonios está pasando?!,revisado,,
-12355,"¡Eso debería preguntarlo yo! Por cómo te has estado comportando… Me duele pensarlo, pero…",requiere_investigacion,Registro fusiona tres fragmentos; cotejar voces y corte.,
+12355,"¡Eso debería preguntarlo yo! Por cómo te has estado comportando… Me duele pensarlo, pero…",requiere_investigacion,"Registro fusiona tres fragmentos; cotejar voces y corte. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 72384, unidades 21331,21332,21333,21334,21335. Fuente conservada: «That is my line, Seeing the way you have been acting It pains me to think this, but...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21331,21332,21333,21334,21335)"
 12356,¡¿De verdad te has aliado con esos demonios que tienes al lado?!,revisado,,
 12357,¡No…! Yo…,revisado,,
 12358,¡Yo… jamás haría eso…!,revisado,,
-12359,Así que eso era… Todo esto…,requiere_investigacion,«So that is what This is all» presenta dos fragmentos truncados.,
+12359,Así que eso era… Todo esto…,requiere_investigacion,"«So that is what This is all» presenta dos fragmentos truncados. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 72934, unidades 21342,21343. Fuente conservada: «So that is what This is all...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21342,21343)"
 12360,Por mi culpa…,revisado,,
 12361,¡Sí! ¡Todo esto lo he provocado yo!,revisado,,
 12362,¡¡¡Padre!!!,revisado,,
@@ -254,12 +254,12 @@
 12373,"Aunque esperaba que el temido Salade, el exterminador de demonios, opusiera más resistencia.",revisado,«Salade» es el padre Salade masculino; se evita «la infame Salade» de la MTL y se mantiene el apodo.,glosario/terminos_investigados.csv (サラド)
 12374,"Vaya, vaya.",revisado,,
 12375,Me has impresionado.,revisado,,
-12376,Pensar que un demonio ajeno a… pudiera ser tan poderoso…,requiere_investigacion,El original termina «outside of the so powerful» y omite el ámbito o grupo; requiere cotejo de unidades.,
+12376,Pensar que un demonio ajeno a… pudiera ser tan poderoso…,requiere_investigacion,"El original termina «outside of the so powerful» y omite el ámbito o grupo; requiere cotejo de unidades. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 74307, unidades 21374,21375,21376. Fuente conservada: «To think that a demon outside of the so powerful...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21374,21375,21376)"
 12377,"Y, para colmo, ese demonio resulta ser aquella molesta cazadora de demonios.",revisado,Prier es mujer; corrección del masculino de la MTL.,
 12378,"Nunca dejas de sorprenderme, jovencita…",revisado,,
 12379,¡Tú eres… Noir!,revisado,,
 12380,¿De verdad te acordabas de mi nombre?,revisado,,
-12381,"Y hasta te ocupaste de la Doncella… En nombre del Príncipe Oscuro, tú… ¡No necesito tus halagos!",requiere_investigacion,El original fusiona frases incompletas de dos hablantes y pierde complementos. No aprobar antes de cotejo de voces.,
+12381,"Y hasta te ocupaste de la Doncella… En nombre del Príncipe Oscuro, tú… ¡No necesito tus halagos!",requiere_investigacion,"El original fusiona frases incompletas de dos hablantes y pierde complementos. No aprobar antes de cotejo de voces. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 74874, unidades 21386,21387,21388,21389,21390,21391. Fuente conservada: «And you even took care of the Maiden On behalf of the Dark Prince, you have I do not need your praise.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21386,21387,21388,21389,21390,21391)"
 12382,Pero lo importante ahora es… ¿dónde está Croix?,revisado,,
 12383,¡Dime dónde está!,revisado,,
 12384,El Príncipe Oscuro se encuentra en unas antiguas ruinas llamadas Halo del Ángel.,revisado,Topónimo «Angel Halo» traducido provisionalmente «Halo del Ángel» de forma uniforme con el grupo siguiente; verificar el mapa en fase de integración.,
@@ -300,7 +300,7 @@
 12419,¡Mátenla!,revisado,,
 12420,¡Croix!,revisado,,
 12421,Te estaba esperando.,revisado,,
-12422,…la señorita de antes…,requiere_investigacion,El original «Former little miss» aparece como apelativo truncado y no permite determinar la intención exacta.,
+12422,…la señorita de antes…,requiere_investigacion,"El original «Former little miss» aparece como apelativo truncado y no permite determinar la intención exacta. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 79033, unidades 21475. Fuente conservada: «Former little miss». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21475)
 12423,¡He… he venido a buscarte!,revisado,,
 12424,¡¿Eres… Prier?!,revisado,Se corrige el nombre «Prior» de la MTL.,
 12425,Ese atuendo…,revisado,,
@@ -319,7 +319,7 @@
 12438,¡Exacto!,revisado,,
 12439,¡Esta joven llegó incluso a deshacerse de la Doncella de la Luz con sus propias manos!,revisado,,
 12440,"Todo por ti, Príncipe Oscuro… / ¿Es verdad…?",revisado,El vocativo incompleto «Dark» se completa con el título «Dark Prince» usado inmediatamente antes en 12433; 21511 y 21512 corresponden a frases distintas.,corpus/12/entrada.csv (12433–12440); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21511–21512)
-12441,"Me consumió el poder de la oscuridad y perdí de vista… Así que de verdad lo hiciste… Por mi culpa, tú…",requiere_investigacion,Tres fragmentos cortados de voces distintas; no es posible aprobar el reparto sin cotejo.,
+12441,"Me consumió el poder de la oscuridad y perdí de vista… Así que de verdad lo hiciste… Por mi culpa, tú…",requiere_investigacion,"Tres fragmentos cortados de voces distintas; no es posible aprobar el reparto sin cotejo. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 80870, unidades 21513,21514,21515,21516,21517. Fuente conservada: «I became engulfed by the power of darkness and lost sight of So you really did do it, Because of me, you...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21513,21514,21515,21516,21517)"
 12442,Te lo agradezco…,revisado,,
 12443,Si la Doncella de la Luz ha desaparecido…,revisado,,
 12444,Ahora yo… soy…,revisado,"Intervención voluntariamente inconclusa, acorde al original.",
@@ -327,7 +327,7 @@
 12446,¡¿Croix?!,revisado,,
 12447,"Oye, ¿qué está pasando?",revisado,,
 12448,¿Príncipe Oscuro?,revisado,,
-12449,…tu lado oscuro ahora.,requiere_investigacion,El registro solo conserva el final «your dark side now» sin verbo ni sujeto.,
+12449,…tu lado oscuro ahora.,requiere_investigacion,"El registro solo conserva el final «your dark side now» sin verbo ni sujeto. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 81678, unidades 21526. Fuente conservada: «your dark side now.». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21526)
 12450,¡Hasta el último vestigio de tu razón y tus esperanzas humanas habrá desaparecido en el abismo oscuro!,revisado,,
 12451,¡Y todo esto es culpa tuya!,revisado,,
 12452,¡Cierra la maldita boca!,revisado,,
@@ -335,8 +335,8 @@
 12454,"¡Miren, demonios!",revisado,,
 12455,¡Así es un demonio DE VERDAD!,revisado,,
 12456,"¡Ja, ja, ja…!",revisado,,
-12457,Prier es la…,requiere_investigacion,«Prier is the» no conserva el sustantivo o título predicado. No completar por contexto sin cotejo.,
-12458,"Ahora que ella ha… Señor, ya no queda nada en tu corazón que te una a los humanos.",requiere_investigacion,El original «Now that she has Lord» está fusionado o incompleto; cotejar hablante y cláusula perdida.,
+12457,Prier es la…,requiere_investigacion,"«Prier is the» no conserva el sustantivo o título predicado. No completar por contexto sin cotejo. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 82312, unidades 21542. Fuente conservada: «Prier is the». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21542)
+12458,"Ahora que ella ha… Señor, ya no queda nada en tu corazón que te una a los humanos.",requiere_investigacion,"El original «Now that she has Lord» está fusionado o incompleto; cotejar hablante y cláusula perdida. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 82429, unidades 21543,21544,21545,21546,21547. Fuente conservada: «Now that she has Lord, there is no longer anything left in your heart that connects you to humans.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21543,21544,21545,21546,21547)"
 12459,¡Cae en la desesperación! ¡Invoca al ángel caído Calamity y hazte uno con él!,revisado,"Se mantiene «Calamity» como nombre propio, sin castellanizarlo arbitrariamente.",
 12460,Prier es…,revisado,,
 12461,Uuughhh…,revisado,Gemido; normalización expresiva sin cambiar contenido.,
@@ -363,13 +363,13 @@
 12482,…siguen viviendo…,revisado,,
 12483,…en este mundo…,revisado,,
 12484,"Y, por si fuera poco…",revisado,,
-12485,Prier se vio obligada a…,requiere_investigacion,El inglés termina abruptamente en «Prier was driven to» sin indicar a qué fue impulsada; cotejar unidades.,
+12485,Prier se vio obligada a…,requiere_investigacion,"El inglés termina abruptamente en «Prier was driven to» sin indicar a qué fue impulsada; cotejar unidades. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 84531, unidades 21587. Fuente conservada: «Prier was driven to». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21587)
 12486,No pude proteger…,revisado,,
 12487,…a la persona que amo… otra vez…,revisado,,
 12488,N… no…,revisado,,
 12489,Lo… siento…,revisado,,
 12490,¡¡¡Croix!!!,revisado,,
-12491,…para superar el poder del Príncipe Oscuro.,requiere_investigacion,El original solo conserva el complemento final «to eclipse the power of the Dark Prince» sin oración principal; cotejar.,
+12491,…para superar el poder del Príncipe Oscuro.,requiere_investigacion,"El original solo conserva el complemento final «to eclipse the power of the Dark Prince» sin oración principal; cotejar. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 85059, unidades 21593,21594. Fuente conservada: «to eclipse the power of the Dark Prince!». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21593,21594)"
 12492,"Me cuesta admitirlo, pero esto no era lo que esperaba…",revisado,,
 12493,¡Se suponía que tú ibas a ser el sacrificio para invocar al ángel caído Calamity!,revisado,"Se conserva Calamity como nombre propio, contrastado con el guion de La Pucelle: Tactics.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 12494,"¡Ah, Croix!",revisado,,
@@ -377,23 +377,23 @@
 12496,¡Arde hasta morir entre mis llamas!,revisado,,
 12497,¡Ni siquiera tú saldrás ileso de esto!,revisado,,
 12498,¡Jamás perdonaré…!,revisado,"La frase queda suspendida, retomada explícitamente en 12500.",
-12499,¿Cómo puede haber un poder tan inmenso… y siniestro…?,requiere_investigacion,«How can such a vast...and sinister power be...» no conserva el final de la pregunta. Propuesta provisional.,
+12499,¿Cómo puede haber un poder tan inmenso… y siniestro…?,requiere_investigacion,"«How can such a vast...and sinister power be...» no conserva el final de la pregunta. Propuesta provisional. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 85886, unidades 21610,21611,21612. Fuente conservada: «How can such a vast...and sinister power be...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21610,21611,21612)"
 12500,¡¡¡JAMÁS TE PERDONARÉ!!!,revisado,,
 12501,¡Gyaaaaaah…!,revisado,,
 12502,…no lo olvides…,revisado,La frase truncada está delimitada por puntos suspensivos en el original y se repite de forma completa como imperativo en el grupo 12504 («Do not forget...!»). Se recupera el sentido sin destinatario añadido.,corpus/12/entrada.csv (12502–12505); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21616)
 12503,¿Quién es?,revisado,,
 12504,¡No lo olvides…!,revisado,,
 12505,¡Esa voz!,revisado,,
-12506,¡Tú eres de…!,requiere_investigacion,"«You are from...!» está truncado; falta destino, procedencia o apelativo.",
+12506,¡Tú eres de…!,requiere_investigacion,"«You are from...!» está truncado; falta destino, procedencia o apelativo. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 86351, unidades 21620. Fuente conservada: «You are from...!». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21620)
 12507,¡Por fin te has dado cuenta…!,revisado,,
 12508,Tenía muchísimo miedo de lo que podría pasar si te perdía.,revisado,,
-12509,Eres la preciosa luz de mi corazón… Exacto. La luz de tu corazón que perdiste al convertirte en… Esa soy yo.,requiere_investigacion,El original concatena intervenciones con final truncado («turned into»). La identidad de las voces no está confirmada.,
+12509,Eres la preciosa luz de mi corazón… Exacto. La luz de tu corazón que perdiste al convertirte en… Esa soy yo.,requiere_investigacion,"El original concatena intervenciones con final truncado («turned into»). La identidad de las voces no está confirmada. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 86637, unidades 21627,21628,21629,21630,21631,21632. Fuente conservada: «You are the precious light in my heart, Correct. The light in your heart you lost when turning into That would be me.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21627,21628,21629,21630,21631,21632)"
 12510,Y ahora volvemos a ser uno.,revisado,,
-12511,"Igual que cuando decidiste que querías ser… de la Luz, en las cuevas de Vinaigrette.",requiere_investigacion,«you wanted of Light» no permite recuperar con certeza el título o verbo perdido. Vinaigrette se conserva como lugar.,https://gamefaqs.gamespot.com/ps2/566126-la-pucelle-tactics/faqs/82620/ragnarok-chapter-2
+12511,"Igual que cuando decidiste que querías ser… de la Luz, en las cuevas de Vinaigrette.",requiere_investigacion,"«you wanted of Light» no permite recuperar con certeza el título o verbo perdido. Vinaigrette se conserva como lugar. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 87031, unidades 21635,21636,21637,21638. Fuente conservada: «Just like when you decided you wanted of Light in the caves back at Vinaigrette.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","https://gamefaqs.gamespot.com/ps2/566126-la-pucelle-tactics/faqs/82620/ragnarok-chapter-2; data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21635,21636,21637,21638)"
 12512,¿Por eso buscaste en lo más profundo de tu corazón y me llamaste?,revisado,,
 12513,Me decías que no lo olvidara…,revisado,,
 12514,Mi voz pudo llegarte porque me estabas buscando.,revisado,,
-12515,"No es distinto de… Incluso después de que la oscuridad se apoderara de tu corazón y perdieras de vista tu verdadero yo, seguías recordándome.",requiere_investigacion,Dos oraciones fusionadas; «It is no different from» no contiene el término de comparación. Revisar segmentación.,
+12515,"No es distinto de… Incluso después de que la oscuridad se apoderara de tu corazón y perdieras de vista tu verdadero yo, seguías recordándome.",requiere_investigacion,"Dos oraciones fusionadas; «It is no different from» no contiene el término de comparación. Revisar segmentación. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 87611, unidades 21648,21649,21650,21651,21652,21653. Fuente conservada: «It is no different from Even after your heart fell into darkness and you lost sight of your true self, you still remembe…». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21648,21649,21650,21651,21652,21653)"
 12516,"Mi verdadero yo, ¿eh…?",revisado,,
 12517,¿Sabes? Antes no me había dado cuenta.,revisado,,
 12518,Ahora tengo este aspecto… Parece que tardé demasiado en darme cuenta de tu existencia.,revisado,"En 21657 «I look like this right» queda implícito «now», confirmado por la frase siguiente sobre «your current look» (12519). No se inventa cambio de interlocutor.",corpus/12/entrada.csv (12517–12519); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21657–21660)
@@ -414,7 +414,7 @@
 12533,¡Muy bien!,revisado,,
 12534,¿Estás bien…? / Hice algo terrible…,revisado,"El original separa la pregunta «Are you okay» en 21701 de «I did something so awful» en 21702–21703, seguida por la respuesta 12535. Se preservan ambas frases sin mezclarlas.",corpus/12/entrada.csv (12533–12535); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21701–21703)
 12535,Estoy perfectamente bien.,revisado,,
-12536,…de mí.,requiere_investigacion,«about me» es un complemento sin principio de frase. No se determina qué se dice sobre el personaje.,
+12536,…de mí.,requiere_investigacion,"«about me» es un complemento sin principio de frase. No se determina qué se dice sobre el personaje. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 90280, unidades 21705. Fuente conservada: «about me.». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21705)
 12537,"Pero, más importante aún…",revisado,,
 12538,¡Tenemos que purificar a esos demonios…!,revisado,Se conserva «Purificación» como acción del juego.,glosario/terminos_investigados.csv (浄化)
 12539,"Con ese, ya no debería quedar ningún demonio.",revisado,,
@@ -423,8 +423,8 @@
 12542,"Si no te hubiera dicho que te quedaba bien ser la Señora Demonio, nada de esto habría sucedido…",revisado,Se conserva título femenino y arrepentimiento de Culotte.,glosario/terminos_investigados.csv (魔王プリエ)
 12543,"¿Disculparte, Culotte…?",revisado,"La unidad 21720 conserva solo «apologize, Culotte», sin la negación de una frase afirmativa. La pregunta que repite el verbo es fiel y conecta con la admisión de culpa de Prier en 12544, sin añadir «no hace falta».",corpus/12/entrada.csv (12541–12545); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21720)
 12544,Dejé que mi debilidad se apoderara de mí.,revisado,"La flexión verbal se infiere del contexto de Prier, sin introducir consecuencias no dichas.",
-12545,Así que deja de preocuparte por… Deja de preocuparte…,requiere_investigacion,Fuente fusionada «So quit worrying about Quit worrying»; faltan complemento y posible cambio de interlocutor.,
-12546,"Hermana, ¿de verdad has comprendido lo que…? ¡Pues claro que sí!",requiere_investigacion,Dos intervenciones fusionadas y pregunta truncada. No aprobar segmentación sin cotejo.,
+12545,Así que deja de preocuparte por… Deja de preocuparte…,requiere_investigacion,"Fuente fusionada «So quit worrying about Quit worrying»; faltan complemento y posible cambio de interlocutor. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 91177, unidades 21723,21724. Fuente conservada: «So quit worrying about Quit worrying...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21723,21724)"
+12546,"Hermana, ¿de verdad has comprendido lo que…? ¡Pues claro que sí!",requiere_investigacion,"Dos intervenciones fusionadas y pregunta truncada. No aprobar segmentación sin cotejo. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 91284, unidades 21725,21726,21727. Fuente conservada: «Big sister, have you really grasped what Of course I have!». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21725,21726,21727)"
 12547,¡Solo intento ser optimista!,revisado,,
 12548,¡Eso seguro!,revisado,,
 12549,¡Esa sí es la Prier que conozco!,revisado,Prier es nombre femenino y no lleva artículo masculino.,
@@ -442,7 +442,7 @@
 12561,¡¡¡¿QUÉ ESTÁ PASANDO AQUÍ?!!!,revisado,,
 12562,¡PRIER!,revisado,"Se corrige «Fisgón», error de traducción automática del nombre.",
 12563,¿Al final te ha consumido la oscuridad…?,revisado,,
-12564,"Como padre de la…, ¡todo esto es culpa mía!",requiere_investigacion,La fuente corta «the Father of the» antes de nombrar la institución o comunidad; no completarla arbitrariamente.,
+12564,"Como padre de la…, ¡todo esto es culpa mía!",requiere_investigacion,"La fuente corta «the Father of the» antes de nombrar la institución o comunidad; no completarla arbitrariamente. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 92854, unidades 21762,21763. Fuente conservada: «This is all my fault as the Father of the». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21762,21763)"
 12565,"¡Porque yo soy Salade, el Exterminador de Demonios!",revisado,Padre Salade y su epíteto se preservan; se adapta «Demon Killer» sin género erróneo.,glosario/terminos_investigados.csv (サラド)
 12566,"¡Espere, padre!",revisado,,
 12567,"¡Puede que tenga aspecto de Señora Demonio, pero mi corazón no se ha rendido a la oscuridad!",revisado,Primera persona femenina de Prier.,glosario/terminos_investigados.csv (魔王プリエ)
@@ -457,7 +457,7 @@
 12576,"De verdad, estos dos son de lo más previsibles…",revisado,,
 12577,"Supongo que se cumple el dicho: «De tal maestro, tal discípulo».",revisado,,
 12578,"¡Aunque tengas ese aspecto, nunca has olvidado la luz de tu corazón! Justo lo que esperaba de mi alumna.",revisado,El objeto tras «the light in» se recupera como «your heart» por las repeticiones «light in your heart» de 12532 y 12558; las dos frases están diferenciadas en las unidades 21798–21802.,corpus/12/entrada.csv (12532; 12558; 12578); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21798–21802)
-12579,Y que la Diosa nos bendiga a todos.,requiere_investigacion,"«And may the Goddess all of us» omite el verbo. «Bendiga» es reconstrucción convencional, no confirmada en el original; verificar antes de aprobar.",
+12579,Y que la Diosa nos bendiga a todos.,requiere_investigacion,"«And may the Goddess all of us» omite el verbo. «Bendiga» es reconstrucción convencional, no confirmada en el original; verificar antes de aprobar. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 94780, unidades 21803,21804. Fuente conservada: «And may the Goddess all of us.». Comprobar el verbo de la bendición en el diálogo de Ragnarok: el guion PS2 paralelo usa «watch over/protect», pero no prueba cuál falta aquí.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21803,21804); https://www.neoseeker.com/la-pucelle/faqs/78770-a.html (guion PS2 paralelo, no cotejo literal)"
 12580,Un paso más y habrías sucumbido por completo a la oscuridad…,revisado,,
 12581,¡Ja!,revisado,,
 12582,¡Más les vale no subestimarme!,revisado,,
@@ -469,7 +469,7 @@
 12588,Debe de ser la llamada Santa Oscura.,revisado,"«Dark Saint» es el título de la ruta alternativa de Prier, documentado en referencias del juego; forma femenina.",https://steamcommunity.com/app/1866420/discussions/0/3314107765690722311/
 12589,Sí… Aunque creo que estoy un poco agotada…,revisado,"Concordancia femenina si habla Prier, como sugiere el reconocimiento de la Santa Oscura.",
 12590,"Si no les importa, me gustaría descansar un poco…",revisado,,
-12591,…esperaba un desenlace tan lamentable.,requiere_investigacion,"La frase inglesa empieza por «expected» sin sujeto ni negación, por lo que no se aprueba «No esperaba» de la MTL.",
+12591,…esperaba un desenlace tan lamentable.,requiere_investigacion,"La frase inglesa empieza por «expected» sin sujeto ni negación, por lo que no se aprueba «No esperaba» de la MTL. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 96227, unidades 21830,21831. Fuente conservada: «expected such a miserable outcome.». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21830,21831)"
 12592,Es una verdadera lástima.,revisado,,
 12593,¡Tú eres… Noir!,revisado,,
 12594,¿Recuerdas mi nombre? Me siento honrado.,revisado,,
@@ -481,7 +481,7 @@
 12600,¡¿Qué piensas hacer exactamente con Croix?!,revisado,,
 12601,"Si tu objetivo no es simplemente resucitar al Príncipe Oscuro, entonces… ¿acaso pretendes…?",revisado,,
 12602,¡¿Acaso pretendes invocar al ángel caído Calamity?!,revisado,Calamity es el nombre propio del ángel caído en el guion de la serie.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
-12603,…Como cabía esperar de… Tienes toda la razón.,requiere_investigacion,El original «As expected from You are absolutely correct» concatena un elogio truncado con una respuesta; confirmar la distribución.,
+12603,…Como cabía esperar de… Tienes toda la razón.,requiere_investigacion,"El original «As expected from You are absolutely correct» concatena un elogio truncado con una respuesta; confirmar la distribución. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 97586, unidades 21862,21863,21864. Fuente conservada: «...As expected from You are absolutely correct.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21862,21863,21864)"
 12604,"Sin embargo, aunque conozcas mis planes, no podrás salvar a Croix. Por mucho que lo intentes, será inútil.",revisado,El objeto perdido tras «cannot save» se deduce del propósito explícito de Prier de rescatar a Croix (12600; 12654; 12659). Las unidades 21865–21867 y 21868–21869 forman dos frases.,corpus/12/entrada.csv (12600; 12654–12659); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21865–21869)
 12605,…¡¿Eh?!,revisado,,
 12606,"Entonces, Doncella… ¡Contempla cómo desaparece toda la inmundicia de este mundo!",revisado,"Las unidades 21871–21874 dan una oración completa con vocativo «Maiden» y orden «Observe». Solo falta puntuación entre ambas partes, no información léxica.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21871–21874)
@@ -496,7 +496,7 @@
 12615,Para invocar al ángel caído Calamity hace falta una enorme cantidad de oscuridad.,revisado,,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 12616,"Así que, si seguimos la corriente de energía oscura que está concentrándose por todo el reino de Paprica…",revisado,«Visit the dark energy» es una anomalía del inglés de extracción; las unidades 21897–21901 y la réplica 12617 indican que se propone seguirla hasta donde está Croix. Se mantiene frase inconclusa por puntos suspensivos.,corpus/12/entrada.csv (12615–12617); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21897–21901)
 12617,Croix debería estar allí.,revisado,,
-12618,"O, mejor dicho, Santa… Supongo que ya lo sabes, pero con tu aspecto actual no te dejarán acercarte a esa zona.",requiere_investigacion,"Fuente fusionada «Or rather, Holy I believe...» con nombre o título cortado, posible cambio de voz. La propuesta de «Santa» es provisional.",
+12618,"O, mejor dicho, Santa… Supongo que ya lo sabes, pero con tu aspecto actual no te dejarán acercarte a esa zona.",requiere_investigacion,"Fuente fusionada «Or rather, Holy I believe...» con nombre o título cortado, posible cambio de voz. La propuesta de «Santa» es provisional. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 99460, unidades 21903,21904,21905,21906,21907,21908,21909. Fuente conservada: «Or rather, Holy I believe you already know this, but there is no way you are allowed to approach that area in your curre…». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21903,21904,21905,21906,21907,21908,21909)"
 12619,¡Déjamelo todo a mí!,revisado,,
 12620,"Parece que Noir necesita a Croix para invocar a Calamity, así que solo tengo que recuperarlo, ¿no?",revisado,,
 12621,¡Siempre podemos recuperarlo!,revisado,,
@@ -507,9 +507,9 @@
 12626,¡Priiiieeer!,revisado,Se conserva el nombre gritado; la elongación expresa urgencia.,
 12627,"Creo que, si logras unir el poder de la luz y el de la oscuridad, podrás salvar a Croix y al mundo entero.",revisado,,
 12628,"Ahora todo depende de usted, hermana Prier.",revisado,Se mantiene el tratamiento respetuoso empleado por la interlocutora.,
-12629,…a todos nosotros.,requiere_investigacion,El inglés solo ofrece «us all.»; carece del verbo y del inicio de la frase. Requiere recuperar las unidades.,
+12629,…a todos nosotros.,requiere_investigacion,"El inglés solo ofrece «us all.»; carece del verbo y del inicio de la frase. Requiere recuperar las unidades. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 101218, unidades 21937. Fuente conservada: «us all.». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21937)
 12630,¡Toma estoooo!,revisado,Grito de ataque; se sustituye el plural erróneo de la MTL.,
-12631,…¡¿atacando?!,requiere_investigacion,El inglés conserva solo «attacking!?» sin sujeto. No traducir como «agresor».,
+12631,…¡¿atacando?!,requiere_investigacion,"El inglés conserva solo «attacking!?» sin sujeto. No traducir como «agresor». | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 101418, unidades 21939. Fuente conservada: «attacking!?». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21939)
 12632,"Uf, ¡por favor…!",revisado,,
 12633,Parece que toda la energía oscura se concentra aquí. Pero ¿qué clase de lugar es este…?,revisado,,
 12634,¡Es tan enorme que ni siquiera sé dónde está la entrada!,revisado,,
@@ -560,7 +560,7 @@
 12679,¡¿Acaso esperas que perdone a toda la humanidad?!,revisado,"La frase inglesa comienza con «case», probablemente resto de una locución; el reproche es inequívoco por contexto.",
 12680,"Puedo sentirlo, Croix.",revisado,,
 12681,La oscuridad de tu corazón sigue creciendo…,revisado,,
-12682,No me llames… Yo también estuve a merced del poder de la oscuridad y acabé convertida en la Señora Demonio.,requiere_investigacion,Dos frases fusionadas: «Do not call me» carece de vocativo o complemento. La segunda es la voz femenina de Prier.,glosario/terminos_investigados.csv (魔王プリエ)
+12682,No me llames… Yo también estuve a merced del poder de la oscuridad y acabé convertida en la Señora Demonio.,requiere_investigacion,"Dos frases fusionadas: «Do not call me» carece de vocativo o complemento. La segunda es la voz femenina de Prier. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 107918, unidades 22084,22085,22086,22087,22088,22089. Fuente conservada: «Do not call me Even I was manipulated by the power of darkness at one point, resulting in me turning into the Demon Lord.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","glosario/terminos_investigados.csv (魔王プリエ); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22084,22085,22086,22087,22088,22089)"
 12683,¡Pero ahora usaré este poder para mostrarte la oscuridad que se oculta en lo más profundo de tu corazón!,revisado,,
 12684,¡Argh!,revisado,,
 12685,¡Maldita seas…!,revisado,"Insulto entrecortado «Why you little!» dirigido a Prier; no se traduce literalmente «por qué tú, pequeño».",
@@ -581,18 +581,18 @@
 12700,¡Te has librado de la oscuridad…!,revisado,,
 12701,"Sí, eso parece.",revisado,,
 12702,No puede ser…,revisado,,
-12703,Una cosa tan absurda no puede… Aunque seguramente esto sea solo temporal…,requiere_investigacion,El inglés fusiona «Something this ridiculous cannot be» y una frase de continuación posiblemente distinta; verificar voces y corte.,
+12703,Una cosa tan absurda no puede… Aunque seguramente esto sea solo temporal…,requiere_investigacion,"El inglés fusiona «Something this ridiculous cannot be» y una frase de continuación posiblemente distinta; verificar voces y corte. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 109981, unidades 22130,22131,22132,22133. Fuente conservada: «Something this ridiculous cannot be However, this is most likely only temporary...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22130,22131,22132,22133)"
 12704,Ya sabes que es cuestión de tiempo que la oscuridad vuelva a consumirme y trate de destruir a toda la humanidad.,revisado,,
 12705,"Así que, Prier…",revisado,,
 12706,"Mientras siga siendo yo mismo, deberías matarme con tus propias manos.",revisado,,
 12707,¡¡¡Eres idiota!!!,revisado,,
 12708,¡Uaaaah!,revisado,,
 12709,¡¿Qué tonterías estás diciendo?!,revisado,,
-12710,…¡para bromear!,requiere_investigacion,"Solo se conserva «to joke around!» sin la frase a la que pertenece. El contexto sugiere una reprimenda, pero no permite completarla.",
+12710,…¡para bromear!,requiere_investigacion,"Solo se conserva «to joke around!» sin la frase a la que pertenece. El contexto sugiere una reprimenda, pero no permite completarla. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 110937, unidades 22150. Fuente conservada: «to joke around!». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22150)
 12711,¡Me convertí en la Señora Demonio para salvarte! ¡No hice todo esto para matarte!,revisado,"El objeto elidido de «in order to save» es Croix, interlocutor de Prier desde 12705, reiterado en 12712–12713. Las unidades 22151–22152 y 22153–22154 forman dos frases.",corpus/12/entrada.csv (12705–12713); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22151–22154)
 12712,¡Así que sigue viviendo!,revisado,,
 12713,¡Domina la oscuridad que llevas dentro y sigue viviendo!,revisado,,
-12714,Pero he cometido pecados que jamás podré borrar como… Tengo que expiarlos…,requiere_investigacion,La expresión inglesa «as the I must atone» fusiona dos segmentos. No se recupera el título o condición mencionados.,
+12714,Pero he cometido pecados que jamás podré borrar como… Tengo que expiarlos…,requiere_investigacion,"La expresión inglesa «as the I must atone» fusiona dos segmentos. No se recupera el título o condición mencionados. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 111423, unidades 22160,22161,22162,22163,22164. Fuente conservada: «But I have committed sins that cannot be erased as the I must atone for those...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22160,22161,22162,22163,22164)"
 12715,"¡Si quieres expiar tus pecados, sigue viviendo!",revisado,,
 12716,¿Seguir viviendo…?,revisado,,
 12717,Me quedaré a tu lado…,revisado,,
@@ -655,15 +655,15 @@
 12774,¿Has recobrado el conocimiento?,revisado,,
 12775,"¡Te salvaré, pase lo que pase!",revisado,,
 12776,Hermana Prier…,revisado,«Big sister» es el tratamiento familiar de Culotte.,
-12777,Ayú…,requiere_investigacion,«Hel…» está truncado. Podría ser «Help» o «Hello»; no se fuerza una reconstrucción.,
-12778,…ocurrir…,requiere_investigacion,Fragmento «happen…!» sin sujeto ni predicado completo; reconstrucción pendiente.,
+12777,Ayú…,requiere_investigacion,"«Hel…» está truncado. Podría ser «Help» o «Hello»; no se fuerza una reconstrucción. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 117886, unidades 22297. Fuente conservada: «Hel...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22297)
+12778,…ocurrir…,requiere_investigacion,"Fragmento «happen…!» sin sujeto ni predicado completo; reconstrucción pendiente. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 117983, unidades 22298. Fuente conservada: «happen...!». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22298)
 12779,"Pero, si lo piensas bien, ¡te pega más ser la Señora Demonio que la Doncella de la Luz…!",revisado,"El final comparativo es verificable en el guion de la versión PS2, donde Culotte contrapone explícitamente Demon Lord con Maiden of Light; la premisa coincide con el japonés oficial del escenario de Prier.",corpus/12/entrada.csv (12779); https://www.neoseeker.com/la-pucelle/faqs/78770-a.html; https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
 12780,¿Prier…?,revisado,Se corrige el nombre mal traducido como «Fisgón».,
 12781,Tú eres…,revisado,,
-12782,Tú eres la…,requiere_investigacion,Predicado truncado «You are the»; la continuación no está conservada.,
+12782,Tú eres la…,requiere_investigacion,"Predicado truncado «You are the»; la continuación no está conservada. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 119023, unidades 22305. Fuente conservada: «You are the...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22305)
 12783,"Perdonadme, todos…",revisado,,
 12784,"Por favor, ¡no mueras…!",revisado,,
-12785,…la luz que hay en Prier…,requiere_investigacion,La fuente conserva solo «light inside of Prier» sin principio de frase. ,
+12785,…la luz que hay en Prier…,requiere_investigacion,"La fuente conserva solo «light inside of Prier» sin principio de frase.  | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 119262, unidades 22308. Fuente conservada: «light inside of Prier...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22308)
 12786,Te estaré esperando…,revisado,"La unidad 22309 dice «I am waiting for you,» y solo falta un posible vocativo tras la coma. En español la oración es completa sin añadir destinatario, que ya es «you».",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22309)
 12787,¡No puede ser!,revisado,,
 12788,¡¿Otra explosión…?!,revisado,,
@@ -724,7 +724,7 @@
 14722,Es mucho más eficaz que atacar de frente.,revisado,,
 14723,Tenlo presente también cuando te ataquen a ti.,revisado,,
 14724,"Para recibir menos daño, procura estar de cara al enemigo cuando ataque.",revisado,,
-14725,"Puedes cambiar la orientación de tus personajes con el comando «Cambiar orientación» o… Si estás en una posición más elevada que el enemigo, causarás más daño al atacarlo.",requiere_investigacion,Original une el final incompleto del comando con una explicación sobre altura. Cotejar unidades y nombre exacto del comando en la interfaz.,
+14725,"Puedes cambiar la orientación de tus personajes con el comando «Cambiar orientación» o… Si estás en una posición más elevada que el enemigo, causarás más daño al atacarlo.",requiere_investigacion,"Original une el final incompleto del comando con una explicación sobre altura. Cotejar unidades y nombre exacto del comando en la interfaz. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO_START/talk00.dat, offset 24210, unidades 24340,24341,24342,24343,24344,24345,24346,24347. Fuente conservada: «You can change the facing of your characters by using the Change Facing command or If you are on a higher elevation than…». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24340,24341,24342,24343,24344,24345,24346,24347)"
 14726,"Del mismo modo, si atacas desde una posición más baja, infligirás menos daño.",revisado,,
 14727,Lo mismo sucede cuando recibes ataques enemigos.,revisado,,
 14728,"En resumen, luchar desde una posición elevada siempre te dará ventaja.",revisado,,
@@ -744,7 +744,7 @@
 14742,"Una vez colocado, no puedes moverlo, pero sí cambiar su orientación con la cruceta y □.",revisado,Se conserva el símbolo □ del botón PSP y se adapta D-pad a «cruceta».,
 14743,Incluso puedes colocar un Cambio de rumbo donde haya un enemigo para obligar a la corriente a cambiar de dirección.,revisado,,glosario/terminos_investigados.csv (ムキカエール)
 14744,"Los Cambios de rumbo son muy útiles, pero desaparecen al completar el mapa de la zona. ¡Colócalos con cabeza!",revisado,,glosario/terminos_investigados.csv (ムキカエール)
-14745,"La clave para crear trampas con energía oscura es la posición y orientación de… ¡Portales oscuros, corrientes de energía y trampas! ¡Practica hasta dominarlos!",requiere_investigacion,El original fusiona una frase cortada tras «facing of» con una exhortación distinta. No se confirma el sujeto perdido.,
+14745,"La clave para crear trampas con energía oscura es la posición y orientación de… ¡Portales oscuros, corrientes de energía y trampas! ¡Practica hasta dominarlos!",requiere_investigacion,"El original fusiona una frase cortada tras «facing of» con una exhortación distinta. No se confirma el sujeto perdido. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO_START/talk00.dat, offset 27649, unidades 24414,24415,24416,24417,24418,24419. Fuente conservada: «The key to making traps with dark energy is the position and facing of Dark portals, energy and setting traps, practice …». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24414,24415,24416,24417,24418,24419)"
 14746,Vale la pena.,revisado,,
 14747,¡Pruébalo!,revisado,,
 14748,"Si purificas a un enemigo y luego lo derrotas en combate, a veces se unirá a tu equipo.",revisado,,
@@ -776,7 +776,7 @@
 14774,"Si te lanzas contra un grupo de enemigos, podrías meterte en un buen lío.",revisado,,
 14775,La clave de los ataques de apoyo está en colocar bien a tus personajes. Si ordenas a varios personajes que ataquen al mismo enemigo y luego empiezas el combate o terminas el turno…,revisado,"«Proper placement of your» exige «characters», confirmado en 24516 y 14776. Las instrucciones concatenadas están diferenciadas por unidades.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24512–24518); corpus/12/entrada.csv (14776)
 14776,…todos tus personajes atacarán al enemigo a la vez.,revisado,Continuación de la condición conservada en el grupo anterior.,
-14777,"Puede parecerse a un ataque de apoyo, pero es mucho más… Elegir uno u otro dependerá de la situación y de tu estrategia.",requiere_investigacion,Corte después de «much more» seguido de otra frase; no se inventa la ventaja concreta.,
+14777,"Puede parecerse a un ataque de apoyo, pero es mucho más… Elegir uno u otro dependerá de la situación y de tu estrategia.",requiere_investigacion,"Corte después de «much more» seguido de otra frase; no se inventa la ventaja concreta. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO_START/talk00.dat, offset 32717, unidades 24521,24522,24523,24524,24525,24526. Fuente conservada: «This may seem similar to the supporting attack, but it is much more Which you choose will depend on the situation and yo…». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24521,24522,24523,24524,24525,24526)"
 14778,"Si cuatro personajes atacan a un enemigo desde todos los lados y sitúas a otros compañeros junto a ellos, conseguirás ataques múltiples y ataques de apoyo a la vez.",revisado,,
 14779,"La próxima vez que necesites concentrar toda tu potencia de ataque contra un enemigo, ya sabrás qué hacer.",revisado,,
 14780,La Pucelle es la escuela más prestigiosa para estudiar exorcismo.,revisado,,
@@ -786,7 +786,7 @@
 14784,"Si un personaje está en el recorrido de la corriente de energía durante la purificación, puede volver a actuar.",revisado,,
 14785,Esto se llama «Re-Action de purificación».,revisado,Nombre mecánico confirmado en glosario.,glosario/terminos_investigados.csv (浄化リアクション; 大奇跡)
 14786,"Cuando se produce un Gran Milagro, todos los personajes del área afectada pueden volver a actuar.",revisado,Se mantiene el término «Gran Milagro» del glosario.,glosario/terminos_investigados.csv (浄化リアクション; 大奇跡)
-14787,Eso no tiene nada que ver con… ¡No metas las narices donde no te llaman!,requiere_investigacion,Dos intervenciones fusionadas y la primera cortada tras «to do»; revisar hablantes y unidades.,
+14787,Eso no tiene nada que ver con… ¡No metas las narices donde no te llaman!,requiere_investigacion,"Dos intervenciones fusionadas y la primera cortada tras «to do»; revisar hablantes y unidades. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO_START/talk00.dat, offset 34466, unidades 24558,24559,24560,24561. Fuente conservada: «This has nothing to do Do not go sticking your nose where it does not belong.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24558,24559,24560,24561)"
 14788,Últimamente no ha habido cambios en el Mundo Oscuro.,revisado,,
 14789,Tu compañero 『A1』 ha muerto en combate.,revisado,"Marcador de nombre 『A1』 conservado exactamente, no transformado en comillas tipográficas.",
 14790,Aquí tienes sus pertenencias.,revisado,,
@@ -799,14 +799,14 @@
 14797,Tu compañero 『A1』 no ha hecho absolutamente nada.,revisado,Se conserva el marcador de nombre.,
 14798,Seguro que te imaginas lo que hicimos…,revisado,,
 14799,…un auténtico pavo.,revisado,"La única unidad contiene «complete turkey». El grupo siguiente continúa con una broma literal sobre un pavo en un lugar lleno de hambrientos. Se conserva la frase nominal y la elipsis, sin convertirla en insulto idiomático.",corpus/12/entrada.csv (14799–14800); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id según entrada 14799)
-14800,"Hay mucha gente hambrienta en… No es un buen lugar para ser un pavo… ¡Ja, ja, ja!",requiere_investigacion,Frases fusionadas y referencia a «turkey» cuyo sentido puede depender del fragmento 14799; no completar la localización ausente.,
+14800,"Hay mucha gente hambrienta en… No es un buen lugar para ser un pavo… ¡Ja, ja, ja!",requiere_investigacion,"Frases fusionadas y referencia a «turkey» cuyo sentido puede depender del fragmento 14799; no completar la localización ausente. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO_START/talk00.dat, offset 35898, unidades 24588,24589,24590,24591. Fuente conservada: «There are a lot of hungry people in the Not a good place to be a turkey...hahaha...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24588,24589,24590,24591)"
 14801,Se ha pasado al bando enemigo.,revisado,"Original en unidad(es) 24592: falta el sujeto explícito del verbo inglés, pero el español permite la tercera persona con sujeto tácito. Se conserva tiempo, acción y referente sin inventar ni insertar 『A1』 u otro marcador dinámico. Cotejado con manifiesto técnico.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24592)
 14802,"La próxima vez, intenta enviarnos reclutas mejores…",revisado,,
 14803,"Esa persona que nos enviaste, 『A1』, parece guardarte mucho rencor. Yo también me sentiría así si me hubieran abandonado…",revisado,"«Bitter toward» pierde su complemento en 24598, pero la relación de envío/abandono y el hablante que se dirige al jugador hacen inferible «hacia ti». Se conserva la variable 『A1』 y se separan las dos frases.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24596–24601); corpus/12/entrada.csv (14802–14805)
 14804,Sigue con vida.,revisado,"Original en unidad(es) 24602: falta el sujeto explícito del verbo inglés, pero el español permite la tercera persona con sujeto tácito. Se conserva tiempo, acción y referente sin inventar ni insertar 『A1』 u otro marcador dinámico. Cotejado con manifiesto técnico.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24602)
 14805,Por ahora…,revisado,"Continuación contextual del fragmento anterior, sin añadir nada.",
-14806,…lo está haciendo bien en…,requiere_investigacion,"Original incompleto «is doing well in the», faltan sujeto y complemento.",
-14807,…lo está haciendo estupendamente en… Mi amo está muy impresionado con los dos. Gracias.,requiere_investigacion,Se fusionan frases y falta el complemento de «in»; cotejar hablantes y nombres dinámicos.,
+14806,…lo está haciendo bien en…,requiere_investigacion,"Original incompleto «is doing well in the», faltan sujeto y complemento. | Auditoría de unidades 2026-11-14: variable o complemento ausente; ISO_START/talk00.dat, offset 36711, unidades 24604. Fuente conservada: «is doing well in the». Reextraer complemento o fragmento con variable; no asignar a ciegas nombre, cargo ni destinatario.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24604)
+14807,…lo está haciendo estupendamente en… Mi amo está muy impresionado con los dos. Gracias.,requiere_investigacion,"Se fusionan frases y falta el complemento de «in»; cotejar hablantes y nombres dinámicos. | Auditoría de unidades 2026-11-14: variable o complemento ausente; ISO_START/talk00.dat, offset 36818, unidades 24605,24606,24607,24608. Fuente conservada: «is doing very well in My master is well impressed with both of us. Thank you.». Reextraer complemento o fragmento con variable; no asignar a ciegas nombre, cargo ni destinatario.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24605,24606,24607,24608)"
 14808,Cada vez se hace más fuerte.,revisado,"Original en unidad(es) 24609–24610: falta el sujeto explícito del verbo inglés, pero el español permite la tercera persona con sujeto tácito. Se conserva tiempo, acción y referente sin inventar ni insertar 『A1』 u otro marcador dinámico. Cotejado con manifiesto técnico.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24609–24610)
 14809,Mi amo está bastante impresionado.,revisado,,
 14810,Está entrenando duro para la próxima batalla.,revisado,"Original en unidad(es) 24613–24614: falta el sujeto explícito del verbo inglés, pero el español permite la tercera persona con sujeto tácito. Se conserva tiempo, acción y referente sin inventar ni insertar 『A1』 u otro marcador dinámico. Cotejado con manifiesto técnico.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24613–24614)
@@ -826,9 +826,9 @@
 14824,"Je, je, je.",revisado,,
 14825,He oído que tu amigo 『A1』 tiene pareja.,revisado,«Sweetheart» no obliga a asignar novia ni género a la pareja; variable conservada.,
 14826,Acaba de casarse.,revisado,"Original en unidad(es) 24643: falta el sujeto explícito del verbo inglés, pero el español permite la tercera persona con sujeto tácito. Se conserva tiempo, acción y referente sin inventar ni insertar 『A1』 u otro marcador dinámico. Cotejado con manifiesto técnico.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24643)
-14827,Tu amigo 『A1』 pasa toda la noche fuera con… ¿Lo entrenaste de alguna manera?,requiere_investigacion,Fusión de frases con corte tras «with» y posible cambio de voz; marcador conservado.,
+14827,Tu amigo 『A1』 pasa toda la noche fuera con… ¿Lo entrenaste de alguna manera?,requiere_investigacion,"Fusión de frases con corte tras «with» y posible cambio de voz; marcador conservado. | Auditoría de unidades 2026-11-14: variable o complemento ausente; ISO_START/talk00.dat, offset 38736, unidades 24644,24645,24646,24647. Fuente conservada: «Your friend 『A1』 just stays out all night with Did you do any kind of training?». Reextraer complemento o fragmento con variable; no asignar a ciegas nombre, cargo ni destinatario.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24644,24645,24646,24647)"
 14828,Se ha quedado a cargo de la lavandería.,revisado,"Original en unidad(es) 24648–24649: falta el sujeto explícito del verbo inglés, pero el español permite la tercera persona con sujeto tácito. Se conserva tiempo, acción y referente sin inventar ni insertar 『A1』 u otro marcador dinámico. Cotejado con manifiesto técnico.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24648–24649)
-14829,Mi amo cree que tu amigo 『A1』 es uno de los principales candidatos a demonio… Últimamente tu amigo 『A1』 no ha cambiado mucho.,requiere_investigacion,Se corta la primera frase tras «demon» y parece fusionada con la segunda; cotejar.,
+14829,Mi amo cree que tu amigo 『A1』 es uno de los principales candidatos a demonio… Últimamente tu amigo 『A1』 no ha cambiado mucho.,requiere_investigacion,"Se corta la primera frase tras «demon» y parece fusionada con la segunda; cotejar. | Auditoría de unidades 2026-11-14: variable o complemento ausente; ISO_START/talk00.dat, offset 39041, unidades 24650,24651,24652,24653,24654,24655,24656. Fuente conservada: «My master thinks that your friend 『A1』 is one of the leading candidates for demon Nothing much has changed with your fri…». Reextraer complemento o fragmento con variable; no asignar a ciegas nombre, cargo ni destinatario.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24650,24651,24652,24653,24654,24655,24656)"
 14830,Acaba de derrotar a un general enemigo.,revisado,"Original en unidad(es) 24657–24658: falta el sujeto explícito del verbo inglés, pero el español permite la tercera persona con sujeto tácito. Se conserva tiempo, acción y referente sin inventar ni insertar 『A1』 u otro marcador dinámico. Cotejado con manifiesto técnico.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24657–24658)
 14831,Mi amo está encantadísimo.,revisado,,
 14832,Acepta esto como muestra de nuestro agradecimiento.,revisado,,
@@ -867,7 +867,7 @@
 14865,"Cuanto mayor sea el Índice de energía oscura de un mapa, más poderoso será el demonio que aparezca…",revisado,,
 14866,"El Mundo Oscuro podría costarte la vida, pero si de verdad quieres ser un guerrero, vale la pena arriesgarse.",revisado,,
 14867,Gracias por venir.,revisado,,
-14868,"Soy un explorador al servicio de… Allí llevan diez mil años en guerra, y el equilibrio de poder cambia a diario.",requiere_investigacion,El original corta «I am a scout for the» y fusiona otra oración; no se identifica a quien sirve.,
+14868,"Soy un explorador al servicio de… Allí llevan diez mil años en guerra, y el equilibrio de poder cambia a diario.",requiere_investigacion,"El original corta «I am a scout for the» y fusiona otra oración; no se identifica a quien sirve. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO_START/talk00.dat, offset 45176, unidades 24784,24785,24786,24787,24788. Fuente conservada: «I am a scout for the There has been constant war there for 10,000 years, and the balance of power changes daily.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24784,24785,24786,24787,24788)"
 14869,"En el Mundo Oscuro hay unos dos mil señores demonio, pero mi amo es uno de los más poderosos.",revisado,"«demon lords» se usa como categoría plural, diferenciada del título individual femenino de Prier.",
 14870,Estoy aquí buscando luchadores de talento.,revisado,,
 14871,"Si conoces a alguno, preséntamelo.",revisado,,
@@ -920,9 +920,9 @@
 14918,¡Has conseguido algo increíble!,revisado,,
 14919,Aquí tienes una pequeña recompensa por tu esfuerzo.,revisado,,
 14920,"Has obtenido Warp Engine, Robo Suit y Light Year.",revisado,"Son nombres de tres objetos. Se conservan tal como aparecen en el original inglés, sin traducirlos como sustantivos comunes.",https://gamefaqs.gamespot.com/ps2/566126-la-pucelle-tactics/faqs/82620/items-and-equipment
-14921,…esfuerzos.,requiere_investigacion,«efforts» es un fragmento aislado sin contexto sintáctico suficiente.,
+14921,…esfuerzos.,requiere_investigacion,"«efforts» es un fragmento aislado sin contexto sintáctico suficiente. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO_START/talk00.dat, offset 51697, unidades 24911. Fuente conservada: «efforts.». Recuperar el comienzo de la frase que termina en «efforts»; no basta con traducir el sustantivo aislado.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24911)
 14922,¡Tu hazaña será recordada durante generaciones!,revisado,,
-14923,"Estoy haciendo un registro de todos los objetos encontrados en… Si encuentras alguno, deja que lo anote.",requiere_investigacion,Frase inicial truncada después de «found in» y fusionada con otra; falta ubicación o ámbito.,
+14923,"Estoy haciendo un registro de todos los objetos encontrados en… Si encuentras alguno, deja que lo anote.",requiere_investigacion,"Frase inicial truncada después de «found in» y fusionada con otra; falta ubicación o ámbito. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO_START/talk00.dat, offset 51820, unidades 24914,24915,24916,24917,24918. Fuente conservada: «I am collecting a record of all items found in If you find anything, let me make a record of it.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 24914,24915,24916,24917,24918)"
 14924,Añadiré toda la información a mi colección.,revisado,,
 14925,"Si me ayudas, te daré una sorpresa.",revisado,,
 14926,No te preocupes si te deshaces de algún objeto: lo seguiré teniendo registrado.,revisado,,
@@ -978,7 +978,7 @@
 14976,"¡Doncella de la Luz, vuelve al lugar de donde viniste!",revisado,,
 14977,Mmm… Por fin un rival digno de nosotros.,revisado,,
 14978,¡Voy a disfrutar de este combate…!,revisado,"«I am going to enjoy» queda suspendido, pero la frase inmediatamente anterior expresa alegría por encontrar un rival digno de luchar. Se recupera el objeto explícito «combate» y se conserva el efecto de anticipación.",corpus/12/entrada.csv (14977–14979); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (25029)
-14979,…señor…,requiere_investigacion,«lord…» aislado carece de contexto suficiente para precisar si es título o parte de un nombre. «Caballero» de la MTL no se justifica.,
+14979,…señor…,requiere_investigacion,"«lord…» aislado carece de contexto suficiente para precisar si es título o parte de un nombre. «Caballero» de la MTL no se justifica. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO_START/talk00.dat, offset 60511, unidades 25030. Fuente conservada: «lord...». Identificar el título o comienzo del vocativo que termina en «lord…»; el texto solo no identifica referente.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 25030)
 14980,"¡No puedo dejar que gane! ¡Al fin y al cabo, emprendí este viaje para superar mis propias debilidades!",revisado,Las dos cláusulas del original tienen sujeto en primera persona y forman una justificación coherente. Se restituye la puntuación entre «win» y «After all» sin atribuir contenido nuevo.,corpus/12/entrada.csv (14979–14981)
 14981,¿De verdad tenemos que luchar contra esa cosa?,revisado,,
 14982,¡¡¡Es enorme!!!,revisado,,
