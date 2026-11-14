@@ -249,7 +249,7 @@
 1627,Superimpresionante,revisado,"超すごい: muy impresionante, registro intensificador lúdico.",
 1628,Calidad suprema,revisado,"最高級: de la más alta categoría, sin redundar con descripción.",
 1629,De la máxima calidad.,revisado,最高級の: adjetivo de primerísima calidad.,
-1630,,requiere_investigacion,"ORIGINAL ININTELIGIBLE «ェD» (grupo 1630, DLC_00/ritem.dat, offset 7552, idioma mixto_ja_lat). La misma secuencia figura en entrada.csv, el maestro y el TXT de referencia; no es una ambigüedad resoluble por contexto. El ZIP y repositorio de localización no incluyen el binario DLC_00/ritem.dat: no es posible cotejar los bytes CP932 ni los delimitadores. No traducir, no aprobar ni reinsertar; la coordinación técnica debe inspeccionar el recurso original cerca de los offsets 7552–7556 y determinar si es control o extracción dañada.",
+1630,,requiere_investigacion,"VERIFICADO CON EVIDENCIA BINARIA (14-11-2026): DLC_00/ritem.dat en offset 7552 contiene 20 AA 44; el siguiente texto comienza en offset 7556 (奇跡の en DLC; Miracle en juego base). La misma firma 20 AA 44 se repite en los cinco paquetes. ェD es falso positivo del extractor, NO es texto traducible; excluir de reinserción y conservar bytes originales. Grupos 534 y 1562 están revisados por separado. Decisión documentada en data/control/EXCLUSIONES_TECNICAS_VERIFICADAS.md.",https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/blob/main/data/control/EXCLUSIONES_TECNICAS_VERIFICADAS.md
 1631,Milagroso,revisado,"奇跡の: cualidad de un objeto vinculado a un milagro, no el sustantivo aislado.",
 1632,Obra milagros.,revisado,奇跡をおこす es afirmativo; la interrogación en el borrador no procede.,
 1633,El mejor de Japón,revisado,日本一 significa el número uno en Japón; no «divino».,
