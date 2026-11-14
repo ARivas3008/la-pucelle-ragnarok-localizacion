@@ -24,47 +24,47 @@
 1369,Sexy,revisado,Se mantiene el tono de extranjerismo de セクシー.,
 1370,De leyenda,revisado,"伝説の es modificador nominal: «de leyenda», no el sustantivo «leyenda» aislado.",
 1371,Monstruo espacial,revisado,宇宙怪獣 es una criatura monstruosa espacial; «alienígena» pierde la categoría 怪獣.,
-1372,,requiere_investigacion,"チック es un sufijo de semejanza (-esco, «al estilo de»), no «pollito». Necesita comprobarse cómo se concatena con el elemento anterior para mantener el orden español.",https://kotobank.jp/word/%E3%81%A1%E3%81%A4%E3%81%8F-3158957
-1373,,requiere_investigacion,"でなきゃ expresa «si no es ...» o exigencia contextual, pero el fragmento aislado no permite saber el sujeto ni la composición del generador de nombres.",
+1372,,requiere_investigacion,"チック es un sufijo de semejanza (-esco, «al estilo de»), no «pollito». Necesita comprobarse cómo se concatena con el elemento anterior para mantener el orden español. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14209: «Chick»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14209
+1373,,requiere_investigacion,"でなきゃ expresa «si no es ...» o exigencia contextual, pero el fragmento aislado no permite saber el sujeto ni la composición del generador de nombres. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14210: «Out of»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14210
 1374,También vale,revisado,"でもいい expresa admisión o aceptación de una opción, no solo «bueno»; comprobar el orden al combinar.",
-1375,,requiere_investigacion,"なんて tiene valor citativo, exclamativo o de desprecio según construcción; «asco» no es una traducción justificada sin frase completa.",
+1375,,requiere_investigacion,"なんて tiene valor citativo, exclamativo o de desprecio según construcción; «asco» no es una traducción justificada sin frase completa. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14212: «Digust»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14212
 1376,También es una opción,revisado,もあり expresa que algo también puede considerarse válido; «es» estaba incompleto.,
-1377,,requiere_investigacion,は嫌い? significa «¿no te gusta X?» con el tema ANTES de la pregunta; se necesita comprobar el patrón de concatenación para no invertir sujeto/complemento.,
-1378,,requiere_investigacion,スコピル no se identifica de forma fiable como «pimienta». Podría ser nombre propio o dato del generador; cotejar captura y bytes antes de fijar transliteración.,
-1379,,requiere_investigacion,"ですら equivale a «incluso/hasta X», pero su posición pospuesta en japonés exige reordenar los fragmentos en español.",
-1380,,requiere_investigacion,なのに puede significar «pese a que» o «y aun así»; no equivale automáticamente a «aún». Se necesita contexto sintáctico.,
-1381,,requiere_investigacion,"でもない suele negar una etiqueta («ni siquiera es X», «tampoco es X»), no «pero no» de forma general; verificar construcción.",
-1382,,requiere_investigacion,らしく es un modificador del tipo «como X» o «al estilo de X»; «parece» modifica el significado y exige saber su encaje.,
+1377,,requiere_investigacion,は嫌い? significa «¿no te gusta X?» con el tema ANTES de la pregunta; se necesita comprobar el patrón de concatenación para no invertir sujeto/complemento. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14214: «Hate»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14214
+1378,,requiere_investigacion,スコピル no se identifica de forma fiable como «pimienta». Podría ser nombre propio o dato del generador; cotejar captura y bytes antes de fijar transliteración. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14215: «Pepper»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14215
+1379,,requiere_investigacion,"ですら equivale a «incluso/hasta X», pero su posición pospuesta en japonés exige reordenar los fragmentos en español. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14216: «Even as»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14216
+1380,,requiere_investigacion,なのに puede significar «pese a que» o «y aun así»; no equivale automáticamente a «aún». Se necesita contexto sintáctico. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14217: «Yet»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14217
+1381,,requiere_investigacion,"でもない suele negar una etiqueta («ni siquiera es X», «tampoco es X»), no «pero no» de forma general; verificar construcción. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14218: «But not»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14218
+1382,,requiere_investigacion,らしく es un modificador del tipo «como X» o «al estilo de X»; «parece» modifica el significado y exige saber su encaje. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14219: «Seems»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14219
 1383,Miso,revisado,"Cotejo directo de みそ, condimento japonés.",
 1384,"Jaf, jaf…",revisado,ハァハァ es jadeo onomatopéyico repetido; no tiene relación con «nuclear».,
-1385,,requiere_investigacion,ってなに significa «¿qué es X?» al cerrar una expresión; «bomba» es inventado. Hace falta determinar cómo enlazar el prefijo en español.,
+1385,,requiere_investigacion,ってなに significa «¿qué es X?» al cerrar una expresión; «bomba» es inventado. Hace falta determinar cómo enlazar el prefijo en español. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14222: «Bomb»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14222
 1386,Nada más,revisado,ばっかり es coloquial y restrictivo («X nada más»); se usa una terminación que puede suceder a un nombre.,
 1387,¿Y qué tal?,revisado,はどうよ? propone o pide opinión sobre el elemento mencionado; se adopta la pregunta coloquial.,
 1388,29 años,revisado,Cotejo de 29歳: numeral y clasificador de edad sin otras marcas.,
-1389,,requiere_investigacion,のくせに añade reproche («y eso que es X» o «a pesar de ser X»); «el hábito» proviene de leer くせ aisladamente y es falso. Necesita estructura completa.,
-1390,,requiere_investigacion,でいこう equivale a «vamos con X»; el orden de elementos del generador puede impedir traducirlo fielmente como sufijo independiente.,
-1391,,requiere_investigacion,にしよう es «elijamos X» o «que sea X»; «pruébalo» carece de base. Se necesita contexto de composición.,
+1389,,requiere_investigacion,のくせに añade reproche («y eso que es X» o «a pesar de ser X»); «el hábito» proviene de leer くせ aisladamente y es falso. Necesita estructura completa. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14225: «The habit»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14225
+1390,,requiere_investigacion,でいこう equivale a «vamos con X»; el orden de elementos del generador puede impedir traducirlo fielmente como sufijo independiente. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14226: «Take it»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14226
+1391,,requiere_investigacion,にしよう es «elijamos X» o «que sea X»; «pruébalo» carece de base. Se necesita contexto de composición. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14227: «Try it»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14227
 1392,De elaboración tradicional,revisado,"本仕込み alude a elaboración auténtica, cuidadosa o tradicional; «cargado» no corresponde al sentido.",https://www.pref.kyoto.jp/rinmu/1226492926592.html
-1393,,requiere_investigacion,"だって puede ser «porque», cita o partícula enfática, según entorno; sin frase completa no es fiable aprobar una única lectura.",
+1393,,requiere_investigacion,"だって puede ser «porque», cita o partícula enfática, según entorno; sin frase completa no es fiable aprobar una única lectura. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14229: «Because»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14229
 1394,Modo,revisado,"Cotejo directo de モード, préstamo del inglés mode.",
 1395,Estación,revisado,Cotejo directo del sustantivo 駅.,
 1396,Aeropuerto,revisado,Cotejo directo del sustantivo 空港.,
-1397,,requiere_investigacion,はもういい es «ya basta de X»; requiere colocar X detrás de «de» y verificar cómo concatena el generador.,
-1398,,requiere_investigacion,ってこと remata una cita o conclusión («eso significa X»); su función depende del elemento anterior.,
-1399,,requiere_investigacion,らしい puede significar «parece X» o «propio de X»; exige ver la composición final.,
-1400,,requiere_investigacion,のつもり indica «creerse X» o «tener intención de X»; no se puede fijar sin antecedente.,
+1397,,requiere_investigacion,はもういい es «ya basta de X»; requiere colocar X detrás de «de» y verificar cómo concatena el generador. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14233: «Enough»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14233
+1398,,requiere_investigacion,ってこと remata una cita o conclusión («eso significa X»); su función depende del elemento anterior. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14234: «Mean»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14234
+1399,,requiere_investigacion,らしい puede significar «parece X» o «propio de X»; exige ver la composición final. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14235: «Appear»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14235
+1400,,requiere_investigacion,のつもり indica «creerse X» o «tener intención de X»; no se puede fijar sin antecedente. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14236: «Bad»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14236
 1401,Depósito,revisado,置き場 es un lugar destinado a guardar algo; «patio» no está justificado.,
 1402,Semanas,revisado,週間 es una unidad de periodo semanal; «semana» de la MTL no aclara su empleo como componente.,
 1403,Meses,revisado,月間 señala una duración en meses y no «mes» como fecha de calendario.,
-1404,,requiere_investigacion,"なんですよ aporta explicación con tono cortés; «es lo que» omite información, depende de frase.",
-1405,,requiere_investigacion,ごっこ es sufijo para juego de imitación («jugar a X»); requiere inversión de orden en español.,https://kotobank.jp/word/%E3%81%94%E3%81%A4%E3%81%93-3210787
-1406,,requiere_investigacion,だってば es una insistencia («¡que te digo que...!»); faltan lo afirmado y el tono de la combinación.,
+1404,,requiere_investigacion,"なんですよ aporta explicación con tono cortés; «es lo que» omite información, depende de frase. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14240: «It is what»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14240
+1405,,requiere_investigacion,ごっこ es sufijo para juego de imitación («jugar a X»); requiere inversión de orden en español. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14241: «Come»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14241
+1406,,requiere_investigacion,だってば es una insistencia («¡que te digo que...!»); faltan lo afirmado y el tono de la combinación. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14242: «Even if»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14242
 1407,¡No te lo perdono!,revisado,ゆるさん es negación coloquial enérgica de 許す; no significa «flojo».,
-1408,,requiere_investigacion,でごめん equivale a «perdón por X»; el sintagma X va antes en japonés y después en español.,
+1408,,requiere_investigacion,でごめん equivale a «perdón por X»; el sintagma X va antes en japonés y después en español. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14244: «Sorry»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14244
 1409,De imitación,revisado,"もどき significa sucedáneo o falsa imitación de algo, no «burla» en general.",
 1410,Estofado,revisado,煮込み designa un plato cocinado a fuego lento; se concreta la técnica de «guiso».,
-1411,,requiere_investigacion,"まっしぐら describe dirigirse de cabeza hacia X, no siempre velocidad literal; requiere referente.",
-1412,,requiere_investigacion,"も真っ青 es hipérbole «hasta X palidecería», no color azul; requiere término comparado.",https://www.japandict.com/%E7%9C%9F%E3%81%A3%E9%9D%92
+1411,,requiere_investigacion,"まっしぐら describe dirigirse de cabeza hacia X, no siempre velocidad literal; requiere referente. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14247: «Full tilt»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14247
+1412,,requiere_investigacion,"も真っ青 es hipérbole «hasta X palidecería», no color azul; requiere término comparado. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14248: «Deep Blue»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14248
 1413,Garra,revisado,"根性 expresa tenacidad o espíritu combativo, no naturaleza genérica.",
 1414,Patada,revisado,"キック es kick, un golpe con el pie; traducción contextual cotejada.",
 1415,Superexpreso,revisado,"超特急 denota tren superexpreso o velocidad extraordinaria, no solo «súper».",
@@ -84,15 +84,15 @@
 1429,Una vez más,revisado,"もう一回 pide repetición, no «uno más» como cantidad de objetos.",
 1430,Por fuera,revisado,見た目は presenta el aspecto externo como tema; «parece» no conserva la oposición.,
 1431,Desde luego,revisado,いかにも funciona como afirmación enfática; depende del contexto de concatenación.,
-1432,,requiere_investigacion,"どうしても puede ser «a toda costa» o «por más que», según sintaxis; falta contexto fiable.",
+1432,,requiere_investigacion,"どうしても puede ser «a toda costa» o «por más que», según sintaxis; falta contexto fiable. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14267: «Surely»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14267
 1433,Final,revisado,最後の es modificador «último/final»; se evita asignar género a un nombre todavía desconocido.,
-1434,,requiere_investigacion,始まりは introduce como tema «el comienzo...»; la traducción precisa requiere predicado siguiente.,
+1434,,requiere_investigacion,始まりは introduce como tema «el comienzo...»; la traducción precisa requiere predicado siguiente. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14269: «Last»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14269
 1435,De vez en cuando,revisado,たまには expresa frecuencia ocasional y no «una vez» concreta.,
 1436,Eso también,revisado,それも incluye un referente con la partícula inclusiva も.,
 1437,Enseguida,revisado,すぐに indica inmediatez; confirmado.,
 1438,¡Ah!,revisado,あっ es interjección de sorpresa; «allí» no corresponde.,
 1439,Y entonces,revisado,そして enlaza una continuación narrativa.,
-1440,,requiere_investigacion,"やっぱり oscila entre «como esperaba», «después de todo» y reafirmación; se requiere frase final.",
+1440,,requiere_investigacion,"やっぱり oscila entre «como esperaba», «después de todo» y reafirmación; se requiere frase final. No hay correspondencia inglesa verificable por desplazamiento para este fragmento.",Cotejo interno: corpus/02/entrada.csv
 1441,Mañana también,revisado,"明日も contiene «mañana» + inclusión も, omitida en MTL.",
 1442,Desde hoy,revisado,"今日から indica punto inicial en el día actual, no solo «hoy».",
 1443,Insolente,revisado,生意気な significa descarado o impertinente; «ayer» es un error de lectura.,
@@ -102,8 +102,8 @@
 1447,Si te fijas bien,revisado,良く見ると equivale a observar con detenimiento; «fíjate» imperativo perdía la condición.,
 1448,También aquí,revisado,"ここでも lleva でも («también incluso aquí»), no idea de repetición.",
 1449,Una vez más,revisado,"またしても significa que algo vuelve a suceder, a menudo contra lo esperado.",
-1450,,requiere_investigacion,私こそは enfatiza «soy precisamente yo quien...»; necesita predicado y orden de composición.,
-1451,,requiere_investigacion,"ぼくと puede ser «conmigo» o «yo y X», según la construcción posterior; no hay contexto para fijar.",
+1450,,requiere_investigacion,私こそは enfatiza «soy precisamente yo quien...»; necesita predicado y orden de composición. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14283: «What I»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14283
+1451,,requiere_investigacion,"ぼくと puede ser «conmigo» o «yo y X», según la construcción posterior; no hay contexto para fijar. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14284: «And I»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14284
 1452,A veces,revisado,"ある時は indica «en ocasiones» o «a veces», no un simple «cuando».",
 1453,Bastante,revisado,けっこう intensifica una cualidad; «bastante bien» añade una valoración ausente.,
 1454,De camino a casa,revisado,帰り道に significa en el trayecto de regreso; «a casa» suprimía la circunstancia.,
@@ -136,7 +136,7 @@
 14038,#2,revisado,Marcador numérico literal de nombre generado; se conserva # para proteger su formato.,
 14039,Jefe,revisado,Boss como título de autoridad; confirmado.,
 14040,Capitán,revisado,Captain indica rango o mando; traducción nominal confirmada.,
-14041,,requiere_investigacion,"Head puede ser «jefe/director», «cabeza» o «principal»; sin combinaciones reales, el cargo no es inequívoco.",
+14041,Jefe,revisado,"Cotejo contextual de la misma lista: Boss, Captain, Head, Master, Pres. y Chief son títulos o cargos; como título de mando, Head se traduce «Jefe». No confundir con cabeza anatómica sin este entorno.",Cotejo interno: corpus/02/entrada.csv grupos 14039–14044
 14042,Maestro,revisado,"Master como título de experiencia o autoridad; se elige maestro, no un verbo.",
 14043,Pres.,revisado,Pres es abreviación inglesa de president; abreviatura española breve equivalente a presidente.,
 14044,Jefe,revisado,Chief como título de mando o responsable; se mantiene el sentido jerárquico.,
@@ -157,7 +157,7 @@
 14059,Tte. general,revisado,Lt General corresponde a teniente general; se normaliza la abreviatura.,
 14060,Oficial,revisado,Officer como rango o cargo militar en esta serie; confirmado.,
 14061,Majestad,revisado,Sire es fórmula para dirigirse a un soberano; «señor» suprimía la distinción real.,
-14062,,requiere_investigacion,"Ma puede ser abreviatura de madre, señora, título o nombre; sin concatenación no se justifica traducirlo.",
+14062,,requiere_investigacion,"Ma puede ser abreviatura de madre, señora, título o nombre; sin concatenación no se justifica traducirlo. Cotejo de la secuencia «Sire» / «Ma» / «Highness»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
 14063,Alteza,revisado,Highness es tratamiento real; confirmado.,
 14064,Caballero,revisado,"Knight designa título de caballería, no jinete genérico; confirmado.",
 14065,Princesa,revisado,Princess es el título femenino de prince; confirmado.,
@@ -177,7 +177,7 @@
 14079,Policía,revisado,Police como cuerpo policial; confirmado.,
 14080,Arroz,revisado,Rice refiere al alimento; confirmado.,
 14081,Frito,revisado,Fried se refiere a preparación frita; se conserva género masculino genérico.,
-14082,,requiere_investigacion,"Set puede ser conjunto, juego o menú combinado; la proximidad de Lunch no confirma si forman una unidad.",
+14082,,requiere_investigacion,"Set puede ser conjunto, juego o menú combinado; la proximidad de Lunch no confirma si forman una unidad. Cotejo de la secuencia «Fried» / «Set» / «Lunch»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
 14083,Almuerzo,revisado,Lunch es la comida del mediodía; confirmado.,
 14084,Cena,revisado,Dinner es la comida de la noche; confirmado.,
 14085,Sabor,revisado,Flavor es el sabor o carácter gustativo; confirmado.,
@@ -187,26 +187,26 @@
 14089,Sollozo,revisado,Sob como sustantivo de llanto; no se deja en inglés.,
 14090,Risa,revisado,Laugh como sustantivo en grupo de expresiones vocales; confirmado.,
 14091,Risita,revisado,"Giggle designa risa contenida o nerviosa, más específica que Laugh.",
-14092,,requiere_investigacion,Tzu puede ser sílaba romanizada de origen chino u otro nombre; no hay prueba de la referencia en este recurso.,
-14093,,requiere_investigacion,Such? no constituye una pregunta inglesa completa sin referente; «¿Así?» es solo una hipótesis.,
+14092,,requiere_investigacion,"Tzu puede ser sílaba romanizada de origen chino u otro nombre; no hay prueba de la referencia en este recurso. Cotejo de la secuencia «Giggle» / «Tzu» / «Such?»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
+14093,,requiere_investigacion,"Such? no constituye una pregunta inglesa completa sin referente; «¿Así?» es solo una hipótesis. Cotejo de la secuencia «Tzu» / «Such?» / «Duck!»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
 14094,¡Agáchate!,revisado,Duck! con exclamación se interpreta como advertencia para bajar la cabeza; no como el animal pato.,
-14095,,requiere_investigacion,Must es auxiliar de obligación y requiere sujeto y verbo; no se puede fijar «debe» frente a «debes».,
-14096,,requiere_investigacion,"Was exige precisar sujeto, tiempo y aspecto en español (era/fue/estaba); la MTL «fue» no basta.",
+14095,,requiere_investigacion,"Must es auxiliar de obligación y requiere sujeto y verbo; no se puede fijar «debe» frente a «debes». Cotejo de la secuencia «Duck!» / «Must» / «Was»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
+14096,,requiere_investigacion,"Was exige precisar sujeto, tiempo y aspecto en español (era/fue/estaba); la MTL «fue» no basta. Cotejo de la secuencia «Must» / «Was» / «Is»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
 14097,Es,revisado,Is es forma singular del presente de to be; «Is» en inglés no se integra en español.,
 14098,Convertirse en,revisado,Become expresa transformación de estado; se conserva la construcción con «en».,
-14099,,requiere_investigacion,"Was not puede ser «no era», «no fue» o «no estaba»; el original no aclara sujeto ni aspecto.",
-14100,,requiere_investigacion,Wonder puede ser «maravilla» o «preguntarse» según clase de palabra; no se elige arbitrariamente.,
+14099,,requiere_investigacion,"Was not puede ser «no era», «no fue» o «no estaba»; el original no aclara sujeto ni aspecto. Cotejo de la secuencia «Become» / «Was not» / «Wonder»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
+14100,,requiere_investigacion,"Wonder puede ser «maravilla» o «preguntarse» según clase de palabra; no se elige arbitrariamente. Cotejo de la secuencia «Was not» / «Wonder» / «About»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
 14101,Acerca de,revisado,"About como preposición temática, diferente de «aproximadamente»; se adopta la lectura habitual.",
-14102,,requiere_investigacion,Where puede funcionar como pregunta «¿dónde?» o relativo «donde»; sin sintaxis no aprobar.,
+14102,,requiere_investigacion,"Where puede funcionar como pregunta «¿dónde?» o relativo «donde»; sin sintaxis no aprobar. Cotejo de la secuencia «About» / «Where» / «What»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
 14103,Qué,revisado,What se vierte como pronombre interrogativo «qué» en lectura nominal; falta comprobar la puntuación al concatenar.,
 14104,Tengo,revisado,I Have es una afirmación en primera persona; «Tengo» conserva el sujeto implícito español y exige objeto al concatenar.,
-14105,,requiere_investigacion,Ni es una sílaba o partícula romanizada y no hay base para atribuirle la conjunción española «ni»; cotejar patrón de nombres y recurso.,
-14106,,requiere_investigacion,"Out to be no forma una expresión inglesa normativa; podría ser errata de ought to be, pero no se corrige por conjetura.",
+14105,,requiere_investigacion,"Ni es una sílaba o partícula romanizada y no hay base para atribuirle la conjunción española «ni»; cotejar patrón de nombres y recurso. Cotejo de la secuencia «I Have» / «Ni» / «Out to be»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
+14106,,requiere_investigacion,"Out to be no forma una expresión inglesa normativa; podría ser errata de ought to be, pero no se corrige por conjetura. Cotejo de la secuencia «Ni» / «Out to be» / «WTF»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
 14107,¡¿Qué demonios?!,revisado,WTF es exclamación vulgar de sorpresa; adaptación coloquial sin calco de las siglas inglesas.,
 14108,Parece,revisado,It looks es comienzo elíptico de una impresión visual; «Parece» requiere completar el predicado en la combinación.,
 14109,¿Eh?,revisado,Huh es interjección de desconcierto o petición de aclaración; signos completos en español.,
 14110,Emite,revisado,Emits es tercera persona singular de emit; se conserva el verbo presente.,
-14111,,requiere_investigacion,Jan puede ser nombre propio o abreviatura inglesa de January; necesita identificación del generador antes de fijar «Jan» o «ene.».,
+14111,,requiere_investigacion,"Jan puede ser nombre propio o abreviatura inglesa de January; necesita identificación del generador antes de fijar «Jan» o «ene.». Cotejo de la secuencia «Emits» / «Jan» / «Dagi»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
 14112,,requiere_investigacion,Dagi no tiene lectura léxica inglesa fiable; posible nombre o cadena dañada. Conservar sin solución hasta cotejo.,
 14113,,requiere_investigacion,"Ninen no se identifica de modo inequívoco como nombre, transliteración o error; evitar fingir validación.",
 14114,Solo,revisado,Only como adverbio restrictivo; se elige «solo» sin tilde por uso normativo.,
