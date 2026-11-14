@@ -684,9 +684,9 @@
 12803,¡Ya te he dicho que dejes de llamarnos así!,revisado,,
 12804,¡Qué nombre más ridículo…!,revisado,,
 14684,¿Sí? ¿Sobre qué quieres saber?,revisado,,
-14685,Fundamentos del combate / Purificación / Mejorar objetos / Medidores de victoria / Aprender magia / Mundo Oscuro / Novedades / Nada / Los fundamentos son importantes. Pregúntame… / Curación / Ataques múltiples / Dirección del ataque / Desniveles / ¿Alguien de La Pucelle me pide consejos sobre purificación? Vale…,requiere_investigacion,"Menú de opciones y varios diálogos concatenados, sin controles ni separadores recuperables. Requiere rescatar las unidades y estructura de opciones antes de inserción.",
-14686,Ataques de purificación / Conversión de enemigos / Ataques milagrosos,requiere_investigacion,"Tres opciones fusionadas de un menú; el orden se conserva, pero la separación real está pendiente de cotejo.",
-14687,"…al purificar un portal, los objetos equipados acumulan energía.",requiere_investigacion,"El original empieza por «portal, power is stored» sin el verbo o la condición previa; reconstrucción contextual provisional.",
+14685,Fundamentos del combate | Purificación | Mejorar objetos | Medidores de victoria | Aprender magia | Mundo Oscuro | Novedades | Nada | Los fundamentos son muy importantes. Pregúntame… | Curación | Ataques múltiples | Dirección de los ataques | Desniveles | ¿Alguien de La Pucelle me pregunta a MÍ sobre purificación? Vale…,revisado,"SEGMENTACIÓN VERIFICADA: unidades 24181–24188: 8 opciones; 24189–24190: comentario; 24191–24194: 4 opciones; 24195–24197: comentario. «|» solo separador editorial, NO texto para inserción.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24181–24197)
+14686,Ataques de purificación | Conversión de enemigos | Ataques milagrosos,revisado,"Las unidades 24198, 24199 y 24200 son tres opciones independientes. «|» solo separación editorial, no debe insertarse.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24198–24200)
+14687,"Al purificar un portal, los objetos que lleves equipados acumularán energía.",revisado,La unidad 24201 empieza por «portal» porque falta la condición; se recupera de 14689 y del efecto en 14688.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24201–24203); corpus/12/entrada.csv (14688–14689)
 14688,"Cuando acumulan suficiente energía, los objetos suben de nivel.",revisado,,
 14689,"Si purificas un portal de la misma afinidad elemental que tu objeto, conseguirás más energía.",revisado,,
 14690,Pero los objetos que son débiles de por sí solo pueden mejorarse hasta cierto punto.,revisado,,
@@ -698,7 +698,7 @@
 14696,"Por ejemplo, supongamos que alguien se equipa con un objeto que tiene un icono de ATK.",revisado,,
 14697,Su medidor de ATK aumentará cada vez que derrote a un enemigo.,revisado,,
 14698,"Cuando el medidor se llena, aumenta el atributo ATK del propio personaje.",revisado,,
-14699,"En otras palabras, puedes decidir cómo desarrollarán sus capacidades tus personajes según los objetos que equipen… Para luchadores, elige objetos con iconos de HP, ATK y DEF… Para magos, busca objetos con SP e INT.",requiere_investigacion,"El original fusiona tres frases y trunca dos de ellas («items they», «icons on»); revisar la división de unidades del tutorial antes de darlo por definitivo.",
+14699,"Es decir, puedes decidir cómo progresan tus personajes eligiendo los objetos que equipan. Si quieres guerreros, busca objetos con iconos de HP, ATK y DEF. Si prefieres magos, elige objetos con iconos de SP e INT.",revisado,La fuente omite «equip» después de 24243 y «them» después de 24246. El contexto identifica ambos complementos y se conservan las cinco siglas.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24240–24249)
 14700,"Además, al subir de nivel también puedes aprender habilidades nuevas.",revisado,,
 14701,Las habilidades son poderes especiales que los personajes pueden aprender.,revisado,,
 14702,"Si aprendes muchas habilidades distintas, mejorarás mucho tu eficacia en combate.",revisado,,
@@ -714,13 +714,13 @@
 14712,"Con tiempo suficiente, puedes aprender todos los tipos de magia. ¡Buena suerte!",revisado,,
 14713,"¿Combatir el fuego con fuego, eh?",revisado,,
 14714,¿Qué quieres saber?,revisado,,
-14715,"Combinar objetos mágicos / Energía oscura y puertas al Mundo Oscuro / Al volver al mapa del mundo, tus personajes se recuperarán del daño y restaurarán HP y SP.",requiere_investigacion,Se concatenan dos opciones de menú con una explicación de recuperación. Requiere cotejar límites de las unidades. «Dark gates» podría referirse a otra puerta; evitar aprobar título sin captura.,
+14715,"Combinar objetos mágicos | Energía oscura y portales oscuros | Al volver al mapa del mundo, se curan las heridas de los personajes y se restauran sus HP y SP.",revisado,SEGMENTACIÓN VERIFICADA: 24301 y 24302 son opciones; 24303–24306 es la explicación. «|» solo es separador editorial y no se insertará en el juego.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24301–24306); glosario/terminos_investigados.csv (ダークポータル)
 14716,"Si quieres curarte durante el combate, tendrás que utilizar un objeto o una habilidad especial.",revisado,,
 14717,También puedes utilizar Polvo de Hadas o una habilidad especial para recuperar a un personaje.,revisado,,
 14718,"Por cierto, los combates resultan mucho más fáciles si duermes a tus enemigos con magia o con un objeto.",revisado,,
 14719,Hay tres maneras de realizar ataques múltiples.,revisado,,
 14720,¿Sobre cuál quieres saber más?,revisado,,
-14721,"Ataques de apoyo / Ataques simultáneos / Ataques combinados / Cuando ataques a un enemigo, procura hacerlo por los flancos o por la espalda.",requiere_investigacion,Se fusionan tres opciones de menú y el comienzo de la explicación de orientación. Confirmar segmentación y etiquetas de interfaz.,
+14721,"Ataques de apoyo | Ataques simultáneos | Ataques combinados | Cuando ataques a un enemigo, procura hacerlo por los lados o por la espalda.",revisado,"Las unidades 24323–24325 son opciones; 24326–24329 son una instrucción. «|» es separador editorial, no técnico.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24323–24329)
 14722,Es mucho más eficaz que atacar de frente.,revisado,,
 14723,Tenlo presente también cuando te ataquen a ti.,revisado,,
 14724,"Para recibir menos daño, procura estar de cara al enemigo cuando ataque.",revisado,,
@@ -734,10 +734,10 @@
 14732,"Si purificas los portales oscuros, evitarás que aparezcan más enemigos.",revisado,,glosario/terminos_investigados.csv (不浄点; 浄化)
 14733,Intenta purificar todos los portales oscuros del mapa.,revisado,,
 14734,"Los portales y las corrientes de energía oscura perjudican a tus personajes, pero también puedes usarlos contra los enemigos.",revisado,,
-14735,"…portal, la energía sagrada recorrerá su trayectoria.",requiere_investigacion,"El original empieza por «portal, holy energy will travel»; se desconoce la condición o acción previa.",
+14735,"Al purificar un portal, la energía sagrada recorrerá la trayectoria de su corriente.",revisado,Se recupera la condición inicial antes de «portal» con la mecánica explicada en los grupos 14729–14734. Consecuencia corroborada en 14736.,corpus/12/entrada.csv (14729–14736); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24379–24381)
 14736,Esta energía sagrada dañará a todos los enemigos que se encuentren en su recorrido.,revisado,,
 14737,Así puedes aprovechar la energía oscura para tenderles trampas.,revisado,,
-14738,…la dirección hacia la que mira el personaje situado encima.,requiere_investigacion,"Fragmento final sin sujeto ni verbo, probablemente sobre la dirección de la corriente de energía.",
+14738,La corriente de energía avanza en la dirección hacia la que mira el personaje situado sobre ella.,revisado,"La mecánica omitida antes de «direction» se recupera de 14739, que describe cuándo se detiene la corriente por la orientación del personaje.",corpus/12/entrada.csv (14737–14740); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24388–24389)
 14739,"Pero si una unidad mira directamente hacia la corriente de energía oscura, su avance se detendrá.",revisado,,
 14740,También puedes redirigir la energía con un objeto llamado «Cambio de rumbo».,revisado,Denominación provisional del glosario para «Change-Up».,glosario/terminos_investigados.csv (ムキカエール)
 14741,Solo tienes que colocarlo sobre la corriente y elegir hacia dónde quieres dirigirla.,revisado,,
@@ -774,13 +774,13 @@
 14772,Hay una limitación: los ataques de apoyo no pueden combinarse con habilidades especiales.,revisado,,
 14773,"Por supuesto, los enemigos también pueden realizar ataques de apoyo. ¡Ten cuidado!",revisado,,
 14774,"Si te lanzas contra un grupo de enemigos, podrías meterte en un buen lío.",revisado,,
-14775,"Para aprovechar los ataques de apoyo, lo importante es colocar bien a tus… Si ordenas a varios personajes que ataquen al mismo enemigo y luego inicias el combate o terminas el turno…",requiere_investigacion,El original corta «proper placement of your» y concatena otra instrucción. Es necesaria la segmentación original de la explicación.,
+14775,La clave de los ataques de apoyo está en colocar bien a tus personajes. Si ordenas a varios personajes que ataquen al mismo enemigo y luego empiezas el combate o terminas el turno…,revisado,"«Proper placement of your» exige «characters», confirmado en 24516 y 14776. Las instrucciones concatenadas están diferenciadas por unidades.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24512–24518); corpus/12/entrada.csv (14776)
 14776,…todos tus personajes atacarán al enemigo a la vez.,revisado,Continuación de la condición conservada en el grupo anterior.,
 14777,"Puede parecerse a un ataque de apoyo, pero es mucho más… Elegir uno u otro dependerá de la situación y de tu estrategia.",requiere_investigacion,Corte después de «much more» seguido de otra frase; no se inventa la ventaja concreta.,
 14778,"Si cuatro personajes atacan a un enemigo desde todos los lados y sitúas a otros compañeros junto a ellos, conseguirás ataques múltiples y ataques de apoyo a la vez.",revisado,,
 14779,"La próxima vez que necesites concentrar toda tu potencia de ataque contra un enemigo, ya sabrás qué hacer.",revisado,,
 14780,La Pucelle es la escuela más prestigiosa para estudiar exorcismo.,revisado,,
-14781,Re-Action de purificación / Re-Action de Gran Milagro / La Re-Action de purificación es un nuevo método de purificación.,requiere_investigacion,Dos opciones de menú fusionadas con una frase explicativa. El glosario mantiene «Re-Action» como nombre de mecánica.,glosario/terminos_investigados.csv (浄化リアクション; 大奇跡)
+14781,Re-Action de purificación | Re-Action de Gran Milagro | La Re-Action de purificación es un nuevo método de purificación.,revisado,"24542 y 24543 son opciones independientes; 24544–24545 una explicación. Se mantiene Re-Action según glosario; «|» separador editorial, no insertable.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24542–24545); glosario/terminos_investigados.csv (浄化リアクション)
 14782,Este método nuevo es muy sencillo.,revisado,,
 14783,Purifica los portales oscuros como siempre.,revisado,"«Dark gates» en el texto inglés designa aquí portales purificables, no la puerta de acceso al Mundo Oscuro.",
 14784,"Si un personaje está en el recorrido de la corriente de energía durante la purificación, puede volver a actuar.",revisado,,
