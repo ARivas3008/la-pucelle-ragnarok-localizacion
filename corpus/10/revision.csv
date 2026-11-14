@@ -495,7 +495,7 @@
 10613,"a todos... los humanos...","revisado","Continuación de la intervención fragmentada «Must... kill... all... humans...».",""
 10614,"¡Tú... no me detendrás...!","revisado","La extracción omitió «You»; se recupera por el diálogo completo de la oscuridad de Croix.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
 10615,"¡No puede ser...!","revisado","",""
-10616,"¿El ángel caído... Calamidad? —No, no es ella.","requiere_investigacion","La extracción une una pregunta de Prier y la respuesta de Croix. Aunque el contenido se reconstruye del guion, debe separarse por hablante antes de aprobar la inserción.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+10616,"¡¿El ángel caído Calamidad?! —No, no es ella.","requiere_investigacion","La transcripción confirma dos voces en el mismo registro: Prier pregunta «The fallen angel Calamity?!» y Croix responde «No, it's not». El original extraído omitió «Calamity». Pendiente la separación física de hablantes.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
 10617,"¡No es otra que...!","revisado","",""
 10618,"¡La oscuridad que se ha apoderado de mi corazón!","revisado","",""
 10619,"¡Ahora que ya no soy su huésped, está mostrando su verdadera forma!","revisado","",""
