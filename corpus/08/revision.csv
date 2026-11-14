@@ -699,56 +699,56 @@
 8641,"¡¿Un demonio?!",revisado,"",""
 8642,"¡Prier!",revisado,"Prier es nombre propio, no el sustantivo «fisgón».",""
 8643,"¡Aaaah!",revisado,"",""
-8644,,pendiente,,
-8645,,pendiente,,
-8646,,pendiente,,
-8647,,pendiente,,
-8648,,pendiente,,
-8649,,pendiente,,
-8650,,pendiente,,
-8651,,pendiente,,
-8652,,pendiente,,
-8653,,pendiente,,
-8654,,pendiente,,
-8655,,pendiente,,
-8656,,pendiente,,
-8657,,pendiente,,
-8658,,pendiente,,
-8659,,pendiente,,
-8660,,pendiente,,
-8661,,pendiente,,
-8662,,pendiente,,
-8663,,pendiente,,
-8664,,pendiente,,
-8665,,pendiente,,
-8666,,pendiente,,
-8667,,pendiente,,
-8668,,pendiente,,
-8669,,pendiente,,
-8670,,pendiente,,
-8671,,pendiente,,
-8672,,pendiente,,
-8673,,pendiente,,
-8674,,pendiente,,
-8675,,pendiente,,
-8676,,pendiente,,
-8677,,pendiente,,
-8678,,pendiente,,
-8679,,pendiente,,
-8680,,pendiente,,
-8681,,pendiente,,
-8682,,pendiente,,
-8683,,pendiente,,
-8684,,pendiente,,
-8685,,pendiente,,
-8686,,pendiente,,
-8687,,pendiente,,
-8688,,pendiente,,
-8689,,pendiente,,
-8690,,pendiente,,
-8691,,pendiente,,
-8692,,pendiente,,
-8693,,pendiente,,
+8644,"¡¿Qué le estás haciendo a mi preciosa nave?!",revisado,"Homard habla de su aeronave Escargot, no de un barco convencional.",""
+8645,"¿Es que solo sabes resolver las cosas a golpes?",revisado,"",""
+8646,"¡Gorila descerebrado!",revisado,"",""
+8647,"¡¿Quééééé?!",revisado,"",""
+8648,"¡Tenemos un problema!",revisado,"",""
+8649,"¡Los motores están fallando! ¡Miau!",revisado,"",""
+8650,"Esto pinta mal…",revisado,"",""
+8651,"¡¿Qué significa eso?!",revisado,"",""
+8652,"¡¿Qué va a pasar?!",revisado,"",""
+8653,"¡¿Cómo que qué significa?! ¡Que vamos a morir todos!",revisado,"Se conserva el tono de pánico y la burla del tripulante ante la pregunta.",""
+8654,"¡¿Nos vamos a estrellar?!",revisado,"",""
+8655,"¡Tenemos que hacer algo! ¿Q-qué hacemos?",revisado,"",""
+8656,"¡Oh, diosa! ¡Prometo que no volveré a robar del plato de las ofrendas!",revisado,"La promesa de no robar del plato de las ofrendas es un chiste del personaje asustado.",""
+8657,"¡Por favor, sálvanos!",revisado,"",""
+8658,"¡Insensato! ¡Ya basta!",revisado,"",""
+8659,"¡La diosa ayuda a quienes se ayudan a sí mismos!",revisado,"",""
+8660,"¡Tienes que creer en ti mismo y luchar!",revisado,"",""
+8661,"¡Si no eres capaz, no mereces estar en mi nave!",revisado,"",""
+8662,"…Entendido.",revisado,"",""
+8663,"Entonces, ¿qué hacemos?",revisado,"",""
+8664,"No puedo abandonar el puente de mando.",revisado,"«Bridge» es el puente de mando de la aeronave.",""
+8665,"¡Así que ustedes tendrán que ocuparse de todos los demonios que han invadido la nave!",revisado,"",""
+8666,"¿Serán capaces? ¡No dejen que escape ni uno!",revisado,"",""
+8667,"¡Manos a la obra!",revisado,"",""
+8668,"Así que han venido.",revisado,"",""
+8669,"Soy el conde Seville Tempete, un Señor Oscuro y uno de los tres servidores juramentados del señor Noir.",revisado,"«Seville Tempete» y «Kefir Allois» se conservan como nombres propios; Lord y Count designan rango.",""
+8670,"Durante la última Guerra Demoníaca fui yo quien le arrancó de un solo golpe el ojo derecho a Kefir Allois, señor… ¡Cuidado, todos!",requiere_investigacion,"Original inglés fusiona una jactancia inconclusa («Kefir Allois, lord») con el grito de otro hablante («Be careful everyone!»). Traducción solo provisional hasta cotejar voces y texto japonés.",""
+8671,"¡Es mucho más fuerte que cualquier enemigo al que nos hayamos enfrentado!",revisado,"",""
+8672,"Parece que la Iglesia de la Madre Divina por fin se ha puesto seria.",revisado,"Se conserva el término institucional «Iglesia de la Madre Divina», independiente de la Iglesia de la Santa Doncella.",""
+8673,"No permitiré que lleguen a Fátima. Su viaje termina aquí.",revisado,"",""
+8674,"Al señor Noir le encanta jugar con los pequeños… En fin, solo será un poco más de trabajo para mí.",requiere_investigacion,"Original truncado en «toying with little Aw well»; el objeto de «little» es ilegible. No se inventa quién es; queda pendiente cotejo.",""
+8675,"¡Y yo que tenía tantas ganas de ir a Fátima…!",revisado,"",""
+8676,"¡Ja! ¿Y qué van a hacer?",revisado,"",""
+8677,"¿Cancelarnos los billetes?",revisado,"",""
+8678,"Eso mismo tenía pensado.",revisado,"",""
+8679,"¿Acaso ustedes son…",revisado,"Inicio de la pregunta fragmentada entre 8679 y 8680.",""
+8680,"…humanos?!",revisado,"Fin de la pregunta comenzada en 8679.",""
+8681,"¡Un Señor Oscuro jamás podría ser derrotado por unos simples humanos!",revisado,"",""
+8682,"¡No crean que esto ha terminado!",revisado,"",""
+8683,"¡Ay, diosa mía! ¡Diosa mía!",revisado,"",""
+8684,"¡Que alguien apague el fuego!",revisado,"",""
+8685,"¡Agua! ¡Que alguien traiga agua!",revisado,"",""
+8686,"¡¿Y de dónde vamos a sacar agua aquí?!",revisado,"",""
+8687,"Creo que puedo ayudar…",revisado,"",""
+8688,"¡¿…qué estás haciendo, canalla?!",requiere_investigacion,"Original empieza en «are doing, you scumbag?!?!» y carece de sujeto e inicio de pregunta. Traducción contextual provisional y pendiente.",""
+8689,"(Así me gusta…",revisado,"Pensamiento de Croix repartido entre 8689 y 8690, conservando el paréntesis.",""
+8690,"Ha vuelto la Prier de siempre…)",revisado,"Prier es mujer; se evita el masculino de la MTL «viejo Prier».",""
+8691,"¡Capitán!",revisado,"",""
+8692,"Nos vamos a estrellar, eso está claro.",revisado,"",""
+8693,"¡Pero no descansaré hasta vengarme!",revisado,"",""
 8694,,pendiente,,
 8695,,pendiente,,
 8696,,pendiente,,
