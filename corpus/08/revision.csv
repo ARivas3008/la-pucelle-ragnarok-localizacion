@@ -949,56 +949,56 @@
 8891,"Claro… Cuando se trata de otros, sí que sabes ver lo evidente…",revisado,"",""
 8892,"Un momento, Culotte.",revisado,"",""
 8893,"…quieres decir?",requiere_investigacion,"Original truncado «to mean?»; no se puede saber el inicio interrogativo. Se mantiene un fragmento y se exige cotejo del japonés/inglés íntegro.",""
-8894,,pendiente,,
-8895,,pendiente,,
-8896,,pendiente,,
-8897,,pendiente,,
-8898,,pendiente,,
-8899,,pendiente,,
-8900,,pendiente,,
-8901,,pendiente,,
-8902,,pendiente,,
-8903,,pendiente,,
-8904,,pendiente,,
-8905,,pendiente,,
-8906,,pendiente,,
-8907,,pendiente,,
-8908,,pendiente,,
-8909,,pendiente,,
-8910,,pendiente,,
-8911,,pendiente,,
-8912,,pendiente,,
-8913,,pendiente,,
-8914,,pendiente,,
-8915,,pendiente,,
-8916,,pendiente,,
-8917,,pendiente,,
-8918,,pendiente,,
-8919,,pendiente,,
-8920,,pendiente,,
-8921,,pendiente,,
-8922,,pendiente,,
-8923,,pendiente,,
-8924,,pendiente,,
-8925,,pendiente,,
-8926,,pendiente,,
-8927,,pendiente,,
-8928,,pendiente,,
-8929,,pendiente,,
-8930,,pendiente,,
-8931,,pendiente,,
-8932,,pendiente,,
-8933,,pendiente,,
-8934,,pendiente,,
-8935,,pendiente,,
-8936,,pendiente,,
-8937,,pendiente,,
-8938,,pendiente,,
-8939,,pendiente,,
-8940,,pendiente,,
-8941,,pendiente,,
-8942,,pendiente,,
-8943,,pendiente,,
+8894,"Se oye una voz que viene de alguna parte…",revisado,"",""
+8895,"¡Escuchad, aventureros!",revisado,"La voz ritual utiliza inglés pseudoarcaico («Hark», «ye», «doth»); se recrea el registro solemne con «vosotros».",""
+8896,"¿Tenéis valor suficiente para enfrentaros solos a la criatura?",revisado,"",""
+8897,"Si no os veis capaces, debilitaré a la criatura por vosotros.",revisado,"",""
+8898,"Pero quienes no demuestren valor recibirán una recompensa menor.",revisado,"Conservar la consecuencia mecánica: debilitar al monstruo reduce la recompensa.",""
+8899,"Os lo pregunto una vez más: ¿podéis luchar solos contra la criatura?",revisado,"",""
+8900,"¡Vaya, sí que sois unos aventureros valerosos…!",revisado,"",""
+8901,"¡A por ellos!",revisado,"",""
+8902,"¡Ja! ¡Cobardes!",revisado,"",""
+8903,"¡Las reparaciones del Escargot marchan muy bien, capitán!",revisado,"",""
+8904,"¡Sabía que podía contar contigo, Yattanya!",revisado,"",""
+8905,"¡Estoy dando lo mejor de mí, jefe!",revisado,"",""
+8906,"¡Gracias por todo el trabajo!",revisado,"",""
+8907,"¿Qué te trae otra vez por aquí?",revisado,"",""
+8908,"Bienvenidos a la aldea Cuscús.",revisado,"",""
+8909,"Bueno, parece que podemos entendernos con ellos.",revisado,"",""
+8910,"Su pronunciación y su acento se parecen mucho a los del antiguo idioma de Paprica.",revisado,"«Ancient Paprican» nombra la lengua antigua de Paprica; el borrador «papiro» es un error.",""
+8911,"Puede que las raíces de Paprica se encuentren aquí, en…",requiere_investigacion,"Original cortado después de «here in»; se ignora la localidad no extraída y queda abierto hasta cotejar el original.",""
+8912,"Sí. Fátima fue destruida hace doscientos años.",revisado,"",""
+8913,"Los supervivientes de aquella catástrofe son nuestros antepasados.",revisado,"",""
+8914,"Por aquí, los lagartos de roca y las langostas de arena son auténticos manjares.",revisado,"",""
+8915,"¡Qué rico suena!",revisado,"",""
+8916,"¡¿Lo dices en serio?!",revisado,"",""
+8917,"En un páramo como este apenas se puede cultivar nada.",revisado,"",""
+8918,"Sobrevivimos compartiendo entre todos lo poco que conseguimos.",revisado,"",""
+8919,"Por cierto, ¿guardas la partida con frecuencia?",revisado,"«Saving» se refiere a guardar la partida, no ahorrar dinero.",""
+8920,"Es fácil olvidarse de hacerlo.",revisado,"",""
+8921,"¡Esta tierra está maldita!",revisado,"",""
+8922,"¡El Príncipe Oscuro la maldijo!",revisado,"Sujeto tácito de «Cursed by the Dark Prince» es «esta tierra» del grupo anterior.",""
+8923,"Todo apunta a que el Príncipe Oscuro tuvo algo que ver con la destrucción de Fátima.",revisado,"",""
+8924,"¡Bienvenidos a la aldea Trufa!",revisado,"",""
+8925,"Como parecía que no vivía nadie aquí, decidimos instalarnos en el pueblo.",revisado,"",""
+8926,"¡Y hasta había muebles!",revisado,"",""
+8927,"¡Qué suerte!",revisado,"La apropiación oportunista del pueblo se conserva en «¡Qué suerte!».",""
+8928,"¿Eso no es robar…?",revisado,"",""
+8929,"Me pregunto adónde habrán ido sus antiguos habitantes.",revisado,"",""
+8930,"Espero que esta aldea nos dé alguna pista sobre el sueño que me envió la diosa.",revisado,"",""
+8931,"…algo, ahora que hemos llegado hasta aquí.",requiere_investigacion,"Original fragmentario «something now that we have come this far!»; faltan verbo y comienzo; no se completa por conjetura.",""
+8932,"Sí, yo también lo creo.",revisado,"",""
+8933,"¿Qué pretende mostrarnos la diosa al traernos aquí? Como ya dije, ¡los sueños de Alouette sobre la diosa y sus recuerdos perdidos deben de estar relacionados!",requiere_investigacion,"Se han fusionado posible pregunta y explicación de dos interlocutores; cotejar segmentación y voces antes de aprobar.",""
+8934,"Ya está bien…",revisado,"",""
+8935,"Creo que… conozco esta aldea.",revisado,"La vacilación de Alouette es importante por la amnesia.",""
+8936,"Quizá estuve aquí antes de perder la memoria…",revisado,"",""
+8937,"…hay algo sobre este lugar que tengo en la punta de la lengua…",requiere_investigacion,"Fragmento sin inicio sintáctico («about this place that is on the tip of my tongue…»); se conserva parcial para cotejo.",""
+8938,"¿Te pasa algo, Croix?",revisado,"",""
+8939,"¿Seguro que estás bien?",revisado,"",""
+8940,"Sí. Ya te he dicho que estoy bien.",revisado,"",""
+8941,"Puede que las raíces de Paprica se encuentren en esta aldea.",revisado,"",""
+8942,"¡Qué interesante!",revisado,"",""
+8943,"¡Y yo quiero saber qué platos típicos se comen aquí!",revisado,"",""
 8944,,pendiente,,
 8945,,pendiente,,
 8946,,pendiente,,
