@@ -14,15 +14,15 @@
 12133,¡Claro! ¡Porque cuento con personas que me han prometido ayudarme a no sucumbir a la oscuridad de mi corazón!,revisado,,
 12134,"Por eso, si realmente me convirtiera en…, no podría volver a mirarlos a la cara. ¡Eso es lo que te hace una hipócrita!",requiere_investigacion,Original aparentemente fusiona dos turnos y queda truncado tras «become the»; no se inventa título faltante. Comprobar segmentación y hablantes.,
 12135,"Si rechazas el inmenso poder de una Señora Demonio, ¡¿cómo piensas salvar a Croix?!",revisado,Título femenino en contexto de Prier; cotejado con entrada de glosario «魔王プリエ».,glosario/terminos_investigados.csv (魔王プリエ); https://www.mobygames.com/game/66480/la-pucelle-ragnar%C3%B8k/
-12136,¡¿Qué…?!,revisado,,
+12136,¡¿Qué…?!,revisado,Cotejada con «Wh...!»; la exclamación incompleta ya estaba resuelta correctamente y se conserva tras revisión manual.,
 12137,¡No importa lo que piensen quienes te rodean!,revisado,Adaptación idiomática de «the faces around you» en la discusión sobre el juicio ajeno.,
 12138,"Quienes te desprecian, quienes te odian, quienes te miran por encima del hombro…",revisado,,
-12139,¡Ninguno de ellos importa!,revisado,,
+12139,¡Ninguno de ellos importa!,revisado,"Cotejada con «None of them matter!»; el borrador era fiel y natural, se aprueba de forma expresa.",
 12140,"¡Para detener a Croix, el Príncipe Oscuro, necesitas poder por encima de todo!",revisado,Conservado el título narrativo Dark Prince.,https://www.mobygames.com/game/66480/la-pucelle-ragnar%C3%B8k/
 12141,¡Y harás lo que sea para conseguir ese poder!,revisado,,
 12142,Aunque eso signifique dejar de lado lo que hay en tu… y convertirte en la Señora Demonio…,requiere_investigacion,"El inglés contiene «what is in your becoming», texto corrupto o fusionado; cotejar unidades y no completar el objeto perdido.",
 12143,¡No importa cómo te vean los demás!,revisado,,
-12144,Eso es…,revisado,,
+12144,Eso es…,revisado,"Cotejada con «That is...»; interjección breve idiomática y contextual, se conserva intencionalmente.",
 12145,"¿No pensabas convertirte en la más fuerte sin sucumbir al poder de…? Tiene razón, hermana… ¡El poder de la oscuridad no puede salvar a Croix!",requiere_investigacion,Hay al menos dos frases concatenadas y cortes después de «Dark» y «Sister»; confirmar texto original y distribución de voces antes de aprobar.,
 12146,¿Estás diciendo que el poder de la luz SÍ puede…?,revisado,"«Puede» remite a salvar a Croix, tema de la línea previa; no se añade el objeto implícito.",https://www.mobygames.com/game/66480/la-pucelle-ragnar%C3%B8k/
 12147,¡¿Entonces no hay forma de que pueda salvar a Croix?!,revisado,,
@@ -31,7 +31,7 @@
 12150,"Incluso después de todo esto, ¿piensas seguir viviendo a costa de tu verdadero…? Esto sí que es el final…",requiere_investigacion,Original termina el sintagma en «your true» y parece unir otra frase; imposible reconstruir objeto sin las unidades.,
 12151,"Tú mejor que nadie sabes que no podría borrar mis verdaderos sentimientos, ¿verdad?",revisado,,
 12152,Solo pienso aceptar esta oscuridad sin dejar que me venza.,revisado,,
-12153,Nada más.,revisado,,
+12153,Nada más.,revisado,"Cotejada con «Nothing more.»; formulación concisa y exacta, conservada tras cotejo manual.",
 12154,Conseguir poder y rendirse a la oscuridad son dos cosas muy distintas.,revisado,,
 12155,"Parece que por fin lo entiendes, hermana… ¡Déjate de tonterías…!",requiere_investigacion,«Sister Cut the crap» sugiere vocativo truncado y posible cambio de hablante; comprobar la segmentación.,
 12156,¿Renunciarías a esa teoría sin fundamento…? ¡Me repugna todo lo que sigues diciendo…!,requiere_investigacion,«Would you give up on that baseless theory The lines…» muestra posible corte y dos turnos fusionados; se conserva duda.,
