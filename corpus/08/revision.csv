@@ -99,56 +99,56 @@
 8041,"Oh, diosa Poitreene…",revisado,"",""
 8042,"Guíanos hasta el corazón de esta niña tan abrumada por la oscuridad.",revisado,"",""
 8043,"Bien, abran los ojos.",revisado,"",""
-8044,,pendiente,,
-8045,,pendiente,,
-8046,,pendiente,,
-8047,,pendiente,,
-8048,,pendiente,,
-8049,,pendiente,,
-8050,,pendiente,,
-8051,,pendiente,,
-8052,,pendiente,,
-8053,,pendiente,,
-8054,,pendiente,,
-8055,,pendiente,,
-8056,,pendiente,,
-8057,,pendiente,,
-8058,,pendiente,,
-8059,,pendiente,,
-8060,,pendiente,,
-8061,,pendiente,,
-8062,,pendiente,,
-8063,,pendiente,,
-8064,,pendiente,,
-8065,,pendiente,,
-8066,,pendiente,,
-8067,,pendiente,,
-8068,,pendiente,,
-8069,,pendiente,,
-8070,,pendiente,,
-8071,,pendiente,,
-8072,,pendiente,,
-8073,,pendiente,,
-8074,,pendiente,,
-8075,,pendiente,,
-8076,,pendiente,,
-8077,,pendiente,,
-8078,,pendiente,,
-8079,,pendiente,,
-8080,,pendiente,,
-8081,,pendiente,,
-8082,,pendiente,,
-8083,,pendiente,,
-8084,,pendiente,,
-8085,,pendiente,,
-8086,,pendiente,,
-8087,,pendiente,,
-8088,,pendiente,,
-8089,,pendiente,,
-8090,,pendiente,,
-8091,,pendiente,,
-8092,,pendiente,,
-8093,,pendiente,,
+8044,"¿D-dónde estamos…?",revisado,"",""
+8045,"En el corazón de Éclair.",revisado,"",""
+8046,"¡¿M-me estás tomando el pelo?!",requiere_investigacion,"Extracción pierde el inicio exclamativo y tartamudeado («W-w-w-w-whaaaaaaaat?! You've gotta be kidding!!!» en transcripción externa). Español tentativo: verificar audio, límites y capacidad de la unidad antes de aprobar.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8047,"¡Esto sí que es increíble…!",requiere_investigacion,"Original incompleto «Now this is really»; transcripción contextual restituye «something…». Traducción expresiva aproximada; comprobar exactitud con audio o bytes.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8048,"…Estoy bien.",revisado,"",""
+8049,"Solo me falta un poco el aire.",revisado,"",""
+8050,"No me extraña.",revisado,"",""
+8051,"Ha sido un milagro muy poderoso.",revisado,"",""
+8052,"Algo así podría matar a un cazador de demonios normal.",revisado,"Original truncado después de «normal»; transcripción externa restituye «demon hunter». Recuperación contextual; verificar cabida en una sola unidad.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8053,"¡No vuelvas a correr semejante riesgo!",revisado,"",""
+8054,"Pero no te preocupes. Estaré bien.",revisado,"",""
+8055,"Debemos librar cuanto antes a Éclair de la oscuridad que se ha apoderado de ella.",revisado,"",""
+8056,"¡Vaya, pero si es Prier!",revisado,"",""
+8057,"¡Hola, hermana mayor!",revisado,"",""
+8058,"¡No te acerques!",revisado,"",""
+8059,"Me vas a obligar a ser reina, ¿verdad?",revisado,"",""
+8060,"¡Vamos!",revisado,"",""
+8061,"¡Admítelo!",revisado,"",""
+8062,"Eh, Éclair…",revisado,"",""
+8063,"Seré reina…",revisado,"",""
+8064,"Je, je.",revisado,"",""
+8065,"¡Era broma!",revisado,"",""
+8066,"¿Crees que soy tan tonta?",revisado,"Éclair es mujer: corregida concordancia femenina en vez del masculino de la MTL.",""
+8067,"¡Ña, ña, ña, ña!",revisado,"Onomatopeya burlona «nya» adaptada al español sin tratarla como información semántica.",""
+8068,"¡Atrápame si puedes!",revisado,"",""
+8069,"Hoy no me encuentro bien. Por favor, vete.",revisado,"",""
+8070,"No sirvo para ser la Doncella de la Luz. Por favor, déjame en paz.",requiere_investigacion,"La extracción une dos frases y elimina «Maiden of Light»: «I'm not fit to be the Maiden of Light. Please leave me alone». Requiere cotejar límites y capacidad de ambas unidades antes de aprobar.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8071,"¡Sí! ¡Qué lata tener que entrenar para ser la Doncella de la Luz!",revisado,"",""
+8072,"¡No pienso hacerlo!",revisado,"",""
+8073,"Hermana mayor… ¿Por qué tengo que hacer tantas cosas que detesto?",revisado,"",""
+8074,"Quiero ser libre.",revisado,"",""
+8075,"¿Es que nunca podré ser yo misma?",revisado,"",""
+8076,"Hay cosas que de verdad no quiero hacer.",revisado,"",""
+8077,"¿Por qué no puedo decir que no quiero hacerlas?",revisado,"",""
+8078,"No quiero ser la Doncella de la Luz. No quiero ser reina.",revisado,"",""
+8079,"Hermana mayor…",revisado,"",""
+8080,"¿Qué es la libertad?",revisado,"",""
+8081,"¿Qué es la responsabilidad?",revisado,"",""
+8082,"Ja, ja, ja.",revisado,"",""
+8083,"Sí, dímelo, hermana mayor.",revisado,"",""
+8084,"Todos esperan que sea la próxima reina y la Doncella de la Luz. Debe de ser muy duro.",revisado,"",""
+8085,"Eso alimentó la oscuridad en su interior, hasta crear a esa otra Éclair…",revisado,"Original queda truncado después de «that other»; contexto y transcripción confirman que se refiere a la otra Éclair.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8086,"Es que…",revisado,"",""
+8087,"Deberías…",revisado,"",""
+8088,"¡No te preocupes por eso!",revisado,"",""
+8089,"Deja de preocuparte por tu posición y por lo que piensen los demás. ¡Vive a tu manera!",revisado,"",""
+8090,"Intenta tomártelo con calma, ¿vale?",revisado,"Se recupera el matiz apelativo «OK?» presente en la transcripción de la escena.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8091,"¡¿Cómo vas a saber lo que se siente al ser la próxima reina?!",revisado,"",""
+8092,"¡¿Cómo vas a entender lo que es tener a todo el mundo contando contigo?!",revisado,"",""
+8093,"¡Yo quería que entendieras cómo me sentía!",revisado,"",""
 8094,,pendiente,,
 8095,,pendiente,,
 8096,,pendiente,,
