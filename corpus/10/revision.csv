@@ -599,56 +599,56 @@
 10717,"Je, je... ¿Tú crees?","revisado","",""
 10718,"¡Las hermanas de la Iglesia de la Santa Doncella acabarán con esos demonios!","revisado","",""
 10719,"¡Así que tú eres la «Hermana Demonio»!","revisado","",""
-10720,,pendiente,,
-10721,,pendiente,,
-10722,,pendiente,,
-10723,,pendiente,,
-10724,,pendiente,,
-10725,,pendiente,,
-10726,,pendiente,,
-10727,,pendiente,,
-10728,,pendiente,,
-10729,,pendiente,,
-10730,,pendiente,,
-10731,,pendiente,,
-10732,,pendiente,,
-10733,,pendiente,,
-10734,,pendiente,,
-10735,,pendiente,,
-10736,,pendiente,,
-10737,,pendiente,,
-10738,,pendiente,,
-10739,,pendiente,,
-10740,,pendiente,,
-10741,,pendiente,,
-10742,,pendiente,,
-10743,,pendiente,,
-10744,,pendiente,,
-10745,,pendiente,,
-10746,,pendiente,,
-10747,,pendiente,,
-10748,,pendiente,,
-10749,,pendiente,,
-10750,,pendiente,,
-10751,,pendiente,,
-10752,,pendiente,,
-10753,,pendiente,,
-10754,,pendiente,,
-10755,,pendiente,,
-10756,,pendiente,,
-10757,,pendiente,,
-10758,,pendiente,,
-10759,,pendiente,,
-10760,,pendiente,,
-10761,,pendiente,,
-10762,,pendiente,,
-10763,,pendiente,,
-10764,,pendiente,,
-10765,,pendiente,,
-10766,,pendiente,,
-10767,,pendiente,,
-10768,,pendiente,,
-10769,,pendiente,,
+10720,"¡Las enseñanzas de la Iglesia de la Santa Doncella iluminan incluso el corazón de los demonios!","revisado","",""
+10721,"Me alegra que me alabes, ¡pero deja de llamarme «Hermana Demonio»!","revisado","",""
+10722,"¡Se me ha curado la espalda sin tener siquiera que recurrir a la religión!","revisado","",""
+10723,"¡Yo solito he obrado este milagro!","revisado","El hablante se jacta de curarse, no se trata de una mujer.",""
+10724,"Y luego dicen que la fe salva a los creyentes...","revisado","",""
+10725,"Últimamente me ha vuelto a doler la espalda...","revisado","",""
+10726,"¡Tendré que obrar otro milagro...!","revisado","",""
+10727,"Seguramente te has esforzado demasiado.","revisado","",""
+10728,"A tu edad, ¿por qué no te tomas las cosas con más calma?","revisado","«おとなしくしてたら» en este contexto significa descansar, no «portarse mejor».",""
+10729,"¡U-un demonio!","revisado","",""
+10730,"¡Diosa, socórrame!","revisado","",""
+10731,"¡Aaaah! ¡¿U-un demonio?!","revisado","",""
+10732,"¿Eh? ¡Con el susto se me ha quitado el dolor de espalda!","revisado","",""
+10733,"¡He obrado otro milagro!","revisado","",""
+10734,"Bueno, si ya se te ha curado la espalda, lo demás da igual, ¿no?","revisado","",""
+10735,"Del susto...","requiere_investigacion","El japonés «ビックリした勢いで,» queda en frase suspensiva sin predicado ni continuación preservada; estado pendiente para cotejar segmentación.",""
+10736,"¡Cuántas hermanas guapas hay en esa iglesia!","revisado","",""
+10737,"¡Quiero entrar en la Iglesia de la Santa Doncella! —Vaya motivación para hacerse religioso...","requiere_investigacion","El registro extraído junta dos hablantes: aspirante y respuesta irónica. Requiere resegmentar antes de aprobarlo.",""
+10738,"¿Y qué haríamos si alguien así se uniera de verdad?","revisado","",""
+10739,"Lo reeducaremos... —¡Buena idea, hermana! —Qué mirada más aterradora...","requiere_investigacion","El original une al menos tres parlamentos y omite palabras de cada uno; no se puede asignar con seguridad a las unidades del juego.",""
+10740,"¡Vaya! ¡De verdad que las hermanas se hacen respetar!","revisado","",""
+10741,"Quizá debería olvidarme de entrar en la Iglesia de la Santa Doncella...","revisado","",""
+10742,"En tu caso, creo que es lo mejor.","revisado","",""
+10743,"No, debería ingresar.","revisado","",""
+10744,"Yo me encargaré de que se reforme.","revisado","«更生させてみせます» expresa la intención enérgica de reformar a una persona, no una rehabilitación física.",""
+10745,"¡Eres increíble, Alouette!","revisado","",""
+10746,"Sí que da miedo...","revisado","",""
+10747,"¡Buaaa! ¡Los demonios dan mucho miedo!","revisado","",""
+10748,"¡Socorro, hermanaaaaa!","revisado","",""
+10749,"¡¿T-tu hermana mayor es religiosa?!","revisado","",""
+10750,"La Iglesia de la Santa Doncella es impresionante...","revisado","",""
+10751,"Quizá sí que debería ingresar...","revisado","",""
+10752,"No entiendo en qué te basas para decidirte...","revisado","",""
+10753,"¡N-no quiero saber nada de demonios!","revisado","",""
+10754,"N-no puedo creer que una hermana haya acabado así...","revisado","",""
+10755,"Me has sorprendido, ¡pero espero que sigamos llevándonos bien!","revisado","",""
+10756,"¿Cerrado por hoy...?","revisado","",""
+10757,"Está cerrado...","revisado","",""
+10758,"Como hermana de la Santa Doncella, te ruego que evites comportamientos impropios de tu condición.","revisado","",""
+10759,"Sí, sí, lo que tú digas.","revisado","",""
+10760,"¡Que sí, que lo he entendido!","revisado","",""
+10761,"Hermana Prier, esa actitud no es digna de una religiosa.","revisado","",""
+10762,"Por favor, ten un poco más de consideración.","revisado","",""
+10763,"¡Que ya te he oído!","revisado","",""
+10764,"¡Se comenta que en la iglesia hay una hermana a la que temen hasta los demonios!","revisado","La extracción solo conserva «around that» al principio; por contexto, corresponde a un rumor que circula.",""
+10765,"¡¿Y si ese rumor se refiere a ti?!","revisado","",""
+10766,"¡Quién sabe...!","revisado","",""
+10767,"Ja, ja, ja, ja...","revisado","",""
+10768,"Estos rumores corren como la pólvora...","revisado","",""
+10769,"Dicen que en la Iglesia de la Santa Doncella hay una hermana a la que llaman «Señora Demonio».","revisado","魔王 es el título de rango «Señora Demonio», conforme al glosario «Prier, Señora Demonio» y no «Reina Demonio».","https://nippon1.jp/consumer/lapucelle_ragnarok/"
 10770,,pendiente,,
 10771,,pendiente,,
 10772,,pendiente,,
