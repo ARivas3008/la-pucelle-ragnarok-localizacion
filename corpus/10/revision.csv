@@ -499,56 +499,56 @@
 10617,"¡No es otra que...!","revisado","",""
 10618,"¡La oscuridad que se ha apoderado de mi corazón!","revisado","",""
 10619,"¡Ahora que ya no soy su huésped, está mostrando su verdadera forma!","revisado","",""
-10620,,pendiente,,
-10621,,pendiente,,
-10622,,pendiente,,
-10623,,pendiente,,
-10624,,pendiente,,
-10625,,pendiente,,
-10626,,pendiente,,
-10627,,pendiente,,
-10628,,pendiente,,
-10629,,pendiente,,
-10630,,pendiente,,
-10631,,pendiente,,
-10632,,pendiente,,
-10633,,pendiente,,
-10634,,pendiente,,
-10635,,pendiente,,
-10636,,pendiente,,
-10637,,pendiente,,
-10638,,pendiente,,
-10639,,pendiente,,
-10640,,pendiente,,
-10641,,pendiente,,
-10642,,pendiente,,
-10643,,pendiente,,
-10644,,pendiente,,
-10645,,pendiente,,
-10646,,pendiente,,
-10647,,pendiente,,
-10648,,pendiente,,
-10649,,pendiente,,
-10650,,pendiente,,
-10651,,pendiente,,
-10652,,pendiente,,
-10653,,pendiente,,
-10654,,pendiente,,
-10655,,pendiente,,
-10656,,pendiente,,
-10657,,pendiente,,
-10658,,pendiente,,
-10659,,pendiente,,
-10660,,pendiente,,
-10661,,pendiente,,
-10662,,pendiente,,
-10663,,pendiente,,
-10664,,pendiente,,
-10665,,pendiente,,
-10666,,pendiente,,
-10667,,pendiente,,
-10668,,pendiente,,
-10669,,pendiente,,
+10620,"¡¿Entonces ella es el verdadero Príncipe Oscuro?!","revisado","Se mantiene el título «Príncipe Oscuro», aplicado a la entidad pese a su apariencia femenina.",""
+10621,"(¡Claro! ¡La muerte de Alouette rompió el hechizo que mantenía a Croix bajo control!)","revisado","El original señala un hechizo «que ella había puesto sobre Croix»; el efecto concreto queda implícito.",""
+10622,"Estoy... perdiendo...","revisado","",""
+10623,"fuerzas...","revisado","Continuación de «Estoy... perdiendo...»; «power» aquí expresa el poder que se desvanece.",""
+10624,"¡Devuélveme mi corazón!","revisado","",""
+10625,"¡Ahora que has vuelto en ti, su poder está menguando!","revisado","",""
+10626,"¡Esta es nuestra oportunidad!","revisado","",""
+10627,"¡Si conseguimos vencerla, tu corazón recuperará el equilibrio!","revisado","",""
+10628,"Ya la has oído.","revisado","",""
+10629,"Hemos estado juntos mucho tiempo, pero creo que ha llegado la hora de separar nuestros caminos.","revisado","",""
+10630,"¡No... lo permitiré!","revisado","",""
+10631,"¡Tu corazón... me pertenece!","revisado","",""
+10632,"Te agradezco el interés, pero me temo que mi corazón ya le pertenece a otra mujer...","revisado","Croix responde con humor al reclamo posesivo de la oscuridad.",""
+10633,"¿Q-qué...?","revisado","La grafía interrumpida reproduce la sorpresa del parlamento.",""
+10634,"¡¿Quieres decir...?!","revisado","",""
+10635,"¡Sí, a ti, Prier!","revisado","",""
+10636,"¡Purifiquemos a esta vieja bruja y salgamos de aquí!","revisado","«Old bat» es un insulto, no una especie de monstruo.",""
+10637,"¡Oye!","revisado","",""
+10638,"Deberías habernos avisado de que te marchabas hoy.","revisado","",""
+10639,"¡Qué feo hacerles el vacío a tus viejos...! ¿Interrumpimos algo? Quizá prefieran quedarse a solas.","requiere_investigacion","El original fusiona dos o más intervenciones y pierde el complemento de «your old»; no aprobar hasta recuperar texto y división por hablantes.",""
+10640,"¡N-no digas tonterías!","revisado","",""
+10641,"¡No es nada de eso!","revisado","",""
+10642,"Ah, claro...","revisado","",""
+10643,"Bueno, ya nos veremos.","revisado","",""
+10644,"Espero que volvamos a vernos cuando hayas hecho las paces contigo mismo.","revisado","",""
+10645,"Lo siento, Prier.","revisado","",""
+10646,"Quizá esté siendo egoísta...","revisado","",""
+10647,"¿Y esa cara tan larga? ¡Que no vamos a dejar de vernos para siempre!","revisado","",""
+10648,"Puedes volver cuando quieras.","revisado","",""
+10649,"...¿Verdad?","revisado","",""
+10650,"Claro, tienes razón.","revisado","",""
+10651,"Te lo prometo.","revisado","",""
+10652,"Volveré.","revisado","«I'll be back» es la promesa de regresar, no «estaré detrás».",""
+10653,"Hasta entonces...","revisado","",""
+10654,"¡Aquí te estaré esperando!","revisado","",""
+10655,"...Ya se ha ido.","revisado","",""
+10656,"¿Seguro que no quieres detenerlo?","revisado","",""
+10657,"Aún estás a tiempo...","revisado","",""
+10658,"¡Estoy bien!","revisado","",""
+10659,"¡Confío en Croix!","revisado","",""
+10660,"¡Tenemos mucho por hacer!","revisado","",""
+10661,"¡Todavía cuento contigo, Doncella de la Luz!","requiere_investigacion","El original ha perdido el pronombre y parte del título entre «on» y «of Light». Restitución contextual probable, pendiente de cotejo textual.",""
+10662,"¡Prier, espera!","revisado","",""
+10663,"No fue la Doncella de la Luz quien derrotó al Príncipe Oscuro, sino el amor de una muchacha.","revisado","",""
+10664,"Fue tu sinceridad lo que salvó al mundo.","revisado","",""
+10665,"Prier... Cuida de Croix, por favor.","revisado","",""
+10666,"...todo...","requiere_investigacion","Fragmento «all...» aislado, sin sujeto ni continuación; no es posible determinar su función narrativa con seguridad.",""
+10667,"Mi madre ha lavado tanta ropa que no me queda nada que ponerme...","revisado","",""
+10668,"O sea, que debajo de esos pantalones llevas...","revisado","",""
+10669,"¡No deberías imaginarte esas cosas!","revisado","",""
 10670,,pendiente,,
 10671,,pendiente,,
 10672,,pendiente,,
