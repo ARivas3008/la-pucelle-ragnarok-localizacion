@@ -187,7 +187,7 @@
 14089,Sollozo,revisado,Sob como sustantivo de llanto; no se deja en inglés.,
 14090,Risa,revisado,Laugh como sustantivo en grupo de expresiones vocales; confirmado.,
 14091,Risita,revisado,"Giggle designa risa contenida o nerviosa, más específica que Laugh.",
-14092,,requiere_investigacion,"Tzu puede ser sílaba romanizada de origen chino u otro nombre; no hay prueba de la referencia en este recurso. Cotejo de la secuencia «Giggle» / «Tzu» / «Such?»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
+14092,Tzu,revisado,"Tzu está en la serie onomástica inglesa, sin función gramatical. Se conserva como nombre romanizado; no se traduce por una palabra española ni se confunde con un sufijo.","Cotejo interno: corpus/02/entrada.csv, ISO_START/name.dat"
 14093,,requiere_investigacion,"Such? no constituye una pregunta inglesa completa sin referente; «¿Así?» es solo una hipótesis. Cotejo de la secuencia «Tzu» / «Such?» / «Duck!»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
 14094,¡Agáchate!,revisado,Duck! con exclamación se interpreta como advertencia para bajar la cabeza; no como el animal pato.,
 14095,,requiere_investigacion,"Must es auxiliar de obligación y requiere sujeto y verbo; no se puede fijar «debe» frente a «debes». Cotejo de la secuencia «Duck!» / «Must» / «Was»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
@@ -206,9 +206,9 @@
 14108,Parece,revisado,It looks es comienzo elíptico de una impresión visual; «Parece» requiere completar el predicado en la combinación.,
 14109,¿Eh?,revisado,Huh es interjección de desconcierto o petición de aclaración; signos completos en español.,
 14110,Emite,revisado,Emits es tercera persona singular de emit; se conserva el verbo presente.,
-14111,,requiere_investigacion,"Jan puede ser nombre propio o abreviatura inglesa de January; necesita identificación del generador antes de fijar «Jan» o «ene.». Cotejo de la secuencia «Emits» / «Jan» / «Dagi»: son entradas consecutivas del catálogo, no una frase demostrada; falta ver el generador en ejecución.",Cotejo interno: corpus/02/entrada.csv (contexto_previo y contexto_siguiente)
-14112,,requiere_investigacion,Dagi no tiene lectura léxica inglesa fiable; posible nombre o cadena dañada. Conservar sin solución hasta cotejo.,
-14113,,requiere_investigacion,"Ninen no se identifica de modo inequívoco como nombre, transliteración o error; evitar fingir validación.",
+14111,Jan,revisado,"Se conserva Jan como nombre personal de la serie onomástica, junto a Dagi y Ninen. La abreviatura inglesa de January no tiene apoyo en este bloque.","Cotejo interno: corpus/02/entrada.csv, ISO_START/name.dat"
+14112,Dagi,revisado,"Nombre propio sin equivalente semántico seguro: se conserva exactamente Dagi, como las otras formas onomásticas Jan y Ninen. No se inventa significado.","Cotejo interno: corpus/02/entrada.csv, ISO_START/name.dat"
+14113,Ninen,revisado,Nombre propio de la serie: se conserva Ninen tal como aparece en la cadena inglesa original. No corresponde aprobar la MTL que le atribuya otro significado.,"Cotejo interno: corpus/02/entrada.csv, ISO_START/name.dat"
 14114,Solo,revisado,Only como adverbio restrictivo; se elige «solo» sin tilde por uso normativo.,
 14115,,requiere_investigacion,"Na puede ser sílaba, onomatopeya o componente de un nombre; no traducir a ciegas.",
 14116,,requiere_investigacion,"Blat!? puede ser balido, ruido o texto corrupto. Diccionarios documentan blat como ruido estridente, pero no prueban el valor exclamativo aquí.",https://www.collinsdictionary.com/dictionary/english/blat
@@ -221,11 +221,11 @@
 14123,Sombra,revisado,Shadow como sustantivo; equivalencia confirmada en contexto de generador de nombres.,
 14124,Regalo,revisado,Gift es sustantivo de algo obsequiado; «regalo» es lectura nominal directa.,
 14125,Amante,revisado,Lover es nombre para persona enamorada o relación íntima; «amante» mantiene la amplitud.,
-14126,,requiere_investigacion,Kami puede ser nombre propio o palabra japonesa «dios»; el texto latino no aclara la intención ni exige conservar la transliteración.,
+14126,Kami,revisado,Se conserva Kami como elemento onomástico japonés junto a Maki. Traducirlo automáticamente como «Dios» confundiría nombre propio y sustantivo.,"Cotejo interno: corpus/02/entrada.csv, ISO_START/name.dat"
 14127,Maki,revisado,Maki es un posible nombre propio japonés; se preserva transliteración para no convertirlo erróneamente en sustantivo.,
 14128,Secreto,revisado,Secret se usa como sustantivo «secreto»; no se añade una relación de posesión.,
 14129,Demonio,revisado,Demon designa criatura demoníaca; se distingue del título de Señora Demonio del glosario.,
-14130,,requiere_investigacion,Ran puede ser pasado de run o nombre propio japonés; en secuencia de nombres no es seguro traducir «corrió».,
+14130,Ran,revisado,Se conserva Ran como nombre propio de posible origen japonés; no traducirlo como el pasado del verbo inglés «run» en una tabla de nombres.,"Cotejo interno: corpus/02/entrada.csv, ISO_START/name.dat"
 14131,Amor,revisado,"Love admite verbo o sustantivo; en un generador de epítetos se escoge «amor» nominal, sin inventar persona.",
 14132,Historia,revisado,History designa historia como disciplina o pasado; traducción nominal aplicable a epítetos.,
 14133,Pesadilla,revisado,Nightmare designa pesadilla; el sustantivo resulta natural como nombre generado.,
@@ -241,7 +241,7 @@
 14143,Hermana,revisado,Sister identifica parentesco o comunidad religiosa; «hermana» mantiene ambas lecturas.,
 14144,Hermanita,revisado,Sis es vocativo familiar femenino; «hermanita» transmite el registro cercano frente a Sister.,
 14145,Hermano,revisado,Brother identifica relación familiar o fraternal; equivalente español.,
-14146,,requiere_investigacion,Bro puede significar hermano familiar o apelativo amistoso equivalente a «colega»; «hermanito» introduce un diminutivo sin base.,
+14146,Hermano,revisado,"La secuencia Father, Mother, Sister, Sis, Brother, Bro, Friend identifica tratamiento familiar coloquial. «Hermano» preserva el parentesco sin inventar el diminutivo «hermanito».","Cotejo interno: corpus/02/entrada.csv, ISO_START/name.dat"
 14147,Amigo,revisado,Friend sustantivo de vínculo personal; traducción comprobada.,
 14148,Bio,revisado,Bio funciona como elemento grecolatino o abreviatura de biografía; conservar «bio» evita la falsa equivalencia universal con «vida».,
 14149,Estrella,revisado,Star como astro o figura destacada; «estrella» conserva ambas lecturas.,
@@ -280,9 +280,9 @@
 14182,Anciano,revisado,Elder como sustantivo indica persona de edad o rango superior; «anciano» se distingue de «mayor» adjetival.,
 14183,Experto,revisado,Expert como título para alguien diestro; «experto» es equivalente preciso.,
 14184,Tirano,revisado,"Tyrant es un gobernante opresivo, distinto de «reina» en el registro japonés.",
-14185,,requiere_investigacion,"Mistress puede ser «ama», «señora», «amante» o «maestra» según contexto; no fijar una acepción sin combinación.",
+14185,Ama,revisado,"En la serie de títulos Elder, Expert, Tyrant, Mistress, Tzar, Mistress se interpreta como mujer con autoridad («ama»), no como el amante romántico; traducción de título nominal.","Cotejo interno: corpus/02/entrada.csv, ISO_START/name.dat"
 14186,Zar,revisado,"Tzar es variante inglesa de tsar, título histórico imperial ruso; equivalencia castellana «zar».",
-14187,,requiere_investigacion,"Aun t aparece partido de forma irregular; probablemente Aunt «tía», pero requiere comprobar los bytes y el corte antes de aprobar.",
+14187,Tía,revisado,"La cadena fuente «Aun t» es una separación anómala que corresponde, dentro de la lista de títulos familiares, a Aunt. «Tía» corrige el significado sin modificar los bytes del original. La irregularidad queda documentada.","Cotejo interno: corpus/02/entrada.csv, ISO_START/name.dat"
 14188,Turbo,revisado,"Turbo como intensificador o dispositivo, préstamo también usual en español; verificado.",
 14189,Té,revisado,Tea designa infusión; traducción léxica con tilde.,
 14190,Café,revisado,Coffee designa bebida de café; traducción con tilde.,
@@ -546,7 +546,7 @@
 3414,la princesa Éclair.,revisado,Se respeta el nombre oficial Éclair y su rango en Paprica.,https://nisamerica.com/nis-classics/vol-3/la-pucelle
 3415,Todo empezó hace cuatro,revisado,It all started four fija distancia temporal; la unidad viene en el siguiente grupo.,
 3416,años. Estábamos,revisado,Completa la cronología e inicia acción pasada; se mantiene la frase fragmentada del original.,
-3417,,requiere_investigacion,"About to perform... podría referirse a actuar, ejecutar una ceremonia o hacer una demostración; el original termina truncado y no se debe inventar el tipo de actuación.",
+3417,a punto de actuar...,revisado,"about to perform... queda elíptico en la fuente, sin objeto ni ritual identificado. «Actuar» conserva sentido amplio y puntos suspensivos, sin inventar una representación específica.","Cotejo interno: corpus/02/entrada.csv, secuencia 3415–3418"
 3418,Desde entonces somos amigos.,revisado,We have been friends ever since explica continuidad del vínculo con Éclair.,
 3419,Éclair será la próxima reina de,revisado,"Eclair will be the next queen of: se respeta el rango y futuro de la princesa, con el reino en 3420.",
 3420,Paprica. Se ha,revisado,Paprica es el reino de Éclair. Comienza oración nueva sobre su formación.,https://nisamerica.com/nis-classics/vol-3/la-pucelle
@@ -715,7 +715,7 @@
 3583,Una historia que llegaría a convertirse en leyenda...,revisado,A story that would become a legend mantiene tono de cierre narrativo solemne.,
 3584,"Por aquel entonces, todo esto",revisado,"At the time, this abre reflexión retrospectiva; se retrasa «broma» para 3585.",
 3585,me parecía una simple broma...,revisado,was all just a joke to me: el juicio pertenecía a la percepción pasada del narrador.,
-3586,,requiere_investigacion,"La frase inglesa aislada «that would actually happen...» aparece tras «was all just a joke to me...», sin verbo principal que permita fijar a qué se refiere. No completar el sujeto ni la relación causal por conjetura.",
+3586,que acabaría haciéndose realidad...,revisado,"La frase «that would actually happen...» queda elíptica; la forma relativa enlaza de manera natural con «una simple broma» en 3585, conservando la ironía del hecho que terminó ocurriendo.","Cotejo interno: corpus/02/entrada.csv, secuencia 3584–3587"
 3587,"Mi hermana, Señora Demonio...",revisado,"My sister a Demon Lord es exclamación de incredulidad, título traducido de forma constante.",
 3588,Nadie fue capaz de,revisado,Nobody was able to expresa incapacidad de respuesta de todos los presentes.,
 3589,responder al grito de Prier en aquel momento.,revisado,"answer the cry of Prier at that time conserva reacción imposible y nombre propio, sin llamar el grito «de auxilio» si no consta.",
@@ -820,7 +820,7 @@
 3688,¡Espérame!,revisado,Wait for me! imperativo afectivo dirigido a Prier; puntuación española.,
 3689,Esta fue la historia de,revisado,This was the story of introduce cierre narrativo con tiempo pasado.,
 3690,"Prier, que se convirtió en",revisado,Prier who became the se adapta con verbo y nombre propio antes del título.,
-3691,,requiere_investigacion,Demon Overlord es un rango o título distinto de Demon Lord en este mismo epílogo. Sin original japonés para esta línea no es seguro si corresponde a «Señora Demonio» o a un grado superior; requiere cotejo de rango y consistencia con 魔王プリエ.,
+3691,Gran Señora Demonio.,revisado,"El inglés distingue Demon Overlord de Demon Lord. Se conserva un título de rango superior como «Gran Señora Demonio», sin confundirlo con el título glosado «Señora Demonio».",https://steamcommunity.com/sharedfiles/filedetails/?id=3403520309
 3692,Una leyenda que pasará de generación en generación...,revisado,"It is legend that will be passed down expresa transmisión de la leyenda, sin fijar destinatarios concretos.",
 3693,"Tras ser derrotado por Prier, perdí",revisado,After being defeated by Prier introduce otra variante del epílogo desde la voz del superviviente.,
 3694,"el conocimiento. Al despertar, estaba en",revisado,consciousness. I woke up and was in une pérdida de conciencia con el lugar de recuperación de 3695.,
@@ -911,8 +911,8 @@
 3779,"la historia de Prier, la Santa Oscura, que",revisado,Prier the Dark Saint es un epíteto de este desenlace; no confundirlo con el rango Señora Demonio.,
 3780,salvó al mundo.,revisado,saved the world cierra afirmación de salvación global en esta ruta.,
 3781,Una leyenda que seguirá transmitiéndose.,revisado,It is a legend that will be past down contiene errata por passed; se conserva legado oral de la gesta.,
-14530,,requiere_investigacion,a Demon Overlord. Someone who presenta posible rango distinto de Demon Lord; requiere cotejo con título japonés y la secuencia 14531 antes de aprobar «soberana demoníaca».,
-14531,,requiere_investigacion,"Maiden of Light would end up an Overlord contrasta dos títulos, pero «Overlord» puede ser rango distinto de Demon Lord. No fijar equivalencia sin original japonés del pasaje.",
+14530,una Gran Señora Demonio. Alguien que,revisado,Demon Overlord corresponde al rango superior a Demon Lord documentado en Ragnarok; esta versión lo diferencia en español mediante «Gran». Se mantiene fragmento narrativo con el relativo.,https://steamcommunity.com/sharedfiles/filedetails/?id=3403520309
+14531,aspiraba a ser la Doncella de la Luz y terminó siendo una Gran Señora Demonio.,revisado,"Maiden of Light would end up an Overlord completa el contraste de 14530; se conserva el rango Overlord como «Gran Señora Demonio», distinto de Demon Lord.",https://steamcommunity.com/sharedfiles/filedetails/?id=3403520309
 14532,,requiere_investigacion,Demon Overload es una cadena inglesa anómala (¿errata de Overlord o juego de palabras?). No traducirla como título confirmado sin cotejo de recurso.,
 14533,La Pucelle: Ragnarok,revisado,Título comercial propio. Se normaliza el separador tipográfico a la forma usada en este proyecto.,https://nippon1.jp/consumer/lapucelle_ragnarok/
 1841,¿Qué necesitas de mí?,revisado,オレに用か? es pregunta informal de alguien que usa オレ; se conserva tono directo.,
@@ -980,7 +980,7 @@
 2017,Parece que le ha tomado mucho cariño al Mundo Oscuro.,revisado,"すっかり魔界が気に入ったご様子です: tercera persona, no tuteo al usuario.",
 2019,"Según parece, no destacó demasiado...",revisado,"大した活躍ではなかったそうですが: informes de batalla mediocres, no fracaso absoluto.",
 2020,Está en cama con un resfriado.,revisado,"カゼで寝込んでおられます: enfermedad de un individuo, no de varios.",
-2021,,requiere_investigacion,"次からは、もう少し丈夫な方を se interrumpe sin predicado. «La próxima vez, alguien más resistente...» es probable, pero debe cotejarse el fragmento siguiente.",
+2021,"La próxima vez, alguien más resistente...",revisado,"次からは、もう少し丈夫な方を es una petición sin predicado final en el original. Se conserva deliberadamente la elipsis en español, sin inventar «tráigame» ni «elija».","Cotejo interno: corpus/02/entrada.csv, DLC_00/talk00.dat"
 2022,Se ha convertido en una estrella del Mundo Oscuro.,revisado,"魔界のアイドルになられました: ídolo del espectáculo, no deidad. Mundo Oscuro según glosario.",
 2023,Hasta yo me he comprado su álbum de fotos.,revisado,わたくしも写真集を買ってしまいました: tono humorístico del propio informante.,
 2025,Se acaba de casar.,revisado,"このたび、ご結婚なさいました: matrimonio reciente del enviado, no plural.",
@@ -1020,7 +1020,7 @@
 2103,¡Tu registro de colección ha superado el 10 %!,revisado,"収集記録が10%を超えました! es porcentaje de objetos reunidos, no «recaudación».",
 2104,¡La redacción del periódico ha enviado un premio!,revisado,"新聞社から景品が届いていますよ indica origen del premio en empresa periodística, sin cambio a plural de premios.",
 2105,"¡Adelante, recógelo!",revisado,どうぞ、お受け取りください! expresa invitación cortés para recibir un premio.,
-2106,¡Has conseguido ATK Sodarts!,requiere_investigacion,"ATKソダーツ es nombre técnico de objeto ligado a ソダーツ del glosario. Sin comprobación del catálogo y etiqueta de inventario, no aprobar transliteración «Sodarts» ni convertirla en «Crecimiento» arbitrariamente.",
+2106,¡Has conseguido «Crecimiento de ATK»!,revisado,"La cadena ATKソダーツ es el nombre de un objeto independiente (grupo 548, DLC_00/kis.dat). El glosario define ソダーツ como Crecimiento de atributo y una lista japonesa de objetos confirma ATKソダーツ. Se conserva ATK como etiqueta técnica; la denominación del grupo 548 deberá armonizarse en coordinación.",https://xn--1-td6bm19b.com/lapyuseru-tengoku/item.html
 2107,¡Tu aventura de coleccionista no ha hecho más que empezar!,revisado,まだまだ収集の旅は始まったばかりですよ! conserva exhortación en segunda persona y tono entusiasta.,
 2108,¡A por el 30 %!,revisado,"目指せ、収集記録30%!! es objetivo de completar colección, no tasa de cobro. Ajuste de puntuación para evitar que el validador interprete «% d» como marcador printf; se conserva el porcentaje.",
 2109,¡El registro de colección ya supera el 30 %!,revisado,"収集記録が30%を越えましたよ! indica progreso del jugador, sin transformar en recaudación de dinero. Ajuste de puntuación para evitar que el validador interprete «% d» como marcador printf; se conserva el porcentaje.",
@@ -1030,7 +1030,7 @@
 2113,"«¡Si hay objetos, hay que coleccionarlos!».",revisado,そこにアイテムがあるから集めるんだ reproduce razonamiento circular humorístico del coleccionista.,
 2114,¡A por el 50 %!,revisado,目指せ、収集記録50%!! reto de recolección de objetos y no de dinero. Ajuste de puntuación para evitar que el validador interprete «% d» como marcador printf; se conserva el porcentaje.,
 2115,¡Por fin has superado el 50 %!,revisado,"とうとう収集記録が50%を越えました! comunica progreso, no récord económico. Ajuste de puntuación para evitar que el validador interprete «% d» como marcador printf; se conserva el porcentaje.",
-2116,¡Has conseguido un Anillo de poder mágico!,requiere_investigacion,"魔力の指輪 es un objeto con nombre propio. «Anillo de poder mágico» es traducción semántica, pero debe cotejarse con la denominación de inventario para mantener uniformidad.",
+2116,¡Has conseguido el Anillo mágico!,revisado,"魔力の指輪 es un objeto independiente con la misma grafía en el grupo 527 (DLC_00/kis.dat), cuya traducción de referencia es «Anillo mágico». Se conserva exactamente esa denominación.","Cotejo interno: data/maestros/03_TODOS_LOS_GRUPOS_15525.csv, grupo 527"
 2117,¡Parece que Prier y su grupo ocupan el segundo puesto en la clasificación de coleccionistas del reino de Paprica!,requiere_investigacion,"RESEGMENTAR_2 y EXPANSION_ALTA: la idea está clara, pero la frase se distribuye en dos unidades y exige verificar capacidad y corte.",
 2118,¡A por el 75 %!,revisado,"目指せ、収集記録75%!! objetivo de progreso, no «tasa de cobro». Ajuste de puntuación para evitar que el validador interprete «% d» como marcador printf; se conserva el porcentaje.",
 2119,¡¿Has superado ya el 75 %?!,revisado,"し、収集記録が75%を越えましたよ!? reproduce asombro y tartamudeo leve, sin añadir «guau». Ajuste de puntuación para evitar que el validador interprete «% d» como marcador printf; se conserva el porcentaje.",
