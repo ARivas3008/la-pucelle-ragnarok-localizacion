@@ -8,6 +8,15 @@ CAMPOS_FUENTE=('seccion','recurso','offset_inicio','unidades','unit_ids','idioma
                'estado_revision','estado_insercion','alertas','comentario',
                'contexto_previo','contexto_siguiente')
 REV_HEADER=['grupo_id','es_revisado','estado','notas_editoriales','referencias_consultadas']
+# Excepción de extracción probada byte a byte: NO traducir ni insertar el pseudo-texto.
+# Evidencia: data/control/EXCLUSIONES_TECNICAS_VERIFICADAS.md
+EXCLUSION_1630 = {
+    'grupo_id': '1630',
+    'recurso': 'DLC_00/ritem.dat',
+    'offset_inicio': '7552',
+    'original': 'ェD',
+    'sha256_original': '59a27ac7d76c43b4529b121fcf1e173a6207519f3427a362bd6cede7835f9f1c',
+}
 
 def validate(number=None,strict=False):
     failures=[]; counts=collections.Counter();ids=[]
@@ -41,6 +50,19 @@ def validate(number=None,strict=False):
                     val=exp['excel_dialogos_hoja' if k=='excel_dialogos_hoja' else 'excel_dialogos_fila' if k=='excel_dialogos_fila' else 'excel_unidades_referencias']
                     if a.get(k)!=val:failures.append(f'{code}: grupo {gid} referencia Excel {k} alterada')
             state=b['estado'];counts[state]+=1
+            # La única excepción técnica estricta requiere evidencia precisa y
+            # mantiene el campo español vacío; nunca se cuenta como traducción.
+            exencion_no_textual=(
+                gid==EXCLUSION_1630['grupo_id']
+                and all(a.get(k)==v for k,v in EXCLUSION_1630.items())
+                and state=='requiere_investigacion'
+                and not b['es_revisado'].strip()
+                and '20 AA 44' in b['notas_editoriales']
+                and 'offset 7556' in b['notas_editoriales']
+            )
+            if gid==EXCLUSION_1630['grupo_id'] and state=='revisado':
+                failures.append(f'{code}: grupo {gid} es dato binario; no declararlo texto traducido')
+            if exencion_no_textual:counts['exenciones_no_textuales_verificadas']+=1
             if state not in STATES:failures.append(f'{code}: grupo {gid} estado desconocido: {state}')
             if state=='revisado':
                 if not b['es_revisado'].strip():failures.append(f'{code}: grupo {gid} revisado sin español')
@@ -48,7 +70,7 @@ def validate(number=None,strict=False):
                     failures.append(f'{code}: grupo {gid} controles alterados: {marker_list(a["original"])} != {marker_list(b["es_revisado"])}')
             elif state=='requiere_investigacion' and not b['notas_editoriales'].strip():
                 failures.append(f'{code}: grupo {gid} requiere investigación sin nota')
-            if strict and state!='revisado':failures.append(f'{code}: grupo {gid} sigue en {state}')
+            if strict and state!='revisado' and not exencion_no_textual:failures.append(f'{code}: grupo {gid} sigue en {state}')
         if len(e)!=sum(1 for rr in r):failures.append(f'{code}: revisión incompleta')
     if len(ids)!=len(set(ids)):failures.append('IDs duplicados dentro de los corpus examinados')
     if not number:
