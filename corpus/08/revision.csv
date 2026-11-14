@@ -199,56 +199,56 @@
 8141,"¡Los hombres de hoy no tienen remedio!",revisado,"",""
 8142,"¡Dejar sola a una mujer tan frágil e indefensa como yo! ¡Será posible!",revisado,"Prier se queja irónicamente por haber quedado sola mientras Croix se aferra a Alouette.",""
 8143,"(¿Y por qué me pongo tan furiosa?)",revisado,"",""
-8144,,pendiente,,
-8145,,pendiente,,
-8146,,pendiente,,
-8147,,pendiente,,
-8148,,pendiente,,
-8149,,pendiente,,
-8150,,pendiente,,
-8151,,pendiente,,
-8152,,pendiente,,
-8153,,pendiente,,
-8154,,pendiente,,
-8155,,pendiente,,
-8156,,pendiente,,
-8157,,pendiente,,
-8158,,pendiente,,
-8159,,pendiente,,
-8160,,pendiente,,
-8161,,pendiente,,
-8162,,pendiente,,
-8163,,pendiente,,
-8164,,pendiente,,
-8165,,pendiente,,
-8166,,pendiente,,
-8167,,pendiente,,
-8168,,pendiente,,
-8169,,pendiente,,
-8170,,pendiente,,
-8171,,pendiente,,
-8172,,pendiente,,
-8173,,pendiente,,
-8174,,pendiente,,
-8175,,pendiente,,
-8176,,pendiente,,
-8177,,pendiente,,
-8178,,pendiente,,
-8179,,pendiente,,
-8180,,pendiente,,
-8181,,pendiente,,
-8182,,pendiente,,
-8183,,pendiente,,
-8184,,pendiente,,
-8185,,pendiente,,
-8186,,pendiente,,
-8187,,pendiente,,
-8188,,pendiente,,
-8189,,pendiente,,
-8190,,pendiente,,
-8191,,pendiente,,
-8192,,pendiente,,
-8193,,pendiente,,
+8144,"¿Q-qué le pasa a Prier?",revisado,"",""
+8145,"Creo que está enfadada porque ni ella misma entiende lo que siente.",revisado,"",""
+8146,"¿Hoy te cuesta un poco pensar, o qué?",revisado,"",""
+8147,"¡¿Por qué tardan tanto?! ¡Como no se apuren, los dejo atrás!",revisado,"",""
+8148,"Mmm…",revisado,"",""
+8149,"¿Es un callejón sin salida?",revisado,"",""
+8150,"¿Y esto qué es?",revisado,"",""
+8151,"Desde luego, es feísimo.",revisado,"",""
+8152,"Ay… ¿Pero qué se supone que…?",requiere_investigacion,"Original incompleto («Ouch...What do you»); no consta el complemento. Propuesta parcial: requiere confrontar bytes o audio.",""
+8153,"¿Así que son humanos?",revisado,"",""
+8154,"Vaya, vaya… Qué extraño.",revisado,"",""
+8155,"¿Q-quién eres?",revisado,"",""
+8156,"¿Yo?",revisado,"",""
+8157,"Me llaman Hermes.",revisado,"",""
+8158,"¿Y ustedes quiénes son?",revisado,"",""
+8159,"S-somos de la Iglesia de la Santa Doncella. Hemos venido a investigar…",requiere_investigacion,"El original omite el nombre de la iglesia tras «from the»; la transcripción de la escena permite reconstruir «Church of the Holy Maiden». Verificar que el texto quepa en las unidades y el cambio de voz.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8160,"Nunca había oído hablar de ella.",revisado,"",""
+8161,"¿Son mendigos?",revisado,"",""
+8162,"¡Somos religiosas!",revisado,"«Sisters» se refiere a religiosas, no a hermanas familiares.",""
+8163,"Servimos a la diosa Poitreene y a la Doncella de la Luz. Mmm… ¿Y qué hacen aquí, hermanas?",requiere_investigacion,"El grupo mezcla dos parlamentos, de Prier y Hermes, y el original extraído omite «We serve the Goddess… and the Maiden of Light». La transcripción permite reconstruirlos, pero requiere segmentación por hablante.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8164,"Hemos venido a investigar un lugar llamado Fátima.",revisado,"",""
+8165,"Ya veo… Sí, sí…",revisado,"",""
+8166,"Sí, ya veo…",revisado,"",""
+8167,"Así que, por fin, ha llegado el momento…",revisado,"",""
+8168,"Eso significa que tú…",revisado,"",""
+8169,"Mmm… Sí…",revisado,"",""
+8170,"Tienen una ardua tarea por delante…",revisado,"",""
+8171,"Oh, no tardarán en descubrirlo.",revisado,"",""
+8172,"¿Así que quieren saber de Fátima, eh?",revisado,"",""
+8173,"¿Sabes algo sobre ese lugar?",revisado,"",""
+8174,"Por supuesto.",revisado,"",""
+8175,"¿Acaso no sabes quién soy?",revisado,"",""
+8176,"Soy el Mediador.",revisado,"",""
+8177,"Estoy entre la diosa Poitreene y el ángel caído Calamity.",revisado,"«Calamity» es nombre propio del ángel caído (japonés カラミティー), no traducir como «Calamidad».",""
+8178,"Sé cuanto ocurre en este mundo. Bueno, casi todo.",revisado,"",""
+8179,"¿Eres un mediador?",revisado,"",""
+8180,"Digamos que soy una especie de guardián. Velo por el equilibrio entre la luz y la oscuridad.",requiere_investigacion,"El original termina en «light and»; se recupera «darkness» mediante transcripción externa. Queda pendiente cotejar la unidad final antes de aprobar.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8181,"Pero, si eres tan importante, ¿qué haces aquí?",revisado,"",""
+8182,"Ni yo mismo lo sé…",revisado,"",""
+8183,"Hace cientos de años… No, miles, que llegué aquí…",revisado,"",""
+8184,"Ya ni recuerdo por qué…",revisado,"",""
+8185,"¿Crees que podemos fiarnos de este tipo?",revisado,"",""
+8186,"Será mejor preguntarle. No tenemos ninguna otra pista.",revisado,"",""
+8187,"Supongo que tienes razón.",revisado,"",""
+8188,"Por preguntar no perdemos nada.",revisado,"",""
+8189,"¿Nos contarías lo que sabes sobre Fátima?",revisado,"",""
+8190,"Con mucho gusto.",revisado,"",""
+8191,"Pero tendrá un precio.",revisado,"",""
+8192,"¡Pues claro!",revisado,"",""
+8193,"¿Qué esperaban?",revisado,"",""
 8194,,pendiente,,
 8195,,pendiente,,
 8196,,pendiente,,
