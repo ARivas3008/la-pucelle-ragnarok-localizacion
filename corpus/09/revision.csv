@@ -526,12 +526,12 @@
 9474,Quiero decir... ¿Nunca has odiado tus poderes ni a quienes te persiguieron por ellos?,revisado,Revisión humana del original y diálogo adyacente.,
 9475,No. Nunca.,revisado,Revisión humana del original y diálogo adyacente.,
 9476,Puedo utilizar mis poderes para ayudar a tanta gente que sufre...,revisado,Cotejo final de secuencias fuente y continuidad: Las dos unidades 15138–15139 expresan «to help many suffering [people]». El referente humano se sobreentiende con certeza; se conserva la suspensión sin completar una segunda proposición.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
-9477,...más que eso.,requiere_investigacion,Fragmento «than that.» huérfano; imposible determinar con precisión la comparación previa y el límite de unidad. Auditoría adicional: «than that.» es resto de comparación sin primer término; no forzar conexión con 9476 hasta cotejar.,
+9477,No hay nada mejor que eso.,revisado,"Cotejo de unidad fuente y transcripción: La unidad 15140 contiene solo «than that», continuación de Angelique. La transcripción de la conversación conserva la oración completa «There's nothing better than that», referida al bien que puede hacer con sus poderes.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9478,(Qué situación tan complicada...),revisado,Revisión humana del original y diálogo adyacente.,
 9479,(Parece una chica estupenda.),revisado,Revisión humana del original y diálogo adyacente.,
 9480,"(Cuando me enteré de que era la prometida de Croix, estaba dispuesta a odiarla, pero ahora...)",revisado,Revisión humana del original y diálogo adyacente.,
-9481,(No consigo encontrarle nada malo...) (¡Qué deprimente!),requiere_investigacion,"Dos pensamientos aparecen unidos, posiblemente con separación de pantallas. Conserva sentido provisional; cotejar segmentación.",
-9482,(Es como si me superara como persona y también como...) (¿Así se siente uno cuando le rompen el corazón...?),requiere_investigacion,"Doble pensamiento concatenado, con comparación truncada después de «as a»; no completar sin datos.",
+9481,"(Por más que lo intento, no consigo caerle mal...) (¡Qué deprimente!)",revisado,"Cotejo de unidad fuente y transcripción: Las unidades 15147–15149 contienen dos pensamientos completos de Prier. La transcripción confirma el contenido de ambos; se adapta el primero de forma natural, sin cambiar la voz.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9482,(Parece mejor persona que yo... y hasta mejor mujer...) (¿Así se siente alguien cuando le rompen el corazón...?),revisado,"Cotejo de unidad fuente y transcripción: Las unidades 15150–15155 pierden el sustantivo final tras «as a». La transcripción independiente preserva «as a woman», que se traduce «mujer»; ambas preguntas son pensamientos interiores de Prier.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9483,"Prier, ¿puedo preguntarte una cosa?",revisado,"Cotejo final de secuencias fuente y continuidad: La unidad 15156 dice «Prier, can I ask you» y la siguiente intervención da el motivo de la pregunta. «Una cosa» completa la construcción interrogativa sin introducir contenido.",data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9484,Hay algo que me intriga desde que nos conocimos.,revisado,Revisión humana del original y diálogo adyacente.,
 9485,Mi Croix y el Croix que viaja contigo son casi idénticos. ¿No te parece que tú y yo también nos parecemos mucho?,revisado,Revisión humana del original y diálogo adyacente.,
@@ -770,7 +770,7 @@
 9830,¡Qué horror...!,revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
 9831,"¡A estas alturas, la hermana Ravioli debe de estar hecha pedazos!",revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
 9832,¡Es increíble que haya podido comunicarse con nosotros!,revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
-9833,¡Tenemos que...!,requiere_investigacion,Frase interrumpida; no se puede determinar el verbo que completa la urgencia.,
+9833,¡Tenemos que...!,revisado,"Cotejo de unidad fuente y transcripción: La unidad 15912 termina expresamente con una interrupción «。。。!», inmediatamente antes de que Hermes interrumpa la escena. La exclamación es deliberadamente incompleta y no requiere añadir un verbo.",data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv
 9834,¿Tienes un momento?,revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
 9835,"Soy yo, Hermes, de... ¿¡Hermes!?",requiere_investigacion,Fusión del saludo de Hermes con sorpresa de otro personaje; «from» indica procedencia truncada.,
 9836,"Así que te acuerdas de mí... C-Culotte, ¿quién es?",requiere_investigacion,Dos voces en el mismo grupo: Hermes y otro integrante que pregunta a Culotte. Cortes de unidad pendientes.,
@@ -989,7 +989,7 @@
 10049,"Por desgracia, mi papel termina aquí.",revisado,"Veloute anuncia su retirada, sin atribuirle muerte.",
 10050,Me temo que debo atender otros asuntos...,revisado,El enemigo se excusa.,
 10051,Pero esto todavía no ha acabado...,revisado,Amenaza de un futuro encuentro.,
-10052,...están a salvo...,requiere_investigacion,"El texto «are safe...» carece de sujeto y arranque; no inventar quién está a salvo ni pronombres, y comprobar origen.",
+10052,"¡Qué alivio, estás a salvo...!",revisado,"Cotejo de unidad fuente y transcripción: La unidad 16369 empieza en «are safe...». En la transcripción del reencuentro, Éclair exclama «Thank goodness you're safe» antes de la fanfarronada de Homard; se repone solo la introducción omitida.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 10053,¡Ja! ¿De veras pensaban que alguien podía vencer al gran capitán Homard?,revisado,"Fanfarronería del capitán, dirigida al grupo.",
 10054,"Venga, venga... Sécate las lágrimas.",revisado,Homard consuela a Éclair.,
 10055,No me gusta ver llorar a una mujer.,revisado,Galanteo característico de Homard.,
@@ -1056,4 +1056,4 @@
 10116,"Vamos, Prier.",revisado,Llamada de la voz que insta a Prier a actuar.,
 10117,Tienes que combatir.,revisado,Exhortación directa a Prier.,
 10118,¡No puedo enfrentarme a Croix!,revisado,Prier expresa rechazo personal a luchar contra él.,
-10119,"Además, ¿qué podría hacer alguien como yo...? Siempre soñé con convertirme en la Doncella de la Luz, pero ahora comprendo que... Alouette y Angelique son quienes de verdad deberían ser Doncellas de la Luz, no yo.",requiere_investigacion,Diez unidades recogen varias intervenciones/pausas; texto inglés pierde el complemento tras «what can someone like me do» y «I have come to realize». Propuesta editorial pendiente de resegmentación.,
+10119,"Además, ¿qué podría hacer alguien como yo...? Siempre soñé con convertirme en la Doncella de la Luz, pero ahora comprendo que Alouette y Angelique son quienes de verdad merecen ese título, no yo.",revisado,"Cotejo de unidad fuente y transcripción: Las unidades 16511–16520 pertenecen al mismo monólogo de Prier: cuestiona su valía, recuerda su sueño y compara su mérito con el de Alouette y Angelique. La frase «I have come to realize» se conecta con su complemento siguiente; no se inventa otro parlamento.",data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv
