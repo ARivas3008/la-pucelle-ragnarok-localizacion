@@ -312,7 +312,7 @@
 14214,,requiere_investigacion,Hate puede ser verbo «odiar» o sustantivo «odio»; no se conoce la función en la combinación.,
 14215,Pimienta,revisado,Pepper designa condimento picante; «pimienta» es equivalente nominal usual.,
 14216,Incluso mientras,revisado,"Even as implica simultaneidad con matiz enfático («incluso mientras»), no solo «incluso».",
-14217,,requiere_investigacion,"Yet puede ser «todavía», «aún», «sin embargo» o «ya» según construcción; no se resuelve con una palabra aislada.",
+14217,Sin embargo,revisado,Yet tiene lectura adversativa y en el mismo desplazamiento la fuente japonesa contiene なのに («sin embargo / aun así»). Se prioriza esta lectura concordante frente a «todavía».,"Cotejo bilingüe: corpus/02/entrada.csv, grupos 1380 y 14217"
 14218,Pero no,revisado,But not es conector adversativo más negación; se preserva el contraste.,
 14219,Parece,revisado,Seems expresa apariencia o conjetura en tercera persona; «parece» mantiene elipsis de sujeto.,
 14220,Miso,revisado,Miso es pasta fermentada japonesa; término gastronómico asentado.,
@@ -366,7 +366,7 @@
 14268,Definitivo,revisado,Ultimate puede significar final o supremo; «definitivo» mantiene el valor de máximo o último.,
 14269,Último,revisado,"Last como adjetivo de posición final, apoyado por la secuencia con Ultimate.",
 14270,,requiere_investigacion,"Once puede ser «una vez», «en otro tiempo» o conjunción «una vez que»; no hay estructura que permita cerrar el sentido.",
-14271,,requiere_investigacion,It even no constituye una unidad completa: necesita verbo o complemento; «incluso» suprime el sujeto y puede alterar la concatenación.,
+14271,Eso también,revisado,"It even es una secuencia incompleta en inglés. En el desplazamiento idéntico el japonés それも significa literalmente «eso también», sentido autónomo sin verbo inventado.","Cotejo bilingüe: corpus/02/entrada.csv, grupos 1436 y 14271"
 14272,Dentro de poco,revisado,Shortly expresa una espera breve en el futuro; «dentro de poco» es natural en español.,
 14273,Allí,revisado,There funciona como adverbio espacial en ausencia de otra estructura; traducción breve.,
 14274,Y,revisado,And introduce coordinación; se mantiene como conjunción independiente.,
@@ -380,12 +380,12 @@
 14282,Una vez más,revisado,Once again expresa repetición adicional; locución habitual.,
 14283,,requiere_investigacion,What I es sintagma incompleto («lo que yo...») que requiere verbo; no se conoce el patrón de unión de nombres.,
 14284,Y yo,revisado,And I añade al hablante como sujeto coordinado; forma natural en español.,
-14285,,requiere_investigacion,When some es construcción incompleta y no significa únicamente «cuando»: falta el sentido de some y su sustantivo.,
-14286,,requiere_investigacion,"Fine puede ser «bien», «fino», «multa» o «excelente», según función; no hay desambiguación suficiente.",
+14285,A veces,revisado,"When some es un fragmento inglés mal formado. El elemento japonés en el mismo desplazamiento ある時は significa «a veces / en ocasiones», por lo que se recupera el valor original.","Cotejo bilingüe: corpus/02/entrada.csv, grupos 1452 y 14285"
+14286,Bastante bien,revisado,Fine admite valor evaluativo y el japonés paralelo けっこう significa «bastante / aceptable». Se conserva valoración moderada sin fijar un objeto o atributo ausente.,"Cotejo bilingüe: corpus/02/entrada.csv, grupos 1453 y 14286"
 14287,Hacia casa,revisado,"Homeward expresa dirección del regreso al hogar, no simplemente «en casa».",
 14288,De repente,revisado,Suddenly indica irrupción inesperada; equivalencia adverbial directa.,
 14289,Desenfreno,revisado,Rampage es estallido de violencia o conducta descontrolada; «desenfreno» mantiene tono de exceso.,
-14290,,requiere_investigacion,"All puede significar «todos», «todo» o «entero» según el sustantivo; sin composición es arriesgado fijar género o número.",
+14290,De todos,revisado,"All omite el matiz de posesión que sí expresa el japonés みんなの en el mismo desplazamiento. Se recupera «de todos» como fragmento genitivo del generador, sin inventar género.","Cotejo bilingüe: corpus/02/entrada.csv, grupos 1457 y 14290"
 14291,Superar,revisado,Exceed como verbo indica rebasar un límite o cantidad; se conserva infinitivo.,
 14292,,requiere_investigacion,"Anymore suele aparecer en construcciones negativas («ya no»), pero también tiene usos afirmativos dialectales; necesita una frase completa.",
 14293,Bastante bien,revisado,Pretty fine es valoración informal positiva moderada; se evita exagerar con «muy bien».,
@@ -394,7 +394,7 @@
 14296,Atreverse,revisado,"Dare como verbo se corresponde con la forma japonesa paralela あえて, que implica obrar deliberadamente o atreverse a hacer algo. Se usa infinitivo independiente sin sujeto.","Cotejo: corpus/02/entrada.csv, grupos 1462 y 14296"
 14297,En secreto,revisado,In secret significa con reserva u ocultamiento; se mantiene como locución adverbial.,
 14298,Sigilosamente,revisado,Stealithly es grafía anómala de stealthily; se traduce el adverbio probable sin alterar la cadena fuente.,
-14299,,requiere_investigacion,"Look good puede ser imperativo «pon buena cara», predicado «tener buen aspecto» o elogio estético; sin sujeto no se fija.",
+14299,Se mire como se mire,revisado,"Look good es una adaptación inglesa imprecisa del japonés どう見ても, que significa «se mire como se mire». La pareja en el mismo desplazamiento permite reparar la pérdida de significado.","Cotejo bilingüe: corpus/02/entrada.csv, grupos 1465 y 14299"
 14300,¡Cállate!,revisado,Shut up es orden coloquial y brusca para guardar silencio; se preserva intensidad.,
 14301,Aun así,revisado,Even so introduce concesión; «aun» sin tilde equivale a «incluso».,
 14302,¡Para!,revisado,Stop como imperativo pide cesar una acción; se evita el sustantivo «parada».,
