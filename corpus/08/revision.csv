@@ -749,56 +749,56 @@
 8691,"¡Capitán!",revisado,"",""
 8692,"Nos vamos a estrellar, eso está claro.",revisado,"",""
 8693,"¡Pero no descansaré hasta vengarme!",revisado,"",""
-8694,,pendiente,,
-8695,,pendiente,,
-8696,,pendiente,,
-8697,,pendiente,,
-8698,,pendiente,,
-8699,,pendiente,,
-8700,,pendiente,,
-8701,,pendiente,,
-8702,,pendiente,,
-8703,,pendiente,,
-8704,,pendiente,,
-8705,,pendiente,,
-8706,,pendiente,,
-8707,,pendiente,,
-8708,,pendiente,,
-8709,,pendiente,,
-8710,,pendiente,,
-8711,,pendiente,,
-8712,,pendiente,,
-8713,,pendiente,,
-8714,,pendiente,,
-8715,,pendiente,,
-8716,,pendiente,,
-8717,,pendiente,,
-8718,,pendiente,,
-8719,,pendiente,,
-8720,,pendiente,,
-8721,,pendiente,,
-8722,,pendiente,,
-8723,,pendiente,,
-8724,,pendiente,,
-8725,,pendiente,,
-8726,,pendiente,,
-8727,,pendiente,,
-8728,,pendiente,,
-8729,,pendiente,,
-8730,,pendiente,,
-8731,,pendiente,,
-8732,,pendiente,,
-8733,,pendiente,,
-8734,,pendiente,,
-8735,,pendiente,,
-8736,,pendiente,,
-8737,,pendiente,,
-8738,,pendiente,,
-8739,,pendiente,,
-8740,,pendiente,,
-8741,,pendiente,,
-8742,,pendiente,,
-8743,,pendiente,,
+8694,"Probando… Probando…",revisado,"",""
+8695,"Atención, tripulación. Les habla… Estamos a punto de chocar contra el suelo en un vuelo sin control.",requiere_investigacion,"Original roto en «All hands, this is We are about to experience…», probablemente falta quién habla por megafonía. No se inventa el nombre; propuesta provisional.",""
+8696,"Solo tengo un consejo para todos: ¡no se mueran!",revisado,"Original pierde «you» en «for all of…»; queda inequívoca la exhortación «Don't die!».",""
+8697,"Eso es todo.",revisado,"",""
+8698,"¡Esto es un desastre!",revisado,"",""
+8699,"¡Yo me encargo del Escargot!",revisado,"«Escargot» es nombre propio de la aeronave, no «caracoles».",""
+8700,"¡Muy bien! ¡Confío en ti, Yattanya!",revisado,"",""
+8701,"¡Bah! ¡Hasta nunca!",revisado,"",""
+8702,"¡Qué descanso poder alejarme de ti!",revisado,"",""
+8703,"Ya, ya… Si sé que me vas a echar de menos…",revisado,"",""
+8704,"¡¿Q-quéééé?!",revisado,"",""
+8705,"¿Quieres comprar algo?",revisado,"",""
+8706,"El vicecapitán Yattanya y los demás cuidaremos de la nave.",revisado,"Yattanya es nombre propio oficial; «vice-captain» es segundo al mando.",""
+8707,"Nunca se sabe cuándo alguien del grupo quedará fuera de combate.",revisado,"",""
+8708,"Conviene convertir y entrenar algunos monstruos para tenerlos de reserva.",revisado,"",""
+8709,"Si aumentas su Ánimo a 10, ¡también podrán usar la orden «Purificar»!",revisado,"Terminología del glosario: «Ánimo» para happiness y «Purificar» para Purify; conservar umbral numérico 10.",""
+8710,"Se supone que debemos reparar la nave, ¡pero no tengo ni idea de cómo hacerlo!",revisado,"",""
+8711,"Si esperas consejos útiles de nosotros, te llevarás una decepción.",revisado,"",""
+8712,"Por 5000 prica, te ayudaré.",revisado,"Prica es la unidad monetaria ficticia y 5000 la cantidad exacta.",""
+8713,"Vuelve cuando tengas suficiente.",revisado,"",""
+8714,"Vaya, ya llevas demasiados compañeros.",revisado,"",""
+8715,"¡Monyamonya se ha unido al grupo!",revisado,"Monyamonya se conserva como nombre propio; mensaje de incorporación al grupo.",""
+8716,"La flor de fiancailles está floreciendo.",revisado,"Se conserva «fiancailles» como nombre de flor; conviene verificar grafía en interfaz original antes de insertarla.",""
+8717,"Debe de haber una cueva en algún lugar de la jungla que lleve a Fátima.",revisado,"",""
+8718,"Primero tenemos que encontrarla.",revisado,"",""
+8719,"¿Lo entiendes, Alouette?",revisado,"",""
+8720,"No te fuerces, ¿de acuerdo?",revisado,"",""
+8721,"Gracias, Prier.",revisado,"",""
+8722,"Ya cuesta bastante avanzar por esta jungla.",revisado,"",""
+8723,"¿Estará bien Alouette…?",revisado,"",""
+8724,"Tenemos que mantener la cabeza fría y evitar hacer tonterías.",revisado,"",""
+8725,"Fátima, el lugar destruido en una sola noche…",revisado,"",""
+8726,"¿Pero en qué clase de sitio nos hemos metido…?",revisado,"",""
+8727,"No parece un lugar donde vayamos a pasarlo precisamente bien…",revisado,"",""
+8728,"Como miembro de la familia real, tengo que recordar toda clase de información.",revisado,"",""
+8729,"¡No pienso ser una carga para el grupo!",revisado,"La hablante es Éclair; se evita el calco de «drag them down».",""
+8730,"Me alegra saber que puedo contar contigo.",revisado,"",""
+8731,"¡Dejen las reparaciones del Escargot en nuestras manos!",revisado,"Se conserva la aeronave Escargot, no el sustantivo «caracoles».",""
+8732,"¡Nos adelantamos!",revisado,"",""
+8733,"Vaya, esos gatos sí que son de fiar.",revisado,"",""
+8734,"Deja de llamarlos gatos… ¡Son hombres!",revisado,"",""
+8735,"(O sea… ¿gatos machos?)",revisado,"Juego humorístico entre «gatos», «hombres» y «gatos machos».",""
+8736,"Ojalá estas ruinas nos conduzcan a… —Tal como dijo Homard, ¿eh?",requiere_investigacion,"Dos hablantes parecen fusionados y el primero queda truncado después de «lead us to». No se inventa el destino de las ruinas; revisar japonés/bytes.",""
+8737,"Esto me preocupa un poco.",revisado,"",""
+8738,"Si esas ruinas son de los habitantes de Fátima, ¿cómo pudieron destruirla en una sola noche?",revisado,"Fatimans se refiere a habitantes del mundo ficticio Fátima, no a los fatimíes históricos.",""
+8739,"¡No paran de hablar de cosas que se me escapan!",revisado,"",""
+8740,"¡Ya me cansa darle tantas vueltas a estas cosas!",revisado,"",""
+8741,"Ay, Prier…",revisado,"",""
+8742,"¿Confiar en su experiencia y su intuición, eh?",revisado,"",""
+8743,"Seguro que ese capitán ha sobrevivido a más de una auténtica carnicería.",revisado,"",""
 8744,,pendiente,,
 8745,,pendiente,,
 8746,,pendiente,,
