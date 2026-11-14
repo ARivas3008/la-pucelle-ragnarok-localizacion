@@ -399,56 +399,56 @@
 8341,"¡Madre!",revisado,"",""
 8342,"Al final todo ha salido bien, ¿verdad, Éclair?",revisado,"",""
 8343,"¡Baterías a plena carga!",revisado,"Exclamación técnica sobre la aeronave Escargot: se conserva la referencia a las baterías.",""
-8344,,pendiente,,
-8345,,pendiente,,
-8346,,pendiente,,
-8347,,pendiente,,
-8348,,pendiente,,
-8349,,pendiente,,
-8350,,pendiente,,
-8351,,pendiente,,
-8352,,pendiente,,
-8353,,pendiente,,
-8354,,pendiente,,
-8355,,pendiente,,
-8356,,pendiente,,
-8357,,pendiente,,
-8358,,pendiente,,
-8359,,pendiente,,
-8360,,pendiente,,
-8361,,pendiente,,
-8362,,pendiente,,
-8363,,pendiente,,
-8364,,pendiente,,
-8365,,pendiente,,
-8366,,pendiente,,
-8367,,pendiente,,
-8368,,pendiente,,
-8369,,pendiente,,
-8370,,pendiente,,
-8371,,pendiente,,
-8372,,pendiente,,
-8373,,pendiente,,
-8374,,pendiente,,
-8375,,pendiente,,
-8376,,pendiente,,
-8377,,pendiente,,
-8378,,pendiente,,
-8379,,pendiente,,
-8380,,pendiente,,
-8381,,pendiente,,
-8382,,pendiente,,
-8383,,pendiente,,
-8384,,pendiente,,
-8385,,pendiente,,
-8386,,pendiente,,
-8387,,pendiente,,
-8388,,pendiente,,
-8389,,pendiente,,
-8390,,pendiente,,
-8391,,pendiente,,
-8392,,pendiente,,
-8393,,pendiente,,
+8344,"¡No me llames jefe!",revisado,"«Boss» es apelativo del superior del grupo: se conserva la reprimenda.",""
+8345,"¡Allá vamos, bolas de pelo!",revisado,"",""
+8346,"¡El Escargot está despegando!",revisado,"",""
+8347,"¡Rumbo a Fátima!",revisado,"",""
+8348,"Adiós…",revisado,"",""
+8349,"Que la luz de la esperanza los acompañe siempre, vayan donde vayan.",requiere_investigacion,"El inglés no marca singular/plural; propuesta en plural por despedida del grupo, a confirmar si el parlamento se dirige solo a Éclair.",""
+8350,"En este Sacro Reino de Paprica, las mujeres son quienes heredan el trono.",revisado,"聖パプリカ王国: literalmente «Sacro Reino de Paprica», norma sucesoria matrilineal.",""
+8351,"Por eso, la próxima reina será seguramente Éclair, la única hija de la reina Crépine.",revisado,"",""
+8352,"A mí esa gente de la Iglesia de la Madre Divina nunca me ha caído bien.",revisado,"聖母神教会 se refiere a la Iglesia de la Madre Divina, rival de la Iglesia de la Santa Doncella. Fuentes anglófonas confirman que son organizaciones diferentes.","https://www.mobygames.com/game/66480/la-pucelle-ragnar%C3%B8k/"
+8353,"¡Andan encapuchados incluso a plena luz del día! ¡Más sospechosos, imposible!",revisado,"フード = capucha, no prenda moderna «sudadera». Se conserva el tono receloso de un anciano.",""
+8354,"¡Hace un rato vino uno de sus fieles a intentar convertirme!",revisado,"",""
+8355,"«¡Si se une ahora a la Iglesia de la Madre Divina, le regalamos un vale para un viaje a unas aguas termales!»",revisado,"Ajuste de la publicidad religiosa en estilo de oferta comercial, conservando el vale para termas.",""
+8356,"¡Eso fue lo que me soltó, el muy caradura!",revisado,"ぬかしおって expresa desprecio por lo dicho; no significa «etcétera».",""
+8357,"¡Y pensar que estuve a punto de hacerme fiel suyo!",revisado,"",""
+8358,"Parece que los de la banda del Escargot han venido… ¿Qué fechoría estarán tramando?",revisado,"エスカルゴ団 = banda asociada al Escargot, no «banda de los caracoles».",""
+8359,"¡Mientras uno es joven, hay que lanzarse sin miedo!",revisado,"",""
+8360,"¡Ánimo, jóvenes!",revisado,"",""
+8361,"¿A que he quedado de lo más gallardo?",revisado,"",""
+8362,"¡No hace falta disimularlo, no hace falta!",revisado,"",""
+8363,"¡Lo sé toooodo!",revisado,"",""
+8364,"En fin, ¡mucho ánimo!",revisado,"ファイト es exhortación a esforzarse, no orden de combatir.",""
+8365,"Oye, tú eres monja, ¿no?",revisado,"",""
+8366,"¿Para qué sirve la religión?",revisado,"",""
+8367,"Venga, dímelo.",revisado,"",""
+8368,"Pues…",revisado,"",""
+8369,"¿Para qué servirá…?",revisado,"",""
+8370,"¿De verdad existe la diosa?",revisado,"",""
+8371,"Ahora que lo pienso, yo tampoco la he visto nunca.",revisado,"",""
+8372,"¿Por qué la gente se pelea en nombre de los dioses?",revisado,"神の名のもとに = «en nombre de los dioses», no «por los nombres de los dioses».",""
+8373,"E-eso es…",revisado,"",""
+8374,"¿De dónde venimos los seres humanos y adónde vamos?",revisado,"",""
+8375,"¿No puedes hacer preguntas más propias de tu edad?",revisado,"",""
+8376,"¿Quién es más fuerte, la diosa Poitreene o el ángel caído Calamity?",revisado,"Se conservan los nombres propios Poitreene y Calamity.",""
+8377,"¿Para qué existen los seres humanos?",revisado,"",""
+8378,"¿Por qué los humanos no son sinceros con sus propios sentimientos?",revisado,"",""
+8379,"Cree en ti misma y sé sincera con tus sentimientos, Prier…",revisado,"プリエ es el nombre de la protagonista, no el ballet «plié». Imperativo dirigido a una mujer.",""
+8380,"¡¿Eh?!",revisado,"",""
+8381,"…¿Será posible que tú…?",revisado,"",""
+8382,"¡Eh, Prier!",revisado,"",""
+8383,"¿Qué te parece tener una cita con este viejo algún día?",revisado,"",""
+8384,"¿Por qué todos los hombres que se me acercan son unos viejos como este…?",revisado,"",""
+8385,"Bueno, peor sería que nadie te hiciera caso, ¿no?",revisado,"",""
+8386,"Hace un rato, un hombre con gafas de sol andaba preguntando por los asesinatos recientes.",revisado,"",""
+8387,"¿Será un agente de la policía real?",revisado,"",""
+8388,"Dicen que en el bosque de Munier habita un temible Señor del Bosque.",revisado,"ヌシ designa al señor o guardián del bosque: no inventar que se trate de un «espíritu».","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8389,"Más vale no tentar a la suerte.",revisado,"さわらぬ神にたたりなし: proverbio sobre evitar problemas al no involucrarse, no «no tocar lo que funciona».","https://www.japandict.com/%E8%A7%A6%E3%82%89%E3%81%AC%E7%A5%9E%E3%81%AB%E7%A5%9F%E3%82%8A%E3%81%AA%E3%81%97"
+8390,"Lo mejor es no acercarse.",revisado,"",""
+8391,"¿Dicen que te encontraste con el Señor del Bosque de Munier?",revisado,"",""
+8392,"¿Y qué pasó?",revisado,"",""
+8393,"¿Lo derrotaste?",revisado,"退治したのかい se refiere al Señor del Bosque, singular.",""
 8394,,pendiente,,
 8395,,pendiente,,
 8396,,pendiente,,
