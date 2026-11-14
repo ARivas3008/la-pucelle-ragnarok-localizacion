@@ -809,56 +809,56 @@
 12933,Mapa del mundo,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
 12934,Enfermería de la Santa Doncella,revisado,"Infirmary se refiere a 聖女会病棟, enfermería de la Santa Doncella, grupo 135; mantener institución del juego.",glosario/terminos_investigados.csv
 12935,Habitación del padre Salade,revisado,Office corresponde a サラド神父の部屋 «Habitación del padre Salade» en grupo 136; evitar función de oficina no expresada por el japonés.,glosario/terminos_investigados.csv
-12936,,pendiente,,
-12937,,pendiente,,
-12938,,pendiente,,
-12939,,pendiente,,
-12940,,pendiente,,
-12941,,pendiente,,
-12942,,pendiente,,
-12943,,pendiente,,
-12944,,pendiente,,
-12945,,pendiente,,
-12946,,pendiente,,
-12947,,pendiente,,
-12948,,pendiente,,
-12949,,pendiente,,
-12950,,pendiente,,
-12951,,pendiente,,
-12952,,pendiente,,
-12953,,pendiente,,
-12954,,pendiente,,
-12955,,pendiente,,
-12956,,pendiente,,
-1177,,pendiente,,
-1178,,pendiente,,
-1179,,pendiente,,
-1180,,pendiente,,
-1181,,pendiente,,
-1182,,pendiente,,
-1183,,pendiente,,
-1184,,pendiente,,
-1185,,pendiente,,
-1186,,pendiente,,
-1187,,pendiente,,
-1188,,pendiente,,
-1189,,pendiente,,
-1190,,pendiente,,
-1191,,pendiente,,
-1192,,pendiente,,
-1193,,pendiente,,
-1194,,pendiente,,
-1195,,pendiente,,
-1196,,pendiente,,
-1197,,pendiente,,
-1198,,pendiente,,
-1199,,pendiente,,
-1200,,pendiente,,
-1201,,pendiente,,
-1202,,pendiente,,
-1203,,pendiente,,
-1204,,pendiente,,
-1205,,pendiente,,
+12936,Iglesia,revisado,"Church es genérico en el inglés; no permite decidir si se trata del interior o la entrada de la catedral, dos rótulos japoneses separados. «Iglesia» es fiel al término tal como se presenta aquí.",glosario/terminos_investigados.csv
+12937,Tienda de udon Yamasemi,revisado,Udon Shop omite el nombre comercial Yamasemi que aparece en うどん屋やませみ (grupo 139).,glosario/terminos_investigados.csv
+12938,Tienda Rosenqueen,revisado,Store omite Rosenqueen del japonés ローゼンクイーン商会 (grupo 140); se armoniza el establecimiento.,glosario/terminos_investigados.csv
+12939,Orfanato,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12940,Salida,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12941,Hombre misterioso,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12942,Niño,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12943,Niña,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12944,Suzanne,revisado,"Suzzane es una grafía errónea frente a Suzanne, personaje que aparece con ese nombre en otro registro. Se normaliza sin modificar el original.",glosario/terminos_investigados.csv
+12945,Señorita,revisado,"Woman corresponde al rótulo joven お姉さん del grupo 146: «Señorita», sin parentesco inventado.",glosario/terminos_investigados.csv
+12946,Joven,revisado,"Man corresponde al apelativo de joven お兄さん del grupo 147: «Joven», sin parentesco inventado.",glosario/terminos_investigados.csv
+12947,Señor,revisado,"Uncle simplifica おじさん como trato coloquial; se traduce «Señor», no tío consanguíneo.",glosario/terminos_investigados.csv
+12948,Director,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12949,Señora,revisado,"Aunt simplifica おばさん como trato; se traduce «Señora», no familiar consanguínea.",glosario/terminos_investigados.csv
+12950,Anciano,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12951,Anciana,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12952,Hermana Olive,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12953,Rapan,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12954,Pomp,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12955,Flenet,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12956,Ellie,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+1177,-kun,revisado,"Sufijo honorífico o de apodo, sin equivalente unívoco en castellano. Se conserva la forma romanizada como pieza de nombre propio; requiere comprobar representación compuesta en juego.",https://www.japanesewithanime.com/2016/07/honorific-suffixes.html
+1178,-chan,revisado,"Sufijo honorífico o de apodo, sin equivalente unívoco en castellano. Se conserva la forma romanizada como pieza de nombre propio; requiere comprobar representación compuesta en juego.",https://www.japanesewithanime.com/2016/07/honorific-suffixes.html
+1179,-san,revisado,"Sufijo honorífico o de apodo, sin equivalente unívoco en castellano. Se conserva la forma romanizada como pieza de nombre propio; requiere comprobar representación compuesta en juego.",https://www.japanesewithanime.com/2016/07/honorific-suffixes.html
+1180,-sama,revisado,"Sufijo honorífico o de apodo, sin equivalente unívoco en castellano. Se conserva la forma romanizada como pieza de nombre propio; requiere comprobar representación compuesta en juego.",https://www.japanesewithanime.com/2016/07/honorific-suffixes.html
+1181,-dono,revisado,"Sufijo honorífico o de apodo, sin equivalente unívoco en castellano. Se conserva la forma romanizada como pieza de nombre propio; requiere comprobar representación compuesta en juego.",https://www.japanesewithanime.com/2016/07/honorific-suffixes.html
+1182,-tan,revisado,"Sufijo honorífico o de apodo, sin equivalente unívoco en castellano. Se conserva la forma romanizada como pieza de nombre propio; requiere comprobar representación compuesta en juego.",https://www.japanesewithanime.com/2016/07/honorific-suffixes.html
+1183,-don,revisado,"Sufijo honorífico o de apodo, sin equivalente unívoco en castellano. Se conserva la forma romanizada como pieza de nombre propio; requiere comprobar representación compuesta en juego.",https://www.japanesewithanime.com/2016/07/honorific-suffixes.html
+1184,-cchi,revisado,"Sufijo honorífico o de apodo, sin equivalente unívoco en castellano. Se conserva la forma romanizada como pieza de nombre propio; requiere comprobar representación compuesta en juego.",https://www.japanesewithanime.com/2016/07/honorific-suffixes.html
+1185,I,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1186,II,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1187,III,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1188,n.º 1,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1189,n.º 2,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1190,n.º 3,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1191,Jefe de banda,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1192,Capitán,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1193,Cabecilla,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1194,Maestro,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1195,Primer ministro,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1196,Primer ministro,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1197,Presidente,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1198,Ministro,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1199,Comandante,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1200,General,revisado,将軍 se usa aquí como rango de «general». «Shōgun» es un título histórico japonés y no debe imponerse sin contexto.,
+1201,Soldado de segunda clase,revisado,二等兵 es soldado de segunda clase; «soldado de segunda» suena a descalificación en español.,
+1202,Sargento,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1203,Cabo,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1204,Alférez,revisado,"Fragmento de generación de nombre cotejado con el japonés; forma textual independiente, aún sujeta a ajuste visual y prueba de concatenación.",
+1205,Teniente,revisado,中尉 significa teniente (grado militar); el borrador «Lt» dejaba una abreviatura inglesa.,
 1206,,pendiente,,
 1207,,pendiente,,
 1208,,pendiente,,
