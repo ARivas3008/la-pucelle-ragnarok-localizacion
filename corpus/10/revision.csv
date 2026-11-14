@@ -399,56 +399,56 @@
 10517,"¡Eso es! ¡Igual que hicimos con Éclair!","revisado","",""
 10518,"¡Será pan comido!","revisado","",""
 10519,"¡E-espera un momento!","revisado","",""
-10520,,pendiente,,
-10521,,pendiente,,
-10522,,pendiente,,
-10523,,pendiente,,
-10524,,pendiente,,
-10525,,pendiente,,
-10526,,pendiente,,
-10527,,pendiente,,
-10528,,pendiente,,
-10529,,pendiente,,
-10530,,pendiente,,
-10531,,pendiente,,
-10532,,pendiente,,
-10533,,pendiente,,
-10534,,pendiente,,
-10535,,pendiente,,
-10536,,pendiente,,
-10537,,pendiente,,
-10538,,pendiente,,
-10539,,pendiente,,
-10540,,pendiente,,
-10541,,pendiente,,
-10542,,pendiente,,
-10543,,pendiente,,
-10544,,pendiente,,
-10545,,pendiente,,
-10546,,pendiente,,
-10547,,pendiente,,
-10548,,pendiente,,
-10549,,pendiente,,
-10550,,pendiente,,
-10551,,pendiente,,
-10552,,pendiente,,
-10553,,pendiente,,
-10554,,pendiente,,
-10555,,pendiente,,
-10556,,pendiente,,
-10557,,pendiente,,
-10558,,pendiente,,
-10559,,pendiente,,
-10560,,pendiente,,
-10561,,pendiente,,
-10562,,pendiente,,
-10563,,pendiente,,
-10564,,pendiente,,
-10565,,pendiente,,
-10566,,pendiente,,
-10567,,pendiente,,
-10568,,pendiente,,
-10569,,pendiente,,
+10520,"Hermana Alouette, ¿qué será de ti si realizas un milagro tan poderoso?","revisado","Se recupera el vocativo final omitido de la extracción; Culotte se dirige a Alouette.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+10521,"Al fin y al cabo, soy la Doncella de la Luz.","revisado","",""
+10522,"No debería pasarme nada...","revisado","La frase está suspendida también en el guion y Alouette oculta el riesgo; no afirmar de forma categórica que estará a salvo.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+10523,"¡Solo dices eso para que no nos preocupemos!","revisado","Se corrige el sentido según la respuesta de Culotte; la extracción perdió el negativo de «won't worry».","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+10524,"¡No voy a dejarte hacerlo! ¡De ninguna manera!","revisado","",""
+10525,"¡No permitiré que mueras!","revisado","",""
+10526,"Si murieras, yo...","revisado","",""
+10527,"Lo siento, Culotte...","revisado","",""
+10528,"Pero es la única manera.","revisado","",""
+10529,"Recuerda que, si despierta el Príncipe Oscuro, estoy destinada a morir... A mí también me cuesta... ¡No! ¡No pienso dejarte hacerlo!","requiere_investigacion","El grupo contiene parlamentos de Alouette y Culotte fundidos y partes perdidas; no puede aprobarse sin resegmentar las intervenciones de cada personaje.",""
+10530,"¡A mí tampoco me parece bien!","revisado","",""
+10531,"¡No podemos salvar a Croix sacrificando a Alouette! ¡Eso no estaría bien!","revisado","El objeto del sacrificio falta en la extracción; la escena confirma que se refiere a Alouette. El bloque contiene dos frases, pendientes de comprobación física.",""
+10532,"¡Prier tiene razón!","revisado","",""
+10533,"¡Si unimos nuestras fuerzas, seguro que encontramos otra solución!","revisado","",""
+10534,"Así es. Mi cuerpo siempre ha pertenecido a... Si un viejo como yo puede ayudar, haré cuanto esté en mis manos.","requiere_investigacion","Original incompleto y con probable unión de dos hablantes; se desconoce a quién pertenece el cuerpo y si la frase se distribuye entre varios personajes. No aprobar sin cotejo.",""
+10535,"Gracias a tu ayuda, esta larga lucha contra... podría acabar pronto.","requiere_investigacion","El original pierde el complemento de «against»; no se sabe si se refiere a la oscuridad, Noir o el Príncipe Oscuro. Mantener pendiente.",""
+10536,"Hace cincuenta años luché en soledad. Ahora estoy rodeada de amigos maravillosos.","revisado","Alouette habla de la guerra que libró hace cincuenta años; concordancia femenina.",""
+10537,"Nunca olvidaré los momentos que he pasado con ustedes.","revisado","",""
+10538,"Solo me quedan fuerzas para enviar a uno de ustedes al corazón de Croix.","revisado","",""
+10539,"Tienes que ir tú, Prier.","revisado","",""
+10540,"Eres la única que puede salvar a Croix.","revisado","Se recupera «You're the only one» omitido de la extracción, conforme al diálogo de Alouette.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+10541,"Confía en ti misma.","revisado","Concordancia femenina con Prier.",""
+10542,"Si logras transmitirle a Croix lo que sientes de verdad, estoy segura de que volverá contigo.","revisado","",""
+10543,"Ánimo, Prier. Las lágrimas nunca han solucionado nada.","revisado","",""
+10544,"En nombre de la Doncella de la Luz, te prohíbo llorar por mí.","revisado","",""
+10545,"Siempre estabas más guapa cuando sonreías.","revisado","",""
+10546,"Sonríe para mí.","revisado","",""
+10547,"¿A-así?","revisado","Se recupera el tartamudeo del original; la MTL confundía la pregunta con «¿te gusta esto?».",""
+10548,"Así es...","revisado","",""
+10549,"En nombre de la Doncella de la Luz, te lo ruego, diosa Poitreene: guía a Prier al corazón de Croix, el Príncipe Oscuro.","revisado","La extracción fusiona la fórmula ritual y la invocación a Poitreene; la versión del guion permite recuperar la estructura de la plegaria.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+10550,"Adiós a todos...","revisado","",""
+10551,"Le doy gracias a la diosa por haberte conocido...","revisado","«You» singular tiene destinatario ambiguo; aquí se adopta tratamiento cercano a Prier, pero requiere cotejo de interlocución si las voces cambian.",""
+10552,"¡Hermana Alouette!","revisado","",""
+10553,"¡Alouette!","revisado","",""
+10554,"¡Ya tendré tiempo de llorar!","revisado","",""
+10555,"¡Tengo que encontrar la oscuridad que anida en el corazón de Croix!","revisado","",""
+10556,"¡No puedo permitir que su sacrificio sea en vano!","revisado","",""
+10557,"Así que este es el interior del corazón de Croix...","revisado","",""
+10558,"Su corazón sigue atrapado en el pasado, en la aldea donde vivía con Angelique...","revisado","",""
+10559,"Eso quiere decir que...","revisado","",""
+10560,"Croix... Sabía que te encontraría aquí.","revisado","La exclamación es de Prier dentro del corazón de Croix, coherente con el escenario.",""
+10561,"¡¿Croix?! ¡Soy yo!","revisado","",""
+10562,"¿Ya no te acuerdas de mí?","revisado","",""
+10563,"¡Oye, vamos!","revisado","",""
+10564,"¡Me conoces, ¿verdad?!","revisado","La interrogación original inglesa es enfática; se restituye puntuación española completa en la frase.",""
+10565,"¿Recuerdas cuando nos conocimos?","revisado","",""
+10566,"¡Tú salvaste a mi hermano pequeño Culotte!","revisado","",""
+10567,"Y... ¿te acuerdas de aquella criatura gigantesca que apareció en Mayonnaise Harbor?","revisado","Se conserva «Mayonnaise Harbor» como topónimo hasta confirmación terminológica de la coordinación.",""
+10568,"¡Menuda fue aquella! Pero escucha, Croix...","revisado","«That was something» remite al incidente y no a un objeto; se separa la frase inicial del llamamiento a Croix.",""
+10569,"Sé cómo te sientes.","revisado","",""
 10570,,pendiente,,
 10571,,pendiente,,
 10572,,pendiente,,
