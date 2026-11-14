@@ -1,54 +1,54 @@
 ﻿grupo_id,es_revisado,estado,notas_editoriales,referencias_consultadas
-7944,,pendiente,,
-7945,,pendiente,,
-7946,,pendiente,,
-7947,,pendiente,,
-7948,,pendiente,,
-7949,,pendiente,,
-7950,,pendiente,,
-7951,,pendiente,,
-7952,,pendiente,,
-7953,,pendiente,,
-7954,,pendiente,,
-7955,,pendiente,,
-7956,,pendiente,,
-7957,,pendiente,,
-7958,,pendiente,,
-7959,,pendiente,,
-7960,,pendiente,,
-7961,,pendiente,,
-7962,,pendiente,,
-7963,,pendiente,,
-7964,,pendiente,,
-7965,,pendiente,,
-7966,,pendiente,,
-7967,,pendiente,,
-7968,,pendiente,,
-7969,,pendiente,,
-7970,,pendiente,,
-7971,,pendiente,,
-7972,,pendiente,,
-7973,,pendiente,,
-7974,,pendiente,,
-7975,,pendiente,,
-7976,,pendiente,,
-7977,,pendiente,,
-7978,,pendiente,,
-7979,,pendiente,,
-7980,,pendiente,,
-7981,,pendiente,,
-7982,,pendiente,,
-7983,,pendiente,,
-7984,,pendiente,,
-7985,,pendiente,,
-7986,,pendiente,,
-7987,,pendiente,,
-7988,,pendiente,,
-7989,,pendiente,,
-7990,,pendiente,,
-7991,,pendiente,,
-7992,,pendiente,,
-7993,,pendiente,,
+7944,"Alouette…",revisado,"Vocativo del sueño conservado tras cotejo contextual.",""
+7945,"¡¿Diosa…?!",revisado,"",""
+7946,"¿Eres tú…? ¿Será posible…?",revisado,"Conservada la vacilación antes de nombrar a Poitreene.",""
+7947,"¿La diosa Poitreene?",revisado,"",""
+7948,"Busca…",revisado,"Imperativo dirigido a Alouette; «buscar» era un infinitivo incorrecto.",""
+7949,"Fátima…",revisado,"",""
+7950,"¿Fátima?",revisado,"",""
+7951,"El Príncipe Oscuro…",revisado,"",""
+7952,"Será… cuando lo sepas… volverá a…",requiere_investigacion,"Original inglés truncado y sintácticamente incoherente; no puede saberse qué ocurrirá ni quién es el referente de «will be». Se conserva una versión provisional sin completar la profecía. Requiere cotejar el japonés o el audio.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+7953,"Y la Doncella de la Luz… Su vida…",revisado,"",""
+7954,"Todo… llegará a su fin… ¿Diosa?",requiere_investigacion,"La extracción fusiona el final de la profecía de la diosa y la pregunta posterior de Alouette en un mismo grupo. Requiere identificar el límite entre las unidades antes de aprobar.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+7955,"¡Diosa!",revisado,"",""
+7956,"Tal vez haya sido una señal de la mismísima diosa…",revisado,"",""
+7957,"¿T-tú crees?",revisado,"Recuperado el tartamudeo de Prier.",""
+7958,"Yo creo que solo fue un sueño…",revisado,"",""
+7959,"¿A que sí, chicos?",revisado,"",""
+7960,"Yo también creo que fue una señal de la diosa.",revisado,"",""
+7961,"¡Eres increíble, hermana Alouette! (Si su sueño fue una señal, Alouette será la Doncella de la Luz…)",requiere_investigacion,"La extracción fusiona el elogio de Culotte y un pensamiento de Prier, además de omitir «Maiden»; transcripción externa corrobora ambos segmentos. Pendiente cotejo de los límites entre las cuatro unidades.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+7962,"(No. Eso no puede ser.)",revisado,"",""
+7963,"Puede que el sueño sea una señal o no, pero no perdemos nada investigando Fátima. ¡Un momento, Croix!",requiere_investigacion,"Dos personajes en un grupo: Croix propone investigar Fátima y Prier lo interrumpe. Versión lingüística provisional; falta mapear el cambio de hablante a sus cinco unidades.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+7964,"¡¿De qué lado estás?!",revisado,"",""
+7965,"Como mínimo, ese lugar llamado Fátima podría ayudar a Alouette a recuperar la memoria.",revisado,"",""
+7966,"¿En serio? ¿Solo por eso?",revisado,"",""
+7967,"Eso es todo.",revisado,"",""
+7968,"¿Por qué te pones tan a la defensiva de repente?",revisado,"",""
+7969,"¡N-no estoy a la defensiva…!",revisado,"",""
+7970,"(Creía que Croix se pondría de mi parte…)",revisado,"",""
+7971,"(¿Y si a Croix le gusta más Alouette que yo…?)",revisado,"",""
+7972,"(¡Se me está yendo la cabeza!",revisado,"Pensamiento entre paréntesis repartido entre dos grupos; no cerrar el paréntesis hasta 7973.",""
+7973,"¿Qué estoy diciendo?)",revisado,"Continuación del pensamiento comenzado en 7972; conservar el paréntesis final.",""
+7974,"(Prier está actuando de un modo extraño.)",revisado,"",""
+7975,"(¿No será que le gusta Croix?)",revisado,"Se corrige falso sentido: se insinúa atracción romántica por Croix, no antipatía.",""
+7976,"Padre Salade…",revisado,"",""
+7977,"¿Sabe de algún lugar llamado Fátima?",revisado,"",""
+7978,"No, jamás he oído hablar de ese sitio.",revisado,"",""
+7979,"Mmm…",revisado,"«Hum» es una vacilación reflexiva, no el verbo «tararear».",""
+7980,"Podrían consultar la biblioteca real. Está en el castillo de Cresson.",revisado,"Se recupera «biblioteca real» omitido por la extracción; corroborado por la escena siguiente y por la transcripción de la guía.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+7981,"Si hoy no tienen nada que hacer, ¿por qué no investigan un poco?",revisado,"",""
+7982,"Además, podría haber alguna relación con el Príncipe Oscuro.",revisado,"",""
+7983,"¿Qué dices, Prier?",revisado,"",""
+7984,"Está bien, está bien.",revisado,"",""
+7985,"Lamento haberlos hecho esperar.",revisado,"",""
+7986,"¿Qué desean?",revisado,"",""
+7987,"Gracias, majestad.",revisado,"",""
+7988,"Quisiéramos consultar la biblioteca del castillo para investigar un lugar en particular.",revisado,"",""
+7989,"¿La biblioteca?",revisado,"",""
+7990,"Sí, si no es mucha molestia.",revisado,"",""
+7991,"Me temo que eso no es posible.",revisado,"",""
+7992,"No puedo permitir la entrada de personas ajenas a la biblioteca, ni siquiera a petición de la Iglesia de la Santa Doncella.",revisado,"Nombre institucional unificado con el resto del corpus: Iglesia de la Santa Doncella (singular).",""
+7993,"Madre, ¿no podrías hacer una excepción por esta vez?",revisado,"La transcripción de la escena restituye el vocativo «Mother» perdido en el original extraído; explica la inmediata reprimenda de la reina a Éclair.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
 7994,,pendiente,,
 7995,,pendiente,,
 7996,,pendiente,,
