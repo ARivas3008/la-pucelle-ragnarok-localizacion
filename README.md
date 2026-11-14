@@ -1,22 +1,36 @@
 # La Pucelle: Ragnarok — Localización al español
 
-Proyecto de traducción colaborativa para revisar 15 016 grupos textuales en **15 corpus** sin perder sus referencias exactas al Excel original.
+Repositorio **público**, publicado a petición del titular, para revisar **15 016 grupos de texto** mediante **15 chats independientes** del proyecto [La Pucelle — Localización ES](https://chatgpt.com/g/g-p-6af8a33cbd3c81919d859f02cbc7122c-la-pucelle-localizacin-es/project).
 
-**Proyecto ChatGPT:** https://chatgpt.com/g/g-p-6af8a33cbd3c81919d859f02cbc7122c-la-pucelle-localizacin-es/project
+Los **15 corpus ya están cargados** en `corpus/01` a `corpus/15`. Cada uno contiene:
+- `entrada.csv`: originales, borradores, contexto previo/siguiente, hashes y referencias al Excel.
+- `lectura.txt`: lectura organizada por grupos y escenas.
+- `revision.csv`: único archivo editable por el chat asignado.
+- `LEEME.md`: instrucciones particulares.
 
-## Acceso al corpus
-La estructura de trabajo de los 15 corpus ya está preparada en un paquete local, pero **no se han publicado sus diálogos** porque este repositorio aún es público. Contiene textos extraídos de un videojuego comercial.
+Se conservan además **509 grupos con revisión previa** en `data/preexistentes/`, los mapas de reintegración, glosarios, TXT, siete libros Excel y los scripts de QA.
 
-Antes de cargar los corpus completos, cambia el repositorio a **Private** en Settings → General → Danger Zone → Change repository visibility. Este cambio solo puede efectuarlo el propietario.
+## Inicio rápido: 1 chat por corpus
 
-## Flujo de trabajo
+1. Abre el [proyecto de ChatGPT](https://chatgpt.com/g/g-p-6af8a33cbd3c81919d859f02cbc7122c-la-pucelle-localizacin-es/project).
+2. Verifica que tenga como instrucciones el contenido de [CHATGPT_PROJECT_INSTRUCCIONES.md](CHATGPT_PROJECT_INSTRUCCIONES.md).
+3. Abre **15 chats diferentes**. En cada uno escribe solamente su número, de `1` a `15`.
+4. Cada chat debe leer [AGENTS.md](AGENTS.md), el glosario y su carpeta, trabajar en sublotes de 40–60 grupos y guardar únicamente `corpus/NN/revision.csv` en la rama `revision/corpus-NN`.
+5. Al terminar un corpus, validar y abrir un PR hacia `main`. No fusionar un PR si quedan grupos pendientes, variables modificadas o errores QA.
+6. Tras los 15 PR, el coordinador valida los 509 grupos restantes, reconstruye una copia del Excel y prueba la inserción en la ISO.
 
-1. Los chats del proyecto toman el número `1` a `15` para seleccionar `corpus/01` … `corpus/15`.
-2. Cada chat corrige exclusivamente `corpus/NN/revision.csv` en su rama `revision/corpus-NN`.
-3. Conserva IDs, hashes, original, orden, etiquetas de formato (por ejemplo `{0}`, `%s`, `\\n`) y mapa de filas.
-4. El control automatizado revisa modificaciones antes del PR; no se considera revisado un corpus por tener solo borradores MTL.
-5. Una vez fusionados los 15 PR, el coordinador valida los 509 grupos restantes, recompone una copia del Excel y prepara la inserción experimental en la ISO.
+**Estado editorial inicial:** 15 016 grupos **pendientes de revisión**, no «traducidos definitivamente». El 100 % de cobertura MTL previa no implica calidad editorial aprobada.
 
-Consulta `AGENTS.md`, `CHATGPT_PROJECT_INSTRUCCIONES.md` y `CONTROL_CALIDAD_Y_REINTEGRACION.md`.
+## QA y control de versiones
 
-**No alojar ISO, EBOOT, EDAT de DLC ni otros binarios comerciales en este repositorio.**
+El workflow [QA de corpus](.github/workflows/qa.yml) comprueba la conservación de filas, IDs, hashes y códigos. Un PR de corpus solo puede modificar su propio `revision.csv`. Para verificar localmente:
+
+```bash
+python scripts/validar.py
+python -m unittest discover -s scripts -p 'test_*.py'
+python scripts/validar.py --corpus 7 --estricto
+```
+
+Consulta [CONTROL_CALIDAD_Y_REINTEGRACION.md](CONTROL_CALIDAD_Y_REINTEGRACION.md) y [COORDINACION_FINAL.md](COORDINACION_FINAL.md).
+
+**Aviso de distribución:** el proyecto es público por decisión del titular. Contiene textos originales de un videojuego comercial; no almacena ISOs, EBOOT, archivos EDAT ni claves de distribución. La publicación de los textos no implica una licencia comercial o redistribución otorgada por los titulares de derechos.
