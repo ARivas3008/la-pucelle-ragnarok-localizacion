@@ -1,63 +1,63 @@
 ﻿grupo_id,es_revisado,estado,notas_editoriales,referencias_consultadas
-13388,,pendiente,,
-13389,,pendiente,,
-13390,,pendiente,,
-13391,,pendiente,,
-13392,,pendiente,,
-13393,,pendiente,,
-13394,,pendiente,,
-13395,,pendiente,,
-13396,,pendiente,,
-13397,,pendiente,,
-13398,,pendiente,,
-13399,,pendiente,,
-13400,,pendiente,,
-13401,,pendiente,,
-13402,,pendiente,,
-13403,,pendiente,,
-13404,,pendiente,,
-13405,,pendiente,,
-13406,,pendiente,,
-13407,,pendiente,,
-13408,,pendiente,,
-13409,,pendiente,,
-13410,,pendiente,,
-13411,,pendiente,,
-13412,,pendiente,,
-13413,,pendiente,,
-13414,,pendiente,,
-13415,,pendiente,,
-13416,,pendiente,,
-13417,,pendiente,,
-13418,,pendiente,,
-13419,,pendiente,,
-13420,,pendiente,,
-13421,,pendiente,,
-13422,,pendiente,,
-13423,,pendiente,,
-13424,,pendiente,,
-13425,,pendiente,,
-13426,,pendiente,,
-13427,,pendiente,,
-13428,,pendiente,,
-13429,,pendiente,,
-13430,,pendiente,,
-13431,,pendiente,,
-13432,,pendiente,,
-13433,,pendiente,,
-13434,,pendiente,,
-13435,,pendiente,,
-13436,,pendiente,,
-13437,,pendiente,,
-13438,,pendiente,,
-13439,,pendiente,,
-13440,,pendiente,,
-13441,,pendiente,,
-13442,,pendiente,,
-13443,,pendiente,,
-13444,,pendiente,,
-13445,,pendiente,,
-13446,,pendiente,,
+13388,Crecimiento de PV +1,revisado,"Nombre de modificador cotejado: se mantiene Crecimiento y la abreviatura de atributo. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13389,Crecimiento de PE +1,revisado,"Nombre de modificador cotejado: se mantiene Crecimiento y la abreviatura de atributo. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13390,Crecimiento de ATQ +1,revisado,"Nombre de modificador cotejado: se mantiene Crecimiento y la abreviatura de atributo. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13391,Crecimiento de DEF +1,revisado,"Nombre de modificador cotejado: se mantiene Crecimiento y la abreviatura de atributo. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13392,Crecimiento de INT +1,revisado,"Nombre de modificador cotejado: se mantiene Crecimiento y la abreviatura de atributo. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13393,Crecimiento de VEL +1,revisado,"Nombre de modificador cotejado: se mantiene Crecimiento y la abreviatura de atributo. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13394,Crecimiento de PREC +1,revisado,"Nombre de modificador cotejado: se mantiene Crecimiento y la abreviatura de atributo. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13395,Crecimiento de PREC +1,revisado,"Nombre de modificador cotejado: se mantiene Crecimiento y la abreviatura de atributo. Variante Hit/HIT repetida en el original; no se unifican IDs. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13396,Crecimiento de RES +1,revisado,"Nombre de modificador cotejado: se mantiene Crecimiento y la abreviatura de atributo. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13397,Potenciar el rojo,revisado,Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado.,
+13398,Añadir rojo,revisado,"Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13399,Potenciar el verde,revisado,Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado.,
+13400,Añadir verde,revisado,"Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13401,Potenciar el amarillo,revisado,Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado.,
+13402,Añadir amarillo,revisado,"Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13403,Potenciar el azul,revisado,Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado.,
+13404,Añadir azul,revisado,"Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13405,Potenciar el morado,revisado,Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado.,
+13406,Añadir morado,revisado,"Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13407,Potenciar el azul claro,revisado,Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado.,
+13408,Añadir azul claro,revisado,"Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13409,Potenciar el blanco,revisado,Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado.,
+13410,Añadir blanco,revisado,"Se diferencia la acción de potenciar un color de la de añadirlo; par terminológico cotejado. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13411,Permite moverse 1 casilla más.,revisado,"Bono de movimiento +1 casillas, interpretado por la secuencia creciente +1 a +4; original inglés contiene errata en +3.",
+13412,Permite moverse 2 casillas más.,revisado,"Bono de movimiento +2 casillas, interpretado por la secuencia creciente +1 a +4; original inglés contiene errata en +3.",
+13413,Permite moverse 3 casillas más.,revisado,"Bono de movimiento +3 casillas, interpretado por la secuencia creciente +1 a +4; original inglés contiene errata en +3.",
+13414,Permite moverse 4 casillas más.,revisado,"Bono de movimiento +4 casillas, interpretado por la secuencia creciente +1 a +4; original inglés contiene errata en +3.",
+13415,Teletransporte,revisado,"Habilidad de desplazamiento; se mantiene la referencia al mapa. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13416,Teletransporta a una unidad a cualquier punto del mapa.,revisado,Habilidad de desplazamiento; se mantiene la referencia al mapa.,
+13417,Golpe de gracia,revisado,"Nombre de habilidad cotejado con su descripción y el glosario cuando corresponde. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13418,1Da una patada al rival donde más duele.,revisado,Descripción reformulada en español natural; conserva literalmente el prefijo inicial 1/3 del recurso magic.dat. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13419,Liberación,revisado,"Nombre de habilidad cotejado con su descripción y el glosario cuando corresponde. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",
+13420,1Lanza al enemigo por los aires de una doble patada.,revisado,Descripción reformulada en español natural; conserva literalmente el prefijo inicial 1/3 del recurso magic.dat. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13421,Tormenta divina,revisado,"Nombre de habilidad cotejado con su descripción y el glosario cuando corresponde. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13422,1Una doble patada que hace temblar la tierra.,revisado,Descripción reformulada en español natural; conserva literalmente el prefijo inicial 1/3 del recurso magic.dat. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13423,Redención,revisado,"Nombre de habilidad cotejado con su descripción y el glosario cuando corresponde. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13424,1Un ataque capaz de redimir cualquier alma.,revisado,Descripción reformulada en español natural; conserva literalmente el prefijo inicial 1/3 del recurso magic.dat. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13425,Viento sagrado,revisado,"Nombre de habilidad cotejado con su descripción y el glosario cuando corresponde. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13426,3Ataque giratorio con un bastón sagrado.,revisado,Descripción reformulada en español natural; conserva literalmente el prefijo inicial 1/3 del recurso magic.dat. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13427,¡Al bate!,revisado,Se recupera el juego de palabras beisbolero de Batter Up y se enlaza con el golpe de bastón; prefijo 3 conservado si existe.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13428,3Un potente batazo con un bastón sagrado.,revisado,Se recupera el juego de palabras beisbolero de Batter Up y se enlaza con el golpe de bastón; prefijo 3 conservado si existe. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13429,Señor del Bosque,revisado,"Forest Lord es el Señor del Bosque; Lord’s Child es su cría, según guía de la habilidad, no una referencia religiosa. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://gamefaqs.gamespot.com/pc/363337-la-pucelle-ragnarok/cheats
+13430,3Invoca a la cría del Señor del Bosque para atacar.,revisado,"Forest Lord es el Señor del Bosque; Lord’s Child es su cría, según guía de la habilidad, no una referencia religiosa. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.",https://gamefaqs.gamespot.com/pc/363337-la-pucelle-ragnarok/cheats
+13431,Ataque en pareja,revisado,"Nombre de habilidad cotejado con su descripción y el glosario cuando corresponde. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13432,3Ataque combinado con Culotte.,revisado,Descripción reformulada en español natural; conserva literalmente el prefijo inicial 1/3 del recurso magic.dat. Nombres Culotte/Croix y matiz beisbolero cotejados. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13433,Garra oculta,revisado,"Nombre de habilidad cotejado con su descripción y el glosario cuando corresponde. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13434,1Ataque combinado con Croix.,revisado,Descripción reformulada en español natural; conserva literalmente el prefijo inicial 1/3 del recurso magic.dat. Nombres Culotte/Croix y matiz beisbolero cotejados. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13435,Recuperación,revisado,"Nombre de habilidad cotejado con su descripción y el glosario cuando corresponde. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13436,3Cura todos los estados alterados del objetivo.,revisado,Descripción reformulada en español natural; conserva literalmente el prefijo inicial 1/3 del recurso magic.dat. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13437,Patada destructora,revisado,"Nombre de habilidad cotejado con su descripción y el glosario cuando corresponde. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13438,1Una potente patada devastadora.,revisado,Descripción reformulada en español natural; conserva literalmente el prefijo inicial 1/3 del recurso magic.dat. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,
+13439,Cien flores,revisado,"Nombre de habilidad cotejado con su descripción y el glosario cuando corresponde. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13440,1Ataque combinado con Homard.,revisado,Descripción reformulada en español natural; conserva literalmente el prefijo inicial 1/3 del recurso magic.dat. Nombres Culotte/Croix y matiz beisbolero cotejados. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13441,Transformación,revisado,"Se coteja habilidad de transformación y se emplea el título fijado por glosario: Prier, Señora Demonio; prefijo 3 conservado.",https://nippon1.jp/consumer/lapucelle_ragnarok/
+13442,"3Se transforma en Prier, Señora Demonio.",revisado,"Se coteja habilidad de transformación y se emplea el título fijado por glosario: Prier, Señora Demonio; prefijo 3 conservado. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.",https://nippon1.jp/consumer/lapucelle_ragnarok/
+13443,Iyashi,revisado,"Iyashi es el nombre registrado de la habilidad básica de curación en guías del juego; se conserva como nombre propio en vez de adivinar otro nombre. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13444,3Un milagro de sanación.,revisado,"Se coteja gradación de hechizos curativos: Iyashi básico, Cure avanzado, Blessing superior; prefijo 3 conservado cuando aparece. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13445,Curación,revisado,"Se coteja gradación de hechizos curativos: Iyashi básico, Cure avanzado, Blessing superior; prefijo 3 conservado cuando aparece. Se conserva la redacción anterior tras cotejo editorial explícito, no por aprobación automática.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+13446,3Un milagro de sanación avanzado.,revisado,"Se coteja gradación de hechizos curativos: Iyashi básico, Cure avanzado, Blessing superior; prefijo 3 conservado cuando aparece. Prefijo inicial sin semántica técnica confirmada: se conserva íntegro para reinserción.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 13447,,pendiente,,
 13448,,pendiente,,
 13449,,pendiente,,
