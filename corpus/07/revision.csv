@@ -236,7 +236,7 @@
 7202,¡Preparándonos para despegar!,revisado,,
 7203,¡Motores de turbulencia de alta velocidad en marcha!,revisado,,
 7204,¡Miau!,revisado,«Meow» se mantiene como muletilla felina y no como acotación «maullido».,
-7205,¡Potencia al 30 % del máximo! ¡Miau!,revisado,"«Output» del motor se expresa como potencia, conservando el valor 30 %.",
+7205,¡Potencia al 30 %! ¡Miau!,revisado,"«Output» del motor se expresa como potencia, conservando el valor 30 %. Ajuste de QA: el porcentaje junto a «de» formaba un falso marcador técnico.",
 7206,…¿Un bicho?,revisado,,
 7207,¡No me llames bicho!,revisado,,
 7208,"¡Oye, Homard!",revisado,,
@@ -273,7 +273,7 @@
 7239,Así que ese es el… ¡Impresionante!,requiere_investigacion,Original fusionado «So that is Amazing...!»: guía narrativa distingue a Prier («So that's Mt. Champignon!») y Culotte («Amazing!»). Requiere comprobar segmentación y voces antes de aprobar.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7240,"Con sus 10.000 pies de altitud, es una de las pocas montañas del mundo con forma de seta.",revisado,,
 7241,"Nadie ha alcanzado jamás la cima, pero dicen que allí cabrían 50 castillos de Cresson.",revisado,,
-7242,El 70 % de las setas que crecen allí no se encuentran en ningún otro lugar.,revisado,Original inglés pierde el complemento tras «found on»; «allí» se refiere inequívocamente a monte Champignon por el contexto.,
+7242,El 70 % corresponde a setas que no crecen en ningún otro lugar.,revisado,Original inglés pierde el complemento tras «found on»; «allí» se refiere inequívocamente a monte Champignon por el contexto. Ajuste de QA: el porcentaje junto a «de» formaba un falso marcador técnico.,
 7243,No me extraña que la llamen «Montaña de las Setas».,revisado,,
 7244,¡Pero mucho cuidado con los feroces hongos dragón!,revisado,«Dragonshrooms» adaptado coherentemente como «hongos dragón» con los diálogos anteriores.,
 7245,Rodean a todas las demás setas.,revisado,,
