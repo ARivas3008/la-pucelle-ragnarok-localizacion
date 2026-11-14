@@ -849,56 +849,56 @@
 10967,"¡Priiiier!","revisado","",""
 10968,"¡Hemos vuelto a ver al fantasma!","revisado","",""
 10969,"¡Apareció cerca de la aldea de Croquette!","revisado","",""
-10970,,pendiente,,
-10971,,pendiente,,
-10972,,pendiente,,
-10973,,pendiente,,
-10974,,pendiente,,
-10975,,pendiente,,
-10976,,pendiente,,
-10977,,pendiente,,
-10978,,pendiente,,
-10979,,pendiente,,
-10980,,pendiente,,
-10981,,pendiente,,
-10982,,pendiente,,
-10983,,pendiente,,
-10984,,pendiente,,
-10985,,pendiente,,
-10986,,pendiente,,
-10987,,pendiente,,
-10988,,pendiente,,
-10989,,pendiente,,
-10990,,pendiente,,
-10991,,pendiente,,
-10992,,pendiente,,
-10993,,pendiente,,
-10994,,pendiente,,
-10995,,pendiente,,
-10996,,pendiente,,
-10997,,pendiente,,
-10998,,pendiente,,
-10999,,pendiente,,
-11000,,pendiente,,
-11001,,pendiente,,
-11002,,pendiente,,
-11003,,pendiente,,
-11004,,pendiente,,
-11005,,pendiente,,
-11006,,pendiente,,
-11007,,pendiente,,
-11008,,pendiente,,
-11009,,pendiente,,
-11010,,pendiente,,
-11011,,pendiente,,
-11012,,pendiente,,
-11013,,pendiente,,
-11014,,pendiente,,
-11015,,pendiente,,
-11016,,pendiente,,
-11017,,pendiente,,
-11018,,pendiente,,
-11019,,pendiente,,
+10970,"¡Y tenía una cara de tristeza...!","revisado","",""
+10971,"¡Seguro que encuentras pistas si investigas por los alrededores de la aldea de Croquette!","revisado","",""
+10972,"¿En los alrededores de Croquette...?","revisado","",""
+10973,"¿Tendrá algo que ver con este último caso?","revisado","El original en inglés carece del inicio de la pregunta; su sentido interrogativo sí queda explícito. No se añade un sujeto.",""
+10974,"¡Hermana Prier! ¿Verdad que es mentira eso de que te has convertido en Señora Demonio?","revisado","魔王 se localiza conforme al glosario. El niño busca que Prier desmienta el rumor.",""
+10975,"¡Pues claro que es mentira!","revisado","",""
+10976,"¡Yo voy a convertirme en la Doncella de la Luz!","revisado","",""
+10977,"¡Hip...! Pero la hermana Prier dijo que se convertiría en la Doncella de la Luz...","revisado","",""
+10978,"¡Pero ese aspecto también te queda genial!","revisado","",""
+10979,"¡Siempre he querido tener ese aire de mujer fatal!","revisado","",""
+10980,"No te pases de diablilla, ¿eh?","revisado","小悪魔くらい expresa «como mucho, una diablilla»; se conserva la réplica juguetona.",""
+10981,"Escucha bien, Prier.","revisado","",""
+10982,"No permitas que el poder te consuma.","revisado","",""
+10983,"¿Lo has entendido?","revisado","",""
+10984,"¡Que sí, hombre!","revisado","",""
+10985,"Escucha, Prier.","revisado","",""
+10986,"¡Y no olvides nunca que sigues siendo una hermana de la Iglesia!","revisado","",""
+10987,"¡Que sí, que lo sé!","revisado","",""
+10988,"¡Maestro, se preocupa usted demasiado!","revisado","",""
+10989,"Te confiamos nuestro futuro.","revisado","",""
+10990,"¡Ánimo, Prier! ¡A por todas!","revisado","",""
+10991,"¡Sí, maestro!","revisado","",""
+10992,"El pequeño Rossini no puede salir a causa de su enfermedad.","revisado","El original inglés usa «Rocini», mientras que la fuente japonesa del mismo conjunto escribe ロッシーニ (Rossini). Se unifica provisionalmente según el japonés; verificar nombre oficial en inserción.",""
+10993,"Vaya...","revisado","",""
+10994,"Me da mucha pena...","requiere_investigacion","El original se corta en «I feel so bad for», sin complemento. No se puede asegurar quién es el destinatario ni su continuación.",""
+10995,"Gracias a todos ustedes, Rossini tiene ahora un nuevo sueño.","revisado","Se conserva el nombre Rossini según ロッシーニ; ちゃん es un sufijo afectivo que no se traslada mecánicamente.",""
+10996,"Espero poder corresponder a su ayuda apoyando a Rossini para que cumpla su sueño.","revisado","",""
+10997,"¡Estoy segura de que conseguirá hacerlo realidad!","revisado","「あの子」 no determina género, por lo que se evita atribuirlo sin pruebas.",""
+10998,"¡Ánimo! ¡Espero que puedas apoyarlo!","revisado","Se anima al interlocutor a seguir apoyando el sueño, no se dice «te estoy animando».",""
+10999,"¡¿Y si Rossini estudia tanto para convertirse en La Pucelle que también acaba transformándose en demonio?!","revisado","",""
+11000,"¡Te preocupas demasiado!","revisado","",""
+11001,"Sé que siempre te esfuerzas al máximo, pero procura no hacerte daño.","revisado","",""
+11002,"Está bien.","revisado","",""
+11003,"Lo que haces es digno de admiración.","revisado","",""
+11004,"¡Pero que no se te suba a la cabeza!","revisado","",""
+11005,"Tendré cuidado...","revisado","",""
+11006,"Ya sé que eres una La Pucelle de primera, pero ¿puedes evitar pasearte con ese aspecto?","revisado","",""
+11007,"Es que asustas a todo el mundo.","revisado","",""
+11008,"Que me lo digas tan a la cara duele un poco...","revisado","",""
+11009,"¡Estoy estudiando mucho para entrar en la Iglesia de la Santa Doncella y convertirme en La Pucelle!","revisado","聖女会 es la Iglesia de la Santa Doncella, y ラ・ピュセル denomina a sus exorcistas.",""
+11010,"¡Así se hace!","revisado","",""
+11011,"¡Estudia mucho y conviértete en una gran La Pucelle como yo!","revisado","",""
+11012,"¿Que estudie...?","revisado","",""
+11013,"¿Como tú...?","revisado","",""
+11014,"¿Una gran La Pucelle...?","revisado","立派な es «excelente, admirable», no «una multa». La repetición cuestiona el ejemplo de Prier.",""
+11015,"¡¿Pero qué les pasa a todos?!","revisado","",""
+11016,"Aunque se haya convertido en demonio, mi hermana nunca olvidó su deber como La Pucelle.","revisado","",""
+11017,"Qué admirable...","revisado","",""
+11018,"¡Yo también quiero llegar a ser una gran La Pucelle como mi hermana!","revisado","",""
+11019,"¡Mucho ánimo! ¡Yo te apoyaré!","revisado","",""
 11020,,pendiente,,
 11021,,pendiente,,
 11022,,pendiente,,
