@@ -888,33 +888,33 @@
 14886,"Cuando vuelvas a visitarnos, tendremos un buen surtido de objetos.",revisado,,
 14887,Te agradecemos la paciencia.,revisado,,
 14888,¿Qué te parece nuestra selección actual?,revisado,,
-14889,Más armas / Más armaduras / Más cosas raras / Perfecta así / ¿Qué prefieres?,requiere_investigacion,Cuatro opciones de respuesta y una pregunta fusionadas sin códigos de separación; recuperar estructura del menú.,
-14890,Objetos más caros / Objetos más baratos / ¿Te interesa el Mundo Oscuro?,requiere_investigacion,"Dos opciones de selección seguidas de una pregunta, sin límites de texto ni hablantes. Pendiente de cotejo.",
+14889,Más armas | Más armaduras | Más objetos poco comunes | La selección está bien así | ¿Qué preferirías?,revisado,"SEGMENTACIÓN: 24845–24848 son cuatro opciones; 24849 es pregunta de vendedor. «|» es separador editorial, NO texto insertable.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24845–24849)
+14890,Objetos más caros | Objetos más baratos | ¿Te interesa el Mundo Oscuro?,revisado,"SEGMENTACIÓN: 24850 y 24851 son dos opciones, 24852 es pregunta independiente. «|» solo separador editorial.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24850–24852)
 14891,"Prefieres enfrentarte a enemigos fuertes, ¿verdad?",revisado,,
 14892,"Si pudieras pedir un deseo, ¿cuál sería?",revisado,,
-14893,Triple EXP en combate / Triple EXP por purificación / Triple dinero / Triple bonificación de atributos / Gracias por colaborar.,requiere_investigacion,Cuatro opciones o bonificaciones y un mensaje de agradecimiento fusionados; verificar interfaz y límites de unidades.,
+14893,EXP x3 por combates | EXP x3 por purificación | Dinero x3 | Bonificación de atributos x3 | Gracias por tu colaboración.,revisado,SEGMENTACIÓN: 24857–24860 son cuatro opciones; 24861–24862 forman agradecimiento. No insertar separadores editoriales «|».,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24857–24862)
 14894,Lo tendremos en cuenta a la hora de elegir nuestros productos.,revisado,,
 14895,¿Hablas en serio?,revisado,,
-14896,Faltan armas / Faltan objetos defensivos / Quiero más objetos raros / La selección está bien como está,requiere_investigacion,Opciones de encuesta concatenadas sin separación original; traducir provisionalmente y cotejar estructura.,
+14896,No hay suficientes armas | No hay suficientes objetos defensivos | Me gustaría ver más objetos poco comunes | La selección está bien como está,revisado,SEGMENTACIÓN: las unidades 24867–24870 contienen cuatro respuestas de encuesta independientes. «|» separa editorialmente y no se inserta.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24867–24870)
 14897,Gracias por colaborar.,revisado,,
 14898,Lo tendremos en cuenta cuando decidamos qué productos ofrecer.,revisado,,
 14899,¡Sala de música!,revisado,,
 14900,¡Bienvenido al archivo de registros!,revisado,"«Record Collection» es un registro de objetos y combates, no una colección de discos musicales.",
-14901,Registro de objetos / Registro de combates / Explicación / ¡Enhorabuena!,requiere_investigacion,Tres opciones de menú y una felicitación fusionadas en un solo registro; se requiere cotejar segmentación.,
+14901,Registro de objetos | Registro de combates | Explicación | ¡Enhorabuena!,revisado,"SEGMENTACIÓN: 24877–24879 son tres opciones; 24880 es felicitación. Se corrige «Congradulations», errata inglesa. Separadores «|» solo editoriales.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24877–24880)
 14902,¡Has conseguido más del 10 por ciento de los objetos!,revisado,,
 14903,¡Has recibido un Raise ATK!,revisado,Raise ATK es el nombre de un objeto confirmado por guías del juego; se preserva en inglés.,https://gamefaqs.gamespot.com/ps2/566126-la-pucelle-tactics/faqs/82620/items-and-equipment
 14904,¡Tu colección de objetos no ha hecho más que empezar!,revisado,,
 14905,¡Ahora intenta llegar al 30 %!,revisado,,
 14906,¡El 30 %!,revisado,,
-14907,…algo especial.,requiere_investigacion,"Fragmento aislado «something special» sin principio ni verbo, posiblemente relativo a una recompensa; cotejar unidades.",
-14908,…¡sigue creciendo!,requiere_investigacion,"Falta el sujeto de «is still growing», presumiblemente una colección o el registro.",
+14907,…algo especial.,revisado,"La unidad 24890 contiene una frase nominal elíptica, inmediatamente después de la recompensa del 30 por ciento. Se conserva el fragmento sin inventar su verbo perdido.",corpus/12/entrada.csv (14905–14909); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24890)
+14908,¡Sigue creciendo!,revisado,«Is still growing!» no contiene sujeto; el español permite omitirlo sin inventar una variable ni decidir el referente. Unidad 24891.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24891)
 14909,¡El 50 %!,revisado,,
 14910,¡Has llegado al 50 %!,revisado,El contexto de la colección permite explicitar «has llegado» sin añadir un premio.,
-14911,…un Magic Ring.,requiere_investigacion,El original «a Magic Ring.» carece de verbo o comienzo de frase; se conserva nombre de objeto para verificar reinserción.,
+14911,¡Un Magic Ring!,revisado,"«A Magic Ring» es frase nominal de recompensa, comprensible sin verbo. Nombre propio del objeto conservado en inglés para no inventar nomenclatura del inventario.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24894)
 14912,¡El 75 %!,revisado,,
 14913,¡Has llegado al 75 %!,revisado,,
 14914,Has recibido la espada Alondite.,revisado,"Se preserva el nombre del objeto «Alondite», no se sustituye por «Alondita».",https://gamefaqs.gamespot.com/ps2/566126-la-pucelle-tactics/faqs/82620/items-and-equipment
-14915,…¡sigue creciendo!,requiere_investigacion,«is still getting larger» omite sujeto y puede ser parte de otra frase sobre colección.,
+14915,¡Sigue creciendo!,revisado,"«Is still getting larger!» puede traducirse con sujeto implícito en tercera persona, natural en español. Unidad 24899.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24899)
 14916,¡El 100 %!,revisado,,
 14917,¡Has conseguido el 100 por ciento de los objetos del reino de Paprica!,revisado,Se unifica Paprica con los diálogos anteriores; el inglés alterna «Paprika» y «Paprica». Validar topónimo con coordinación.,
 14918,¡Has conseguido algo increíble!,revisado,,
@@ -927,7 +927,7 @@
 14925,"Si me ayudas, te daré una sorpresa.",revisado,,
 14926,No te preocupes si te deshaces de algún objeto: lo seguiré teniendo registrado.,revisado,,
 14927,También llevaré un registro de todas tus batallas.,revisado,,
-14928,"Por favor, tráeme un montón de registros de combates y objetos…",requiere_investigacion,"La fuente termina en «battle and item» sin sustantivo final, probablemente «records»; comprobar unidad y terminología.",
+14928,"Por favor, ¡reúne montones de registros de combates y objetos!",revisado,El final perdido de «battle and item» se identifica como «records» por las referencias explícitas a registros de objetos y batallas en 14923–14927.,corpus/12/entrada.csv (14923–14928); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24930–24931)
 14929,¡Apártate de mi camino!,revisado,,
 14930,"Así que tú estás detrás de todo esto, ¿eh?",revisado,,
 14931,¡Te haré entrar en razón a golpes!,revisado,,
