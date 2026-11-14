@@ -11,6 +11,7 @@ permissions:
 
 jobs:
   importar:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, 'chore: transferir paquete Git')
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -36,7 +37,8 @@ jobs:
               'AGENTS.md',
               'CHATGPT_PROJECT_INSTRUCCIONES.md',
               'CONTROL_CALIDAD_Y_REINTEGRACION.md',
-              'COORDINACION_FINAL.md'
+              'COORDINACION_FINAL.md',
+              '.github/workflows/qa.yml'
           }
           paths=subprocess.check_output(['git','-C',str(src),'ls-files','-z']).split(b'\0')
           for raw in paths:
@@ -61,7 +63,6 @@ jobs:
         run: |
           set -euo pipefail
           rm -rf _bootstrap
-          rm -f .github/workflows/importar_corpus.yml
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
