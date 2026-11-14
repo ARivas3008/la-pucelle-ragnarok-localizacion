@@ -849,56 +849,56 @@
 8791,"Sí. Eso decía el libro.",revisado,"",""
 8792,"Pero con la nave en este estado…",revisado,"Escargot es una aeronave, no «barco» en sentido marítimo.",""
 8793,"…a pie.",requiere_investigacion,"Registro aislado «walk.» procedente de una oración cortada; se intuye la necesidad de ir a pie por el estado del Escargot, pero no consta el sujeto ni el imperativo. Requiere cotejo.",""
-8794,,pendiente,,
-8795,,pendiente,,
-8796,,pendiente,,
-8797,,pendiente,,
-8798,,pendiente,,
-8799,,pendiente,,
-8800,,pendiente,,
-8801,,pendiente,,
-8802,,pendiente,,
-8803,,pendiente,,
-8804,,pendiente,,
-8805,,pendiente,,
-8806,,pendiente,,
-8807,,pendiente,,
-8808,,pendiente,,
-8809,,pendiente,,
-8810,,pendiente,,
-8811,,pendiente,,
-8812,,pendiente,,
-8813,,pendiente,,
-8814,,pendiente,,
-8815,,pendiente,,
-8816,,pendiente,,
-8817,,pendiente,,
-8818,,pendiente,,
-8819,,pendiente,,
-8820,,pendiente,,
-8821,,pendiente,,
-8822,,pendiente,,
-8823,,pendiente,,
-8824,,pendiente,,
-8825,,pendiente,,
-8826,,pendiente,,
-8827,,pendiente,,
-8828,,pendiente,,
-8829,,pendiente,,
-8830,,pendiente,,
-8831,,pendiente,,
-8832,,pendiente,,
-8833,,pendiente,,
-8834,,pendiente,,
-8835,,pendiente,,
-8836,,pendiente,,
-8837,,pendiente,,
-8838,,pendiente,,
-8839,,pendiente,,
-8840,,pendiente,,
-8841,,pendiente,,
-8842,,pendiente,,
-8843,,pendiente,,
+8794,"…miedo de…",requiere_investigacion,"El original solo contiene «afraid of...», probablemente cola de una frase desaparecida; sin referente no puede resolverse ni aprobarse.",""
+8795,"¡Gatos!",revisado,"",""
+8796,"¡Prepárense para partir!",revisado,"«Move out» es iniciar la marcha, no mudarse de casa.",""
+8797,"Esperen.",revisado,"",""
+8798,"Tú debes quedarte aquí, Yattanya.",revisado,"",""
+8799,"¡Pero, capitán!",revisado,"",""
+8800,"Tenemos que reparar la nave. Ponte al frente de la banda Chocolate y encárgate de ello.",requiere_investigacion,"«Chocolate gang» podría ser nombre de subgrupo de tripulación, no una pandilla relacionada con la comida. Se conserva «banda Chocolate» como hipótesis y requiere cotejar el nombre japonés y la terminología del juego.",""
+8801,"Cuando terminen las reparaciones, ven a buscarnos.",revisado,"",""
+8802,"Eres el único en quien confío para reparar la nave. ¿Entendido?",revisado,"",""
+8803,"Entendido, capitán.",revisado,"",""
+8804,"¡Déjelo en mis manos!",revisado,"",""
+8805,"Descansemos un momento. —Desde luego que hace calor.",requiere_investigacion,"Dos parlamentos aparentemente fusionados («Let's take a short break / It certainly is hot»); asignación de hablantes provisional.",""
+8806,"¿Se encuentra bien, princesa?",revisado,"",""
+8807,"¿Quiere que la lleve a caballito?",revisado,"",""
+8808,"No.",revisado,"",""
+8809,"Eh… No, gracias.",revisado,"",""
+8810,"Sé que la jungla es un lugar inhóspito.",revisado,"",""
+8811,"Y creo que sé lo que se necesita para sobrevivir aquí.",revisado,"",""
+8812,"Pero todo eso lo has aprendido en los libros, ¿verdad?",revisado,"",""
+8813,"S-sí. ¿Y qué tiene de malo?",revisado,"",""
+8814,"Nada. Pero algún día serás reina. Tienes que conocer el mundo real. ¡La vida es mucho más que libros!",revisado,"",""
+8815,"¿Y tú quién te crees que eres?",revisado,"",""
+8816,"¡Tú siempre haces lo que te da la gana! ¡Jamás, jamás comprenderás la enorme carga que soporta la realeza!",revisado,"«You do as you please» describe conducta egoísta del destinatario; no es un imperativo «haz lo que quieras».",""
+8817,"¡Ya basta!",revisado,"",""
+8818,"¡Ser princesa no te da derecho a hablarle así!",revisado,"",""
+8819,"Escucha, jovencita.",revisado,"",""
+8820,"¡Homard no es un verdadero pirata del aire! ¡Él es…!",revisado,"Homard oculta una identidad más allá de ser pirata; la frase queda en suspenso como el original. No se inventa su verdadera condición.",""
+8821,"Ya basta, Papillon.",revisado,"",""
+8822,"Mis disculpas, princesa.",revisado,"",""
+8823,"Me dejé llevar por el momento.",revisado,"",""
+8824,"Lo siento mucho.",revisado,"",""
+8825,"Por favor, deja de llamarme «princesa».",revisado,"",""
+8826,"Me llamo Éclair.",revisado,"",""
+8827,"Entendido, señorita Éclair.",revisado,"",""
+8828,"Y tampoco hace falta lo de «señorita».",revisado,"",""
+8829,"Llámame Éclair, sin más.",revisado,"",""
+8830,"Muy bien, Éclair.",revisado,"",""
+8831,"¡Menudo carácter tiene esta princesita!",revisado,"Se conserva el contraste de la admiración por el carácter de Éclair con el posterior comentario sobre su belleza.",""
+8832,"Pero hay que reconocer que es preciosa…",revisado,"",""
+8833,"¡Ay, ay! ¡Eh!",revisado,"",""
+8834,"¡Atención, todos!",revisado,"",""
+8835,"¿Nos ponemos en marcha?",revisado,"",""
+8836,"¿Son… ruinas?",revisado,"",""
+8837,"Eso parece.",revisado,"",""
+8838,"Los habitantes de Fátima debieron construir este pasadizo para ir y venir de la isla.",revisado,"«Fatimans» son pobladores de Fátima, no «fatimíes» de la historia islámica.",""
+8839,"Pero el libro que leí no decía nada de eso…",revisado,"",""
+8840,"Los libros son una cosa.",revisado,"",""
+8841,"Y la realidad, otra.",revisado,"",""
+8842,"¿Y si te equivocas?",revisado,"",""
+8843,"Todos correremos peligro.",revisado,"",""
 8844,,pendiente,,
 8845,,pendiente,,
 8846,,pendiente,,
