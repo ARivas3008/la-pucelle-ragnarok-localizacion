@@ -1,0 +1,4536 @@
+﻿========== GRUPO 8350 | UNIDADES 2 | IDs 12957,12958 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 32617
+IDIOMA: japones
+ORIGINAL: この聖パプリカ王国では, 女性が王位を継ぐことになっているのよ.
+ESPAÑOL PREVIO: En este Reino de Santa Paprika, el trono debe ser heredado por mujeres.
+ESPAÑOL EDICIÓN: En este Reino de Santa Paprika, el trono debe ser heredado por mujeres.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 
+SIGUIENTE: だから, 次期女王はクレピーヌ女王の一人娘の エクレールさまになるだろうね.
+
+========== GRUPO 8351 | UNIDADES 3 | IDs 12959,12960,12961 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 32684
+IDIOMA: japones
+ORIGINAL: だから, 次期女王はクレピーヌ女王の一人娘の エクレールさまになるだろうね.
+ESPAÑOL PREVIO: Por lo tanto, la próxima reina probablemente será Éclair, la única hija de la reina Crépine.
+ESPAÑOL EDICIÓN: Por lo tanto, la próxima reina probablemente será Éclair, la única hija de la reina Crépine.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: この聖パプリカ王国では, 女性が王位を継ぐことになっているのよ.
+SIGUIENTE: ワシゃ,どうも聖母神教会の連中は 好きになれん.
+
+========== GRUPO 8352 | UNIDADES 2 | IDs 12962,12963 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 32777
+IDIOMA: japones
+ORIGINAL: ワシゃ,どうも聖母神教会の連中は 好きになれん.
+ESPAÑOL PREVIO: Simplemente no puedo soportar a la gente de la Iglesia de Nuestra Señora.
+ESPAÑOL EDICIÓN: Simplemente no puedo soportar a la gente de la Iglesia de Nuestra Señora.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: だから, 次期女王はクレピーヌ女王の一人娘の エクレールさまになるだろうね.
+SIGUIENTE: 昼間っからフードなんぞ かぶりおって, あやしすぎるにも ほどがあるわい.
+
+========== GRUPO 8353 | UNIDADES 2 | IDs 12964,12965 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 32828
+IDIOMA: japones
+ORIGINAL: 昼間っからフードなんぞ かぶりおって, あやしすぎるにも ほどがあるわい.
+ESPAÑOL PREVIO: ¿Llevar una sudadera con capucha a plena luz del día? Eso es demasiado sospechoso.
+ESPAÑOL EDICIÓN: ¿Llevar una sudadera con capucha a plena luz del día? Eso es demasiado sospechoso.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ワシゃ,どうも聖母神教会の連中は 好きになれん.
+SIGUIENTE: さっき聖母神教会の信者が ワシを勧誘しに来よったんじゃ!
+
+========== GRUPO 8354 | UNIDADES 2 | IDs 12966,12967 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 32919
+IDIOMA: japones
+ORIGINAL: さっき聖母神教会の信者が ワシを勧誘しに来よったんじゃ!
+ESPAÑOL PREVIO: ¡Un miembro de la Iglesia de Nuestra Señora vino a verme hace un rato intentando convertirme!
+ESPAÑOL EDICIÓN: ¡Un miembro de la Iglesia de Nuestra Señora vino a verme hace un rato intentando convertirme!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 昼間っからフードなんぞ かぶりおって, あやしすぎるにも ほどがあるわい.
+SIGUIENTE: 「今,聖母神教会に入信すると もれなく温泉旅行券をプレゼントします.」
+
+========== GRUPO 8355 | UNIDADES 2 | IDs 12968,12969 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 32978
+IDIOMA: japones
+ORIGINAL: 「今,聖母神教会に入信すると もれなく温泉旅行券をプレゼントします.」
+ESPAÑOL PREVIO: "Si te haces miembro de la Iglesia de Nuestra Señora ahora, recibirás un cupón de viaje gratuito a un balneario de aguas termales."
+ESPAÑOL EDICIÓN: "Si te haces miembro de la Iglesia de Nuestra Señora ahora, recibirás un cupón de viaje gratuito a un balneario de aguas termales."
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: さっき聖母神教会の信者が ワシを勧誘しに来よったんじゃ!
+SIGUIENTE: ......などと ぬかしおって.
+
+========== GRUPO 8356 | UNIDADES 1 | IDs 12970 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33052
+IDIOMA: japones
+ORIGINAL: ......などと ぬかしおって.
+ESPAÑOL PREVIO: ...etcétera.
+ESPAÑOL EDICIÓN: …etcétera.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: 「今,聖母神教会に入信すると もれなく温泉旅行券をプレゼントします.」
+SIGUIENTE: 思わず入信してしまうところじゃったわい.
+
+========== GRUPO 8357 | UNIDADES 1 | IDs 12971 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33081
+IDIOMA: japones
+ORIGINAL: 思わず入信してしまうところじゃったわい.
+ESPAÑOL PREVIO: Estuve a punto de convertirme a su religión.
+ESPAÑOL EDICIÓN: Estuve a punto de convertirme a su religión.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: ......などと ぬかしおって.
+SIGUIENTE: エスカルゴ団の連中が来てるようじゃが, なんぞ,悪だくみでもしとるのかのぅ.
+
+========== GRUPO 8358 | UNIDADES 2 | IDs 12972,12973 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33138
+IDIOMA: japones
+ORIGINAL: エスカルゴ団の連中が来てるようじゃが, なんぞ,悪だくみでもしとるのかのぅ.
+ESPAÑOL PREVIO: Parece que la banda de los caracoles está aquí. Me pregunto qué clase de plan malvado estarán tramando.
+ESPAÑOL EDICIÓN: Parece que la banda de los caracoles está aquí. Me pregunto qué clase de plan malvado estarán tramando.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 思わず入信してしまうところじゃったわい.
+SIGUIENTE: 若いうちは突っ走るがエエ.
+
+========== GRUPO 8359 | UNIDADES 1 | IDs 12974 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33231
+IDIOMA: japones
+ORIGINAL: 若いうちは突っ走るがエエ.
+ESPAÑOL PREVIO: Es bueno lanzarse hacia adelante cuando uno es joven.
+ESPAÑOL EDICIÓN: Es bueno lanzarse hacia adelante cuando uno es joven.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | MTL_NO_REVISADA
+PREVIO: エスカルゴ団の連中が来てるようじゃが, なんぞ,悪だくみでもしとるのかのぅ.
+SIGUIENTE: がんばれ,若者たちよ.
+
+========== GRUPO 8360 | UNIDADES 1 | IDs 12975 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33259
+IDIOMA: japones
+ORIGINAL: がんばれ,若者たちよ.
+ESPAÑOL PREVIO: ¡Sigan adelante, jóvenes!
+ESPAÑOL EDICIÓN: ¡Sigan adelante, jóvenes!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: 若いうちは突っ走るがエエ.
+SIGUIENTE: 今のワシ,ちょっとカッコ良かったじゃろ?
+
+========== GRUPO 8361 | UNIDADES 1 | IDs 12976 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33284
+IDIOMA: japones
+ORIGINAL: 今のワシ,ちょっとカッコ良かったじゃろ?
+ESPAÑOL PREVIO: Me veía bastante bien hace un momento, ¿verdad?
+ESPAÑOL EDICIÓN: Me veía bastante bien hace un momento, ¿verdad?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: がんばれ,若者たちよ.
+SIGUIENTE: 隠さんでもエエ,隠さんでもエエ.
+
+========== GRUPO 8362 | UNIDADES 1 | IDs 12977 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33341
+IDIOMA: japones
+ORIGINAL: 隠さんでもエエ,隠さんでもエエ.
+ESPAÑOL PREVIO: No tienes que esconderlo, no tienes que esconderlo.
+ESPAÑOL EDICIÓN: No tienes que esconderlo, no tienes que esconderlo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | MTL_NO_REVISADA
+PREVIO: 今のワシ,ちょっとカッコ良かったじゃろ?
+SIGUIENTE: ぜ~んぶ,わかっとる.
+
+========== GRUPO 8363 | UNIDADES 1 | IDs 12978 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33375
+IDIOMA: japones
+ORIGINAL: ぜ~んぶ,わかっとる.
+ESPAÑOL PREVIO: Lo entiendo todo.
+ESPAÑOL EDICIÓN: Lo entiendo todo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: 隠さんでもエエ,隠さんでもエエ.
+SIGUIENTE: とにかく,ファイトじゃ!!
+
+========== GRUPO 8364 | UNIDADES 1 | IDs 12979 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33400
+IDIOMA: japones
+ORIGINAL: とにかく,ファイトじゃ!!
+ESPAÑOL PREVIO: En fin, ¡vamos a pelear!
+ESPAÑOL EDICIÓN: En fin, ¡vamos a pelear!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: ぜ~んぶ,わかっとる.
+SIGUIENTE: おねえちゃん,シスターでしょ?
+
+========== GRUPO 8365 | UNIDADES 1 | IDs 12980 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33525
+IDIOMA: japones
+ORIGINAL: おねえちゃん,シスターでしょ?
+ESPAÑOL PREVIO: Hermana mayor, eres monja, ¿verdad?
+ESPAÑOL EDICIÓN: Hermana mayor, eres monja, ¿verdad?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: とにかく,ファイトじゃ!!
+SIGUIENTE: しゅうきょうって, なんのためにあるの?
+
+========== GRUPO 8366 | UNIDADES 2 | IDs 12981,12982 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33558
+IDIOMA: japones
+ORIGINAL: しゅうきょうって, なんのためにあるの?
+ESPAÑOL PREVIO: ¿Para qué sirve la religión?
+ESPAÑOL EDICIÓN: ¿Para qué sirve la religión?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: おねえちゃん,シスターでしょ?
+SIGUIENTE: ねぇ,おしえて~.
+
+========== GRUPO 8367 | UNIDADES 1 | IDs 12983 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33601
+IDIOMA: japones
+ORIGINAL: ねぇ,おしえて~.
+ESPAÑOL PREVIO: Oye, dime.
+ESPAÑOL EDICIÓN: Oye, dime.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: しゅうきょうって, なんのためにあるの?
+SIGUIENTE: はて?
+
+========== GRUPO 8368 | UNIDADES 1 | IDs 12984 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33640
+IDIOMA: japones
+ORIGINAL: はて?
+ESPAÑOL PREVIO: ¿Mmm?
+ESPAÑOL EDICIÓN: ¿Mmm?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: ねぇ,おしえて~.
+SIGUIENTE: なんのためだろ......?
+
+========== GRUPO 8369 | UNIDADES 1 | IDs 12985 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33648
+IDIOMA: japones
+ORIGINAL: なんのためだろ......?
+ESPAÑOL PREVIO: ¿Para qué podría ser...?
+ESPAÑOL EDICIÓN: ¿Para qué podría ser…?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: はて?
+SIGUIENTE: かみさまって,ほんとうにいるの~?
+
+========== GRUPO 8370 | UNIDADES 1 | IDs 12986 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33721
+IDIOMA: japones
+ORIGINAL: かみさまって,ほんとうにいるの~?
+ESPAÑOL PREVIO: ¿Dios existe realmente?
+ESPAÑOL EDICIÓN: ¿Dios existe realmente?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: なんのためだろ......?
+SIGUIENTE: そういや,あたしも見たことないなぁ.
+
+========== GRUPO 8371 | UNIDADES 1 | IDs 12987 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33811
+IDIOMA: japones
+ORIGINAL: そういや,あたしも見たことないなぁ.
+ESPAÑOL PREVIO: Ahora que lo pienso, yo tampoco lo he visto nunca.
+ESPAÑOL EDICIÓN: Ahora que lo pienso, yo tampoco lo he visto nunca.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: かみさまって,ほんとうにいるの~?
+SIGUIENTE: ひとは,どうして かみのなのもとに あらそったりするの~?
+
+========== GRUPO 8372 | UNIDADES 2 | IDs 12988,12989 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 33900
+IDIOMA: japones
+ORIGINAL: ひとは,どうして かみのなのもとに あらそったりするの~?
+ESPAÑOL PREVIO: ¿Por qué la gente se pelea por los nombres de los dioses?
+ESPAÑOL EDICIÓN: ¿Por qué la gente se pelea por los nombres de los dioses?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: そういや,あたしも見たことないなぁ.
+SIGUIENTE: そ,それは.......
+
+========== GRUPO 8373 | UNIDADES 1 | IDs 12990 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34000
+IDIOMA: japones
+ORIGINAL: そ,それは.......
+ESPAÑOL PREVIO: E-eso es...
+ESPAÑOL EDICIÓN: E-eso es…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ひとは,どうして かみのなのもとに あらそったりするの~?
+SIGUIENTE: ひとは,どこからきて,どこへいくの~?
+
+========== GRUPO 8374 | UNIDADES 1 | IDs 12991 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34082
+IDIOMA: japones
+ORIGINAL: ひとは,どこからきて,どこへいくの~?
+ESPAÑOL PREVIO: ¿De dónde viene la gente y adónde va?
+ESPAÑOL EDICIÓN: ¿De dónde viene la gente y adónde va?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: そ,それは.......
+SIGUIENTE: あんた,もうちょっと 子供らしい質問しなさいよ.
+
+========== GRUPO 8375 | UNIDADES 2 | IDs 12992,12993 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34162
+IDIOMA: japones
+ORIGINAL: あんた,もうちょっと 子供らしい質問しなさいよ.
+ESPAÑOL PREVIO: Vamos, haz una pregunta más infantil.
+ESPAÑOL EDICIÓN: Vamos, haz una pregunta más infantil.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ひとは,どこからきて,どこへいくの~?
+SIGUIENTE: めがみポワトゥリーヌさまと だてんしカラミティーは,どっちが つよいの~?
+
+========== GRUPO 8376 | UNIDADES 2 | IDs 12994,12995 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34263
+IDIOMA: japones
+ORIGINAL: めがみポワトゥリーヌさまと だてんしカラミティーは,どっちが つよいの~?
+ESPAÑOL PREVIO: ¿Cuál es más fuerte, la Diosa Poiturine o el Ángel Calamidad?
+ESPAÑOL EDICIÓN: ¿Cuál es más fuerte, la Diosa Poiturine o el Ángel Calamidad?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: あんた,もうちょっと 子供らしい質問しなさいよ.
+SIGUIENTE: にんげんの そんざいいぎって,なに~?
+
+========== GRUPO 8377 | UNIDADES 1 | IDs 12996 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34474
+IDIOMA: japones
+ORIGINAL: にんげんの そんざいいぎって,なに~?
+ESPAÑOL PREVIO: ¿Qué es la existencia de un ser humano?
+ESPAÑOL EDICIÓN: ¿Qué es la existencia de un ser humano?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: めがみポワトゥリーヌさまと だてんしカラミティーは,どっちが つよいの~?
+SIGUIENTE: にんげんは,どうして じぶんのきもちに すなおになれないの~?
+
+========== GRUPO 8378 | UNIDADES 2 | IDs 12997,12998 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34592
+IDIOMA: japones
+ORIGINAL: にんげんは,どうして じぶんのきもちに すなおになれないの~?
+ESPAÑOL PREVIO: ¿Por qué la gente no puede ser honesta con sus propios sentimientos?
+ESPAÑOL EDICIÓN: ¿Por qué la gente no puede ser honesta con sus propios sentimientos?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: にんげんの そんざいいぎって,なに~?
+SIGUIENTE: じぶんをしんじて,じぶんのきもちに すなおになりなさい,プリエ.......
+
+========== GRUPO 8379 | UNIDADES 2 | IDs 12999,13000 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34671
+IDIOMA: japones
+ORIGINAL: じぶんをしんじて,じぶんのきもちに すなおになりなさい,プリエ.......
+ESPAÑOL PREVIO: Cree en ti mismo, sé fiel a tus sentimientos, plié...
+ESPAÑOL EDICIÓN: Cree en ti mismo, sé fiel a tus sentimientos, plié…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: にんげんは,どうして じぶんのきもちに すなおになれないの~?
+SIGUIENTE: えっ!?
+
+========== GRUPO 8380 | UNIDADES 1 | IDs 13001 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34745
+IDIOMA: japones
+ORIGINAL: えっ!?
+ESPAÑOL PREVIO: ¿¡Eh!?
+ESPAÑOL EDICIÓN: ¿¡Eh!?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: じぶんをしんじて,じぶんのきもちに すなおになりなさい,プリエ.......
+SIGUIENTE: ......あなた,もしかして.......
+
+========== GRUPO 8381 | UNIDADES 1 | IDs 13002 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34755
+IDIOMA: japones
+ORIGINAL: ......あなた,もしかして.......
+ESPAÑOL PREVIO: ...¿Podría ser que tú...?
+ESPAÑOL EDICIÓN: …¿Podría ser que tú…?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: えっ!?
+SIGUIENTE: よっ,プリエちゃん!
+
+========== GRUPO 8382 | UNIDADES 1 | IDs 13003 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34903
+IDIOMA: japones
+ORIGINAL: よっ,プリエちゃん!
+ESPAÑOL PREVIO: ¡Hola, Prie!
+ESPAÑOL EDICIÓN: ¡Hola, Prie!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: ......あなた,もしかして.......
+SIGUIENTE: 今度 おじさんとデートしない?
+
+========== GRUPO 8383 | UNIDADES 1 | IDs 13004 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34925
+IDIOMA: japones
+ORIGINAL: 今度 おじさんとデートしない?
+ESPAÑOL PREVIO: ¿Te gustaría tener una cita conmigo alguna vez?
+ESPAÑOL EDICIÓN: ¿Te gustaría tener una cita conmigo alguna vez?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: よっ,プリエちゃん!
+SIGUIENTE: ......なんで,あたしに声かけてくる男って こんなオッサンばっかしなの?
+
+========== GRUPO 8384 | UNIDADES 2 | IDs 13005,13006 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 34976
+IDIOMA: japones
+ORIGINAL: ......なんで,あたしに声かけてくる男って こんなオッサンばっかしなの?
+ESPAÑOL PREVIO: ...¿Por qué todos los hombres que se me acercan son viejos así?
+ESPAÑOL EDICIÓN: …¿Por qué todos los hombres que se me acercan son viejos así?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 今度 おじさんとデートしない?
+SIGUIENTE: ま,だれにも相手されないよか いんじゃない?
+
+========== GRUPO 8385 | UNIDADES 2 | IDs 13007,13008 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35050
+IDIOMA: japones
+ORIGINAL: ま,だれにも相手されないよか いんじゃない?
+ESPAÑOL PREVIO: Bueno, ¿acaso no es mejor que ser ignorado por todos?
+ESPAÑOL EDICIÓN: Bueno, ¿acaso no es mejor que ser ignorado por todos?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ......なんで,あたしに声かけてくる男って こんなオッサンばっかしなの?
+SIGUIENTE: さっき,サングラスをかけた男が ここ最近の殺人事件について 聞いてまわってたよ.
+
+========== GRUPO 8386 | UNIDADES 3 | IDs 13009,13010,13011 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35114
+IDIOMA: japones
+ORIGINAL: さっき,サングラスをかけた男が ここ最近の殺人事件について 聞いてまわってたよ.
+ESPAÑOL PREVIO: Hace un momento, un hombre con gafas de sol iba preguntando a la gente sobre casos de asesinato recientes.
+ESPAÑOL EDICIÓN: Hace un momento, un hombre con gafas de sol iba preguntando a la gente sobre casos de asesinato recientes.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ま,だれにも相手されないよか いんじゃない?
+SIGUIENTE: ひょっとして,王家の警察隊員か?
+
+========== GRUPO 8387 | UNIDADES 1 | IDs 13012 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35197
+IDIOMA: japones
+ORIGINAL: ひょっとして,王家の警察隊員か?
+ESPAÑOL PREVIO: ¿Podría ser miembro de la policía real?
+ESPAÑOL EDICIÓN: ¿Podría ser miembro de la policía real?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: さっき,サングラスをかけた男が ここ最近の殺人事件について 聞いてまわってたよ.
+SIGUIENTE: ムニエールの森には, 恐ろしいヌシがいるって噂だよ.
+
+========== GRUPO 8388 | UNIDADES 2 | IDs 13013,13014 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35246
+IDIOMA: japones
+ORIGINAL: ムニエールの森には, 恐ろしいヌシがいるって噂だよ.
+ESPAÑOL PREVIO: Corre el rumor de que hay un espíritu guardián aterrador en el bosque de Munier.
+ESPAÑOL EDICIÓN: Corre el rumor de que hay un espíritu guardián aterrador en el bosque de Munier.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ひょっとして,王家の警察隊員か?
+SIGUIENTE: さわらぬ神に たたりなしってな.
+
+========== GRUPO 8389 | UNIDADES 1 | IDs 13015 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35301
+IDIOMA: japones
+ORIGINAL: さわらぬ神に たたりなしってな.
+ESPAÑOL PREVIO: Como dice el refrán: "No toques lo que funciona bien".
+ESPAÑOL EDICIÓN: Como dice el refrán: "No toques lo que funciona bien".
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ムニエールの森には, 恐ろしいヌシがいるって噂だよ.
+SIGUIENTE: 近づかないのが一番さ.
+
+========== GRUPO 8390 | UNIDADES 1 | IDs 13016 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35335
+IDIOMA: japones
+ORIGINAL: 近づかないのが一番さ.
+ESPAÑOL PREVIO: Es mejor mantenerse alejado.
+ESPAÑOL EDICIÓN: Es mejor mantenerse alejado.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: さわらぬ神に たたりなしってな.
+SIGUIENTE: ムニエールの森のヌシに会ったんだって?
+
+========== GRUPO 8391 | UNIDADES 1 | IDs 13017 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35374
+IDIOMA: japones
+ORIGINAL: ムニエールの森のヌシに会ったんだって?
+ESPAÑOL PREVIO: ¿He oído que conociste al amo del Bosque de Munier?
+ESPAÑOL EDICIÓN: ¿He oído que conociste al amo del Bosque de Munier?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 近づかないのが一番さ.
+SIGUIENTE: で,どうしたの?
+
+========== GRUPO 8392 | UNIDADES 1 | IDs 13018 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35415
+IDIOMA: japones
+ORIGINAL: で,どうしたの?
+ESPAÑOL PREVIO: ¿Y qué pasó?
+ESPAÑOL EDICIÓN: ¿Y qué pasó?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: ムニエールの森のヌシに会ったんだって?
+SIGUIENTE: 退治したのかい?
+
+========== GRUPO 8393 | UNIDADES 1 | IDs 13019 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35433
+IDIOMA: japones
+ORIGINAL: 退治したのかい?
+ESPAÑOL PREVIO: ¿Te deshiciste de ellos?
+ESPAÑOL EDICIÓN: ¿Te deshiciste de ellos?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: で,どうしたの?
+SIGUIENTE: 黒騎士のユウレイの噂でクレソン城は 大混乱らしいよ.
+
+========== GRUPO 8394 | UNIDADES 2 | IDs 13020,13021 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35466
+IDIOMA: japones
+ORIGINAL: 黒騎士のユウレイの噂でクレソン城は 大混乱らしいよ.
+ESPAÑOL PREVIO: Los rumores sobre el fantasma del Caballero Negro están causando estragos en el Castillo de Cresson.
+ESPAÑOL EDICIÓN: Los rumores sobre el fantasma del Caballero Negro están causando estragos en el Castillo de Cresson.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 退治したのかい?
+SIGUIENTE: ヒマだねぇ~.
+
+========== GRUPO 8395 | UNIDADES 1 | IDs 13022 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35535
+IDIOMA: japones
+ORIGINAL: ヒマだねぇ~.
+ESPAÑOL PREVIO: Estoy aburrido.
+ESPAÑOL EDICIÓN: Estoy aburrido.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: 黒騎士のユウレイの噂でクレソン城は 大混乱らしいよ.
+SIGUIENTE: プリエちゃん,おじさんとデートしない?
+
+========== GRUPO 8396 | UNIDADES 1 | IDs 13023 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35551
+IDIOMA: japones
+ORIGINAL: プリエちゃん,おじさんとデートしない?
+ESPAÑOL PREVIO: Prie-chan, ¿te gustaría tener una cita conmigo?
+ESPAÑOL EDICIÓN: Prie-chan, ¿te gustaría tener una cita conmigo?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ヒマだねぇ~.
+SIGUIENTE: おあいにくさま.
+
+========== GRUPO 8397 | UNIDADES 1 | IDs 13024 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35610
+IDIOMA: japones
+ORIGINAL: おあいにくさま.
+ESPAÑOL PREVIO: Lamento oír eso.
+ESPAÑOL EDICIÓN: Lamento oír eso.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: プリエちゃん,おじさんとデートしない?
+SIGUIENTE: あたしは,ヒマじゃないの.
+
+========== GRUPO 8398 | UNIDADES 1 | IDs 13025 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35628
+IDIOMA: japones
+ORIGINAL: あたしは,ヒマじゃないの.
+ESPAÑOL PREVIO: No soy libre.
+ESPAÑOL EDICIÓN: No soy libre.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: おあいにくさま.
+SIGUIENTE: ね,クロワ?
+
+========== GRUPO 8399 | UNIDADES 1 | IDs 13026 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35657
+IDIOMA: japones
+ORIGINAL: ね,クロワ?
+ESPAÑOL PREVIO: Hola, ¿Croissant?
+ESPAÑOL EDICIÓN: Hola, ¿Croissant?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: あたしは,ヒマじゃないの.
+SIGUIENTE: いや,いいんじゃねェの?
+
+========== GRUPO 8400 | UNIDADES 1 | IDs 13027 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35675
+IDIOMA: japones
+ORIGINAL: いや,いいんじゃねェの?
+ESPAÑOL PREVIO: No, creo que está bien.
+ESPAÑOL EDICIÓN: No, creo que está bien.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ね,クロワ?
+SIGUIENTE: おじさんとデートしてきたら?
+
+========== GRUPO 8401 | UNIDADES 1 | IDs 13028 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35701
+IDIOMA: japones
+ORIGINAL: おじさんとデートしてきたら?
+ESPAÑOL PREVIO: ¿Qué tal si tienes una cita con un hombre mayor?
+ESPAÑOL EDICIÓN: ¿Qué tal si tienes una cita con un hombre mayor?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: いや,いいんじゃねェの?
+SIGUIENTE: (むぅ......!
+
+========== GRUPO 8402 | UNIDADES 1 | IDs 13029 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35735
+IDIOMA: japones
+ORIGINAL: (むぅ......!
+ESPAÑOL PREVIO: (Mmm...!
+ESPAÑOL EDICIÓN: (Mmm…!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: おじさんとデートしてきたら?
+SIGUIENTE: なんで止めてくれないのよ!)
+
+========== GRUPO 8403 | UNIDADES 1 | IDs 13030 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35749
+IDIOMA: japones
+ORIGINAL: なんで止めてくれないのよ!)
+ESPAÑOL PREVIO: ¿Por qué no lo paras?
+ESPAÑOL EDICIÓN: ¿Por qué no lo paras?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (むぅ......!
+SIGUIENTE: (あたしが,こんなオッサンとデートしても いいわけ!?)
+
+========== GRUPO 8404 | UNIDADES 2 | IDs 13031,13032 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35782
+IDIOMA: japones
+ORIGINAL: (あたしが,こんなオッサンとデートしても いいわけ!?)
+ESPAÑOL PREVIO: (¿De verdad está bien que salga con un hombre mayor como este?)
+ESPAÑOL EDICIÓN: (¿De verdad está bien que salga con un hombre mayor como este?)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: なんで止めてくれないのよ!)
+SIGUIENTE: 今日はプリエちゃん,いないの?
+
+========== GRUPO 8405 | UNIDADES 1 | IDs 13033 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35868
+IDIOMA: japones
+ORIGINAL: 今日はプリエちゃん,いないの?
+ESPAÑOL PREVIO: ¿Prie no está aquí hoy?
+ESPAÑOL EDICIÓN: ¿Prie no está aquí hoy?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (あたしが,こんなオッサンとデートしても いいわけ!?)
+SIGUIENTE: よっ,プリエちゃん.
+
+========== GRUPO 8406 | UNIDADES 1 | IDs 13034 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35915
+IDIOMA: japones
+ORIGINAL: よっ,プリエちゃん.
+ESPAÑOL PREVIO: Hola, Prie-chan.
+ESPAÑOL EDICIÓN: Hola, Prie-chan.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: 今日はプリエちゃん,いないの?
+SIGUIENTE: オジサンとデートしない?
+
+========== GRUPO 8407 | UNIDADES 1 | IDs 13035 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35937
+IDIOMA: japones
+ORIGINAL: オジサンとデートしない?
+ESPAÑOL PREVIO: ¿Te gustaría tener una cita con un hombre mayor?
+ESPAÑOL EDICIÓN: ¿Te gustaría tener una cita con un hombre mayor?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: よっ,プリエちゃん.
+SIGUIENTE: この仕事が無事に終わったら, 考えてあげてもいいわよ.
+
+========== GRUPO 8408 | UNIDADES 2 | IDs 13036,13037 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 35992
+IDIOMA: japones
+ORIGINAL: この仕事が無事に終わったら, 考えてあげてもいいわよ.
+ESPAÑOL PREVIO: Si este trabajo se completa con éxito, podría considerarlo.
+ESPAÑOL EDICIÓN: Si este trabajo se completa con éxito, podría considerarlo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: オジサンとデートしない?
+SIGUIENTE: ホントっ!?
+
+========== GRUPO 8409 | UNIDADES 1 | IDs 13038 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36052
+IDIOMA: japones
+ORIGINAL: ホントっ!?
+ESPAÑOL PREVIO: ¿¡En realidad!?
+ESPAÑOL EDICIÓN: ¿¡En realidad!?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: この仕事が無事に終わったら, 考えてあげてもいいわよ.
+SIGUIENTE: モーブーって,「モーブー」って鳴くから モーブーなんだよね.
+
+========== GRUPO 8410 | UNIDADES 2 | IDs 13039,13040 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36206
+IDIOMA: japones
+ORIGINAL: モーブーって,「モーブー」って鳴くから モーブーなんだよね.
+ESPAÑOL PREVIO: El nombre "Mauve" proviene del sonido que produce, "Mauve".
+ESPAÑOL EDICIÓN: El nombre "Mauve" proviene del sonido que produce, "Mauve".
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ホントっ!?
+SIGUIENTE: 面白いなぁ.
+
+========== GRUPO 8411 | UNIDADES 1 | IDs 13041 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36268
+IDIOMA: japones
+ORIGINAL: 面白いなぁ.
+ESPAÑOL PREVIO: Es interesante.
+ESPAÑOL EDICIÓN: Es interesante.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: モーブーって,「モーブー」って鳴くから モーブーなんだよね.
+SIGUIENTE: そうかぁ......?
+
+========== GRUPO 8412 | UNIDADES 1 | IDs 13042 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36286
+IDIOMA: japones
+ORIGINAL: そうかぁ......?
+ESPAÑOL PREVIO: Es eso así...?
+ESPAÑOL EDICIÓN: Es eso así…?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: 面白いなぁ.
+SIGUIENTE: (女神さま......)
+
+========== GRUPO 8413 | UNIDADES 1 | IDs 13043 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36352
+IDIOMA: japones
+ORIGINAL: (女神さま......)
+ESPAÑOL PREVIO: (Diosa...)
+ESPAÑOL EDICIÓN: (Diosa…)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: そうかぁ......?
+SIGUIENTE: (どうか,今晩のオカズに モーブーのステーキが出ますように......)
+
+========== GRUPO 8414 | UNIDADES 2 | IDs 13044,13045 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36371
+IDIOMA: japones
+ORIGINAL: (どうか,今晩のオカズに モーブーのステーキが出ますように......)
+ESPAÑOL PREVIO: (Por favor, que sirvan el bistec de Mauve para la cena de esta noche...)
+ESPAÑOL EDICIÓN: (Por favor, que sirvan el bistec de Mauve para la cena de esta noche…)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (女神さま......)
+SIGUIENTE: まぁ,シスター・プリエ.
+
+========== GRUPO 8415 | UNIDADES 1 | IDs 13046 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36443
+IDIOMA: japones
+ORIGINAL: まぁ,シスター・プリエ.
+ESPAÑOL PREVIO: Bueno, hermana Plié.
+ESPAÑOL EDICIÓN: Bueno, hermana Plié.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (どうか,今晩のオカズに モーブーのステーキが出ますように......)
+SIGUIENTE: 動物に対しても幸せを祈るなんて ようやく,あなたにも聖職者としての 自覚が芽生えてきたようですね.
+
+========== GRUPO 8416 | UNIDADES 3 | IDs 13047,13048,13049 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36470
+IDIOMA: japones
+ORIGINAL: 動物に対しても幸せを祈るなんて ようやく,あなたにも聖職者としての 自覚が芽生えてきたようですね.
+ESPAÑOL PREVIO: Rezar también por la felicidad de los animales... parece que por fin estás empezando a desarrollar un sentido de responsabilidad como clérigo.
+ESPAÑOL EDICIÓN: Rezar también por la felicidad de los animales… parece que por fin estás empezando a desarrollar un sentido de responsabilidad como clérigo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: まぁ,シスター・プリエ.
+SIGUIENTE: ま,まぁね!
+
+========== GRUPO 8417 | UNIDADES 1 | IDs 13050 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36574
+IDIOMA: japones
+ORIGINAL: ま,まぁね!
+ESPAÑOL PREVIO: ¡Pues sí!
+ESPAÑOL EDICIÓN: ¡Pues sí!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: 動物に対しても幸せを祈るなんて ようやく,あなたにも聖職者としての 自覚が芽生えてきたようですね.
+SIGUIENTE: と,と,と,当然のことよ!
+
+========== GRUPO 8418 | UNIDADES 1 | IDs 13051 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36588
+IDIOMA: japones
+ORIGINAL: と,と,と,当然のことよ!
+ESPAÑOL PREVIO: ¡Por supuesto!
+ESPAÑOL EDICIÓN: ¡Por supuesto!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ま,まぁね!
+SIGUIENTE: (だまされちゃいけませんよ, アルエットさん) (どうせ,「モーブーのステーキが食べたい」 とか思ってたに決まってるんだから......)
+
+========== GRUPO 8419 | UNIDADES 4 | IDs 13052,13053,13054,13055 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 36620
+IDIOMA: japones
+ORIGINAL: (だまされちゃいけませんよ, アルエットさん) (どうせ,「モーブーのステーキが食べたい」 とか思ってたに決まってるんだから......)
+ESPAÑOL PREVIO: (No se deje engañar, Sra. Alouette.) (Apuesto a que estaba pensando algo como: "Quiero comer bistec en Mauve.")
+ESPAÑOL EDICIÓN: (No se deje engañar, Sra. Alouette.) (Apuesto a que estaba pensando algo como: "Quiero comer bistec en Mauve.")
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: と,と,と,当然のことよ!
+SIGUIENTE: モーブーモーブーって, それ以外のこと,いえないのかねぇ?
+
+========== GRUPO 8420 | UNIDADES 2 | IDs 13056,13057 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37243
+IDIOMA: japones
+ORIGINAL: モーブーモーブーって, それ以外のこと,いえないのかねぇ?
+ESPAÑOL PREVIO: "Muu-muu, muu-muu", ¿es todo lo que puedes decir?
+ESPAÑOL EDICIÓN: "Muu-muu, muu-muu", ¿es todo lo que puedes decir?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (だまされちゃいけませんよ, アルエットさん) (どうせ,「モーブーのステーキが食べたい」 とか思ってたに決まってるんだから......)
+SIGUIENTE: 足太女.
+
+========== GRUPO 8421 | UNIDADES 1 | IDs 13058 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37307
+IDIOMA: japones
+ORIGINAL: 足太女.
+ESPAÑOL PREVIO: Una mujer con piernas gruesas.
+ESPAÑOL EDICIÓN: Una mujer con piernas gruesas.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: モーブーモーブーって, それ以外のこと,いえないのかねぇ?
+SIGUIENTE: そういえば,サラド神父は若い頃に グレートモーブーを拳の一撃で 倒したそうだけど,ホントかなぁ?
+
+========== GRUPO 8422 | UNIDADES 3 | IDs 13059,13060,13061 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37388
+IDIOMA: japones
+ORIGINAL: そういえば,サラド神父は若い頃に グレートモーブーを拳の一撃で 倒したそうだけど,ホントかなぁ?
+ESPAÑOL PREVIO: Hablando de eso, oí que el Padre Salad derrotó a Gran Malva de un solo puñetazo cuando era joven, pero ¿es eso realmente cierto?
+ESPAÑOL EDICIÓN: Hablando de eso, oí que el Padre Salad derrotó a Gran Malva de un solo puñetazo cuando era joven, pero ¿es eso realmente cierto?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 足太女.
+SIGUIENTE: モーブーは,いいなぁ.......
+
+========== GRUPO 8423 | UNIDADES 1 | IDs 13062 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37535
+IDIOMA: japones
+ORIGINAL: モーブーは,いいなぁ.......
+ESPAÑOL PREVIO: El color malva es bonito...
+ESPAÑOL EDICIÓN: El color malva es bonito…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: そういえば,サラド神父は若い頃に グレートモーブーを拳の一撃で 倒したそうだけど,ホントかなぁ?
+SIGUIENTE: こうして『モーブー』鳴いてるだけで.......
+
+========== GRUPO 8424 | UNIDADES 1 | IDs 13063 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37563
+IDIOMA: japones
+ORIGINAL: こうして『モーブー』鳴いてるだけで.......
+ESPAÑOL PREVIO: Así mismo, está haciendo un sonido "malva"...
+ESPAÑOL EDICIÓN: Así mismo, está haciendo un sonido "malva"…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: モーブーは,いいなぁ.......
+SIGUIENTE: 悩みなんて,ないんだろうなぁ.
+
+========== GRUPO 8425 | UNIDADES 1 | IDs 13064 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37606
+IDIOMA: japones
+ORIGINAL: 悩みなんて,ないんだろうなぁ.
+ESPAÑOL PREVIO: Supongo que no tienen ninguna preocupación.
+ESPAÑOL EDICIÓN: Supongo que no tienen ninguna preocupación.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: こうして『モーブー』鳴いてるだけで.......
+SIGUIENTE: モーブーかァ.......
+
+========== GRUPO 8426 | UNIDADES 1 | IDs 13065 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37687
+IDIOMA: japones
+ORIGINAL: モーブーかァ.......
+ESPAÑOL PREVIO: Malva, ¿eh?...
+ESPAÑOL EDICIÓN: Malva, ¿eh?…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 悩みなんて,ないんだろうなぁ.
+SIGUIENTE: なつかしいぜェ.
+
+========== GRUPO 8427 | UNIDADES 1 | IDs 13066 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37708
+IDIOMA: japones
+ORIGINAL: なつかしいぜェ.
+ESPAÑOL PREVIO: Ah, aquellos sí que eran buenos tiempos.
+ESPAÑOL EDICIÓN: Ah, aquellos sí que eran buenos tiempos.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: モーブーかァ.......
+SIGUIENTE: 昔は,コイツの倍はあるグレートモーブーと バカやったモンだ.......
+
+========== GRUPO 8428 | UNIDADES 2 | IDs 13067,13068 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37726
+IDIOMA: japones
+ORIGINAL: 昔は,コイツの倍はあるグレートモーブーと バカやったモンだ.......
+ESPAÑOL PREVIO: En el pasado, solía trastear con un Gran Malva que era el doble de grande que este...
+ESPAÑOL EDICIÓN: En el pasado, solía trastear con un Gran Malva que era el doble de grande que este…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: なつかしいぜェ.
+SIGUIENTE: 今朝も聖母神教会へ お祈りに行ってきたんだよ.
+
+========== GRUPO 8429 | UNIDADES 2 | IDs 13069,13070 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37892
+IDIOMA: japones
+ORIGINAL: 今朝も聖母神教会へ お祈りに行ってきたんだよ.
+ESPAÑOL PREVIO: Esta mañana fui de nuevo a la Iglesia de Nuestra Señora a rezar.
+ESPAÑOL EDICIÓN: Esta mañana fui de nuevo a la Iglesia de Nuestra Señora a rezar.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 昔は,コイツの倍はあるグレートモーブーと バカやったモンだ.......
+SIGUIENTE: あたしが,元気でいられるのも 聖母さまの おかげだね.
+
+========== GRUPO 8430 | UNIDADES 2 | IDs 13071,13072 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37941
+IDIOMA: japones
+ORIGINAL: あたしが,元気でいられるのも 聖母さまの おかげだね.
+ESPAÑOL PREVIO: Gracias a la Virgen María, puedo mantenerme sana.
+ESPAÑOL EDICIÓN: Gracias a la Virgen María, puedo mantenerme sana.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 今朝も聖母神教会へ お祈りに行ってきたんだよ.
+SIGUIENTE: ありがたや,ありがたや.
+
+========== GRUPO 8431 | UNIDADES 1 | IDs 13073 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 37997
+IDIOMA: japones
+ORIGINAL: ありがたや,ありがたや.
+ESPAÑOL PREVIO: Gracias, gracias.
+ESPAÑOL EDICIÓN: Gracias, gracias.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: あたしが,元気でいられるのも 聖母さまの おかげだね.
+SIGUIENTE: また,殺人事件が起こったんだって?
+
+========== GRUPO 8432 | UNIDADES 1 | IDs 13074 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38038
+IDIOMA: japones
+ORIGINAL: また,殺人事件が起こったんだって?
+ESPAÑOL PREVIO: ¿Ha ocurrido otro asesinato?
+ESPAÑOL EDICIÓN: ¿Ha ocurrido otro asesinato?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ありがたや,ありがたや.
+SIGUIENTE: この国も物騒になったもんだねぇ.
+
+========== GRUPO 8433 | UNIDADES 1 | IDs 13075 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38075
+IDIOMA: japones
+ORIGINAL: この国も物騒になったもんだねぇ.
+ESPAÑOL PREVIO: Este país se ha convertido en un lugar bastante peligroso.
+ESPAÑOL EDICIÓN: Este país se ha convertido en un lugar bastante peligroso.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: また,殺人事件が起こったんだって?
+SIGUIENTE: 聖母神教会の聖母って, 一体,だれのことを指してるのかねぇ?
+
+========== GRUPO 8434 | UNIDADES 2 | IDs 13076,13077 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38124
+IDIOMA: japones
+ORIGINAL: 聖母神教会の聖母って, 一体,だれのことを指してるのかねぇ?
+ESPAÑOL PREVIO: ¿Quién es exactamente la "Virgen María" en la Iglesia de Nuestra Señora?
+ESPAÑOL EDICIÓN: ¿Quién es exactamente la "Virgen María" en la Iglesia de Nuestra Señora?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: この国も物騒になったもんだねぇ.
+SIGUIENTE: やっぱり,女神ポワトゥリーヌさまなのかい?
+
+========== GRUPO 8435 | UNIDADES 1 | IDs 13078 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38187
+IDIOMA: japones
+ORIGINAL: やっぱり,女神ポワトゥリーヌさまなのかい?
+ESPAÑOL PREVIO: Entonces, realmente es la diosa Poiturine, ¿no?
+ESPAÑOL EDICIÓN: Entonces, realmente es la diosa Poiturine, ¿no?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 聖母神教会の聖母って, 一体,だれのことを指してるのかねぇ?
+SIGUIENTE: ムニエールの森で木こりをしているバルソムと この街に住んでるシュザンヌが 遠距離恋愛しとるそうじゃ.
+
+========== GRUPO 8436 | UNIDADES 3 | IDs 13079,13080,13081 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38246
+IDIOMA: japones
+ORIGINAL: ムニエールの森で木こりをしているバルソムと この街に住んでるシュザンヌが 遠距離恋愛しとるそうじゃ.
+ESPAÑOL PREVIO: He oído que Barsom, que trabaja como leñador en el bosque de Munière, y Suzanne, que vive en este pueblo, mantienen una relación a distancia.
+ESPAÑOL EDICIÓN: He oído que Barsom, que trabaja como leñador en el bosque de Munière, y Suzanne, que vive en este pueblo, mantienen una relación a distancia.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: やっぱり,女神ポワトゥリーヌさまなのかい?
+SIGUIENTE: 若いモンは,ええのぅ.
+
+========== GRUPO 8437 | UNIDADES 1 | IDs 13082 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38349
+IDIOMA: japones
+ORIGINAL: 若いモンは,ええのぅ.
+ESPAÑOL PREVIO: Los jóvenes lo tienen muy bien, ¿verdad?
+ESPAÑOL EDICIÓN: Los jóvenes lo tienen muy bien, ¿verdad?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: ムニエールの森で木こりをしているバルソムと この街に住んでるシュザンヌが 遠距離恋愛しとるそうじゃ.
+SIGUIENTE: 木こりのバルソムとシュザンヌが 一緒に暮らすことになったんだってねぇ.
+
+========== GRUPO 8438 | UNIDADES 2 | IDs 13083,13084 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38388
+IDIOMA: japones
+ORIGINAL: 木こりのバルソムとシュザンヌが 一緒に暮らすことになったんだってねぇ.
+ESPAÑOL PREVIO: He oído que Barsom, el leñador, y Suzanne van a vivir juntos.
+ESPAÑOL EDICIÓN: He oído que Barsom, el leñador, y Suzanne van a vivir juntos.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 若いモンは,ええのぅ.
+SIGUIENTE: めでたし,めでたしじゃ.
+
+========== GRUPO 8439 | UNIDADES 1 | IDs 13085 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38461
+IDIOMA: japones
+ORIGINAL: めでたし,めでたしじゃ.
+ESPAÑOL PREVIO: Y así vivieron felices para siempre.
+ESPAÑOL EDICIÓN: Y así vivieron felices para siempre.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 木こりのバルソムとシュザンヌが 一緒に暮らすことになったんだってねぇ.
+SIGUIENTE: バルソムはシュザンヌにフラれたそうじゃが 今は新しい彼女とラブラブらしいねぇ.
+
+========== GRUPO 8440 | UNIDADES 2 | IDs 13086,13087 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38502
+IDIOMA: japones
+ORIGINAL: バルソムはシュザンヌにフラれたそうじゃが 今は新しい彼女とラブラブらしいねぇ.
+ESPAÑOL PREVIO: Oí que Suzanne dejó a Barsom, pero ahora, al parecer, está perdidamente enamorado de su nueva novia.
+ESPAÑOL EDICIÓN: Oí que Suzanne dejó a Barsom, pero ahora, al parecer, está perdidamente enamorado de su nueva novia.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: めでたし,めでたしじゃ.
+SIGUIENTE: ムニエールの森に 髪の毛をほしがる悪魔がいるそうじゃ.
+
+========== GRUPO 8441 | UNIDADES 2 | IDs 13088,13089 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38597
+IDIOMA: japones
+ORIGINAL: ムニエールの森に 髪の毛をほしがる悪魔がいるそうじゃ.
+ESPAÑOL PREVIO: Dicen que hay un demonio en el Bosque de Munier que ansía cabello.
+ESPAÑOL EDICIÓN: Dicen que hay un demonio en el Bosque de Munier que ansía cabello.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: バルソムはシュザンヌにフラれたそうじゃが 今は新しい彼女とラブラブらしいねぇ.
+SIGUIENTE: あっ.
+
+========== GRUPO 8442 | UNIDADES 1 | IDs 13090 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38681
+IDIOMA: japones
+ORIGINAL: あっ.
+ESPAÑOL PREVIO: Oh.
+ESPAÑOL EDICIÓN: Oh.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: ムニエールの森に 髪の毛をほしがる悪魔がいるそうじゃ.
+SIGUIENTE: いかん,いかん.
+
+========== GRUPO 8443 | UNIDADES 1 | IDs 13091 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38689
+IDIOMA: japones
+ORIGINAL: いかん,いかん.
+ESPAÑOL PREVIO: No, no.
+ESPAÑOL EDICIÓN: No, no.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: あっ.
+SIGUIENTE: 陽気に つられて寝てしもうた.
+
+========== GRUPO 8444 | UNIDADES 1 | IDs 13092 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38708
+IDIOMA: japones
+ORIGINAL: 陽気に つられて寝てしもうた.
+ESPAÑOL PREVIO: Me quedé dormido por el buen tiempo.
+ESPAÑOL EDICIÓN: Me quedé dormido por el buen tiempo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: いかん,いかん.
+SIGUIENTE: 教会を改装工事するんだってねぇ.
+
+========== GRUPO 8445 | UNIDADES 1 | IDs 13093 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38755
+IDIOMA: japones
+ORIGINAL: 教会を改装工事するんだってねぇ.
+ESPAÑOL PREVIO: He oído que van a reformar la iglesia.
+ESPAÑOL EDICIÓN: He oído que van a reformar la iglesia.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 陽気に つられて寝てしもうた.
+SIGUIENTE: なんとか言い訳できたみてェだな.
+
+========== GRUPO 8446 | UNIDADES 1 | IDs 13094 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38808
+IDIOMA: japones
+ORIGINAL: なんとか言い訳できたみてェだな.
+ESPAÑOL PREVIO: Parece que de alguna manera logró inventar una excusa.
+ESPAÑOL EDICIÓN: Parece que de alguna manera logró inventar una excusa.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 教会を改装工事するんだってねぇ.
+SIGUIENTE: ......ちょっと苦しいですけどね.
+
+========== GRUPO 8447 | UNIDADES 1 | IDs 13095 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 38846
+IDIOMA: japones
+ORIGINAL: ......ちょっと苦しいですけどね.
+ESPAÑOL PREVIO: ...Aunque es un poco difícil.
+ESPAÑOL EDICIÓN: …Aunque es un poco difícil.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: なんとか言い訳できたみてェだな.
+SIGUIENTE: (この女,なぐりてェェェエエエエ!!!)
+
+========== GRUPO 8448 | UNIDADES 1 | IDs 13096 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39156
+IDIOMA: japones
+ORIGINAL: (この女,なぐりてェェェエエエエ!!!)
+ESPAÑOL PREVIO: (¡Quiero darle un puñetazo a esta mujer!)
+ESPAÑOL EDICIÓN: (¡Quiero darle un puñetazo a esta mujer!)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ......ちょっと苦しいですけどね.
+SIGUIENTE: まさか,この方をなぐりたいなんて 思ってないでしょうね?
+
+========== GRUPO 8449 | UNIDADES 2 | IDs 13097,13098 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39216
+IDIOMA: japones
+ORIGINAL: まさか,この方をなぐりたいなんて 思ってないでしょうね?
+ESPAÑOL PREVIO: Seguramente no quieres golpear a esta persona, ¿verdad?
+ESPAÑOL EDICIÓN: Seguramente no quieres golpear a esta persona, ¿verdad?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (この女,なぐりてェェェエエエエ!!!)
+SIGUIENTE: も,もちろんよ.
+
+========== GRUPO 8450 | UNIDADES 1 | IDs 13099 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39278
+IDIOMA: japones
+ORIGINAL: も,もちろんよ.
+ESPAÑOL PREVIO: Por supuesto.
+ESPAÑOL EDICIÓN: Por supuesto.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: まさか,この方をなぐりたいなんて 思ってないでしょうね?
+SIGUIENTE: 神に仕えるシスターが そんなこと思うわけないじゃん.
+
+========== GRUPO 8451 | UNIDADES 2 | IDs 13100,13101 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39296
+IDIOMA: japones
+ORIGINAL: 神に仕えるシスターが そんなこと思うわけないじゃん.
+ESPAÑOL PREVIO: Una monja que sirve a Dios jamás pensaría algo así.
+ESPAÑOL EDICIÓN: Una monja que sirve a Dios jamás pensaría algo así.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: も,もちろんよ.
+SIGUIENTE: このあいだ聖母神教会の教主ノワールさまに お会いしたの.
+
+========== GRUPO 8452 | UNIDADES 2 | IDs 13102,13103 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39368
+IDIOMA: japones
+ORIGINAL: このあいだ聖母神教会の教主ノワールさまに お会いしたの.
+ESPAÑOL PREVIO: Hace poco conocí al padre Noir, el párroco de la Iglesia de Nuestra Señora.
+ESPAÑOL EDICIÓN: Hace poco conocí al padre Noir, el párroco de la Iglesia de Nuestra Señora.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 神に仕えるシスターが そんなこと思うわけないじゃん.
+SIGUIENTE: ちょっぴり影があってぇ~, そこが またステキなのよ~!!
+
+========== GRUPO 8453 | UNIDADES 2 | IDs 13104,13105 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39427
+IDIOMA: japones
+ORIGINAL: ちょっぴり影があってぇ~, そこが またステキなのよ~!!
+ESPAÑOL PREVIO: Tiene un lado oscuro, ¡y eso es lo que lo hace tan maravilloso!
+ESPAÑOL EDICIÓN: Tiene un lado oscuro, ¡y eso es lo que lo hace tan maravilloso!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: このあいだ聖母神教会の教主ノワールさまに お会いしたの.
+SIGUIENTE: キャ~,うれしはずかし~¥......アホか,この女.
+
+========== GRUPO 8454 | UNIDADES 2 | IDs 13106,13107 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39488
+IDIOMA: japones
+ORIGINAL: キャ~,うれしはずかし~¥......アホか,この女.
+ESPAÑOL PREVIO: Ahh, estoy tan feliz y avergonzado... Qué idiota es esta mujer.
+ESPAÑOL EDICIÓN: Ahh, estoy tan feliz y avergonzado… Qué idiota es esta mujer.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ちょっぴり影があってぇ~, そこが またステキなのよ~!!
+SIGUIENTE: 聖母神教会では,効果てきめんの素晴らしいグッズが たくさん売られているのよ.
+
+========== GRUPO 8455 | UNIDADES 2 | IDs 13108,13109 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39575
+IDIOMA: japones
+ORIGINAL: 聖母神教会では,効果てきめんの素晴らしいグッズが たくさん売られているのよ.
+ESPAÑOL PREVIO: La Iglesia de Nuestra Señora vende muchos productos increíbles y muy eficaces.
+ESPAÑOL EDICIÓN: La Iglesia de Nuestra Señora vende muchos productos increíbles y muy eficaces.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: キャ~,うれしはずかし~¥......アホか,この女.
+SIGUIENTE: わたしはねぇ, 『美肌を永遠に保つクスリ』を買ったの.
+
+========== GRUPO 8456 | UNIDADES 2 | IDs 13110,13111 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39654
+IDIOMA: japones
+ORIGINAL: わたしはねぇ, 『美肌を永遠に保つクスリ』を買ったの.
+ESPAÑOL PREVIO: Compré un "medicamento para mantener la piel hermosa para siempre".
+ESPAÑOL EDICIÓN: Compré un "medicamento para mantener la piel hermosa para siempre".
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 聖母神教会では,効果てきめんの素晴らしいグッズが たくさん売られているのよ.
+SIGUIENTE: 聖母神教会の新グッズの話,聞いた?
+
+========== GRUPO 8457 | UNIDADES 1 | IDs 13112 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39779
+IDIOMA: japones
+ORIGINAL: 聖母神教会の新グッズの話,聞いた?
+ESPAÑOL PREVIO: ¿Has oído hablar de los nuevos productos de la Iglesia de Nuestra Señora?
+ESPAÑOL EDICIÓN: ¿Has oído hablar de los nuevos productos de la Iglesia de Nuestra Señora?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: わたしはねぇ, 『美肌を永遠に保つクスリ』を買ったの.
+SIGUIENTE: なんでも,髪の毛がフサフサになる クスリなんですって!
+
+========== GRUPO 8458 | UNIDADES 2 | IDs 13113,13114 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39816
+IDIOMA: japones
+ORIGINAL: なんでも,髪の毛がフサフサになる クスリなんですって!
+ESPAÑOL PREVIO: ¡Al parecer, es un medicamento que hace que el cabello crezca grueso y abundante!
+ESPAÑOL EDICIÓN: ¡Al parecer, es un medicamento que hace que el cabello crezca grueso y abundante!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 聖母神教会の新グッズの話,聞いた?
+SIGUIENTE: ま,わたしには関係ないけどね.
+
+========== GRUPO 8459 | UNIDADES 1 | IDs 13115 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39873
+IDIOMA: japones
+ORIGINAL: ま,わたしには関係ないけどね.
+ESPAÑOL PREVIO: Bueno, a mí no me incumbe.
+ESPAÑOL EDICIÓN: Bueno, a mí no me incumbe.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: なんでも,髪の毛がフサフサになる クスリなんですって!
+SIGUIENTE: 聖母神教会のグッズを買いすぎちゃって 借金まみれになっちゃった......ハァ~.
+
+========== GRUPO 8460 | UNIDADES 2 | IDs 13116,13117 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 39920
+IDIOMA: japones
+ORIGINAL: 聖母神教会のグッズを買いすぎちゃって 借金まみれになっちゃった......ハァ~.
+ESPAÑOL PREVIO: Compré demasiados recuerdos en la Iglesia de Nuestra Señora y ahora estoy ahogada en deudas... Suspiro.
+ESPAÑOL EDICIÓN: Compré demasiados recuerdos en la Iglesia de Nuestra Señora y ahora estoy ahogada en deudas… Suspiro.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ま,わたしには関係ないけどね.
+SIGUIENTE: 最近,聖母神教会の礼拝堂に行っても ちっとも,ノワールさまが お見えにならないの.
+
+========== GRUPO 8461 | UNIDADES 2 | IDs 13118,13119 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40011
+IDIOMA: japones
+ORIGINAL: 最近,聖母神教会の礼拝堂に行っても ちっとも,ノワールさまが お見えにならないの.
+ESPAÑOL PREVIO: Últimamente, cada vez que voy a la capilla de la Iglesia de Nuestra Señora, no veo a Noir por ningún lado.
+ESPAÑOL EDICIÓN: Últimamente, cada vez que voy a la capilla de la Iglesia de Nuestra Señora, no veo a Noir por ningún lado.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 聖母神教会のグッズを買いすぎちゃって 借金まみれになっちゃった......ハァ~.
+SIGUIENTE: お体の具合でも悪いのかしら?
+
+========== GRUPO 8462 | UNIDADES 1 | IDs 13120 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40096
+IDIOMA: japones
+ORIGINAL: お体の具合でも悪いのかしら?
+ESPAÑOL PREVIO: ¿Te encuentras mal?
+ESPAÑOL EDICIÓN: ¿Te encuentras mal?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 最近,聖母神教会の礼拝堂に行っても ちっとも,ノワールさまが お見えにならないの.
+SIGUIENTE: 聖母神教会の幹部の方たちが, みんな,どこかに消えちゃったんですって.
+
+========== GRUPO 8463 | UNIDADES 2 | IDs 13121,13122 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40141
+IDIOMA: japones
+ORIGINAL: 聖母神教会の幹部の方たちが, みんな,どこかに消えちゃったんですって.
+ESPAÑOL PREVIO: Al parecer, todos los directivos de la Iglesia de Nuestra Señora han desaparecido sin dejar rastro.
+ESPAÑOL EDICIÓN: Al parecer, todos los directivos de la Iglesia de Nuestra Señora han desaparecido sin dejar rastro.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: お体の具合でも悪いのかしら?
+SIGUIENTE: 来る日も来る日も亭主のパンツ洗い.
+
+========== GRUPO 8464 | UNIDADES 1 | IDs 13123 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40357
+IDIOMA: japones
+ORIGINAL: 来る日も来る日も亭主のパンツ洗い.
+ESPAÑOL PREVIO: Día tras día, lavo la ropa interior de mi marido.
+ESPAÑOL EDICIÓN: Día tras día, lavo la ropa interior de mi marido.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 聖母神教会の幹部の方たちが, みんな,どこかに消えちゃったんですって.
+SIGUIENTE: たまにゃ,自分で洗えってぇの.
+
+========== GRUPO 8465 | UNIDADES 1 | IDs 13124 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40394
+IDIOMA: japones
+ORIGINAL: たまにゃ,自分で洗えってぇの.
+ESPAÑOL PREVIO: Lávalo tú mismo de vez en cuando.
+ESPAÑOL EDICIÓN: Lávalo tú mismo de vez en cuando.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 来る日も来る日も亭主のパンツ洗い.
+SIGUIENTE: その気持ち,よくわかります.
+
+========== GRUPO 8466 | UNIDADES 1 | IDs 13125 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40458
+IDIOMA: japones
+ORIGINAL: その気持ち,よくわかります.
+ESPAÑOL PREVIO: Comprendo perfectamente cómo te sientes.
+ESPAÑOL EDICIÓN: Comprendo perfectamente cómo te sientes.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: たまにゃ,自分で洗えってぇの.
+SIGUIENTE: うちの姉さんなんてヒドいんですよ.
+
+========== GRUPO 8467 | UNIDADES 1 | IDs 13126 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40489
+IDIOMA: japones
+ORIGINAL: うちの姉さんなんてヒドいんですよ.
+ESPAÑOL PREVIO: Mi hermana mayor es terrible.
+ESPAÑOL EDICIÓN: Mi hermana mayor es terrible.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: その気持ち,よくわかります.
+SIGUIENTE: さんざん汚した服を 全部ボクに押しつけるんですから.
+
+========== GRUPO 8468 | UNIDADES 2 | IDs 13127,13128 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40525
+IDIOMA: japones
+ORIGINAL: さんざん汚した服を 全部ボクに押しつけるんですから.
+ESPAÑOL PREVIO: Ella me echa toda esa ropa sucia encima.
+ESPAÑOL EDICIÓN: Ella me echa toda esa ropa sucia encima.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: うちの姉さんなんてヒドいんですよ.
+SIGUIENTE: 失礼ねェ~.
+
+========== GRUPO 8469 | UNIDADES 1 | IDs 13129 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40583
+IDIOMA: japones
+ORIGINAL: 失礼ねェ~.
+ESPAÑOL PREVIO: ¡Qué grosero!
+ESPAÑOL EDICIÓN: ¡Qué grosero!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: さんざん汚した服を 全部ボクに押しつけるんですから.
+SIGUIENTE: こんな美人の姉さんの服を洗えるんだから 光栄に思いなさいよ.
+
+========== GRUPO 8470 | UNIDADES 2 | IDs 13130,13131 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40597
+IDIOMA: japones
+ORIGINAL: こんな美人の姉さんの服を洗えるんだから 光栄に思いなさいよ.
+ESPAÑOL PREVIO: Deberías sentirte honrado de poder lavar la ropa de una mujer tan hermosa.
+ESPAÑOL EDICIÓN: Deberías sentirte honrado de poder lavar la ropa de una mujer tan hermosa.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 失礼ねェ~.
+SIGUIENTE: ハァ~,そろそろ亭主のパンツを洗うのにも あきてきたよ.
+
+========== GRUPO 8471 | UNIDADES 2 | IDs 13132,13133 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40677
+IDIOMA: japones
+ORIGINAL: ハァ~,そろそろ亭主のパンツを洗うのにも あきてきたよ.
+ESPAÑOL PREVIO: Ay, me estoy cansando de lavar la ropa interior de mi marido.
+ESPAÑOL EDICIÓN: Ay, me estoy cansando de lavar la ropa interior de mi marido.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: こんな美人の姉さんの服を洗えるんだから 光栄に思いなさいよ.
+SIGUIENTE: おや?
+
+========== GRUPO 8472 | UNIDADES 1 | IDs 13134 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40736
+IDIOMA: japones
+ORIGINAL: おや?
+ESPAÑOL PREVIO: ¿Oh?
+ESPAÑOL EDICIÓN: ¿Oh?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: ハァ~,そろそろ亭主のパンツを洗うのにも あきてきたよ.
+SIGUIENTE: そこの兄さん,いい男じゃないか.
+
+========== GRUPO 8473 | UNIDADES 1 | IDs 13135 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40744
+IDIOMA: japones
+ORIGINAL: そこの兄さん,いい男じゃないか.
+ESPAÑOL PREVIO: Hola, jovencito, eres un chico muy guapo, ¿verdad?
+ESPAÑOL EDICIÓN: Hola, jovencito, eres un chico muy guapo, ¿verdad?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: おや?
+SIGUIENTE: あんたのパンツだったら喜んで洗ったげるよ.
+
+========== GRUPO 8474 | UNIDADES 1 | IDs 13136 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40778
+IDIOMA: japones
+ORIGINAL: あんたのパンツだったら喜んで洗ったげるよ.
+ESPAÑOL PREVIO: Con mucho gusto lavaría tu ropa interior.
+ESPAÑOL EDICIÓN: Con mucho gusto lavaría tu ropa interior.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: そこの兄さん,いい男じゃないか.
+SIGUIENTE: こんなとこで脱ぐなァァァアアアア!!!
+
+========== GRUPO 8475 | UNIDADES 1 | IDs 13137 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40871
+IDIOMA: japones
+ORIGINAL: こんなとこで脱ぐなァァァアアアア!!!
+ESPAÑOL PREVIO: ¡No te quites la ropa en un lugar como este!
+ESPAÑOL EDICIÓN: ¡No te quites la ropa en un lugar como este!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: あんたのパンツだったら喜んで洗ったげるよ.
+SIGUIENTE: ......ったく.
+
+========== GRUPO 8476 | UNIDADES 1 | IDs 13138 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40915
+IDIOMA: japones
+ORIGINAL: ......ったく.
+ESPAÑOL PREVIO: ...En serio.
+ESPAÑOL EDICIÓN: …En serio.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: こんなとこで脱ぐなァァァアアアア!!!
+SIGUIENTE: なんで,あたしの まわりには こんなロクでもない男しかいないの?
+
+========== GRUPO 8477 | UNIDADES 2 | IDs 13139,13140 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40929
+IDIOMA: japones
+ORIGINAL: なんで,あたしの まわりには こんなロクでもない男しかいないの?
+ESPAÑOL PREVIO: ¿Por qué solo hay hombres inútiles como este a mi alrededor?
+ESPAÑOL EDICIÓN: ¿Por qué solo hay hombres inútiles como este a mi alrededor?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ......ったく.
+SIGUIENTE: 類は友を呼ぶということでしょう.
+
+========== GRUPO 8478 | UNIDADES 1 | IDs 13141 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 40999
+IDIOMA: japones
+ORIGINAL: 類は友を呼ぶということでしょう.
+ESPAÑOL PREVIO: Parece que los semejantes atraen a los semejantes.
+ESPAÑOL EDICIÓN: Parece que los semejantes atraen a los semejantes.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: なんで,あたしの まわりには こんなロクでもない男しかいないの?
+SIGUIENTE: 毎日,こうして同じことを繰り返して生活してるけど, それって,得難い幸せなのかもしれないねぇ.
+
+========== GRUPO 8479 | UNIDADES 2 | IDs 13142,13143 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41051
+IDIOMA: japones
+ORIGINAL: 毎日,こうして同じことを繰り返して生活してるけど, それって,得難い幸せなのかもしれないねぇ.
+ESPAÑOL PREVIO: Vivo mi vida repitiendo las mismas cosas todos los días, pero quizás esa sea una forma de felicidad poco común.
+ESPAÑOL EDICIÓN: Vivo mi vida repitiendo las mismas cosas todos los días, pero quizás esa sea una forma de felicidad poco común.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 類は友を呼ぶということでしょう.
+SIGUIENTE: エスカルゴ団のオマールって,男前だねぇ.
+
+========== GRUPO 8480 | UNIDADES 1 | IDs 13144 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41162
+IDIOMA: japones
+ORIGINAL: エスカルゴ団のオマールって,男前だねぇ.
+ESPAÑOL PREVIO: Omar, de la banda de los caracoles, es un tipo bastante guapo, ¿verdad?
+ESPAÑOL EDICIÓN: Omar, de la banda de los caracoles, es un tipo bastante guapo, ¿verdad?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 毎日,こうして同じことを繰り返して生活してるけど, それって,得難い幸せなのかもしれないねぇ.
+SIGUIENTE: どうせなら,ああいう男のパンツを 洗いたいよ.
+
+========== GRUPO 8481 | UNIDADES 2 | IDs 13145,13146 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41205
+IDIOMA: japones
+ORIGINAL: どうせなら,ああいう男のパンツを 洗いたいよ.
+ESPAÑOL PREVIO: Si de todas formas voy a lavar ropa interior, prefiero lavar a un tipo así.
+ESPAÑOL EDICIÓN: Si de todas formas voy a lavar ropa interior, prefiero lavar a un tipo así.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: エスカルゴ団のオマールって,男前だねぇ.
+SIGUIENTE: あんた,オマールさんだろ?
+
+========== GRUPO 8482 | UNIDADES 1 | IDs 13147 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41272
+IDIOMA: japones
+ORIGINAL: あんた,オマールさんだろ?
+ESPAÑOL PREVIO: Eres Omar, ¿verdad?
+ESPAÑOL EDICIÓN: Eres Omar, ¿verdad?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: どうせなら,ああいう男のパンツを 洗いたいよ.
+SIGUIENTE: よかったら,パンツ洗ってあげようか?
+
+========== GRUPO 8483 | UNIDADES 1 | IDs 13148 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41300
+IDIOMA: japones
+ORIGINAL: よかったら,パンツ洗ってあげようか?
+ESPAÑOL PREVIO: ¿Quieres que te lave la ropa interior?
+ESPAÑOL EDICIÓN: ¿Quieres que te lave la ropa interior?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: あんた,オマールさんだろ?
+SIGUIENTE: あいにくオレさまは, パンツは はかない主義なんだ.
+
+========== GRUPO 8484 | UNIDADES 2 | IDs 13149,13150 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41357
+IDIOMA: japones
+ORIGINAL: あいにくオレさまは, パンツは はかない主義なんだ.
+ESPAÑOL PREVIO: Lamentablemente, no uso ropa interior.
+ESPAÑOL EDICIÓN: Lamentablemente, no uso ropa interior.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: よかったら,パンツ洗ってあげようか?
+SIGUIENTE: フッ......冗談だよ.
+
+========== GRUPO 8485 | UNIDADES 1 | IDs 13151 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41429
+IDIOMA: japones
+ORIGINAL: フッ......冗談だよ.
+ESPAÑOL PREVIO: Jaja... es broma.
+ESPAÑOL EDICIÓN: Jaja… es broma.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: あいにくオレさまは, パンツは はかない主義なんだ.
+SIGUIENTE: (コイツ.......
+
+========== GRUPO 8486 | UNIDADES 1 | IDs 13152 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41453
+IDIOMA: japones
+ORIGINAL: (コイツ.......
+ESPAÑOL PREVIO: (Este tipo...)
+ESPAÑOL EDICIÓN: (Este tipo…)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: フッ......冗談だよ.
+SIGUIENTE: なかなか あなどれんな......)
+
+========== GRUPO 8487 | UNIDADES 1 | IDs 13153 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41469
+IDIOMA: japones
+ORIGINAL: なかなか あなどれんな......)
+ESPAÑOL PREVIO: No hay que subestimarlos...)
+ESPAÑOL EDICIÓN: No hay que subestimarlos…)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (コイツ.......
+SIGUIENTE: うんせ.
+
+========== GRUPO 8488 | UNIDADES 1 | IDs 13154 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41519
+IDIOMA: japones
+ORIGINAL: うんせ.
+ESPAÑOL PREVIO: Unse.
+ESPAÑOL EDICIÓN: Unse.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: なかなか あなどれんな......)
+SIGUIENTE: うんせっと.......
+
+========== GRUPO 8489 | UNIDADES 1 | IDs 13155 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41529
+IDIOMA: japones
+ORIGINAL: うんせっと.......
+ESPAÑOL PREVIO: No establecido.......
+ESPAÑOL EDICIÓN: No establecido….
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: うんせ.
+SIGUIENTE: この黄ばみが,なかなか落ちないのよねぇ.
+
+========== GRUPO 8490 | UNIDADES 1 | IDs 13156 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41548
+IDIOMA: japones
+ORIGINAL: この黄ばみが,なかなか落ちないのよねぇ.
+ESPAÑOL PREVIO: Este color amarillento es muy difícil de eliminar.
+ESPAÑOL EDICIÓN: Este color amarillento es muy difícil de eliminar.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: うんせっと.......
+SIGUIENTE: たとえ,世界が滅びようとも あたしゃ,こうしてパンツを洗うのさ.......
+
+========== GRUPO 8491 | UNIDADES 2 | IDs 13157,13158 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41605
+IDIOMA: japones
+ORIGINAL: たとえ,世界が滅びようとも あたしゃ,こうしてパンツを洗うのさ.......
+ESPAÑOL PREVIO: Aunque el mundo se acabara, seguiría lavando mis bragas así...
+ESPAÑOL EDICIÓN: Aunque el mundo se acabara, seguiría lavando mis bragas así…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: この黄ばみが,なかなか落ちないのよねぇ.
+SIGUIENTE: ワールドマップに出たら, かならず一度,△ボタンでメニューを開いて 『セーブ』しておくといいよ.
+
+========== GRUPO 8492 | UNIDADES 3 | IDs 13159,13160,13161 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41840
+IDIOMA: japones
+ORIGINAL: ワールドマップに出たら, かならず一度,△ボタンでメニューを開いて 『セーブ』しておくといいよ.
+ESPAÑOL PREVIO: Una vez que estés en el mapa del mundo, es buena idea abrir el menú con el botón del triángulo y guardar la partida.
+ESPAÑOL EDICIÓN: Una vez que estés en el mapa del mundo, es buena idea abrir el menú con el botón del triángulo y guardar la partida.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: たとえ,世界が滅びようとも あたしゃ,こうしてパンツを洗うのさ.......
+SIGUIENTE: あとで後悔しても,おそいからねぇ.
+
+========== GRUPO 8493 | UNIDADES 1 | IDs 13162 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41939
+IDIOMA: japones
+ORIGINAL: あとで後悔しても,おそいからねぇ.
+ESPAÑOL PREVIO: Te arrepentirás después, pero será demasiado tarde.
+ESPAÑOL EDICIÓN: Te arrepentirás después, pero será demasiado tarde.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ワールドマップに出たら, かならず一度,△ボタンでメニューを開いて 『セーブ』しておくといいよ.
+SIGUIENTE: こまめなセーブを心がけることが大切さ.
+
+========== GRUPO 8494 | UNIDADES 1 | IDs 13163 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 41975
+IDIOMA: japones
+ORIGINAL: こまめなセーブを心がけることが大切さ.
+ESPAÑOL PREVIO: Es importante asegurarse de ahorrar con frecuencia.
+ESPAÑOL EDICIÓN: Es importante asegurarse de ahorrar con frecuencia.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: あとで後悔しても,おそいからねぇ.
+SIGUIENTE: ちなみに『マップ選択画面』でも △ボタンでメニューを開いてセーブできるよ.
+
+========== GRUPO 8495 | UNIDADES 2 | IDs 13164,13165 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 42016
+IDIOMA: japones
+ORIGINAL: ちなみに『マップ選択画面』でも △ボタンでメニューを開いてセーブできるよ.
+ESPAÑOL PREVIO: Por cierto, también puedes abrir el menú y guardar desde la 'Pantalla de selección de mapas' pulsando el botón △.
+ESPAÑOL EDICIÓN: Por cierto, también puedes abrir el menú y guardar desde la 'Pantalla de selección de mapas' pulsando el botón △.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: こまめなセーブを心がけることが大切さ.
+SIGUIENTE: 『悪魔の胃袋』で, 子供がゾンビを見たらしいけど ホントかしら?
+
+========== GRUPO 8496 | UNIDADES 3 | IDs 13166,13167,13168 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 42642
+IDIOMA: japones
+ORIGINAL: 『悪魔の胃袋』で, 子供がゾンビを見たらしいけど ホントかしら?
+ESPAÑOL PREVIO: Al parecer, un niño vio un zombi en "El estómago del diablo", pero ¿es eso realmente cierto?
+ESPAÑOL EDICIÓN: Al parecer, un niño vio un zombi en "El estómago del diablo", pero ¿es eso realmente cierto?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ちなみに『マップ選択画面』でも △ボタンでメニューを開いてセーブできるよ.
+SIGUIENTE: 悪魔の胃袋......?
+
+========== GRUPO 8497 | UNIDADES 1 | IDs 13169 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 42727
+IDIOMA: japones
+ORIGINAL: 悪魔の胃袋......?
+ESPAÑOL PREVIO: ¿El estómago del diablo...?
+ESPAÑOL EDICIÓN: ¿El estómago del diablo…?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 『悪魔の胃袋』で, 子供がゾンビを見たらしいけど ホントかしら?
+SIGUIENTE: 悪魔の胃袋っていうのは 街はずれにある昔の下水道のことだよ.
+
+========== GRUPO 8498 | UNIDADES 2 | IDs 13170,13171 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 42749
+IDIOMA: japones
+ORIGINAL: 悪魔の胃袋っていうのは 街はずれにある昔の下水道のことだよ.
+ESPAÑOL PREVIO: El "Estómago del Diablo" hace referencia a un antiguo sistema de alcantarillado situado en las afueras de la ciudad.
+ESPAÑOL EDICIÓN: El "Estómago del Diablo" hace referencia a un antiguo sistema de alcantarillado situado en las afueras de la ciudad.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 悪魔の胃袋......?
+SIGUIENTE: 忘れたの?
+
+========== GRUPO 8499 | UNIDADES 1 | IDs 13172 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 42812
+IDIOMA: japones
+ORIGINAL: 忘れたの?
+ESPAÑOL PREVIO: ¿Lo olvidaste?
+ESPAÑOL EDICIÓN: ¿Lo olvidaste?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: 悪魔の胃袋っていうのは 街はずれにある昔の下水道のことだよ.
+SIGUIENTE: 昔よくボクらも探検に行ったじゃない.
+
+========== GRUPO 8500 | UNIDADES 1 | IDs 13173 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 42824
+IDIOMA: japones
+ORIGINAL: 昔よくボクらも探検に行ったじゃない.
+ESPAÑOL PREVIO: Solíamos ir de exploración todo el tiempo, ¿verdad?
+ESPAÑOL EDICIÓN: Solíamos ir de exploración todo el tiempo, ¿verdad?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 忘れたの?
+SIGUIENTE: ああ,あれのこと?
+
+========== GRUPO 8501 | UNIDADES 1 | IDs 13174 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 42866
+IDIOMA: japones
+ORIGINAL: ああ,あれのこと?
+ESPAÑOL PREVIO: ¿Ah, te refieres a ese?
+ESPAÑOL EDICIÓN: ¿Ah, te refieres a ese?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: 昔よくボクらも探検に行ったじゃない.
+SIGUIENTE: へぇ~,悪魔の胃袋っていうんだぁ.
+
+========== GRUPO 8502 | UNIDADES 1 | IDs 13175 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 42886
+IDIOMA: japones
+ORIGINAL: へぇ~,悪魔の胃袋っていうんだぁ.
+ESPAÑOL PREVIO: Vaya, así que se llama el estómago del diablo.
+ESPAÑOL EDICIÓN: Vaya, así que se llama el estómago del diablo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ああ,あれのこと?
+SIGUIENTE: 調子は どう,二人とも?
+
+========== GRUPO 8503 | UNIDADES 1 | IDs 13176 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 43470
+IDIOMA: japones
+ORIGINAL: 調子は どう,二人とも?
+ESPAÑOL PREVIO: ¿Cómo están ustedes dos?
+ESPAÑOL EDICIÓN: ¿Cómo están ustedes dos?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: へぇ~,悪魔の胃袋っていうんだぁ.
+SIGUIENTE: ラ・ピュセルの仕事には慣れたかしら?
+
+========== GRUPO 8504 | UNIDADES 1 | IDs 13177 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 43496
+IDIOMA: japones
+ORIGINAL: ラ・ピュセルの仕事には慣れたかしら?
+ESPAÑOL PREVIO: ¿Ya te has acostumbrado a trabajar con La Pucelle?
+ESPAÑOL EDICIÓN: ¿Ya te has acostumbrado a trabajar con La Pucelle?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 調子は どう,二人とも?
+SIGUIENTE: うん,楽勝.
+
+========== GRUPO 8505 | UNIDADES 1 | IDs 13178 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 43554
+IDIOMA: japones
+ORIGINAL: うん,楽勝.
+ESPAÑOL PREVIO: Sí, será pan comido.
+ESPAÑOL EDICIÓN: Sí, será pan comido.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: ラ・ピュセルの仕事には慣れたかしら?
+SIGUIENTE: いや~,覚えることが いっぱいで 大変です,シスター・オリーヴ.
+
+========== GRUPO 8506 | UNIDADES 2 | IDs 13179,13180 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 43572
+IDIOMA: japones
+ORIGINAL: いや~,覚えることが いっぱいで 大変です,シスター・オリーヴ.
+ESPAÑOL PREVIO: Vaya, hay tantas cosas que recordar, hermana Olive.
+ESPAÑOL EDICIÓN: Vaya, hay tantas cosas que recordar, hermana Olive.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: うん,楽勝.
+SIGUIENTE: フフ.
+
+========== GRUPO 8507 | UNIDADES 1 | IDs 13181 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 43642
+IDIOMA: japones
+ORIGINAL: フフ.
+ESPAÑOL PREVIO: Je je.
+ESPAÑOL EDICIÓN: Je je.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: いや~,覚えることが いっぱいで 大変です,シスター・オリーヴ.
+SIGUIENTE: はじめのうちは,だれでも そうよ.
+
+========== GRUPO 8508 | UNIDADES 1 | IDs 13182 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 43650
+IDIOMA: japones
+ORIGINAL: はじめのうちは,だれでも そうよ.
+ESPAÑOL PREVIO: Todos somos así al principio.
+ESPAÑOL EDICIÓN: Todos somos así al principio.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: フフ.
+SIGUIENTE: あなたたちが早く 一人前のラ・ピュセルになることを祈ってるわ.
+
+========== GRUPO 8509 | UNIDADES 2 | IDs 13183,13184 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 43687
+IDIOMA: japones
+ORIGINAL: あなたたちが早く 一人前のラ・ピュセルになることを祈ってるわ.
+ESPAÑOL PREVIO: Espero que pronto todas os convirtáis en auténticas La Pucelles.
+ESPAÑOL EDICIÓN: Espero que pronto todas os convirtáis en auténticas La Pucelles.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: はじめのうちは,だれでも そうよ.
+SIGUIENTE: つまり,35年前にサラド神父によって 創られました.
+
+========== GRUPO 8510 | UNIDADES 2 | IDs 13185,13186 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 45014
+IDIOMA: japones
+ORIGINAL: つまり,35年前にサラド神父によって 創られました.
+ESPAÑOL PREVIO: En otras palabras, fue fundada hace 35 años por el Padre Salad.
+ESPAÑOL EDICIÓN: En otras palabras, fue fundada hace 35 años por el Padre Salad.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: あなたたちが早く 一人前のラ・ピュセルになることを祈ってるわ.
+SIGUIENTE: わずか35年の歴史で こんなにも立派な聖堂を建てられたのは 王家の援助があったからです.
+
+========== GRUPO 8511 | UNIDADES 3 | IDs 13187,13188,13189 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 45069
+IDIOMA: japones
+ORIGINAL: わずか35年の歴史で こんなにも立派な聖堂を建てられたのは 王家の援助があったからです.
+ESPAÑOL PREVIO: El hecho de que una catedral tan magnífica pudiera construirse en tan solo 35 años de historia se debe al apoyo de la familia real.
+ESPAÑOL EDICIÓN: El hecho de que una catedral tan magnífica pudiera construirse en tan solo 35 años de historia se debe al apoyo de la familia real.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: つまり,35年前にサラド神父によって 創られました.
+SIGUIENTE: サラド神父も王家の信用を得るために, 長い間ご苦労されたそうですよ.
+
+========== GRUPO 8512 | UNIDADES 2 | IDs 13190,13191 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 45160
+IDIOMA: japones
+ORIGINAL: サラド神父も王家の信用を得るために, 長い間ご苦労されたそうですよ.
+ESPAÑOL PREVIO: He oído que el padre Salad también pasó por un largo período de dificultades para ganarse la confianza de la familia real.
+ESPAÑOL EDICIÓN: He oído que el padre Salad también pasó por un largo período de dificultades para ganarse la confianza de la familia real.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: わずか35年の歴史で こんなにも立派な聖堂を建てられたのは 王家の援助があったからです.
+SIGUIENTE: 聖典によると,50年前に 光の聖女さまと闇の王子が 戦ったそうよ.
+
+========== GRUPO 8513 | UNIDADES 3 | IDs 13192,13193,13194 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 46015
+IDIOMA: japones
+ORIGINAL: 聖典によると,50年前に 光の聖女さまと闇の王子が 戦ったそうよ.
+ESPAÑOL PREVIO: Según las escrituras, el Santo de la Luz y el Príncipe de las Tinieblas lucharon hace 50 años.
+ESPAÑOL EDICIÓN: Según las escrituras, el Santo de la Luz y el Príncipe de las Tinieblas lucharon hace 50 años.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: サラド神父も王家の信用を得るために, 長い間ご苦労されたそうですよ.
+SIGUIENTE: でも,その結果については書かれてないの.
+
+========== GRUPO 8514 | UNIDADES 1 | IDs 13195 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 46084
+IDIOMA: japones
+ORIGINAL: でも,その結果については書かれてないの.
+ESPAÑOL PREVIO: Pero no se mencionan los resultados.
+ESPAÑOL EDICIÓN: Pero no se mencionan los resultados.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 聖典によると,50年前に 光の聖女さまと闇の王子が 戦ったそうよ.
+SIGUIENTE: どういうことかしら?
+
+========== GRUPO 8515 | UNIDADES 1 | IDs 13196 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 46126
+IDIOMA: japones
+ORIGINAL: どういうことかしら?
+ESPAÑOL PREVIO: ¿Qué quieres decir?
+ESPAÑOL EDICIÓN: ¿Qué quieres decir?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: でも,その結果については書かれてないの.
+SIGUIENTE: うどん屋『やませみ』へ,ようこそ!
+
+========== GRUPO 8516 | UNIDADES 1 | IDs 13197 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 48543
+IDIOMA: japones
+ORIGINAL: うどん屋『やませみ』へ,ようこそ!
+ESPAÑOL PREVIO: ¡Bienvenidos al restaurante de udon "Yamasemi"!
+ESPAÑOL EDICIÓN: ¡Bienvenidos al restaurante de udon "Yamasemi"!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: どういうことかしら?
+SIGUIENTE: こんど,カレの たんじょうびなの.
+
+========== GRUPO 8517 | UNIDADES 1 | IDs 13198 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 50351
+IDIOMA: japones
+ORIGINAL: こんど,カレの たんじょうびなの.
+ESPAÑOL PREVIO: Pronto será su cumpleaños.
+ESPAÑOL EDICIÓN: Pronto será su cumpleaños.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: うどん屋『やませみ』へ,ようこそ!
+SIGUIENTE: おねえちゃんは,どんなプレゼントが いいと おもう~?
+
+========== GRUPO 8518 | UNIDADES 2 | IDs 13199,13200 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 50387
+IDIOMA: japones
+ORIGINAL: おねえちゃんは,どんなプレゼントが いいと おもう~?
+ESPAÑOL PREVIO: Hermana mayor, ¿qué tipo de regalo crees que sería bueno?
+ESPAÑOL EDICIÓN: Hermana mayor, ¿qué tipo de regalo crees que sería bueno?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: こんど,カレの たんじょうびなの.
+SIGUIENTE: このお姉ちゃんに聞いてもムダだよ.
+
+========== GRUPO 8519 | UNIDADES 1 | IDs 13201 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 50463
+IDIOMA: japones
+ORIGINAL: このお姉ちゃんに聞いてもムダだよ.
+ESPAÑOL PREVIO: Preguntarle a esta chica es inútil.
+ESPAÑOL EDICIÓN: Preguntarle a esta chica es inútil.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: おねえちゃんは,どんなプレゼントが いいと おもう~?
+SIGUIENTE: 彼氏いないから.
+
+========== GRUPO 8520 | UNIDADES 1 | IDs 13202 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 50499
+IDIOMA: japones
+ORIGINAL: 彼氏いないから.
+ESPAÑOL PREVIO: No tengo novio.
+ESPAÑOL EDICIÓN: No tengo novio.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: このお姉ちゃんに聞いてもムダだよ.
+SIGUIENTE: キュロットぉぉぉ~......!!
+
+========== GRUPO 8521 | UNIDADES 1 | IDs 13203 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 50521
+IDIOMA: japones
+ORIGINAL: キュロットぉぉぉ~......!!
+ESPAÑOL PREVIO: ¡¡Pantalones culotte...!!
+ESPAÑOL EDICIÓN: ¡¡Pantalones culotte…!!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 彼氏いないから.
+SIGUIENTE: こんにちは.
+
+========== GRUPO 8522 | UNIDADES 1 | IDs 13204 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 51105
+IDIOMA: japones
+ORIGINAL: こんにちは.
+ESPAÑOL PREVIO: Hola.
+ESPAÑOL EDICIÓN: Hola.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: キュロットぉぉぉ~......!!
+SIGUIENTE: わたしはエリー.
+
+========== GRUPO 8523 | UNIDADES 1 | IDs 13205 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 51119
+IDIOMA: japones
+ORIGINAL: わたしはエリー.
+ESPAÑOL PREVIO: Soy Ellie.
+ESPAÑOL EDICIÓN: Soy Ellie.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: こんにちは.
+SIGUIENTE: この お店の店長ですギャー.
+
+========== GRUPO 8524 | UNIDADES 1 | IDs 13206 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 51137
+IDIOMA: japones
+ORIGINAL: この お店の店長ですギャー.
+ESPAÑOL PREVIO: ¡Soy el gerente de esta tienda!
+ESPAÑOL EDICIÓN: ¡Soy el gerente de esta tienda!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: わたしはエリー.
+SIGUIENTE: ギャー?
+
+========== GRUPO 8525 | UNIDADES 1 | IDs 13207 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 51187
+IDIOMA: japones
+ORIGINAL: ギャー?
+ESPAÑOL PREVIO: ¿Eh?
+ESPAÑOL EDICIÓN: ¿Eh?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: この お店の店長ですギャー.
+SIGUIENTE: あっ,ついクセが出ちゃって.
+
+========== GRUPO 8526 | UNIDADES 1 | IDs 13208 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 51201
+IDIOMA: japones
+ORIGINAL: あっ,ついクセが出ちゃって.
+ESPAÑOL PREVIO: ¡Uy! Se me escapó la costumbre.
+ESPAÑOL EDICIÓN: ¡Uy! Se me escapó la costumbre.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ギャー?
+SIGUIENTE: 気にしないでください.
+
+========== GRUPO 8527 | UNIDADES 1 | IDs 13209 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 51231
+IDIOMA: japones
+ORIGINAL: 気にしないでください.
+ESPAÑOL PREVIO: No te preocupes por eso.
+ESPAÑOL EDICIÓN: No te preocupes por eso.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: あっ,ついクセが出ちゃって.
+SIGUIENTE: 今日はオープン記念日です.
+
+========== GRUPO 8528 | UNIDADES 1 | IDs 13210 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 51256
+IDIOMA: japones
+ORIGINAL: 今日はオープン記念日です.
+ESPAÑOL PREVIO: Hoy celebramos nuestro aniversario de inauguración.
+ESPAÑOL EDICIÓN: Hoy celebramos nuestro aniversario de inauguración.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 気にしないでください.
+SIGUIENTE: いっぱい お買い物していってくださいギャー.
+
+========== GRUPO 8529 | UNIDADES 1 | IDs 13211 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 51284
+IDIOMA: japones
+ORIGINAL: いっぱい お買い物していってくださいギャー.
+ESPAÑOL PREVIO: ¡Por favor, hagan muchas compras!
+ESPAÑOL EDICIÓN: ¡Por favor, hagan muchas compras!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 今日はオープン記念日です.
+SIGUIENTE: ローゼンクイーン商会へ,ようこそ!
+
+========== GRUPO 8530 | UNIDADES 1 | IDs 13212 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 52201
+IDIOMA: japones
+ORIGINAL: ローゼンクイーン商会へ,ようこそ!
+ESPAÑOL PREVIO: ¡Bienvenidos a Rosenqueen Trading Company!
+ESPAÑOL EDICIÓN: ¡Bienvenidos a Rosenqueen Trading Company!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: いっぱい お買い物していってくださいギャー.
+SIGUIENTE: 1プリカも やったんだから, ちゃんと調べてくれよなァ,プリエ姉ちゃん.
+
+========== GRUPO 8531 | UNIDADES 2 | IDs 13213,13214 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 54641
+IDIOMA: japones
+ORIGINAL: 1プリカも やったんだから, ちゃんと調べてくれよなァ,プリエ姉ちゃん.
+ESPAÑOL PREVIO: Incluso usé una tarjeta prepago, así que por favor, haga una verificación adecuada, hermana Priere.
+ESPAÑOL EDICIÓN: Incluso usé una tarjeta prepago, así que por favor, haga una verificación adecuada, hermana Priere.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | EXPANSION_ALTA | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ローゼンクイーン商会へ,ようこそ!
+SIGUIENTE: Just thinking about it makes my blood boil with excitement!
+
+========== GRUPO 8532 | UNIDADES 3 | IDs 13215,13216,13217 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 70661
+IDIOMA: ingles_u_occidental
+ORIGINAL: Just thinking about it makes my blood boil with excitement!
+ESPAÑOL PREVIO: ¡Solo de pensarlo me hierve la sangre de la emoción!
+ESPAÑOL EDICIÓN: ¡Solo de pensarlo me hierve la sangre de la emoción!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: 1プリカも やったんだから, ちゃんと調べてくれよなァ,プリエ姉ちゃん.
+SIGUIENTE: The fate of this ship depends on you!
+
+========== GRUPO 8533 | UNIDADES 2 | IDs 13218,13219 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 70807
+IDIOMA: ingles_u_occidental
+ORIGINAL: The fate of this ship depends on you!
+ESPAÑOL PREVIO: ¡El destino de este barco depende de ti!
+ESPAÑOL EDICIÓN: ¡El destino de este barco depende de ti!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Just thinking about it makes my blood boil with excitement!
+SIGUIENTE: I am counting on you!
+
+========== GRUPO 8534 | UNIDADES 1 | IDs 13220 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 70883
+IDIOMA: ingles_u_occidental
+ORIGINAL: I am counting on you!
+ESPAÑOL PREVIO: ¡Cuento contigo!
+ESPAÑOL EDICIÓN: ¡Cuento contigo!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: The fate of this ship depends on you!
+SIGUIENTE: I am still not sure about you guys, you know!
+
+========== GRUPO 8535 | UNIDADES 3 | IDs 13221,13222,13223 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 70973
+IDIOMA: ingles_u_occidental
+ORIGINAL: I am still not sure about you guys, you know!
+ESPAÑOL PREVIO: ¡Todavía no estoy seguro de ustedes, ¿saben?!
+ESPAÑOL EDICIÓN: ¡Todavía no estoy seguro de ustedes, ¿saben?!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I am counting on you!
+SIGUIENTE: Now get out there and take care of those demons!
+
+========== GRUPO 8536 | UNIDADES 3 | IDs 13224,13225,13226 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 71091
+IDIOMA: ingles_u_occidental
+ORIGINAL: Now get out there and take care of those demons!
+ESPAÑOL PREVIO: ¡Ahora sal ahí fuera y acaba con esos demonios!
+ESPAÑOL EDICIÓN: ¡Ahora sal ahí fuera y acaba con esos demonios!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I am still not sure about you guys, you know!
+SIGUIENTE: It was 5 years ago...
+
+========== GRUPO 8537 | UNIDADES 1 | IDs 13227 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 71250
+IDIOMA: ingles_u_occidental
+ORIGINAL: It was 5 years ago...
+ESPAÑOL PREVIO: Fue hace 5 años...
+ESPAÑOL EDICIÓN: Fue hace 5 años…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Now get out there and take care of those demons!
+SIGUIENTE: I was a great pirate captain, with 100 cats at my command.
+
+========== GRUPO 8538 | UNIDADES 3 | IDs 13228,13229,13230 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 71295
+IDIOMA: ingles_u_occidental
+ORIGINAL: I was a great pirate captain, with 100 cats at my command.
+ESPAÑOL PREVIO: Yo era un gran capitán pirata, con 100 gatos a mi mando.
+ESPAÑOL EDICIÓN: Yo era un gran capitán pirata, con 100 gatos a mi mando.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: It was 5 years ago...
+SIGUIENTE: We would spend every day attacking port towns and stealing treasure...
+
+========== GRUPO 8539 | UNIDADES 3 | IDs 13231,13232,13233 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 71414
+IDIOMA: ingles_u_occidental
+ORIGINAL: We would spend every day attacking port towns and stealing treasure...
+ESPAÑOL PREVIO: Nos pasábamos el día atacando ciudades portuarias y robando tesoros...
+ESPAÑOL EDICIÓN: Nos pasábamos el día atacando ciudades portuarias y robando tesoros…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I was a great pirate captain, with 100 cats at my command.
+SIGUIENTE: But one day, when we were attacking a certain town...
+
+========== GRUPO 8540 | UNIDADES 3 | IDs 13234,13235,13236 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 71557
+IDIOMA: ingles_u_occidental
+ORIGINAL: But one day, when we were attacking a certain town...
+ESPAÑOL PREVIO: Pero un día, cuando estábamos atacando cierta ciudad...
+ESPAÑOL EDICIÓN: Pero un día, cuando estábamos atacando cierta ciudad…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: We would spend every day attacking port towns and stealing treasure...
+SIGUIENTE: He appeared...
+
+========== GRUPO 8541 | UNIDADES 1 | IDs 13237 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 71666
+IDIOMA: ingles_u_occidental
+ORIGINAL: He appeared...
+ESPAÑOL PREVIO: Apareció...
+ESPAÑOL EDICIÓN: Apareció…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: But one day, when we were attacking a certain town...
+SIGUIENTE: He piloted a ship that flew in the sky!
+
+========== GRUPO 8542 | UNIDADES 2 | IDs 13238,13239 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 71697
+IDIOMA: ingles_u_occidental
+ORIGINAL: He piloted a ship that flew in the sky!
+ESPAÑOL PREVIO: ¡Pilotaba una nave que volaba por el cielo!
+ESPAÑOL EDICIÓN: ¡Pilotaba una nave que volaba por el cielo!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: He appeared...
+SIGUIENTE: And before we knew it, he had defeated all my crew!
+
+========== GRUPO 8543 | UNIDADES 3 | IDs 13240,13241,13242 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 71778
+IDIOMA: ingles_u_occidental
+ORIGINAL: And before we knew it, he had defeated all my crew!
+ESPAÑOL PREVIO: ¡Y antes de darnos cuenta, había derrotado a toda mi tripulación!
+ESPAÑOL EDICIÓN: ¡Y antes de darnos cuenta, había derrotado a toda mi tripulación!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: He piloted a ship that flew in the sky!
+SIGUIENTE: Finally, it was just me and him in mortal combat.
+
+========== GRUPO 8544 | UNIDADES 3 | IDs 13243,13244,13245 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 71883
+IDIOMA: ingles_u_occidental
+ORIGINAL: Finally, it was just me and him in mortal combat.
+ESPAÑOL PREVIO: Finalmente, solo quedábamos él y yo en un combate a muerte.
+ESPAÑOL EDICIÓN: Finalmente, solo quedábamos él y yo en un combate a muerte.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: And before we knew it, he had defeated all my crew!
+SIGUIENTE: I had never been defeated in my life, but he managed to beat me.
+
+========== GRUPO 8545 | UNIDADES 3 | IDs 13246,13247,13248 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 71984
+IDIOMA: ingles_u_occidental
+ORIGINAL: I had never been defeated in my life, but he managed to beat me.
+ESPAÑOL PREVIO: Jamás había sido derrotado en mi vida, pero él logró vencerme.
+ESPAÑOL EDICIÓN: Jamás había sido derrotado en mi vida, pero él logró vencerme.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Finally, it was just me and him in mortal combat.
+SIGUIENTE: I was prepared for death, but he merely looked at me and said It would be a shame to kill such a fine warrior.
+
+========== GRUPO 8546 | UNIDADES 5 | IDs 13249,13250,13251,13252,13253 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 72115
+IDIOMA: ingles_u_occidental
+ORIGINAL: I was prepared for death, but he merely looked at me and said It would be a shame to kill such a fine warrior.
+ESPAÑOL PREVIO: Estaba preparado para la muerte, pero él simplemente me miró y dijo: Sería una pena matar a un guerrero tan valiente.
+ESPAÑOL EDICIÓN: Estaba preparado para la muerte, pero él simplemente me miró y dijo: Sería una pena matar a un guerrero tan valiente.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_5 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I had never been defeated in my life, but he managed to beat me.
+SIGUIENTE: Why do not you join me on my ship?
+
+========== GRUPO 8547 | UNIDADES 2 | IDs 13254,13255 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 72339
+IDIOMA: ingles_u_occidental
+ORIGINAL: Why do not you join me on my ship?
+ESPAÑOL PREVIO: ¿Por qué no te unes a mí en mi barco?
+ESPAÑOL EDICIÓN: ¿Por qué no te unes a mí en mi barco?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I was prepared for death, but he merely looked at me and said It would be a shame to kill such a fine warrior.
+SIGUIENTE: It was as simple as that. I joined him, but I knew in my heart that he had beaten me.
+
+========== GRUPO 8548 | UNIDADES 4 | IDs 13256,13257,13258,13259 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 72410
+IDIOMA: ingles_u_occidental
+ORIGINAL: It was as simple as that. I joined him, but I knew in my heart that he had beaten me.
+ESPAÑOL PREVIO: Fue tan sencillo como eso. Me uní a él, pero en el fondo sabía que me había vencido.
+ESPAÑOL EDICIÓN: Fue tan sencillo como eso. Me uní a él, pero en el fondo sabía que me había vencido.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Why do not you join me on my ship?
+SIGUIENTE: And I also knew that I would follow this man for the rest of my life.
+
+========== GRUPO 8549 | UNIDADES 4 | IDs 13260,13261,13262,13263 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 72584
+IDIOMA: ingles_u_occidental
+ORIGINAL: And I also knew that I would follow this man for the rest of my life.
+ESPAÑOL PREVIO: Y también sabía que seguiría a ese hombre durante el resto de mi vida.
+ESPAÑOL EDICIÓN: Y también sabía que seguiría a ese hombre durante el resto de mi vida.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: It was as simple as that. I joined him, but I knew in my heart that he had beaten me.
+SIGUIENTE: That man was our fearless leader, Captain Homard.
+
+========== GRUPO 8550 | UNIDADES 3 | IDs 13264,13265,13266 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 72726
+IDIOMA: ingles_u_occidental
+ORIGINAL: That man was our fearless leader, Captain Homard.
+ESPAÑOL PREVIO: Ese hombre era nuestro intrépido líder, el capitán Homard.
+ESPAÑOL EDICIÓN: Ese hombre era nuestro intrépido líder, el capitán Homard.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: And I also knew that I would follow this man for the rest of my life.
+SIGUIENTE: I wish I could do something to help.
+
+========== GRUPO 8551 | UNIDADES 2 | IDs 13267,13268 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 72852
+IDIOMA: ingles_u_occidental
+ORIGINAL: I wish I could do something to help.
+ESPAÑOL PREVIO: Ojalá pudiera hacer algo para ayudar.
+ESPAÑOL EDICIÓN: Ojalá pudiera hacer algo para ayudar.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: That man was our fearless leader, Captain Homard.
+SIGUIENTE: This may not be the best time, but would you like to buy
+
+========== GRUPO 8552 | UNIDADES 3 | IDs 13269,13270,13271 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 73641
+IDIOMA: ingles_u_occidental
+ORIGINAL: This may not be the best time, but would you like to buy
+ESPAÑOL PREVIO: Puede que no sea el mejor momento, pero ¿te gustaría comprar?
+ESPAÑOL EDICIÓN: Puede que no sea el mejor momento, pero ¿te gustaría comprar?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I wish I could do something to help.
+SIGUIENTE: The Boss was actually born into a very aristocratic family.
+
+========== GRUPO 8553 | UNIDADES 3 | IDs 13272,13273,13274 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 74116
+IDIOMA: ingles_u_occidental
+ORIGINAL: The Boss was actually born into a very aristocratic family.
+ESPAÑOL PREVIO: El jefe nació en el seno de una familia muy aristocrática.
+ESPAÑOL EDICIÓN: El jefe nació en el seno de una familia muy aristocrática.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: This may not be the best time, but would you like to buy
+SIGUIENTE: Does not look it, does he?
+
+========== GRUPO 8554 | UNIDADES 2 | IDs 13275,13276 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 74237
+IDIOMA: ingles_u_occidental
+ORIGINAL: Does not look it, does he?
+ESPAÑOL PREVIO: No lo parece, ¿verdad?
+ESPAÑOL EDICIÓN: No lo parece, ¿verdad?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: The Boss was actually born into a very aristocratic family.
+SIGUIENTE: Potemkin is our boss.
+
+========== GRUPO 8555 | UNIDADES 1 | IDs 13277 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 74917
+IDIOMA: ingles_u_occidental
+ORIGINAL: Potemkin is our boss.
+ESPAÑOL PREVIO: Potemkin es nuestro jefe.
+ESPAÑOL EDICIÓN: Potemkin es nuestro jefe.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Does not look it, does he?
+SIGUIENTE: That a weird name,
+
+========== GRUPO 8556 | UNIDADES 1 | IDs 13278 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 74962
+IDIOMA: ingles_u_occidental
+ORIGINAL: That a weird name,
+ESPAÑOL PREVIO: Ese es un nombre extraño,
+ESPAÑOL EDICIÓN: Ese es un nombre extraño,
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Potemkin is our boss.
+SIGUIENTE: Take it easy.
+
+========== GRUPO 8557 | UNIDADES 1 | IDs 13279 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 75776
+IDIOMA: ingles_u_occidental
+ORIGINAL: Take it easy.
+ESPAÑOL PREVIO: Tómalo con calma.
+ESPAÑOL EDICIÓN: Tómalo con calma.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: That a weird name,
+SIGUIENTE: Do not go into battle unprepared. Remember to equip your items and to save your game!
+
+========== GRUPO 8558 | UNIDADES 4 | IDs 13280,13281,13282,13283 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 75830
+IDIOMA: ingles_u_occidental
+ORIGINAL: Do not go into battle unprepared. Remember to equip your items and to save your game!
+ESPAÑOL PREVIO: No entres en batalla sin estar preparado. ¡Recuerda equipar tus objetos y guardar la partida!
+ESPAÑOL EDICIÓN: No entres en batalla sin estar preparado. ¡Recuerda equipar tus objetos y guardar la partida!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Take it easy.
+SIGUIENTE: (Not again!
+
+========== GRUPO 8559 | UNIDADES 1 | IDs 13284 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 114613
+IDIOMA: ingles_u_occidental
+ORIGINAL: (Not again!
+ESPAÑOL PREVIO: (¡Otra vez no!)
+ESPAÑOL EDICIÓN: (¡Otra vez no!)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Do not go into battle unprepared. Remember to equip your items and to save your game!
+SIGUIENTE: I hate this dream!)
+
+========== GRUPO 8560 | UNIDADES 1 | IDs 13285 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 114637
+IDIOMA: ingles_u_occidental
+ORIGINAL: I hate this dream!)
+ESPAÑOL PREVIO: ¡Odio este sueño!
+ESPAÑOL EDICIÓN: ¡Odio este sueño!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (Not again!
+SIGUIENTE: (Just who do you think you are? Go away!)
+
+========== GRUPO 8561 | UNIDADES 2 | IDs 13286,13287 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 114691
+IDIOMA: ingles_u_occidental
+ORIGINAL: (Just who do you think you are? Go away!)
+ESPAÑOL PREVIO: (¿Quién te crees que eres? ¡Lárgate!)
+ESPAÑOL EDICIÓN: (¿Quién te crees que eres? ¡Lárgate!)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I hate this dream!)
+SIGUIENTE: (What?!)
+
+========== GRUPO 8562 | UNIDADES 1 | IDs 13288 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 114789
+IDIOMA: ingles_u_occidental
+ORIGINAL: (What?!)
+ESPAÑOL PREVIO: (¡¿Qué?!)
+ESPAÑOL EDICIÓN: (¡¿Qué?!)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (Just who do you think you are? Go away!)
+SIGUIENTE: (Go Away!)
+
+========== GRUPO 8563 | UNIDADES 1 | IDs 13289 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 114821
+IDIOMA: ingles_u_occidental
+ORIGINAL: (Go Away!)
+ESPAÑOL PREVIO: (¡Irse!)
+ESPAÑOL EDICIÓN: (¡Irse!)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (What?!)
+SIGUIENTE: (I am me! I am not you, I am not like you!)
+
+========== GRUPO 8564 | UNIDADES 2 | IDs 13290,13291 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 114850
+IDIOMA: ingles_u_occidental
+ORIGINAL: (I am me! I am not you, I am not like you!)
+ESPAÑOL PREVIO: (¡Yo soy yo! ¡No soy tú, no soy como tú!)
+ESPAÑOL EDICIÓN: (¡Yo soy yo! ¡No soy tú, no soy como tú!)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (Go Away!)
+SIGUIENTE: Good Morning!
+
+========== GRUPO 8565 | UNIDADES 1 | IDs 13292 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 114958
+IDIOMA: ingles_u_occidental
+ORIGINAL: Good Morning!
+ESPAÑOL PREVIO: ¡Buen día!
+ESPAÑOL EDICIÓN: ¡Buen día!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: (I am me! I am not you, I am not like you!)
+SIGUIENTE: Check out little Miss Sunshine here.
+
+========== GRUPO 8566 | UNIDADES 2 | IDs 13293,13294 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115000
+IDIOMA: ingles_u_occidental
+ORIGINAL: Check out little Miss Sunshine here.
+ESPAÑOL PREVIO: Aquí les presento a la pequeña Miss Sunshine.
+ESPAÑOL EDICIÓN: Aquí les presento a la pequeña Miss Sunshine.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Good Morning!
+SIGUIENTE: You have got a lot of nerve, just waltzing in, this late.
+
+========== GRUPO 8567 | UNIDADES 3 | IDs 13295,13296,13297 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115075
+IDIOMA: ingles_u_occidental
+ORIGINAL: You have got a lot of nerve, just waltzing in, this late.
+ESPAÑOL PREVIO: ¡Qué descaro el tuyo, entrando así, tan tarde!
+ESPAÑOL EDICIÓN: ¡Qué descaro el tuyo, entrando así, tan tarde!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Check out little Miss Sunshine here.
+SIGUIENTE: Never mind, Papillon.
+
+========== GRUPO 8568 | UNIDADES 1 | IDs 13298 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115205
+IDIOMA: ingles_u_occidental
+ORIGINAL: Never mind, Papillon.
+ESPAÑOL PREVIO: No importa, Papillon.
+ESPAÑOL EDICIÓN: No importa, Papillon.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: You have got a lot of nerve, just waltzing in, this late.
+SIGUIENTE: Grrrrr.
+
+========== GRUPO 8569 | UNIDADES 1 | IDs 13299 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115263
+IDIOMA: ingles_u_occidental
+ORIGINAL: Grrrrr.
+ESPAÑOL PREVIO: Grrrrr.
+ESPAÑOL EDICIÓN: Grrrrr.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: IGUAL_ORIGINAL | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Never mind, Papillon.
+SIGUIENTE: Did you sleep well?
+
+========== GRUPO 8570 | UNIDADES 1 | IDs 13300 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115293
+IDIOMA: ingles_u_occidental
+ORIGINAL: Did you sleep well?
+ESPAÑOL PREVIO: ¿Dormiste bien?
+ESPAÑOL EDICIÓN: ¿Dormiste bien?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Grrrrr.
+SIGUIENTE: Like a log.
+
+========== GRUPO 8571 | UNIDADES 1 | IDs 13301 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115347
+IDIOMA: ingles_u_occidental
+ORIGINAL: Like a log.
+ESPAÑOL PREVIO: Como un tronco.
+ESPAÑOL EDICIÓN: Como un tronco.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Did you sleep well?
+SIGUIENTE: I was so nervous I hardly slept at all.
+
+========== GRUPO 8572 | UNIDADES 2 | IDs 13302,13303 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115403
+IDIOMA: ingles_u_occidental
+ORIGINAL: I was so nervous I hardly slept at all.
+ESPAÑOL PREVIO: Estaba tan nerviosa que casi no dormí nada.
+ESPAÑOL EDICIÓN: Estaba tan nerviosa que casi no dormí nada.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Like a log.
+SIGUIENTE: I will say this for you, Prier. Nerves sure are not your problem.
+
+========== GRUPO 8573 | UNIDADES 3 | IDs 13304,13305,13306 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115497
+IDIOMA: ingles_u_occidental
+ORIGINAL: I will say this for you, Prier. Nerves sure are not your problem.
+ESPAÑOL PREVIO: Te lo diré a ti, Prier. Los nervios no son, desde luego, tu problema.
+ESPAÑOL EDICIÓN: Te lo diré a ti, Prier. Los nervios no son, desde luego, tu problema.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I was so nervous I hardly slept at all.
+SIGUIENTE: Hey? What is the deal?
+
+========== GRUPO 8574 | UNIDADES 1 | IDs 13307 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115643
+IDIOMA: ingles_u_occidental
+ORIGINAL: Hey? What is the deal?
+ESPAÑOL PREVIO: ¿Eh? ¿Qué pasa?
+ESPAÑOL EDICIÓN: ¿Eh? ¿Qué pasa?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I will say this for you, Prier. Nerves sure are not your problem.
+SIGUIENTE: What are you doing,
+
+========== GRUPO 8575 | UNIDADES 1 | IDs 13308 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115703
+IDIOMA: ingles_u_occidental
+ORIGINAL: What are you doing,
+ESPAÑOL PREVIO: Qué estás haciendo,
+ESPAÑOL EDICIÓN: Qué estás haciendo,
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Hey? What is the deal?
+SIGUIENTE: (That is funny...
+
+========== GRUPO 8576 | UNIDADES 1 | IDs 13309 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115811
+IDIOMA: ingles_u_occidental
+ORIGINAL: (That is funny...
+ESPAÑOL PREVIO: (Eso es gracioso...)
+ESPAÑOL EDICIÓN: (Eso es gracioso…)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: What are you doing,
+SIGUIENTE: I thought for sure Prier would slug me for that one...)
+
+========== GRUPO 8577 | UNIDADES 3 | IDs 13310,13311,13312 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115847
+IDIOMA: ingles_u_occidental
+ORIGINAL: I thought for sure Prier would slug me for that one...)
+ESPAÑOL PREVIO: Estaba seguro de que Prier me iba a dar un puñetazo por eso...)
+ESPAÑOL EDICIÓN: Estaba seguro de que Prier me iba a dar un puñetazo por eso…)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (That is funny...
+SIGUIENTE: Is there something wrong, Mr. Croix?
+
+========== GRUPO 8578 | UNIDADES 2 | IDs 13313,13314 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 115993
+IDIOMA: ingles_u_occidental
+ORIGINAL: Is there something wrong, Mr. Croix?
+ESPAÑOL PREVIO: ¿Sucede algo, señor Croix?
+ESPAÑOL EDICIÓN: ¿Sucede algo, señor Croix?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I thought for sure Prier would slug me for that one...)
+SIGUIENTE: out of sorts. Seasick?
+
+========== GRUPO 8579 | UNIDADES 1 | IDs 13315 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116104
+IDIOMA: ingles_u_occidental
+ORIGINAL: out of sorts. Seasick?
+ESPAÑOL PREVIO: Indispuesto. ¿Mareado?
+ESPAÑOL EDICIÓN: Indispuesto. ¿Mareado?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Is there something wrong, Mr. Croix?
+SIGUIENTE: It is nothing. I just had a bad dream last night.
+
+========== GRUPO 8580 | UNIDADES 2 | IDs 13316,13317 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116164
+IDIOMA: ingles_u_occidental
+ORIGINAL: It is nothing. I just had a bad dream last night.
+ESPAÑOL PREVIO: No es nada. Simplemente tuve una pesadilla anoche.
+ESPAÑOL EDICIÓN: No es nada. Simplemente tuve una pesadilla anoche.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: out of sorts. Seasick?
+SIGUIENTE: Nightmare?
+
+========== GRUPO 8581 | UNIDADES 1 | IDs 13318 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116278
+IDIOMA: ingles_u_occidental
+ORIGINAL: Nightmare?
+ESPAÑOL PREVIO: ¿Pesadilla?
+ESPAÑOL EDICIÓN: ¿Pesadilla?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: It is nothing. I just had a bad dream last night.
+SIGUIENTE: It happens all the time.
+
+========== GRUPO 8582 | UNIDADES 1 | IDs 13319 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116314
+IDIOMA: ingles_u_occidental
+ORIGINAL: It happens all the time.
+ESPAÑOL PREVIO: Sucede todo el tiempo.
+ESPAÑOL EDICIÓN: Sucede todo el tiempo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Nightmare?
+SIGUIENTE: Do not worry about it.
+
+========== GRUPO 8583 | UNIDADES 1 | IDs 13320 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116364
+IDIOMA: ingles_u_occidental
+ORIGINAL: Do not worry about it.
+ESPAÑOL PREVIO: No se preocupe.
+ESPAÑOL EDICIÓN: No se preocupe.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: It happens all the time.
+SIGUIENTE: I do not believe it.
+
+========== GRUPO 8584 | UNIDADES 1 | IDs 13321 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116460
+IDIOMA: ingles_u_occidental
+ORIGINAL: I do not believe it.
+ESPAÑOL PREVIO: No lo creo.
+ESPAÑOL EDICIÓN: No lo creo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Do not worry about it.
+SIGUIENTE: You? Concerned?
+
+========== GRUPO 8585 | UNIDADES 1 | IDs 13322 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116502
+IDIOMA: ingles_u_occidental
+ORIGINAL: You? Concerned?
+ESPAÑOL PREVIO: ¿Usted? ¿Preocupado?
+ESPAÑOL EDICIÓN: ¿Usted? ¿Preocupado?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I do not believe it.
+SIGUIENTE: About me? Amazing.
+
+========== GRUPO 8586 | UNIDADES 1 | IDs 13323 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116534
+IDIOMA: ingles_u_occidental
+ORIGINAL: About me? Amazing.
+ESPAÑOL PREVIO: ¿Sobre mí? Increíble.
+ESPAÑOL EDICIÓN: ¿Sobre mí? Increíble.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: You? Concerned?
+SIGUIENTE: I thought under that tough exterior beat a heart of ice, but you are almost a lady.
+
+========== GRUPO 8587 | UNIDADES 4 | IDs 13324,13325,13326,13327 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116586
+IDIOMA: ingles_u_occidental
+ORIGINAL: I thought under that tough exterior beat a heart of ice, but you are almost a lady.
+ESPAÑOL PREVIO: Creía que bajo esa dura apariencia latía un corazón de hielo, pero eres casi una dama.
+ESPAÑOL EDICIÓN: Creía que bajo esa dura apariencia latía un corazón de hielo, pero eres casi una dama.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: About me? Amazing.
+SIGUIENTE: You know, Croix, you can be a real jerk.
+
+========== GRUPO 8588 | UNIDADES 2 | IDs 13328,13329 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116789
+IDIOMA: ingles_u_occidental
+ORIGINAL: You know, Croix, you can be a real jerk.
+ESPAÑOL PREVIO: Sabes, Croix, puedes ser un verdadero imbécil.
+ESPAÑOL EDICIÓN: Sabes, Croix, puedes ser un verdadero imbécil.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I thought under that tough exterior beat a heart of ice, but you are almost a lady.
+SIGUIENTE: (Prier is so worried about Croix she does not even notice me.)
+
+========== GRUPO 8589 | UNIDADES 3 | IDs 13330,13331,13332 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 116885
+IDIOMA: ingles_u_occidental
+ORIGINAL: (Prier is so worried about Croix she does not even notice me.)
+ESPAÑOL PREVIO: (Prier está tan preocupada por Croix que ni siquiera se da cuenta de mi presencia).
+ESPAÑOL EDICIÓN: (Prier está tan preocupada por Croix que ni siquiera se da cuenta de mi presencia).
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: You know, Croix, you can be a real jerk.
+SIGUIENTE: (Uh-oh...)
+
+========== GRUPO 8590 | UNIDADES 1 | IDs 13333 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117025
+IDIOMA: ingles_u_occidental
+ORIGINAL: (Uh-oh...)
+ESPAÑOL PREVIO: (Uh-oh...)
+ESPAÑOL EDICIÓN: (Uh-oh…)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (Prier is so worried about Croix she does not even notice me.)
+SIGUIENTE: (Looks like Culottes grouchy because Prier is not paying enough attention to him...)
+
+========== GRUPO 8591 | UNIDADES 4 | IDs 13334,13335,13336,13337 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117054
+IDIOMA: ingles_u_occidental
+ORIGINAL: (Looks like Culottes grouchy because Prier is not paying enough attention to him...)
+ESPAÑOL PREVIO: (Parece que Culottes está de mal humor porque Prier no le presta suficiente atención...)
+ESPAÑOL EDICIÓN: (Parece que Culottes está de mal humor porque Prier no le presta suficiente atención…)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (Uh-oh...)
+SIGUIENTE: (Poor baby...)
+
+========== GRUPO 8592 | UNIDADES 1 | IDs 13338 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117232
+IDIOMA: ingles_u_occidental
+ORIGINAL: (Poor baby...)
+ESPAÑOL PREVIO: (Pobre bebé...)
+ESPAÑOL EDICIÓN: (Pobre bebé…)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (Looks like Culottes grouchy because Prier is not paying enough attention to him...)
+SIGUIENTE: Woah!
+
+========== GRUPO 8593 | UNIDADES 1 | IDs 13339 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117276
+IDIOMA: ingles_u_occidental
+ORIGINAL: Woah!
+ESPAÑOL PREVIO: ¡Guau!
+ESPAÑOL EDICIÓN: ¡Guau!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: (Poor baby...)
+SIGUIENTE: We are really far up!
+
+========== GRUPO 8594 | UNIDADES 1 | IDs 13340 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117288
+IDIOMA: ingles_u_occidental
+ORIGINAL: We are really far up!
+ESPAÑOL PREVIO: ¡Estamos muy arriba!
+ESPAÑOL EDICIÓN: ¡Estamos muy arriba!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Woah!
+SIGUIENTE: It is still hard to believe that this thing is really flying.
+
+========== GRUPO 8595 | UNIDADES 3 | IDs 13341,13342,13343 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117339
+IDIOMA: ingles_u_occidental
+ORIGINAL: It is still hard to believe that this thing is really flying.
+ESPAÑOL PREVIO: Todavía cuesta creer que esto esté volando de verdad.
+ESPAÑOL EDICIÓN: Todavía cuesta creer que esto esté volando de verdad.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: We are really far up!
+SIGUIENTE: Yes. I shudder to think what would happen if we were to crash...
+
+========== GRUPO 8596 | UNIDADES 3 | IDs 13344,13345,13346 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117477
+IDIOMA: ingles_u_occidental
+ORIGINAL: Yes. I shudder to think what would happen if we were to crash...
+ESPAÑOL PREVIO: Sí. Me estremezco al pensar qué pasaría si nos estrelláramos...
+ESPAÑOL EDICIÓN: Sí. Me estremezco al pensar qué pasaría si nos estrelláramos…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: It is still hard to believe that this thing is really flying.
+SIGUIENTE: You mean you are scared too, Sister Of course I am.
+
+========== GRUPO 8597 | UNIDADES 3 | IDs 13347,13348,13349 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117621
+IDIOMA: ingles_u_occidental
+ORIGINAL: You mean you are scared too, Sister Of course I am.
+ESPAÑOL PREVIO: ¿Quieres decir que tú también tienes miedo, hermana? Por supuesto que sí.
+ESPAÑOL EDICIÓN: ¿Quieres decir que tú también tienes miedo, hermana? Por supuesto que sí.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Yes. I shudder to think what would happen if we were to crash...
+SIGUIENTE: Everyone is afraid of dying.
+
+========== GRUPO 8598 | UNIDADES 2 | IDs 13350,13351 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117759
+IDIOMA: ingles_u_occidental
+ORIGINAL: Everyone is afraid of dying.
+ESPAÑOL PREVIO: Todo el mundo tiene miedo a morir.
+ESPAÑOL EDICIÓN: Todo el mundo tiene miedo a morir.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: You mean you are scared too, Sister Of course I am.
+SIGUIENTE: Hahahaha!
+
+========== GRUPO 8599 | UNIDADES 1 | IDs 13352 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117831
+IDIOMA: ingles_u_occidental
+ORIGINAL: Hahahaha!
+ESPAÑOL PREVIO: ¡Jajajaja!
+ESPAÑOL EDICIÓN: ¡Jajajaja!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: Everyone is afraid of dying.
+SIGUIENTE: Fear not my friends!
+
+========== GRUPO 8600 | UNIDADES 1 | IDs 13353 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117851
+IDIOMA: ingles_u_occidental
+ORIGINAL: Fear not my friends!
+ESPAÑOL PREVIO: ¡No teman, amigos míos!
+ESPAÑOL EDICIÓN: ¡No teman, amigos míos!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Hahahaha!
+SIGUIENTE: The Escargot will never crash!!!
+
+========== GRUPO 8601 | UNIDADES 2 | IDs 13354,13355 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117904
+IDIOMA: ingles_u_occidental
+ORIGINAL: The Escargot will never crash!!!
+ESPAÑOL PREVIO: ¡El Escargot nunca se estrellará!
+ESPAÑOL EDICIÓN: ¡El Escargot nunca se estrellará!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Fear not my friends!
+SIGUIENTE: Never?
+
+========== GRUPO 8602 | UNIDADES 1 | IDs 13356 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 117984
+IDIOMA: ingles_u_occidental
+ORIGINAL: Never?
+ESPAÑOL PREVIO: ¿Nunca?
+ESPAÑOL EDICIÓN: ¿Nunca?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: The Escargot will never crash!!!
+SIGUIENTE: Well, so far so good...
+
+========== GRUPO 8603 | UNIDADES 2 | IDs 13357,13358 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118012
+IDIOMA: ingles_u_occidental
+ORIGINAL: Well, so far so good...
+ESPAÑOL PREVIO: Bueno, hasta ahora todo va bien...
+ESPAÑOL EDICIÓN: Bueno, hasta ahora todo va bien…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Never?
+SIGUIENTE: Say we do crash.
+
+========== GRUPO 8604 | UNIDADES 1 | IDs 13359 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118074
+IDIOMA: ingles_u_occidental
+ORIGINAL: Say we do crash.
+ESPAÑOL PREVIO: Digamos que chocamos.
+ESPAÑOL EDICIÓN: Digamos que chocamos.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Well, so far so good...
+SIGUIENTE: You would learn from the experience and be all the better for it.
+
+========== GRUPO 8605 | UNIDADES 3 | IDs 13360,13361,13362 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118108
+IDIOMA: ingles_u_occidental
+ORIGINAL: You would learn from the experience and be all the better for it.
+ESPAÑOL PREVIO: Aprenderías de la experiencia y saldrías beneficiado.
+ESPAÑOL EDICIÓN: Aprenderías de la experiencia y saldrías beneficiado.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Say we do crash.
+SIGUIENTE: How about this, Do not crash, do not learn, be happy.
+
+========== GRUPO 8606 | UNIDADES 3 | IDs 13363,13364,13365 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118255
+IDIOMA: ingles_u_occidental
+ORIGINAL: How about this, Do not crash, do not learn, be happy.
+ESPAÑOL PREVIO: ¿Qué tal esto? No te estrelles, no aprendas, sé feliz.
+ESPAÑOL EDICIÓN: ¿Qué tal esto? No te estrelles, no aprendas, sé feliz.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: You would learn from the experience and be all the better for it.
+SIGUIENTE: If we crash, I do not think we will have to worry about it at all...
+
+========== GRUPO 8607 | UNIDADES 3 | IDs 13366,13367,13368 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118377
+IDIOMA: ingles_u_occidental
+ORIGINAL: If we crash, I do not think we will have to worry about it at all...
+ESPAÑOL PREVIO: Si chocamos, no creo que tengamos que preocuparnos en absoluto...
+ESPAÑOL EDICIÓN: Si chocamos, no creo que tengamos que preocuparnos en absoluto…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: How about this, Do not crash, do not learn, be happy.
+SIGUIENTE: The Goddess is protecting us.
+
+========== GRUPO 8608 | UNIDADES 2 | IDs 13369,13370 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118554
+IDIOMA: ingles_u_occidental
+ORIGINAL: The Goddess is protecting us.
+ESPAÑOL PREVIO: La Diosa nos está protegiendo.
+ESPAÑOL EDICIÓN: La Diosa nos está protegiendo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: If we crash, I do not think we will have to worry about it at all...
+SIGUIENTE: Boss! There is a strange cloud ahead!
+
+========== GRUPO 8609 | UNIDADES 2 | IDs 13371,13372 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118658
+IDIOMA: ingles_u_occidental
+ORIGINAL: Boss! There is a strange cloud ahead!
+ESPAÑOL PREVIO: ¡Jefe! ¡Hay una nube extraña más adelante!
+ESPAÑOL EDICIÓN: ¡Jefe! ¡Hay una nube extraña más adelante!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: The Goddess is protecting us.
+SIGUIENTE: Bouncing barnacles!
+
+========== GRUPO 8610 | UNIDADES 1 | IDs 13373 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118846
+IDIOMA: ingles_u_occidental
+ORIGINAL: Bouncing barnacles!
+ESPAÑOL PREVIO: ¡Percebes saltarines!
+ESPAÑOL EDICIÓN: ¡Percebes saltarines!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Boss! There is a strange cloud ahead!
+SIGUIENTE: That is a Death Cloud!!
+
+========== GRUPO 8611 | UNIDADES 1 | IDs 13374 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118886
+IDIOMA: ingles_u_occidental
+ORIGINAL: That is a Death Cloud!!
+ESPAÑOL PREVIO: ¡¡Esa es una nube de muerte!!
+ESPAÑOL EDICIÓN: ¡¡Esa es una nube de muerte!!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Bouncing barnacles!
+SIGUIENTE: A Death Cloud?
+
+========== GRUPO 8612 | UNIDADES 1 | IDs 13375 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118948
+IDIOMA: ingles_u_occidental
+ORIGINAL: A Death Cloud?
+ESPAÑOL PREVIO: ¿Una nube de muerte?
+ESPAÑOL EDICIÓN: ¿Una nube de muerte?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: That is a Death Cloud!!
+SIGUIENTE: An acidic cloud that dissolves everything it touches.
+
+========== GRUPO 8613 | UNIDADES 3 | IDs 13376,13377,13378 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 118992
+IDIOMA: ingles_u_occidental
+ORIGINAL: An acidic cloud that dissolves everything it touches.
+ESPAÑOL PREVIO: Una nube ácida que disuelve todo lo que toca.
+ESPAÑOL EDICIÓN: Una nube ácida que disuelve todo lo que toca.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: A Death Cloud?
+SIGUIENTE: The ship would disintegrate if we went in there! Meow.
+
+========== GRUPO 8614 | UNIDADES 3 | IDs 13379,13380,13381 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119107
+IDIOMA: ingles_u_occidental
+ORIGINAL: The ship would disintegrate if we went in there! Meow.
+ESPAÑOL PREVIO: ¡El barco se desintegraría si entráramos ahí! Miau.
+ESPAÑOL EDICIÓN: ¡El barco se desintegraría si entráramos ahí! Miau.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: An acidic cloud that dissolves everything it touches.
+SIGUIENTE: Oh great!
+
+========== GRUPO 8615 | UNIDADES 1 | IDs 13382 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119231
+IDIOMA: ingles_u_occidental
+ORIGINAL: Oh great!
+ESPAÑOL PREVIO: ¡Oh, genial!
+ESPAÑOL EDICIÓN: ¡Oh, genial!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: The ship would disintegrate if we went in there! Meow.
+SIGUIENTE: Now what do we do?
+
+========== GRUPO 8616 | UNIDADES 1 | IDs 13383 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119251
+IDIOMA: ingles_u_occidental
+ORIGINAL: Now what do we do?
+ESPAÑOL PREVIO: ¿Y ahora qué hacemos?
+ESPAÑOL EDICIÓN: ¿Y ahora qué hacemos?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Oh great!
+SIGUIENTE: Blast...
+
+========== GRUPO 8617 | UNIDADES 1 | IDs 13384 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119303
+IDIOMA: ingles_u_occidental
+ORIGINAL: Blast...
+ESPAÑOL PREVIO: Explosión...
+ESPAÑOL EDICIÓN: Explosión…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Now what do we do?
+SIGUIENTE: This certainly is a tricky situation.
+
+========== GRUPO 8618 | UNIDADES 2 | IDs 13385,13386 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119321
+IDIOMA: ingles_u_occidental
+ORIGINAL: This certainly is a tricky situation.
+ESPAÑOL PREVIO: Esta es, sin duda, una situación complicada.
+ESPAÑOL EDICIÓN: Esta es, sin duda, una situación complicada.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Blast...
+SIGUIENTE: May I suggest something?
+
+========== GRUPO 8619 | UNIDADES 1 | IDs 13387 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119423
+IDIOMA: ingles_u_occidental
+ORIGINAL: May I suggest something?
+ESPAÑOL PREVIO: ¿Puedo sugerir algo?
+ESPAÑOL EDICIÓN: ¿Puedo sugerir algo?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: This certainly is a tricky situation.
+SIGUIENTE: What is it, Princess?
+
+========== GRUPO 8620 | UNIDADES 1 | IDs 13388 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119487
+IDIOMA: ingles_u_occidental
+ORIGINAL: What is it, Princess?
+ESPAÑOL PREVIO: ¿Qué ocurre, princesa?
+ESPAÑOL EDICIÓN: ¿Qué ocurre, princesa?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: May I suggest something?
+SIGUIENTE: Before I left, my mother made me memorize something from a travel book.
+
+========== GRUPO 8621 | UNIDADES 4 | IDs 13389,13390,13391,13392 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119545
+IDIOMA: ingles_u_occidental
+ORIGINAL: Before I left, my mother made me memorize something from a travel book.
+ESPAÑOL PREVIO: Antes de irme, mi madre me hizo memorizar algo de una guía de viajes.
+ESPAÑOL EDICIÓN: Antes de irme, mi madre me hizo memorizar algo de una guía de viajes.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: What is it, Princess?
+SIGUIENTE: I think it goes like In the Western Seas the invisible island lies, hidden and dangerous.
+
+========== GRUPO 8622 | UNIDADES 4 | IDs 13393,13394,13395,13396 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119697
+IDIOMA: ingles_u_occidental
+ORIGINAL: I think it goes like In the Western Seas the invisible island lies, hidden and dangerous.
+ESPAÑOL PREVIO: Creo que dice algo así como: En los mares occidentales yace la isla invisible, oculta y peligrosa.
+ESPAÑOL EDICIÓN: Creo que dice algo así como: En los mares occidentales yace la isla invisible, oculta y peligrosa.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Before I left, my mother made me memorize something from a travel book.
+SIGUIENTE: Above the island, death.
+
+========== GRUPO 8623 | UNIDADES 1 | IDs 13397 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119907
+IDIOMA: ingles_u_occidental
+ORIGINAL: Above the island, death.
+ESPAÑOL PREVIO: Sobre la isla, la muerte.
+ESPAÑOL EDICIÓN: Sobre la isla, la muerte.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I think it goes like In the Western Seas the invisible island lies, hidden and dangerous.
+SIGUIENTE: On the island, death.
+
+========== GRUPO 8624 | UNIDADES 1 | IDs 13398 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 119957
+IDIOMA: ingles_u_occidental
+ORIGINAL: On the island, death.
+ESPAÑOL PREVIO: En la isla, la muerte.
+ESPAÑOL EDICIÓN: En la isla, la muerte.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Above the island, death.
+SIGUIENTE: Hope is under the island.
+
+========== GRUPO 8625 | UNIDADES 2 | IDs 13399,13400 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 120002
+IDIOMA: ingles_u_occidental
+ORIGINAL: Hope is under the island.
+ESPAÑOL PREVIO: La esperanza está bajo la isla.
+ESPAÑOL EDICIÓN: La esperanza está bajo la isla.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: On the island, death.
+SIGUIENTE: Go through the cave and see the new lands beyond.
+
+========== GRUPO 8626 | UNIDADES 3 | IDs 13401,13402,13403 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 120061
+IDIOMA: ingles_u_occidental
+ORIGINAL: Go through the cave and see the new lands beyond.
+ESPAÑOL PREVIO: Atraviesa la cueva y contempla las nuevas tierras que hay más allá.
+ESPAÑOL EDICIÓN: Atraviesa la cueva y contempla las nuevas tierras que hay más allá.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Hope is under the island.
+SIGUIENTE: Go through the cave with care, for the monster of the cave can also be death.
+
+========== GRUPO 8627 | UNIDADES 4 | IDs 13404,13405,13406,13407 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 120168
+IDIOMA: ingles_u_occidental
+ORIGINAL: Go through the cave with care, for the monster of the cave can also be death.
+ESPAÑOL PREVIO: Recorre la cueva con cuidado, pues el monstruo que la habita también puede ser la muerte.
+ESPAÑOL EDICIÓN: Recorre la cueva con cuidado, pues el monstruo que la habita también puede ser la muerte.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Go through the cave and see the new lands beyond.
+SIGUIENTE: I think somehow my mother knew what we were heading into.
+
+========== GRUPO 8628 | UNIDADES 3 | IDs 13408,13409,13410 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 120332
+IDIOMA: ingles_u_occidental
+ORIGINAL: I think somehow my mother knew what we were heading into.
+ESPAÑOL PREVIO: Creo que de alguna manera mi madre sabía a lo que nos enfrentábamos.
+ESPAÑOL EDICIÓN: Creo que de alguna manera mi madre sabía a lo que nos enfrentábamos.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Go through the cave with care, for the monster of the cave can also be death.
+SIGUIENTE: A mysterious new land.
+
+========== GRUPO 8629 | UNIDADES 1 | IDs 13411 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 120462
+IDIOMA: ingles_u_occidental
+ORIGINAL: A mysterious new land.
+ESPAÑOL PREVIO: Una tierra nueva y misteriosa.
+ESPAÑOL EDICIÓN: Una tierra nueva y misteriosa.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I think somehow my mother knew what we were heading into.
+SIGUIENTE: Could that be Fatima?
+
+========== GRUPO 8630 | UNIDADES 1 | IDs 13412 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 120508
+IDIOMA: ingles_u_occidental
+ORIGINAL: Could that be Fatima?
+ESPAÑOL PREVIO: ¿Podría ser Fátima?
+ESPAÑOL EDICIÓN: ¿Podría ser Fátima?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: A mysterious new land.
+SIGUIENTE: I do not know.
+
+========== GRUPO 8631 | UNIDADES 1 | IDs 13413 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 120566
+IDIOMA: ingles_u_occidental
+ORIGINAL: I do not know.
+ESPAÑOL PREVIO: No lo sé.
+ESPAÑOL EDICIÓN: No lo sé.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Could that be Fatima?
+SIGUIENTE: It just part of a book written by an adventurer 100 years ago.
+
+========== GRUPO 8632 | UNIDADES 3 | IDs 13414,13415,13416 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 120607
+IDIOMA: ingles_u_occidental
+ORIGINAL: It just part of a book written by an adventurer 100 years ago.
+ESPAÑOL PREVIO: Es solo una parte de un libro escrito por un aventurero hace 100 años.
+ESPAÑOL EDICIÓN: Es solo una parte de un libro escrito por un aventurero hace 100 años.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I do not know.
+SIGUIENTE: I though it was just something my mother liked, but...
+
+========== GRUPO 8633 | UNIDADES 3 | IDs 13417,13418,13419 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 120740
+IDIOMA: ingles_u_occidental
+ORIGINAL: I though it was just something my mother liked, but...
+ESPAÑOL PREVIO: Pensé que era algo que le gustaba a mi madre, pero...
+ESPAÑOL EDICIÓN: Pensé que era algo que le gustaba a mi madre, pero…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: It just part of a book written by an adventurer 100 years ago.
+SIGUIENTE: Do you think that island down there could be the one he was talking Could be! Lets go check out that island!
+
+========== GRUPO 8634 | UNIDADES 5 | IDs 13420,13421,13422,13423,13424 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 120864
+IDIOMA: ingles_u_occidental
+ORIGINAL: Do you think that island down there could be the one he was talking Could be! Lets go check out that island!
+ESPAÑOL PREVIO: ¿Crees que esa isla de ahí abajo podría ser de la que hablaba? ¡Podría ser! ¡Vamos a echar un vistazo a esa isla!
+ESPAÑOL EDICIÓN: ¿Crees que esa isla de ahí abajo podría ser de la que hablaba? ¡Podría ser! ¡Vamos a echar un vistazo a esa isla!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_5 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I though it was just something my mother liked, but...
+SIGUIENTE: Hair-balls!!
+
+========== GRUPO 8635 | UNIDADES 1 | IDs 13425 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121125
+IDIOMA: ingles_u_occidental
+ORIGINAL: Hair-balls!!
+ESPAÑOL PREVIO: ¡Bolas de pelo!
+ESPAÑOL EDICIÓN: ¡Bolas de pelo!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: Do you think that island down there could be the one he was talking Could be! Lets go check out that island!
+SIGUIENTE: We are changing course!
+
+========== GRUPO 8636 | UNIDADES 1 | IDs 13426 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121151
+IDIOMA: ingles_u_occidental
+ORIGINAL: We are changing course!
+ESPAÑOL PREVIO: ¡Estamos cambiando de rumbo!
+ESPAÑOL EDICIÓN: ¡Estamos cambiando de rumbo!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Hair-balls!!
+SIGUIENTE: Land on that island!
+
+========== GRUPO 8637 | UNIDADES 1 | IDs 13427 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121199
+IDIOMA: ingles_u_occidental
+ORIGINAL: Land on that island!
+ESPAÑOL PREVIO: ¡Aterriza en esa isla!
+ESPAÑOL EDICIÓN: ¡Aterriza en esa isla!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: We are changing course!
+SIGUIENTE: Aye-aye sir! Meow!
+
+========== GRUPO 8638 | UNIDADES 1 | IDs 13428 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121255
+IDIOMA: ingles_u_occidental
+ORIGINAL: Aye-aye sir! Meow!
+ESPAÑOL PREVIO: ¡Sí, señor! ¡Miau!
+ESPAÑOL EDICIÓN: ¡Sí, señor! ¡Miau!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Land on that island!
+SIGUIENTE: What is happening?!
+
+========== GRUPO 8639 | UNIDADES 1 | IDs 13429 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121307
+IDIOMA: ingles_u_occidental
+ORIGINAL: What is happening?!
+ESPAÑOL PREVIO: ¡¿Lo que está sucediendo?!
+ESPAÑOL EDICIÓN: ¡¿Lo que está sucediendo?!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Aye-aye sir! Meow!
+SIGUIENTE: I do not know!
+
+========== GRUPO 8640 | UNIDADES 1 | IDs 13430 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121361
+IDIOMA: ingles_u_occidental
+ORIGINAL: I do not know!
+ESPAÑOL PREVIO: ¡No lo sé!
+ESPAÑOL EDICIÓN: ¡No lo sé!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: What is happening?!
+SIGUIENTE: A demon?!
+
+========== GRUPO 8641 | UNIDADES 1 | IDs 13431 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121405
+IDIOMA: ingles_u_occidental
+ORIGINAL: A demon?!
+ESPAÑOL PREVIO: ¿¡Un demonio?!
+ESPAÑOL EDICIÓN: ¿¡Un demonio?!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: I do not know!
+SIGUIENTE: Prier!!
+
+========== GRUPO 8642 | UNIDADES 1 | IDs 13432 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121439
+IDIOMA: ingles_u_occidental
+ORIGINAL: Prier!!
+ESPAÑOL PREVIO: ¡¡Fisgón!!
+ESPAÑOL EDICIÓN: ¡¡Fisgón!!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: A demon?!
+SIGUIENTE: Aaaahh!!
+
+========== GRUPO 8643 | UNIDADES 1 | IDs 13433 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121497
+IDIOMA: ingles_u_occidental
+ORIGINAL: Aaaahh!!
+ESPAÑOL PREVIO: ¡Aaaahh!!
+ESPAÑOL EDICIÓN: ¡Aaaahh!!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: Prier!!
+SIGUIENTE: What are you doing to my precious ship!!
+
+========== GRUPO 8644 | UNIDADES 2 | IDs 13434,13435 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121515
+IDIOMA: ingles_u_occidental
+ORIGINAL: What are you doing to my precious ship!!
+ESPAÑOL PREVIO: ¡¿Qué le estás haciendo a mi preciado barco?!
+ESPAÑOL EDICIÓN: ¡¿Qué le estás haciendo a mi preciado barco?!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Aaaahh!!
+SIGUIENTE: Is brute force all you know?
+
+========== GRUPO 8645 | UNIDADES 2 | IDs 13436,13437 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121611
+IDIOMA: ingles_u_occidental
+ORIGINAL: Is brute force all you know?
+ESPAÑOL PREVIO: ¿La fuerza bruta es todo lo que conoces?
+ESPAÑOL EDICIÓN: ¿La fuerza bruta es todo lo que conoces?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: What are you doing to my precious ship!!
+SIGUIENTE: Stupid gorilla!!
+
+========== GRUPO 8646 | UNIDADES 1 | IDs 13438 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121676
+IDIOMA: ingles_u_occidental
+ORIGINAL: Stupid gorilla!!
+ESPAÑOL PREVIO: ¡¡Gorila estúpido!!
+ESPAÑOL EDICIÓN: ¡¡Gorila estúpido!!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Is brute force all you know?
+SIGUIENTE: Whaaaaaat?!?!
+
+========== GRUPO 8647 | UNIDADES 1 | IDs 13439 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121724
+IDIOMA: ingles_u_occidental
+ORIGINAL: Whaaaaaat?!?!
+ESPAÑOL PREVIO: ¡¿¡Quéeeeeee?!?!
+ESPAÑOL EDICIÓN: ¡¿¡Quéeeeeee?!?!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Stupid gorilla!!
+SIGUIENTE: We got a problem!
+
+========== GRUPO 8648 | UNIDADES 1 | IDs 13440 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121766
+IDIOMA: ingles_u_occidental
+ORIGINAL: We got a problem!
+ESPAÑOL PREVIO: ¡Tenemos un problema!
+ESPAÑOL EDICIÓN: ¡Tenemos un problema!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Whaaaaaat?!?!
+SIGUIENTE: Engines are malfunctioning! Meow!
+
+========== GRUPO 8649 | UNIDADES 2 | IDs 13441,13442 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121802
+IDIOMA: ingles_u_occidental
+ORIGINAL: Engines are malfunctioning! Meow!
+ESPAÑOL PREVIO: ¡Los motores están fallando! ¡Miau!
+ESPAÑOL EDICIÓN: ¡Los motores están fallando! ¡Miau!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: We got a problem!
+SIGUIENTE: That is not good...
+
+========== GRUPO 8650 | UNIDADES 1 | IDs 13443 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121898
+IDIOMA: ingles_u_occidental
+ORIGINAL: That is not good...
+ESPAÑOL PREVIO: Eso no es bueno...
+ESPAÑOL EDICIÓN: Eso no es bueno…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Engines are malfunctioning! Meow!
+SIGUIENTE: What does that mean?!
+
+========== GRUPO 8651 | UNIDADES 1 | IDs 13444 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121952
+IDIOMA: ingles_u_occidental
+ORIGINAL: What does that mean?!
+ESPAÑOL PREVIO: ¡¿Qué significa eso?!
+ESPAÑOL EDICIÓN: ¡¿Qué significa eso?!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: That is not good...
+SIGUIENTE: What is going to happen?!
+
+========== GRUPO 8652 | UNIDADES 2 | IDs 13445,13446 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 121996
+IDIOMA: ingles_u_occidental
+ORIGINAL: What is going to happen?!
+ESPAÑOL PREVIO: ¿Qué va a pasar?
+ESPAÑOL EDICIÓN: ¿Qué va a pasar?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: What does that mean?!
+SIGUIENTE: What do you think it means? It means we are all going to die, that is what it means.
+
+========== GRUPO 8653 | UNIDADES 4 | IDs 13447,13448,13449,13450 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 122062
+IDIOMA: ingles_u_occidental
+ORIGINAL: What do you think it means? It means we are all going to die, that is what it means.
+ESPAÑOL PREVIO: ¿Qué crees que significa? Significa que todos vamos a morir, eso es lo que significa.
+ESPAÑOL EDICIÓN: ¿Qué crees que significa? Significa que todos vamos a morir, eso es lo que significa.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: What is going to happen?!
+SIGUIENTE: Crash?!?!?!?!
+
+========== GRUPO 8654 | UNIDADES 1 | IDs 13451 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 122247
+IDIOMA: ingles_u_occidental
+ORIGINAL: Crash?!?!?!?!
+ESPAÑOL PREVIO: ¡¿¡¿¡¿¡¿Chocar?!?!?!?!
+ESPAÑOL EDICIÓN: ¡¿¡¿¡¿¡¿Chocar?!?!?!?!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: What do you think it means? It means we are all going to die, that is what it means.
+SIGUIENTE: We have gotta do something! W-what are we gonna do?!
+
+========== GRUPO 8655 | UNIDADES 3 | IDs 13452,13453,13454 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 122289
+IDIOMA: ingles_u_occidental
+ORIGINAL: We have gotta do something! W-what are we gonna do?!
+ESPAÑOL PREVIO: ¡Tenemos que hacer algo! ¿Q-qué vamos a hacer?
+ESPAÑOL EDICIÓN: ¡Tenemos que hacer algo! ¿Q-qué vamos a hacer?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Crash?!?!?!?!
+SIGUIENTE: Oh Goddess! I will not steal from the offering plate anymore!!
+
+========== GRUPO 8656 | UNIDADES 3 | IDs 13455,13456,13457 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 122409
+IDIOMA: ingles_u_occidental
+ORIGINAL: Oh Goddess! I will not steal from the offering plate anymore!!
+ESPAÑOL PREVIO: ¡Oh, Diosa! ¡No volveré a robar del plato de las ofrendas!
+ESPAÑOL EDICIÓN: ¡Oh, Diosa! ¡No volveré a robar del plato de las ofrendas!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: We have gotta do something! W-what are we gonna do?!
+SIGUIENTE: Just help us!!!
+
+========== GRUPO 8657 | UNIDADES 1 | IDs 13458 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 122546
+IDIOMA: ingles_u_occidental
+ORIGINAL: Just help us!!!
+ESPAÑOL PREVIO: ¡¡¡Solo ayúdennos!!!
+ESPAÑOL EDICIÓN: ¡¡¡Solo ayúdennos!!!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Oh Goddess! I will not steal from the offering plate anymore!!
+SIGUIENTE: You fool! That is enough of that!!
+
+========== GRUPO 8658 | UNIDADES 2 | IDs 13459,13460 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 122592
+IDIOMA: ingles_u_occidental
+ORIGINAL: You fool! That is enough of that!!
+ESPAÑOL PREVIO: ¡Tonto! ¡Ya basta!
+ESPAÑOL EDICIÓN: ¡Tonto! ¡Ya basta!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Just help us!!!
+SIGUIENTE: The Goddess helps those who help themselves!!
+
+========== GRUPO 8659 | UNIDADES 3 | IDs 13461,13462,13463 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 122673
+IDIOMA: ingles_u_occidental
+ORIGINAL: The Goddess helps those who help themselves!!
+ESPAÑOL PREVIO: ¡La Diosa ayuda a quienes se ayudan a sí mismos!
+ESPAÑOL EDICIÓN: ¡La Diosa ayuda a quienes se ayudan a sí mismos!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: You fool! That is enough of that!!
+SIGUIENTE: You have got to believe in yourself and fight!!
+
+========== GRUPO 8660 | UNIDADES 2 | IDs 13464,13465 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 122776
+IDIOMA: ingles_u_occidental
+ORIGINAL: You have got to believe in yourself and fight!!
+ESPAÑOL PREVIO: ¡Tienes que creer en ti mismo y luchar!
+ESPAÑOL EDICIÓN: ¡Tienes que creer en ti mismo y luchar!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: The Goddess helps those who help themselves!!
+SIGUIENTE: If you cannot do that, you do not deserve to be on my ship!!
+
+========== GRUPO 8661 | UNIDADES 3 | IDs 13466,13467,13468 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 122879
+IDIOMA: ingles_u_occidental
+ORIGINAL: If you cannot do that, you do not deserve to be on my ship!!
+ESPAÑOL PREVIO: Si no puedes hacer eso, ¡no mereces estar en mi barco!
+ESPAÑOL EDICIÓN: Si no puedes hacer eso, ¡no mereces estar en mi barco!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: You have got to believe in yourself and fight!!
+SIGUIENTE: ...got it.
+
+========== GRUPO 8662 | UNIDADES 1 | IDs 13469 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 123015
+IDIOMA: ingles_u_occidental
+ORIGINAL: ...got it.
+ESPAÑOL PREVIO: ...entiendo.
+ESPAÑOL EDICIÓN: …entiendo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: If you cannot do that, you do not deserve to be on my ship!!
+SIGUIENTE: So what should we do?
+
+========== GRUPO 8663 | UNIDADES 1 | IDs 13470 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 123048
+IDIOMA: ingles_u_occidental
+ORIGINAL: So what should we do?
+ESPAÑOL PREVIO: ¿Qué deberíamos hacer entonces?
+ESPAÑOL EDICIÓN: ¿Qué deberíamos hacer entonces?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: ...got it.
+SIGUIENTE: I cannot leave the bridge.
+
+========== GRUPO 8664 | UNIDADES 2 | IDs 13471,13472 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 123106
+IDIOMA: ingles_u_occidental
+ORIGINAL: I cannot leave the bridge.
+ESPAÑOL PREVIO: No puedo abandonar el puente.
+ESPAÑOL EDICIÓN: No puedo abandonar el puente.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: So what should we do?
+SIGUIENTE: That means you guys have to take care of all of the demons that have invaded the ship!
+
+========== GRUPO 8665 | UNIDADES 4 | IDs 13473,13474,13475,13476 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 123171
+IDIOMA: ingles_u_occidental
+ORIGINAL: That means you guys have to take care of all of the demons that have invaded the ship!
+ESPAÑOL PREVIO: ¡Eso significa que ustedes tienen que encargarse de todos los demonios que han invadido la nave!
+ESPAÑOL EDICIÓN: ¡Eso significa que ustedes tienen que encargarse de todos los demonios que han invadido la nave!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I cannot leave the bridge.
+SIGUIENTE: Do you think you are up to it? You cannot let any of them escape!
+
+========== GRUPO 8666 | UNIDADES 3 | IDs 13477,13478,13479 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 123357
+IDIOMA: ingles_u_occidental
+ORIGINAL: Do you think you are up to it? You cannot let any of them escape!
+ESPAÑOL PREVIO: ¿Crees que estás a la altura? ¡No puedes dejar que ninguno escape!
+ESPAÑOL EDICIÓN: ¿Crees que estás a la altura? ¡No puedes dejar que ninguno escape!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: That means you guys have to take care of all of the demons that have invaded the ship!
+SIGUIENTE: Go to it!
+
+========== GRUPO 8667 | UNIDADES 1 | IDs 13480 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 123570
+IDIOMA: ingles_u_occidental
+ORIGINAL: Go to it!
+ESPAÑOL PREVIO: ¡Ve!
+ESPAÑOL EDICIÓN: ¡Ve!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: Do you think you are up to it? You cannot let any of them escape!
+SIGUIENTE: So you have come.
+
+========== GRUPO 8668 | UNIDADES 1 | IDs 13481 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 123637
+IDIOMA: ingles_u_occidental
+ORIGINAL: So you have come.
+ESPAÑOL PREVIO: Así que has venido.
+ESPAÑOL EDICIÓN: Así que has venido.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Go to it!
+SIGUIENTE: I am Count Seville Tempete, Dark Lord and one of Master Noirs three sworn servants.
+
+========== GRUPO 8669 | UNIDADES 5 | IDs 13482,13483,13484,13485,13486 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 123684
+IDIOMA: ingles_u_occidental
+ORIGINAL: I am Count Seville Tempete, Dark Lord and one of Master Noirs three sworn servants.
+ESPAÑOL PREVIO: Soy el Conde Seville Tempete, Señor Oscuro y uno de los tres sirvientes jurados del Maestro Noir.
+ESPAÑOL EDICIÓN: Soy el Conde Seville Tempete, Señor Oscuro y uno de los tres sirvientes jurados del Maestro Noir.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_5 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: So you have come.
+SIGUIENTE: During the last Demon War it was I who, in a single blow, ripped the right eye from Kefir Allois, lord Be careful everyone!
+
+========== GRUPO 8670 | UNIDADES 6 | IDs 13487,13488,13489,13490,13491,13492 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 123864
+IDIOMA: ingles_u_occidental
+ORIGINAL: During the last Demon War it was I who, in a single blow, ripped the right eye from Kefir Allois, lord Be careful everyone!
+ESPAÑOL PREVIO: Durante la última Guerra Demoníaca fui yo quien, de un solo golpe, le arrancó el ojo derecho a Kefir Allois, señor. ¡Tengan cuidado todos!
+ESPAÑOL EDICIÓN: Durante la última Guerra Demoníaca fui yo quien, de un solo golpe, le arrancó el ojo derecho a Kefir Allois, señor. ¡Tengan cuidado todos!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_6 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I am Count Seville Tempete, Dark Lord and one of Master Noirs three sworn servants.
+SIGUIENTE: He is much stronger than anything we have faced before!
+
+========== GRUPO 8671 | UNIDADES 3 | IDs 13493,13494,13495 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 124153
+IDIOMA: ingles_u_occidental
+ORIGINAL: He is much stronger than anything we have faced before!
+ESPAÑOL PREVIO: ¡Es mucho más fuerte que cualquier cosa a la que nos hayamos enfrentado antes!
+ESPAÑOL EDICIÓN: ¡Es mucho más fuerte que cualquier cosa a la que nos hayamos enfrentado antes!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: During the last Demon War it was I who, in a single blow, ripped the right eye from Kefir Allois, lord Be careful everyone!
+SIGUIENTE: Looks like the Church of the Divine Mother is finally getting serious.
+
+========== GRUPO 8672 | UNIDADES 3 | IDs 13496,13497,13498 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 124280
+IDIOMA: ingles_u_occidental
+ORIGINAL: Looks like the Church of the Divine Mother is finally getting serious.
+ESPAÑOL PREVIO: Parece que la Iglesia de la Divina Madre por fin se lo está tomando en serio.
+ESPAÑOL EDICIÓN: Parece que la Iglesia de la Divina Madre por fin se lo está tomando en serio.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: He is much stronger than anything we have faced before!
+SIGUIENTE: I cannot have you going to Fatima. Your journey is going to end right here.
+
+========== GRUPO 8673 | UNIDADES 4 | IDs 13499,13500,13501,13502 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 124436
+IDIOMA: ingles_u_occidental
+ORIGINAL: I cannot have you going to Fatima. Your journey is going to end right here.
+ESPAÑOL PREVIO: No puedo permitir que vayas a Fátima. Tu viaje terminará aquí mismo.
+ESPAÑOL EDICIÓN: No puedo permitir que vayas a Fátima. Tu viaje terminará aquí mismo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Looks like the Church of the Divine Mother is finally getting serious.
+SIGUIENTE: Master Noir does so enjoy toying with little Aw well, it is only a little extra work for me.
+
+========== GRUPO 8674 | UNIDADES 5 | IDs 13503,13504,13505,13506,13507 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 124600
+IDIOMA: ingles_u_occidental
+ORIGINAL: Master Noir does so enjoy toying with little Aw well, it is only a little extra work for me.
+ESPAÑOL PREVIO: A Master Noir le encanta jugar con el pequeño Aw bueno, solo es un poco de trabajo extra para mí.
+ESPAÑOL EDICIÓN: A Master Noir le encanta jugar con el pequeño Aw bueno, solo es un poco de trabajo extra para mí.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_5 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I cannot have you going to Fatima. Your journey is going to end right here.
+SIGUIENTE: But I was so looking forward to Fatima...
+
+========== GRUPO 8675 | UNIDADES 2 | IDs 13508,13509 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 124823
+IDIOMA: ingles_u_occidental
+ORIGINAL: But I was so looking forward to Fatima...
+ESPAÑOL PREVIO: Pero tenía muchas ganas de ver a Fátima...
+ESPAÑOL EDICIÓN: Pero tenía muchas ganas de ver a Fátima…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Master Noir does so enjoy toying with little Aw well, it is only a little extra work for me.
+SIGUIENTE: Ha! So just what are you going to do?
+
+========== GRUPO 8676 | UNIDADES 2 | IDs 13510,13511 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 124921
+IDIOMA: ingles_u_occidental
+ORIGINAL: Ha! So just what are you going to do?
+ESPAÑOL PREVIO: ¡Ja! ¿Y qué vas a hacer?
+ESPAÑOL EDICIÓN: ¡Ja! ¿Y qué vas a hacer?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: But I was so looking forward to Fatima...
+SIGUIENTE: Cancel our ticket?
+
+========== GRUPO 8677 | UNIDADES 1 | IDs 13512 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 124997
+IDIOMA: ingles_u_occidental
+ORIGINAL: Cancel our ticket?
+ESPAÑOL PREVIO: ¿Cancelar nuestro billete?
+ESPAÑOL EDICIÓN: ¿Cancelar nuestro billete?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Ha! So just what are you going to do?
+SIGUIENTE: Exactly what I had in mind.
+
+========== GRUPO 8678 | UNIDADES 2 | IDs 13513,13514 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125046
+IDIOMA: ingles_u_occidental
+ORIGINAL: Exactly what I had in mind.
+ESPAÑOL PREVIO: Justo lo que tenía en mente.
+ESPAÑOL EDICIÓN: Justo lo que tenía en mente.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Cancel our ticket?
+SIGUIENTE: Are you really...
+
+========== GRUPO 8679 | UNIDADES 1 | IDs 13515 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125155
+IDIOMA: ingles_u_occidental
+ORIGINAL: Are you really...
+ESPAÑOL PREVIO: ¿De verdad...?
+ESPAÑOL EDICIÓN: ¿De verdad…?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Exactly what I had in mind.
+SIGUIENTE: humans?!
+
+========== GRUPO 8680 | UNIDADES 1 | IDs 13516 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125191
+IDIOMA: ingles_u_occidental
+ORIGINAL: humans?!
+ESPAÑOL PREVIO: ¿¡humanos?!
+ESPAÑOL EDICIÓN: ¿¡humanos?!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Are you really...
+SIGUIENTE: A Dark Lord could never be beaten by mere humans!!
+
+========== GRUPO 8681 | UNIDADES 3 | IDs 13517,13518,13519 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125220
+IDIOMA: ingles_u_occidental
+ORIGINAL: A Dark Lord could never be beaten by mere humans!!
+ESPAÑOL PREVIO: ¡Un Señor Oscuro jamás podría ser derrotado por simples humanos!
+ESPAÑOL EDICIÓN: ¡Un Señor Oscuro jamás podría ser derrotado por simples humanos!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: humans?!
+SIGUIENTE: Do not think this is the end!
+
+========== GRUPO 8682 | UNIDADES 2 | IDs 13520,13521 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125329
+IDIOMA: ingles_u_occidental
+ORIGINAL: Do not think this is the end!
+ESPAÑOL PREVIO: ¡No creas que este es el final!
+ESPAÑOL EDICIÓN: ¡No creas que este es el final!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: A Dark Lord could never be beaten by mere humans!!
+SIGUIENTE: Omigod! Omigod!
+
+========== GRUPO 8683 | UNIDADES 1 | IDs 13522 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125403
+IDIOMA: ingles_u_occidental
+ORIGINAL: Omigod! Omigod!
+ESPAÑOL PREVIO: ¡Dios mío! ¡Dios mío!
+ESPAÑOL EDICIÓN: ¡Dios mío! ¡Dios mío!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Do not think this is the end!
+SIGUIENTE: Somebody put out the fire!
+
+========== GRUPO 8684 | UNIDADES 2 | IDs 13523,13524 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125435
+IDIOMA: ingles_u_occidental
+ORIGINAL: Somebody put out the fire!
+ESPAÑOL PREVIO: ¡Que alguien apague el fuego!
+ESPAÑOL EDICIÓN: ¡Que alguien apague el fuego!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Omigod! Omigod!
+SIGUIENTE: Water! Somebody get some water!!
+
+========== GRUPO 8685 | UNIDADES 2 | IDs 13525,13526 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125503
+IDIOMA: ingles_u_occidental
+ORIGINAL: Water! Somebody get some water!!
+ESPAÑOL PREVIO: ¡Agua! ¡Que alguien traiga agua!
+ESPAÑOL EDICIÓN: ¡Agua! ¡Que alguien traiga agua!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Somebody put out the fire!
+SIGUIENTE: Where are we going to find water here?!
+
+========== GRUPO 8686 | UNIDADES 2 | IDs 13527,13528 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125583
+IDIOMA: ingles_u_occidental
+ORIGINAL: Where are we going to find water here?!
+ESPAÑOL PREVIO: ¿Dónde vamos a encontrar agua aquí?
+ESPAÑOL EDICIÓN: ¿Dónde vamos a encontrar agua aquí?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Water! Somebody get some water!!
+SIGUIENTE: I think I may be able to help...
+
+========== GRUPO 8687 | UNIDADES 2 | IDs 13529,13530 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125677
+IDIOMA: ingles_u_occidental
+ORIGINAL: I think I may be able to help...
+ESPAÑOL PREVIO: Creo que puedo ayudar...
+ESPAÑOL EDICIÓN: Creo que puedo ayudar…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Where are we going to find water here?!
+SIGUIENTE: are doing, you scumbag?!?!
+
+========== GRUPO 8688 | UNIDADES 2 | IDs 13531,13532 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125801
+IDIOMA: ingles_u_occidental
+ORIGINAL: are doing, you scumbag?!?!
+ESPAÑOL PREVIO: ¿¡¿Qué estás haciendo, desgraciado?!?
+ESPAÑOL EDICIÓN: ¿¡¿Qué estás haciendo, desgraciado?!?
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I think I may be able to help...
+SIGUIENTE: (That is more like it.
+
+========== GRUPO 8689 | UNIDADES 1 | IDs 13533 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125869
+IDIOMA: ingles_u_occidental
+ORIGINAL: (That is more like it.
+ESPAÑOL PREVIO: (Eso está mejor.
+ESPAÑOL EDICIÓN: (Eso está mejor.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: are doing, you scumbag?!?!
+SIGUIENTE: Back to the old Prier...)
+
+========== GRUPO 8690 | UNIDADES 2 | IDs 13534,13535 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125915
+IDIOMA: ingles_u_occidental
+ORIGINAL: Back to the old Prier...)
+ESPAÑOL PREVIO: De vuelta al viejo Prier...)
+ESPAÑOL EDICIÓN: De vuelta al viejo Prier…)
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: (That is more like it.
+SIGUIENTE: Captain!
+
+========== GRUPO 8691 | UNIDADES 1 | IDs 13536 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 125981
+IDIOMA: ingles_u_occidental
+ORIGINAL: Captain!
+ESPAÑOL PREVIO: ¡Capitán!
+ESPAÑOL EDICIÓN: ¡Capitán!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: MTL_NO_REVISADA
+PREVIO: Back to the old Prier...)
+SIGUIENTE: We are going to crash all right.
+
+========== GRUPO 8692 | UNIDADES 2 | IDs 13537,13538 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 126027
+IDIOMA: ingles_u_occidental
+ORIGINAL: We are going to crash all right.
+ESPAÑOL PREVIO: Vamos a estrellarnos, sin duda.
+ESPAÑOL EDICIÓN: Vamos a estrellarnos, sin duda.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Captain!
+SIGUIENTE: But I will not rest until I get my revenge!
+
+========== GRUPO 8693 | UNIDADES 2 | IDs 13539,13540 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 126104
+IDIOMA: ingles_u_occidental
+ORIGINAL: But I will not rest until I get my revenge!
+ESPAÑOL PREVIO: ¡Pero no descansaré hasta obtener mi venganza!
+ESPAÑOL EDICIÓN: ¡Pero no descansaré hasta obtener mi venganza!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_2 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: We are going to crash all right.
+SIGUIENTE: Testing... Testing...
+
+========== GRUPO 8694 | UNIDADES 1 | IDs 13541 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 126206
+IDIOMA: ingles_u_occidental
+ORIGINAL: Testing... Testing...
+ESPAÑOL PREVIO: Probando... Probando...
+ESPAÑOL EDICIÓN: Probando… Probando…
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: But I will not rest until I get my revenge!
+SIGUIENTE: All hands, this is We are about to experience uncontrolled flight into terrain.
+
+========== GRUPO 8695 | UNIDADES 4 | IDs 13542,13543,13544,13545 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 126250
+IDIOMA: ingles_u_occidental
+ORIGINAL: All hands, this is We are about to experience uncontrolled flight into terrain.
+ESPAÑOL PREVIO: ¡Atención a todos! Estamos a punto de experimentar un vuelo descontrolado contra el terreno.
+ESPAÑOL EDICIÓN: ¡Atención a todos! Estamos a punto de experimentar un vuelo descontrolado contra el terreno.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_4 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: Testing... Testing...
+SIGUIENTE: I just have one piece of advice for all of Do not die!!
+
+========== GRUPO 8696 | UNIDADES 3 | IDs 13546,13547,13548 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 126467
+IDIOMA: ingles_u_occidental
+ORIGINAL: I just have one piece of advice for all of Do not die!!
+ESPAÑOL PREVIO: Solo tengo un consejo para todos: ¡No mueran!
+ESPAÑOL EDICIÓN: Solo tengo un consejo para todos: ¡No mueran!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_RESEGMENTAR
+ALERTAS: RESEGMENTAR_3 | ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: All hands, this is We are about to experience uncontrolled flight into terrain.
+SIGUIENTE: That is all.
+
+========== GRUPO 8697 | UNIDADES 1 | IDs 13549 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 126603
+IDIOMA: ingles_u_occidental
+ORIGINAL: That is all.
+ESPAÑOL PREVIO: Eso es todo.
+ESPAÑOL EDICIÓN: Eso es todo.
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: I just have one piece of advice for all of Do not die!!
+SIGUIENTE: This really sucks!
+
+========== GRUPO 8698 | UNIDADES 1 | IDs 13550 ==========
+RECURSO: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat
+OFFSET INICIO: 126640
+IDIOMA: ingles_u_occidental
+ORIGINAL: This really sucks!
+ESPAÑOL PREVIO: ¡Esto es una verdadera porquería!
+ESPAÑOL EDICIÓN: ¡Esto es una verdadera porquería!
+ESTADO REVISIÓN: borrador_pendiente_cotejo
+ESTADO INSERCIÓN: NO_INSERTAR_NO_APROBADO
+ALERTAS: ALERTA_EXTRACTION | MTL_NO_REVISADA
+PREVIO: That is all.
+SIGUIENTE: 

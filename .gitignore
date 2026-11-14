@@ -1,0 +1,16 @@
+# Solo texto, referencias y manifiestos. No redistribuir copias del juego.
+*.iso
+*.cso
+*.chd
+*.7z
+*.edat
+*.EDAT
+EBOOT.BIN
+START_JP.LZS
+*.PBP
+PSP_GAME/
+*.pyc
+__pycache__/
+.DS_Store
+salidas/*
+!salidas/.gitkeep

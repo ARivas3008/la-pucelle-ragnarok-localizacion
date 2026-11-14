@@ -1,0 +1,134 @@
+{
+  "todos_grupos": 15525,
+  "pendientes": 15016,
+  "previos": 509,
+  "unidades": 26258,
+  "corpus": [
+    {
+      "corpus": "01",
+      "cantidad": 1001,
+      "primer_grupo": "3282",
+      "ultimo_grupo": "1346",
+      "secciones": "00_textos_en_imagenes:62 | 01_hud_y_menus:259 | 02_localidades:200 | 03_personajes_y_enemigos:310 | 04_nombres_generados:170",
+      "recursos": "ISO/PSP_GAME/SYSDIR/EBOOT.BIN:259 | DLC_00/name.dat:170 | DLC_00/char.dat:155 | ISO_START/char.dat:152 | DLC_00/mapinfo.dat:100 | ISO_START/mapinfo.dat:100 | ISO_START/sys6.txp:16 | ISO_START/sys3.txp:10"
+    },
+    {
+      "corpus": "02",
+      "cantidad": 1058,
+      "primer_grupo": "1347",
+      "ultimo_grupo": "2142",
+      "secciones": "04_nombres_generados:412 | 05_eventos_base_y_dlc:504 | 06_dialogos:142",
+      "recursos": "ISO_START/name.dat:290 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat:169 | DLC_00/talk00.dat:142 | DLC_00/name.dat:122 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat:57 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat:54 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat:52 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat:32"
+    },
+    {
+      "corpus": "03",
+      "cantidad": 949,
+      "primer_grupo": "2143",
+      "ultimo_grupo": "3879",
+      "secciones": "06_dialogos:949",
+      "recursos": "DLC_00/talk00.dat:658 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat:98 | DLC_02/talk00.dat:65 | DLC_01/talk00.dat:64 | DLC_03/talk00.dat:64"
+    },
+    {
+      "corpus": "04",
+      "cantidad": 997,
+      "primer_grupo": "3880",
+      "ultimo_grupo": "4928",
+      "secciones": "06_dialogos:997",
+      "recursos": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat:997"
+    },
+    {
+      "corpus": "05",
+      "cantidad": 1000,
+      "primer_grupo": "4929",
+      "ultimo_grupo": "5928",
+      "secciones": "06_dialogos:1000",
+      "recursos": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat:535 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat:465"
+    },
+    {
+      "corpus": "06",
+      "cantidad": 968,
+      "primer_grupo": "5929",
+      "ultimo_grupo": "6967",
+      "secciones": "06_dialogos:968",
+      "recursos": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat:670 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat:183 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat:115"
+    },
+    {
+      "corpus": "07",
+      "cantidad": 974,
+      "primer_grupo": "6968",
+      "ultimo_grupo": "7943",
+      "secciones": "06_dialogos:974",
+      "recursos": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat:481 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat:354 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat:139"
+    },
+    {
+      "corpus": "08",
+      "cantidad": 1006,
+      "primer_grupo": "7944",
+      "ultimo_grupo": "8949",
+      "secciones": "06_dialogos:1006",
+      "recursos": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat:406 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat:349 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat:204 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat:47"
+    },
+    {
+      "corpus": "09",
+      "cantidad": 1058,
+      "primer_grupo": "8950",
+      "ultimo_grupo": "10119",
+      "secciones": "06_dialogos:1058",
+      "recursos": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat:511 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat:387 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat:160"
+    },
+    {
+      "corpus": "10",
+      "cantidad": 1000,
+      "primer_grupo": "10120",
+      "ultimo_grupo": "11119",
+      "secciones": "06_dialogos:1000",
+      "recursos": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat:453 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat:445 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat:102"
+    },
+    {
+      "corpus": "11",
+      "cantidad": 1000,
+      "primer_grupo": "11120",
+      "ultimo_grupo": "12120",
+      "secciones": "06_dialogos:1000",
+      "recursos": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat:524 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat:294 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat:182"
+    },
+    {
+      "corpus": "12",
+      "cantidad": 1003,
+      "primer_grupo": "12121",
+      "ultimo_grupo": "15002",
+      "secciones": "06_dialogos:1003",
+      "recursos": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat:602 | ISO_START/talk00.dat:319 | ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat:82"
+    },
+    {
+      "corpus": "13",
+      "cantidad": 947,
+      "primer_grupo": "15003",
+      "ultimo_grupo": "2958",
+      "secciones": "06_dialogos:446 | 07_magias_y_descripciones:501",
+      "recursos": "DLC_00/magic.dat:477 | ISO_START/talk00.dat:446 | DLC_02/magic.dat:16 | DLC_01/magic.dat:4 | DLC_03/magic.dat:4"
+    },
+    {
+      "corpus": "14",
+      "cantidad": 1055,
+      "primer_grupo": "13388",
+      "ultimo_grupo": "482",
+      "secciones": "07_magias_y_descripciones:538 | 08_habilidades:194 | 09_objetos_equipo_otros:323",
+      "recursos": "ISO_START/magic.dat:538 | DLC_00/kis.dat:176 | DLC_00/com.dat:147 | ISO_START/skill.dat:113 | DLC_00/skill.dat:81"
+    },
+    {
+      "corpus": "15",
+      "cantidad": 1000,
+      "primer_grupo": "483",
+      "ultimo_grupo": "14529",
+      "secciones": "09_objetos_equipo_otros:1000",
+      "recursos": "ISO_START/kis.dat:277 | DLC_00/ritem.dat:272 | ISO_START/ritem.dat:214 | ISO_START/com.dat:148 | DLC_00/kis.dat:89"
+    }
+  ],
+  "hashes_maestros": {
+    "data/maestros/03_TODOS_LOS_GRUPOS_15525.csv": "9eea1a73f24f9f32c0828e69b8b8a8352d0570e0d35603b75dc13c4623a7d15d",
+    "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv": "db93378b8d6d1768244aa4b6c5db99ac81bdeaf5becb1e9f57e650cada235414",
+    "data/maestros/mapa_excel_grupo.csv": "4718d69096f9c7668cf4d6ac877ed68f19ecaeab899b6a5088af254bda1f2625",
+    "data/maestros/mapa_excel_unidad.csv": "77a9b92710b5c5bbe339ac4f1266e30eb2d9d58b6fe69488a6461c1edaabf54c"
+  }
+}
