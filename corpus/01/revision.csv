@@ -959,44 +959,44 @@
 1303,,requiere_investigacion,Fragmento de nombre generado の妹: significa «hermana menor de X». En español requiere invertir XのY a «Y de X» y resolver género/preposiciones; name.dat parece concatenar sufijos y no se conoce la lógica para reordenar. No aprobar sin prueba del generador.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/page-54; https://gamefaqs.gamespot.com/ps2/363337-la-pucelle-tactics/answers/84131-is-there-a-way-to-rename-monsters
 1304,,requiere_investigacion,Fragmento de nombre generado の兄: significa «hermano mayor de X». En español requiere invertir XのY a «Y de X» y resolver género/preposiciones; name.dat parece concatenar sufijos y no se conoce la lógica para reordenar. No aprobar sin prueba del generador.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/page-54; https://gamefaqs.gamespot.com/ps2/363337-la-pucelle-tactics/answers/84131-is-there-a-way-to-rename-monsters
 1305,,requiere_investigacion,Fragmento de nombre generado の弟: significa «hermano menor de X». En español requiere invertir XのY a «Y de X» y resolver género/preposiciones; name.dat parece concatenar sufijos y no se conoce la lógica para reordenar. No aprobar sin prueba del generador.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/page-54; https://gamefaqs.gamespot.com/ps2/363337-la-pucelle-tactics/answers/84131-is-there-a-way-to-rename-monsters
-1306,,pendiente,,
-1307,,pendiente,,
-1308,,pendiente,,
-1309,,pendiente,,
-1310,,pendiente,,
-1311,,pendiente,,
-1312,,pendiente,,
-1313,,pendiente,,
-1314,,pendiente,,
-1315,,pendiente,,
-1316,,pendiente,,
-1317,,pendiente,,
-1318,,pendiente,,
-1319,,pendiente,,
-1320,,pendiente,,
-1321,,pendiente,,
-1322,,pendiente,,
-1323,,pendiente,,
-1324,,pendiente,,
-1325,,pendiente,,
-1326,,pendiente,,
-1327,,pendiente,,
-1328,,pendiente,,
-1329,,pendiente,,
-1330,,pendiente,,
-1331,,pendiente,,
-1332,,pendiente,,
-1333,,pendiente,,
-1334,,pendiente,,
-1335,,pendiente,,
-1336,,pendiente,,
-1337,,pendiente,,
-1338,,pendiente,,
-1339,,pendiente,,
-1340,,pendiente,,
-1341,,pendiente,,
-1342,,pendiente,,
-1343,,pendiente,,
-1344,,pendiente,,
-1345,,pendiente,,
-1346,,pendiente,,
+1306,,requiere_investigacion,"の友 es «amigo de X», pero es un sufijo pospuesto; el español exige reordenar nombre y relación familiar. Sin conocer el concatenador no se puede aprobar «Amigo» aislado.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1307,,requiere_investigacion,列伝 equivale a crónicas biográficas o semblanzas de X. En un título generado X列伝 necesita anteponer «Crónicas de»; una sustitución independiente al final produciría una frase desordenada.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1308,Extraterrestre,revisado,"星人 designa un ser de otro planeta, no una «estrella»; «Extraterrestre» funciona como sustantivo/adjetivo autónomo y evita una relación específica con un planeta que no consta.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1309,Visitante,revisado,"来訪者 es quien llega de visita; etiqueta nominal autosuficiente, sin confundir con el anfitrión.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1310,Prohibido el paso,revisado,"立入禁止 es una prohibición de acceso, no la exclamación «Fuera». Se preserva como rótulo idiomático, autónomo.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1311,,requiere_investigacion,"入門 significa introducción, iniciación o manual para principiantes sobre X. Si sigue al tema X, en español habría que construir «Introducción a X»: depende del ensamblaje del generador.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1312,,requiere_investigacion,"一筋 expresa dedicación exclusiva, entrega a X o seguir una sola vía. El borrador «Ray» confunde 筋 (línea/camino) con un rayo; necesita referente anterior.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1313,,requiere_investigacion,"娘. significa hija/chica o jovencita, según el antecedente; el punto final forma parte de la cadena. El borrador «Madre» es erróneo, pero no es seguro fijar categoría ni posición sin conocer su unión.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1314,,requiere_investigacion,馬鹿一代 es una formulación humorística «un necio toda la vida» o afición insensata de por vida; en construcciones X馬鹿一代 cambia el objeto de la obsesión. Evitar la falsa equivalencia simple «Necio».,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1315,Diario compartido,revisado,"交換日記 alude al diario que dos personas intercambian o comparten, no a un «empollón». Se adopta un sintagma nominal autosuficiente.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1316,Libro blanco,revisado,白書 es el término consolidado para informe/libro blanco; no equivale a «friki» ni a una novela.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1317,Alma,revisado,魂 es alma o espíritu; «Malhumorado» es incorrecto. Se conserva una forma nominal breve y sin género.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1318,Teatro,revisado,"劇場 es edificio teatral o teatro; no se traduce por «drama», que es una obra o género.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1319,De nuevo,revisado,再び significa de nuevo/otra vez; la forma elegida encaja como cierre adverbial de una etiqueta.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1320,,requiere_investigacion,"を追え! exige un objeto previo («¡Persigue a X!»). En español la acción debe preceder al objeto, al contrario que Xを追え!, por lo que una sustitución del sufijo no garantiza un título válido.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1321,,requiere_investigacion,を探せ! exige objeto previo («¡Busca a X!»); necesita invertir el orden al ensamblar el nombre generado.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1322,,requiere_investigacion,が好き significa «me gusta X / le gusta X». La frase original depende de sujeto implícito y del elemento X previo; no hay forma española autónoma única sin conocer la regla de unión.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1323,,requiere_investigacion,"時代 significa era/época; en X時代 suele ser «la era de X», que requiere inversión de orden y artículo. El borrador «Época» no basta para aprobar el fragmento en contexto.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1324,,requiere_investigacion,づくし forma un sufijo que indica abundancia o estar lleno de X; «Amable» no corresponde. Hace falta el elemento anterior para decidir «todo X» o «repleto de X».,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1325,Historia de amor,revisado,"恋物語 expresa relato romántico/historia de amor, no simplemente el sentimiento «Amor».",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1326,Festival,revisado,"祭り significa festival, celebración o festejo; no «festín», que remite exclusivamente a una comida.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1327,Baile,revisado,"踊り es danza/baile. Se confirma el significado del fragmento, con una forma nominal autocontenida.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1328,Aniversario,revisado,"記念日 es una fecha conmemorativa, no una «fiesta» genérica. En nombres se opta por el sustantivo breve «Aniversario».",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1329,,requiere_investigacion,"への道 es el camino hacia X, pero X aparece antes del sufijo en japonés. En español tendría que formarse «Camino hacia X»: requiere tratamiento especial del concatenador.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1330,", hacia el este",revisado,"Se preserva la coma inicial de ,東へ; 東へ significa hacia el este, con preposición direccional, no el punto cardinal sin más.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1331,", hacia el norte",revisado,"Se preserva la coma inicial de ,北へ; 北へ significa hacia el norte.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1332,", hacia el oeste",revisado,"Se preserva la coma inicial de ,西へ; 西へ significa hacia el oeste.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1333,", hacia el sur",revisado,"Se preserva la coma inicial de ,南へ; 南へ significa hacia el sur.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1334,N.º 1 de Japón,revisado,"日本一 significa número uno de Japón; también evoca el nombre de Nippon Ichi, desarrolladora del juego. Se conserva el doble sentido como rótulo neutro.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1335,,requiere_investigacion,"先生 puede ser profesor/maestro, doctor o tratamiento honorífico para X. En español suele anteponerse al nombre; «Señor» pierde el matiz docente. Hace falta conocer el destinatario del título y la concatenación.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1336,,requiere_investigacion,"法王 es sumo pontífice/papa (título religioso) y no «Rdo.», que corresponde a reverendo. Se desconoce la concordancia y orden al vincularlo a un nombre generado.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1337,Emperador,revisado,"皇帝 es el título imperial, distinguible de 帝王 y 大帝. La forma nominal es correcta como entrada léxica.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1338,Monarca,revisado,帝王 refiere a soberano/gobernante supremo; se mantiene «Monarca» por su amplitud y neutralidad de género.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1339,Gran emperador,revisado,"大帝 es gran emperador, no solamente el adjetivo «Grande». Se recupera el rango completo del original.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1340,Gran rey,revisado,大王 es gran rey o gran soberano; «Mejor» no corresponde. El rótulo conserva su carácter de título.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1341,S. A.,revisado,"株式会社 es sociedad por acciones / compañía de capital, equivalente funcional en rótulo humorístico a «S. A.». Conserva el carácter corporativo tras un nombre.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1342,Ltda.,revisado,"有限会社 es una sociedad de responsabilidad limitada japonesa; «Ltda.» conserva la idea de empresa limitada, no de «Hogar». Es una equivalencia funcional, no equiparación legal exacta.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1343,Jefe,revisado,"親分 es el cabecilla/líder de una banda o figura de autoridad; «Jefe» es una traducción contextual breve, validada frente al japonés.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1344,Máscara,revisado,仮面 significa máscara (también máscara de disfraz); se confirma el borrador mediante el japonés.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1345,,requiere_investigacion,"先輩 designa a una persona de mayor antigüedad/experiencia en una relación de escuela o trabajo; «Mayor» es inexacto. Podría conservarse «senpai», pero falta decidir formato y acoplamiento al nombre generado.",https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
+1346,Experto,revisado,達人 es persona experta o maestro de una disciplina; se confirma «Experto» como etiqueta nominal concisa.,https://gbatemp.net/threads/psp-la-pucelle-ragnarok-translation.320662/
