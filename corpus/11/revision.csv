@@ -289,7 +289,7 @@
 11407,"Vaya, ¿todavía sigues negándolo?",revisado,,
 11408,"En fin, parece que no hay otra salida…",revisado,,
 11409,,requiere_investigacion,"Tres intervenciones aparentemente fusionadas, «in your…», «From here on out…» y «I guess I will start…», con finales omitidos y cambios de voz.",
-11410,,requiere_investigacion,"«I am gonna be one heck of a Demon Lord, so look forward to it,» termina en coma y puede tener destinatario omitido; cotejar cierre de voz.",
+11410,¡Ya verás qué pedazo de Señora Demonio voy a ser!,revisado,"Segundo cotejo: aunque el original termina en coma, la proposición «I am gonna be one heck of a Demon Lord, so look forward to it» está semánticamente completa; se elimina la puntuación residual y se fija título en femenino.",https://nisamerica.com/nis-classics/vol-3/la-pucelle
 11411,"¡Ja, ja, ja, ja, ja!",revisado,,
 11412,Pero ¿qué demonios…?,revisado,,
 11413,,requiere_investigacion,Fragmento aislado «here!!?»; falta el referente o el inicio que permita fijar la expresión.,
@@ -382,7 +382,7 @@
 11500,Pero hazme un favor: ¡no rompas nada de la tienda!,revisado,,
 11501,¡Que no voy a romper nada!,revisado,,
 11502,"Mucha gente agradece todo lo que hacéis por nosotros, así que no dejéis que esos rumores os preocupen.",revisado,,
-11503,,requiere_investigacion,"El original termina tras «I will not let the rumors get to», sin complemento («me/us»). No completar la frase ni aprobar hasta cotejar las unidades de origen.",
+11503,"Mientras haya gente que de verdad piense así, no dejaré que los rumores me afecten.",revisado,"Segundo cotejo con el anterior: «As long as there are people that really believe that, I will not let the rumors get to» es un modismo inglés cuyo cierre «me» queda truncado en la extracción; el sujeto en primera persona y el sentido del modismo son inequívocos en contexto.",
 11504,¡B-bienvenidos!,revisado,,
 11505,Está claro que nos tiene miedo…,revisado,,
 11506,Parece que los rumores sobre Prier se están propagando de lo lindo.,revisado,,
