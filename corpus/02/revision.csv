@@ -63,7 +63,7 @@
 1408,,requiere_investigacion,でごめん equivale a «perdón por X»; el sintagma X va antes en japonés y después en español. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14244: «Sorry»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14244
 1409,De imitación,revisado,"もどき significa sucedáneo o falsa imitación de algo, no «burla» en general.",
 1410,Estofado,revisado,煮込み designa un plato cocinado a fuego lento; se concreta la técnica de «guiso».,
-1411,,requiere_investigacion,"まっしぐら describe dirigirse de cabeza hacia X, no siempre velocidad literal; requiere referente. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14247: «Full tilt»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14247
+1411,A toda velocidad,revisado,"まっしぐら expresa avance decidido y directo. La cadena inglesa en el mismo desplazamiento (Full tilt) confirma interpretación de velocidad/ímpetu, no obliga a especificar destino.","Cotejo: corpus/02/entrada.csv, grupos 1411 y 14247"
 1412,,requiere_investigacion,"も真っ青 es hipérbole «hasta X palidecería», no color azul; requiere término comparado. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14248: «Deep Blue»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14248
 1413,Garra,revisado,"根性 expresa tenacidad o espíritu combativo, no naturaleza genérica.",
 1414,Patada,revisado,"キック es kick, un golpe con el pie; traducción contextual cotejada.",
@@ -328,11 +328,11 @@
 14230,Modo,revisado,"Mode es modo o modalidad, equivalente funcional en etiquetas de juego.",
 14231,Estación,revisado,Station denota terminal o estación; opción neutral en nombre de lugar.,
 14232,Aeropuerto,revisado,Airport designa infraestructura aeroportuaria; equivalencia directa.,
-14233,,requiere_investigacion,Enough puede significar «basta» como interjección o «suficiente» como cuantificador; el uso aislado no define el sentido.,
+14233,¡Basta!,revisado,"Enough admite usos diversos, pero la cadena japonesa paralela はもういい expresa inequívocamente «ya basta» como cese de una situación. Se elige interjección autónoma.","Cotejo: corpus/02/entrada.csv, grupos 1397 y 14233"
 14234,,requiere_investigacion,"Mean puede significar «significar», «mezquino/cruel», «media» o «tener intención»; aislado no hay decisión segura.",
 14235,Aparecer,revisado,"Appear verbo infinitivo, sin añadir sujeto.",
 14236,Malo,revisado,Bad como adjetivo negativo; forma genérica.,
-14237,,requiere_investigacion,Yard puede ser «patio» o unidad de medida «yarda»; el contexto no permite desambiguar.,
+14237,Patio,revisado,"Yard se interpreta como patio o área de acopio; la entrada japonesa del mismo desplazamiento 置き場 es un espacio de depósito, lo que descarta la unidad de medida y respalda el lugar físico.","Cotejo: corpus/02/entrada.csv, grupos 1401 y 14237"
 14238,Semana,revisado,Week designa periodo de siete días; equivalente nominal inequívoco.,
 14239,Mes,revisado,Month designa periodo de calendario; equivalente nominal.,
 14240,,requiere_investigacion,It is what queda sintácticamente abierto («es lo que...»); no se sabe qué parte se combina o si es frase dañada.,
@@ -340,7 +340,7 @@
 14242,Aunque,revisado,Even if expresa concesión hipotética; «aunque» es una opción breve que conserva función introductoria.,
 14243,Flojo,revisado,Loose indica holgura o falta de sujeción; «flojo» conserva sentido físico y figurado.,
 14244,Perdón,revisado,Sorry es fórmula de disculpa; se elige equivalente nominal breve para interfaz.,
-14245,,requiere_investigacion,"Mock puede ser verbo «burlarse», adjetivo «falso» o sustantivo «imitación»; «burla» no está suficientemente respaldado.",
+14245,De imitación,revisado,"Mock es adjetivo de imitación en una de sus acepciones; la cadena japonesa paralela もどき denota precisamente sucedáneo o imitación de algo, frente a «burla».","Cotejo: corpus/02/entrada.csv, grupos 1409 y 14245"
 14246,Guiso,revisado,Stew es plato preparado guisando a fuego lento; «guiso» equivale al sustantivo.,
 14247,A toda velocidad,revisado,Full tilt expresa máxima rapidez o intensidad; giro idiomático español sin referencia literal a inclinación.,
 14248,Azul intenso,revisado,Deep Blue señala un azul muy profundo o intenso; se conserva valor cromático.,
@@ -357,8 +357,8 @@
 14259,Cuídate,revisado,Take care en despedida expresa deseo de cuidado; forma de tú habitual.,
 14260,Adiós,revisado,Bye es despedida familiar; «adiós» funciona como fragmento autónomo.,
 14261,Algún día,revisado,Someday indica momento indefinido futuro; se conserva la indeterminación.,
-14262,,requiere_investigacion,"Burn puede ser verbo transitivo «quemar», intransitivo «arder» o sustantivo «quemadura»; el fragmento aislado no distingue.",
-14263,,requiere_investigacion,"Still puede equivaler a «todavía», «quieto», «sin embargo» o «alambique»; falta combinación que lo determine.",
+14262,Arder,revisado,"Burn funciona como verbo en esta correspondencia: la cadena japonesa paralela 燃える es inequívocamente «arder». Se elige infinitivo, sin inventar sujeto.","Cotejo: corpus/02/entrada.csv, grupos 1426 y 14262"
+14263,Aun así,revisado,Still puede ser adversativo y la cadena japonesa paralela それでも corresponde a «aun así». No se trata aquí del valor temporal «todavía».,"Cotejo: corpus/02/entrada.csv, grupos 1427 y 14263"
 14264,No muerto,revisado,Undead se emplea como categoría fantástica de criatura que sigue activa tras morir; «no muerto» conserva el tecnicismo.,
 14265,Uno más,revisado,One more añade una unidad; la construcción funciona como fragmento nominal reutilizable.,
 14266,En efecto,revisado,Indeed es afirmación enfática de lo anterior; forma natural en español.,
@@ -391,7 +391,7 @@
 14293,Bastante bien,revisado,Pretty fine es valoración informal positiva moderada; se evita exagerar con «muy bien».,
 14294,Bastante bien,revisado,Pretty well es evaluación favorable pero no máxima; la coincidencia con Pretty fine refleja sinonimia real.,
 14295,Probablemente,revisado,Probably marca probabilidad sin certeza; equivalente directo.,
-14296,,requiere_investigacion,Dare puede funcionar como verbo «atreverse» o reto/sustantivo «desafío»; falta categoría gramatical.,
+14296,Atreverse,revisado,"Dare como verbo se corresponde con la forma japonesa paralela あえて, que implica obrar deliberadamente o atreverse a hacer algo. Se usa infinitivo independiente sin sujeto.","Cotejo: corpus/02/entrada.csv, grupos 1462 y 14296"
 14297,En secreto,revisado,In secret significa con reserva u ocultamiento; se mantiene como locución adverbial.,
 14298,Sigilosamente,revisado,Stealithly es grafía anómala de stealthily; se traduce el adverbio probable sin alterar la cadena fuente.,
 14299,,requiere_investigacion,"Look good puede ser imperativo «pon buena cara», predicado «tener buen aspecto» o elogio estético; sin sujeto no se fija.",
@@ -565,7 +565,7 @@
 3433,de la propia Calamity.,revisado,from Calamity herself subraya que la fuente es ella misma; registro de narración.,
 3434,Ha aparecido varias veces a lo largo de la,revisado,He has appeared several times in the past inicia la perspectiva histórica del Príncipe Oscuro.,
 3435,historia y ha provocado numerosas muertes.,revisado,"past and many people have died; «numerosas» es más fiel que «incontables», no justificado por many.",
-3436,,requiere_investigacion,To us in the Church of the Maiden of Light contrasta con la denominación oficial «Iglesia de la Santa Doncella» usada antes. Requiere cotejo del original japonés para decidir si es la misma institución o una distinta.,https://nisamerica.com/nis-classics/vol-3/la-pucelle
+3436,"Para quienes pertenecemos a la Iglesia de la Santa Doncella,",revisado,Church of the Maiden of Light parece una variación del parche inglés para la institución llamada Church of the Holy Maiden en 3304 y 3380–3381. El contexto se refiere a la misma Iglesia que combate al Príncipe Oscuro; se normaliza el nombre sin postular otra institución.,"Cotejo interno: corpus/02/entrada.csv, grupos 3304,3380,3381,3436"
 3437,el Príncipe Oscuro es un enemigo temible al que,revisado,the Dark Prince is a fearsome enemy who must introduce la obligación expresada en 3438; depende del inicio de 3436.,
 3438,hay que destruir.,revisado,be destroyed expresa deber de derrotar o eliminar; no se rebaja la gravedad del texto.,
 3439,Por entonces no,revisado,We did not inicia desconocimiento de lo que se avecina; conserva tiempo pasado.,
@@ -913,7 +913,7 @@
 3781,Una leyenda que seguirá transmitiéndose.,revisado,It is a legend that will be past down contiene errata por passed; se conserva legado oral de la gesta.,
 14530,una Gran Señora Demonio. Alguien que,revisado,Demon Overlord corresponde al rango superior a Demon Lord documentado en Ragnarok; esta versión lo diferencia en español mediante «Gran». Se mantiene fragmento narrativo con el relativo.,https://steamcommunity.com/sharedfiles/filedetails/?id=3403520309
 14531,aspiraba a ser la Doncella de la Luz y terminó siendo una Gran Señora Demonio.,revisado,"Maiden of Light would end up an Overlord completa el contraste de 14530; se conserva el rango Overlord como «Gran Señora Demonio», distinto de Demon Lord.",https://steamcommunity.com/sharedfiles/filedetails/?id=3403520309
-14532,,requiere_investigacion,Demon Overload es una cadena inglesa anómala (¿errata de Overlord o juego de palabras?). No traducirla como título confirmado sin cotejo de recurso.,
+14532,Gran Señora Demonio.,revisado,"Demon Overload es una grafía anómala frente a Demon Overlord en las dos líneas contiguas 14530–14531; se corrige en español como el mismo rango superior, no como «sobrecarga». Fuente literal preservada en entrada.csv.",https://steamcommunity.com/sharedfiles/filedetails/?id=3403520309
 14533,La Pucelle: Ragnarok,revisado,Título comercial propio. Se normaliza el separador tipográfico a la forma usada en este proyecto.,https://nippon1.jp/consumer/lapucelle_ragnarok/
 1841,¿Qué necesitas de mí?,revisado,オレに用か? es pregunta informal de alguien que usa オレ; se conserva tono directo.,
 1842,¿Qué quieres que te enseñe?,revisado,なにを教えてほしいんだ? es consulta del instructor y se dirige de tú.,
