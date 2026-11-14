@@ -799,56 +799,56 @@
 8741,"Ay, Prier…",revisado,"",""
 8742,"¿Confiar en su experiencia y su intuición, eh?",revisado,"",""
 8743,"Seguro que ese capitán ha sobrevivido a más de una auténtica carnicería.",revisado,"",""
-8744,,pendiente,,
-8745,,pendiente,,
-8746,,pendiente,,
-8747,,pendiente,,
-8748,,pendiente,,
-8749,,pendiente,,
-8750,,pendiente,,
-8751,,pendiente,,
-8752,,pendiente,,
-8753,,pendiente,,
-8754,,pendiente,,
-8755,,pendiente,,
-8756,,pendiente,,
-8757,,pendiente,,
-8758,,pendiente,,
-8759,,pendiente,,
-8760,,pendiente,,
-8761,,pendiente,,
-8762,,pendiente,,
-8763,,pendiente,,
-8764,,pendiente,,
-8765,,pendiente,,
-8766,,pendiente,,
-8767,,pendiente,,
-8768,,pendiente,,
-8769,,pendiente,,
-8770,,pendiente,,
-8771,,pendiente,,
-8772,,pendiente,,
-8773,,pendiente,,
-8774,,pendiente,,
-8775,,pendiente,,
-8776,,pendiente,,
-8777,,pendiente,,
-8778,,pendiente,,
-8779,,pendiente,,
-8780,,pendiente,,
-8781,,pendiente,,
-8782,,pendiente,,
-8783,,pendiente,,
-8784,,pendiente,,
-8785,,pendiente,,
-8786,,pendiente,,
-8787,,pendiente,,
-8788,,pendiente,,
-8789,,pendiente,,
-8790,,pendiente,,
-8791,,pendiente,,
-8792,,pendiente,,
-8793,,pendiente,,
+8744,"¿De verdad confías en su intuición, Croix?",revisado,"",""
+8745,"No sé si confiar en él, pero estoy dispuesto a apostar por ese tipo.",revisado,"",""
+8746,"A mí me cuesta aceptar eso…",revisado,"«Get on board» es aceptar/apoyar una idea, no subir de nivel ni embarcar en la nave; según respuesta a la propuesta de Homard.",""
+8747,"Será interesante comprobar hasta dónde llegan su experiencia y su intuición.",revisado,"",""
+8748,"¿Qué te pasa, Éclair?",revisado,"",""
+8749,"¿Ha ocurrido algo entre Homard y tú?",revisado,"",""
+8750,"¡No ha pasado nada de nada!",revisado,"",""
+8751,"Esas ruinas deben de…",requiere_investigacion,"Original truncado en «Those ruins must have». No existe predicado y el grupo siguiente cambia de interlocutor; se mantiene una propuesta fragmentaria sin inventar lo que deben tener las ruinas.",""
+8752,"¡Confíen en mi experiencia y mi intuición!",revisado,"",""
+8753,"¿Y de dónde sacas tanta seguridad?",revisado,"",""
+8754,"¿Están todos bien?",revisado,"",""
+8755,"S-supongo que sí.",revisado,"",""
+8756,"Por lo menos sigo con vida.",revisado,"",""
+8757,"¿Y los demás?",revisado,"",""
+8758,"¿Están todos a salvo?",revisado,"",""
+8759,"¡Eh, Yattanya!",revisado,"",""
+8760,"¡Cuidado con esas manos!",revisado,"Interjección de advertencia por un contacto físico; la réplica «Touch you? Yuck» confirma la intención.",""
+8761,"¿Tocarte yo? ¡Qué asco!",revisado,"",""
+8762,"Ni siquiera quiero acercarme a ti.",revisado,"",""
+8763,"¡Toda la tripulación del Escargot está sana y salva! ¡Miau!",revisado,"",""
+8764,"¿Dónde está Alouette?",revisado,"",""
+8765,"¡Hermana Alouette!",revisado,"",""
+8766,"¡Ahí está! ¡Está tendida en el suelo!",revisado,"",""
+8767,"¡Alouette!",revisado,"",""
+8768,"¡Reacciona!",revisado,"«Snap out of it» significa volver en sí o reaccionar, no el infinitivo «animarse».",""
+8769,"Alouette… Aún no ha llegado tu hora.",revisado,"",""
+8770,"Todavía queda trabajo…",requiere_investigacion,"Original truncado en «There is still work». Podría formar parte de una voz profética; no se reconstruye su complemento sin cotejar los bytes.",""
+8771,"¡Menos mal! ¿Estás bien, hermana Alouette?",revisado,"",""
+8772,"¡No vuelvas a darnos un susto así! ¡Creía que habías estirado la pata!",revisado,"«Kick the bucket» se adapta como «estirar la pata», conservando la expresión coloquial sin literalidad.",""
+8773,"Lo que acabas de hacer ha sido un milagro, ¿verdad?",revisado,"",""
+8774,"Tiene que haberlo sido. De lo contrario, estaríamos muertos.",revisado,"",""
+8775,"Sobre todo después de semejante caída.",revisado,"",""
+8776,"No quiero parecer un desagradecido, pero te estás exigiendo demasiado.",revisado,"Se mantiene el reproche por abusar de sus poderes; no se presupone el género de Croix en la frase.",""
+8777,"Croix tiene razón. ¡Corres demasiados riesgos!",revisado,"",""
+8778,"Culotte… Siento haberte preocupado.",revisado,"",""
+8779,"Había oído hablar de los milagros de la hermana Alouette, pero no imaginaba que…",revisado,"",""
+8780,"Un milagro es algo extraordinario.",revisado,"",""
+8781,"¡Claro que sí! Una persona corriente nunca podría hacer algo…",requiere_investigacion,"El texto inglés se corta tras «could never do something»; no se añade «así», porque podría faltar información específica.",""
+8782,"No hables como si hubieras tenido algo que ver con salvarnos.",revisado,"",""
+8783,"Bueno, al menos estamos todos a salvo.",revisado,"",""
+8784,"Señorita Alouette, como capitán del Escargot, le doy las gracias.",revisado,"Homard es varón y capitán del Escargot; se corrige «capitana» del borrador.",""
+8785,"Le estaré eternamente… —No ha sido nada.",requiere_investigacion,"En un mismo grupo se han fusionado un ofrecimiento de Homard («You have my undying…») y la respuesta de Alouette («It was nothing»); falta objeto y separación de unidades. Propuesta provisional con pausa y raya.",""
+8786,"Yo solo…",revisado,"",""
+8787,"¡Denle las gracias a la señorita Alouette!",revisado,"",""
+8788,"¡Gracias, señorita Alouette!",revisado,"",""
+8789,"Bueno, ¿y ahora qué hacemos?",revisado,"",""
+8790,"La cueva que conduce a Fátima debería estar en alguna parte de esta jungla, ¿no?",revisado,"",""
+8791,"Sí. Eso decía el libro.",revisado,"",""
+8792,"Pero con la nave en este estado…",revisado,"Escargot es una aeronave, no «barco» en sentido marítimo.",""
+8793,"…a pie.",requiere_investigacion,"Registro aislado «walk.» procedente de una oración cortada; se intuye la necesidad de ir a pie por el estado del Escargot, pero no consta el sujeto ni el imperativo. Requiere cotejo.",""
 8794,,pendiente,,
 8795,,pendiente,,
 8796,,pendiente,,
