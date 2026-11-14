@@ -349,56 +349,56 @@
 8291,"¡Para empezar, no tengo a ningún hombre en la cabeza!",revisado,"",""
 8292,"¡Eh! ¡¿Qué están mirando?! ¡Les digo que no hay ningún hombre!",revisado,"",""
 8293,"Ay, ¿por qué tendré que ser tan endiabladamente guapo?",revisado,"",""
-8294,,pendiente,,
-8295,,pendiente,,
-8296,,pendiente,,
-8297,,pendiente,,
-8298,,pendiente,,
-8299,,pendiente,,
-8300,,pendiente,,
-8301,,pendiente,,
-8302,,pendiente,,
-8303,,pendiente,,
-8304,,pendiente,,
-8305,,pendiente,,
-8306,,pendiente,,
-8307,,pendiente,,
-8308,,pendiente,,
-8309,,pendiente,,
-8310,,pendiente,,
-8311,,pendiente,,
-8312,,pendiente,,
-8313,,pendiente,,
-8314,,pendiente,,
-8315,,pendiente,,
-8316,,pendiente,,
-8317,,pendiente,,
-8318,,pendiente,,
-8319,,pendiente,,
-8320,,pendiente,,
-8321,,pendiente,,
-8322,,pendiente,,
-8323,,pendiente,,
-8324,,pendiente,,
-8325,,pendiente,,
-8326,,pendiente,,
-8327,,pendiente,,
-8328,,pendiente,,
-8329,,pendiente,,
-8330,,pendiente,,
-8331,,pendiente,,
-8332,,pendiente,,
-8333,,pendiente,,
-8334,,pendiente,,
-8335,,pendiente,,
-8336,,pendiente,,
-8337,,pendiente,,
-8338,,pendiente,,
-8339,,pendiente,,
-8340,,pendiente,,
-8341,,pendiente,,
-8342,,pendiente,,
-8343,,pendiente,,
+8294,"Así que te has enamorado de mí, ¿eh? Bueno, no eres la primera…",revisado,"Prier es mujer; se corrige «el primero» a «la primera». Ironía del interlocutor.",""
+8295,"¡Tú no te metas!",revisado,"",""
+8296,"Mmm… Nunca habría imaginado que te gustara alguien como él…",revisado,"Se conserva el tono burlón y el referente masculino.",""
+8297,"¡Te he dicho que no es él!",revisado,"",""
+8298,"¡Bah, olvídenlo!",revisado,"",""
+8299,"Como reina del reino de Paprica, les encomiendo oficialmente explorar las tierras de Fátima.",revisado,"La reina se dirige a un grupo: plural; Paprica es el reino y Fátima el destino.",""
+8300,"¿Están de acuerdo? —Sí, majestad.",requiere_investigacion,"Dos hablantes fusionados en un mismo grupo inglés. Se separan con raya de diálogo de forma provisional; comprobar unidades/altavoces antes de aprobación.",""
+8301,"¿Por qué no pasan la noche en el castillo para prepararse para el viaje?",revisado,"",""
+8302,"No hay nada mejor que esto para olvidarse un poco de las preocupaciones.",revisado,"",""
+8303,"Nos marchamos mañana…",revisado,"",""
+8304,"Supongo que eso significa que nos despediremos de Paprica por un tiempo.",revisado,"",""
+8305,"Éclair… ¿Estará bien sin mí?",revisado,"",""
+8306,"¿Así que te marchas mañana?",revisado,"",""
+8307,"…Sí.",revisado,"",""
+8308,"Ten cuidado…",revisado,"",""
+8309,"Por favor, vuelve sana y salva…",requiere_investigacion,"El original termina en coma tras «Please come back safe,»; puede faltar un vocativo. Traducción provisional sin añadir palabras no confirmadas.",""
+8310,"Mi madre me lo ha contado todo. Gracias por ayudarme.",revisado,"",""
+8311,"Mi madre dice que puedo descansar una temporada.",revisado,"",""
+8312,"Sí, me alegro.",revisado,"",""
+8313,"Pero tarde o temprano tendré que empezar a prepararme para ser reina.",revisado,"",""
+8314,"Cuando llegue ese momento, estaré aislada del mundo exterior. No podré ver ni a ti ni a Culotte.",revisado,"Se corrige «aislado» (masculino) por «aislada»: habla Éclair.",""
+8315,"¡Pero lo que de verdad quiero es ir con ustedes!",revisado,"",""
+8316,"¡No quiero ser reina! ¡Quiero salir de este viejo castillo!",revisado,"",""
+8317,"¡Quiero estar contigo y con Culotte!",revisado,"",""
+8318,"Perdóname, hermana mayor.",revisado,"",""
+8319,"Seguro que te parezco una cría…",revisado,"",""
+8320,"Tengo que aceptar que voy a ser reina, ¿verdad?",revisado,"",""
+8321,"¡Tienes que ser más sincera contigo misma!",revisado,"La réplica va dirigida a Éclair: «sincera contigo misma», no masculino.",""
+8322,"¡No quieres ser reina! Quieres venir con nosotros, ¿verdad?",revisado,"",""
+8323,"¡Pues hazlo!",revisado,"",""
+8324,"P-pero ¿y mi madre? ¿Y mi pueblo?",revisado,"",""
+8325,"¡Nunca serás una buena reina si te obligan a serlo!",revisado,"",""
+8326,"Solo se vive una vez.",revisado,"",""
+8327,"¡Disfruta de la vida y no te preocupes tanto por lo que piensen los demás!",revisado,"",""
+8328,"¡No te amargues la vida solo para complacer a todo el mundo!",requiere_investigacion,"El original extraído empieza en «make yourself miserable…» y omite una probable negación. El contexto exige «no te amargues la vida», pero es imprescindible cotejar los bytes del juego antes de aprobar.",""
+8329,"Eres especial, hagas lo que hagas.",revisado,"",""
+8330,"Y, pase lo que pase, ¡siempre seré tu hermana mayor…!",revisado,"",""
+8331,"¡Adelante!",revisado,"",""
+8332,"No tenía ni idea de que Éclair se sintiera así.",revisado,"",""
+8333,"Majestad…",revisado,"Tratamiento de respeto frente a la reina: «Majestad», no «Su Majestad» en vocativo.",""
+8334,"Necesito hablar con usted.",revisado,"Tratamiento «usted» conservado al dirigirse a la reina.",""
+8335,"Supongo que intentar detenerte no serviría de nada.",revisado,"",""
+8336,"Está bien. Sal a conocer el mundo, hija mía.",revisado,"",""
+8337,"¿Cómo? ¡¿Qué?!",revisado,"",""
+8338,"¿Qué está pasando?",revisado,"",""
+8339,"El padre Salade me lo ha contado todo.",revisado,"",""
+8340,"…Éclair.",revisado,"",""
+8341,"¡Madre!",revisado,"",""
+8342,"Al final todo ha salido bien, ¿verdad, Éclair?",revisado,"",""
+8343,"¡Baterías a plena carga!",revisado,"Exclamación técnica sobre la aeronave Escargot: se conserva la referencia a las baterías.",""
 8344,,pendiente,,
 8345,,pendiente,,
 8346,,pendiente,,
