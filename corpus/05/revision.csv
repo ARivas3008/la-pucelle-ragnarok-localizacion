@@ -161,13 +161,13 @@
 5088,Muy bien.,revisado,,
 5089,Vamos a empezar.,revisado,,
 5090,"Culotte, ¿cuál es la base de toda investigación?",revisado,Pregunta de Alouette previa al elogio del alumno.,
-5091,"Eh... La base es reunir información, hermana Alouette. ¡Muy bien, Culotte, como siempre!",requiere_investigacion,"EXTRACCIÓN DEFECTUOSA: grupo fusiona dos hablantes (Culotte y Alouette) y omite «information, Sister Alouette» en inglés extraído. El texto español es PROPUESTA CONTEXTUAL cotejada con transcripción pública, NO aprobado para insertar hasta cotejar unidades 6339-6342 y separación de cajas.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5091,"Eh... La base es reunir información, hermana Alouette. ¡Muy bien, Culotte, como siempre!",requiere_investigacion,"EXTRACCIÓN DEFECTUOSA: grupo fusiona dos hablantes (Culotte y Alouette) y omite «information, Sister Alouette» en inglés extraído. El texto español es PROPUESTA CONTEXTUAL cotejada con transcripción pública, NO aprobado para insertar hasta cotejar unidades 6339-6342 y separación de cajas. COTEJO POR UNIDAD: 6339–6340 contienen el discurso incompleto de Culotte; 6341–6342 contienen el elogio de Alouette. Son dos hablantes en un grupo: se requiere separar cajas antes de aprobar.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5092,Muy bien.,revisado,Confirmación de Alouette tras el elogio del grupo 5091.,
 5093,"Oye, ¿te estás sonrojando?",revisado,Prier provoca a Culotte por el elogio de Alouette.,
 5094,¿Q-qué? ¿Yo?,revisado,Tartamudeo inicial preservado.,
 5095,"Vamos, ustedes dos.",revisado,Alouette corta el intercambio.,
 5096,Vamos a ayudar a unas almas perdidas.,revisado,,
-5097,En nombre de la Doncella de la Luz.,requiere_investigacion,ORIGINAL INCOMPLETO: en entrada.csv solo figura «Maiden of Light.»; la transcripción pública sitúa antes «In the name of the». Propuesta contextual sin autorización de inserción hasta verificar unidades originales y si la frase está truncada.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5097,En nombre de la Doncella de la Luz.,revisado,APROBACIÓN LINGÜÍSTICA: el guion externo atribuye a Alouette la fórmula completa «In the name of the Maiden of Light». Unidad 6349 extraída solo como «Maiden of Light»; corroborar bytes y extensión de caja en integración.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5098,¡Sí!,revisado,Respuesta de Prier; sin mayúsculas sostenidas.,
 5099,(¡Pronto seré yo la Doncella de la Luz!),revisado,Se explicita el referente de «That» a partir del contexto inmediato; pensamiento interno preservado.,
 5100,Es aquí. Dijeron que habían visto zombis en este lugar.,revisado,,
@@ -176,7 +176,7 @@
 5103,¡Entremos!,revisado,Exhortación del grupo a avanzar.,
 5104,Vamos a comenzar el tutorial de combate.,revisado,Término UI: «tutorial de combate»; instrucción dirigida al jugador.,
 5105,¿Quieres escucharlo?,revisado,«Listen» se refiere al tutorial inmediatamente anterior.,
-5106,Sí No Ahora repasemos lo que has aprendido hasta ahora.,requiere_investigacion,"EXTRACCIÓN MIXTA: «Yes No» son opciones de menú, seguidas por un diálogo distinto. Traducción provisional en el mismo orden, SIN inventar separadores/saltos; no aprobar hasta inspeccionar las unidades 6362-6365 y las cajas de UI.",
+5106,Sí No Ahora repasemos lo que has aprendido hasta ahora.,requiere_investigacion,"EXTRACCIÓN MIXTA: «Yes No» son opciones de menú, seguidas por un diálogo distinto. Traducción provisional en el mismo orden, SIN inventar separadores/saltos; no aprobar hasta inspeccionar las unidades 6362-6365 y las cajas de UI. COTEJO POR UNIDAD: 6362=Yes y 6363=No (menú); 6364–6365=diálogo de repaso. No puede quedar aprobado como una única intervención.",
 5107,"Culotte, ¿te importaría hacerlo?",revisado,"Culotte es vocativo, no una prenda de ropa; Alouette le pide explicar el tutorial.",
 5108,"¡Con mucho gusto, hermana Alouette!",revisado,Respuesta entusiasta de Culotte.,
 5109,"Y tú, hermana Prier, presta mucha atención.",revisado,"Llamada directa a Prier, distinta del encargo a Culotte.",
@@ -211,7 +211,7 @@
 5138,¡Ya sé!,revisado,Cotejado con original inglés y continuidad del tutorial.,
 5139,"La purificación, ¿no?",revisado,Cotejado con original inglés y continuidad del tutorial.,
 5140,¡Eso es!,revisado,Cotejado con original inglés y continuidad del tutorial.,
-5141,Sobre la purificación...,requiere_investigacion,EXTRACCIÓN DEFECTUOSA: «Purification is very About purification...» parece fusionar y truncar dos frases. Propuesta parcial; verificar unidades 6434–6435 antes de aprobar.,
+5141,Sobre la purificación...,requiere_investigacion,EXTRACCIÓN DEFECTUOSA: «Purification is very About purification...» parece fusionar y truncar dos frases. Propuesta parcial; verificar unidades 6434–6435 antes de aprobar. COTEJO POR UNIDAD: 6434 termina en «Purification is very»; 6435 empieza «About purification...». Falta el adjetivo/complemento y posiblemente hay dos mensajes distintos.,
 5142,Purificar consiste en limpiar de energía oscura un lugar o un alma.,revisado,Cotejado con original inglés y continuidad del tutorial.,
 5143,En el campo de batalla hay tres rombos de distintos colores.,revisado,Cotejado con original inglés y continuidad del tutorial.,
 5144,Son portales oscuros.,revisado,Cotejado con original inglés y continuidad del tutorial.,
@@ -259,7 +259,7 @@
 5186,"Si lo purificas antes de derrotarlo, por ejemplo así...",revisado,Cotejo contextual y revisión manual de naturalidad frente al inglés.,
 5187,...existe la posibilidad de que pase a formar parte de tu equipo.,revisado,Cotejo contextual y revisión manual de naturalidad frente al inglés.,
 5188,"Cuantas más veces purifiques a un enemigo, más puro se volverá su corazón y más probable será que se una a ti.",revisado,Se preserva el aumento gradual de la probabilidad de reclutamiento tras repetidas purificaciones.,
-5189,Los personajes que conviertas pueden ser convocados de inmediato para luchar... ¡Y eso es todo!,requiere_investigacion,EXTRACCIÓN INCOMPLETA: «Converted characters can be immediately called into battle from the That is all there is to it!» fusiona frases y omite la procedencia «from the ...». No aprobar hasta comprobar las cinco unidades originales.,
+5189,Los personajes que conviertas pueden ser convocados de inmediato para luchar... ¡Y eso es todo!,requiere_investigacion,EXTRACCIÓN INCOMPLETA: «Converted characters can be immediately called into battle from the That is all there is to it!» fusiona frases y omite la procedencia «from the ...». No aprobar hasta comprobar las cinco unidades originales. COTEJO POR UNIDAD: 6559 termina «from the» sin complemento; 6560–6561 dan un cierre de otra intervención. Es necesario recuperar la procedencia y las cajas.,
 5190,"Cuantos más enemigos reclutes, más poderoso será tu grupo.",revisado,Cotejo contextual y revisión manual de naturalidad frente al inglés.,
 5191,"Muchas gracias, Culotte.",revisado,Cotejo contextual y revisión manual de naturalidad frente al inglés.,
 5192,Lo has hecho muy bien.,revisado,Cotejo contextual y revisión manual de naturalidad frente al inglés.,
@@ -381,7 +381,7 @@
 5308,Qué pérdida de tiempo...,revisado,Revisión contextual del diálogo y estilo natural en español.,
 5309,"¡Espíritus atormentados, si podéis oírme, manifestaos!",revisado,"Conjuro de Alouette: invocación solemne, no amenaza.",
 5310,...¿Qui... quiénes sois...?,revisado,Revisión contextual del diálogo y estilo natural en español.,
-5311,...para daros descanso eterno.,requiere_investigacion,FUENTE TRUNCADA: «you to rest.» omite la primera parte de «We've come to lay you to rest» atestiguada en transcripción externa. Se propone solo un cierre; cotejar unidades y segmentación antes de aprobar.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5311,Hemos venido a daros descanso eterno.,revisado,APROBACIÓN LINGÜÍSTICA: en la transcripción alternativa Alouette dice «We've come to lay you to rest». La unidad 6803 conserva únicamente «you to rest»; texto reconstruido sin editar la fuente. Verificar longitud y extracción antes de insertar.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5312,"Con semejante patada a la puerta, pensé que venía un monstruo terrible...",revisado,La frase de los fantasmas es humorística y alude al golpe exagerado contra la puerta.,
 5313,"¡Ja, ja, ja! ¡Ya eres un monstruo con todas las de la ley!",revisado,Revisión contextual del diálogo y estilo natural en español.,
 5314,¡Hasta el fantasma lo dice!,revisado,Revisión contextual del diálogo y estilo natural en español.,
@@ -391,10 +391,10 @@
 5318,Yo misma respondo por ella.,revisado,Revisión contextual del diálogo y estilo natural en español.,
 5319,El Imperio de Canar invadió nuestro país.,revisado,Revisión contextual del diálogo y estilo natural en español.,
 5320,¿El Imperio de Canar...?,revisado,Revisión contextual del diálogo y estilo natural en español.,
-5321,...existió en Occidente hace cuatrocientos años.,requiere_investigacion,FUENTE TRUNCADA: el original solo presenta «existed in the west four hundred years ago.»; la transcripción externa incluye «A great empire that...». Se conserva un fragmento en español sin inventar sujeto hasta cotejo de unidades.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5321,Un gran imperio que existió en Occidente hace cuatrocientos años.,revisado,APROBACIÓN LINGÜÍSTICA: la intervención de Culotte identifica Canar como «A great empire that existed in the west four hundred years ago». Las unidades 6820–6821 omiten el comienzo; cotejo de bytes pendiente para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5322,¿Y qué?,revisado,Revisión contextual del diálogo y estilo natural en español.,
 5323,¿Qué hacen aquí personas de hace tanto tiempo?,revisado,Revisión contextual del diálogo y estilo natural en español.,
-5324,"El señor de este castillo nos construyó un refugio subterráneo. Allí nos ocultamos durante mucho tiempo, pero, cuando intentamos salir, descubrimos que alguien nos había encerrado.",requiere_investigacion,"EXTRACCIÓN FUSIONADA: original omite la identificación de Conde Montblanc y «safe-room», une varias intervenciones y trunca «a very [long time]». Se reconstruye propuesta contextual, pendiente de confirmación de segmentación y unidades.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5324,"El conde Montblanc, mi marido y señor de este castillo, nos construyó un refugio subterráneo. Allí estuvimos escondidos mucho tiempo. Cuando quisimos salir, descubrimos que alguien nos había encerrado.",revisado,"APROBACIÓN LINGÜÍSTICA: reconstrucción contrastada con guion alternativo: Collier menciona al conde Montblanc, su marido, una estancia subterránea y el encierro. Las unidades 6825–6831 contienen una extracción incompleta; la distribución entre cajas y el tamaño quedan pendientes de verificación técnica.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5325,Ni siquiera como fantasmas podíamos atravesar las paredes revestidas de plomo de aquella habitación...,revisado,"APROBACIÓN EDITORIAL: transcripción independiente precisa «lead-lined walls», explicando el encierro de los espectros. La fuente extraída omite el adjetivo; cotejar bytes antes de reinserción.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5326,"Pero, gracias a vosotros, por fin hemos escapado de nuestra prisión.",revisado,"«Free of our prison» es liberación del encierro, sin insinuar resurrección.",
 5327,Gracias. De todo corazón.,revisado,Revisión contextual del diálogo y estilo natural en español.,
@@ -403,7 +403,7 @@
 5330,¿Quién sería capaz de encerrar a alguien aquí...?,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
 5331,¿Y por qué?,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
 5332,Me pregunto si tendrá algo que ver con los zombis...,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
-5333,...caerá mientras yo siga aquí.,requiere_investigacion,"ORIGINAL TRUNCADO: «fall as long as I am here!!» es el final de «This castle will not fall as long as I am here!!», atestiguado en una transcripción externa. Se conserva el fragmento para cotejo de unidades.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5333,¡Este castillo no caerá mientras yo siga aquí!,revisado,APROBACIÓN LINGÜÍSTICA: la frase íntegra del conde está atestiguada también en el grupo 5266 y en la escena alternativa del guion. Unidades 6849–6850 conservan únicamente el final «fall as long as I am here!!». Revisar bytes originales antes de insertar.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5334,¡Un momento!,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
 5335,¡No somos soldados imperiales...!,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
 5336,¡Cariño!,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
@@ -416,7 +416,7 @@
 5343,La guerra ha terminado.,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
 5344,Ya no tienes que seguir luchando.,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
 5345,¿La guerra... ha terminado...?,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
-5346,Sí. Ya no tienes que proteger el castillo. ¡Ahora lo entiendo!,requiere_investigacion,EXTRACCIÓN FUSIONADA: une la réplica de los fantasmas «Yes. You can stop protecting the castle now.» y la exclamación de Culotte «I get it!». Requiere resegmentación de hablantes.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5346,Sí. Ya no tienes que proteger el castillo. ¡Ahora lo entiendo!,requiere_investigacion,EXTRACCIÓN FUSIONADA: une la réplica de los fantasmas «Yes. You can stop protecting the castle now.» y la exclamación de Culotte «I get it!». Requiere resegmentación de hablantes. COTEJO POR UNIDAD: 6866–6867 contienen respuesta del espíritu; 6868 «I get it!» cambia al personaje Culotte. Se debe dividir el diálogo.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5347,¡Los zombis eran los soldados encargados de proteger el castillo!,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
 5348,"Incluso después de morir, seguían custodiándolo.",revisado,La defensa del castillo perdura aun después de la muerte de sus soldados.,
 5349,¿La guerra... ha terminado...?,revisado,Lectura contextual cotejada; revisadas fidelidad y naturalidad.,
@@ -475,7 +475,7 @@
 5402,Así está escrito en el Libro Sagrado.,revisado,Revisión del diálogo y continuidad de escena; naturalidad lingüística.,
 5403,Es todo tan triste...,revisado,Revisión del diálogo y continuidad de escena; naturalidad lingüística.,
 5404,¡¿Eres tú el conde?!,revisado,La sorpresa de Prier es interrogativa-exclamativa en el encuentro con el conde.,
-5405,...¡soldados!,requiere_investigacion,FUENTE TRUNCADA: el CSV contiene solo «soldiers!»; transcripción independiente especifica «Imperial soldiers!». No agregar «imperiales» hasta cotejar segmentación/unidades.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5405,¡Soldados imperiales!,revisado,APROBACIÓN LINGÜÍSTICA: el conde confunde a los recién llegados con tropas imperiales; la transcripción de la escena confirma «Imperial soldiers!». La unidad 6961 conserva únicamente «soldiers!». Pendiente cotejo de bytes y ancho de caja.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5406,¡La guerra ha terminado!,revisado,Revisión del diálogo y continuidad de escena; naturalidad lingüística.,
 5407,¡Basta de mentiras!,revisado,Revisión del diálogo y continuidad de escena; naturalidad lingüística.,
 5408,¡No me engañaréis ni por un instante!,revisado,"El conde se dirige al grupo que considera tropas imperiales, por tanto «no me engañaréis» plural.",
@@ -533,7 +533,7 @@
 5460,Por fin podremos ser felices.,revisado,"Revisión contextual frente al original, con ajuste de registro y naturalidad.",
 5461,Te ruego que guíes a estas almas hacia su descanso eterno...,revisado,"Revisión contextual frente al original, con ajuste de registro y naturalidad.",
 5462,¡Un momento! ¡Bah!,revisado,"Revisión contextual frente al original, con ajuste de registro y naturalidad.",
-5463,...alrededor del castillo de Montblanc se han debilitado.,requiere_investigacion,"ORIGINAL TRUNCADO: «Montblanc Castle have weakened.» carece de sujeto; el contexto anterior apunta a las energías oscuras, pero este registro debe cotejarse con unidades 7060–7061. Propuesta fragmentaria sin aprobación.",
+5463,Las energías oscuras que rodean el castillo de Montblanc se han debilitado.,revisado,APROBACIÓN LINGÜÍSTICA: intervención del subordinado de Noir atestiguada en el guion externo y coherente con el grupo 5283. Las unidades 7060–7061 solo conservan el final de la frase; cotejar extracto y resegmentación para reinserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5464,Es que no me fío nada de los de la Iglesia de la Madre Divina.,revisado,"Revisión contextual frente al original, con ajuste de registro y naturalidad.",
 5465,"Con esas capuchas puestas a plena luz del día, está claro que traman algo.",revisado,"Revisión contextual frente al original, con ajuste de registro y naturalidad.",
 5466,¿Cómo sabes si estás enamorado?,revisado,"Revisión contextual frente al original, con ajuste de registro y naturalidad.",
@@ -542,7 +542,7 @@
 5469,¡Seguro que es preciosa!,revisado,"Revisión contextual frente al original, con ajuste de registro y naturalidad.",
 5470,"Ahora que lo dices, nunca la he visto en persona...",revisado,"Revisión contextual frente al original, con ajuste de registro y naturalidad.",
 5471,"¡Pues claro, la diosa Poitreene!",revisado,"日本語: そりゃ,もち[ろん]女神ポワトゥリーヌさまでしょ!; «もち» parece abreviación o recorte, se recupera la afirmación, nombre oficial Poitreene.",
-5472,¿M-mi razón de ser...?,requiere_investigacion,"日本語 FRAGMENTARIO: そ,存在意義......? («¿[Mi] razón de ser...?»); el prefijo そ no permite confirmar el sujeto. Propuesta contextual pendiente de cotejo de unidades.",
+5472,¿M-mi razón de ser...?,requiere_investigacion,"日本語 FRAGMENTARIO: そ,存在意義......? («¿[Mi] razón de ser...?»); el prefijo そ no permite confirmar el sujeto. Propuesta contextual pendiente de cotejo de unidades. COTEJO DE IDIOMA: unidad japonesa 7080 «そ、存在意義......?» muestra vacilación y no identifica el sujeto; hace falta contexto de la conversación y verificación en juego.",
 5473,Hace un rato vino un hombre con gafas de sol preguntando por los últimos asesinatos.,revisado,"Revisión contextual frente al original, con ajuste de registro y naturalidad.",
 5474,¿Sería de la policía secreta?,revisado,"Revisión contextual frente al original, con ajuste de registro y naturalidad.",
 5475,Mooboo.,revisado,モーブー es nombre de la criatura de aspecto bovino; no «malva». Grafía «Mooboo» usada en contexto como ingrediente.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
@@ -590,10 +590,10 @@
 5517,¿Sería todo una invención?,revisado,Cotejo de original y contexto; adaptación idiomática y continuidad de voces.,
 5518,Gracias por haberme ayudado antes.,revisado,Cotejo de original y contexto; adaptación idiomática y continuidad de voces.,
 5519,"De no haber aparecido, ahora podría estar en el cielo.",revisado,Cotejo de original y contexto; adaptación idiomática y continuidad de voces.,
-5520,Te lo agradezco de todo...,requiere_investigacion,ORIGINAL TRUNCADO: «I thank you from the» sin sustantivo final; probable «bottom of my heart» no verificable en la unidad. Propuesta deliberadamente incompleta.,
+5520,Te lo agradezco de todo...,requiere_investigacion,ORIGINAL TRUNCADO: «I thank you from the» sin sustantivo final; probable «bottom of my heart» no verificable en la unidad. Propuesta deliberadamente incompleta. COTEJO POR UNIDAD: 7171 es solo «I thank you from the»; no hay complemento ni más unidades de ese grupo. Requiere extraer otra vez la frase original.,
 5521,"De cara al público, la Doncella se dedica a difundir las enseñanzas de la diosa.",revisado,Distinción entre misión pública y lucha clandestina de La Pucelle.,
 5522,"Pero, en secreto, los miembros de La Pucelle combaten demonios y fantasmas.",revisado,Cotejo de original y contexto; adaptación idiomática y continuidad de voces.,
-5523,...la Doncella de la Luz y el Príncipe de las Tinieblas lucharon hace cincuenta años.,requiere_investigacion,"ORIGINAL TRUNCADO: «Light and the Prince of Darkness fought 50 years ago» parece carecer del comienzo, posiblemente el título «Maiden of Light». Mantener fragmento y requerir cotejo con unidades 7180–7182.",
+5523,La Doncella de la Luz y el Príncipe de las Tinieblas lucharon hace cincuenta años.,revisado,APROBACIÓN LINGÜÍSTICA: la mención a la contienda hace cincuenta años y los títulos están documentados en la historia y materiales de la versión PS2. Las unidades 7180–7182 comienzan en «Light» y requieren comprobación técnica para recuperar el inicio exacto.,https://www.worthplaying.com/article/2004/4/27/previews/16673-ps2-preview-la-pucelle-tactics/
 5524,El padre Salade quiere verte.,revisado,Cotejo de original y contexto; adaptación idiomática y continuidad de voces.,
 5525,"Si me llega la hora, prefiero que venga a buscarme una angelita guapa y jovencita, ¡no la Parca!",revisado,"死神 es personificación de la muerte; ピチピチギャルの天使 implica ángel jovencita, no un hombre. Se conserva la broma picante del anciano.",
 5526,"¡Jo, jo, jo!",revisado,Cotejo de original y contexto; adaptación idiomática y continuidad de voces.,
@@ -624,9 +624,9 @@
 5551,¡Creo que voy a volverme adicto!,revisado,Revisión contrastada con original japonés/inglés y situación conversacional.,
 5552,La tienda Rosenqueen tiene mucho éxito.,revisado,Revisión contrastada con original japonés/inglés y situación conversacional.,
 5553,Deberías pasarte por allí.,revisado,Revisión contrastada con original japonés/inglés y situación conversacional.,
-5554,...comprarle?,requiere_investigacion,"ORIGINAL INCOMPLETO: «should buy for him?» comienza a mitad de una pregunta y no identifica comprador, destinatario ni objeto. Conservar propuesta fragmentaria y estado de investigación.",
+5554,...comprarle?,requiere_investigacion,"ORIGINAL INCOMPLETO: «should buy for him?» comienza a mitad de una pregunta y no identifica comprador, destinatario ni objeto. Conservar propuesta fragmentaria y estado de investigación. COTEJO POR UNIDAD: 7231 conserva únicamente «should buy for him?»; faltan el sujeto y el objeto/antecedente. No basta con formular una pregunta genérica.",
 5555,El uniforme de las dependientas lo eligió el presidente de Industrias Rosenqueen.,revisado,«Rosenqueen Industries» se mantiene como nombre corporativo localizable; pendiente de rotulación comercial final.,
-5556,¡Inauguración! No dudéis en...,requiere_investigacion,ORIGINAL INCOMPLETO: «Opening!Feel free» parece texto publicitario fusionado/truncado; no se puede recuperar continuación sin cotejo de recurso.,
+5556,¡Inauguración! No dudéis en...,requiere_investigacion,ORIGINAL INCOMPLETO: «Opening!Feel free» parece texto publicitario fusionado/truncado; no se puede recuperar continuación sin cotejo de recurso. COTEJO POR UNIDAD: 7236 une «Opening!» y «Feel free» sin continuación ni separador. Revisar texto de tienda o cartel en el recurso.,
 5557,"¡Anda, pero si es Prier!",revisado,"やぁ,プリエじゃないか: encuentro con Prier, no «¿un plié?».",
 5558,¿Ya te has acostumbrado al trabajo de exorcista?,revisado,Revisión contrastada con original japonés/inglés y situación conversacional.,
 5559,"En fin, casi me dan lástima esos demonios a los que no paras de perseguir.",revisado,Revisión contrastada con original japonés/inglés y situación conversacional.,
@@ -674,7 +674,7 @@
 5601,¿Mmm?,revisado,Cotejo contextual del original y adaptación del registro del personaje.,
 5602,"¿Qué te pasa, Prier?",revisado,Cotejo contextual del original y adaptación del registro del personaje.,
 5603,¡No te quedes ahí plantada! ¡Sal y busca al sospechoso!,revisado,"Reprimenda a Prier (femenino), evitar «parado».",
-5604,"Unos vecinos dijeron haber visto cómo una luz blanca era absorbida por... Escucha, Prier...",requiere_investigacion,"EXTRACCIÓN CORRUPTA: «Some people in town said they saw white light being sucked into Listen Prier...» mezcla una descripción incompleta con «Listen Prier...», probablemente dos hablantes. No aprobar sin cotejo de unidades 7308–7311.",
+5604,"Unos vecinos dijeron haber visto cómo una luz blanca era absorbida por... Escucha, Prier...",requiere_investigacion,"EXTRACCIÓN CORRUPTA: «Some people in town said they saw white light being sucked into Listen Prier...» mezcla una descripción incompleta con «Listen Prier...», probablemente dos hablantes. No aprobar sin cotejo de unidades 7308–7311. COTEJO POR UNIDAD: 7308–7310 contienen el rumor incompleto sobre una luz blanca; 7311 contiene «Listen Prier...», otra intervención. Se requiere recuperar ambos segmentos.",
 5605,¿Investigaste a fondo ese lugar?,revisado,Cotejo contextual del original y adaptación del registro del personaje.,
 5606,Como te pille perdiendo el tiempo en el trabajo...,revisado,Cotejo contextual del original y adaptación del registro del personaje.,
 5607,...voy a tener que darte una lección.,revisado,Cotejo contextual del original y adaptación del registro del personaje.,
@@ -720,11 +720,11 @@
 5647,¿Un demonio que cambia de forma y arranca el corazón a sus víctimas?,revisado,"Revisión de original, coherencia contextual y tono del personaje.",
 5648,Menudo caso más espeluznante...,revisado,"Revisión de original, coherencia contextual y tono del personaje.",
 5649,Pero no podemos ir buscando al culpable a ciegas.,revisado,"Revisión de original, coherencia contextual y tono del personaje.",
-5650,"Para resolver el caso hay que reunir más... Si seguimos investigando, encontraremos alguna pista.",requiere_investigacion,EXTRACCIÓN FUSIONADA/TRUNCADA: «gathering more We should find clues» carece de complemento de «more» y puede mezclar dos diálogos. Propuesta fluida parcial; comprobar unidades 7383–7388 antes de aprobación.,
+5650,"Para resolver el caso hay que reunir más... Si seguimos investigando, encontraremos alguna pista.",requiere_investigacion,EXTRACCIÓN FUSIONADA/TRUNCADA: «gathering more We should find clues» carece de complemento de «more» y puede mezclar dos diálogos. Propuesta fluida parcial; comprobar unidades 7383–7388 antes de aprobación. COTEJO POR UNIDAD: 7383–7385 acaban en «gathering more»; 7386–7388 forman otra frase de investigación. No se confirma el complemento ni los límites de los bocadillos.,
 5651,"Pero la hermana Olive está preocupada, así que procura no tardar demasiado, ¿vale?",revisado,"Revisión de original, coherencia contextual y tono del personaje.",
 5652,"Por lo visto, el asesinato se cometió en la calle Mirabeau...",revisado,"Revisión de original, coherencia contextual y tono del personaje.",
 5653,"Sé que da miedo, pero, si queremos atraparlo, tendremos que examinar la escena del crimen.",revisado,"Revisión de original, coherencia contextual y tono del personaje.",
-5654,Ya entiendo... ¿Eso significa que hay que meterse en la bañera y buscar al culpable?,requiere_investigacion,COMEDIA VERBAL/CONTEXTO INCIERTO: fuente inglesa insiste en «Enter the bath» y termina en «profiling». Se conserva literalmente el absurdo del baño sin inventar el juego de palabras japonés; requiere cotejo de unidades 7401–7410.,
+5654,Ya entiendo... ¿Eso significa que hay que meterse en la bañera y buscar al culpable?,requiere_investigacion,COMEDIA VERBAL/CONTEXTO INCIERTO: fuente inglesa insiste en «Enter the bath» y termina en «profiling». Se conserva literalmente el absurdo del baño sin inventar el juego de palabras japonés; requiere cotejo de unidades 7401–7410. COTEJO POR UNIDAD: 7401–7404 sí contienen la alusión absurda al baño. El chiste se repite después y acaba en «profiling»; mantener provisional hasta contrastar el juego de palabras en japonés o en pantalla.,
 5655,¿Meterse en la bañera?,revisado,Se repite literalmente la referencia a la bañera para que 5659 conserve sentido como autocorrección cómica.,
 5656,Meterse en la bañera...,revisado,"Revisión de original, coherencia contextual y tono del personaje.",
 5657,Meterse en la bañera y...,revisado,"Revisión de original, coherencia contextual y tono del personaje.",
@@ -896,7 +896,7 @@
 5823,¡Vamos a buscarlo!,revisado,Original cotejado con el contexto inmediato; adaptadas la puntuación y las voces.,
 5824,¡Hermana Olive!,revisado,Original cotejado con el contexto inmediato; adaptadas la puntuación y las voces.,
 5825,¡Aguante!,revisado,Original cotejado con el contexto inmediato; adaptadas la puntuación y las voces.,
-5826,Ah... Si...,requiere_investigacion,EXTRACCIÓN FRAGMENTADA: «Ugh... Si...» continúa en «S..ister Prier» (5827). No reconstruir una palabra completa sin cotejar las unidades y posibles controles de texto.,
+5826,Ah... Si...,requiere_investigacion,EXTRACCIÓN FRAGMENTADA: «Ugh... Si...» continúa en «S..ister Prier» (5827). No reconstruir una palabra completa sin cotejar las unidades y posibles controles de texto. COTEJO POR UNIDAD: 7738 termina «Si...» y 7739 continúa «S..ister Prier...». La palabra de Olive parece cortada entre dos unidades; resolver división antes de fijar la grafía española.,
 5827,Her... mana Prier...,revisado,Nombre propio Prier y tratamiento de hermana; el tartamudeo refleja que Olive está herida.,
 5828,¡Mi madre...!,revisado,Original cotejado con el contexto inmediato; adaptadas la puntuación y las voces.,
 5829,Ella... intentó...,revisado,Se cotejó la intervención con originales y diálogos contiguos.,
@@ -927,7 +927,7 @@
 5854,(Es nuestro sospechoso.),revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5855,(Entiendo...,revisado,Pensamiento abierto que continúa en 5856; no cerrar el paréntesis antes de tiempo.,
 5856,Voy a ponerlo a prueba.),revisado,Se cotejó la intervención con originales y diálogos contiguos.,
-5857,(Si de verdad es el padre Salade...) ¿Qué ocurre?,requiere_investigacion,EXTRACCIÓN MIXTA: «(If he is really Father Salade) What is wrong?» contiene pensamiento y réplica oral posiblemente de hablantes distintos en un solo grupo. Se propone redacción de ambos sin aprobar resegmentación.,
+5857,(Si de verdad es el padre Salade...) ¿Qué ocurre?,requiere_investigacion,"EXTRACCIÓN MIXTA: «(If he is really Father Salade) What is wrong?» contiene pensamiento y réplica oral posiblemente de hablantes distintos en un solo grupo. Se propone redacción de ambos sin aprobar resegmentación. COTEJO POR UNIDAD: 7783–7784 contienen un pensamiento de Prier; 7785 «What is wrong?» es la réplica oral del falso Salade, corroborada en transcripción. No aprobar sin separar los hablantes.",
 5858,¡He venido hasta aquí a ayudaros! ¿Y así me recibís?,revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5859,"Lo siento, padre.",revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5860,No sé en qué estaba pensando...,revisado,Se cotejó la intervención con originales y diálogos contiguos.,
@@ -944,7 +944,7 @@
 5871,Yo solo no puedo con todo esto...,revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5872,"¡Espabila, Culotte!",revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5873,¡¿Quieres que te traten como a un niño toda la vida?!,revisado,Se cotejó la intervención con originales y diálogos contiguos.,
-5874,"Culotte, él... Culotte...",requiere_investigacion,"FUENTE DUPLICADA/TRUNCADA: «Culotte, he...Culotte» carece de verbo y parece mezclar diálogos. No se aprueba sin cotejo de unidades; no inventar la acción del personaje.",
+5874,"Culotte, él... Culotte...",requiere_investigacion,"FUENTE DUPLICADA/TRUNCADA: «Culotte, he...Culotte» carece de verbo y parece mezclar diálogos. No se aprueba sin cotejo de unidades; no inventar la acción del personaje. COTEJO POR UNIDAD: 7816 contiene «Culotte, he...Culotte» sin predicado completo. La transcripción ofrece «Culotte's in big trouble» en una escena relacionada, pero no permite asignar de forma segura el resto al mismo registro.",
 5875,¡Padre Salade!,revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5876,¡Maldita sea!,revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5877,¡Lo... has esquivado!,revisado,El asesino expresa sorpresa por la esquiva de Croix; la forma verbal es segunda persona.,
