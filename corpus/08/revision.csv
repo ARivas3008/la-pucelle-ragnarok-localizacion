@@ -549,56 +549,56 @@
 8491,"Aunque se acabara el mundo, yo seguiría aquí lavando calzoncillos…",revisado,"",""
 8492,"Cuando llegues al mapa del mundo, abre el menú con el botón △ y guarda la partida.",revisado,"Se mantiene el símbolo de botón △, idéntico al original, y el término de interfaz «guardar».",""
 8493,"Cuando te arrepientas, ya será demasiado tarde.",revisado,"",""
-8494,,pendiente,,
-8495,,pendiente,,
-8496,,pendiente,,
-8497,,pendiente,,
-8498,,pendiente,,
-8499,,pendiente,,
-8500,,pendiente,,
-8501,,pendiente,,
-8502,,pendiente,,
-8503,,pendiente,,
-8504,,pendiente,,
-8505,,pendiente,,
-8506,,pendiente,,
-8507,,pendiente,,
-8508,,pendiente,,
-8509,,pendiente,,
-8510,,pendiente,,
-8511,,pendiente,,
-8512,,pendiente,,
-8513,,pendiente,,
-8514,,pendiente,,
-8515,,pendiente,,
-8516,,pendiente,,
-8517,,pendiente,,
-8518,,pendiente,,
-8519,,pendiente,,
-8520,,pendiente,,
-8521,,pendiente,,
-8522,,pendiente,,
-8523,,pendiente,,
-8524,,pendiente,,
-8525,,pendiente,,
-8526,,pendiente,,
-8527,,pendiente,,
-8528,,pendiente,,
-8529,,pendiente,,
-8530,,pendiente,,
-8531,,pendiente,,
-8532,,pendiente,,
-8533,,pendiente,,
-8534,,pendiente,,
-8535,,pendiente,,
-8536,,pendiente,,
-8537,,pendiente,,
-8538,,pendiente,,
-8539,,pendiente,,
-8540,,pendiente,,
-8541,,pendiente,,
-8542,,pendiente,,
-8543,,pendiente,,
+8494,"Lo importante es guardar la partida con frecuencia.",revisado,"セーブ significa guardar partida; «ahorrar» era un falso sentido por polisemia inglesa.",""
+8495,"Por cierto, también puedes guardar desde la «pantalla de selección de mapas» abriendo el menú con el botón △.",revisado,"Conservar exactamente el botón △ del original y el término de interfaz «guardar».",""
+8496,"Dicen que un niño vio un zombi en el «Estómago del Diablo». ¿Será verdad?",revisado,"",""
+8497,"¿El Estómago del Diablo…?",revisado,"",""
+8498,"Es el nombre de unas antiguas alcantarillas que hay a las afueras de la ciudad.",revisado,"",""
+8499,"¿No te acuerdas?",revisado,"",""
+8500,"¡Si antes íbamos allí a explorar a menudo!",revisado,"",""
+8501,"¡Ah! ¿Te refieres a ese sitio?",revisado,"",""
+8502,"Vaya, así que lo llaman el Estómago del Diablo…",revisado,"",""
+8503,"¿Qué tal les va a los dos?",revisado,"",""
+8504,"¿Ya se han acostumbrado al trabajo de La Pucelle?",revisado,"ラ・ピュセル designa a la organización; la pregunta se dirige a dos personas, no solo a una.",""
+8505,"¡Está chupado!",revisado,"",""
+8506,"¡Uf! Hay tantas cosas que aprender, hermana Olive…",revisado,"",""
+8507,"Je, je.",revisado,"",""
+8508,"Al principio nos pasa a todos.",revisado,"",""
+8509,"Espero que pronto sean miembros de La Pucelle hechos y derechos.",revisado,"一人前のラ・ピュセル: condición de miembro competente de la orden; no supone que ambas personas sean mujeres.",""
+8510,"Es decir, el padre Salade la fundó hace 35 años.",revisado,"",""
+8511,"Que en solo 35 años se haya levantado una catedral tan espléndida se debe al apoyo de la familia real.",revisado,"",""
+8512,"Dicen que el padre Salade tuvo que esforzarse durante mucho tiempo para ganarse la confianza de la familia real.",revisado,"",""
+8513,"Según las Escrituras, hace 50 años la Doncella de la Luz luchó contra el Príncipe Oscuro.",revisado,"光の聖女: «Doncella de la Luz», no «Santo de la Luz» masculino.",""
+8514,"Pero no dicen cómo terminó la batalla.",revisado,"",""
+8515,"Me pregunto por qué…",revisado,"",""
+8516,"¡Bienvenidos a «Yamasemi», el restaurante de udon!",revisado,"",""
+8517,"Pronto es el cumpleaños de mi novio.",revisado,"",""
+8518,"Hermana, ¿qué regalo crees que le gustaría?",revisado,"",""
+8519,"No pierdas el tiempo preguntándole a ella.",revisado,"",""
+8520,"¡Si ni siquiera tiene novio!",revisado,"",""
+8521,"¡Culoooooootte!",revisado,"キュロット es el nombre propio Culotte, no «pantalones».",""
+8522,"¡Hola!",revisado,"",""
+8523,"Soy Ellie.",revisado,"",""
+8524,"¡Soy la encargada de esta tienda, gya!",revisado,"El sufijo vocal ギャー es una muletilla del comerciante; se mantiene como «gya», no se omite.",""
+8525,"¿Gya?",revisado,"",""
+8526,"¡Uy! Se me ha escapado la muletilla.",revisado,"",""
+8527,"No le den importancia.",revisado,"",""
+8528,"¡Hoy celebramos el aniversario de apertura!",revisado,"",""
+8529,"¡Hagan muchas compras, gya!",revisado,"Se conserva la muletilla ギャー, significativa para el personaje.",""
+8530,"¡Bienvenidos a la Compañía Rosenqueen!",revisado,"",""
+8531,"¡Te di una prica, así que investiga bien, hermana Prier!",revisado,"1プリカ es «una prica» (moneda del universo), no una «tarjeta prepago».",""
+8532,"¡Solo de pensarlo se me acelera el pulso de emoción!",revisado,"",""
+8533,"¡El destino de esta nave depende de ustedes!",revisado,"Se habla de una aeronave, no de un barco de navegación marítima.",""
+8534,"¡Cuento con ustedes!",revisado,"",""
+8535,"¡Todavía no me fío del todo de ustedes, que lo sepan!",revisado,"",""
+8536,"¡Ahora salgan y encárguense de esos demonios!",revisado,"",""
+8537,"Fue hace cinco años…",revisado,"",""
+8538,"Yo era un gran capitán pirata, con cien gatos bajo mis órdenes.",revisado,"",""
+8539,"Nos pasábamos los días atacando ciudades portuarias y robando tesoros…",revisado,"",""
+8540,"Pero un día, mientras atacábamos cierta ciudad…",revisado,"",""
+8541,"…apareció él.",revisado,"",""
+8542,"¡Pilotaba una nave que volaba por los cielos!",revisado,"",""
+8543,"¡Y, antes de que nos diéramos cuenta, había derrotado a toda mi tripulación!",revisado,"",""
 8544,,pendiente,,
 8545,,pendiente,,
 8546,,pendiente,,
