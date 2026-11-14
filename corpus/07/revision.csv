@@ -145,7 +145,7 @@
 7111,"¡Y capitán de la nave voladora Escargot, a tu servicio!",revisado,,
 7112,"¡Y nosotros somos la tripulación del Escargot, la Banda Chocolat! ¡Miau!",revisado,"Denominación establecida «Banda Chocolat», no «Banda del Chocolate».",
 7113,Ya… veo.,revisado,,
-7114,"Soy Prier, miembro de La Pucelle, de la Iglesia de la Santa Doncella.",requiere_investigacion,La extracción omite «from the Church of» y confunde organización con título. Sentido cotejado externamente; validar texto/segmentación originales antes de aprobar.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+7114,"Soy Prier. Formo parte de La Pucelle, de la Iglesia de la Santa Doncella.",revisado,La transcripción narrativa del capítulo 4 identifica la presentación de Prier y su pertenencia a la Iglesia; no se confunde La Pucelle con el nombre de la Iglesia.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7115,"¿Una hermana de la Iglesia, eh?",revisado,"«Sister» significa religiosa, no hermana familiar.",
 7116,Qué bonito. Como muestra de nuestra nueva amistad…,revisado,,
 7117,¡¿Jefe?!,revisado,,
@@ -195,7 +195,7 @@
 7161,¿Quién hizo este dibujo?,revisado,,
 7162,¿Este? Lo dibujó mi hijo Rocini.,revisado,Se mantiene relación familiar y género correctos.,
 7163,Le encantan los monstruos.,revisado,,
-7164,…los dibuja todos los días.,requiere_investigacion,"Original truncado «them every day.»; guía narrativa permite reconstruir que dibuja monstruos cada día, pero faltan palabras en el recurso.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+7164,Dibuja monstruos todos los días.,revisado,La enfermera dice en la transcripción del capítulo 4 que Rocini dibuja monstruos a diario; se recupera el complemento perdido sin suponer hechos nuevos.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7165,Siempre ha estado tan enfermo… Creo que los admira porque son muy fuertes.,revisado,,
 7166,¿Dónde está su hijo?,revisado,Alouette se dirige respetuosamente a la enfermera.,
 7167,…Lo están atendiendo ahora mismo…,revisado,«Being treated» se expresa de manera natural sin perder la continuidad clínica.,
@@ -205,7 +205,7 @@
 7171,¡Creo que ya lo entiendo!,revisado,,
 7172,Rocini tiene el poder de crear monstruos con la mente.,revisado,,
 7173,"Y, de algún modo, la enfermedad le ha hecho perder el control de ese poder.",revisado,,
-7174,"Ya veo… Entonces, ¿la bola de luz que vimos era la energía del niño, parte de su propio ser?",requiere_investigacion,"Original inglés defectuoso «boys being, his energy?»; interpretación de energía/ser del niño plausible, pero requiere cotejo del texto fuente japonés o segmentación de las unidades.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+7174,"Ya veo. ¿Entonces la bola de luz que vimos era la esencia del niño, su energía?",revisado,"La transcripción confirma «the boy's being, his energy». Se resuelve la sintaxis defectuosa sin alterar el contenido.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7175,"Entonces, esa criatura seguirá apareciendo hasta que el niño se recupere.",revisado,,
 7176,"Oye, ¿qué le pasa a tu hijo?",revisado,,
 7177,Padece la enfermedad del azufaifo.,revisado,"«Jujube Disease» se traduce por su referente vegetal; posible nombre propio ficticio, verificar denominación en otras apariciones.",
@@ -218,7 +218,7 @@
 7184,"¿El monte Champignon, eh?",revisado,,
 7185,"Ojalá pudiéramos ayudarlos, pero para llegar hasta arriba habría que poder volar.",revisado,,
 7186,Tal vez pueda echarles una mano.,revisado,,
-7187,Permítanme guiarlos hasta el monte Champignon. Será un placer.,requiere_investigacion,Original fusiona frases y omite el destino tras «guide to». Una guía de la versión inglesa confirma «Mt. Champignon»; cotejar unidades y personajes antes de aprobar.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+7187,Permítanme llevarlos hasta el monte Champignon. Será un placer.,revisado,La transcripción identifica al capitán Homard y el destino «Mt. Champignon» en una única intervención.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7188,No tienen por qué darme las gracias.,revisado,,
 7189,He oído toda la historia.,revisado,,
 7190,¡Quién iba a pensar que un niño pudiera crear semejante criatura!,revisado,,
@@ -320,7 +320,7 @@
 7286,¡Así se hace!,revisado,,
 7287,¿Ves? No eres ningún debilucho.,revisado,,
 7288,Te lo has bebido.,revisado,,
-7289,…seguir soñando con convertirte en un monstruo.,requiere_investigacion,Falta el inicio de «You don't have to dream about becoming a monster anymore!». Fragmento español incompleto expresamente; consultar fuente y resegmentar antes de aprobar.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+7289,¡Ya no tienes por qué soñar con convertirte en un monstruo!,revisado,"La transcripción de la enfermería confirma el comienzo de la exhortación de Prier, perdido en el extracto.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7290,¿Cómo sabías que quería ser un monstruo?,revisado,,
 7291,¿Qué? Yo… esto…,revisado,,
 7292,Lo que pasa es que…,revisado,Intervención evasiva con puntuación inglesa defectuosa; se reexpresa sin pregunta literal.,
@@ -502,7 +502,7 @@
 7468,¡Maldita sea!,revisado,,
 7469,¡Me he quedado dormida!,revisado,Prier habla en femenino: «me he quedado dormida».,
 7470,"Oye, ¿dónde está Culotte?",revisado,,
-7471,…¿qué están haciendo ahí?!,requiere_investigacion,Oración fragmentaria «are doing over there?!» sin sujeto ni inicio; comprobar segmentación física y atribución de hablante.,
+7471,¡¿Qué te crees que estás haciendo ahí?!,revisado,El guion narrativo confirma la pregunta de Prier tras abrir la puerta y golpear a Culotte. Intervención única.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7472,¡Esto no puede ser!,revisado,,
 7473,"Es el tercer día seguido que llegas tarde, Prier.",revisado,,
 7474,¡No es culpa mía!,revisado,,
@@ -567,14 +567,14 @@
 7533,"Hasta hace poco estaba completamente calvo, pero de repente le salió una buena mata de pelo.",revisado,,
 7534,"Con pelo es bastante guapo, así que pensé que no estaría mal salir con él.",revisado,,
 7535,Pero tampoco me importa mucho si hoy no puedo verlo.,revisado,,
-7536,…¿qué quieres decir? ¿Eliges a tus novios solo por el físico?,requiere_investigacion,"La primera pregunta comienza a mitad de palabra/frase («to mean?»), seguida de una acusación completa. Cotejar la segmentación para recuperar lo perdido.",
+7536,¡¿Qué se supone que significa eso?! ¿Eliges a tus novios solo por su aspecto?,revisado,"La transcripción del diálogo con Suzanne confirma la pregunta completa de Prier, recortada en entrada.csv.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7537,"Pues sí, más o menos.",revisado,,
 7538,¿Y qué tiene de malo?,revisado,,
 7539,"A ver, es mejor alguien guapo que alguien feo, ¿no?",revisado,,
 7540,¿O acaso a ti te gustan los feos?,revisado,,
 7541,¡Pero qué…!,revisado,,
 7542,¿Cuándo empezó a crecerle el pelo?,revisado,,
-7543,"Sabes, es muy… ¿Quizá hace cinco días?",requiere_investigacion,"Original «You know, pretty Maybe five days ago?» contiene una frase truncada o intervención fusionada; la referencia temporal es clara, pero el inicio no lo es.",
+7543,"Pues hace poco… ¿Cinco días, quizá?",revisado,"En la transcripción Suzanne dice que fue «pretty recently. Maybe five days ago». Se reconstruye el adverbio perdido, sin introducir otra voz.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7544,¿Hace cinco días…?,revisado,,
 7545,¿No dijo el padre Salade que esas cosas aparecieron en el bosque hace cinco días?,revisado,,
 7546,Aquí hay gato encerrado…,revisado,,
@@ -588,7 +588,7 @@
 7554,"¡Madre Divina, dame pelo!",revisado,,
 7555,¿Así que esto es lo que provoca todos los problemas…?,revisado,,
 7556,Eso parece.,revisado,,
-7557,…bromeando…,requiere_investigacion,Solo queda «kidding...» sin sujeto ni inicio. No deducir tono ni atribución.,
+7557,¡Tienes que estar de broma…!,revisado,"La transcripción de la escena del tónico atribuye a Prier «You've gotta be kidding», del que solo sobrevivió «kidding» en la extracción.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7558,¿Dices que te dio el tónico un hombre que afirmaba pertenecer a la Iglesia de la Madre Divina?,revisado,,
 7559,"Sí, así es.",revisado,,
 7560,¿Y qué pasa con eso?,revisado,,
@@ -614,7 +614,7 @@
 7580,Así es. ¿Cómo sabes mi nombre?,revisado,,
 7582,"…Entonces, ¿el tónico capilar de Barsom está creando esas criaturas?",revisado,,
 7583,Me temo que sí.,revisado,,
-7584,…sabido. A un calvo no le sale de repente una mata de pelo así como así.,requiere_investigacion,El original comienza en «known.» sin sujeto ni verbo inicial; traducir solo el tramo recuperable hasta cotejar fuente.,
+7584,Debí sospecharlo. A un calvo no le sale tanto pelo de la noche a la mañana.,revisado,La transcripción identifica una sola réplica de Suzanne: «I guess I should have known. A bald man doesn't suddenly start growing hair like that».,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7585,Pero esto se acabó.,revisado,,
 7586,Voy a romper con él.,revisado,,
 7587,¡Pero serás…!,revisado,,
@@ -641,7 +641,7 @@
 7608,Aquí tienes más tónico.,revisado,,
 7609,¡Estupendo! ¡El que me diste la última vez ya casi se me acaba!,revisado,,
 7610,¡Te lo agradezco muchísimo!,revisado,Barsom habla agradecido en masculino. «I am grateful» no tiene género en inglés.,
-7611,…cómo agradecértelo!,requiere_investigacion,"Original incompleto «how to thank you!!»; falta negación o verbo inicial, que podrían alterar el sentido.",
+7611,¡No sé cómo agradecértelo!,revisado,"La transcripción confirma el comienzo «I don't know», omitido en la extracción; lo pronuncia Barsom al recibir el tónico.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7612,No hace falta que me des las gracias.,revisado,,
 7613,La Madre siempre ayuda a los necesitados.,revisado,«Mother» en el discurso religioso alude a la Madre Divina.,
 7614,¡Menuda patraña!,revisado,,
@@ -665,10 +665,10 @@
 7632,¡Esa es la voz de Suzanne!,revisado,,
 7633,"¡Oh, Barsom!",revisado,,
 7634,¡¿Qué miras?! ¡¿Crees que puedes vencerme?!,revisado,,
-7635,…muerto…,requiere_investigacion,Exclamación fragmentaria «Killed...» en escena de derrota. Puede equivaler a «asesinado» o «derrotado» según contexto; dejar para verificación.,
+7635,Me han matado…,revisado,"La transcripción del demonio herido confirma «Killed... by human filth», repartido entre los grupos 7635 y 7636; se conserva el corte.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7636,…¡a manos de escoria humana…!,revisado,,
 7637,¡Pero yo reiré el último!,revisado,,
-7638,"¡Ja, ja, ja! ¡Haré arder todo en un radio de cinco millas con las llamas del mismísimo infierno…! ¡Me los llevaré a todos conmigo!",requiere_investigacion,Intervenciones fusionadas y primer enunciado truncado «within five miles of». No se sabe el punto de referencia y no hay separación segura de hablantes.,
+7638,"¡Ja, ja, ja! ¡Haré arder todo en cinco millas a la redonda con las llamas del infierno! ¡Me los llevaré a todos conmigo!",revisado,La transcripción confirma que ambas exclamaciones corresponden al demonio derrotado y recupera el deíctico «here» perdido.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7639,¡Maestro Noir!,revisado,,
 7640,¡P-pero por qué…?!,revisado,,
 7641,¡Estoy haciendo esto por tiiiii!,revisado,,
@@ -731,7 +731,7 @@
 7698,(Y… también es guapo…),revisado,,
 7699,(Pero ¿eso es amor?),revisado,,
 7700,(No tengo ni idea.),revisado,,
-7701,"¿Qué te ocurre,…",requiere_investigacion,"«What is the matter,» termina en coma sin nombre o vocativo; no completar apelación sin cotejar unidades, aunque la réplica de Prier permita inferir el destinatario.",
+7701,¿Qué te pasa…?,revisado,"El significado recuperable de «What is the matter,» es una pregunta completa; se omite el vocativo perdido, sin atribuir identidad.",
 7702,¡N-nada!,revisado,,
 7703,¡Nada de nada!,revisado,,
 7704,¿Y a esta qué le pasa?,revisado,,
@@ -794,7 +794,7 @@
 7761,Supongo que es natural fijarse en el aspecto de las personas.,revisado,,
 7762,Entiendo que no quieras a alguien como yo.,revisado,,
 7763,"Pero quiero que sepas que te amo por tu belleza interior, no por tu aspecto.",revisado,,
-7764,"Barsom, siempre he juzgado a los hombres por su… Me cuesta entender que alguien pueda considerarte atractivo.",requiere_investigacion,El original junta una frase cortada («I have always judged men by their») con una continuación aparentemente de Suzanne; falta una palabra y posible corte técnico. Recuperar «appearance» solo tras cotejar fuente.,
+7764,"Barsom, siempre he juzgado a los hombres por su aspecto. Me cuesta entender cómo alguien podría considerarte atractivo.",revisado,La transcripción del diálogo de Suzanne verifica el sustantivo perdido «appearance» y que ambas frases pertenecen a la misma intervención.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7765,¡¿Todavía no lo entiendes?!,revisado,,
 7766,¡No he terminado!,revisado,,
 7767,Por eso quiero que me enseñes. Enséñame cómo es un hombre verdaderamente atractivo.,revisado,,
@@ -808,7 +808,7 @@
 7775,¿Tienes algún problema?,revisado,,
 7776,¡No! ¡Ya no aguanto más!,revisado,,
 7777,…dan calor. Barsom es…,requiere_investigacion,"El original solo conserva «are warm. Barsom is»; son dos fragmentos sin sujeto ni predicado completos, posiblemente variante de la escena de Suzanne. No completar por conjetura.",
-7778,…salir con alguien guapo.,requiere_investigacion,Fragmento «go out with somebody handsome.» sin sujeto ni contexto inmediato suficiente. Revisar unidades y escena alternativa.,
+7778,…pero yo seguiría prefiriendo salir con alguien guapo.,revisado,"La transcripción de Suzanne confirma «But I'd still rather go out with somebody handsome», de la que el archivo conserva solo el final.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7779,Dame pelo…,revisado,,
 7780,E-esa voz…,revisado,,
 7781,¿Será posible que…?,revisado,,
@@ -873,7 +873,7 @@
 7840,Elegir bien los objetos también forma parte de la estrategia.,revisado,,
 7841,Parece que el Caballero Oscuro no tiene nada que ver con la Iglesia… ¡Ni siquiera ellos pueden meterse con la familia real!,requiere_investigacion,Dos enunciados unidos sin transición («...Church Even they...») y posible límite de hablantes perdido. Conservar propuesta editorial pero comprobar la segmentación física.,
 7842,…Lo siento. Esta vez no tengo información útil para ti.,revisado,,
-7843,Lo único que puedo decir es que tener muchos amigos viene bien para…,requiere_investigacion,«Having a lot of friends is a good» carece de sustantivo final; no completar el consejo sin cotejo.,
+7843,Lo único que puedo decirte es que siempre viene bien tener muchos amigos.,revisado,«Having a lot of friends is a good» expresa una valoración positiva inequívoca; se evita inventar el sustantivo truncado y se redacta una oración equivalente.,
 7844,"¿Estás usando tu habilidad de purificación? Si la aprovechas, podrás luchar incluso con un nivel bajo.",revisado,,
 7845,¿Has averiguado algo sobre Fátima?,revisado,,
 7846,Ah…,revisado,Traducción directa del japonés ああ (exclamación de aflicción).,
@@ -910,7 +910,7 @@
 7878,"Sí… Gracias, Prier.",revisado,,
 7879,"¿Vas a entrar en su corazón, Alouette?",revisado,,
 7880,Es una temeridad… ¿De verdad saldrá bien?,revisado,,
-7881,"…purificar a Éclair, también por el bien de Alouette.",requiere_investigacion,"El original inicia en minúscula «purify Eclair for the sake of Alouette, too!» y podría haber perdido un verbo/modal de inicio o dividirse entre voces. No cerrar sin cotejar la unidad.",
+7881,¡También tenemos que purificar a Éclair por el bien de Alouette!,revisado,Enunciado de propósito claramente recuperable; se formula como exhortación sin atribuirlo a un personaje no identificado.,
 7882,¡Sí!,revisado,,
 7883,¿Una segunda personalidad que surge a medida que crece la oscuridad en su corazón?,revisado,«Split personality» se expresa como segunda personalidad para evitar diagnóstico médico no confirmado.,
 7884,"Vaya, debe de ser duro ser princesa…",revisado,,
@@ -938,7 +938,7 @@
 7906,Deberíamos haberle sacado la información a golpes desde el principio…,revisado,,
 7907,"Ja, ja… Es broma.",revisado,,
 7908,Por un momento parecía que lo decías en serio…,revisado,,
-7909,…¡deprisa al monte Tarte!,requiere_investigacion,El original empieza en minúscula «hurry to Mt. Tarte!»; puede faltar un verbo o sujeto inicial. Solo se recupera la urgencia del desplazamiento.,
+7909,"¡Deprisa, al monte Tarte!",revisado,«Hurry to Mt. Tarte!» contiene orden y destino completos; no se añaden referentes desconocidos.,
 7910,"Cuando consigamos una gema, sabremos más sobre Fátima. Menos mal.",revisado,,
 7911,…saber más sobre Fátima que tú sobre ti misma…,requiere_investigacion,"Fragmento «To know more about Fatima than you know yourself» sin sujeto ni inicio; puede estar dirigido a Alouette, pero no consta.",
 7912,Qué situación más absurda…,revisado,,
@@ -961,7 +961,7 @@
 7929,Me pregunto si de verdad piensa venir con nosotros…,revisado,,
 7930,De vez en cuando hay que seguirle el juego a las bromas de Culotte.,revisado,«Retort to jokes» alude a replicar o seguir el juego al humor de Culotte.,
 7931,¿Eh?,revisado,,
-7932,¿Te pasa algo? ¿Por qué estás tan callado?,requiere_investigacion,"Registro «Something wrong, Why are you so quiet?» parece perder un vocativo y/o frontera; se traducen las preguntas recuperables, sin completar datos.",
+7932,¿Te pasa algo? ¿Por qué estás tan callado?,revisado,Dos preguntas completas recuperables; se reparan la coma inglesa y la puntuación sin suponer un vocativo.,
 7933,Sí que eres raro.,revisado,,
 7934,"(¡La rara eres tú, Prier…!)",revisado,Se adapta el femenino de Prier y masculino de quien piensa la frase.,
 7935,Yo sigo siendo el de siempre…,revisado,,
