@@ -199,56 +199,56 @@
 10317,"Así que Alouette es la Doncella de la Luz, ¿eh?","revisado","",""
 10318,"Siempre le toca lo mejor...","revisado","",""
 10319,"Perdona, Prier.","revisado","",""
-10320,,pendiente,,
-10321,,pendiente,,
-10322,,pendiente,,
-10323,,pendiente,,
-10324,,pendiente,,
-10325,,pendiente,,
-10326,,pendiente,,
-10327,,pendiente,,
-10328,,pendiente,,
-10329,,pendiente,,
-10330,,pendiente,,
-10331,,pendiente,,
-10332,,pendiente,,
-10333,,pendiente,,
-10334,,pendiente,,
-10335,,pendiente,,
-10336,,pendiente,,
-10337,,pendiente,,
-10338,,pendiente,,
-10339,,pendiente,,
-10340,,pendiente,,
-10341,,pendiente,,
-10342,,pendiente,,
-10343,,pendiente,,
-10344,,pendiente,,
-10345,,pendiente,,
-10346,,pendiente,,
-10347,,pendiente,,
-10348,,pendiente,,
-10349,,pendiente,,
-10350,,pendiente,,
-10351,,pendiente,,
-10352,,pendiente,,
-10353,,pendiente,,
-10354,,pendiente,,
-10355,,pendiente,,
-10356,,pendiente,,
-10357,,pendiente,,
-10358,,pendiente,,
-10359,,pendiente,,
-10360,,pendiente,,
-10361,,pendiente,,
-10362,,pendiente,,
-10363,,pendiente,,
-10364,,pendiente,,
-10365,,pendiente,,
-10366,,pendiente,,
-10367,,pendiente,,
-10368,,pendiente,,
-10369,,pendiente,,
+10320,"No tienes por qué disculparte. Tampoco es que Prier tuviera alguna posibilidad...","revisado","",""
+10321,"¡J-jefe! ¡Acaba de aparecer una concentración gigantesca de energía oscura justo delante!","revisado","",""
+10322,"¡¿Miau?!","revisado","",""
+10323,"¡Cada vez se hace más grande!","revisado","",""
+10324,"¡¿Qué?! ¡Miau!","revisado","",""
+10325,"¡Su masa equivale a veinte mil foucettes!","revisado","Se conserva foucettes como unidad ficticia de medida; no es una moneda ni una referencia a «masa» del cuerpo.",""
+10326,"¡¿V-veinte mil foucettes?!","revisado","Se restaura el tartamudeo de «T-twenty».",""
+10327,"¡Jamás había oído hablar de tanta energía acumulándose de golpe en un solo sitio!","revisado","",""
+10328,"¡M-mira eso!","revisado","Se conserva el tartamudeo.",""
+10329,"¡¿Qué es eso?!","revisado","",""
+10330,"Hace mucho tiempo, por encima de las nubes, vivía un pueblo llamado los Tenjin.","revisado","",""
+10331,"Los dioses se comunicaban con ellos y les otorgaban el poder necesario para vivir.","revisado","",""
+10332,"Deben de ser las ruinas de una de las puertas que construyeron para comunicarse con los dioses. Noir habrá estado reuniendo energía oscura para volver a ponerla en marcha.","revisado","El original extraído fusiona dos intervenciones y pierde el objeto de «communicate with». Se recupera «los dioses» por el diálogo inmediatamente anterior; queda pendiente comprobar la resegmentación.",""
+10333,"¿Quieres decir que toda la energía oscura de Paprica está concentrada en esa puerta?","revisado","",""
+10334,"Así que piensa invocar de ese modo al ángel caído Calamidad, ¿eh?","revisado","",""
+10335,"Sí... Pero hay algo más...","revisado","",""
+10336,"Siempre que los Tenjin se comunicaban con los dioses, ofrecían un sacrificio humano...","revisado","",""
+10337,"No pensarán sacrificar a Croix...","revisado","La frase elíptica «Not Croix...!» se resuelve como temor ante el sacrificio que acaba de mencionarse.",""
+10338,"Para invocar a la Diosa de la Oscuridad, hay que sacrificar a alguien que posea poderes oscuros.","revisado","",""
+10339,"Noir debe de buscar un poder todavía mayor que el del Príncipe Oscuro...","revisado","",""
+10340,"¡¿Y qué hacemos aquí perdiendo el tiempo?!","revisado","",""
+10341,"¡Apártense de mi camino!","revisado","El siguiente intercambio indica que Prier se abre paso hacia la puerta; el original no especifica a cuántos se dirige.",""
+10342,"¡U-un momento, Prier!","revisado","Se conserva el tartamudeo de «J-just».",""
+10343,"¡¿Qué estás haciendo?!","revisado","Original truncado «are doing?!». Se recupera el sentido de una pregunta a Prier por el contexto; se debe cotejar la segmentación.",""
+10344,"No estará pensando hacer lo que me imagino, ¿verdad...?","revisado","",""
+10345,"Recuerda que estamos hablando de Prier...","revisado","",""
+10346,"¡Todos!","revisado","",""
+10347,"¡Sujétense a algo!","revisado","La orden se dirige a toda la tripulación.",""
+10348,"¡Allá vamos!","revisado","",""
+10349,"¡A toda máquina!","revisado","Expresión adecuada al mando de una nave que va a embestir.",""
+10350,"¡A LA CARGA!","revisado","",""
+10351,"¡¿Cómo has podido hacerle eso a mi preciado barco?!","revisado","",""
+10352,"¡Ay, cállate!","revisado","",""
+10353,"¡Es una emergencia!","revisado","",""
+10354,"No sé por qué, pero cuando estás cerca nos metemos en muchas más emergencias...","revisado","",""
+10355,"Este debe de ser el lugar.","revisado","",""
+10356,"Parece que nos han preparado un comité de bienvenida...","revisado","",""
+10357,"Podemos con estos debiluchos...","revisado","",""
+10358,"Espera, ¿no me habías prohibido decir esa palabra?","revisado","",""
+10359,"Bueno, esto es una emergencia...","revisado","",""
+10360,"¿Y si vamos a darles una paliza a esos debiluchos?","revisado","",""
+10361,"¡Vale!","revisado","",""
+10362,"¡Vaya manera de hablar para ser la Doncella...!","requiere_investigacion","Original cortado en «Maiden»; no permite determinar cómo continuaba la intervención. Traducción provisional; revisar el diálogo antes de aprobar.",""
+10363,"Sal ahí y lucha por aquello en lo que crees.","requiere_investigacion","La extracción solo conserva «that. Just get out there...»: se traduce el tramo completo y se señala que falta una frase anterior.",""
+10364,"(La diosa me dijo lo mismo...)","revisado","",""
+10365,"(Supongo que nunca estaré a la altura de Alouette...","revisado","",""
+10366,"¡En fin!)","revisado","Cierre de pensamiento abierto en 10365. El original intercala un «Oh well!» que pertenece al mismo parlamento.",""
+10367,"¡Escuchen, debiluchos!","revisado","",""
+10368,"¡Todos ustedes!","revisado","",""
+10369,"Croix debe de estar ahí arriba...","revisado","",""
 10370,,pendiente,,
 10371,,pendiente,,
 10372,,pendiente,,
