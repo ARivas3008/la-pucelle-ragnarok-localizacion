@@ -470,9 +470,9 @@
 619,3Un golpe a plena potencia con el bastón sagrado que causa un daño enorme.,revisado,フルスイング: golpe de bateo. Prefijo 3 intacto.,
 620,Invocar al Nushi,revisado,ヌシ es designación de criatura conservada en el nombre.,
 621,3Invoca a una cría del Nushi para atacar a quienes estén en el área.,revisado,ヌシの子: cría del Nushi. Prefijo 3.,
-622,,requiere_investigacion,"一猛打刃 tiene un juego fonético con 一網打尽; la MTL «Ataque en pareja» describe función, no nombre. Requiere decisión terminológica cotejada con el juego.",
+622,Aniquilación a golpes,revisado,El nombre 一猛打刃 es un juego homófono con 一網打尽 («acabar con todos de una vez»). Confirmado como técnica conjunta de Prier y Culotte; adaptación que conserva la idea de golpes contundentes.,https://www.namu.moe/w/%ED%94%84%EB%A6%AC%EC%97%90%28%EB%9D%BC%20%ED%93%A8%EC%85%80%3A%20%EB%B9%9B%EC%9D%98%20%EC%84%B1%EB%85%80%20%EC%A0%84%EC%84%A4%29
 623,3Ataque combinado con Culotte.,revisado,Prefijo 3 intacto.,
-624,,requiere_investigacion,"隠牙殴砲 juega fonéticamente con 因果応報 (retribución) y usa kanjis de colmillo, puñetazo y cañón; «Garra oculta» pierde el juego. Cotejar nombre original en interfaz.",https://www.4gamer.net/games/097/G009756/20091028052/
+624,Retribución explosiva,revisado,隠牙殴砲 es un juego fonético con 因果応報 («retribución»); 4Gamer confirma que la combinación Prier-Croix destroza al enemigo con una explosión. Se fusionan ambas ideas sin inventar efecto.,https://document.4gamer.net/games/097/G009756/20091028052/
 625,1Ataque combinado con Croix.,revisado,Prefijo 1 intacto.,https://www.4gamer.net/games/097/G009756/20091028052/
 626,Acupresión,revisado,けいらくひこう: meridianos/puntos para corregir el estado.,
 627,3Cura los estados alterados.,revisado,Prefijo 3 conservado; 状態変化 es alteración de estado.,
@@ -550,9 +550,9 @@
 699,3Se transforma en Éclair Oscura.,revisado,ダークエクレール: transformación a la forma oscura. Prefijo 3.,
 700,Danza de luz y sombra,revisado,光影乱舞: danza frenética de luz y sombra.,
 701,1Ataque simultáneo con un doble de Éclair Oscura.,revisado,"分身同時攻撃 implica ataque simultáneo con un doble, no solo coordinación.",
-702,,requiere_investigacion,"火蝶封月: compuesto estilizado de fuego, mariposa, sello y luna. La MTL «Cumulonimbo» no está respaldada; validar nombre en interfaz o versión original para no inventar una técnica.",
+702,Mariposas de fuego y luna sellada,revisado,"火蝶封月 emplea los kanjis fuego, mariposa, sello y luna; el nombre hace un juego poético con 花鳥風月. El repertorio del personaje confirma que corresponde a su combinación con Homard.",https://www.readonly.wiki/w/%EB%9D%BC%20%ED%93%A8%EC%85%80%3A%20%EB%B9%9B%EC%9D%98%20%EC%84%B1%EB%85%80%20%EC%A0%84%EC%84%A4
 703,3Ataque combinado con Homard.,revisado,Prefijo 3 y nombre oficial.,
-704,,requiere_investigacion,"電華宝闘 reúne electricidad, flor y lucha/tesoro; la MTL «Bastón del rayo» no recoge esos kanjis. Necesita cotejo de nombre de técnica.",
+704,¡Poder de hermanas!,revisado,"電華宝闘 es el nombre de la técnica conjunta de Éclair con Prier. Se prefiere una adaptación de sentido en la escena, respaldada por repertorio de técnicas («Sister Power!»), frente a la MTL infundada «Bastón del rayo».",https://www.readonly.wiki/w/%EB%9D%BC%20%ED%93%A8%EC%85%80%3A%20%EB%B9%9B%EC%9D%98%20%EC%84%B1%EB%85%80%20%EC%A0%84%20%EC%84%A4
 705,3Ataque combinado con Prier.,revisado,Prefijo 3.,
 706,Arte secreto real: Sombra del rayo,revisado,王秘・雷影: secreto de la realeza y sombra del relámpago.,
 707,"1Técnica de espada heredada de la familia real, capaz de destruir hasta a un Señor Demonio.",revisado,魔王 no equivale a una espada demoníaca; prefijo 1.,
