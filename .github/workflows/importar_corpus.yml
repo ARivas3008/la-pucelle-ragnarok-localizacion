@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   importar:
-    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, 'chore: transferir paquete Git')
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, 'transferir paquete Git')
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
