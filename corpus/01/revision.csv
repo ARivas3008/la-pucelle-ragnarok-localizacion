@@ -759,56 +759,56 @@
 12883,Lamia,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
 12884,Emisario del Mundo Oscuro,revisado,La lista inglesa Dark Servant simplifica 魔界の使者 (grupo 83); se prefiere el término japonés más preciso «Emisario del Mundo Oscuro».,glosario/terminos_investigados.csv
 12885,Mago,revisado,"Dark Warrior difiere de 魔導士 «Mago» en la lista japonesa de igual recurso; se harmoniza con grupo 84, pero requiere cotejo visual en integración.",https://gamefaqs.gamespot.com/switch/383890-la-pucelle-ragnarok-remaster/faqs/82620/chapter-12
-12886,,pendiente,,
-12887,,pendiente,,
-12888,,pendiente,,
-12889,,pendiente,,
-12890,,pendiente,,
-12891,,pendiente,,
-12892,,pendiente,,
-12893,,pendiente,,
-12894,,pendiente,,
-12895,,pendiente,,
-12896,,pendiente,,
-12897,,pendiente,,
-12898,,pendiente,,
-12899,,pendiente,,
-12900,,pendiente,,
-12901,,pendiente,,
-12902,,pendiente,,
-12903,,pendiente,,
-12904,,pendiente,,
-12905,,pendiente,,
-12906,,pendiente,,
-12907,,pendiente,,
-12908,,pendiente,,
-12909,,pendiente,,
-12910,,pendiente,,
-12911,,pendiente,,
-12912,,pendiente,,
-12913,,pendiente,,
-12914,,pendiente,,
-12915,,pendiente,,
-12916,,pendiente,,
-12917,,pendiente,,
-12918,,pendiente,,
-12919,,pendiente,,
-12920,,pendiente,,
-12921,,pendiente,,
-12922,,pendiente,,
-12923,,pendiente,,
-12924,,pendiente,,
-12925,,pendiente,,
-12926,,pendiente,,
-12927,,pendiente,,
-12928,,pendiente,,
-12929,,pendiente,,
-12930,,pendiente,,
-12931,,pendiente,,
-12932,,pendiente,,
-12933,,pendiente,,
-12934,,pendiente,,
-12935,,pendiente,,
+12886,Sacerdote demoníaco,revisado,"Dark Officer difiere de 悪魔神官 «Sacerdote demoníaco»; se armoniza con el grupo 85 de la lista japonesa, sin alterar recurso original.",https://gamefaqs.gamespot.com/switch/383890-la-pucelle-ragnarok-remaster/faqs/82620/chapter-12
+12887,Gran mago,revisado,"Dark General difiere de 大魔導士 «Gran mago»; se armoniza con el grupo 86 de la lista japonesa, sin alterar recurso original.",https://gamefaqs.gamespot.com/switch/383890-la-pucelle-ragnarok-remaster/faqs/82620/chapter-12
+12888,Soldado del rey,revisado,"Soldier corresponde al soldado partidario del rey (国王派兵士), grupo 87; se restituye el referente.",https://gamefaqs.gamespot.com/switch/383890-la-pucelle-ragnarok-remaster/faqs/82620/chapter-12
+12889,Capitán de las tropas reales,revisado,"Sergeant aparece donde la lista japonesa tiene 国王派兵士隊長, capitán de la tropa real (grupo 88). Cotejar sprites al integrar esta clase.",https://gamefaqs.gamespot.com/switch/383890-la-pucelle-ragnarok-remaster/faqs/82620/chapter-12
+12890,Cú Chulainn,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12891,Gárgola,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12892,Guiverno,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12893,Mantícora,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12894,Quimera,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12895,,requiere_investigacion,"Golem aparece en inglés, pero el grupo japonés correspondiente presenta ガルム (Garm), una criatura mitológica distinta. La traducción de la clase requiere verificar identificador, sprite y orden real; no aprobar por homofonía ni ordenar a ciegas.",https://gamefaqs.gamespot.com/switch/383890-la-pucelle-ragnarok-remaster/faqs/82620/chapter-12
+12896,Cerbero,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,https://gamefaqs.gamespot.com/switch/383890-la-pucelle-ragnarok-remaster/faqs/82620/chapter-12
+12897,Ortro,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12898,Súcubo,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12899,Lilith,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12900,Gorgona,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12901,Belial,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12902,Dagón,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12903,Aliok,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12904,Tempête,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12905,Capricornio,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12906,Baal,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12907,Albijwaz,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12908,Gigante,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12909,Normande,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12910,Talos,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12911,Disbar,revisado,"Disk Bar es una traducción/transcripción inglesa dudosa de ディスバール, nombre que en el grupo japonés 111 se dejó como Disbar; se armoniza sin convertirlo en un bar físico.",glosario/terminos_investigados.csv
+12912,Montblanc,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12913,Oseille,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12914,Hecatónquiro,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12915,Grendel,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12916,Dragoseta,revisado,Dragonshroom se alinea con キノコドラゴン «Dragoseta» del grupo 116; evitar los sinónimos discordantes «Setadragón/Dragoseta».,glosario/terminos_investigados.csv
+12917,Seta gigante,revisado,"Bigshroom se alinea con grupo 117, donde se aprobó «Seta gigante».",glosario/terminos_investigados.csv
+12918,Monstruseta,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12919,Rey seta,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12920,Señor del bosque,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12921,Catoplebas,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12922,Tiamat,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12923,Fenrir,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,https://gamefaqs.gamespot.com/switch/383890-la-pucelle-ragnarok-remaster/faqs/82620/chapter-12
+12924,Príncipe de las tinieblas,revisado,Dark Prince = 闇の王子 (grupo 124). El título establecido es «Príncipe de las tinieblas».,glosario/terminos_investigados.csv
+12925,Criatura gigantesca desconocida,revisado,"Giant Thing simplifica 未知の巨大生物 (grupo 125): criatura gigantesca desconocida, no «cosa» de registro coloquial.",glosario/terminos_investigados.csv
+12926,Gran monstruo,revisado,"Monster equivale aquí al original japonés 大怪物 «Gran monstruo», grupo 126.",glosario/terminos_investigados.csv
+12927,El lado oscuro de Croix,revisado,"Dark Croix simplifica クロワの心の闇, oscuridad interior de Croix (grupo 127); se conserva el matiz psicológico.",glosario/terminos_investigados.csv
+12928,Barsom,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12929,Suzanne,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12930,Chucky,revisado,"Signo técnico, antropónimo o nombre oficial cotejado con su fuente; se preserva su grafía en lugar de reemplazarlo por una traducción automática. Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.",glosario/terminos_investigados.csv
+12931,Oscuridad del corazón,revisado,"Dark Mind se alinea con 心の闇 «Oscuridad del corazón», grupo 132; el japonés no habla de una mente literal.",glosario/terminos_investigados.csv
+12932,Camino de las setas,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12933,Mapa del mundo,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
+12934,Enfermería de la Santa Doncella,revisado,"Infirmary se refiere a 聖女会病棟, enfermería de la Santa Doncella, grupo 135; mantener institución del juego.",glosario/terminos_investigados.csv
+12935,Habitación del padre Salade,revisado,Office corresponde a サラド神父の部屋 «Habitación del padre Salade» en grupo 136; evitar función de oficina no expresada por el japonés.,glosario/terminos_investigados.csv
 12936,,pendiente,,
 12937,,pendiente,,
 12938,,pendiente,,
