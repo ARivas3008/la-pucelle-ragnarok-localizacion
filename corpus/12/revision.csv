@@ -215,7 +215,7 @@
 12334,"Todavía queda uno, ¿eh?",revisado,,
 12335,¡No escaparás!,revisado,,
 12336,He metido la pata…,revisado,,
-12337,Abre los ojos…,requiere_investigacion,El original acaba en coma y no incluye el vocativo o continuación.,
+12337,¡Abre los ojos…!,revisado,"La unidad 21301 conserva íntegro el imperativo «Open your eyes», aunque termina en coma por un vocativo ausente. El español permite convertirlo en exclamación suspendida sin inventar a quién se dirige.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21301)
 12338,El demonio…,revisado,Continúa en el siguiente grupo.,
 12339,…es bastante fuerte…,revisado,Continuación del grupo anterior.,
 12340,¡¿Un demonio?!,revisado,,
@@ -664,7 +664,7 @@
 12783,"Perdonadme, todos…",revisado,,
 12784,"Por favor, ¡no mueras…!",revisado,,
 12785,…la luz que hay en Prier…,requiere_investigacion,La fuente conserva solo «light inside of Prier» sin principio de frase. ,
-12786,Te estaré esperando…,requiere_investigacion,El original termina en coma y podría contener un destinatario ausente; cotejar unidad.,
+12786,Te estaré esperando…,revisado,"La unidad 22309 dice «I am waiting for you,» y solo falta un posible vocativo tras la coma. En español la oración es completa sin añadir destinatario, que ya es «you».",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22309)
 12787,¡No puede ser!,revisado,,
 12788,¡¿Otra explosión…?!,revisado,,
 12789,¿Qué hacemos?,revisado,,
@@ -798,11 +798,11 @@
 14796,Mañana tiraremos a 『A1』 con el resto de la basura.,revisado,Se conserva el marcador de nombre.,
 14797,Tu compañero 『A1』 no ha hecho absolutamente nada.,revisado,Se conserva el marcador de nombre.,
 14798,Seguro que te imaginas lo que hicimos…,revisado,,
-14799,…un auténtico pavo.,requiere_investigacion,"Fragmento «complete turkey» aislado, posible insulto idiomático o parte de otra frase. No aprobar una interpretación sin contexto adicional.",
+14799,…un auténtico pavo.,revisado,"La única unidad contiene «complete turkey». El grupo siguiente continúa con una broma literal sobre un pavo en un lugar lleno de hambrientos. Se conserva la frase nominal y la elipsis, sin convertirla en insulto idiomático.",corpus/12/entrada.csv (14799–14800); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id según entrada 14799)
 14800,"Hay mucha gente hambrienta en… No es un buen lugar para ser un pavo… ¡Ja, ja, ja!",requiere_investigacion,Frases fusionadas y referencia a «turkey» cuyo sentido puede depender del fragmento 14799; no completar la localización ausente.,
 14801,Se ha pasado al bando enemigo.,revisado,"Original en unidad(es) 24592: falta el sujeto explícito del verbo inglés, pero el español permite la tercera persona con sujeto tácito. Se conserva tiempo, acción y referente sin inventar ni insertar 『A1』 u otro marcador dinámico. Cotejado con manifiesto técnico.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24592)
 14802,"La próxima vez, intenta enviarnos reclutas mejores…",revisado,,
-14803,"Esa persona que nos enviaste, 『A1』, parece estar muy resentida con… Creo que yo también estaría así si me hubieran abandonado…",requiere_investigacion,El primer segmento se corta tras «toward» y se fusiona con otra frase; preservar 『A1』 y cotejar unidades.,
+14803,"Esa persona que nos enviaste, 『A1』, parece guardarte mucho rencor. Yo también me sentiría así si me hubieran abandonado…",revisado,"«Bitter toward» pierde su complemento en 24598, pero la relación de envío/abandono y el hablante que se dirige al jugador hacen inferible «hacia ti». Se conserva la variable 『A1』 y se separan las dos frases.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24596–24601); corpus/12/entrada.csv (14802–14805)
 14804,Sigue con vida.,revisado,"Original en unidad(es) 24602: falta el sujeto explícito del verbo inglés, pero el español permite la tercera persona con sujeto tácito. Se conserva tiempo, acción y referente sin inventar ni insertar 『A1』 u otro marcador dinámico. Cotejado con manifiesto técnico.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (24602)
 14805,Por ahora…,revisado,"Continuación contextual del fragmento anterior, sin añadir nada.",
 14806,…lo está haciendo bien en…,requiere_investigacion,"Original incompleto «is doing well in the», faltan sujeto y complemento.",
@@ -977,7 +977,7 @@
 14975,¡Tú no perteneces a este mundo!,revisado,,
 14976,"¡Doncella de la Luz, vuelve al lugar de donde viniste!",revisado,,
 14977,Mmm… Por fin un rival digno de nosotros.,revisado,,
-14978,Voy a disfrutar…,requiere_investigacion,El original «I am going to enjoy» omite objeto o actividad y no permite completar la frase.,
+14978,¡Voy a disfrutar de este combate…!,revisado,"«I am going to enjoy» queda suspendido, pero la frase inmediatamente anterior expresa alegría por encontrar un rival digno de luchar. Se recupera el objeto explícito «combate» y se conserva el efecto de anticipación.",corpus/12/entrada.csv (14977–14979); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (25029)
 14979,…señor…,requiere_investigacion,«lord…» aislado carece de contexto suficiente para precisar si es título o parte de un nombre. «Caballero» de la MTL no se justifica.,
 14980,"¡No puedo dejar que gane! ¡Al fin y al cabo, emprendí este viaje para superar mis propias debilidades!",revisado,Las dos cláusulas del original tienen sujeto en primera persona y forman una justificación coherente. Se restituye la puntuación entre «win» y «After all» sin atribuir contenido nuevo.,corpus/12/entrada.csv (14979–14981)
 14981,¿De verdad tenemos que luchar contra esa cosa?,revisado,,
