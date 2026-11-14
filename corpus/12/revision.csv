@@ -12,7 +12,7 @@
 12131,¿O te parece patético?,revisado,Continúa la pregunta anterior.,
 12132,Presumes de que jamás te doblegarás ante el Señor Demonio y niegas por completo…,requiere_investigacion,La frase inglesa termina en «deny» sin complemento; requiere cotejo de unidades 20827–20831 y confirmación de título y de posible corte de diálogo.,
 12133,¡Claro! ¡Porque cuento con personas que me han prometido ayudarme a no sucumbir a la oscuridad de mi corazón!,revisado,,
-12134,"Por eso, si realmente me convirtiera en…, no podría volver a mirarlos a la cara. ¡Eso es lo que te hace una hipócrita!",requiere_investigacion,Original aparentemente fusiona dos turnos y queda truncado tras «become the»; no se inventa título faltante. Comprobar segmentación y hablantes.,
+12134,"Por eso, no podría mirarlos a la cara si de verdad me convirtiera en la Señora Demonio… / ¡Y eso es lo que te hace una hipócrita!",revisado,El complemento omitido tras «become the» se identifica como Demon Lord por la réplica inmediata del grupo 12135. Las unidades 20839–20843 y 20844–20845 distinguen dos intervenciones.,corpus/12/entrada.csv (12133–12135); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (20839–20845); https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
 12135,"Si rechazas el inmenso poder de una Señora Demonio, ¡¿cómo piensas salvar a Croix?!",revisado,Título femenino en contexto de Prier; cotejado con entrada de glosario «魔王プリエ».,glosario/terminos_investigados.csv (魔王プリエ); https://www.mobygames.com/game/66480/la-pucelle-ragnar%C3%B8k/
 12136,¡¿Qué…?!,revisado,Cotejada con «Wh...!»; la exclamación incompleta ya estaba resuelta correctamente y se conserva tras revisión manual.,
 12137,¡No importa lo que piensen quienes te rodean!,revisado,Adaptación idiomática de «the faces around you» en la discusión sobre el juicio ajeno.,
@@ -33,8 +33,8 @@
 12152,Solo pienso aceptar esta oscuridad sin dejar que me venza.,revisado,,
 12153,Nada más.,revisado,"Cotejada con «Nothing more.»; formulación concisa y exacta, conservada tras cotejo manual.",
 12154,Conseguir poder y rendirse a la oscuridad son dos cosas muy distintas.,revisado,,
-12155,"Parece que por fin lo entiendes, hermana… ¡Déjate de tonterías…!",requiere_investigacion,«Sister Cut the crap» sugiere vocativo truncado y posible cambio de hablante; comprobar la segmentación.,
-12156,¿Renunciarías a esa teoría sin fundamento…? ¡Me repugna todo lo que sigues diciendo…!,requiere_investigacion,«Would you give up on that baseless theory The lines…» muestra posible corte y dos turnos fusionados; se conserva duda.,
+12155,"Parece que por fin lo entiendes, hermana… / ¡Déjate de tonterías…!",revisado,Unidad 20908–20909: frase de la primera voz; 20910: respuesta tajante. Se conserva el vocativo incompleto sin inventar nombre.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (20908–20910)
+12156,¿Vas a renunciar a esa teoría sin fundamento…? / ¡Me repugna lo que sigues diciendo…!,revisado,Unidades 20911–20912 y 20913–20915: dos réplicas gramaticalmente recuperables; se conserva la suspensión de la primera pregunta.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (20911–20915)
 12157,"¡Si ansié el poder y acabé consumida por la oscuridad fue por ti, hermana Alouette…!",revisado,Concordancia femenina de Prier; mantiene reproche personal.,
 12158,¿La hermana Alouette provocó todo esto…?,revisado,,
 12159,¡…corazón! ¡Cálmate!,requiere_investigacion,La intervención comienza abruptamente en «heart!»; falta al menos el comienzo de la oración. Requiere cotejo de unidad.,
@@ -151,7 +151,7 @@
 12270,"Parece que está haciendo un esfuerzo tremendo, ¿eh?",revisado,,
 12271,"Ah, ¿así que a la «Hermana Demonio» también le gusta el udon?",revisado,,
 12272,¡Debe de ser un demonio con forma de fideo!,revisado,Se conserva la broma sobre el udon sin convertirla en un dato literal del mundo.,
-12273,"¡Vaya, ahora hasta los demonios vienen a este…! ¡Esta tienda debe de ser la más popular de la ciudad…!",requiere_investigacion,El texto une «come to visit this» con otra frase que empieza «This shop»; verificar corte y cambio de voz.,
+12273,¡Vaya! ¡Hasta los demonios vienen a esta tienda…! / ¡Debe de ser la tienda más popular de la ciudad!,revisado,El referente «shop» de 21165–21166 lo confirma 21167–21169 y el diálogo siguiente del dependiente. Ambas intervenciones separadas por unidades.,corpus/12/entrada.csv (12271–12275); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21165–21169)
 12274,"La verdad, nunca habría imaginado que un demonio viniera a comprar aquí. ¡Eri!",revisado,"Se conserva «Eri» como coletilla del habla, según glosario.",glosario/terminos_investigados.csv (エリ)
 12275,Pero ¡bienvenida a la tienda Rosenqueen! ¡Eri!,revisado,Se conserva «Eri» como coletilla y se mantiene Rosenqueen como nombre comercial.,glosario/terminos_investigados.csv (エリ)
 12276,"Por favor, mira todo lo que quieras y tómate tu tiempo. ¡Eri!",revisado,"Se conserva «Eri» como coletilla, no como nombre de interlocutora.",glosario/terminos_investigados.csv (エリ)
@@ -182,7 +182,7 @@
 12301,"¡Aunque te hayas convertido en demonio, siempre serás parte de nuestra familia!",revisado,,
 12302,G… gracias…,revisado,Se mantiene el tartamudeo de Prier.,
 12303,¡Hip…!,revisado,Onomatopeya del hipo o sollozo entrecortado; «Hipo» en la MTL no funciona como interjección.,
-12304,"Prier, dijiste que te convertirías en la… ¡Pero ese atuendo te queda muy bien!",requiere_investigacion,El texto pierde el sustantivo después de «the» y concatena otra intervención; revisar corte y voces.,
+12304,"Prier, dijiste que llegarías a ser la Doncella de la Luz… / ¡Pero ese atuendo te queda muy bien!",revisado,El título omitido se recupera de la aspiración explícita y reiterada de Prier a convertirse en la Doncella de la Luz; dos réplicas en 21236–21237 y 21238–21239.,corpus/12/entrada.csv (12567–12568); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21236–21239); https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
 12305,Tu aspecto diabólico está haciendo que me enamore de… ¿Y si dejamos en paz a esta diablilla?,requiere_investigacion,«fall for» carece de complemento y se fusiona con otra pregunta; no completar a quién se refiere ni atribuir ambas frases a una voz.,
 12306,¡Nuestro futuro está en tus manos!,revisado,,
 12307,"¡Dalo todo, Prier!",revisado,,
@@ -266,10 +266,10 @@
 12385,¿Halo del Ángel?,revisado,Se mantiene el topónimo usado en 12384.,
 12386,¿Dónde queda eso?,revisado,,
 12387,"Ahora mismo, la energía oscura de todo el reino de Paprica está confluyendo en un lugar llamado Halo del Ángel.",revisado,Se corrige la MTL: la energía de todo el reino se concentra en un solo lugar.,
-12388,"Para alguien que ha sucumbido a la oscuridad y se ha transformado en demonio, encontrarlo debería ser sencillo… ¿La energía oscura recorre todo el reino…?",requiere_investigacion,El original se corta tras «such as» y une la reacción de otro personaje; cotejar voces y fragmentos.,
+12388,Encontrar ese lugar debe de ser pan comido para alguien que se ha rendido a la oscuridad y se ha convertido en demonio como tú… / ¿La energía oscura recorre todo el reino…?,revisado,"«Such as» de la unidad 21411 requiere «you», ya indicado por «someone who». La segunda pregunta comienza en 21412; se mantiene separación de voces.",corpus/12/entrada.csv (12387–12389); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21406–21414)
 12389,¡¿Qué pretendes que haga Croix en un lugar así?!,revisado,"Se conserva «have Croix do», no «hacer con Croix».",
 12390,Ya te lo he dicho.,revisado,,
-12391,Va a destruir… ¡Tsk!,requiere_investigacion,El objeto de «destroy» falta y «Tsk!» parece una reacción de otra voz fusionada.,
+12391,Va a destruir a la humanidad… / ¡Tsk!,revisado,El objeto elidido de «destroy» se identifica por la finalidad declarada de Noir y Croix de acabar con los humanos en los grupos 12663–12664. Exclamación 21420 separada de 21419.,corpus/12/entrada.csv (12662–12664); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21419–21420)
 12392,Y tú lo ayudarás.,revisado,,
 12393,Con tu nueva forma demoníaca.,revisado,,
 12394,¡Que te den!,revisado,,
@@ -305,7 +305,7 @@
 12424,¡¿Eres… Prier?!,revisado,Se corrige el nombre «Prior» de la MTL.,
 12425,Ese atuendo…,revisado,,
 12426,¿Acaso has…?,revisado,,
-12427,"Sí, me convertí en la… Como tú, cedí al poder de… ¿Por qué hiciste algo así…?",requiere_investigacion,"Original fusionado con cortes tras «the» y «of», probablemente dos voces; verificar unidades y hablantes.",
+12427,"Sí, me convertí en la Señora Demonio… Como tú, cedí al poder de la oscuridad… / ¿Por qué hiciste algo así…?",revisado,"«Became the» y «power of» se aclaran por la condición demoníaca de Prier y Croix, expresada en 12429–12430. Última pregunta corresponde a 21483–21484.",corpus/12/entrada.csv (12424–12430); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21480–21484); https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
 12428,Fue…,revisado,,
 12429,¡Lo hice todo para detenerte!,revisado,,
 12430,"¡Creía que, si aceptaba el poder de la oscuridad, podría impedir que acabaras con toda la humanidad…!",revisado,,
@@ -318,7 +318,7 @@
 12437,¡¿Prier mató a la Doncella de la Luz?!,revisado,"«Luz» se repone de los grupos 12435 y 12439, donde está explícito el referente del fragmento «Maiden of…».",
 12438,¡Exacto!,revisado,,
 12439,¡Esta joven llegó incluso a deshacerse de la Doncella de la Luz con sus propias manos!,revisado,,
-12440,"Todo por ti, Príncipe Oscuro… ¿Es cierto…?",requiere_investigacion,"El inglés une «All for you, Dark» con «Is this true…?» y cambia probablemente de voz; comprobar segmentación.",
+12440,"Todo por ti, Príncipe Oscuro… / ¿Es verdad…?",revisado,El vocativo incompleto «Dark» se completa con el título «Dark Prince» usado inmediatamente antes en 12433; 21511 y 21512 corresponden a frases distintas.,corpus/12/entrada.csv (12433–12440); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21511–21512)
 12441,"Me consumió el poder de la oscuridad y perdí de vista… Así que de verdad lo hiciste… Por mi culpa, tú…",requiere_investigacion,Tres fragmentos cortados de voces distintas; no es posible aprobar el reparto sin cotejo.,
 12442,Te lo agradezco…,revisado,,
 12443,Si la Doncella de la Luz ha desaparecido…,revisado,,
@@ -380,7 +380,7 @@
 12499,¿Cómo puede haber un poder tan inmenso… y siniestro…?,requiere_investigacion,«How can such a vast...and sinister power be...» no conserva el final de la pregunta. Propuesta provisional.,
 12500,¡¡¡JAMÁS TE PERDONARÉ!!!,revisado,,
 12501,¡Gyaaaaaah…!,revisado,,
-12502,…no olvidar…,requiere_investigacion,El original conserva solo «...not forget...» sin sujeto ni auxiliar; no forzar el imperativo sin cotejo.,
+12502,…no lo olvides…,revisado,La frase truncada está delimitada por puntos suspensivos en el original y se repite de forma completa como imperativo en el grupo 12504 («Do not forget...!»). Se recupera el sentido sin destinatario añadido.,corpus/12/entrada.csv (12502–12505); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21616)
 12503,¿Quién es?,revisado,,
 12504,¡No lo olvides…!,revisado,,
 12505,¡Esa voz!,revisado,,
@@ -396,13 +396,13 @@
 12515,"No es distinto de… Incluso después de que la oscuridad se apoderara de tu corazón y perdieras de vista tu verdadero yo, seguías recordándome.",requiere_investigacion,Dos oraciones fusionadas; «It is no different from» no contiene el término de comparación. Revisar segmentación.,
 12516,"Mi verdadero yo, ¿eh…?",revisado,,
 12517,¿Sabes? Antes no me había dado cuenta.,revisado,,
-12518,Con este aspecto que tengo ahora… Parece que tardé demasiado en darme cuenta de que existías.,requiere_investigacion,El texto se une en «I look like this right It seems» con posible cambio de voz; verificar distribución.,
-12519,Tu aspecto actual demuestra que tu corazón ha sucumbido a… Tienes que aceptarlo.,requiere_investigacion,El objeto tras «succumbed to» está omitido y parece continuar otra voz. Cotejar.,
+12518,Ahora tengo este aspecto… Parece que tardé demasiado en darme cuenta de tu existencia.,revisado,"En 21657 «I look like this right» queda implícito «now», confirmado por la frase siguiente sobre «your current look» (12519). No se inventa cambio de interlocutor.",corpus/12/entrada.csv (12517–12519); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21657–21660)
+12519,Tu aspecto actual demuestra que tu corazón ha sucumbido a la oscuridad. Tienes que aceptarlo.,revisado,Se recupera «darkness» tras «succumbed to» por la contraposición explícita entre luz y oscuridad de los grupos 12515 y 12520–12523.,corpus/12/entrada.csv (12515–12523); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21661–21664)
 12520,¡Pero eso no tiene por qué ser el final…!,revisado,,
 12521,"Después de todo, fui yo quien te buscó…",revisado,,
 12522,¡Y ahora que hemos llegado hasta aquí…!,revisado,,
 12523,¡Podemos luchar con el poder de la luz!,revisado,,
-12524,…tan consumida por la oscuridad que veía a esos demonios como mis amigos…,requiere_investigacion,El inglés empieza por «be so consumed» sin sujeto ni oración principal; la oposición entre amigos y demonios exige cotejar el texto completo.,
+12524,¡La oscuridad me había cegado tanto que creía que esos demonios eran mis amigos…!,revisado,El sujeto de primera persona «I» sí está en 21674 y el referente «these demons» en 21675. Se evita atribuir género al hablante; 12525 confirma la vergüenza por lo sucedido.,corpus/12/entrada.csv (12523–12525); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21673–21676)
 12525,Esto no se lo puedo contar a nadie…,revisado,,
 12526,¡¿Qué ha sido esa luz?!,revisado,,
 12527,¡Estás a salvo!,revisado,,
@@ -412,7 +412,7 @@
 12531,Te lo digo en serio: solo de pensar que tendría que luchar contra ti me entraban escalofríos.,revisado,,
 12532,"Tal como esperaba, has recuperado la luz de tu corazón.",revisado,,
 12533,¡Muy bien!,revisado,,
-12534,¿Estás bien…? He hecho algo horrible…,requiere_investigacion,El original puede unir pregunta de un personaje y respuesta de otro; requiere verificar separación de voces.,
+12534,¿Estás bien…? / Hice algo terrible…,revisado,"El original separa la pregunta «Are you okay» en 21701 de «I did something so awful» en 21702–21703, seguida por la respuesta 12535. Se preservan ambas frases sin mezclarlas.",corpus/12/entrada.csv (12533–12535); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21701–21703)
 12535,Estoy perfectamente bien.,revisado,,
 12536,…de mí.,requiere_investigacion,«about me» es un complemento sin principio de frase. No se determina qué se dice sobre el personaje.,
 12537,"Pero, más importante aún…",revisado,,
@@ -421,7 +421,7 @@
 12540,"…Aunque, con este aspecto, no sueno muy convincente, ¿verdad?",revisado,,
 12541,"Perdona, Prier…",revisado,,
 12542,"Si no te hubiera dicho que te quedaba bien ser la Señora Demonio, nada de esto habría sucedido…",revisado,Se conserva título femenino y arrepentimiento de Culotte.,glosario/terminos_investigados.csv (魔王プリエ)
-12543,"…disculparte, Culotte.",requiere_investigacion,"Falta la oración inicial antes de «apologize, Culotte». No puede decidirse si es orden, negación o afirmación.",
+12543,"¿Disculparte, Culotte…?",revisado,"La unidad 21720 conserva solo «apologize, Culotte», sin la negación de una frase afirmativa. La pregunta que repite el verbo es fiel y conecta con la admisión de culpa de Prier en 12544, sin añadir «no hace falta».",corpus/12/entrada.csv (12541–12545); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21720)
 12544,Dejé que mi debilidad se apoderara de mí.,revisado,"La flexión verbal se infiere del contexto de Prier, sin introducir consecuencias no dichas.",
 12545,Así que deja de preocuparte por… Deja de preocuparte…,requiere_investigacion,Fuente fusionada «So quit worrying about Quit worrying»; faltan complemento y posible cambio de interlocutor.,
 12546,"Hermana, ¿de verdad has comprendido lo que…? ¡Pues claro que sí!",requiere_investigacion,Dos intervenciones fusionadas y pregunta truncada. No aprobar segmentación sin cotejo.,
@@ -437,7 +437,7 @@
 12556,Lo siento de corazón.,revisado,,
 12557,"No le dé más vueltas, hermana Prier.",revisado,"En el inglés «do not well on it» parece faltar la d de «dwell on it». El contexto de disculpa sustenta «no le dé más vueltas», sin reconstrucción adicional.",
 12558,"Como esperaba, nunca perdiste la luz de tu corazón.",revisado,,
-12559,¿Todavía me consideras parte de la Iglesia…?,requiere_investigacion,El original «You still think of me church?» omite palabras entre «me» y «church». Propuesta contextual pendiente de cotejo.,
+12559,¿Todavía me consideras parte de la Iglesia?,revisado,Se reconstruye el complemento ausente entre «me» y «church» a partir de la pregunta y la afirmación de pertenencia iniciada en 12560. No se añade título eclesiástico.,corpus/12/entrada.csv (12557–12560); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21752–21753)
 12560,"Al fin y al cabo, todavía eres…",revisado,Interrupción deliberada: el inglés termina en «still…» y el siguiente grupo irrumpe con «WHAT IS GOING ON HERE?!». Se respeta el suspense sin completar el atributo.,corpus/12/entrada.csv (12559–12561)
 12561,¡¡¡¿QUÉ ESTÁ PASANDO AQUÍ?!!!,revisado,,
 12562,¡PRIER!,revisado,"Se corrige «Fisgón», error de traducción automática del nombre.",
@@ -456,12 +456,12 @@
 12575,"Hace un momento ibas a hablar mal de mí, ¿verdad…?",revisado,,
 12576,"De verdad, estos dos son de lo más previsibles…",revisado,,
 12577,"Supongo que se cumple el dicho: «De tal maestro, tal discípulo».",revisado,,
-12578,"Incluso con ese aspecto, nunca olvidaste la luz de… Justo lo que esperaba de mi alumna.",requiere_investigacion,"El original fusiona dos intervenciones y corta «the light in», quizá «tu corazón». Verificar voces y segmento perdido.",
+12578,"¡Aunque tengas ese aspecto, nunca has olvidado la luz de tu corazón! Justo lo que esperaba de mi alumna.",revisado,El objeto tras «the light in» se recupera como «your heart» por las repeticiones «light in your heart» de 12532 y 12558; las dos frases están diferenciadas en las unidades 21798–21802.,corpus/12/entrada.csv (12532; 12558; 12578); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21798–21802)
 12579,Y que la Diosa nos bendiga a todos.,requiere_investigacion,"«And may the Goddess all of us» omite el verbo. «Bendiga» es reconstrucción convencional, no confirmada en el original; verificar antes de aprobar.",
 12580,Un paso más y habrías sucumbido por completo a la oscuridad…,revisado,,
 12581,¡Ja!,revisado,,
 12582,¡Más les vale no subestimarme!,revisado,,
-12583,"Además de aceptar… en tu corazón, tampoco perdiste de vista la luz.",requiere_investigacion,El original «On top of accepting heart» está mutilado; falta el objeto y probablemente «darkness in your» antes de «heart».,
+12583,"Además de aceptar la oscuridad de tu corazón, nunca has perdido de vista la luz.",revisado,La frase original omite «the darkness in your» entre «accepting» y «heart»; el contraste explícito entre oscuridad y luz en el propio texto y en 12555 sustenta la reconstrucción.,corpus/12/entrada.csv (12554–12555; 12583); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21812–21815)
 12584,¡No esperaba menos de mí misma!,revisado,Concordancia femenina para Prier.,
 12585,¡Y tanto!,revisado,,
 12586,Este calor que desprende la luz…,revisado,,
