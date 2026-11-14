@@ -8,7 +8,7 @@
 8956,¡Ese demonio asesinó a mi hijo Crouton y a sus amigos!,revisado,"Revisión manual de fidelidad, tono y continuidad.",
 8957,¡Que muera el demonio!,revisado,"Revisión manual de fidelidad, tono y continuidad.",
 8958,¡Que muera la madre del demonio!,revisado,"Posesivo singular «the demon’s mother»: madre de un demonio, no madre de todos los demonios.",
-8959,Noir…,en_revision,Cadena formada solo por el nombre propio y una pausa; se conserva sin aprobar por la regla de no marcar como revisado un texto idéntico al borrador automático.,
+8959,Noir…,en_revision,Cadena formada solo por el nombre propio y una pausa; se conserva sin aprobar por la regla de no marcar como revisado un texto idéntico al borrador automático. Auditoría adicional: Solo nombre y pausa dramática; el original no avala añadir interrogación ni exclamación.,
 8960,Tienes que huir.,revisado,"Revisión manual de fidelidad, tono y continuidad.",
 8961,"No lo olvides, Noir…",revisado,"Revisión manual de fidelidad, tono y continuidad.",
 8962,"Igual que hay personas buenas y malas, también hay demonios buenos y malos.",revisado,"Revisión manual de fidelidad, tono y continuidad.",
@@ -55,7 +55,7 @@
 9003,(No tenía por qué negarlo con tanta insistencia...),revisado,Pensamiento de Prier; reacción herida al rechazo de Croix.,
 9004,"Lo siento, me equivoqué. No quería ofenderlos.",revisado,Disculpa de aldeano; se conserva trato plural.,
 9005,Creí que habían venido por una semilla de la flor de fiancailles.,revisado,Se conserva el nombre floral sin inventar equivalencia; coherencia con la tradición de compromiso.,
-9006,¿La flor de fiancailles?,en_revision,Eco interrogativo de la referencia anterior. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia.,
+9006,¿Te refieres a la flor de fiancailles?,revisado,Eco interrogativo de la referencia anterior. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia. Auditoría adicional: Eco dialogal de la referencia a fiancailles; se mejora como pregunta espontánea sin alterar el nombre.,
 9007,¿Ven aquella flor? Esa es la flor de fiancailles.,revisado,Se conserva de forma uniforme «fiancailles» y el trato plural.,
 9008,(¡Otra vez me pasa...!),revisado,Monólogo de Croix: recurrencia de recuerdos.,
 9009,(¡Algo me une a esa flor...!),revisado,Evita calco «algún tipo de conexión».,
@@ -89,7 +89,7 @@
 9037,¡Por allí!,revisado,Aviso de ataque nocturno.,
 9038,¡Toma! ¡Ja!,revisado,"Grito de combate, conciso.",
 9039,¡Todos arriba!,revisado,Alerta de Prier al grupo. Segunda pasada editorial: reformulación deliberada para evitar retener la MTL literal.,
-9040,¡Tenemos compañía!,en_revision,Aviso de intrusos. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia.,
+9040,¡No estamos solos!,revisado,Aviso de intrusos. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia. Auditoría adicional: «We've got company» funciona como aviso de presencia inesperada. Reformulación adaptada al peligro nocturno.,
 9041,¿Por qué nos atacan los aldeanos? De día parecían tan amables...,revisado,«Do this» refiere al ataque nocturno según el contexto de escena.,
 9042,¿Han estado al servicio de los demonios todo este tiempo?,revisado,Sospecha de Croix dirigida a los aldeanos.,
 9043,No. Creo que los demonios han tomado el control de sus mentes y los manejan como marionetas.,revisado,Hipótesis de posesión; evita circunloquios de la MTL.,
@@ -111,21 +111,21 @@
 9059,¡Muy fácil! ¡Solo tenemos que derrotarlo sin hacer daño a los aldeanos!,revisado,Prier simplifica de manera cómica un dilema difícil.,
 9060,"Je. Sí, facilísimo...",revisado,Ironía de Croix sobre el plan de Prier.,
 9061,...No nos queda otra opción.,revisado,Alouette se dispone a invocar a la Diosa.,
-9062,"Oh, diosa Poitreene, protégenos a nosotros y a estos inocentes... ¡Esto se pondrá interesante! Tú y tus queridos aldeanos gritarán de dolor.",requiere_investigacion,"REQUIERE COTEJO TÉCNICO: el original del grupo fusiona dos parlamentos (súplica de Alouette y amenaza del titiritero), omitiendo «villagers» antes del cambio de voz. La transcripción de escena confirma ambos textos, pero no permite reconstruir los límites de unidad/voz para inserción.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
-9063,¡Y entonces verás lo poco que tu Diosa puede hacer por ti! ¿¡Un señor demonio!?,requiere_investigacion,REQUIERE COTEJO TÉCNICO: concatenación de la amenaza del titiritero con la reacción de Homard tras una transformación. La frase inglesa «for A demon lord» es una extracción truncada; confirmar límites de parlamento y unidades.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9062,"Oh, diosa Poitreene, protégenos a nosotros y a estos inocentes... ¡Esto se pondrá interesante! Tú y tus queridos aldeanos gritarán de dolor.",requiere_investigacion,"REQUIERE COTEJO TÉCNICO: el original del grupo fusiona dos parlamentos (súplica de Alouette y amenaza del titiritero), omitiendo «villagers» antes del cambio de voz. La transcripción de escena confirma ambos textos, pero no permite reconstruir los límites de unidad/voz para inserción. Auditoría adicional: Se confirman dos personajes en una sola fila: plegaria de Alouette y amenaza de Dana; falta delimitar las unidades para cada voz.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9063,¡Y entonces verás lo poco que tu Diosa puede hacer por ti! ¿¡Un señor demonio!?,requiere_investigacion,"REQUIERE COTEJO TÉCNICO: concatenación de la amenaza del titiritero con la reacción de Homard tras una transformación. La frase inglesa «for A demon lord» es una extracción truncada; confirmar límites de parlamento y unidades. Auditoría adicional: La amenaza de Dana termina antes de la sorpresa «A demon lord?!». Dos personajes, segmentos pendientes de redistribución.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9064,¿¡Es él!?,revisado,Homard confunde inicialmente al enemigo con el demonio de su pasado.,
 9065,"No, no...",revisado,Vacilación de Homard al reconocer que no es su enemigo.,
-9066,No es él.,en_revision,Cierra la identificación del adversario. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia.,
+9066,"No, no es él.",revisado,"Cierra la identificación del adversario. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia. Auditoría adicional: Reacción de Homard al descartar que el demonio sea su antiguo enemigo. «No, no es él» mejora el giro oral.",
 9067,"¡Capitán, vamos!",revisado,Croix urge a Homard a reaccionar.,
-9068,¡Impresionante!,en_revision,El señor demonio alaba la resistencia del grupo. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia.,
+9068,¡Asombroso!,revisado,El señor demonio alaba la resistencia del grupo. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia. Auditoría adicional: El rival reconoce la fuerza del grupo; «¡Asombroso!» conserva exclamación sin mantener la MTL literal.,
 9069,"¡Para ser humanos, no lo hacen nada mal!",revisado,El original trata a los protagonistas en plural.,
 9070,¿Pero qué les parece esto?,revisado,Provocación del señor demonio al lanzar una trampa.,
-9071,Je.,en_revision,Pequeña risa de Prier en situación comprometida. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia.,
+9071,Je.,en_revision,Pequeña risa de Prier en situación comprometida. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia. Auditoría adicional: Risa irónica mínima «Heh»; no hay fundamento para añadir nuevas palabras ni duplicar la risa.,
 9072,"Vaya, parece que me han pillado.",revisado,Prier suspendida en el aire por la trampa. Segunda pasada editorial: reformulación deliberada para evitar retener la MTL literal.,
 9073,(¡Un momento! Esto me resulta familiar...),revisado,Croix siente reactivarse recuerdos oscuros.,
 9074,"¡Muy bien, Prier!",revisado,Ironía de Culotte tras la captura.,
 9075,¡Cállate! ¡Solo bajé la guardia un instante!,revisado,"Prier se defiende, irritada.",
-9076,¡Idiota! ¡Casi lo teníamos derrotado y lo echaste todo a perder! ¡Pues perdona! ¡Deja de quejarte y bájame de aquí! ¡Ya!,requiere_investigacion,"REQUIERE COTEJO TÉCNICO: el original incluye dos intervenciones distintas (Homard reprocha el error y Prier exige ayuda), fusionadas en siete unidades, y omite «everything». Se conserva la solución lingüística provisional sin aprobar su reinserción.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9076,¡Idiota! ¡Casi lo teníamos derrotado y lo echaste todo a perder! ¡Pues perdona! ¡Deja de quejarte y bájame de aquí! ¡Ya!,requiere_investigacion,"REQUIERE COTEJO TÉCNICO: el original incluye dos intervenciones distintas (Homard reprocha el error y Prier exige ayuda), fusionadas en siete unidades, y omite «everything». Se conserva la solución lingüística provisional sin aprobar su reinserción. Auditoría adicional: Los reproches de Homard y la respuesta de Prier están fusionados. El imperativo «Pronto!» significa «¡rápido!», no un nombre propio.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9077,¡Menudos humos para estar en tu situación!,revisado,Replica sarcástica de Homard a Prier.,
 9078,"¿Tanto te cuesta decir «Por favor, sálvame, capitán Homard»?",revisado,Fanfarronería de Homard: exige que Prier le suplique.,
 9079,"Sí, claro, como si fuera a hacerlo. ¡Idiota! ¡No necesito que me salve alguien como tú!",revisado,"Se conserva la burla de Prier, no una aceptación sincera.",
@@ -140,7 +140,7 @@
 9088,...¡brotan del interior de mi cuerpo!),revisado,Continúa y cierra el pensamiento de 9087; no fusionar registros.,
 9089,¡Aaaaargh!,revisado,Grito de dolor adaptado gráficamente.,
 9090,¡Aaah! ¡Siento que la cabeza me va a estallar!,revisado,Dolor intenso por despertar de su poder.,
-9091,¡Croix!,en_revision,Interpelación urgente. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia.,
+9091,¡Croix!,en_revision,"Interpelación urgente. Se cotejó con el original; coincide exactamente con el borrador automático y queda en revisión para aprobación final sin modificación ficticia. Auditoría adicional: Vocativo urgente «Croix!»; ya traducido fielmente, sin margen para revisión sustantiva.",
 9092,¡A-ayúdame...!,revisado,Se restaura el tartamudeo «H-help».,
 9093,¡No me puedo creer lo que está haciendo Croix!,revisado,Conmoción ante la transformación de Croix. Segunda pasada editorial: reformulación deliberada para evitar retener la MTL literal.,
 9094,¿Pero qué le pasa?,revisado,Pregunta sobre Croix. Segunda pasada editorial: reformulación deliberada para evitar retener la MTL literal.,
@@ -185,7 +185,7 @@
 9133,"Desde entonces, estamos atrapados por la energía oscura que aún impregna estas tierras...",revisado,Conserva la idea de espíritus ligados al lugar.,
 9134,"Si algo lograra cambiar esa energía oscura, quizá quedaríamos libres...",revisado,"Condicional tentativo de los espíritus, sin presumir método.",
 9135,El Príncipe Oscuro nació en la cercana colina de Choux Fleurs...,revisado,Se conserva el topónimo Choux Fleurs.,
-9136,Su energía oscura mantiene atrapados nuestros espíritus... Las tropas imperiales han capturado a más hermanas de Poitreene en una caza de brujas. Culpan a los fieles de Poitreene de la hambruna y la peste.,requiere_investigacion,"REQUIERE COTEJO TÉCNICO: diez unidades contienen varios mensajes originalmente separados (atadura de espíritus, persecución de hermanas, acusación de epidemia). El texto perdió partes de dos frases y los límites de parlamento; propuesta editorial no apta aún para inserción.",
+9136,Su energía oscura mantiene atrapados nuestros espíritus... Las tropas imperiales han capturado a más hermanas de Poitreene en una caza de brujas. Culpan a los fieles de Poitreene de la hambruna y la peste.,requiere_investigacion,"REQUIERE COTEJO TÉCNICO: diez unidades contienen varios mensajes originalmente separados (atadura de espíritus, persecución de hermanas, acusación de epidemia). El texto perdió partes de dos frases y los límites de parlamento; propuesta editorial no apta aún para inserción. Auditoría adicional: Diez unidades contienen al menos tres mensajes de escenas distintas; se requiere transcripción por unidad y no una nueva conjetura léxica.",
 9137,"¡Si esto sigue así, nuestro país no durará mucho!",revisado,Advertencia ante la crisis social y política.,
 9138,"Croix solía ser bastante problemático, pero Angelique lo cambió por completo. Ahora es quien más trabaja en el pueblo.",revisado,Se reconstruye el sentido de «changed all [that]» con la continuación; no se añaden acontecimientos.,
 9139,Tengo un secreto...,revisado,Fórmula natural para revelar un dato.,
@@ -216,23 +216,23 @@
 9164,¡Menos mal que liberaron al pueblo de aquel demonio!,revisado,Dirigido al grupo; agradecimiento de un aldeano.,
 9165,"¡Bien hecho, hermana!",revisado,Culotte llama hermana a Prier; evita «hermana mayor» literal.,
 9166,¿De veras lo crees?,revisado,"Prier agradece el reconocimiento, con cierto rubor.",
-9167,"Me da algo de vergüenza que me lo digan delante de... Oye, ¿de verdad no te importa todo el lío del compromiso?",requiere_investigacion,"EXTRACCIÓN: dos parlamentos fusionados; primer parlamento se interrumpe tras «in front of», y faltan límites de personaje/unidades. No aprobar para inserción.",
+9167,"Me da algo de vergüenza que me lo digan delante de... Oye, ¿de verdad no te importa todo el lío del compromiso?",requiere_investigacion,"EXTRACCIÓN: dos parlamentos fusionados; primer parlamento se interrumpe tras «in front of», y faltan límites de personaje/unidades. No aprobar para inserción. Auditoría adicional: Dos interlocutores: el elogio entrecortado y la pregunta sobre el compromiso. Requerida recuperación del vocativo final.",
 9168,¿Pero qué estás diciendo?,revisado,Reacción sorprendida a la pregunta sobre el compromiso.,
 9169,¡Claro que no me importa!,revisado,Conserva la negación de incomodidad frente al compromiso.,
 9170,Bueno... Si tú lo dices.,revisado,Respuesta incrédula y coloquial.,
 9171,"Perdona, ha sido una tontería.",revisado,Disculpa conversacional.,
 9172,Parece que ya no tenemos nada más que hacer aquí...,revisado,Cierra investigación en el pueblo.,
-9173,...al pueblo de al lado.,requiere_investigacion,EXTRACCIÓN: segmento aislado sin verbo ni hablante seguro; puede ser continuación o mensaje autónomo. No completar inventando inicio.,
+9173,...al pueblo de al lado.,requiere_investigacion,"EXTRACCIÓN: segmento aislado sin verbo ni hablante seguro; puede ser continuación o mensaje autónomo. No completar inventando inicio. Auditoría adicional: Segmento subordinado «to the next town over», no se sabe qué verbo rector perdió. Mantener fragmento.",
 9174,"Sí, será mejor que sigamos camino.",revisado,Aceptación de partir.,
-9175,...entusiasmado.,requiere_investigacion,EXTRACCIÓN: adjetivo final huérfano; no consta sujeto ni contexto suficiente para aprobar.,
+9175,...entusiasmado.,requiere_investigacion,EXTRACCIÓN: adjetivo final huérfano; no consta sujeto ni contexto suficiente para aprobar. Auditoría adicional: Adjetivo final «excited» sin referente; tampoco el contexto posterior aporta el antecedente.,
 9176,Todavía queda mucho por investigar sobre Fátima. ¡Sigamos adelante!,revisado,Original comienza a mitad de frase; se formula sin añadir datos nuevos.,
-9177,Es culpa nuestra que el pueblo terminara...,requiere_investigacion,EXTRACCIÓN: frase interrumpida antes de su desenlace; imposible conocer la desgracia específica a la que alude.,
+9177,Es culpa nuestra que el pueblo terminara...,requiere_investigacion,EXTRACCIÓN: frase interrumpida antes de su desenlace; imposible conocer la desgracia específica a la que alude. Auditoría adicional: La frase termina en «ended up» sin predicado; prohibido deducir el estado final del pueblo.,
 9178,"Sí... Me siento fatal, pero tenemos que seguir adelante.",revisado,La culpa no paraliza al grupo.,
-9179,¡Así se habla!... ¿Seguro que estás bien?,requiere_investigacion,"EXTRACCIÓN: dos intervenciones unidas, interrupción tras «That is the spirit,»; cotejar límites.",
-9180,Aquel niño con el que hablamos de la colina parecía ocultar algo... Deberíamos investigar.,requiere_investigacion,EXTRACCIÓN: original pierde objeto de «hiding» y límites entre frase de sospecha e iniciativa; no dar por técnicamente aprobado.,
-9181,El misterio de la nieve que no cesa... Los espíritus de estas personas parecen dominados por una poderosa energía oscura.,requiere_investigacion,EXTRACCIÓN: texto sobre la nieve aparentemente fusionado con observación sobre los espíritus; posible cambio de pantalla o personaje.,
+9179,¡Así se habla!... ¿Seguro que estás bien?,requiere_investigacion,"EXTRACCIÓN: dos intervenciones unidas, interrupción tras «That is the spirit,»; cotejar límites. Auditoría adicional: Al menos una réplica de aliento y otra pregunta fusionadas; separar por voz y verificar el destinatario.",
+9180,Aquel niño con el que hablamos de la colina parecía ocultar algo... Deberíamos investigar.,requiere_investigacion,EXTRACCIÓN: original pierde objeto de «hiding» y límites entre frase de sospecha e iniciativa; no dar por técnicamente aprobado. Auditoría adicional: La descripción del niño que oculta algo se yuxtapone a una invitación a investigar. Falta objeto y división de diálogo.,
+9181,El misterio de la nieve que no cesa... Los espíritus de estas personas parecen dominados por una poderosa energía oscura.,requiere_investigacion,EXTRACCIÓN: texto sobre la nieve aparentemente fusionado con observación sobre los espíritus; posible cambio de pantalla o personaje. Auditoría adicional: La nieve persistente y la energía que domina a los espíritus son dos proposiciones unidas sin límites seguros.,
 9182,Me gustaría poder hacer algo por ellos...,revisado,Empatía hacia los espíritus.,
-9183,Quizá podamos ayudarlos si averiguamos de dónde viene esta... Aquí está la colina donde...,requiere_investigacion,EXTRACCIÓN: dos frases truncadas y fusionadas; faltan el objeto de «this» y el final de «where».,
+9183,Quizá podamos ayudarlos si averiguamos de dónde viene esta... Aquí está la colina donde...,requiere_investigacion,EXTRACCIÓN: dos frases truncadas y fusionadas; faltan el objeto de «this» y el final de «where». Auditoría adicional: Faltan tanto el complemento de «this» como el relativo de «where»; no es seguro completar topónimo o causa.,
 9184,¿Qué es exactamente lo que recuerdo...?,revisado,Croix trata de situar sus recuerdos.,
 9185,"En cuanto nació, destruyó el pueblo y dejó atrapadas las almas de sus habitantes.",revisado,Recupera la función del Príncipe Oscuro en la tragedia de la aldea.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9186,El Príncipe Oscuro da auténtico miedo...,revisado,Consistencia del título.,
@@ -248,18 +248,18 @@
 9196,"¿Te encuentras bien, Prier?",revisado,Pregunta directa a Prier. Segunda lectura contrastada con el original: se sustituye formulación idéntica a la MTL por una alternativa idiomática.,
 9197,Sigues pareciendo preocupada.,revisado,Contexto anterior identifica a Prier como interlocutora; femenino.,
 9198,Parece que soy de esta época.,revisado,"Croix percibe pertenencia temporal, no identidad distinta.",
-9199,"Entonces, ¿qué le ha pasado a mi cuerpo...? Pensar que estabas prometido...",requiere_investigacion,EXTRACCIÓN: dos voces/ideas yuxtapuestas y objeto temporal perdido tras «body». Requiere cotejo con unidades y escena.,
+9199,"Entonces, ¿qué le ha pasado a mi cuerpo...? Pensar que estabas prometido...",requiere_investigacion,EXTRACCIÓN: dos voces/ideas yuxtapuestas y objeto temporal perdido tras «body». Requiere cotejo con unidades y escena. Auditoría adicional: Pregunta de Croix sobre su cuerpo y sorpresa del grupo por el compromiso de Angelique; dos momentos/vox mezclados.,
 9200,¡Debieron de pasar tantas cosas...!,revisado,Exclamación de Prier ante el pasado de Croix.,
 9201,¿Por qué te pones tan nerviosa?,revisado,Croix pregunta a Prier; concordancia femenina por interlocutora inmediata.,
 9202,Angelique es una persona muy dulce y bondadosa.,revisado,Adjetivos naturales para «kind and gentle».,
-9203,Tú también eres así a veces... ¿¡De verdad!? ¡Me estás halagando!,requiere_investigacion,"EXTRACCIÓN: el texto combina elogio y réplica de dos interlocutores; faltan el enlace tras «at times,» y delimitación de voces.",
-9204,"En todo caso, lo soy.",requiere_investigacion,"EXTRACCIÓN: «If anything, I am» carece del atributo o referente; no se puede determinar si el hablante se atribuye una cualidad o rectifica algo.",
-9205,"¿Qué ocurre...? ¡Por favor, cálmate!",requiere_investigacion,"EXTRACCIÓN: «What is wrong,» seguido de exhortación potencialmente de otra voz; requiere identificar hablantes y corte.",
+9203,Tú también eres así a veces... ¿¡De verdad!? ¡Me estás halagando!,requiere_investigacion,"EXTRACCIÓN: el texto combina elogio y réplica de dos interlocutores; faltan el enlace tras «at times,» y delimitación de voces. Auditoría adicional: Uno elogia y otro responde sorprendido; se necesitan límites de personaje antes de la reinserción.",
+9204,"En todo caso, lo soy.",requiere_investigacion,"EXTRACCIÓN: «If anything, I am» carece del atributo o referente; no se puede determinar si el hablante se atribuye una cualidad o rectifica algo. Auditoría adicional: «If anything, I am» exige predicado omitido; el contexto adyacente no permite elegirlo.",
+9205,"¿Qué ocurre...? ¡Por favor, cálmate!",requiere_investigacion,"EXTRACCIÓN: «What is wrong,» seguido de exhortación potencialmente de otra voz; requiere identificar hablantes y corte. Auditoría adicional: Pregunta truncada y orden de calmarse; probable alternancia de voz sin separador.",
 9206,¡El capitán Homard es formidable!,revisado,"Admiración espontánea, registro enfático.",
-9207,¿...que nuestra aventura nos llevaría al pasado?,requiere_investigacion,"EXTRACCIÓN: falta el inicio de la interrogación, probablemente un verbo de expectativa; se conserva como fragmento sin inventar.",
+9207,¿...que nuestra aventura nos llevaría al pasado?,requiere_investigacion,"EXTRACCIÓN: falta el inicio de la interrogación, probablemente un verbo de expectativa; se conserva como fragmento sin inventar. Auditoría adicional: Falta el verbo inicial de la interrogación sobre un viaje al pasado; conservar la elipsis.",
 9208,Lástima que tú estés aquí solo porque te has venido con nosotros.,revisado,Tono burlón de «tagged along»; no implica inscripción formal. Segunda lectura: se elimina la implicación temporal no presente en «tagged along».,
-9209,¿...con eso?,requiere_investigacion,EXTRACCIÓN: «by that?!» es un resto de interrogación; se desconoce verbo rector.,
-9210,Para que descubramos el secreto del nacimiento del Príncipe Oscuro...,requiere_investigacion,EXTRACCIÓN: «For us to find out...» es una subordinada sin frase principal; sin certeza sobre el final ni el tono.,
+9209,¿...con eso?,requiere_investigacion,EXTRACCIÓN: «by that?!» es un resto de interrogación; se desconoce verbo rector. Auditoría adicional: Solo final interrogativo «by that?!»; su anclaje al mensaje previo es insuficiente.,
+9210,Para que descubramos el secreto del nacimiento del Príncipe Oscuro...,requiere_investigacion,"EXTRACCIÓN: «For us to find out...» es una subordinada sin frase principal; sin certeza sobre el final ni el tono. Auditoría adicional: Subordinada final sin proposición principal segura. La meta sí es el nacimiento del Príncipe Oscuro, pero no se sabe la petición.",
 9211,Esto debe de ser voluntad de la diosa Poitreene...,revisado,Referencia religiosa uniforme.,
 9212,"Aunque así fuera, ¡eso no justificaría dejar morir a Angelique!",revisado,«Even if that were the [case]» es inferible por la réplica siguiente; se preserva protesta moral.,
 9213,¡Hay que encontrarla!,revisado,Original extraído como «find her!»; referencia a Angelique establecida por contexto.,
@@ -287,7 +287,7 @@
 9235,Ya está...,revisado,Interjección de finalización tras la purificación.,
 9236,"Buen trabajo, Prier.",revisado,Alabanza sencilla y cercana. Segunda lectura contrastada con el original: se sustituye formulación idéntica a la MTL por una alternativa idiomática.,
 9237,Pero ¿no podríamos hacer algo más...?,revisado,"Pregunta inconclusa conservada, sin inventar complemento.",
-9238,"Vamos, tenemos que... Nos espera una tarea importante.",requiere_investigacion,EXTRACCIÓN: falta la continuación tras «we must be»; hay dos frases unidas sin separación de unidades/voz.,
+9238,"Vamos, tenemos que... Nos espera una tarea importante.",requiere_investigacion,"EXTRACCIÓN: falta la continuación tras «we must be»; hay dos frases unidas sin separación de unidades/voz. Auditoría adicional: «Come, we must be» queda cortado y enlaza otro parlamento completo; doble oración sin división de unidades.",
 9239,"Parece que la hermana Alouette tiene mucha prisa, y no sé por qué.",revisado,Extrañeza de Culotte ante la actitud de Alouette.,
 9240,¿Por qué será...?,revisado,Duda interior en registro natural.,
 9241,Lo de ayer fue tremendo.,revisado,Balance del episodio traumático del día anterior.,
@@ -302,21 +302,21 @@
 9250,"A medida que pasa el tiempo, me invade un presentimiento cada vez más terrible.",revisado,Se conserva progresión del temor sin calcar «indescriptible».,
 9251,Todas las noches sueño con mi propia muerte...,revisado,Presagio de Alouette; verificado con transcripción de capítulo.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9252,¡E-eso no es más que un sueño!,revisado,Restaura tartamudeo «T-that»; Culotte trata de tranquilizarla.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
-9253,¡No tienes que preocuparte...! Y cada noche ese sueño se vuelve más nítido...,requiere_investigacion,EXTRACCIÓN: respuesta de Culotte «You shouldn't worry about it» fusionada con réplica posterior de Alouette «And every night...». Límites de voz por unidad pendientes de cotejo.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9253,¡No tienes que preocuparte...! Y cada noche ese sueño se vuelve más nítido...,requiere_investigacion,EXTRACCIÓN: respuesta de Culotte «You shouldn't worry about it» fusionada con réplica posterior de Alouette «And every night...». Límites de voz por unidad pendientes de cotejo. Auditoría adicional: Transcripción externa distingue la tranquilización de Culotte y el sueño recurrente de Alouette; requiere asignar a voces distintas.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9254,Creo que se acerca mi hora...,revisado,"Alouette insinúa que va a morir, con tono sobrio.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9255,¡Tú no vas a morir!,revisado,Cierre «die» perdido en la extracción; recuperado de transcripción de escena.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9256,¡Yo te protegeré!,revisado,"Promesa de Culotte; cierre no presente en original extraído, por lo que se conserva forma breve.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9257,¡Así que deja de hablar de morirte!,revisado,"Impulso protector de Culotte, registro emotivo.",
 9258,Para mí eres como un hermano pequeño.,revisado,Alouette responde a Culotte; evita diminutivo excesivamente infantil.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9259,¿Un... hermano...?,revisado,Culotte repite desconcertado el término; la pausa marca decepción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
-9260,No te olvides de mí... Creo que será mejor que nos vayamos.,requiere_investigacion,"EXTRACCIÓN: dos mensajes de escenas o hablantes distintos fusionados tras «Do not forget me,». Consultar unidades antes de aprobar.",
+9260,No te olvides de mí... Creo que será mejor que nos vayamos.,requiere_investigacion,"EXTRACCIÓN: dos mensajes de escenas o hablantes distintos fusionados tras «Do not forget me,». Consultar unidades antes de aprobar. Auditoría adicional: El «Do not forget me» parece despedida de Alouette y «I guess we should be heading off» es otra réplica; faltan las voces.",
 9261,¿Por qué te has quedado ahí plantado como una estatua?,revisado,Reprimenda coloquial a quien se detuvo.,
 9262,Sí... Estoy bien.,revisado,Respuesta pausada; se mantiene significado sin forzar cambio.,
 9263,¿Seguro?,revisado,Pregunta breve natural de duda.,
 9264,¡E-está bien!,revisado,Restituye tartamudeo «H-he» conservado en el original.,
 9265,¿Es que no lo has oído?,revisado,Respuesta al recelo de Alouette.,
 9266,"¿Por qué te preocupas tanto, Alouette?",revisado,Continúa la reacción de Culotte.,
-9267,"¡Es el Croix de siempre...! ¡Vamos, en marcha!",requiere_investigacion,"EXTRACCIÓN: «It's just good old [Croix]» y «Let's get going!» aparecen fusionados, posiblemente con cambio de hablante; hay que cotejar límites.",
+9267,"¡Es el Croix de siempre...! ¡Vamos, en marcha!",requiere_investigacion,"EXTRACCIÓN: «It's just good old [Croix]» y «Let's get going!» aparecen fusionados, posiblemente con cambio de hablante; hay que cotejar límites. Auditoría adicional: La afirmación sobre el Croix habitual y la orden de avanzar son posiblemente dos pantallas; corroborar antes de aprobar.",
 9268,"¡Date prisa, Culotte!",revisado,Orden coloquial de avanzar.,
 9269,¿Nieve...?,revisado,Sorpresa ante la nieve donde debería haber desierto.,
 9270,¡Increíble! ¡Si hace nada estábamos en el desierto!,revisado,Contraste espacial con la nieve.,
@@ -348,7 +348,7 @@
 9296,(¡Reconozco este lugar!),revisado,La memoria de Croix se activa.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9297,Solo he tropezado...,revisado,Alouette disimula su súbito desvanecimiento.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9298,"...Vamos, démonos prisa.",revisado,Alouette urge al grupo para continuar.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
-9299,"Los estaba esperando... Oye, ¿tú no eres...?",requiere_investigacion,"EXTRACCIÓN: la voz del señor demonio «I've been waiting for you» está fusionada con Prier «Hey, aren't you...?». Necesita segmentación y atribución separada.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9299,"Los estaba esperando... Oye, ¿tú no eres...?",requiere_investigacion,"EXTRACCIÓN: la voz del señor demonio «I've been waiting for you» está fusionada con Prier «Hey, aren't you...?». Necesita segmentación y atribución separada. Auditoría adicional: La espera del antagonista y la sorpresa de Prier ante él constituyen dos voces, no una frase continua.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9300,¡El señor oscuro Seville Tempete!,revisado,Conserva Seville Tempete como nombre propio; el enemigo se presenta tras la pregunta de Prier.,
 9301,"¡Eso, exacto!",revisado,Respuesta espontánea de Prier al nombre del enemigo.,
 9302,¡Quizá me derrotaron una vez! ¡Y también vencieron a mi compañero Dana Albijwaz!,revisado,Sevilla/Tempestad no son traducciones de nombres propios; el demonio se dirige al grupo en plural.,
@@ -369,10 +369,10 @@
 9317,Ya los vieron. Ni siquiera después de morir pueden abandonar estas tierras.,revisado,El demonio alude a los espíritus observados anteriormente.,
 9318,Es la energía oscura la que los mantiene atrapados.,revisado,"No se trata de «unir» a los espíritus, sino de retenerlos en la zona.",
 9319,"Si me matan, el flujo de energía oscura se romperá...",revisado,Condicional de amenaza; se mantiene sentido sin inventar resultado inmediato.,
-9320,Y se perderán para siempre en el vacío... ¿¡Los estás utilizando como rehenes!?,requiere_investigacion,EXTRACCIÓN: la amenaza del demonio y la reacción de Éclair están fusionadas en un grupo de cuatro unidades. La transcripción distingue dos voces; exige resegmentación antes de la inserción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9320,Y se perderán para siempre en el vacío... ¿¡Los estás utilizando como rehenes!?,requiere_investigacion,EXTRACCIÓN: la amenaza del demonio y la reacción de Éclair están fusionadas en un grupo de cuatro unidades. La transcripción distingue dos voces; exige resegmentación antes de la inserción. Auditoría adicional: El secuestro de almas termina con pregunta de Éclair sobre los rehenes. Separación de hablantes necesaria.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9321,Malditos demonios...,revisado,Indignación de Homard; tono de repulsión.,
 9322,¿Por qué no saben hacer otra cosa que recurrir a trampas rastreras?,revisado,Reproche de Homard por usar rehenes.,
-9323,"(Igual que cuando tomaron a mi madre como rehén y mi padre, indefenso, estaba...)",requiere_investigacion,EXTRACCIÓN: pensamiento de Homard cortado a mitad de frase en «my helpless father was». Conservar suspensión sin inventar lo sucedido al padre.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9323,"(Igual que cuando tomaron a mi madre como rehén y mi padre, indefenso, estaba...)",requiere_investigacion,"EXTRACCIÓN: pensamiento de Homard cortado a mitad de frase en «my helpless father was». Conservar suspensión sin inventar lo sucedido al padre. Auditoría adicional: El pensamiento de Homard acaba con una suspensión narrativa explícita, pero no hay prueba de que la línea sea íntegra en la caja.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9324,¿De verdad no podemos hacer nada?,revisado,Pregunta desesperada sobre la suerte de los aldeanos.,
 9325,Acaba con él.,revisado,Orden fría de Alouette a Prier; escena confirmada en transcripción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9326,"¿No me has oído, Prier? Acaba con él.",revisado,Alouette insiste en destruir al enemigo pese a la amenaza.,
@@ -397,7 +397,7 @@
 9345,Ahora debo marcharme.,revisado,Despedida del espíritu.,
 9346,Gracias otra vez. Rezaremos para que estén a salvo.,revisado,Agradecimiento final y oración a favor del grupo.,
 9347,Las nubes se están disipando...,revisado,Describe el cielo que se despeja tras la liberación del lugar.,
-9348,La energía oscura debe de haberse debilitado... ¡Este árbol...!,requiere_investigacion,EXTRACCIÓN: fusiona la explicación de Éclair sobre el debilitamiento de la energía con la reacción de Croix ante el árbol. Dos voces y dos unidades; requiere cotejo de segmentación.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9348,La energía oscura debe de haberse debilitado... ¡Este árbol...!,requiere_investigacion,EXTRACCIÓN: fusiona la explicación de Éclair sobre el debilitamiento de la energía con la reacción de Croix ante el árbol. Dos voces y dos unidades; requiere cotejo de segmentación. Auditoría adicional: La energía oscura que se disipa y el descubrimiento del árbol son dos intervenciones de diferentes personajes.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9349,¡Y también esta flor...!,revisado,Croix reconoce la flor vinculada a sus recuerdos.,
 9350,¡Me acuerdo de ellos!,revisado,Croix reconoce el árbol y la flor.,
 9351,Este sitio...,revisado,Continúa el despertar de los recuerdos.,
@@ -440,7 +440,7 @@
 9388,¡Un momento!,revisado,Interrupción repentina.,
 9389,(Ha pasado de mí...),revisado,Pensamiento de Culotte; expresa que Alouette lo ha ignorado.,
 9390,"¡Culotte, andando!",revisado,Recriminación cariñosa al hermano menor.,
-9391,¡Esa mujer...!,en_revision,Intervención ya fiel en el borrador automático; no se altera artificialmente un fragmento expresivo y queda pendiente de aprobación editorial.,
+9391,¡Aquella mujer...!,revisado,Intervención ya fiel en el borrador automático; no se altera artificialmente un fragmento expresivo y queda pendiente de aprobación editorial. Auditoría adicional: El deíctico «that» refiere a una mujer reconocible a distancia. «Aquella» conserva el matiz.,
 9392,¡Es la misma que aparece una y otra vez en mis visiones!,revisado,Croix reconoce a la mujer que veía en sus visiones.,
 9393,"¿Qué ocurre, Croix?",revisado,Pregunta de Angelique a quien confunde con su prometido.,
 9394,¿No dijiste que ibas a hacer unas compras?,revisado,Angelique recuerda los planes de su prometido.,
@@ -451,7 +451,7 @@
 9399,¿Que acabamos de conocernos?,revisado,Angelique se extraña: cree estar hablando con su prometido.,
 9400,"Es cierto que acabo de conocerte, pero...",revisado,Angelique se extraña del desconocimiento; cree reconocer a su prometido.,
 9401,Estoy prometida con Croix.,revisado,Se corrige concordancia narrativa evitando confundir a Croix con una mujer.,
-9402,Prometido.,en_revision,Réplicas encadenadas: Éclair repite únicamente la palabra para ayudar a Prier; la MTL ya es exacta y no se modifica por artificio.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9402,Prometido.,en_revision,"Réplicas encadenadas: Éclair repite únicamente la palabra para ayudar a Prier; la MTL ya es exacta y no se modifica por artificio. Auditoría adicional: Únicamente la palabra «Fiance». El borrador es correcto, pero agregar referentes sería inventar.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9403,Uf... Gracias.,revisado,Prier agradece a Éclair que termine la palabra durante su tartamudeo.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9404,¡¿SU PROMETIDO?!,revisado,"Exclamación de Prier, sorprendida por el vínculo romántico.",
 9405,¡E-espera un momento!,revisado,Se conserva el tartamudeo inicial de Croix.,
@@ -466,7 +466,7 @@
 9414,"Bueno, deja que me presente.",revisado,Presentación informal a nuevos huéspedes.,
 9415,Me llamo Angelique.,revisado,"Se conserva nombre propio, no «Angélica».",
 9416,Vivo por aquí cerca.,revisado,Indicación breve de su residencia.,
-9417,(Angelique...),en_revision,El pensamiento es solo un nombre propio con pausa y coincide con la MTL; se evita una modificación sin valor.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9417,(Angelique...),en_revision,El pensamiento es solo un nombre propio con pausa y coincide con la MTL; se evita una modificación sin valor. Auditoría adicional: Monólogo interior con solo el nombre Angelique; puntuación original preservada.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9418,(Es el nombre que estaba tallado en el árbol...),revisado,Culotte relaciona a Angelique con la inscripción.,
 9419,¿Así que están de viaje?,revisado,Angelique se dirige al grupo en plural.,
 9420,¿Por qué no vienen a pasar la noche en mi casa?,revisado,Invitación hospitalaria a todos los visitantes.,
@@ -478,7 +478,7 @@
 9426,"Bueno, ya se ha marchado.",revisado,Culotte constata la partida de Angelique.,
 9427,Creo que esta es la época de la que provengo.,revisado,Croix relaciona sus recuerdos con el período al que viajaron.,
 9428,¡No fastidies! ¡Entonces eres un auténtico viejales!,revisado,Broma irreverente de Papillon a Croix.,
-9429,¡Papillon!,en_revision,"Nombre propio gritado por Homard, idéntico al borrador automático; se conserva en revisión sin cambios artificiales.",
+9429,¡Papillon!,en_revision,"Nombre propio gritado por Homard, idéntico al borrador automático; se conserva en revisión sin cambios artificiales. Auditoría adicional: Grito de nombre propio, sin equivalencia alternativa ni texto omitido.",
 9430,¿No notaron que Angelique se parece muchísimo a Prier?,revisado,"Éclair alude a parecido físico, no a semejanza moral.",
 9431,"Sí, a mí también me dio esa impresión.",revisado,Asentimiento de Culotte.,
 9432,Ahora que lo mencionas...,revisado,Reconstrucción de frase extraída solo como «it...»; cotejo de transcripción: «Now that you mention it...».,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
@@ -500,7 +500,7 @@
 9448,¿Él?,revisado,"Corrige el calco «¿A él?», que no corresponde a la pregunta anterior.",
 9449,"Ah, ¿hablas de Croix?",revisado,Aclara la persona a la que se refiere la pregunta.,
 9450,"Dijo que volvería antes del anochecer, así que no debería tardar, pero...",revisado,Revisión humana del original y diálogo adyacente.,
-9451,Pareces preocupada por él... Sí. La noche no le hace bien.,requiere_investigacion,Dos parlamentos parecen fusionados: pregunta de visitante y respuesta de Angelique. Confirmar separación y hablantes.,
+9451,Pareces preocupada por él... Sí. La noche no le hace bien.,requiere_investigacion,"Dos parlamentos parecen fusionados: pregunta de visitante y respuesta de Angelique. Confirmar separación y hablantes. Auditoría adicional: La pregunta a Angelique y su respuesta acerca de la noche están fusionadas, y falta la mención de Croix en el original corto.",
 9452,¿Es que le tiene miedo a la oscuridad?,revisado,Revisión humana del original y diálogo adyacente.,
 9453,Todo lo contrario. Su naturaleza oscura siempre ha sido muy intensa.,revisado,Revisión humana del original y diálogo adyacente.,
 9454,¿Su naturaleza oscura...?,revisado,Revisión humana del original y diálogo adyacente.,
@@ -519,14 +519,14 @@
 9467,En este pueblo pertenezco a la orden de hermanas que sirven a la Diosa.,revisado,Revisión humana del original y diálogo adyacente. Segunda lectura editorial: se evitó conservar sin cambios la formulación automática mediante una adaptación contextual.,
 9468,¡Entonces somos hermanas de fe!,revisado,Revisión humana del original y diálogo adyacente.,
 9469,¿¡Tú también!?,revisado,Revisión humana del original y diálogo adyacente.,
-9470,¡Qué día de suerte! Seguro que la Diosa ha intervenido para que nos encontremos.,requiere_investigacion,Original comienza en mitad de una oración («lucky day!»). El sujeto de la primera exclamación se infiere; cotejar unidades.,
+9470,¡Qué día de suerte! Seguro que la Diosa ha intervenido para que nos encontremos.,requiere_investigacion,"Original comienza en mitad de una oración («lucky day!»). El sujeto de la primera exclamación se infiere; cotejar unidades. Auditoría adicional: «lucky day!» carece del arranque, aunque la oración posterior sobre la Diosa sí tiene sentido.",
 9471,"Eh... Angelique, ¿puedo preguntarte algo?",revisado,Revisión humana del original y diálogo adyacente.,
 9472,"Si tus poderes te han hecho sufrir tanto, ¿cómo puedes seguir siendo así?",revisado,Revisión humana del original y diálogo adyacente.,
 9473,¿Así cómo...?,revisado,Revisión humana del original y diálogo adyacente.,
 9474,Quiero decir... ¿Nunca has odiado tus poderes ni a quienes te persiguieron por ellos?,revisado,Revisión humana del original y diálogo adyacente.,
 9475,No. Nunca.,revisado,Revisión humana del original y diálogo adyacente.,
-9476,Gracias a mis poderes puedo ayudar a muchas personas que sufren...,requiere_investigacion,"Texto original termina en «many suffering», sin saber si existen términos posteriores; reconstrucción parcial pendiente.",
-9477,...más que eso.,requiere_investigacion,Fragmento «than that.» huérfano; imposible determinar con precisión la comparación previa y el límite de unidad.,
+9476,Gracias a mis poderes puedo ayudar a muchas personas que sufren...,requiere_investigacion,"Texto original termina en «many suffering», sin saber si existen términos posteriores; reconstrucción parcial pendiente. Auditoría adicional: El cuantificador «many suffering» queda sin sustantivo; se puede proponer «personas que sufren» pero la integridad técnica no está comprobada.",
+9477,...más que eso.,requiere_investigacion,Fragmento «than that.» huérfano; imposible determinar con precisión la comparación previa y el límite de unidad. Auditoría adicional: «than that.» es resto de comparación sin primer término; no forzar conexión con 9476 hasta cotejar.,
 9478,(Qué situación tan complicada...),revisado,Revisión humana del original y diálogo adyacente.,
 9479,(Parece una chica estupenda.),revisado,Revisión humana del original y diálogo adyacente.,
 9480,"(Cuando me enteré de que era la prometida de Croix, estaba dispuesta a odiarla, pero ahora...)",revisado,Revisión humana del original y diálogo adyacente.,
