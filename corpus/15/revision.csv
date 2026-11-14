@@ -50,7 +50,7 @@
 531,Orbe del dios demoníaco,revisado,魔神 designa una deidad demoníaca; no basta demoníaco en general.,
 532,Esfera mágica que encierra a un dios demoníaco.,revisado,"封じ込めた indica que la entidad fue sellada, no solo que aporta poder.",
 533,Vajra,revisado,"Se conserva el nombre de la vara, corroborado en el inventario japonés.",https://xn--1-td6bm19b.com/lapyuseru-tengoku/item.html
-534,"Bastón que alberga a Eritsin, espíritu del rayo.",requiere_investigacion,雷精 significa espíritu del rayo. エリツィン se romaniza provisionalmente Eritsin; falta confirmar nombre propio en localización oficial.,
+534,"Bastón que alberga a Yeltsin, espíritu del rayo.",revisado,"雷精 = espíritu del rayo; 宿した杖 = bastón que alberga. エリツィン corresponde a la transliteración japonesa del apellido Yeltsin (Biblioteca Nacional de la Dieta de Japón y Ministerio de Exteriores de Japón). Se conserva como nombre propio del ser del juego, sin afirmar que sea el político histórico. Corrige el borrador, que elimina el nombre.",https://id.ndl.go.jp/auth/ndlna/00477605; https://www.mofa.go.jp/mofaj/gaiko/summit/denver/r_yel.html
 535,Anillo del ángel caído,revisado,堕天使 significa ángel caído; «Calamity» no aparece en el original.,https://xn--1-td6bm19b.com/lapyuseru-tengoku/item.html
 536,Anillo hechizado por un ángel caído.,revisado,"魅了された expresa cautivado o hechizado por, no imbución de Calamity.",
 537,Anillo de la diosa,revisado,Nombre cotejado: 女神 significa diosa.,https://xn--1-td6bm19b.com/lapyuseru-tengoku/item.html
@@ -181,7 +181,7 @@
 1559,Está hecho de plata.,revisado,"銀製の: fabricación en plata, sin atributo extra.",
 1560,Estelar,revisado,"星の: relativo a las estrellas, como nombre de modificador.",
 1561,El brillo de las estrellas debilita la magia.,revisado,Se conserva el efecto de 星の輝きで魔法を弱める sin ampliar su alcance.,
-1562,Pakkun,requiere_investigacion,パックン puede ser mote u onomatopeya; «Adorable» del borrador no traduce el nombre. Se deja romanización provisional para identificar posible referencia propia.,
+1562,Pakkun,revisado,"パックン se conserva mediante romanización prudente «Pakkun»; no se traduce por «Adorable» porque 超かわいい es la descripción del siguiente grupo, no el significado de este nombre. パックン/ぱっくん también es onomatopeya de abrir la boca y engullir de un bocado; no se presupone identidad de personaje ni efecto de juego. Comprobar equivalencia en interfaz en fase de reinserción.",https://goiryoku.com/onomatopoeia/pakunn/
 1563,¡Qué cosa tan adorable!,revisado,超かわいい es un elogio exagerado de ternura; se recupera el énfasis humorístico.,
 1564,De las tinieblas,revisado,闇の: atributo de oscuridad o tinieblas; se mantiene distintivo frente a 光の.,
 1565,Que cree llevar oculto el poder de las tinieblas.,revisado,"つもりの indica pretensión o creencia, no poder real confirmado; se corrige el borrador.",
@@ -249,7 +249,7 @@
 1627,Superimpresionante,revisado,"超すごい: muy impresionante, registro intensificador lúdico.",
 1628,Calidad suprema,revisado,"最高級: de la más alta categoría, sin redundar con descripción.",
 1629,De la máxima calidad.,revisado,最高級の: adjetivo de primerísima calidad.,
-1630,,requiere_investigacion,Secuencia japonesa «ェD» sin significado lingüístico verificable; probable extracción corrupta. Revisar bytes originales antes de traducir.,
+1630,,requiere_investigacion,"ORIGINAL ININTELIGIBLE «ェD» (grupo 1630, DLC_00/ritem.dat, offset 7552, idioma mixto_ja_lat). La misma secuencia figura en entrada.csv, el maestro y el TXT de referencia; no es una ambigüedad resoluble por contexto. El ZIP y repositorio de localización no incluyen el binario DLC_00/ritem.dat: no es posible cotejar los bytes CP932 ni los delimitadores. No traducir, no aprobar ni reinsertar; la coordinación técnica debe inspeccionar el recurso original cerca de los offsets 7552–7556 y determinar si es control o extracción dañada.",
 1631,Milagroso,revisado,"奇跡の: cualidad de un objeto vinculado a un milagro, no el sustantivo aislado.",
 1632,Obra milagros.,revisado,奇跡をおこす es afirmativo; la interrogación en el borrador no procede.,
 1633,El mejor de Japón,revisado,日本一 significa el número uno en Japón; no «divino».,
