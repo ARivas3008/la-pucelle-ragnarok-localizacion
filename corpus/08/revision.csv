@@ -299,56 +299,56 @@
 8241,"¡Les daré todas las joyas de inochium que quieran!",revisado,"Inochium es un material ficticio del juego, no debe traducirse como «inocio»; el nombre Escargot también es propio.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
 8242,"¡Pero, a cambio, tienen que llevarme con ustedes a Fátima!",revisado,"",""
 8243,"¡Fátima! ¡Una tierra olvidada, envuelta en un velo de misterio!",revisado,"",""
-8244,,pendiente,,
-8245,,pendiente,,
-8246,,pendiente,,
-8247,,pendiente,,
-8248,,pendiente,,
-8249,,pendiente,,
-8250,,pendiente,,
-8251,,pendiente,,
-8252,,pendiente,,
-8253,,pendiente,,
-8254,,pendiente,,
-8255,,pendiente,,
-8256,,pendiente,,
-8257,,pendiente,,
-8258,,pendiente,,
-8259,,pendiente,,
-8260,,pendiente,,
-8261,,pendiente,,
-8262,,pendiente,,
-8263,,pendiente,,
-8264,,pendiente,,
-8265,,pendiente,,
-8266,,pendiente,,
-8267,,pendiente,,
-8268,,pendiente,,
-8269,,pendiente,,
-8270,,pendiente,,
-8271,,pendiente,,
-8272,,pendiente,,
-8273,,pendiente,,
-8274,,pendiente,,
-8275,,pendiente,,
-8276,,pendiente,,
-8277,,pendiente,,
-8278,,pendiente,,
-8279,,pendiente,,
-8280,,pendiente,,
-8281,,pendiente,,
-8282,,pendiente,,
-8283,,pendiente,,
-8284,,pendiente,,
-8285,,pendiente,,
-8286,,pendiente,,
-8287,,pendiente,,
-8288,,pendiente,,
-8289,,pendiente,,
-8290,,pendiente,,
-8291,,pendiente,,
-8292,,pendiente,,
-8293,,pendiente,,
+8244,"¡Sí! ¡Sí!",revisado,"",""
+8245,"¡Ya puedo imaginármelo!",revisado,"",""
+8246,"¡La aventura perfecta para un hombre de verdad como yo!",revisado,"",""
+8247,"¡Ya está decidido! ¡No hay tiempo que perder!",revisado,"",""
+8248,"¡Llevémosle la gema a ese tal Hermes!",revisado,"",""
+8249,"¡El capitán Homard y su tripulación se han unido al grupo!",revisado,"Mensaje de interfaz; se evita «vosotros» de la MTL y se conserva «unido al grupo» sin cambiar el hecho.",""
+8250,"Eh…",revisado,"",""
+8251,"Un momento…",revisado,"",""
+8252,"¿Pero qué acaba de pasar aquí…?",revisado,"",""
+8253,"¡Ah! Me trajeron la gema, tal como les pedí. Muy bien.",revisado,"",""
+8254,"Entonces, ¿qué querían saber?",revisado,"",""
+8255,"¡Fátima!",revisado,"",""
+8256,"Ah, sí, ¡es verdad!",revisado,"",""
+8257,"Últimamente se me olvidan las cosas. No le desearía la vejez ni a mi peor enemigo…",revisado,"Hermes es masculino: se corrige «olvidadiza» por perífrasis sin género.",""
+8258,"¡Fátima!",revisado,"",""
+8259,"Ya, ya lo sé.",revisado,"",""
+8260,"Solo estaba bromeando.",revisado,"",""
+8261,"Bien, empecemos.",revisado,"",""
+8262,"Presten atención.",revisado,"",""
+8263,"Y eso es todo.",revisado,"Aviso de continuidad: entre «Listen up» y «And that's about it» parece faltar la exposición histórica sobre Fátima presente en la transcripción. El grupo individual sí es traducible; revisar posibles omisiones del inventario antes de la reinserción.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8264,"¿Sabes por qué Fátima quedó destruida en una sola noche?",revisado,"",""
+8265,"Claro que lo sé. Soy Hermes, el Mediador.",revisado,"",""
+8266,"Digamos que el Príncipe Oscuro tuvo algo que ver.",revisado,"",""
+8267,"Eso te lo digo gratis, pero no puedo contarte nada más.",revisado,"",""
+8268,"Un Mediador no puede andar alterando el equilibrio del universo.",revisado,"",""
+8269,"No estaría nada bien.",revisado,"",""
+8270,"Ojalá pudiera ayudarlos.",revisado,"",""
+8271,"Pronto verán el secreto de Fátima con sus propios ojos.",revisado,"",""
+8272,"Hasta entonces, tendrán que esperar y quedarse con la intriga…",revisado,"",""
+8273,"¿El Príncipe Oscuro… en Fátima?",requiere_investigacion,"El original solo contiene «in Fatima?». La transcripción completa es «The Dark Prince… In Fatima?». Reconstrucción provisional; verificar texto del fragmento y su correspondencia con una unidad.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8274,"¡Entonces pongamos rumbo a Fátima!",revisado,"",""
+8275,"¡Vamos a Fátima!",revisado,"",""
+8276,"¡Así se habla!",revisado,"",""
+8277,"¡No sé nada de Fátima, pero no hay lugar al que no pueda llegar el Escargot!",revisado,"«Escargot» es el nombre propio de la aeronave de Homard. La MTL lo había traducido erróneamente por «caracoles».","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8278,"¡En marcha!",revisado,"",""
+8279,"¡A Fátima!",revisado,"",""
+8280,"¿Van a Fátima? Antes, déjenme darles un consejo…",revisado,"La transcripción externa confirma el valor interrogativo de «Going to Fatima, are you?».","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8281,"Nunca se sabe qué nos deparará la vida.",revisado,"",""
+8282,"Sean sinceros con sus propios sentimientos y evitarán arrepentirse.",requiere_investigacion,"Original incompleto: «feelings and you will avoid regrets». La transcripción restituye «Be true to your own feelings». Propuesta contextual a cotejar con las dos unidades originales antes de aprobar.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
+8283,"Ese es mi único consejo.",revisado,"",""
+8284,"Ah, y tú, señorita…",revisado,"",""
+8285,"¿Yo?",revisado,"",""
+8286,"Parece que tienes a cierto hombre en la cabeza… Recuerda este consejo también cuando se trate de él.",revisado,"",""
+8287,"Sé sincera contigo misma.",revisado,"Se aplica el imperativo femenino porque Hermes se dirige expresamente a Prier.",""
+8288,"¡E-eh! ¡Un momento!",revisado,"",""
+8289,"¡¿Y eso a qué viene?!",revisado,"",""
+8290,"¡¿Qué tiene que ver eso con nada?!",revisado,"",""
+8291,"¡Para empezar, no tengo a ningún hombre en la cabeza!",revisado,"",""
+8292,"¡Eh! ¡¿Qué están mirando?! ¡Les digo que no hay ningún hombre!",revisado,"",""
+8293,"Ay, ¿por qué tendré que ser tan endiabladamente guapo?",revisado,"",""
 8294,,pendiente,,
 8295,,pendiente,,
 8296,,pendiente,,
