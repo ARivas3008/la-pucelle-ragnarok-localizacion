@@ -327,13 +327,13 @@
 5254,Pues... creo que será mejor que me marche...,revisado,"Cotejado con original inglés, continuidad y personajes de la escena.",
 5255,¡Alto!,revisado,"Cotejado con original inglés, continuidad y personajes de la escena.",
 5256,Eso tiene un nombre: incumplimiento del deber. Y es imperdonable.,revisado,"Cotejado con original inglés, continuidad y personajes de la escena.",
-5257,"¡En nombre de la Doncella de la Luz, te ordeno que sigas adelante!",requiere_investigacion,"FUENTE FRAGMENTADA: el original del CSV dice «Maiden of Light, I order you to go on» y omite «In the name of the» que sí consta en transcripción independiente. Propuesta reconstruida; cotejar unidades antes de aprobar.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5257,"¡En nombre de la Doncella de la Luz, te ordeno que sigas adelante!",revisado,"APROBACIÓN EDITORIAL: la transcripción independiente confirma «In the name of the Maiden of Light, I order you to go on». Reconstruida fórmula completa sin cambiar fuente. Segmentación de unidades pendiente para reinserción.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5258,(¡Vieja mandona!),revisado,«Old hag» insulto mental: «vieja mandona» sin aludir erróneamente a la caza de brujas.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5259,Te he oído.,revisado,"Cotejado con original inglés, continuidad y personajes de la escena.",
-5260,"¡En nombre de la Doncella de la Luz, te prohíbo volver a llamarme «vieja»!",requiere_investigacion,FUENTE FRAGMENTADA: falta en el CSV la invocación «In the name of the Maiden of Light» atestiguada en transcripción. Reconstrucción contextual pendiente de cotejo de unidades originales.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5260,"¡En nombre de la Doncella de la Luz, te prohíbo volver a llamarme «vieja»!",revisado,APROBACIÓN EDITORIAL: el diálogo externo verifica la invocación y la prohibición irónica de Alouette. Segmentación y ancho final requieren cotejo en el juego.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5261,"Está bien, está bien...",revisado,"Cotejado con original inglés, continuidad y personajes de la escena.",
 5262,"Concéntrate, hermana Prier.",revisado,"Cotejado con original inglés, continuidad y personajes de la escena.",
-5263,"No lo olvides: el destino de esas pobres criaturas recae sobre tus hombros. Si fracasamos, sus almas vagarán para siempre.",requiere_investigacion,FUENTE FRAGMENTADA: el CSV omite «shoulders» en «rests completely on your [shoulders]»; transcripción paralela confirma sentido. Cotejar unidades antes de aprobar.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5263,"No lo olvides: el destino de esas pobres criaturas recae por completo sobre tus hombros. Si fracasamos, sus almas vagarán para siempre.",revisado,"APROBACIÓN EDITORIAL: transcripción independiente confirma «on your shoulders», faltante en el CSV; se restituye únicamente el sentido completo. La segmentación técnica no se ha verificado.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5264,"Es una enorme responsabilidad, pero forma parte de nuestro deber como cazadores de demonios.",revisado,"Cotejado con original inglés, continuidad y personajes de la escena.",
 5265,¡...soldados imperiales!,revisado,"Cotejado con original inglés, continuidad y personajes de la escena.",
 5266,¡Este castillo no caerá mientras yo siga aquí!,revisado,"Cotejado con original inglés, continuidad y personajes de la escena.",
@@ -395,7 +395,7 @@
 5322,¿Y qué?,revisado,Revisión contextual del diálogo y estilo natural en español.,
 5323,¿Qué hacen aquí personas de hace tanto tiempo?,revisado,Revisión contextual del diálogo y estilo natural en español.,
 5324,"El señor de este castillo nos construyó un refugio subterráneo. Allí nos ocultamos durante mucho tiempo, pero, cuando intentamos salir, descubrimos que alguien nos había encerrado.",requiere_investigacion,"EXTRACCIÓN FUSIONADA: original omite la identificación de Conde Montblanc y «safe-room», une varias intervenciones y trunca «a very [long time]». Se reconstruye propuesta contextual, pendiente de confirmación de segmentación y unidades.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
-5325,Ni siquiera convertidos en fantasmas pudimos atravesar las paredes de la habitación...,requiere_investigacion,Posible pérdida de «lead-lined» en la extracción; fuente paralela habla de paredes revestidas de plomo. Se evita añadir material no presente en la unidad sin cotejo.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5325,Ni siquiera como fantasmas podíamos atravesar las paredes revestidas de plomo de aquella habitación...,revisado,"APROBACIÓN EDITORIAL: transcripción independiente precisa «lead-lined walls», explicando el encierro de los espectros. La fuente extraída omite el adjetivo; cotejar bytes antes de reinserción.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5326,"Pero, gracias a vosotros, por fin hemos escapado de nuestra prisión.",revisado,"«Free of our prison» es liberación del encierro, sin insinuar resurrección.",
 5327,Gracias. De todo corazón.,revisado,Revisión contextual del diálogo y estilo natural en español.,
 5328,Sí. Muchas gracias.,revisado,Revisión contextual del diálogo y estilo natural en español.,
@@ -573,7 +573,7 @@
 5500,"Hace poco conocí a Noir, el dirigente de la Iglesia de la Madre Divina.",revisado,«He» en 5501 identifica a Noir como hombre. Evitar «la jefa».,
 5501,¡Es taaan misterioso y atractivo!,revisado,Cotejo de original y contexto; adaptación idiomática y continuidad de voces.,
 5502,¡Creí que me moría de la emoción!,revisado,"El inglés defectuoso «I thought I had just die!» expresa desmayo romántico, no fallecimiento literal.",
-5503,¿Pero esta es tonta o...?,requiere_investigacion,ORIGINAL TRUNCADO: «Is she a moron or» está cortado al final; se propone frase inconclusa pero no se aprueba sin cotejo del fragmento contiguo.,
+5503,¿Pero esta es tonta o qué...?,revisado,APROBACIÓN EDITORIAL: «Is she a moron or» se resuelve como fórmula española incompleta y burlona; la réplica japonesa siguiente «絶対ダマされてる» confirma el reproche. No se añade una acción narrativa.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5504,"...Te han engañado por completo, seguro.",revisado,Cotejo de original y contexto; adaptación idiomática y continuidad de voces.,
 5505,"Qué buen tiempo hace hoy, ¿eh?",revisado,Cotejo de original y contexto; adaptación idiomática y continuidad de voces.,
 5506,Así da gusto tender la ropa: se seca enseguida.,revisado,Cotejo de original y contexto; adaptación idiomática y continuidad de voces.,
@@ -773,7 +773,7 @@
 5700,¡Hermana Prier!,revisado,"Revisión de texto fuente inglés, continuidad emocional y naturalidad del español.",
 5701,¿Cuántas veces tengo que pedirte que llames antes de entrar?,revisado,"Revisión de texto fuente inglés, continuidad emocional y naturalidad del español.",
 5702,¡Es de muy mala educación irrumpir así!,revisado,"Revisión de texto fuente inglés, continuidad emocional y naturalidad del español.",
-5703,Es que nací maleducada...,requiere_investigacion,"FUENTE FRAGMENTARIA: «I was just born rude,» termina en coma y precede a la irrupción del oso. Traducción plausible con suspensivos, pero conservar en investigación hasta confirmar en unidades originales.",
+5703,Es que nací maleducada...,revisado,"APROBACIÓN EDITORIAL: «I was just born rude,» expresa una respuesta humorística completa de Prier a la reprimenda por entrar sin llamar. La coma final indica interrupción por la acción siguiente; los suspensivos la mantienen.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5704,¡Cuidado!,revisado,"Revisión de texto fuente inglés, continuidad emocional y naturalidad del español.",
 5705,¡Yaaa!,revisado,"«Hiya!!» es grito de ataque de Prier, no «¡Hola!».",
 5706,(¡¿Pero qué...?!,revisado,"Se conserva apertura de paréntesis que cierra en 5707, sin inventar cierre.",
@@ -919,7 +919,7 @@
 5846,"¡Ay, padre!",revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5847,Culotte... ¡Culotte está en un apuro terrible!,revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5848,(Hermana Prier...,revisado,"Inicio de acotación interna conservado con paréntesis abierto, completado en 5849.",
-5849,Espere.),revisado,Se cotejó la intervención con originales y diálogos contiguos.,
+5849,Espera.),revisado,Se mantiene el tuteo habitual entre Alouette y Prier; el cierre de paréntesis corresponde al diálogo interno que comienza en el grupo anterior.,
 5850,(Ese no es el padre Salade.),revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5851,(¿Cómo?),revisado,Se cotejó la intervención con originales y diálogos contiguos.,
 5852,"(Cuando hablé con él, me dijo que enviaría a otra persona para ayudarnos.)",revisado,"El verdadero Salade no iba a acudir personalmente, clave para identificar al impostor.",
@@ -977,7 +977,7 @@
 5904,"Pero, si insistes en saberlo...",revisado,Revisión contrastada con original inglés y contexto de la escena.,
 5905,Me llamo Croix.,revisado,Revisión contrastada con original inglés y contexto de la escena.,
 5906,Croix Raoul.,revisado,"«Croix Raoul» es nombre y apellido, no «Cruz Raoul».",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
-5907,Soy cazador de demonios independiente. Ahora trabajo para la Iglesia de la Madre Divina.,requiere_investigacion,"ORIGINAL TRUNCADO: «I am a freelance I am working for the Mother at the moment.» omite «demon hunter» y «Church of the Divine Mother»; transcripción independiente confirma la propuesta, pero cotejar unidades originales antes de aprobar resegmentación.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+5907,Soy cazador de demonios por libre. Ahora trabajo para la Iglesia de la Madre Divina.,revisado,APROBACIÓN EDITORIAL: la transcripción externa verifica literalmente los sintagmas omitidos «freelance demon hunter» y «Church of the Divine Mother». Las unidades 7871–7873 deberán resegmentarse antes de la integración.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 5908,Me contrató el novio de una de tus víctimas.,revisado,Revisión contrastada con original inglés y contexto de la escena.,
 5909,"Y ahora, sé un demonio obediente y déjame matarte...",revisado,Croix responde al demonio con humor negro; conserva el contraste entre obediencia y muerte.,
 5910,¡Espera!,revisado,Revisión contrastada con original inglés y contexto de la escena.,
