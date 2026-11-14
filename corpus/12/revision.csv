@@ -210,7 +210,7 @@
 12329,¡Estás a salvo!,revisado,,
 12330,¡Menos mal!,revisado,«Thank goodness» se expresa de forma natural sin connotación religiosa adicional.,
 12331,"Ah, claro. Primero tengo que encargarme de esos demonios.",revisado,,
-12332,Parece que los han exterminado a todos…,requiere_investigacion,La frase inglesa omite sustantivo y posiblemente auxiliar en «all of the exterminated»; comprobar unidades.,
+12332,Parece que hemos acabado con todos los demonios…,revisado,"La oración inglesa omite palabras en «all of the exterminated», pero el contexto inmediato identifica a los demonios y la aparición de uno restante en 12333–12334 confirma el sentido de la aparente victoria.",corpus/12/entrada.csv (12331–12334)
 12333,¡Grrrrraaaaah!,revisado,Rugido del personaje.,
 12334,"Todavía queda uno, ¿eh?",revisado,,
 12335,¡No escaparás!,revisado,,
@@ -438,7 +438,7 @@
 12557,"No le dé más vueltas, hermana Prier.",revisado,"En el inglés «do not well on it» parece faltar la d de «dwell on it». El contexto de disculpa sustenta «no le dé más vueltas», sin reconstrucción adicional.",
 12558,"Como esperaba, nunca perdiste la luz de tu corazón.",revisado,,
 12559,¿Todavía me consideras parte de la Iglesia…?,requiere_investigacion,El original «You still think of me church?» omite palabras entre «me» y «church». Propuesta contextual pendiente de cotejo.,
-12560,"Después de todo, sigues siendo…",requiere_investigacion,Frase interrumpida en «still» sin atributo final; cotejar siguiente unidad.,
+12560,"Al fin y al cabo, todavía eres…",revisado,Interrupción deliberada: el inglés termina en «still…» y el siguiente grupo irrumpe con «WHAT IS GOING ON HERE?!». Se respeta el suspense sin completar el atributo.,corpus/12/entrada.csv (12559–12561)
 12561,¡¡¡¿QUÉ ESTÁ PASANDO AQUÍ?!!!,revisado,,
 12562,¡PRIER!,revisado,"Se corrige «Fisgón», error de traducción automática del nombre.",
 12563,¿Al final te ha consumido la oscuridad…?,revisado,,
@@ -451,7 +451,7 @@
 12570,"Uf, esto ya me está sacando de quicio.",revisado,,
 12571,Siempre tiene que haber alguien que critique…,revisado,,
 12572,¡Pero qué importa el aspecto que tengas!,revisado,,
-12573,"Además, exterminar demonios con ese aspecto sería de lo más diverti…",requiere_investigacion,El texto se interrumpe a mitad de «entertai…»; conservar interrupción y confirmar si el personaje se autocorrige en 12574.,
+12573,"Además, exterminar demonios con ese aspecto sería de lo más diverti…",revisado,"Interrupción de una palabra confirmada por la rectificación inmediata del hablante en 12574 («Er, um, I mean…»). Se conserva intencionalmente el corte cómico.",corpus/12/entrada.csv (12572–12575)
 12574,"Eh… Quiero decir… ¡que te sienta muy bien, Prier!",revisado,,
 12575,"Hace un momento ibas a hablar mal de mí, ¿verdad…?",revisado,,
 12576,"De verdad, estos dos son de lo más previsibles…",revisado,,
@@ -548,7 +548,7 @@
 12667,Esta jovencita ha venido para entrometerse en nuestros planes.,revisado,,
 12668,Así que quiero que te deshagas de ella.,revisado,,
 12669,¿Me estás pidiendo que luche contra Prier?,revisado,,
-12670,¿No puedes…?,requiere_investigacion,El inglés aislado «you cannot?» parece una respuesta cuya entonación y comienzo pudieron perderse. Verificar continuidad.,
+12670,¿Es que no puedes?,revisado,Respuesta interrogativa completa a «¿Me estás pidiendo que luche contra Prier?» (12669). Se corrige la minúscula inicial inglesa y se conserva el tono provocador.,corpus/12/entrada.csv (12668–12671)
 12671,"¡Ja! Deja de decir… (Si esas dos bestias se enfrentan, ninguna saldrá ilesa…)",requiere_investigacion,El inglés concatena «quit spouting» sin objeto y un pensamiento entre paréntesis de otra voz. Cotejar la segmentación.,
 12672,"(Cuando acabe la batalla, utilizaré al que quede más debilitado como sacrificio para invocar a Calamity…",revisado,"«Fodder» alude a una víctima sacrificial, no a carne de cañón militar. Se conserva el pensamiento iniciado entre paréntesis.",
 12673,"Ja, ja, ja…)",revisado,Se cierra el pensamiento entre paréntesis del grupo anterior.,
@@ -624,7 +624,7 @@
 12743,¡No permitiré que te salgas con la tuya!,revisado,,
 12744,¡Jamás!,revisado,,
 12745,¡¡¡Nunca te perdonaré lo que has hecho!!!,revisado,,
-12746,¡Los quemaré a los dos hasta reducirlos a cenizas y usaré sus cuerpos como sacrificio para Calamity!,requiere_investigacion,La frase termina «sacrifices Calamity» y falta la preposición/acción que une sacrificios con Calamity. La reconstrucción es contextual; cotejar unidades.,
+12746,¡Os reduciré a cenizas a los dos y ofreceré vuestros cuerpos como sacrificio para invocar a Calamity!,revisado,La palabra ausente entre «sacrifices» y «Calamity» es recuperable por la trama y la finalidad de sacrificarlos explícita en 12493 y 12615: invocar al ángel caído. No se añade un resultado nuevo.,corpus/12/entrada.csv (12493; 12615; 12745–12746)
 12747,¡A nadie le importa tu utopía de mentira!,revisado,,
 12748,¡Gaaaaah!,revisado,,
 12749,¡Y a nadie le importa si nos perdonas o no!,revisado,,
@@ -749,12 +749,12 @@
 14747,¡Pruébalo!,revisado,,
 14748,"Si purificas a un enemigo y luego lo derrotas en combate, a veces se unirá a tu equipo.",revisado,,
 14749,"Cuantas más veces lo purifiques, más posibilidades habrá de que se pase a tu bando.",revisado,La MTL «desviarse del camino correcto» invierte el significado de «defect to your side».,
-14750,"…a un enemigo, purifícalo varias veces y luego derrótalo en combate.",requiere_investigacion,Fragmento iniciado en «an enemy» sin condición ni verbo inicial; probablemente continúa el consejo de reclutamiento de la frase anterior.,
+14750,"Si quieres reclutar a un enemigo, purifícalo varias veces antes de enfrentarte a él y derrotarlo.",revisado,"Se recupera la finalidad elidida del fragmento inicial «an enemy» mediante los grupos 14748–14749, que explican la conversión de enemigos. Secuencia de mecánica conservada.",corpus/12/entrada.csv (14748–14751)
 14751,Pero cada vez resulta más difícil reclutar a enemigos de especies que ya has conseguido reclutar.,revisado,,
 14752,"Ah, y por supuesto, no puedes reclutar a los jefes.",revisado,,
 14753,"Para realizar un ataque milagroso, forma un círculo con 15 casillas o más de energía oscura y purifícalas.",revisado,,
 14754,"Los enemigos situados sobre la corriente de energía oscura recibirán daño, igual que los que estén dentro del círculo.",revisado,,
-14755,…debe haber enemigos dentro del círculo para que funcione.,requiere_investigacion,La oración comienza por «must be enemies» y no conserva la estructura completa; comprobación de unidades pendiente.,
+14755,"Para que funcione, tiene que haber enemigos dentro del círculo.",revisado,"El inglés omitió el «There» inicial, pero conserva sin ambigüedad la condición mecánica y termina en punto. Corrección gramatical respaldada por 14753–14754.",corpus/12/entrada.csv (14753–14756)
 14756,¡Da mucho gusto cuando lo consigues! ¡Tienes que probarlo!,revisado,,
 14757,Lo malo es que formar el círculo puede ser complicado y no ganas experiencia por hacerlo.,revisado,,
 14758,¿Has conocido al misterioso hombre encapuchado que hay en la ciudad?,revisado,,
@@ -819,7 +819,7 @@
 14817,…ha entrado en combate por primera vez.,requiere_investigacion,La fuente «was in battle for the first time» no incluye sujeto.,
 14818,"Por lo que he oído, no destacó precisamente.",revisado,,
 14819,…está en cama con un buen resfriado.,requiere_investigacion,Falta el nombre del sujeto de «is in bed».,
-14820,"La próxima vez, procura enviarnos reclutas más sanos…",requiere_investigacion,La frase inglesa termina en «next» y posiblemente se interrumpe antes de «time»; cotejar unidad.,
+14820,"La próxima vez, intenta enviarnos reclutas más sanos.",revisado,"El texto termina en «next»; se restituye el complemento temporal convencional «next time», reforzado por la construcción equivalente del grupo 14802.",corpus/12/entrada.csv (14802; 14819–14820)
 14821,…se ha convertido en una estrella del Mundo Oscuro.,requiere_investigacion,El inglés omite sujeto y el nombre dinámico del personaje. Se mantiene «Mundo Oscuro» del glosario.,
 14822,¡Quién lo habría dicho!,revisado,,
 14823,"¡『A1』, toda una estrella!",revisado,"Conservar 『A1』 como variable, no comillas normalizadas.",
@@ -857,11 +857,11 @@
 14855,Tienes que encontrar el equilibrio entre la disciplina y el cariño.,revisado,,
 14856,"Además, si el ánimo de un monstruo alcanza 10, podrá utilizar el comando «Purificar».",revisado,Umbral 10 y acción se conservan conforme al glosario.,glosario/terminos_investigados.csv (ご機嫌度)
 14857,"Si los entrenas bien, tus monstruos se convertirán en aliados valiosos. ¡Buena suerte!",revisado,,
-14858,"¿Has visto el Índice de energía oscura en el mapa…? Si aumenta, significa que el mapa se acerca al Mundo Oscuro.",requiere_investigacion,El original concatena dos oraciones y parece truncado tras «on the map»; cotejar división y posible continuación.,glosario/terminos_investigados.csv (魔界化指数; 魔界ゲート)
+14858,"¿Has visto el Índice de energía oscura en el mapa? Cuando aumenta, significa que el mapa se está acercando al Mundo Oscuro.",revisado,Dos oraciones completas del mismo tutorial concatenadas sin punto antes de «An increasing». Se separan respetando la mecánica y el nombre oficial del indicador.,glosario/terminos_investigados.csv (魔界化指数); corpus/12/entrada.csv (14858–14859)
 14859,"Cuando el Índice de energía oscura supera cierto valor, aparece una Puerta al Mundo Oscuro.",revisado,El sujeto del índice se recupera del grupo anterior; se mantiene la distinción «Puerta al Mundo Oscuro».,glosario/terminos_investigados.csv (魔界化指数; 魔界ゲート)
 14860,El Mundo Oscuro está lleno de demonios poderosos y objetos exóticos. ¡Adéntrate en él y descubre hasta dónde puedes llegar!,revisado,,
 14861,Puedes abrir tú mismo la Puerta al Mundo Oscuro. Hay varias maneras de aumentar el Índice de energía oscura.,revisado,,glosario/terminos_investigados.csv (魔界化指数; 魔界ゲート)
-14862,"Si completas un mapa sin purificar todos sus portales oscuros, aumentarás el Índice de energía oscura… También puedes usar ciertos objetos o hacerle alguna jugarreta a un amigo para elevarlo.",requiere_investigacion,El original termina la primera oración en «raises the Dark» y la fusiona con otra explicación; cotejar las unidades.,
+14862,Completar un mapa sin purificar todos sus portales oscuros aumenta el Índice de energía oscura. También puedes aumentarlo usando cierto objeto o haciendo algo desagradable a un amigo.,revisado,La frase se corta tras «raises the Dark»; el nombre completo «Dark Energy Index» figura en la siguiente oración y repetidamente en 14858–14861. Se restituyó el nombre sin alterar la mecánica.,glosario/terminos_investigados.csv (魔界化指数); corpus/12/entrada.csv (14858–14863)
 14863,Los detalles tendrás que descubrirlos tú.,revisado,,
 14864,"Je, je, je…",revisado,,
 14865,"Cuanto mayor sea el Índice de energía oscura de un mapa, más poderoso será el demonio que aparezca…",revisado,,
@@ -979,7 +979,7 @@
 14977,Mmm… Por fin un rival digno de nosotros.,revisado,,
 14978,Voy a disfrutar…,requiere_investigacion,El original «I am going to enjoy» omite objeto o actividad y no permite completar la frase.,
 14979,…señor…,requiere_investigacion,«lord…» aislado carece de contexto suficiente para precisar si es título o parte de un nombre. «Caballero» de la MTL no se justifica.,
-14980,"¡No dejaré que gane! ¡Al fin y al cabo, emprendí este viaje para superar mis debilidades!",requiere_investigacion,"«I cannot let him win After all» parece concatenar dos intervenciones; falta puntuación en la fuente, cotejar voces.",
+14980,"¡No puedo dejar que gane! ¡Al fin y al cabo, emprendí este viaje para superar mis propias debilidades!",revisado,Las dos cláusulas del original tienen sujeto en primera persona y forman una justificación coherente. Se restituye la puntuación entre «win» y «After all» sin atribuir contenido nuevo.,corpus/12/entrada.csv (14979–14981)
 14981,¿De verdad tenemos que luchar contra esa cosa?,revisado,,
 14982,¡¡¡Es enorme!!!,revisado,,
 14983,"¡Ese zoquete debe aprender que en una pelea no todo depende del tamaño, y yo se lo enseñaré!",revisado,,
