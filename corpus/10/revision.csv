@@ -899,56 +899,56 @@
 11017,"Qué admirable...","revisado","",""
 11018,"¡Yo también quiero llegar a ser una gran La Pucelle como mi hermana!","revisado","",""
 11019,"¡Mucho ánimo! ¡Yo te apoyaré!","revisado","",""
-11020,,pendiente,,
-11021,,pendiente,,
-11022,,pendiente,,
-11023,,pendiente,,
-11024,,pendiente,,
-11025,,pendiente,,
-11026,,pendiente,,
-11027,,pendiente,,
-11028,,pendiente,,
-11029,,pendiente,,
-11030,,pendiente,,
-11031,,pendiente,,
-11032,,pendiente,,
-11033,,pendiente,,
-11034,,pendiente,,
-11035,,pendiente,,
-11036,,pendiente,,
-11037,,pendiente,,
-11038,,pendiente,,
-11039,,pendiente,,
-11040,,pendiente,,
-11041,,pendiente,,
-11042,,pendiente,,
-11043,,pendiente,,
-11044,,pendiente,,
-11045,,pendiente,,
-11046,,pendiente,,
-11047,,pendiente,,
-11048,,pendiente,,
-11049,,pendiente,,
-11050,,pendiente,,
-11051,,pendiente,,
-11052,,pendiente,,
-11053,,pendiente,,
-11054,,pendiente,,
-11055,,pendiente,,
-11056,,pendiente,,
-11057,,pendiente,,
-11058,,pendiente,,
-11059,,pendiente,,
-11060,,pendiente,,
-11061,,pendiente,,
-11062,,pendiente,,
-11063,,pendiente,,
-11064,,pendiente,,
-11065,,pendiente,,
-11066,,pendiente,,
-11067,,pendiente,,
-11068,,pendiente,,
-11069,,pendiente,,
+11020,"Parece que el demonio que ha aparecido cerca de la aldea de Croquette es muy fuerte.","revisado","",""
+11021,"No te confíes.","revisado","",""
+11022,"Sé que eres fuerte, pero si bajas la guardia podría ocurrirte cualquier cosa.","revisado","",""
+11023,"Recuerda: toda investigación empieza por...","requiere_investigacion","El original acaba en «all investigations begin», sin complemento. No puede completarse con certeza la máxima del personaje.",""
+11024,"No lo olvides nunca.","revisado","",""
+11025,"¡Que ya me lo sé!","revisado","",""
+11026,"¡Pues ten cuidado tú también, no vaya a matarte algún demonio!","revisado","",""
+11027,"¡Deja de resolverlo todo tú sola! ¡Guárdame algún caso a mí también!","revisado","«Leave some of them for me» se refiere a los casos o demonios que Prier acapara; sin fijar un objeto más específico.",""
+11028,"A ver, déjame pensar...","revisado","",""
+11029,"Me lo pensaré.","revisado","",""
+11030,"Últimamente no dejo de pensar en aquella niña que vimos hace un tiempo.","revisado","«Has been bothering me» en el contexto del fantasma indica inquietud, no que la niña esté acosando al hablante.",""
+11031,"Deberíamos continuar la investigación en...","requiere_investigacion","Falta el topónimo tras «at». Se conserva la frase abierta sin inventar un lugar.",""
+11032,"¡A esa niña voy a darle su merecido por echar a correr cada vez que me ve!","revisado","La traducción previa invertía la circunstancia «cuando no la veo»; ella huye al ver al hablante.",""
+11033,"¡No hace otra cosa que salir corriendo!","revisado","",""
+11034,"Sé que eres fuerte, Prier, pero esta vez procura no asustar a la pequeña, ¿vale?","revisado","",""
+11035,"¡Que sí, pesada!","revisado","",""
+11036,"y encontrar a esa niña antes de que sea demasiado tarde.","requiere_investigacion","Fragmento sin verbo principal ni comienzo de la oración en la extracción; no se atribuye una orden a ningún personaje sin cotejo.",""
+11037,"Nos ha costado encontrarte, pero...","revisado","",""
+11038,"¡Esta vez no te escaparás!","revisado","",""
+11039,"Por favor, no seas brusca conmigo.","revisado","",""
+11040,"Tengo un mal presentimiento...","revisado","",""
+11041,"Ojalá solo sean imaginaciones mías...","revisado","",""
+11042,"Será mejor que estemos alerta, por si acaso.","revisado","",""
+11043,"¡Seguro que te lo estás imaginando!","revisado","",""
+11044,"¡Además, recuerda que estoy contigo!","revisado","",""
+11045,"¡Y pensar que se le ocurrió llevarse a una niña a un sitio tan peligroso...!","revisado","",""
+11046,"¡¿Pero en qué está pensando Prier?!","revisado","",""
+11047,"¡Aquí estoy yo para protegerla, así que deja de preocuparte!","revisado","",""
+11048,"¡Y pensar que hemos acabado cuidando de una niña en plena misión para cazar...!","requiere_investigacion","El original termina en «hunting» sin indicar qué se caza. No se inserta un supuesto enemigo.",""
+11049,"¡Terminemos con esto de una vez!","revisado","",""
+11050,"Hermana Prier...","revisado","Tratamiento infantil «Big Sister Prier», no «hermana religiosa» necesariamente; se conserva la forma usada por el niño.",""
+11051,"¡Dales su merecido, ¿vale?!","revisado","«Let them have it» en el contexto de combate significa atacar, no entregar objetos.",""
+11052,"¡Déjamelo a mí!","revisado","",""
+11053,"Como ya hemos acabado la misión, ¿qué tal si vamos a ver...? —¡Me parece bien!","requiere_investigacion","El primer parlamento carece del objeto de «go see» y se ha fusionado con una respuesta de otro personaje. Requiere resegmentación por hablante.",""
+11054,"Además, parece que ya no nos queda nada por hacer aquí.","revisado","",""
+11055,"Me pregunto cuál será nuestra próxima misión...","revisado","",""
+11056,"¡Estoy deseando que llegue, Prier!","revisado","",""
+11057,"Culotte, últimamente estás especialmente animado, ¿eh?","revisado","Se corrige el género de Culotte, hermano de Prier.",""
+11058,"Otra misión cumplida... ¿Por qué no descansamos un poco?","revisado","El original perdió las palabras que enlazan ambas frases, pero el sentido queda claro.",""
+11059,"Yo también quiero descansar, pero nos falta gente y ahora mismo no podemos permitirnos parar...","revisado","",""
+11060,"Entiendo que esa niña te intrigue, pero no dejes que tus sentimientos te cieguen.","revisado","",""
+11061,"¡Como hermana de la Iglesia, sabré comportarme!","revisado","",""
+11062,"Ya veremos...","revisado","",""
+11063,"¿En qué demonios estará pensando esa niña?","revisado","",""
+11064,"¡Seguro que en nada importante!","revisado","",""
+11065,"¡A los niños que se portan mal hay que darles un buen azote!","revisado","",""
+11066,"Prier, Señora Demonio... ¡Como resulte que todo esto no era más que una broma de unos críos, ya verás...!","revisado","Se conserva el título 魔王 establecido en glosario, y el tono de frustración del hablante.",""
+11067,"Vinaigrette.","revisado","Nombre del lugar, no traducir por la salsa «vinagreta».",""
+11068,"¡Claro! ¡Tenemos que darnos prisa antes de que mi imagen de inocencia y pureza acabe por los suelos!","revisado","",""
+11069,"¿Inocencia y pureza...? Bah, da igual.","revisado","La respuesta expresa incredulidad sarcástica ante la presunta inocencia de Prier.",""
 11070,,pendiente,,
 11071,,pendiente,,
 11072,,pendiente,,
