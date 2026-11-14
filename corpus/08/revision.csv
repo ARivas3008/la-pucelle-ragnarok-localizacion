@@ -899,56 +899,56 @@
 8841,"Y la realidad, otra.",revisado,"",""
 8842,"¿Y si te equivocas?",revisado,"",""
 8843,"Todos correremos peligro.",revisado,"",""
-8844,,pendiente,,
-8845,,pendiente,,
-8846,,pendiente,,
-8847,,pendiente,,
-8848,,pendiente,,
-8849,,pendiente,,
-8850,,pendiente,,
-8851,,pendiente,,
-8852,,pendiente,,
-8853,,pendiente,,
-8854,,pendiente,,
-8855,,pendiente,,
-8856,,pendiente,,
-8857,,pendiente,,
-8858,,pendiente,,
-8859,,pendiente,,
-8860,,pendiente,,
-8861,,pendiente,,
-8862,,pendiente,,
-8863,,pendiente,,
-8864,,pendiente,,
-8865,,pendiente,,
-8866,,pendiente,,
-8867,,pendiente,,
-8868,,pendiente,,
-8869,,pendiente,,
-8870,,pendiente,,
-8871,,pendiente,,
-8872,,pendiente,,
-8873,,pendiente,,
-8874,,pendiente,,
-8875,,pendiente,,
-8876,,pendiente,,
-8877,,pendiente,,
-8878,,pendiente,,
-8879,,pendiente,,
-8880,,pendiente,,
-8881,,pendiente,,
-8882,,pendiente,,
-8883,,pendiente,,
-8884,,pendiente,,
-8885,,pendiente,,
-8886,,pendiente,,
-8887,,pendiente,,
-8888,,pendiente,,
-8889,,pendiente,,
-8890,,pendiente,,
-8891,,pendiente,,
-8892,,pendiente,,
-8893,,pendiente,,
+8844,"Eso es cierto.",revisado,"",""
+8845,"¿Y eso es todo lo que tienes que decir?",revisado,"",""
+8846,"Escúchame, y escúchame bien…",revisado,"",""
+8847,"Te estoy pidiendo que confíes en mí.",revisado,"",""
+8848,"Confía en mi experiencia y en mi intuición.",revisado,"",""
+8849,"…Muy bien.",revisado,"",""
+8850,"Si tan seguro estás, te seguiré… —Oye, ¿no te parece que Éclair está un poco rara y no deja en paz a Homard?",requiere_investigacion,"El original fusiona un «te seguiré…» sin cierre y una pregunta de otro interlocutor sobre Éclair y Homard. Dos voces y segmento cortado; hay que cotejar unidades antes de aprobar.",""
+8851,"Sí que se comporta de forma extraña.",revisado,"",""
+8852,"Hace unos días vivía como una princesa en un hermoso castillo.",revisado,"",""
+8853,"Ahora está atrapada con nosotros en plena jungla y recibe órdenes de un pirata del aire.",revisado,"",""
+8854,"No debe de ser fácil.",revisado,"",""
+8855,"Me pregunto si…",requiere_investigacion,"El original «I wonder…?» no indica cuál es la duda; se conserva suspensión y se pide cotejo contextual.",""
+8856,"(Estos no se enteran de nada…)",revisado,"",""
+8857,"Qué extraño.",revisado,"",""
+8858,"¿Extraño? ¿El qué?",revisado,"",""
+8859,"Pero tengo un mal presentimiento.",revisado,"",""
+8860,"Mi cicatriz me avisa cuando el peligro está cerca.",revisado,"",""
+8861,"¡Me estás asustando!",revisado,"",""
+8862,"Oye…",revisado,"",""
+8863,"Está pasando algo muy raro.",revisado,"",""
+8864,"¿No dijiste que en estas cuevas vivía un monstruo terrible?",revisado,"",""
+8865,"Sí. Eso decía el libro.",revisado,"",""
+8866,"¡¿Es eso?!",requiere_investigacion,"«This is it?!» puede referirse al monstruo o a la salida de la cueva; sin imagen/escena no se puede precisar el referente.",""
+8867,"¡V-vámonos de aquí!",revisado,"",""
+8868,"Es precioso…",revisado,"",""
+8869,"Así que esto es Fátima…",revisado,"",""
+8870,"¡Hombres de poca fe!",revisado,"La expresión bíblica «Ye of little faith» se adapta al registro ligeramente arcaizante del personaje.",""
+8871,"Parece que tenía razón… —Sí. Me equivoqué.",requiere_investigacion,"Se fusionaron dos hablantes: Homard («Looks like I was right») y Éclair («Yes… I was wrong»). Propuesta con separación tipográfica, pendiente de cotejar unidades.",""
+8872,"En realidad, no quería decir eso.",revisado,"",""
+8873,"Solo quiero que entiendas que no soy ningún estúpido ni un temerario.",revisado,"",""
+8874,"Me he guiado por la experiencia y la intuición que he adquirido en mis viajes.",revisado,"",""
+8875,"Tú tienes experiencia de verdad. Yo solo sé lo que he leído en los libros.",revisado,"",""
+8876,"Supongo que soy una princesa criada entre algodones y que todavía me queda mucho por aprender…",revisado,"«Sheltered princess» indica una crianza protegida, no una princesa necesariamente «mimada»; se evita el juicio añadido.",""
+8877,"No hay nada malo en aprender de los libros.",revisado,"",""
+8878,"Al fin y al cabo, fue un libro lo que nos permitió encontrar esta cueva.",revisado,"",""
+8879,"Solo procura que lo que sabes no te impida ver lo que tienes delante.",revisado,"",""
+8880,"Tienes razón.",revisado,"",""
+8881,"En el mundo todavía hay muchísimas cosas que desconozco.",revisado,"",""
+8882,"Leer está muy bien, pero nada sustituye a la experiencia.",revisado,"",""
+8883,"¡Exacto! ¡Sin experiencia no llegarás muy lejos!",revisado,"",""
+8884,"Gracias, Homard.",revisado,"",""
+8885,"¡E-eh! No tienes por qué…",revisado,"",""
+8886,"Hice bien en salir del castillo.",revisado,"",""
+8887,"Si me hubiera quedado, jamás habría vivido todas estas experiencias maravillosas.",revisado,"",""
+8888,"Te estoy muy agradecida.",revisado,"Éclair habla de su gratitud hacia Homard, por lo que se corrige «agradecido» del borrador.",""
+8889,"¡Y-ya basta! No tienes que darme las gracias…",revisado,"",""
+8890,"Oye, ¿no hacen buena pareja esos dos?",revisado,"Se trata de una insinuación romántica sobre Éclair y Homard, no de una pregunta literal sobre si «hacen» una pareja.",""
+8891,"Claro… Cuando se trata de otros, sí que sabes ver lo evidente…",revisado,"",""
+8892,"Un momento, Culotte.",revisado,"",""
+8893,"…quieres decir?",requiere_investigacion,"Original truncado «to mean?»; no se puede saber el inicio interrogativo. Se mantiene un fragmento y se exige cotejo del japonés/inglés íntegro.",""
 8894,,pendiente,,
 8895,,pendiente,,
 8896,,pendiente,,
