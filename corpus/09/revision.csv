@@ -372,7 +372,7 @@
 9320,Y se perderán para siempre en el vacío... ¿¡Los estás utilizando como rehenes!?,requiere_investigacion,EXTRACCIÓN: la amenaza del demonio y la reacción de Éclair están fusionadas en un grupo de cuatro unidades. La transcripción distingue dos voces; exige resegmentación antes de la inserción. Auditoría adicional: El secuestro de almas termina con pregunta de Éclair sobre los rehenes. Separación de hablantes necesaria.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9321,Malditos demonios...,revisado,Indignación de Homard; tono de repulsión.,
 9322,¿Por qué no saben hacer otra cosa que recurrir a trampas rastreras?,revisado,Reproche de Homard por usar rehenes.,
-9323,"(Igual que cuando tomaron a mi madre como rehén y mi padre, indefenso, estaba...)",requiere_investigacion,"EXTRACCIÓN: pensamiento de Homard cortado a mitad de frase en «my helpless father was». Conservar suspensión sin inventar lo sucedido al padre. Auditoría adicional: El pensamiento de Homard acaba con una suspensión narrativa explícita, pero no hay prueba de que la línea sea íntegra en la caja.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9323,"(Fue igual que cuando tomaron a mi madre como rehén y mi padre, impotente, estaba...)",revisado,"Cotejo final de secuencias fuente y continuidad: Las unidades 14862–14865 incluyen una suspensión real «。。。)» del pensamiento de Homard. Se conserva la frase interrumpida, sin suponer el destino del padre. Se verificó el contexto de su trauma; no hay cambio de voz.",data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9324,¿De verdad no podemos hacer nada?,revisado,Pregunta desesperada sobre la suerte de los aldeanos.,
 9325,Acaba con él.,revisado,Orden fría de Alouette a Prier; escena confirmada en transcripción.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9326,"¿No me has oído, Prier? Acaba con él.",revisado,Alouette insiste en destruir al enemigo pese a la amenaza.,
@@ -519,20 +519,20 @@
 9467,En este pueblo pertenezco a la orden de hermanas que sirven a la Diosa.,revisado,Revisión humana del original y diálogo adyacente. Segunda lectura editorial: se evitó conservar sin cambios la formulación automática mediante una adaptación contextual.,
 9468,¡Entonces somos hermanas de fe!,revisado,Revisión humana del original y diálogo adyacente.,
 9469,¿¡Tú también!?,revisado,Revisión humana del original y diálogo adyacente.,
-9470,¡Qué día de suerte! Seguro que la Diosa ha intervenido para que nos encontremos.,requiere_investigacion,"Original comienza en mitad de una oración («lucky day!»). El sujeto de la primera exclamación se infiere; cotejar unidades. Auditoría adicional: «lucky day!» carece del arranque, aunque la oración posterior sobre la Diosa sí tiene sentido.",
+9470,¡Qué día de suerte! Seguro que la Diosa ha intervenido para que nos encontráramos.,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 15125–15127 forman una exclamación y una oración completa de la misma hablante. «lucky day!» funciona elípticamente y no exige inventar un sujeto.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9471,"Eh... Angelique, ¿puedo preguntarte algo?",revisado,Revisión humana del original y diálogo adyacente.,
 9472,"Si tus poderes te han hecho sufrir tanto, ¿cómo puedes seguir siendo así?",revisado,Revisión humana del original y diálogo adyacente.,
 9473,¿Así cómo...?,revisado,Revisión humana del original y diálogo adyacente.,
 9474,Quiero decir... ¿Nunca has odiado tus poderes ni a quienes te persiguieron por ellos?,revisado,Revisión humana del original y diálogo adyacente.,
 9475,No. Nunca.,revisado,Revisión humana del original y diálogo adyacente.,
-9476,Gracias a mis poderes puedo ayudar a muchas personas que sufren...,requiere_investigacion,"Texto original termina en «many suffering», sin saber si existen términos posteriores; reconstrucción parcial pendiente. Auditoría adicional: El cuantificador «many suffering» queda sin sustantivo; se puede proponer «personas que sufren» pero la integridad técnica no está comprobada.",
+9476,Puedo utilizar mis poderes para ayudar a tanta gente que sufre...,revisado,Cotejo final de secuencias fuente y continuidad: Las dos unidades 15138–15139 expresan «to help many suffering [people]». El referente humano se sobreentiende con certeza; se conserva la suspensión sin completar una segunda proposición.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9477,...más que eso.,requiere_investigacion,Fragmento «than that.» huérfano; imposible determinar con precisión la comparación previa y el límite de unidad. Auditoría adicional: «than that.» es resto de comparación sin primer término; no forzar conexión con 9476 hasta cotejar.,
 9478,(Qué situación tan complicada...),revisado,Revisión humana del original y diálogo adyacente.,
 9479,(Parece una chica estupenda.),revisado,Revisión humana del original y diálogo adyacente.,
 9480,"(Cuando me enteré de que era la prometida de Croix, estaba dispuesta a odiarla, pero ahora...)",revisado,Revisión humana del original y diálogo adyacente.,
 9481,(No consigo encontrarle nada malo...) (¡Qué deprimente!),requiere_investigacion,"Dos pensamientos aparecen unidos, posiblemente con separación de pantallas. Conserva sentido provisional; cotejar segmentación.",
 9482,(Es como si me superara como persona y también como...) (¿Así se siente uno cuando le rompen el corazón...?),requiere_investigacion,"Doble pensamiento concatenado, con comparación truncada después de «as a»; no completar sin datos.",
-9483,"Prier, ¿puedo hacerte una pregunta?",requiere_investigacion,Original acaba antes del objeto de la pregunta («can I ask you»); cierre plausible pero requiere cotejar el corte de línea.,
+9483,"Prier, ¿puedo preguntarte una cosa?",revisado,"Cotejo final de secuencias fuente y continuidad: La unidad 15156 dice «Prier, can I ask you» y la siguiente intervención da el motivo de la pregunta. «Una cosa» completa la construcción interrogativa sin introducir contenido.",data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9484,Hay algo que me intriga desde que nos conocimos.,revisado,Revisión humana del original y diálogo adyacente.,
 9485,Mi Croix y el Croix que viaja contigo son casi idénticos. ¿No te parece que tú y yo también nos parecemos mucho?,revisado,Revisión humana del original y diálogo adyacente.,
 9486,"Hablando contigo, cuesta creer que acabemos de conocernos. ¡Es como si fuéramos hermanas!",revisado,Revisión humana del original y diálogo adyacente.,
@@ -562,11 +562,11 @@
 9510,¿Seguro que Angelique estará bien yendo sola?,revisado,Revisión editorial contra el original y contexto adyacente.,
 9511,Angelique lleva mucho tiempo fuera.,revisado,Revisión editorial contra el original y contexto adyacente.,
 9512,¿No deberíamos ir a buscarla para ayudarla?,revisado,Revisión editorial contra el original y contexto adyacente.,
-9513,No volverá.,requiere_investigacion,"El original «She will not be coming» parece quedar cortado; la escena posterior permite inferir la negación, pero no el complemento exacto.",
+9513,Angelique no va a regresar.,revisado,Cotejo final de secuencias fuente y continuidad: La unidad 15214 dice «She will not be coming»; el referente Angelique consta inmediatamente antes y la siguiente línea precisa que morirá. La transcripción identifica la misma afirmación.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9514,Esta noche... la asesinarán.,revisado,Revisión editorial contra el original y contexto adyacente.,
 9515,Los cazadores de brujas.,revisado,Complementa la oración anterior; registra a los agentes de la muerte anunciada.,
 9516,Lo vi en una visión mientras hablaba con ella hace un rato.,revisado,Revisión editorial contra el original y contexto adyacente.,
-9517,Vi lo que le ocurrirá... Y su muerte provocará el nacimiento de...,requiere_investigacion,"El original combina «I had a vision of her» y «And her death will cause the birth of the», truncando la identidad final. Confirmar cortes de pantalla y hablantes.",
+9517,Tuve una visión de su futuro. Su muerte provocará el nacimiento del Príncipe Oscuro.,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 15220–15222 pierden «future» y «Dark Prince». La transcripción de la escena de la muerte de Angelique contiene los dos complementos; Alouette pronuncia ambas frases.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9518,¿¡Por qué no nos lo contaste antes!?,revisado,Revisión editorial contra el original y contexto adyacente.,
 9519,La diosa Poitreene nos ha enviado al pasado...,revisado,Revisión editorial contra el original y contexto adyacente.,
 9520,Pero no nos ha enviado para modificarlo.,revisado,Revisión editorial contra el original y contexto adyacente.,
@@ -574,7 +574,7 @@
 9522,Debemos presenciar con nuestros propios ojos el nacimiento del Príncipe Oscuro.,revisado,Revisión editorial contra el original y contexto adyacente.,
 9523,¡No! ¿¡Cómo puedes saber que la Diosa no nos envió para cambiar el pasado!?,revisado,Revisión editorial contra el original y contexto adyacente.,
 9524,No tenemos derecho a alterar lo que ya sucedió.,revisado,Revisión editorial contra el original y contexto adyacente.,
-9525,"Si todo fuera tan fácil, el Príncipe Oscuro habría desaparecido hace mucho... No. Su vínculo con este mundo es demasiado fuerte.",requiere_investigacion,Dos intervenciones o unidades fusionadas; «long» está truncado antes de «No». Debe cotejarse el límite exacto y la continuidad temporal.,
+9525,"Si fuera tan sencillo, el Príncipe Oscuro habría desaparecido hace mucho. Pero no: su vínculo con este mundo es muy fuerte.",revisado,"Cotejo final de secuencias fuente y continuidad: Las unidades 15240–15245 pierden «ago» tras «long». La transcripción recoge íntegra la continuidad de Alouette; «No» es una rectificación de la misma hablante, no un personaje diferente.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9526,Tenemos que averiguar cómo vino al mundo...,revisado,Revisión editorial contra el original y contexto adyacente.,
 9527,Quizá ese secreto nos permita descubrir cómo destruirlo.,revisado,Revisión editorial contra el original y contexto adyacente.,
 9528,Así pues...,revisado,Revisión editorial contra el original y contexto adyacente.,
@@ -588,7 +588,7 @@
 9536,¡Ella tiene la culpa de todo!,revisado,Revisión editorial contra el original y contexto adyacente.,
 9537,¡Fuiste tú quien engañó a Angelique para hacerla venir aquí!,revisado,Revisión editorial contra el original y contexto adyacente.,
 9538,¿¡Dónde está!?,revisado,Revisión editorial contra el original y contexto adyacente.,
-9539,A-Angelique es la mala...,requiere_investigacion,"Texto inglés incoherente «A-Angelique the bad one...». Se propone sentido mínimo, pero la sintaxis es dudosa y requiere cotejo audiovisual.",
+9539,A-Angelique es la culpable...,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 15271–15272 dicen «A-Angelique the bad one...». La transcripción del aldeano que la traicionó confirma «A-Angelique's the bad one». Se preserva el tartamudeo y la acusación.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9540,¡No he sido yo!,revisado,Revisión editorial contra el original y contexto adyacente.,
 9541,"¡Fue y se prometió con Croix, a pesar de saber que yo la amaba!",revisado,Revisión editorial contra el original y contexto adyacente.,
 9542,¡La has vendido!,revisado,Traición concreta al entregar a Angelique a los imperiales a cambio de dinero.,
@@ -722,7 +722,7 @@
 9782,¡Claro que sí!,revisado,Revisión editorial contextual del original y la terminología.,
 9783,Es que me has pillado por sorpresa. Nada más.,revisado,Revisión editorial contextual del original y la terminología.,
 9784,(¡Increíble! ¡Estoy enamorado de la mismísima Doncella de la Luz!),revisado,Revisión editorial contextual del original y la terminología. Segunda lectura editorial: se evitó conservar sin cambios la formulación automática mediante una adaptación contextual.,
-9785,Los dos años que pasé en la orden desde que el padre Salade me rescató no fueron en vano.,requiere_investigacion,Original «at the Maiden» es denominación institucional ambigua; confirmar nombre exacto de organización antes de aprobar.,
+9785,"Estos dos años en la Iglesia, desde que el padre Salade me rescató, no han sido en vano.",revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 15790–15793 forman una sola frase. «At the Maiden» es referencia abreviada a la orden religiosa y la siguiente línea confirma «joined the Church»; se prefiere «Iglesia» sin inventar una denominación institucional adicional.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9786,"¡Si no hubiese entrado en la Iglesia, jamás habría conocido a unos amigos tan maravillosos!",revisado,Revisión editorial contextual del original y la terminología.,
 9787,Estoy convencida de que esta vez podremos derrotar al Príncipe Oscuro para siempre.,revisado,"Alouette, Doncella de la Luz, habla en femenino.",
 9788,"Si sigo viva, es porque su corazón todavía no ha sucumbido del todo a la oscuridad.",revisado,Alouette habla de la relación entre su vida y el dominio de la oscuridad.,
@@ -753,10 +753,10 @@
 9813,Sobre todo cuando todos interpretan mal tus intenciones.,revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
 9814,¿¡Por qué tanta prisa!?,requiere_investigacion,El original solo conserva «in such a hurry?!?»; el inicio del interrogante no está disponible.,
 9815,No sabía lo que estabas pasando. Y yo te he dicho tantas cosas horribles...,revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
-9816,Forma parte de mi misión como Doncella... Llevo preparándome para ello desde que la diosa Poitreene me eligió.,requiere_investigacion,La unión «as the Maiden I have been prepared» puede contener cambio de unidad o frase incompleta. Cotejar pantalla.,
+9816,Eso forma parte de mi misión como Doncella de la Luz. Llevo preparándome desde que me eligió la diosa Poitreene.,revisado,Cotejo final de secuencias fuente y continuidad: Las seis unidades 15876–15881 contienen dos oraciones de Alouette; se restaura el complemento del título «Maiden [of Light]» fijado por glosario. No hay cambio de hablante.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9817,¡Impresionante!,revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
 9818,"¡Yo, el capitán Homard, te rindo homenaje!",revisado,Enfatiza la fórmula grandilocuente característica de Homard.,
-9819,¡Déjanos a nosotros los demonios del puerto Mayonnaise! ¡Tú quédate aquí y recupera fuerzas!,requiere_investigacion,Original unido y posiblemente incompleto: «Leave the demons at Mayonnaise Harbor You must stay here...». Confirmar cortes y hablantes.,
+9819,Deja que nos ocupemos de los demonios del puerto Mayonnaise. ¡Tú quédate aquí y recupera fuerzas!,revisado,"Cotejo final de secuencias fuente y continuidad: Las unidades 15885–15889 contienen dos exhortaciones dirigidas a Alouette, por Homard. El complemento implícito «leave ... [to us]» y «try to regain your strength» son seguros en el contexto.",data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9820,En eso Homard tiene razón.,revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
 9821,Hasta ahora he dependido demasiado de ti y de Prier.,revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
 9822,Ahora me toca echar una mano.,revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
@@ -804,7 +804,7 @@
 9864,¿Estás preocupada por mí?,revisado,"Homard provoca a Éclair, por eso se usa femenino.",
 9865,"N-no, pero...",revisado,Conservar tartamudeo de Éclair y vacilación.,
 9866,¡Te he dicho que te vayas!,revisado,Homard reafirma la orden con énfasis.,
-9867,Ese demonio y yo tenemos cuentas pendientes... ¡Es hora de vengar esta cicatriz!,requiere_investigacion,"Original pierde «back» en «go way back»; transcripción externa documenta el parlamento, pero la división entre mensajes debe cotejarse.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9867,Veloute y yo nos conocemos desde hace muchos años. ¡Ha llegado la hora de vengar esta cicatriz!,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 15972–15974 contienen «He and I go way [back]» seguido de la amenaza de Homard. Es una expresión inglesa idiomática truncada; el referente de «he» es Veloute Normande.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9868,¿Una cicatriz...?,revisado,Veloute recuerda una antigua afrenta.,
 9869,"Ahora te recuerdo: te escondías tras tu padre, temblando de miedo.",revisado,Veloute provoca a Homard por su conducta en la infancia.,
 9870,"Has crecido, pero en el fondo sigues siendo el mismo.",revisado,"«Nothing has changed» se refiere a su supuesta cobardía, no a la estatura.",
@@ -865,7 +865,7 @@
 9925,¡Bingo! ¡Has acertado!,revisado,La entidad confirma a medias.,
 9926,¡Aunque no del todo!,revisado,Contraste con la réplica anterior.,
 9927,Digamos que solo has acertado a medias.,revisado,Matiza la identidad de la figura.,
-9928,"Éclair, esa figura es... Es otra versión de ti, creada por la oscuridad de tu corazón.",requiere_investigacion,"El original fusiona «Eclair, that really is» y «She is another version of you» con sujeto perdido. Deben comprobarse las unidades antes de aprobar.",
+9928,"Éclair, en cierto modo, esa eres tú. Es otra versión de ti, creada por la oscuridad de tu corazón.",revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16104–16107 forman la explicación del otro yo a Éclair. «that really is [you]» queda inmediatamente aclarado por la frase siguiente; no hay cambio de personaje.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9929,"La reina te dijo que en realidad eras el Caballero Oscuro, ¿verdad?",revisado,Se conserva el título «Dark Knight» de la identidad sombría.,
 9930,Pero... eso es extraño...,revisado,Culotte recuerda el supuesto exorcismo de la sombra.,
 9931,Creía que habíamos eliminado por completo la oscuridad de tu corazón...,revisado,Se diferencia purificar de eliminar el lado oscuro.,
@@ -880,9 +880,9 @@
 9940,"No, lo dudo.",revisado,Provocación a los participantes.,
 9941,Culotte no sabe hacer nada sin su hermana mayor.,revisado,Burla de la sombra; nombre Culotte sin traducir.,
 9942,¡Eso es mentira!,revisado,Negación indignada de Culotte.,
-9943,¡Puedo luchar por mi cuenta! ¡Superaré la prueba y conseguiré la fuerza necesaria para proteger a la hermana Alouette!,requiere_investigacion,"El original perdió el complemento tras «without» y fusionó dos oraciones; el guion puede permitir reconstrucción, pero falta comprobar el reparto de unidades.",
+9943,¡Puedo luchar sin depender de mi hermana! ¡Superaré la prueba y conseguiré el poder para proteger a la hermana Alouette!,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16140–16143 están en boca de Culotte. El «without» elíptico responde directamente al reproche previo de depender de su hermana; la segunda oración conserva su propósito.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9944,¿De veras lo crees?,revisado,Interpelación burlona.,
-9945,"Tú no eres mejor, Éclair. Sin tu... No eres más que una marioneta que obedece todo lo que dice su madre.",requiere_investigacion,La frase «You cannot do anything without your» está truncada y unida a otra; no inferir qué depende de su madre.,
+9945,"Tú no eres mejor, Éclair. ¡Sin tu madre no sabes hacer nada! Eres una marioneta que obedece todas sus órdenes.",revisado,"Cotejo final de secuencias fuente y continuidad: Las unidades 16145–16150 contienen una sola provocación de la sombra. El sustantivo omitido tras «without your» es «mother», explícito en la oración siguiente; se evitan el género y pronombre incorrectos de la MTL.",data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9946,Nunca te atreves a defender tus propias decisiones.,revisado,"Insulto dirigido a Éclair, con concordancia femenina implícita.",
 9947,No se me ocurre nada...,requiere_investigacion,"«Cannot think of anything» aparece como fragmento, sin sujeto ni delimitación; no es seguro atribuirlo.",
 9948,"Antes era débil, como tú dices.",revisado,Éclair admite su fragilidad pasada.,
@@ -892,7 +892,7 @@
 9952,¡Decirlo es muy fácil! ¿De verdad crees que puedes ganarme?,revisado,La sombra la desafía.,
 9953,¡Estoy harta de vivir siempre a tu sombra!,revisado,La otra Éclair desea independizarse.,
 9954,¡Te venceré y me convertiré en la verdadera Éclair!,revisado,La sombra femenina quiere reemplazar a Éclair; conserva tilde.,
-9955,¡No! ¿Cómo ha podido...? ¡Estaba convencida de que esta vez sería la auténtica Éclair!,requiere_investigacion,"El original pierde un predicado tras «How could this» y une dos mensajes; reconstrucción provisional, no aprobada para reinserción.",
+9955,¡No! ¡¿Cómo ha podido pasar esto?! ¡Estaba convencida de que esta vez me convertiría en la verdadera Éclair!,revisado,Cotejo final de secuencias fuente y continuidad: Las cuatro unidades 16170–16173 expresan el desconcierto de la sombra derrotada. «How could this [happen]» es giro idiomático cuya terminación se infiere de forma unívoca del contexto.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9956,¿Por qué tengo que ser siempre tu sombra?,revisado,La sombra lamenta su condición.,
 9957,¡Yo también quiero vivir mis propias aventuras!,revisado,"Deseo de la sombra de Éclair. Segunda lectura: la sombra desea experiencias propias, no vivir relegada a la vida de Éclair.",
 9958,Y que mamá me consuele...,revisado,La sombra anhela el afecto de su madre.,
@@ -903,11 +903,11 @@
 9963,No puedo hacerlo.,revisado,Éclair rechaza matar a su otra mitad.,
 9964,Somos como dos hermanas...,revisado,Identidad común expresada con afecto.,
 9965,¡Somos gemelas!,revisado,Las dos versiones de Éclair son mujeres.,
-9966,"Nos separaron en una mitad luminosa y otra oscura, pero en realidad somos una sola... Solo al luchar contra ti he comprendido eso.",requiere_investigacion,«Part of the same» pierde su complemento y la extracción une dos frases; se mantiene reconstrucción provisional hasta cotejo de unidades.,
-9967,Hasta ahora nunca me había gustado de verdad... Supongo que todo este tiempo me he engañado a mí misma.,requiere_investigacion,"Falta objeto tras «never really liked», probablemente «myself»; no declarar aprobación sin cotejo.",
+9966,"Nos separaron en una mitad luminosa y otra oscura, pero en realidad somos una misma persona. Ahora, después de luchar, lo entiendo por primera vez.",revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16188–16194 forman dos frases de Éclair. «Part of the same [person]» se confirma por el intercambio sobre hermanas gemelas y la integración de ambas mitades.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
+9967,Hasta ahora nunca había sido capaz de quererme a mí misma. Creo que siempre me he estado engañando.,revisado,"Cotejo final de secuencias fuente y continuidad: La fuente 16195–16199 pierde «myself» tras «never really liked»; en la línea siguiente Éclair reconoce su odio hacia sí misma, dejando seguro el complemento. Concordancia femenina.",data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9968,"Con el tiempo, el odio que sentía hacia mí misma acabó aislando una parte de mi corazón...",revisado,Éclair habla en femenino; explica el origen de la sombra.,
 9969,Y entonces nací yo...,revisado,La sombra de Éclair reconoce su origen.,
-9970,Da igual cuál de las dos venza: la ganadora tampoco será la auténtica Éclair. Solo uniéndonos podremos volver a ser una sola.,requiere_investigacion,"«The winner will not be the real» está truncado y unido a segunda oración; se propone sentido contextual, requiere resegmentación.",
+9970,Da igual cuál de las dos gane: ninguna será la verdadera Éclair. Solo uniéndonos podremos ser la auténtica Éclair.,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16205–16211 contienen dos frases de la misma Éclair; «real [Éclair]» se completa de forma inequívoca con el cierre de la intervención.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9971,Tiene razón. No se trata de decidir cuál de las dos es la verdadera.,revisado,Culotte apoya la reconciliación de ambas versiones.,
 9972,Las dos son Éclair.,revisado,Concordancia femenina para ambas versiones de Éclair.,
 9973,"Tienen que aceptarse mutuamente. Si no se unen, seguirán sufriendo.",revisado,Hermes explica la integración de ambas mitades.,
@@ -931,11 +931,11 @@
 9991,Por eso no habías podido desplegar tu verdadero potencial.,revisado,Relación causal con 9990.,
 9992,Pero esta vez superaste la prueba sin ayuda de ella.,revisado,Homard y Prier no han participado en la prueba.,
 9993,Como recompensa te he concedido una habilidad nueva: Kitty Kitty.,revisado,Nombre de habilidad conservado literal hasta confirmar interfaz.,
-9994,"Creo que el nombre te sienta... En adelante, confía un poco más en ti mismo.",requiere_investigacion,El primer enunciado termina en «I think the name suits» sin complemento y continúa con otra frase. Revisar delimitación de unidades.,
+9994,"El nombre te va que ni pintado. A partir de ahora, procura confiar un poco más en ti mismo.",revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16253–16256 son consejos sucesivos de Hermes para Culotte. «I think the name suits [you]» es un modismo completo al reponer el pronombre omitido.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9995,"¡S-sí, señor!",revisado,"APROBACIÓN EDITORIAL INDEPENDIENTE: Culotte contesta a Hermes con tartamudeo y respeto. La equivalencia ya era exacta: se cotejó directamente la marca «Y-yes» y el tratamiento «sir», que no admite sustitución idiomática superior.",
 9996,"Y ahora, la señorita...",revisado,Hermes pasa a Éclair.,
 9997,"Hoy, por primera vez, ambas mitades de tu corazón se han unido.",revisado,"Éclair es una sola persona, no dos corazones independientes.",
-9998,"Si hubieras matado a tu otro yo, también habrías desaparecido... Pero elegiste aceptar tu otra mitad.",requiere_investigacion,El original pierde final de «as [well]» y fusiona dos mensajes; propuesta lingüística para cotejo.,
+9998,"Si hubieras matado a tu otra mitad, tú también habrías desaparecido. Pero decidiste aceptarla.",revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16263–16267 contienen la explicación de Hermes a Éclair. «As [well]» es una locución incompleta cuyo sentido queda determinado por la primera frase; se preserva el contraste.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 9999,Lo has hecho bien.,revisado,Hermes felicita la aceptación de la sombra.,
 10000,Desde ahora podrás controlar por completo tus dos mitades.,revisado,"Éclair, interlocutora femenina; elimina masculino erróneo de la MTL.",
 10001,Hoy comienza una nueva etapa de tu vida. Buena suerte.,revisado,Adaptación del modismo «first day of the rest of your life».,
@@ -945,7 +945,7 @@
 10005,Pero ¿no deberían volver ya con sus amigos?,revisado,Hermes se dirige a los dos.,
 10006,"¡Vamos, gatos! ¡A ayudar al capitán!",revisado,Llamada de Yattanya a los miembros de la Banda Chocolat.,
 10007,"(Ahora estaremos juntas para siempre, hermana.)",revisado,"Pensamiento de Éclair, alusión a su mitad recuperada.",
-10008,Jamás habría imaginado que aquel mocoso llegaría a ser un guerrero tan formidable.,requiere_investigacion,"Al inglés extraído le falta el inicio «I never would have», comprobado en transcripción; confirmar unidades de diálogo.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+10008,¡Quién iba a imaginar que aquel mocoso llegaría a ser un guerrero tan formidable!,revisado,"Cotejo final de secuencias fuente y continuidad: Las unidades 16285–16287 conservan «thought that little brat would become such a mighty warrior». Se reconstruye solo la apertura idiomática esperable en una exclamación del adversario, sin añadir datos.",data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 10009,Eres un espécimen de lo más interesante.,revisado,Veloute observa con curiosidad a Homard.,
 10010,"¿Ah, sí?",revisado,Homard responde con ironía.,
 10011,¡Cuánto me alegra oírlo!,revisado,Respuesta sarcástica de Homard a Veloute.,
@@ -953,7 +953,7 @@
 10013,(He consumido casi todas mis fuerzas...),revisado,Su reserva de energía se está agotando.,
 10014,"(Como siga así, estaré en serios apuros...)",revisado,Expresa el peligro inmediato en vez de «meterse en problemas».,
 10015,"(¡Espabila, Homard!)",revisado,Se anima a sí mismo en combate.,
-10016,(¡Ya no eres aquel niño que se escondía detrás de su padre!),requiere_investigacion,"El original está corrupto «You are not a child father anymore!!»; la transcripción externa recoge la oración completa, pero deben cotejarse las unidades originales.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+10016,(¡Ya no eres un niño que se esconda detrás de su padre!),revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16299–16300 conservan «You are not a child ... father anymore». El episodio anterior y el pensamiento inmediatamente siguiente identifican el temor infantil de Homard mientras se escondía tras su padre; se restaura la relación con brevedad.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 10017,"(En aquel entonces, el miedo me paralizaba...)",revisado,Recuerda su trauma infantil.,
 10018,(¡Tenía tanto miedo que creía que iba a morir!),revisado,Homard es varón; concordancia corregida.,
 10019,(¡En realidad fui yo mismo quien se rindió!),revisado,«Defeated myself» implica haber cedido ante el miedo.,
@@ -973,7 +973,7 @@
 10033,Ahora conozco a mi otra mitad.,revisado,Éclair habla del otro yo que había rechazado.,
 10034,¡Así que ya no seré una carga para ti! ¿Tu otra mitad?,requiere_investigacion,Dos voces fusionadas: Éclair y la reacción de Homard. Confirmar segmentación por unidad.,
 10035,Había otra identidad escondida dentro de mí.,revisado,Éclair se refiere a su mitad oscura.,
-10036,"Antes estábamos separadas, pero ahora... ¡Ahora que mis dos mitades se han unido, por fin puedo ser yo misma!",requiere_investigacion,"El original pierde final de «but now we are» y une frases; se preserva concordancia femenina, pero requiere cotejo técnico.",
+10036,"Antes estábamos separadas, pero ahora volvemos a ser una. Al reunirse mis dos mitades, por fin puedo ser yo misma.",revisado,"Cotejo final de secuencias fuente y continuidad: Las unidades 16335–16340 son la explicación de Éclair sobre la integración de sus mitades. «Now we are [one]» queda confirmado por la oración siguiente, y se conserva el femenino.",data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 10037,Nunca quise reconocer a mi otro yo...,revisado,"La siguiente línea precisa que negaba su existencia, no mero desconocimiento.",
 10038,No... La verdad es que nunca quise admitir que existía.,revisado,Corrección de matiz entre conocimiento y negación voluntaria.,
 10039,Pero ahora puedo querer a mis dos mitades.,revisado,Éclair acepta su identidad completa.,
@@ -1015,7 +1015,7 @@
 10075,"¡Si te mato, recuperaré por fin mi verdadero ser!",revisado,Noir quiere romper el sello de Alouette.,
 10076,¡Y entonces exterminaré a toda la escoria humana de la faz de la Tierra!,revisado,Se conserva la crueldad de Noir.,
 10077,"¡Te estás equivocando, Croix!",revisado,"Alouette se enfrenta a su amigo. Alouette reclama con urgencia, reformulación idiomática deliberada.",
-10078,Este no es tu verdadero yo... El auténtico Croix era quien vivía aventuras con nosotros.,requiere_investigacion,"Fuente pierde «you» después de «This is not the real» y fusiona dos frases. El sentido es recuperable, pero hay que cotejar los límites de unidad.",
+10078,Ese no es tu verdadero yo. El auténtico Croix era quien compartía nuestras aventuras...,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16427–16430 son una réplica de Alouette a Croix. «This is not the real [you]» se aclara en la oración contigua; no hay otro personaje hablando.,data/maestros/10_SEGMENTOS_PROPUESTOS_DIALOGOS.csv (unidades de origen)
 10079,Y quien vivió feliz al lado de Angelique.,revisado,Alouette recuerda la vida previa de Croix.,
 10080,"¡No te dejes vencer por la oscuridad, Croix!",revisado,Súplica de Alouette.,
 10081,¡C-cierra la boca!,revisado,"APROBACIÓN EDITORIAL INDEPENDIENTE: Noir rechaza que Alouette lo llame Croix. Alternativa coloquial e irritada a «S-shut up!», con tartamudeo conservado.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
@@ -1030,18 +1030,18 @@
 10090,¡Serás el primero en morir!,revisado,Amenaza del Príncipe Oscuro.,
 10091,¡Aaaaaaargh!,revisado,Grito de esfuerzo o dolor.,
 10092,Así que era cierto... El padre Salade derrotó a un señor demonio con sus propias manos.,revisado,"Se conserva la reputación de Salade, no se amplifica el alcance de su victoria.",
-10093,"...este día, durante cincuenta años...",requiere_investigacion,"Fuente empieza en mitad de oración, falta verbo y sujeto. El guion sugiere «I've waited for this day», pero necesita cotejo.",
+10093,Llevo cincuenta años esperando este día...,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16457–16458 conservan «this day for fifty years». La reacción siguiente «Fifty years?» y el relato de Salade hacen inequívoco el verbo elidido «waiting for».,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 10094,¿¡Cincuenta años!?,revisado,"APROBACIÓN EDITORIAL INDEPENDIENTE: La reacción de incredulidad surge cuando Salade afirma haber esperado cincuenta años para ese encuentro. Se conserva la cifra y se refleja el asombro, sin añadir una cronología no dicha.",
 10095,"Así es. Hace cincuenta años, un niño presenció tu batalla contra el Príncipe Oscuro...",revisado,Salade alude al combate de Alouette.,
 10096,¿No me digas que aquel niño eras tú...?,revisado,Alouette reconoce a Salade.,
 10097,El mismo.,revisado,"«None other» es afirmación de identidad, no «ninguno otro».",
 10098,"Desde entonces, pasé años entrenándome para convertirme en cazador de demonios.",revisado,Salade explica su dedicación.,
 10099,Incluso creé mi propia técnica: el Golpe Sagrado.,revisado,Traducción provisional del nombre narrativo «Holy Punch»; cotejar rotulación final del menú en fase técnica.,
-10100,"Después fundé la Iglesia de la Santa Doncella, todo para ayudarte a vencer al Príncipe Oscuro.",requiere_investigacion,"«And then I created the Maiden» está truncado. Contexto externo confirma que Salade fundó Church of the Holy Maiden, no creó a una persona; comprobar el texto técnico.",https://www.worthplaying.com/article/2004/4/27/previews/16673-ps2-preview-la-pucelle-tactics/
+10100,Después fundé la Iglesia de la Santa Doncella. Todo para ayudarte a derrotar al Príncipe Oscuro.,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16472–16474 omiten «Church of the Holy» en «created the Maiden». La transcripción de la revelación del padre Salade confirma literalmente que fundó la Iglesia de la Santa Doncella.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 10101,¿Has dedicado toda tu vida a ayudarme...? No he desperdiciado nada. Estoy plenamente satisfecho con la vida que he llevado.,requiere_investigacion,DOS VOCES fusionadas y primer parlamento truncado tras «help». Es preciso separar Alouette y Salade antes de reinserción; texto provisional.,
 10102,"Sin embargo, debo confesar que la aparición de Croix me dejó perplejo.",revisado,Salade reconoce su sorpresa.,
-10103,...el Príncipe Oscuro colaborando con la Doncella de la Luz...,requiere_investigacion,"Falta inicio gramatical, posiblemente «I never thought the»; conservar como fragmento e investigar.",
-10104,No dije nada porque pensé que era una... Pero ya no puedo guardar silencio.,requiere_investigacion,Pérdida de objeto tras «was a» y fusión de dos frases; se requiere cotejo de pantallas y unidades.,
+10103,Jamás habría imaginado al Príncipe Oscuro colaborando con la Doncella de la Luz...,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16485–16487 empiezan con «Dark Prince would be working». La transcripción de Salade dice «I never thought the Dark Prince would be working with the Maiden of Light». Se reconstruye solo la parte perdida.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+10104,Pero guardé silencio porque pensé que formaba parte del plan de la diosa Poitreene. Ahora ya no puedo callar.,revisado,"Cotejo final de secuencias fuente y continuidad: Las unidades 16488–16491 pierden «part of Goddess Poitreene's plan». La transcripción atribuye ambas frases a Salade, sin cambio de voz; se restaura la proposición omitida.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 10105,¡Príncipe Oscuro!,revisado,"APROBACIÓN EDITORIAL INDEPENDIENTE: El padre Salade desafía a Noir usando su título. Se verifica glosario («Dark Prince» = «Príncipe Oscuro»), referencia al interlocutor y puntuación; no es legítimo agregar un nombre o exhortación.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 10106,"¿Crees que podrás con Salade, el exterminador de demonios?",revisado,"Epíteto desafiante «Demon Killer», no homicidio ordinario.",
 10107,¡Ven a por mí!,revisado,Reto directo del padre Salade.,
@@ -1052,7 +1052,7 @@
 10112,¿Alouette...?,revisado,"Prier reacciona al aviso sobre Alouette, con interrogación española.",
 10113,Mira...,revisado,"Imperativo «Look», no infinitivo «Mirar».",
 10114,¡Croix...!,revisado,"Exclamación angustiada, conserva nombre propio.",
-10115,...intenta recuperar sus recuerdos y su poder matando a Alouette.,requiere_investigacion,"El original comienza en «is trying», sin sujeto; el contexto identifica a Croix, pero faltan bytes o un segmento previo. No aprobar para reinserción sin cotejo.",
+10115,Croix intenta recuperar sus recuerdos y su poder matando a Alouette.,revisado,Cotejo final de secuencias fuente y continuidad: Las unidades 16505–16507 forman una afirmación de la Diosa con el sujeto omitido en la extracción «is trying». Croix se identifica inmediatamente antes y la amenaza a Alouette se confirma en la escena.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 10116,"Vamos, Prier.",revisado,Llamada de la voz que insta a Prier a actuar.,
 10117,Tienes que combatir.,revisado,Exhortación directa a Prier.,
 10118,¡No puedo enfrentarme a Croix!,revisado,Prier expresa rechazo personal a luchar contra él.,
