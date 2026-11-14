@@ -99,56 +99,56 @@
 10217,"¡Y el Escargot seguirá adelante hasta el final!","revisado","Escargot es el nombre de la aeronave; no debe traducirse como «caracol».",""
 10218,"¡Será una aventura única en la vida!","revisado","La extracción solo conservó «adventure!»; el guion publicado confirma «It's a once-in-a-lifetime adventure!». Falta confirmar segmentación física.","https://www.neoseeker.com/la-pucelle/faqs/78770-a.html"
 10219,"¡Es hora de ir a por ellos a su propio terreno!","revisado","",""
-10220,,pendiente,,
-10221,,pendiente,,
-10222,,pendiente,,
-10223,,pendiente,,
-10224,,pendiente,,
-10225,,pendiente,,
-10226,,pendiente,,
-10227,,pendiente,,
-10228,,pendiente,,
-10229,,pendiente,,
-10230,,pendiente,,
-10231,,pendiente,,
-10232,,pendiente,,
-10233,,pendiente,,
-10234,,pendiente,,
-10235,,pendiente,,
-10236,,pendiente,,
-10237,,pendiente,,
-10238,,pendiente,,
-10239,,pendiente,,
-10240,,pendiente,,
-10241,,pendiente,,
-10242,,pendiente,,
-10243,,pendiente,,
-10244,,pendiente,,
-10245,,pendiente,,
-10246,,pendiente,,
-10247,,pendiente,,
-10248,,pendiente,,
-10249,,pendiente,,
-10250,,pendiente,,
-10251,,pendiente,,
-10252,,pendiente,,
-10253,,pendiente,,
-10254,,pendiente,,
-10255,,pendiente,,
-10256,,pendiente,,
-10257,,pendiente,,
-10258,,pendiente,,
-10259,,pendiente,,
-10260,,pendiente,,
-10261,,pendiente,,
-10262,,pendiente,,
-10263,,pendiente,,
-10264,,pendiente,,
-10265,,pendiente,,
-10266,,pendiente,,
-10267,,pendiente,,
-10268,,pendiente,,
-10269,,pendiente,,
+10220,"En el cartel pone...","revisado","",""
+10221,"¡Día de fiesta para todas las criaturas!","revisado","",""
+10222,"No tienes por qué ocultarme nada.","revisado","",""
+10223,"Lo sé todo...","revisado","",""
+10224,"¡Hazlo lo mejor que puedas!","revisado","",""
+10225,"Confía en ti misma y sé fiel a lo que sientes, Prier...","revisado","Corrección de género femenino y naturalización del consejo.",""
+10226,"¡¿Qué?! ¿No serás tú...?","revisado","",""
+10227,"Oye, Prier, ¿qué te parecería...?","requiere_investigacion","El original termina en «how about» sin el contenido de la propuesta. La respuesta posterior no permite reconstruir con certeza su formulación.",""
+10228,"Bueno... quizá me lo piense cuando acabemos con todo esto.","revisado","",""
+10229,"¡No sé ni qué decir!","revisado","",""
+10230,"Anda, un Mooboo.","revisado","Se conserva el nombre del monstruo.",""
+10231,"¡Cuántos recuerdos...!","revisado","",""
+10232,"Una vez luché contra un Gran Mooboo que era el doble de grande que ese...","revisado","",""
+10233,"He oído que están reformando la iglesia.","revisado","",""
+10234,"Parece que se han inventado una excusa, aunque no es precisamente la mejor que he oído...","revisado","El original fusiona dos oraciones y omite la puntuación intermedia.",""
+10235,"Al parecer, todos los sirvientes de Noir han desaparecido hace poco...","revisado","",""
+10236,"Aunque el mundo estuviera a punto de acabarse, yo seguramente seguiría aquí lavando ropa interior.","revisado","",""
+10237,"Rezo para que estén a salvo.","revisado","",""
+10238,"Nosotros nos encargaremos de proteger la iglesia.","revisado","",""
+10239,"","requiere_investigacion","El fragmento comienza por «can tell», sin sujeto ni modalidad segura; la continuación insinúa una explicación inventada, pero no confirma si se dice «can» o «can't». No se aprueba una frase inventada.",""
+10240,"Tendré que inventarme alguna explicación para todo esto...","revisado","",""
+10241,"Dicen que están renovando la iglesia.","revisado","",""
+10242,"Me gustaría hacer lo mismo con mi tienda algún día...","requiere_investigacion","La fuente se interrumpe en «some»; «someday» es plausible, pero falta confirmación del texto y de la segmentación.",""
+10243,"Supongo que no vendría mal decir algo distinto por una vez, ¿no?","revisado","",""
+10244,"","requiere_investigacion","«ever eat is noodles?» es un fragmento corrupto: no se puede determinar con seguridad si es una afirmación, una pregunta ni quién come los fideos.",""
+10245,"¡Me encanta el udon!","revisado","«Udon» es el nombre de un plato japonés y se conserva.",""
+10246,"Mi madre se enteró de que estaba tirando el dinero aquí y me quitó la paga.","revisado","",""
+10247,"¿Me permiten hacer un poco de publicidad?","revisado","",""
+10248,"En el edificio Messe Sanoh, en Akihabara (Tokio), ¡hay una tienda Rosenqueen de verdad!","revisado","Se conserva la referencia comercial real y el nombre propio Rosenqueen.",""
+10249,"¡Vengan a vernos!","revisado","",""
+10250,"Vamos, vamos...","revisado","",""
+10251,"No pongas esa cara. No te preocupes, volverán.","revisado","El original fusiona «Do not make a face like [that]» y «Do not worry»; se restituye la separación, sin añadir circunstancias.",""
+10252,"¡Déjennos encargarnos de todo mientras estén fuera!","revisado","",""
+10253,"¡La agencia mantendrá las calles de la ciudad seguras para toda la gente honrada!","revisado","",""
+10254,"¡Solo asegúrense de volver!","revisado","",""
+10255,"Eh... yo... esto...","revisado","",""
+10256,"Confío en ustedes, así que no voy a llorar.","revisado","",""
+10257,"Estoy siendo valiente, ¿a que sí?","revisado","",""
+10258,"...Devuélvemelo después.","revisado","Se añade el pronombre por continuidad con el tesoro que se presta.",""
+10259,"...¿Me lo prometes?","revisado","",""
+10260,"Snif...","revisado","«Sniff» es una onomatopeya de sollozo; no el verbo «oler».",""
+10261,"Parece que ya no te caben más objetos...","revisado","Se adapta el mensaje al límite del inventario.",""
+10262,"Vaya, parece que al final no podré prestarte mi tesoro...","revisado","",""
+10263,"Si quieres, te presto mi tesoro...","revisado","",""
+10264,"...Pero asegúrate de devolvérmelo después.","revisado","",""
+10265,"...¿Lo prometes?","revisado","",""
+10266,"Me lo devolverás, ¿vale? —Lo prometo.","requiere_investigacion","El original fusiona aparentemente la petición de un personaje y la promesa de otro; sin datos de hablantes ni segmentación no se aprueba la reinserción.",""
+10267,"¡Has conseguido la Espada Cactus!","revisado","Se mantiene el nombre del objeto «Cactus Sword» en la nomenclatura de la traducción de trabajo.",""
+10268,"Clase de eringués. Lección final: «Gracias».","revisado","«Eringese» es el idioma ficticio de los Eringa; no significa «inglés eringés».",""
+10269,"En eringués, «gracias» se dice «weonoaeugagehaoeri».","revisado","La palabra ficticia se conserva exactamente como aparece en el original.",""
 10270,,pendiente,,
 10271,,pendiente,,
 10272,,pendiente,,
