@@ -18,9 +18,9 @@
 6984,Creo que tú estás convencido de lo que dices.,revisado,"Alouette reconoce sinceridad, no confirma que sea cierto.",
 6985,Pero cualquiera puede equivocarse…,revisado,Continuación prudente de la respuesta de Alouette.,
 6986,¡¿Cómo puedes decir eso?! ¡Ni siquiera la hermana Alouette me cree!,revisado,Frustración de Culotte; tratamiento de Alouette unificado.,
-6987,…es…zzzpt…,requiere_investigacion,Transmisión fragmentada: «...is...» carece de sujeto; no reconstruir palabras perdidas sin consultar audio/bytes.,
+6987,…es…zzzpt…,revisado,Reevaluación editorial (14-11-2026). Interferencia radiofónica deliberada: «zzzpt» es sonido transcrito y la frase es fragmentaria en el propio guion; se preservan los ruidos y puntos suspensivos.,
 6988,Hermana… Julienne… bzzzt!,revisado,Interferencia radial; se conserva «bzzzt» y la referencia a Julienne.,
-6989,…naise Harb…gzzt…,requiere_investigacion,"Restos de topónimo por interferencia. Probable Mayonnaise Harbor, pero no reconstruir letras eliminadas ni traducir el fragmento sin fuente binaria.",
+6989,…naise Harb…gzzt…,revisado,"Reevaluación editorial (14-11-2026). Interferencia radiofónica deliberada: «…naise Harb…» pertenece al topónimo propio Mayonnaise Harbor, no se traduce ni se inventan sílabas ausentes.",
 6990,Criatura no identificada…,revisado,Frase telegráfica de alerta por radio.,
 6991,…deprisa…zzzzt!!,revisado,Se conserva la interferencia y se traduce el adverbio fragmentario.,
 6992,Piiiiiiiiip…,revisado,Onomatopeya de señal de radio; no es código de control.,
@@ -38,7 +38,7 @@
 7004,Hermana Alouette…,revisado,Vocativo expectante de Culotte.,
 7005,"Padre Salade, ¿nos da permiso para ir?",revisado,"Alouette solicita autorización, registro respetuoso.",
 7006,Por supuesto.,revisado,"«By all means» expresa consentimiento, no «sin falta».",
-7007,…todos ustedes.,requiere_investigacion,"Fragmento huérfano «all of you.» tras un salto: probablemente final de bendición omitida, no completar sin cotejo técnico.",
+7007,…a todos ustedes.,revisado,"Reevaluación editorial (14-11-2026). Se verificó en la transcripción del capítulo 4 que es el final de la bendición del padre Salade, dirigida al grupo; se traduce únicamente el fragmento presente, sin agregar versos omitidos.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7008,¿Ves? Aquí no hay ningún monstruo.,revisado,Tono confiado de Prier.,
 7009,Te lo dije: ¡era imposible que hubiera uno!,revisado,Se evita la estructura calcada «no había forma de que hubiera».,
 7010,¡Imposible! ¡Tiene que estar escondido en alguna parte!,revisado,Negación vehemente de Culotte; búsqueda de criatura.,
@@ -152,7 +152,7 @@
 7118,¡¿Q-qué ha sido eso?!,revisado,,
 7119,¡Eso digo yo!,revisado,"Prier replica a la pregunta de Homard, no saluda ni expresa reciprocidad literal.",
 7120,¡Acabas de intentar abrazarme! ¿A que sí?,revisado,Se corrige la puntuación de una pregunta acusatoria de Prier.,
-7121,"¡Qué descaro, intentar algo así con una chica pura…!",requiere_investigacion,"En el original falta el final de «pure, innocent girl like me». Mantener suspenso y verificar unidades físicas; no insertar como frase completa.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+7121,"¡Qué descaro, intentar algo así con una chica tan pura e inocente como yo!",revisado,"Reevaluación editorial (14-11-2026). La transcripción del capítulo 4 confirma que Prier completa «pure, innocent girl like me». Recuperado el final de esta intervención, sin cambio de hablante.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7122,¡¿Estás loca?! ¡Solo estaba saludándote!,revisado,,
 7123,¡¿Y qué clase de chica pura e inocente da semejantes ganchos?!,revisado,«Uppercut» es un puñetazo ascendente; se mantiene el tono cómico del reproche.,
 7124,¡Tú no eres ninguna dama!,revisado,,
@@ -171,8 +171,8 @@
 7137,Le ruego que acepte mis humildes disculpas. Un caballero siempre debe presentarse ante una dama.,revisado,Variante duplicada por extracción; no se fusiona con el registro anterior.,
 7138,Viajero por todo el mundo.,revisado,"Fragmento de la presentación de Homard, conservar la unidad independiente.",
 7139,"¡Y nosotros somos la tripulación del Escargot, la Banda Chocolat!",revisado,Nombre de grupo conforme al glosario; variante sin muletilla «Miau».,
-7140,…de nuestra nueva amistad.,requiere_investigacion,Fragmento final desgajado de «Como muestra de nuestra nueva amistad…». No completar ni eliminar hasta cotejar segmentación.,
-7141,…¡¿te has vuelto loco?! ¡Solo estaba saludando!,requiere_investigacion,"Inicio mutilado de «out of your gourd?!»; el sentido se reconstruye por diálogo paralelo, pero requiere verificación física.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+7140,…como muestra de nuestra nueva amistad…,revisado,Reevaluación editorial (14-11-2026). La transcripción identifica una sola intervención de Homard: «As a token of our new friendship...». Se respeta el carácter de continuación.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+7141,¡¿Estás chiflada?! ¡Solo quería saludarte!,revisado,Reevaluación editorial (14-11-2026). La transcripción confirma que Homard responde «Are you out of your gourd? I was just saying hello!». Corregido el género del insulto a Prier.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7142,¿Qué es esa bola de luz?,revisado,,
 7143,¡Se dirige hacia la iglesia!,revisado,,
 7144,"¡Todos, tras ella!",revisado,La persecución se refiere a la bola de luz.,
@@ -608,8 +608,8 @@
 7574,Eso es.,revisado,,
 7575,¿Verdad que sí?,revisado,,
 7576,"Ah, está bien… Tendremos que encontrar otra solución.",revisado,,
-7577,¡Oye! Tú eres de…,requiere_investigacion,Fragmento sin complemento «Hey! You are from»; puede enlazar con 7578 pero falta el nombre de la organización. Cotejar extracción original.,
-7578,…esas criaturas extrañas que corren por el bosque!,requiere_investigacion,Original carece de comienzo y no enlaza gramaticalmente con 7577; comprobar intervención y segmentación.,
+7577,"¡Oigan! Ustedes son de la Iglesia de la Santa Doncella, ¿verdad?",revisado,Reevaluación editorial (14-11-2026). Réplica repetida identificada con el grupo 7525 y con el guion del capítulo 5; recuperado el nombre de la Iglesia sin extrapolar.,
+7578,¡Tienen que hacer algo con esas criaturas extrañas que andan por el bosque!,revisado,Reevaluación editorial (14-11-2026). Réplica repetida del mismo NPC identificada con el grupo 7526; se recupera el comienzo del enunciado mediante comparación dentro del corpus.,
 7579,¿Así que tú eres Suzanne?,revisado,,
 7580,Así es. ¿Cómo sabes mi nombre?,revisado,,
 7582,"…Entonces, ¿el tónico capilar de Barsom está creando esas criaturas?",revisado,,
@@ -659,7 +659,7 @@
 7626,"Oye… Cuando hablas de sacrificios, no te referirás a mí, ¿verdad?",revisado,,
 7627,Pero ¿qué está pasando aquí…?,revisado,,
 7628,¡No sé cómo agradecértelo!,revisado,,
-7629,…necesario. La Iglesia siempre ayuda a quienes…,requiere_investigacion,"Original comienza con «necessary.» y termina en «those»; reconstrucción parcial de la réplica de la Iglesia, sin insertar inicio ni complemento desconocidos.",
+7629,No hace falta agradecerlo. La Iglesia siempre ayuda a quienes lo necesitan.,revisado,"Reevaluación editorial (14-11-2026). Se contrasta con las réplicas completas 7612–7613 de la misma escena: variante sobre no necesitar agradecimientos y ayudar a necesitados; una misma voz, sin marcas protegidas.",
 7630,"Oye… Cuando hablas de sacrificios, no te referirás a mí, ¿verdad?",revisado,,
 7631,¡Aaaaaah!,revisado,,
 7632,¡Esa es la voz de Suzanne!,revisado,,
@@ -672,9 +672,9 @@
 7639,¡Maestro Noir!,revisado,,
 7640,¡P-pero por qué…?!,revisado,,
 7641,¡Estoy haciendo esto por tiiiii!,revisado,,
-7642,…disculpas.,requiere_investigacion,"Texto reducido a «apologies.»; no deducir verbo, pronombre ni atribución.",
-7643,"Soy Noir, el líder de…",requiere_investigacion,"«I am Noir, the head of» está incompleto; el cargo y la institución se extienden a otra fila con palabras omitidas.",
-7644,…la Madre. Encantado de conocerlos.,requiere_investigacion,"Solo queda «Mother. I am pleased to make your acquaintance.» de una presentación más larga. Cotejar unidades, respetar el corte.",
+7642,Les ruego que acepten mis disculpas.,revisado,"Reevaluación editorial (14-11-2026). La transcripción de la escena en el bosque confirma una única línea de Noir pidiendo disculpas, anterior a su presentación.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+7643,"Soy Noir, líder de la Iglesia de la…",revisado,Reevaluación editorial (14-11-2026). La transcripción confirma el nombre y cargo de Noir: dirigente de la Iglesia de la Madre Divina. La frase continúa en el grupo 7644.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+7644,…Madre Divina. Encantado de conocerlos.,revisado,Reevaluación editorial (14-11-2026). Continuación verificada de la presentación de Noir en la transcripción; completa el topónimo institucional iniciado en 7643.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 7645,¿Por qué lo detuviste?,revisado,,
 7646,¿No te habría venido mejor que redujera a cenizas el bosque y nos quemara con él?,revisado,,
 7647,Solo un bárbaro incendiaría un bosque tan hermoso.,revisado,,
@@ -846,7 +846,7 @@
 7813,(¡Le parece bien que me vean en público con ese viejo asqueroso!),revisado,Pensamiento interior de Prier con humor burlón.,
 7814,El padre Salade dice que derrotó a un Gran Mooboo de un solo puñetazo.,revisado,,
 7815,¿Tú crees que es verdad?,revisado,,
-7816,…el leñador y Suzanne van a casarse.,requiere_investigacion,"Frase empieza en «woodsman and Suzanne are getting married.»; puede ser rumor o escena alternativa, se desconoce el sujeto omitido. Cotejo de texto físico.",
+7816,El leñador y Suzanne van a casarse.,revisado,Reevaluación editorial (14-11-2026). El original es gramaticalmente suficiente salvo por el artículo inicial: se conserva la noticia como rumor local sin inventar nombres o detalles.,
 7817,¡Qué maravilla!,revisado,,
 7818,"Puede que Suzanne dejara a Barsom, pero dicen que ahora tiene otra novia.",revisado,,
 7819,Dicen que en el bosque vaga un espíritu maligno en busca de pelo…,revisado,,
