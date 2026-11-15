@@ -101,4 +101,4 @@ No sumar varias métricas de universos superpuestos. Congelar los denominadores 
 
 ## Aplicación concreta a La Pucelle
 
-El repositorio principal ya proporciona maestro de 26 258 unidades, 15 corpus, QA de grupos, glosario y herramientas v0.1–v0.15. Los 14 punteros de script en segundo byte CP932 siguen siendo un ejemplo de **bloqueo legítimo** aunque la traducción editorial esté revisada. La [investigación forense](../parcheador/docs/FORENSE_ESTRUCTURA_JUEGO.md) muestra cómo documentarlos sin forzar que el juego acepte datos corruptos.
+El repositorio principal ya proporciona maestro de 26 258 unidades, 15 corpus, QA de grupos, glosario y herramientas v0.1–v0.15. Los 14 punteros de script en segundo byte CP932 siguen siendo un ejemplo de **bloqueo legítimo** aunque la traducción editorial esté revisada. La [investigación forense](https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/blob/main/parcheador/docs/FORENSE_ESTRUCTURA_JUEGO.md) muestra cómo documentarlos sin forzar que el juego acepte datos corruptos.
