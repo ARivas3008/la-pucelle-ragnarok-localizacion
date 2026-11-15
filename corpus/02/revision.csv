@@ -84,7 +84,7 @@
 1429,Una vez más,revisado,"もう一回 pide repetición, no «uno más» como cantidad de objetos.",
 1430,Por fuera,revisado,見た目は presenta el aspecto externo como tema; «parece» no conserva la oposición.,
 1431,Desde luego,revisado,いかにも funciona como afirmación enfática; depende del contexto de concatenación.,
-1432,,requiere_investigacion,"どうしても puede ser «a toda costa» o «por más que», según sintaxis; falta contexto fiable. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14267: «Surely»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.",Cotejo interno: corpus/02/entrada.csv grupo 14267
+1432,A toda costa,revisado,"El japonés どうしても expresa insistencia o necesidad de lograr algo a toda costa; el inglés paralelo «Surely» es una adaptación inespecífica. Como fragmento adverbial autónomo, «A toda costa» no exige completar sujeto ni objeto.","Cotejo interno: corpus/02/entrada.csv, grupos 1432 y 14267"
 1433,Final,revisado,最後の es modificador «último/final»; se evita asignar género a un nombre todavía desconocido.,
 1434,,requiere_investigacion,始まりは introduce como tema «el comienzo...»; la traducción precisa requiere predicado siguiente. Cotejado el recurso inglés paralelo ISO_START/name.dat (grupo 14269: «Last»). Es traducción o adaptación independiente y no basta para fijar esta partícula japonesa.,Cotejo interno: corpus/02/entrada.csv grupo 14269
 1435,De vez en cuando,revisado,たまには expresa frecuencia ocasional y no «una vez» concreta.,
@@ -365,7 +365,7 @@
 14267,Sin duda,revisado,"Surely expresa certeza fuerte, aunque puede ser suposición; «sin duda» recoge la lectura afirmativa.",
 14268,Definitivo,revisado,Ultimate puede significar final o supremo; «definitivo» mantiene el valor de máximo o último.,
 14269,Último,revisado,"Last como adjetivo de posición final, apoyado por la secuencia con Ultimate.",
-14270,,requiere_investigacion,"Once puede ser «una vez», «en otro tiempo» o conjunción «una vez que»; no hay estructura que permita cerrar el sentido.",
+14270,De vez en cuando,revisado,"«Once» es insuficiente en el recurso inglés. El fragmento japonés de idéntico desplazamiento, たまには, significa «de vez en cuando / en alguna ocasión». Se recupera el matiz de frecuencia en un adverbial autónomo.","Cotejo interno: corpus/02/entrada.csv, grupos 1435 y 14270"
 14271,Eso también,revisado,"It even es una secuencia incompleta en inglés. En el desplazamiento idéntico el japonés それも significa literalmente «eso también», sentido autónomo sin verbo inventado.","Cotejo bilingüe: corpus/02/entrada.csv, grupos 1436 y 14271"
 14272,Dentro de poco,revisado,Shortly expresa una espera breve en el futuro; «dentro de poco» es natural en español.,
 14273,Allí,revisado,There funciona como adverbio espacial en ausencia de otra estructura; traducción breve.,
@@ -387,7 +387,7 @@
 14289,Desenfreno,revisado,Rampage es estallido de violencia o conducta descontrolada; «desenfreno» mantiene tono de exceso.,
 14290,De todos,revisado,"All omite el matiz de posesión que sí expresa el japonés みんなの en el mismo desplazamiento. Se recupera «de todos» como fragmento genitivo del generador, sin inventar género.","Cotejo bilingüe: corpus/02/entrada.csv, grupos 1457 y 14290"
 14291,Superar,revisado,Exceed como verbo indica rebasar un límite o cantidad; se conserva infinitivo.,
-14292,,requiere_investigacion,"Anymore suele aparecer en construcciones negativas («ya no»), pero también tiene usos afirmativos dialectales; necesita una frase completa.",
+14292,A estas alturas,revisado,"El inglés «Anymore» es fragmentario. El japonés 今さら del mismo desplazamiento expresa «a estas alturas», con connotación de tardanza o inoportunidad; esta forma independiente conserva el matiz.","Cotejo interno: corpus/02/entrada.csv, grupos 1459 y 14292"
 14293,Bastante bien,revisado,Pretty fine es valoración informal positiva moderada; se evita exagerar con «muy bien».,
 14294,Bastante bien,revisado,Pretty well es evaluación favorable pero no máxima; la coincidencia con Pretty fine refleja sinonimia real.,
 14295,Probablemente,revisado,Probably marca probabilidad sin certeza; equivalente directo.,
