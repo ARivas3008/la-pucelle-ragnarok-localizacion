@@ -75,3 +75,8 @@ La v0.16.1 incorpora una segunda etapa opcional de scripts: `conservador` (v0.14
 **Forensia ampliada:** [inventario físico de ISO/DLC](docs/INVENTARIO_FISICO_V016.md) · [retorno de las 14 referencias](investigacion/v0.16/MATRIZ_RETEST_14.md). El modo fase ahora preserva las 489 ediciones conservadoras aunque una referencia no supere la prueba; véase [ficha de versión](docs/versiones/v0.16.md).
 
 [Descargar EXE experimental v0.16.1 desde GitHub Releases](https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/releases/tag/v0.16.1-experimental) · [Estado editorial actual observado](docs/ESTADO_EDITORIAL_OBSERVADO_2026-11-15.md). El EXE se publica separado de los recursos comerciales y no es release validada en PPSSPP.
+
+
+## Versión v0.17.0-qa — parche de incidencias aportadas por capturas
+
+La [v0.17](docs/versiones/v0.17.md) repara el rechazo de grupos paginados por separador `NUL 02 01` y agrega adaptaciones de cuatro grupos del tutorial (11 segmentos recuperados en ensayo de la ISO original), sin tocar los corpus aprobados. La GUI activa la etapa de scripts conservadores por defecto y separa la salida final en `JUEGO_PARA_PPSSPP_V017`; **no pruebes la ISO preliminar**. Hay [un informe de los diez fallos visibles](docs/QA_CAPTURAS_V017.md) que identifica estados abiertos, incluida la textura de capítulo 1, etiquetas de EBOOT y el parpadeo no comprobable desde capturas. No se declara localización completa.

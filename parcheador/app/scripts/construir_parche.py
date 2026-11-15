@@ -262,6 +262,63 @@ def planificar_intervenciones(manifest,source_buffers,group_units,reviews,invest
  for uid in orphan:rejected.setdefault(uid,'El script tiene una continuación fuera del mapa de unidades')
  return solutions,rejected,ids,revised
 
+def planificar_paginados(manifest,source_buffers,group_units,reviews,investigacion,sin_fuentes_es,fuentes,refinamientos):
+ """Traduce un grupo editorial distribuido entre cuadros 0x01/0x02/0x01.
+
+ Reconoce SOLO delimitadores literales entre unidades del mismo grupo;
+ nunca añade ni desplaza bytecode o punteros, ni fusiona hablantes diferentes.
+ Si cualquiera de sus cajas falla, no modifica ninguna.
+ """
+ chains,_,_=cadenas_dialogo(manifest,source_buffers)
+ solutions={}; rejected={}
+ for gid,units in group_units.items():
+  if len(units)<2:continue
+  ordered=sorted(units,key=lambda x:int(x['offset']))
+  res=ordered[0]['recurso']
+  if not all(x['recurso']==res for x in ordered):continue
+  if not re.search(r'(?:^|/)talk\d+(?:_jp)?\.dat$',res,re.I):continue
+  if res not in source_buffers:continue
+  buf=source_buffers[res]
+  desc=[];boundary=[]
+  for u in ordered:
+   off=int(u['offset']);style,src=match_source(buf,off,u['original'])
+   if not style or src is None or off<1 or buf[off-1]!=1:break
+   desc.append((res,off,style,len(src)))
+   boundary.append((off,off+len(src)))
+  if len(desc)!=len(ordered):continue
+  marks=[bytes(buf[end:nxt]) for (_,end),(nxt,_) in zip(boundary,boundary[1:])]
+  if not marks or not all(x in (b'\x00\x01',b'\x00\x02\x01') for x in marks):continue
+  if b'\x00\x02\x01' not in marks:continue
+  members={u['unit_id'] for u in ordered}
+  if any(members.intersection({x['unit_id'] for x in c}) and
+         any(x['grupo_id']!=gid for x in c) for c in chains):continue
+  try:
+   rev=reviews.get(gid)
+   if not rev or rev['estado'] not in ('revisado','requiere_investigacion'):
+    raise SegmentacionError('Sin revisión editorial del grupo paginado')
+   if rev['estado']=='requiere_investigacion' and not investigacion:
+    raise SegmentacionError('Grupo paginado pendiente de investigación')
+   phrase=es_revisado_para_parche(gid,rev,refinamientos)
+   if not phrase.strip():raise SegmentacionError('Traducción vacía')
+   styles={x[2] for x in desc}
+   if len(styles)!=1:raise SegmentacionError('Estilos CP932 mezclados entre páginas')
+   style=desc[0][2]
+   enc=lambda t:encode_es(to_full(t) if style=='ancho' else t) if not sin_fuentes_es else (to_full(t) if style=='ancho' else t).encode('cp932')
+   chunks=repartir(phrase,[x[3] for x in desc],encoder=enc)
+   pack='ISO_START' if res.startswith('ISO_START/') else res.split('/')[0] if not res.startswith('ISO/') else 'ISO_START'
+   staged=[]
+   for u,meta,chunk in zip(ordered,desc,chunks):
+    printable=to_full(chunk) if style=='ancho' else chunk
+    if not sin_fuentes_es and (missing:=missing_render_glyphs(printable,fuentes[pack]['inner'])):
+     raise SegmentacionError('Glifos no disponibles: '+repr(missing))
+    encoded=safe_encoding(chunk,style,meta[3],fuentes_es=not sin_fuentes_es)
+    staged.append((u['unit_id'],(meta,chunk,encoded,tuple(sorted(members)))))
+   solutions.update(staged)
+  except (Fail,SegmentacionError,FontError,UnicodeError) as exc:
+   for u in ordered:rejected[u['unit_id']]=str(exc)
+ return solutions,rejected
+
+
 def cargar_menus_centrales():
  """Curaduría voluntaria de interfaz. No se confunde con los 15 corpus revisados."""
  with MENU_CENTRAL.open(encoding='utf-8-sig',newline='') as f:
@@ -461,6 +518,15 @@ def patch(args):
  if args.dialogos_atomicos and not args.solo_fuentes:
   block_solutions,block_rejected,block_uids,editorial_changes=planificar_intervenciones(
       manifest,source_buffers,group_units,reviews,args.incluir_investigacion,args.sin_fuentes_es,packs,refinamientos)
+ # v0.17: admitir páginas adyacentes del MISMO grupo verificadas por
+ # bytecode original, sin desplazar offsets ni cambiar el contenedor.
+ paged_solutions,paged_rejected=planificar_paginados(
+    manifest,source_buffers,group_units,reviews,args.incluir_investigacion,
+    args.sin_fuentes_es,packs,refinamientos)
+ for uid,sol in paged_solutions.items():
+  block_solutions[uid]=sol
+  block_rejected.pop(uid,None)
+  block_uids.add(uid)
  seg_solutions={}
 
  seg_rejected={}
@@ -531,7 +597,7 @@ def patch(args):
    else:
     source_buffers[rsc][off:off+cap]=target
     patch_offsets[rsc].append(occupied)
-    status='APLICADO_BLOQUE_DIALOGO'
+    status='APLICADO_PAGINA_ESTRUCTURAL' if uid in paged_solutions else 'APLICADO_BLOQUE_DIALOGO'
     reason='Intervención completa repartida entre cajas 0x01, sin mezclar idiomas'
   elif uid in seg_solutions:
    (rsc,off,style,cap),newtext,target=seg_solutions[uid]
@@ -623,6 +689,8 @@ def patch(args):
           'estado_revisiones':dict(states),'sha256_revisiones':revchecks,'unidades_por_estado':dict(stats),
           'cadenas_modificadas':sum(v for k,v in stats.items() if k.startswith('APLICADO')),
           'bloques_de_dialogo_procesados':len({v[3] for v in block_solutions.values()}),
+          'grupos_paginados_estructurales':len({v[3] for v in paged_solutions.values()}),
+          'unidades_paginadas_estructurales':len(paged_solutions),
           'bloques_bloqueados':len(set(block_rejected.values())),
           'ediciones_contextuales_aplicadas':editorial_changes,
           'menus_eboot_ascii_aplicados':len(eb_changes),
