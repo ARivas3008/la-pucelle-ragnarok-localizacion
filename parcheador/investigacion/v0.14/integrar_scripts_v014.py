@@ -193,7 +193,7 @@ def compress(raw,original,packer):
  return result
 
 def append_multiple_iso(input_iso,out_iso,replacements):
- """v0.17.3: reconstrución ISO en las MISMAS posiciones LBA originales.
+ """v0.17.4: reconstrucción ISO en los mismos LBAs y sectores reservados.
 
  Los contenedores START y SCRIPTPACK solo se sustituyen si caben en sus
  espacios originales. Nunca se adjuntan al final ni se cambia el tamaño
@@ -214,11 +214,20 @@ def append_multiple_iso(input_iso,out_iso,replacements):
    if not isinstance(blob,bytes) or not blob:
     raise Peligro('Reemplazo ISO vacío: '+name)
    old=originals[name]
-   if len(blob)>old.size:
+   # ISO9660 reserva sectores de 2048 bytes, incluso si el tamaño
+   # lógico registrado es menor. Aceptar crecimiento SOLO en el mismo
+   # conjunto de sectores ya reservado y sin solapar ningún recurso.
+   capacity=((old.size+2047)//2048)*2048
+   if len(blob)>capacity:
     raise Peligro(
-      f'{name}: {len(blob)} bytes superan los {old.size} disponibles '
-      'en la ubicación original; se rechaza reubicar automáticamente. '
-      'Reducir/comprimir o estudiar referencias físicas primero')
+      f'{name}: {len(blob)} bytes superan {capacity} bytes reservados '
+      f'(longitud lógica {old.size}); no se puede crecer sin ocupar otro sector. '
+      'Reducir contenido o estudiar reubicación física primero')
+   for other_name,other in originals.items():
+    if name==other_name or other.size==0:continue
+    other_capacity=((other.size+2047)//2048)*2048
+    if old.offset < other.offset+other_capacity and old.offset+capacity > other.offset:
+     raise Peligro(f'{name}: sus sectores reservados se superponen con {other_name}; no escribir')
  target.parent.mkdir(parents=True,exist_ok=True)
  temp=target.with_name(target.name+'.tmp')
  if temp.exists():temp.unlink()
@@ -232,7 +241,7 @@ def append_multiple_iso(input_iso,out_iso,replacements):
     fp.seek(old.offset)
     fp.write(blob)
     # No conservar basura al reducir archivo; nunca invade otro sector.
-    padding=old.size-len(blob)
+    padding=((old.size+2047)//2048)*2048-len(blob)
     if padding:fp.write(b'\x00'*padding)
     fp.seek(old.entrada+10)
     fp.write(struct.pack('<I',len(blob))+struct.pack('>I',len(blob)))
