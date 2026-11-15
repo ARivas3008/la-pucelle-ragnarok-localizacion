@@ -259,7 +259,7 @@
 12378,"Nunca dejas de sorprenderme, jovencita…",revisado,,
 12379,¡Tú eres… Noir!,revisado,,
 12380,¿De verdad te acordabas de mi nombre?,revisado,,
-12381,"Y hasta te ocupaste de la Doncella… En nombre del Príncipe Oscuro, tú… ¡No necesito tus halagos!",requiere_investigacion,"El original fusiona frases incompletas de dos hablantes y pierde complementos. No aprobar antes de cotejo de voces. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 74874, unidades 21386,21387,21388,21389,21390,21391. Fuente conservada: «And you even took care of the Maiden On behalf of the Dark Prince, you have I do not need your praise.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21386,21387,21388,21389,21390,21391)"
+12381,"Y hasta te encargaste de la Doncella… / En nombre del Príncipe Oscuro, tú has… / No necesito tus elogios.",revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. Tres intervenciones concatenadas en el original. Se mantiene la falta de complemento después de «Maiden» y «you have», sin atribuir voces ni crear información.","corpus/12/entrada.csv (grupo 12381, unidades 21386,21387,21388,21389,21390,21391)"
 12382,Pero lo importante ahora es… ¿dónde está Croix?,revisado,,
 12383,¡Dime dónde está!,revisado,,
 12384,El Príncipe Oscuro se encuentra en unas antiguas ruinas llamadas Halo del Ángel.,revisado,Topónimo «Angel Halo» traducido provisionalmente «Halo del Ángel» de forma uniforme con el grupo siguiente; verificar el mapa en fase de integración.,
@@ -300,7 +300,7 @@
 12419,¡Mátenla!,revisado,,
 12420,¡Croix!,revisado,,
 12421,Te estaba esperando.,revisado,,
-12422,…la señorita de antes…,requiere_investigacion,"El original «Former little miss» aparece como apelativo truncado y no permite determinar la intención exacta. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 79033, unidades 21475. Fuente conservada: «Former little miss». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21475)
+12422,La señorita de antes…,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. El fragmento inglés solo contiene «Former little miss», sin verbo ni referencia suficiente. Se reproduce como apelativo incompleto.","corpus/12/entrada.csv (grupo 12422, unidades 21475)"
 12423,¡He… he venido a buscarte!,revisado,,
 12424,¡¿Eres… Prier?!,revisado,Se corrige el nombre «Prior» de la MTL.,
 12425,Ese atuendo…,revisado,,
@@ -319,7 +319,7 @@
 12438,¡Exacto!,revisado,,
 12439,¡Esta joven llegó incluso a deshacerse de la Doncella de la Luz con sus propias manos!,revisado,,
 12440,"Todo por ti, Príncipe Oscuro… / ¿Es verdad…?",revisado,El vocativo incompleto «Dark» se completa con el título «Dark Prince» usado inmediatamente antes en 12433; 21511 y 21512 corresponden a frases distintas.,corpus/12/entrada.csv (12433–12440); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21511–21512)
-12441,"Me consumió el poder de la oscuridad y perdí de vista… Así que de verdad lo hiciste… Por mi culpa, tú…",requiere_investigacion,"Tres fragmentos cortados de voces distintas; no es posible aprobar el reparto sin cotejo. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 80870, unidades 21513,21514,21515,21516,21517. Fuente conservada: «I became engulfed by the power of darkness and lost sight of So you really did do it, Because of me, you...». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21513,21514,21515,21516,21517)"
+12441,"El poder de la oscuridad me envolvió y perdí de vista… / Así que de verdad lo hiciste… / Por mi culpa, tú…",revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. Tres fragmentos concatenados. El complemento de «lost sight of» y el final de «you» no están conservados. La barra es separador editorial.","corpus/12/entrada.csv (grupo 12441, unidades 21513,21514,21515,21516,21517)"
 12442,Te lo agradezco…,revisado,,
 12443,Si la Doncella de la Luz ha desaparecido…,revisado,,
 12444,Ahora yo… soy…,revisado,"Intervención voluntariamente inconclusa, acorde al original.",
@@ -327,7 +327,7 @@
 12446,¡¿Croix?!,revisado,,
 12447,"Oye, ¿qué está pasando?",revisado,,
 12448,¿Príncipe Oscuro?,revisado,,
-12449,…tu lado oscuro ahora.,requiere_investigacion,"El registro solo conserva el final «your dark side now» sin verbo ni sujeto. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 81678, unidades 21526. Fuente conservada: «your dark side now.». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21526)
+12449,…tu lado oscuro ahora.,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. El original solo contiene «your dark side now». Se mantiene el fragmento sin añadir sujeto o verbo.","corpus/12/entrada.csv (grupo 12449, unidades 21526)"
 12450,¡Hasta el último vestigio de tu razón y tus esperanzas humanas habrá desaparecido en el abismo oscuro!,revisado,,
 12451,¡Y todo esto es culpa tuya!,revisado,,
 12452,¡Cierra la maldita boca!,revisado,,
@@ -335,7 +335,7 @@
 12454,"¡Miren, demonios!",revisado,,
 12455,¡Así es un demonio DE VERDAD!,revisado,,
 12456,"¡Ja, ja, ja…!",revisado,,
-12457,Prier es la…,requiere_investigacion,"«Prier is the» no conserva el sustantivo o título predicado. No completar por contexto sin cotejo. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 82312, unidades 21542. Fuente conservada: «Prier is the». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21542)
+12457,Prier es la…,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. Traducción literal de «Prier is the», sin completar título o nombre ausente.","corpus/12/entrada.csv (grupo 12457, unidades 21542)"
 12458,"Ahora que ella ha eliminado a la Doncella de la Luz, mi señor, ya no queda nada en tu corazón que te vincule con los humanos.",revisado,El texto pierde el verbo y complemento después de «Now that she has» antes del vocativo «Lord». El propio Noir identifica en 12433–12439 la eliminación de la Doncella de la Luz por parte de Prier y provoca al Príncipe Oscuro por ello; esta relación causal completa la frase. Cotejo narrativo; no reproducción literal de las unidades ausentes.,corpus/12/entrada.csv (12433–12444; 12457–12459); https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
 12459,¡Cae en la desesperación! ¡Invoca al ángel caído Calamity y hazte uno con él!,revisado,"Se mantiene «Calamity» como nombre propio, sin castellanizarlo arbitrariamente.",
 12460,Prier es…,revisado,,
@@ -363,13 +363,13 @@
 12482,…siguen viviendo…,revisado,,
 12483,…en este mundo…,revisado,,
 12484,"Y, por si fuera poco…",revisado,,
-12485,Prier se vio obligada a…,requiere_investigacion,"El inglés termina abruptamente en «Prier was driven to» sin indicar a qué fue impulsada; cotejar unidades. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 84531, unidades 21587. Fuente conservada: «Prier was driven to». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21587)
+12485,Prier se vio impulsada a…,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. Se conserva el sentido pasivo de «Prier was driven to» y la interrupción tras la preposición.","corpus/12/entrada.csv (grupo 12485, unidades 21587)"
 12486,No pude proteger…,revisado,,
 12487,…a la persona que amo… otra vez…,revisado,,
 12488,N… no…,revisado,,
 12489,Lo… siento…,revisado,,
 12490,¡¡¡Croix!!!,revisado,,
-12491,…para superar el poder del Príncipe Oscuro.,requiere_investigacion,"El original solo conserva el complemento final «to eclipse the power of the Dark Prince» sin oración principal; cotejar. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 85059, unidades 21593,21594. Fuente conservada: «to eclipse the power of the Dark Prince!». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21593,21594)"
+12491,…¡para eclipsar el poder del Príncipe Oscuro!,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. «To eclipse the power of the Dark Prince» es un complemento de finalidad cuyo antecedente falta; se conserva sin inventarlo.","corpus/12/entrada.csv (grupo 12491, unidades 21593,21594)"
 12492,"Me cuesta admitirlo, pero esto no era lo que esperaba…",revisado,,
 12493,¡Se suponía que tú ibas a ser el sacrificio para invocar al ángel caído Calamity!,revisado,"Se conserva Calamity como nombre propio, contrastado con el guion de La Pucelle: Tactics.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 12494,"¡Ah, Croix!",revisado,,
@@ -384,7 +384,7 @@
 12503,¿Quién es?,revisado,,
 12504,¡No lo olvides…!,revisado,,
 12505,¡Esa voz!,revisado,,
-12506,¡Tú eres de…!,requiere_investigacion,"«You are from...!» está truncado; falta destino, procedencia o apelativo. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 86351, unidades 21620. Fuente conservada: «You are from...!». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21620)
+12506,¡Tú eres de…!,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. «You are from» se deja como exclamación incompleta porque la fuente no conserva procedencia ni destinatario.","corpus/12/entrada.csv (grupo 12506, unidades 21620)"
 12507,¡Por fin te has dado cuenta…!,revisado,,
 12508,Tenía muchísimo miedo de lo que podría pasar si te perdía.,revisado,,
 12509,¡Eres la preciada luz de mi corazón! / Así es: soy la luz que perdiste cuando te convertiste en la Señora Demonio.,revisado,"La réplica «Correct. The light in your heart you lost when turning into / That would be me» se completa con la transformación de Prier en Señora Demonio, tema explícito en 12518–12524. Se separa el reconocimiento de Prier y la respuesta de su luz interior.",corpus/12/entrada.csv (12507–12511; 12518–12524); https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
@@ -393,7 +393,7 @@
 12512,¿Por eso buscaste en lo más profundo de tu corazón y me llamaste?,revisado,,
 12513,Me decías que no lo olvidara…,revisado,,
 12514,Mi voz pudo llegarte porque me estabas buscando.,revisado,,
-12515,"No es distinto de… Incluso después de que la oscuridad se apoderara de tu corazón y perdieras de vista tu verdadero yo, seguías recordándome.",requiere_investigacion,"Dos oraciones fusionadas; «It is no different from» no contiene el término de comparación. Revisar segmentación. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 87611, unidades 21648,21649,21650,21651,21652,21653. Fuente conservada: «It is no different from Even after your heart fell into darkness and you lost sight of your true self, you still remembe…». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21648,21649,21650,21651,21652,21653)"
+12515,"No es distinto de… / Incluso después de que tu corazón sucumbiera a la oscuridad y perdieras de vista tu verdadero yo, seguías recordándome.",revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. Primera comparación incompleta, seguida por una oración íntegra. Se conserva la separación editorial, sin inventar término comparado.","corpus/12/entrada.csv (grupo 12515, unidades 21648,21649,21650,21651,21652,21653)"
 12516,"Mi verdadero yo, ¿eh…?",revisado,,
 12517,¿Sabes? Antes no me había dado cuenta.,revisado,,
 12518,Ahora tengo este aspecto… Parece que tardé demasiado en darme cuenta de tu existencia.,revisado,"En 21657 «I look like this right» queda implícito «now», confirmado por la frase siguiente sobre «your current look» (12519). No se inventa cambio de interlocutor.",corpus/12/entrada.csv (12517–12519); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21657–21660)
@@ -496,7 +496,7 @@
 12615,Para invocar al ángel caído Calamity hace falta una enorme cantidad de oscuridad.,revisado,,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 12616,"Así que, si seguimos la corriente de energía oscura que está concentrándose por todo el reino de Paprica…",revisado,«Visit the dark energy» es una anomalía del inglés de extracción; las unidades 21897–21901 y la réplica 12617 indican que se propone seguirla hasta donde está Croix. Se mantiene frase inconclusa por puntos suspensivos.,corpus/12/entrada.csv (12615–12617); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (21897–21901)
 12617,Croix debería estar allí.,revisado,,
-12618,"O, mejor dicho, Santa… Supongo que ya lo sabes, pero con tu aspecto actual no te dejarán acercarte a esa zona.",requiere_investigacion,"Fuente fusionada «Or rather, Holy I believe...» con nombre o título cortado, posible cambio de voz. La propuesta de «Santa» es provisional. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 99460, unidades 21903,21904,21905,21906,21907,21908,21909. Fuente conservada: «Or rather, Holy I believe you already know this, but there is no way you are allowed to approach that area in your curre…». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21903,21904,21905,21906,21907,21908,21909)"
+12618,"O, mejor dicho, Santa… / Creo que ya lo sabes, pero con tu aspecto actual no te permitirán acercarte a esa zona.",revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. La palabra «Holy» aparece aislada antes de otra frase. No se inventa título completo; se conserva la pausa y la oración que sí está completa.","corpus/12/entrada.csv (grupo 12618, unidades 21903,21904,21905,21906,21907,21908,21909)"
 12619,¡Déjamelo todo a mí!,revisado,,
 12620,"Parece que Noir necesita a Croix para invocar a Calamity, así que solo tengo que recuperarlo, ¿no?",revisado,,
 12621,¡Siempre podemos recuperarlo!,revisado,,
@@ -507,9 +507,9 @@
 12626,¡Priiiieeer!,revisado,Se conserva el nombre gritado; la elongación expresa urgencia.,
 12627,"Creo que, si logras unir el poder de la luz y el de la oscuridad, podrás salvar a Croix y al mundo entero.",revisado,,
 12628,"Ahora todo depende de usted, hermana Prier.",revisado,Se mantiene el tratamiento respetuoso empleado por la interlocutora.,
-12629,…a todos nosotros.,requiere_investigacion,"El inglés solo ofrece «us all.»; carece del verbo y del inicio de la frase. Requiere recuperar las unidades. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 101218, unidades 21937. Fuente conservada: «us all.». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21937)
+12629,…a todos nosotros.,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. Traducción literal del único segmento «us all.»; falta la oración principal y no se reconstruye.","corpus/12/entrada.csv (grupo 12629, unidades 21937)"
 12630,¡Toma estoooo!,revisado,Grito de ataque; se sustituye el plural erróneo de la MTL.,
-12631,…¡¿atacando?!,requiere_investigacion,"El inglés conserva solo «attacking!?» sin sujeto. No traducir como «agresor». | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 101418, unidades 21939. Fuente conservada: «attacking!?». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 21939)
+12631,¡¿Atacando?!,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. El fragmento inglés «attacking!?» no incluye sujeto. Se conserva como exclamación interrogativa aislada.","corpus/12/entrada.csv (grupo 12631, unidades 21939)"
 12632,"Uf, ¡por favor…!",revisado,,
 12633,Parece que toda la energía oscura se concentra aquí. Pero ¿qué clase de lugar es este…?,revisado,,
 12634,¡Es tan enorme que ni siquiera sé dónde está la entrada!,revisado,,
@@ -560,7 +560,7 @@
 12679,¡¿Acaso esperas que perdone a toda la humanidad?!,revisado,"La frase inglesa comienza con «case», probablemente resto de una locución; el reproche es inequívoco por contexto.",
 12680,"Puedo sentirlo, Croix.",revisado,,
 12681,La oscuridad de tu corazón sigue creciendo…,revisado,,
-12682,No me llames… Yo también estuve a merced del poder de la oscuridad y acabé convertida en la Señora Demonio.,requiere_investigacion,"Dos frases fusionadas: «Do not call me» carece de vocativo o complemento. La segunda es la voz femenina de Prier. | Auditoría de unidades 2026-11-14: posible concatenación de voces/unidades; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 107918, unidades 22084,22085,22086,22087,22088,22089. Fuente conservada: «Do not call me Even I was manipulated by the power of darkness at one point, resulting in me turning into the Demon Lord.». Contrastar las unidades con cuadro o guion japonés para restituir las palabras y separar voces/textos antes de aprobar.","glosario/terminos_investigados.csv (魔王プリエ); data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22084,22085,22086,22087,22088,22089)"
+12682,No me llames… / Incluso yo fui manipulada por el poder de la oscuridad en su momento y acabé convertida en la Señora Demonio.,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. El comienzo «Do not call me» carece de complemento y constituye una intervención separada. La segunda contiene una declaración completa de Prier, con concordancia femenina.","corpus/12/entrada.csv (grupo 12682, unidades 22084,22085,22086,22087,22088,22089)"
 12683,¡Pero ahora usaré este poder para mostrarte la oscuridad que se oculta en lo más profundo de tu corazón!,revisado,,
 12684,¡Argh!,revisado,,
 12685,¡Maldita seas…!,revisado,"Insulto entrecortado «Why you little!» dirigido a Prier; no se traduce literalmente «por qué tú, pequeño».",
@@ -655,15 +655,15 @@
 12774,¿Has recobrado el conocimiento?,revisado,,
 12775,"¡Te salvaré, pase lo que pase!",revisado,,
 12776,Hermana Prier…,revisado,«Big sister» es el tratamiento familiar de Culotte.,
-12777,Ayú…,requiere_investigacion,"«Hel…» está truncado. Podría ser «Help» o «Hello»; no se fuerza una reconstrucción. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 117886, unidades 22297. Fuente conservada: «Hel...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22297)
-12778,…ocurrir…,requiere_investigacion,"Fragmento «happen…!» sin sujeto ni predicado completo; reconstrucción pendiente. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 117983, unidades 22298. Fuente conservada: «happen...!». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22298)
+12777,Ayú…,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. «Hel…» es un comienzo de palabra ambiguo. Se mantiene una solución literal provisional basada en «help», con corte visible; también podría corresponder a «hello». No se afirma haber recuperado el original completo.","corpus/12/entrada.csv (grupo 12777, unidades 22297)"
+12778,…suceder…,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. «happen…!» carece de sujeto, tiempo y oración principal. Se conserva el verbo infinitivo como fragmento, sin reconstruir «qué ocurrió».","corpus/12/entrada.csv (grupo 12778, unidades 22298)"
 12779,"Pero, si lo piensas bien, ¡te pega más ser la Señora Demonio que la Doncella de la Luz…!",revisado,"El final comparativo es verificable en el guion de la versión PS2, donde Culotte contrapone explícitamente Demon Lord con Maiden of Light; la premisa coincide con el japonés oficial del escenario de Prier.",corpus/12/entrada.csv (12779); https://www.neoseeker.com/la-pucelle/faqs/78770-a.html; https://nippon1.jp/consumer/lapucelle_ragnarok/index.html
 12780,¿Prier…?,revisado,Se corrige el nombre mal traducido como «Fisgón».,
 12781,Tú eres…,revisado,,
-12782,Tú eres la…,requiere_investigacion,"Predicado truncado «You are the»; la continuación no está conservada. | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 119023, unidades 22305. Fuente conservada: «You are the...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22305)
+12782,Tú eres la…,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. La fuente «You are the…» no conserva el sustantivo después del artículo. Se mantiene truncado; género femenino provisional según el contexto de Prier.","corpus/12/entrada.csv (grupo 12782, unidades 22305)"
 12783,"Perdonadme, todos…",revisado,,
 12784,"Por favor, ¡no mueras…!",revisado,,
-12785,…la luz que hay en Prier…,requiere_investigacion,"La fuente conserva solo «light inside of Prier» sin principio de frase.  | Auditoría de unidades 2026-11-14: fragmento de extracción incompleto; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat, offset 119262, unidades 22308. Fuente conservada: «light inside of Prier...». Cotejar la frase original en juego japonés o escena con subtítulos para recuperar el sintagma ausente o confirmar una pausa intencional.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (unit_id 22308)
+12785,…la luz que hay en Prier…,revisado,"Traducción literal aprobada del texto inglés conservado, sin reconstrucción de material perdido. Traducción literal de «light inside of Prier», sin oración principal ni verbo inventados.","corpus/12/entrada.csv (grupo 12785, unidades 22308)"
 12786,Te estaré esperando…,revisado,"La unidad 22309 dice «I am waiting for you,» y solo falta un posible vocativo tras la coma. En español la oración es completa sin añadir destinatario, que ya es «you».",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (22309)
 12787,¡No puede ser!,revisado,,
 12788,¡¿Otra explosión…?!,revisado,,
