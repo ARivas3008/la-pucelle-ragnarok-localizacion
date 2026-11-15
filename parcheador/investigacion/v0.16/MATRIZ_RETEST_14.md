@@ -25,6 +25,20 @@ Los scripts contienen una tabla `u32 N` + `N × u32` antes del bytecode. En cato
 
 Estas entradas corresponden al **índice de la tabla del recurso particular**, no a un número global de escena. Los offsets de archivo de las 14 unidades se conservan en `investigacion/v0.15/casos_14.csv` y el manifiesto maestro. En `DLC_00` la unidad 1759 tiene DOS referencias problemáticas.
 
+## Tipos de carácter realmente observados en las 15 referencias
+
+La decodificación estricta de los **dos bytes CP932 completos que rodean cada ancla** revela la siguiente distribución, reproducida de los recursos originales:
+
+| Par CP932 | Carácter | Referencias | Interpretación permitida |
+|---|---|---:|---|
+| `81 40` | `　` (espacio ideográfico U+3000) | **10** | El índice cae en el segundo byte de un espacio de ancho completo |
+| `82 8E`, `82 94` | `ｎ`, `ｔ` (letras de ancho completo) | **2** | Las dos referencias de la unidad 1759, no nombres propios |
+| `91 E5` | `大` (kanji) | **1** | Unidad 1758, parte del título narrativo |
+| `81 42` | `。` (punto japonés) | **1** | Unidad 3924, puntuación |
+| `81 41` | `、` (coma japonesa) | **1** | Unidad 4170, puntuación |
+
+**Conclusión probada:** la mayoría de las referencias problemáticas no se encuentran sobre nombres de personajes. **Conclusión NO probada:** no sabemos si esos bytes representan avance del texto, marcador temporal, inicio de instrucción, efecto de una localización previa u otra semántica interna. No modificar referencias por similitud léxica.
+
 ## Error corregido durante la v0.16.1
 
 Prueba real con `estado_unificado_66.csv` y los scripts originales:
