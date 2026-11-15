@@ -22,7 +22,7 @@ $font = [System.Drawing.Font]::new('Segoe UI', 10)
 $fontBold = [System.Drawing.Font]::new('Segoe UI', 10, [System.Drawing.FontStyle]::Bold)
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.17.3'
+$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.17.4'
 $form.ClientSize = [System.Drawing.Size]::new(860, 970)
 $form.MinimumSize = [System.Drawing.Size]::new(876, 1010)
 $form.MaximumSize = [System.Drawing.Size]::new(1200, 1100)
@@ -297,7 +297,7 @@ $timer.Add_Tick({
       $status.Text = 'Parcheo cancelado. Los originales no se modificaron.'
       $status.ForeColor = [System.Drawing.Color]::DarkOrange
     } elseif ($exitCode -eq 0) {
-      $status.Text = 'Proceso terminado. Usa JUEGO_PARA_PPSSPP_V0173 (si activaste scripts).'
+      $status.Text = 'Proceso terminado. Usa JUEGO_PARA_PPSSPP_V0174 (si activaste scripts).'
       $status.ForeColor = $accent
       $detail = 'Se han creado archivos experimentales. Consulta resumen.json y reporte_por_unidad.csv. El parcheo no certifica que el juego se muestre completamente en espanol.'
       $summary = [System.IO.Path]::Combine($outBox.Text,'resumen.json')
