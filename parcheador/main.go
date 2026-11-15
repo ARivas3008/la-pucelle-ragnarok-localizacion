@@ -514,8 +514,7 @@ func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) 
         if closeErr!=nil{return "",closeErr}
         if n==0{return "",fmt.Errorf("copia vacía de %s",t.key)}
         records=append(records,record{Recurso:t.key,Estado:t.status,Nombre:t.dest,Bytes:n})
-        fmt.Printf("PREPARADO %s: %s (%s, %d bytes)
-",t.key,t.dest,t.status,n)
+        fmt.Printf("PREPARADO %s: %s (%s, %d bytes)\n",t.key,t.dest,t.status,n)
     }
     details,e:=json.MarshalIndent(map[string]any{
         "version":"0.17.1-qa",
@@ -525,18 +524,12 @@ func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) 
     },"","  ")
     if e!=nil {return "",e}
     if e:=os.WriteFile(filepath.Join(staging,"INFORME_ENTREGA_V0171.json"),details,0644);e!=nil{return "",e}
-    note:="La Pucelle ES v0.17.1 — SALIDA DE PRUEBAS PPSSPP
-"+
-        "Abrir la ISO de esta carpeta y copiar a PSP/GAME/ULJS00244 los DLC generados.
-"+
-        "Se conservó el DLC preliminar cuando la etapa de scripts no produjo cambios.
-"+
-        "Consulta INFORME_ENTREGA_V0171.json para conocer cada caso.
-"+
-        "No usar la ISO *_PRELIMINAR.iso; no se han sobrescrito originales.
-"+
-        "Esta compilación no certifica el 100% de traducción ni ausencia de fallos visuales.
-"
+    note:="La Pucelle ES v0.17.1 — SALIDA DE PRUEBAS PPSSPP\n"+
+        "Abrir la ISO de esta carpeta y copiar a PSP/GAME/ULJS00244 los DLC generados.\n"+
+        "Se conservó el DLC preliminar cuando la etapa de scripts no produjo cambios.\n"+
+        "Consulta INFORME_ENTREGA_V0171.json para conocer cada caso.\n"+
+        "No usar la ISO *_PRELIMINAR.iso; no se han sobrescrito originales.\n"+
+        "Esta compilación no certifica el 100% de traducción ni ausencia de fallos visuales.\n"
     if e:=os.WriteFile(filepath.Join(staging,"LEEME_PRUEBA_PPSSPP.txt"),[]byte(note),0644);e!=nil{return "",e}
     if e:=os.Rename(staging,finalDir);e!=nil {
         return "",fmt.Errorf("no se pudo confirmar la carpeta final: %w",e)
