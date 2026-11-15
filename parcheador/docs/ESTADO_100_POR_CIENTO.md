@@ -24,3 +24,7 @@
 No se marcará completado hasta que cada unidad tenga uno de los estados `APLICADO_VERIFICADO_PPSSPP` o `NO_TRADUCIBLE_JUSTIFICADO`, sin entradas de contenido pendientes, y un acta de regresión visual que demuestre ausencia de desbordamientos, texturas corruptas y referencias inconsistentes.
 
 Los estados `APLICADO_*` actuales no implican el primero de esos dos estados de aceptación. No se alterará «Now Loading».
+
+## Investigación posterior v0.15
+
+Las 14 unidades con 15 anclas internas CP932 quedaron catalogadas y pueden auditarse en los originales sin escritura. La hipótesis de fase segundo byte → segundo byte se genera como candidato, no como parche aprobado. La cobertura española real **no aumenta** hasta que se identifique la semántica de los índices y se validen las escenas en PPSSPP. Detalles en [MATRIZ_14.md](../investigacion/v0.15/MATRIZ_14.md).

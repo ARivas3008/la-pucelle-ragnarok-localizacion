@@ -44,7 +44,9 @@ La implementación técnica del parcheador para ISO y cuatro DLC, los informes y
 
 El reubicador experimental [v0.14](parcheador/investigacion/v0.14/README.md) incorpora 489 inserciones estructuralmente validadas de `script*.dat` con prueba de reconstrucción ISO y DLC; no sustituye la GUI v0.13 ni acredita la traducción final.
 
+[Forensia v0.15: estructura, offsets y mapa de las 14 referencias](parcheador/docs/FORENSE_ESTRUCTURA_JUEGO.md) · [Ficha de formatos](parcheador/docs/FORMATOS_BINARIOS.md). La investigación no modifica el juego ni equivale a traducción jugable completa.
 
-## Método de localización reutilizable (rama experimental)
 
-La [rúbrica de diez fases](metodologia/RUBRICA_LOCALIZACION.md), los [scripts de corpus y presupuesto](metodologia/README.md) y la [ficha de metodología v1.0](metodologia/versiones/v1.0.md) se desarrollan **en una rama independiente**, sin modificar corpus ni recursos del juego.
+## Método de localización reutilizable
+
+La [rúbrica de diez fases](metodologia/RUBRICA_LOCALIZACION.md), los [scripts de división de corpus y presupuesto](metodologia/README.md) y la [ficha v1.0](metodologia/versiones/v1.0.md) se desarrollan en una rama metodológica independiente. No modifican corpus ni recursos del juego.
