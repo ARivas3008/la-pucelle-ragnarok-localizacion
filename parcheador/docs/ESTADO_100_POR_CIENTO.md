@@ -63,3 +63,8 @@ Se recibieron nueve capturas que demuestran corrupción grave de paneles y textu
 ## v0.17.3 — Riesgo de compatibilidad mitigado, no se declara problema visual resuelto
 
 Se confirmó en reconstrucción real anterior que START_JP y SCRIPTPACK se trasladaban al final de la ISO pese a caber en sus extensiones originales. v0.17.3 conserva LBA y tamaño de ISO, con pruebas sintéticas y sobre contenidos originales, pero **no prueba ausencia de los fondos mal dibujados en PPSSPP**. Las referencias CP932, UI, tarjetas de capítulo, DLC y QA visual siguen abiertos. [Ficha y resultados](versiones/v0.17.3.md).
+
+
+## v0.17.4: corrección de bloqueo del empaquetado, sin aumentar cobertura editorial
+
+Se reprodujo el fallo `exit status 2` de la v0.17.3: segunda fase crecía `START_JP.LZS` 26 B sobre su tamaño lógico, aunque cabía en el mismo sector asignado. v0.17.4 admite ese crecimiento sin cambiar LBA o volumen. Fases 1 y 2 verificadas sobre copia de ISO y cuatro DLC del propietario. **No demuestra que se hayan corregido fondos de menús ni certifica todo el juego**. [Documento técnico](versiones/v0.17.4.md).
