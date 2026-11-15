@@ -573,11 +573,11 @@
 3441,que llevarían al enfrentamiento final,revisado,leading up to the final showdown evoca la confrontación definitiva; mantiene estructura subordinada.,
 3442,entre la Luz y las Tinieblas estaban muy cerca.,revisado,between Light and Dark was close tiene discordancia en inglés; el referente plural «sucesos» rige estaban.,
 3443,Pronto llegaría la tragedia...,revisado,Tragedy is coming soon anticipa una desgracia; futuro visto desde narrador retrospectivo.,
-3444,,requiere_investigacion,El texto aislado «know it but the events leading up to the» carece de sujeto y negación; la secuencia anterior acaba en otra oración de presagio. No se puede saber si falta un «We did not» original.,
+3444,"No lo sabíamos, pero los acontecimientos que conducirían al",revisado,"La fuente inglesa comienza por «know it», sin sujeto ni negación; se reconstruye editorialmente «No lo sabíamos» a partir de la variante inmediata de esta misma narración (grupos 3439–3442: «We did not / know it at the time, but the events...»). Resta verificar si ese comienzo se repite mediante una unidad reutilizada antes de la inserción.","Cotejo interno: corpus/02/entrada.csv, grupos 3439–3446"
 3445,enfrentamiento final entre la Luz y las Tinieblas,revisado,final showdown between Light and Dark continúa el fragmento previo; se conserva el acontecimiento escatológico.,
 3446,empezaban a desarrollarse...,revisado,"were beginning to unfold describe que los sucesos ya estaban en marcha, sin violencia implícita añadida.",
 3447,La tragedia estaba cerca...,revisado,Tradgey is coming soon contiene errata; se varía con sentido fiel para no duplicar literalmente 3443.,
-3448,,requiere_investigacion,know it but the events leading to the no tiene sujeto explícito y parece fragmento de variante o cadena truncada; no añadir negación ni sujeto sin cotejo.,
+3448,"No lo sabíamos, pero los acontecimientos que llevarían al",revisado,"La variante anterior del mismo script (3439–3442) aporta «We did not» que falta al inicio de «know it but the events leading to the». Reconstrucción editorial explícita, no transcripción literal del original. Requiere cotejar en reproducción si la unidad faltante se muestra aparte.","Cotejo interno: corpus/02/entrada.csv, grupos 3439–3451"
 3449,enfrentamiento definitivo entre la Luz y las Tinieblas,revisado,final showdown of Light and Dark were es construcción de variante; se conserva el gran conflicto.,
 3450,ya estaban en marcha.,revisado,already beginning to unfold expresa proceso iniciado; cierre conciso de 3448–3450.,
 3451,Se avecinaba una tragedia...,revisado,"Tradgey is coming reproduce presagio, sin añadir que ya ocurrió; mantiene puntos suspensivos.",
