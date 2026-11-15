@@ -22,9 +22,9 @@ $font = [System.Drawing.Font]::new('Segoe UI', 10)
 $fontBold = [System.Drawing.Font]::new('Segoe UI', 10, [System.Drawing.FontStyle]::Bold)
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.13.0'
-$form.ClientSize = [System.Drawing.Size]::new(860, 825)
-$form.MinimumSize = [System.Drawing.Size]::new(876, 865)
+$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.16.1'
+$form.ClientSize = [System.Drawing.Size]::new(860, 925)
+$form.MinimumSize = [System.Drawing.Size]::new(876, 965)
 $form.MaximumSize = [System.Drawing.Size]::new(1200, 1100)
 $form.StartPosition = 'CenterScreen'
 $form.BackColor = $bg
@@ -80,7 +80,7 @@ $title.Location = [System.Drawing.Point]::new(26,20)
 $title.Size = [System.Drawing.Size]::new(800,40)
 $header.Controls.Add($title)
 $sub = New-Object System.Windows.Forms.Label
-$sub.Text = 'PARCHEADOR ESPANOL   |   ISO  /  DLC   |   VERSION EXPERIMENTAL 0.13.0'
+$sub.Text = 'PARCHEADOR ESPANOL   |   ISO  /  DLC   |   VERSION EXPERIMENTAL 0.16.0'
 $sub.Font = [System.Drawing.Font]::new('Segoe UI', 9)
 $sub.ForeColor = [System.Drawing.Color]::FromArgb(200,214,232)
 $sub.Location = [System.Drawing.Point]::new(28,70)
@@ -163,9 +163,9 @@ $includeInvestigation = New-Object System.Windows.Forms.CheckBox
 $includeInvestigation.Text = 'Incluir textos provisionales marcados para investigacion'
 $includeInvestigation.Location = [System.Drawing.Point]::new(32,511)
 $includeInvestigation.Size = [System.Drawing.Size]::new(620,26)
-$includeInvestigation.Checked = $true
+$includeInvestigation.Checked = $false
 $form.Controls.Add($includeInvestigation)
-$fontOnly.Add_CheckedChanged({$includeInvestigation.Enabled = -not $fontOnly.Checked; $reductions.Enabled = -not $fontOnly.Checked})
+$fontOnly.Add_CheckedChanged({$includeInvestigation.Enabled = -not $fontOnly.Checked; $reductions.Enabled = -not $fontOnly.Checked; $scripts.Enabled = -not $fontOnly.Checked; $scriptPhase.Enabled = (-not $fontOnly.Checked) -and $scripts.Checked})
 
 $atlasUI = New-Object System.Windows.Forms.CheckBox
 $atlasUI.Text = 'Localizar algunas texturas de menús (experimental; vista previa recomendada)'
@@ -179,21 +179,35 @@ $reductions.Location = [System.Drawing.Point]::new(32,573)
 $reductions.Size = [System.Drawing.Size]::new(780,26)
 $reductions.Checked = $false
 $form.Controls.Add($reductions)
-$safetyNote = LabelAt 'Protección: cajas con opcodes intactos; texturas ajenas a las auditadas, sin cambios.' 30 606 800 17 $false
+$scripts = New-Object System.Windows.Forms.CheckBox
+$scripts.Text = 'Integrar scripts de eventos v0.14 (489 candidatos conservadores; NO validados en PPSSPP)'
+$scripts.Location = [System.Drawing.Point]::new(32,602)
+$scripts.Size = [System.Drawing.Size]::new(800,26)
+$scripts.Checked = $false
+$form.Controls.Add($scripts)
+$scriptPhase = New-Object System.Windows.Forms.CheckBox
+$scriptPhase.Text = 'v0.16: ENSAYO de las 14 referencias CP932 (riesgo de escenas; NO release)'
+$scriptPhase.Location = [System.Drawing.Point]::new(52,630)
+$scriptPhase.Size = [System.Drawing.Size]::new(780,26)
+$scriptPhase.Checked = $false
+$scriptPhase.Enabled = $false
+$form.Controls.Add($scriptPhase)
+$scripts.Add_CheckedChanged({$scriptPhase.Enabled = $scripts.Checked -and (-not $fontOnly.Checked); if(-not $scripts.Checked){$scriptPhase.Checked = $false}})
+$safetyNote = LabelAt 'Protección: el modo fase es investigación, no acredita 100% ni PPSSPP.' 30 661 800 17 $false
 $safetyNote.ForeColor = $muted
 $safetyNote.Font = [System.Drawing.Font]::new('Segoe UI', 8)
-$btnStart = ButtonAt 'INICIAR PARCHEO' 28 624 228 42 $accent
-$btnCancel = ButtonAt 'Cancelar' 270 624 115 42 $navy2
+$btnStart = ButtonAt 'INICIAR PARCHEO' 28 680 228 42 $accent
+$btnCancel = ButtonAt 'Cancelar' 270 680 115 42 $navy2
 $btnCancel.Enabled = $false
-$btnOpen = ButtonAt 'Abrir salida' 699 624 132 42 $navy2
+$btnOpen = ButtonAt 'Abrir salida' 699 680 132 42 $navy2
 
 $progress = New-Object System.Windows.Forms.ProgressBar
-$progress.Location = [System.Drawing.Point]::new(28,674)
+$progress.Location = [System.Drawing.Point]::new(28,732)
 $progress.Size = [System.Drawing.Size]::new(803,10)
 $progress.Style = [System.Windows.Forms.ProgressBarStyle]::Blocks
 $progress.Anchor = [System.Windows.Forms.AnchorStyles]::Top -bor [System.Windows.Forms.AnchorStyles]::Left -bor [System.Windows.Forms.AnchorStyles]::Right
 $form.Controls.Add($progress)
-$status = LabelAt 'Listo para seleccionar los archivos.' 27 690 780 23 $false
+$status = LabelAt 'Listo para seleccionar los archivos.' 27 749 780 23 $false
 $status.ForeColor = $muted
 $status.Anchor = [System.Windows.Forms.AnchorStyles]::Bottom -bor [System.Windows.Forms.AnchorStyles]::Left -bor [System.Windows.Forms.AnchorStyles]::Right
 $log = New-Object System.Windows.Forms.TextBox
@@ -203,8 +217,8 @@ $log.ReadOnly = $true
 $log.BackColor = [System.Drawing.Color]::FromArgb(236,241,247)
 $log.ForeColor = $ink
 $log.Font = [System.Drawing.Font]::new('Consolas', 9)
-$log.Location = [System.Drawing.Point]::new(28,718)
-$log.Size = [System.Drawing.Size]::new(803,74)
+$log.Location = [System.Drawing.Point]::new(28,780)
+$log.Size = [System.Drawing.Size]::new(803,114)
 $log.Anchor = [System.Windows.Forms.AnchorStyles]::Bottom -bor [System.Windows.Forms.AnchorStyles]::Left -bor [System.Windows.Forms.AnchorStyles]::Right
 $form.Controls.Add($log)
 
@@ -238,6 +252,8 @@ function SetBusy([bool]$busy) {
   $includeInvestigation.Enabled = (-not $busy) -and (-not $fontOnly.Checked)
   $atlasUI.Enabled = -not $busy
   $reductions.Enabled = (-not $busy) -and (-not $fontOnly.Checked)
+  $scripts.Enabled = (-not $busy) -and (-not $fontOnly.Checked)
+  $scriptPhase.Enabled = (-not $busy) -and (-not $fontOnly.Checked) -and $scripts.Checked
   if ($busy) {$progress.Style = [System.Windows.Forms.ProgressBarStyle]::Marquee}
   else {$progress.Style = [System.Windows.Forms.ProgressBarStyle]::Blocks}
 }
@@ -311,6 +327,14 @@ $btnStart.Add_Click({
   if ([string]::IsNullOrWhiteSpace($dest)) {
     [System.Windows.Forms.MessageBox]::Show($form,'Selecciona una carpeta de salida.','Falta la salida') | Out-Null;return
   }
+  if ($scriptPhase.Checked) {
+    $answer = [System.Windows.Forms.MessageBox]::Show($form,
+      'La fase experimental puede alterar la ejecución de escenas. No se ha validado PPSSPP. Se crearán copias independientes. ¿Deseas continuar?',
+      'AVISO: 14 referencias sin certificación',
+      [System.Windows.Forms.MessageBoxButtons]::YesNo,
+      [System.Windows.Forms.MessageBoxIcon]::Warning)
+    if ($answer -ne [System.Windows.Forms.DialogResult]::Yes) {return}
+  }
   try {
     [System.IO.Directory]::CreateDirectory($dest) | Out-Null
     $cfgDir = [System.IO.Path]::Combine([System.IO.Path]::GetTempPath(),'LaPucelle_ES_GUI')
@@ -327,6 +351,8 @@ $btnStart.Add_Click({
       segment = $true
       atlas = [bool]$atlasUI.Checked
       reductions = [bool]$reductions.Checked
+      scripts = [bool]$scripts.Checked
+      scriptMode = $(if ($scriptPhase.Checked) {'fase'} else {'conservador'})
       log = $script:logFile
     } | ConvertTo-Json -Compress
     [System.IO.File]::WriteAllText($script:cfgFile, $config, (New-Object System.Text.UTF8Encoding($false)))

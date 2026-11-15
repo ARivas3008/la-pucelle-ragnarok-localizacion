@@ -45,3 +45,15 @@ La implementación técnica del parcheador para ISO y cuatro DLC, los informes y
 El reubicador experimental [v0.14](parcheador/investigacion/v0.14/README.md) incorpora 489 inserciones estructuralmente validadas de `script*.dat` con prueba de reconstrucción ISO y DLC; no sustituye la GUI v0.13 ni acredita la traducción final.
 
 [Forensia v0.15: estructura, offsets y mapa de las 14 referencias](parcheador/docs/FORENSE_ESTRUCTURA_JUEGO.md) · [Ficha de formatos](parcheador/docs/FORMATOS_BINARIOS.md). La investigación no modifica el juego ni equivale a traducción jugable completa.
+
+
+### Desarrollo v0.16 (no aprobado)
+
+La rama `desarrollo/parcheador-v0.16-referencias` agrega la integración opcional del reubicador de scripts en el EXE y un ensayo conservador de fase CP932. Se identificaron 14 textos con 15 referencias problemáticas en los originales facilitados: solamente 4 tienen candidato cercano en fase. Los resultados no acreditan 100 % ni ejecución PPSSPP. Véase [v0.16](parcheador/docs/versiones/v0.16.md).
+
+
+### v0.16.1 — Corrección de scripts y documentación reproducida
+
+El parcheador de la rama `desarrollo/parcheador-v0.16-referencias` pasa el autotest de Windows y tiene [un documento por versión](parcheador/docs/versiones/v0.16.md), [inventario forense de la ISO y los DLC](parcheador/docs/INVENTARIO_FISICO_V016.md) y [matriz exacta de 14 unidades/15 anclas](parcheador/investigacion/v0.16/MATRIZ_RETEST_14.md). En prueba binaria aislada: **489 inserciones conservadoras + 3 candidatos de fase = 492**, 11 anclas bloqueadas y Now Loading preservado. **No es 100 % del juego**, no modifica los corpus editoriales ni acredita PPSSPP. El EXE se publica como artefacto de GitHub Actions y no contiene la ISO ni EDAT comerciales.
+
+**Versión preliminar Windows publicada:** [EXE v0.16.1 en GitHub Releases](https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/releases/tag/v0.16.1-experimental). [Estado editorial comprobado de los 15 corpus](parcheador/docs/ESTADO_EDITORIAL_OBSERVADO_2026-11-15.md): 14 727 marcados revisados, 289 requieren investigación, 509 centrales aparte. La marca editorial no certifica inserción.

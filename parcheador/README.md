@@ -1,4 +1,4 @@
-# Parcheador de La Pucelle: Ragnarok — GUI v0.13 / reubicador de scripts v0.14
+# Parcheador de La Pucelle: Ragnarok — GUI v0.16 experimental (motor v0.13 + scripts v0.14)
 
 Este directorio reúne el código fuente del parcheador Windows con interfaz, los controles técnicos de versiones anteriores y los ensayos de reubicación. No contiene el videojuego ni sus DLC. La edición se realiza localmente sobre copias aportadas por el usuario.
 
@@ -65,3 +65,13 @@ El complemento [v0.14](investigacion/v0.14/README.md) inserta experimentalmente 
 ## Dossier técnico v0.15
 
 [Investigación de 14 anclas](investigacion/v0.15/README.md) · [Matriz de casos](investigacion/v0.15/MATRIZ_14.md) · [Forensia estructural](docs/FORENSE_ESTRUCTURA_JUEGO.md) · [Fichas de formatos](docs/FORMATOS_BINARIOS.md). La nueva herramienta enumera offsets/punteros y propone referencias de fase, pero **no inserta automáticamente esos 14 textos** ni certifica PPSSPP.
+
+
+## Versión experimental v0.16
+
+La v0.16.1 incorpora una segunda etapa opcional de scripts: `conservador` (v0.14) y `fase` (ensayo CP932 que preserva segundo byte cuando existe candidato próximo). **No se afirma cobertura del 100 %**: en los originales facilitados se reprodujeron 15 anclas en 14 unidades, pero 4 de esas unidades dieron candidatos teóricos cercanos; la reconstrucción real de v0.16.1 acepta **3 candidatos experimentales** (1758, 3924, 4170) y bloquea **11** (incluida 1759 por índice inválido). Ningún modo sustituye el QA con PPSSPP. Consulta [v0.16](docs/versiones/v0.16.md). El EXE v0.16.1 se compila y somete a autotest como artefacto de GitHub Actions, no contiene juegos ni DLC.
+
+
+**Forensia ampliada:** [inventario físico de ISO/DLC](docs/INVENTARIO_FISICO_V016.md) · [retorno de las 14 referencias](investigacion/v0.16/MATRIZ_RETEST_14.md). El modo fase ahora preserva las 489 ediciones conservadoras aunque una referencia no supere la prueba; véase [ficha de versión](docs/versiones/v0.16.md).
+
+[Descargar EXE experimental v0.16.1 desde GitHub Releases](https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/releases/tag/v0.16.1-experimental) · [Estado editorial actual observado](docs/ESTADO_EDITORIAL_OBSERVADO_2026-11-15.md). El EXE se publica separado de los recursos comerciales y no es release validada en PPSSPP.

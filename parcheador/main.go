@@ -1,4 +1,4 @@
-// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.13.0.
+// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.16.1-experimental.
 // No contiene el juego, DLC ni recursos comerciales: solo scripts y mapas.
 package main
 
@@ -26,7 +26,7 @@ import (
 //go:embed resources.tar.gz gui.ps1
 var resources embed.FS
 
-const version = "0.13.0"
+const version = "0.16.1-experimental"
 const pythonDownload = "https://www.python.org/ftp/python/3.11.9/python-3.11.9-embed-amd64.zip"
 const maxDownload = 35 << 20
 
@@ -77,7 +77,7 @@ func workDir() (string, error) {
 			return "", err
 		}
 	}
-	return filepath.Join(base, "LaPucelleES", "app_v0_13_0"), nil
+	return filepath.Join(base, "LaPucelleES", "app_v0_16_1_exp"), nil
 }
 func extractEmbedded(base string) error {
 	stamp := filepath.Join(base, ".version")
@@ -268,6 +268,8 @@ type GUIConfig struct {
 	Segment       bool   `json:"segment"`
 	Atlas         bool   `json:"atlas"`
 	Reductions    bool   `json:"reductions"`
+	Scripts       bool   `json:"scripts"`
+	ScriptMode    string `json:"scriptMode"`
 	Log           string `json:"log"`
 }
 
@@ -370,7 +372,55 @@ func runWorker(configPath string) (err error) {
 	if e := cmd.Run(); e != nil {
 		return fmt.Errorf("el motor de parcheo terminó con error: %w", e)
 	}
-	fmt.Println("Proceso completado. Revisa el archivo resumen.json y el reporte.")
+	// Segunda fase opcional: v0.14 conservadora o v0.16 de fase preservada.
+    // Ambos modos generan COPIAS nuevas y nunca declaran aceptación PPSSPP.
+    if cfg.Scripts && !cfg.FontOnly {
+        mode := cfg.ScriptMode
+        if mode == "" { mode = "conservador" }
+        if mode != "conservador" && mode != "fase" {
+            return fmt.Errorf("modo de script no permitido: %q", mode)
+        }
+        inputISO := ""
+        if cfg.ISO != "" {
+            inputISO = filepath.Join(cfg.Output, "La_Pucelle_Ragnarok_ES_PRELIMINAR.iso")
+            if !isFile(inputISO) { return errors.New("no existe la ISO preliminar para scripts") }
+        }
+        stagedDLC := ""
+        if cfg.DLC != "" {
+            stagedDLC = filepath.Join(cfg.Output, "v016_dlc_entrada")
+            if e := os.MkdirAll(stagedDLC, 0755); e != nil { return e }
+            for n:=0;n<4;n++ {
+                src := filepath.Join(cfg.Output, fmt.Sprintf("DL_JP_%02d_ES_PRELIMINAR.EDAT",n))
+                dst := filepath.Join(stagedDLC, fmt.Sprintf("DL_JP_%02d.EDAT",n))
+                if !isFile(src) { return fmt.Errorf("falta DLC preliminar: %s",src) }
+                original, e := os.Open(src)
+                if e != nil { return e }
+                target, e := os.Create(dst)
+                if e != nil { original.Close(); return e }
+                _, e = io.Copy(target,original)
+                original.Close(); closeErr:=target.Close()
+                if e != nil { return e };if closeErr != nil { return closeErr }
+            }
+        }
+        scriptPath := filepath.Join(base,"investigacion","v0.14","integrar_scripts_v014.py")
+        scriptOut := filepath.Join(cfg.Output,"v016_scripts_"+mode)
+        inputs := []string{scriptPath,
+            "--salida",scriptOut,
+            "--manifiesto", filepath.Join(base,"datos","mapa_26258_unidades.csv"),
+            "--auditoria",filepath.Join(base,"datos","estado_unificado_66.csv"),
+            "--packer",filepath.Join(base,"scripts","nis_lzs_pack.exe"),
+            "--modo",mode,"--construir","--acepto-riesgo-ppsspp"}
+        if inputISO!="" { inputs=append(inputs,"--iso",inputISO) }
+        if stagedDLC!="" { inputs=append(inputs,"--dlc-directorio",stagedDLC) }
+        if mode=="fase" {inputs=append(inputs,"--acepto-riesgo-referencias")}
+        if cfg.Investigation {inputs=append(inputs,"--incluir-investigacion")}
+        if isLauncher {inputs=append([]string{"-3"},inputs...)}
+        fmt.Println("Scripts de eventos: ",mode," (SOLO EXPERIMENTAL; requiere PPSSPP)")
+        cmd2:=exec.Command(py,inputs...)
+        cmd2.Dir=base;cmd2.Env=cmd.Env;cmd2.Stdout=os.Stdout;cmd2.Stderr=os.Stderr
+        if e:=cmd2.Run();e!=nil {return fmt.Errorf("segunda fase de scripts falló: %w",e)}
+    }
+    fmt.Println("Proceso completado. Revisa los informes; NINGUNA escena está certificada para PPSSPP.")
 	return nil
 }
 
@@ -382,7 +432,7 @@ func selfTest() error {
 	if e := extractEmbedded(base); e != nil {
 		return e
 	}
-	for _, p := range []string{"scripts/construir_parche.py", "scripts/subtitulos_script.py", "scripts/fuentes_es.py", "scripts/segmentacion.py", "scripts/nis_lzs_pack.exe", "datos/mapa_26258_unidades.csv", "datos/propuestas_reduccion_v012.csv", "datos/ajustes_reducciones_v013.csv", "scripts/integracion_v013.py"} {
+	for _, p := range []string{"scripts/construir_parche.py", "scripts/subtitulos_script.py", "scripts/fuentes_es.py", "scripts/segmentacion.py", "scripts/nis_lzs_pack.exe", "datos/mapa_26258_unidades.csv", "datos/propuestas_reduccion_v012.csv", "datos/ajustes_reducciones_v013.csv", "scripts/integracion_v013.py", "investigacion/v0.14/integrar_scripts_v014.py", "investigacion/v0.12/reubicador_anclas_v012.py", "datos/estado_unificado_66.csv"} {
 		if !isFile(filepath.Join(base, p)) {
 			return fmt.Errorf("falta el recurso %s", p)
 		}

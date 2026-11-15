@@ -1,5 +1,7 @@
 # Registro de versiones del parcheador
 
+- [v0.16 — GUI con segunda fase de scripts y ensayo de referencias CP932](docs/versiones/v0.16.md) (NO verificada en PPSSPP)
+
 Cada versión tiene un documento propio en `docs/versiones/`. **Las métricas históricas provienen de sus respectivos paquetes; no equivalen a pruebas actuales en PPSSPP.**
 
 - [v0.15 — Referencias CP932, dossier forense y auditoría de solo lectura](docs/versiones/v0.15.md)
