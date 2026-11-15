@@ -43,3 +43,5 @@ La implementación técnica del parcheador para ISO y cuatro DLC, los informes y
 **Estado:** parche parcial experimental, no traducción validada al 100 %. La v0.13 incluye una opción para aplicar 197 reducciones estructuralmente comprobadas; la reubicación experimental del bytecode permanece aislada hasta las pruebas en PPSSPP. No se distribuyen ISO, EDAT ni otros recursos comerciales.
 
 El reubicador experimental [v0.14](parcheador/investigacion/v0.14/README.md) incorpora 489 inserciones estructuralmente validadas de `script*.dat` con prueba de reconstrucción ISO y DLC; no sustituye la GUI v0.13 ni acredita la traducción final.
+
+[Forensia v0.15: estructura, offsets y mapa de las 14 referencias](parcheador/docs/FORENSE_ESTRUCTURA_JUEGO.md) · [Ficha de formatos](parcheador/docs/FORMATOS_BINARIOS.md). La investigación no modifica el juego ni equivale a traducción jugable completa.
