@@ -40,3 +40,6 @@ Se verificaron 15 referencias CP932 dentro de 14 cadenas sobre la ISO y los 4 DL
 La primera v0.16 rechazaba **344 candidatos** de script al combinar referencias inseguras con un lote: solo 159 ediciones sobrevivían. Después de corregir el aislamiento, los **489** textos conservadores siguen insertándose y **3** referencias subcarácter adicionales generan archivos reversibles, pero **no están verificadas en PPSSPP**. Las **otras 11** unidades siguen bloqueadas, incluida 1759 (dos referencias). No confundir `492/503` de esta familia con el 100 % del manifiesto general (26 258 unidades).
 
 Las familias restantes con pendientes incluyen tablas fijas que exceden campo, EBOOT, 62 texturas no tratadas como textos, continuaciones talk, renderización/anchuras y aprobación editorial. El estado de cumplimiento final permanece **NO CERTIFICADO**. Véase [v0.16](versiones/v0.16.md).
+
+
+**Instantánea real de corpus en main (15-11-2026):** [14 727 revisados, 289 requieren investigación](ESTADO_EDITORIAL_OBSERVADO_2026-11-15.md) de 15 016 distribuidos; 509 grupos centrales aparte. Ningún porcentaje editorial equivale a implantación jugable.
