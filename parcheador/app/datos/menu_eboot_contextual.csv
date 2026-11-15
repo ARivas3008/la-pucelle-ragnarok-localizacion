@@ -1,0 +1,102 @@
+original,es,contexto
+Start,Jugar,Menú principal
+Continue,Seguir,Menú principal
+Settings,Opciones,Menú principal
+Orphanage,Orfanato,Mapa
+Rosenqueen Store,Rosenqueen,Mapa
+World Map,Mapa,Mapa de navegación
+Port Mayonnaise,Puerto Mayonesa,Mapa
+Jungle,Selva,Mapa
+Cave of Ruins,Ruinas,Mapa
+Ghost Village,Villa fantas.,Mapa; reducción HUD v0.7
+Dark Shrine,Altar negro,Mapa; reducción HUD v0.7
+Castle Bar,Bar cast.,Mapa; reducción HUD v0.7
+Demon,Diab.,Nombre de criatura; reducción HUD v0.7
+Great Demon,Gran diab.,Nombre de criatura; reducción HUD v0.7
+Demon Lord,Rey diab.,Nombre de criatura; reducción HUD v0.7
+Overlord,Soberano,Nombre de criatura; reducción HUD v0.7
+Bat,Murciélago,Nombre de criatura
+Bear,Oso,Nombre de criatura
+Whale,Ball.,Nombre de criatura; reducción HUD v0.7
+Ghost,Fant.,Nombre de criatura; reducción HUD v0.7
+Shroom,Hongo,Nombre de criatura
+Tiny,Mini,Nombre de criatura; reducción HUD v0.7
+Mermaid,Sirena,Nombre de criatura
+Princess,Princesa,Nombre de criatura
+Priest,Cura,Nombre de criatura; reducción HUD v0.7
+Fallen Angel,Angel caido,Nombre de criatura; reducción HUD v0.7
+No,No,Confirmación
+Cancel Saving,No guardar,Confirmación
+Status,Estado,Menú principal
+Training,Entrenar,Menú principal
+Arrange,Ordenar,Menú principal
+Manual,Manual,Ordenación
+Level,Nivel,Ordenación
+Attack,Atacar,Acción
+Magic,Magia,Acción
+Replace,Cambiar,Acción
+Sort By Level,Por nivel,Ordenación
+Sort By Human,Por humanos,Ordenación
+Sort By Monsters,Por monstruos,Ordenación
+Sort By HP,Por PV,Ordenación
+Sort By Attack Power,Por ataque,Ordenación
+Sort By Magic Power,Por magia,Ordenación
+Organize,Ordenar,Inventario
+Remove,Quitar,Inventario
+Order,Orden,Ordenación
+No Stock,Agotado,Tienda
+Deadly,Letal,Estado
+Sick,Mal,Estado
+Effects,Efectos,Estado
+Property,Atributo,Estado
+Glasses,Gafas,Equipo
+Boots,Botas,Equipo
+Weapon,Arma,Equipo
+Other,Otros,Categoría
+Play Time,Tiempo,Estadísticas
+Dark Gate,P. oscuro,Combate; reducción HUD v0.7
+Options,Opciones,Menú
+Quit Game,Salir,Menú
+Previous,Anterior,Navegación
+Previous List,Lista previa,Navegación
+Rotate effect,Girar efecto,Menú
+Sort by level,Por nivel,Ordenación
+Sort by human,Por humanos,Ordenación
+Sort by monster,Por monstruo,Ordenación
+Sort by HP,Por PV,Ordenación
+Sort by attack power,Por ataque,Ordenación
+Sort by magic power,Por magia,Ordenación
+Choose direction,Elige rumbo,Combate
+Decide,Elegir,Acción; reducción HUD v0.7
+Voice Vol,Vol. voz,Ajustes; reducción HUD v0.7
+Battle Vol,Vol. lucha,Ajustes; reducción HUD v0.7
+System Speed Normal,Velocidad normal,Ajustes
+System Speed Fast,Sistema veloz,Ajustes; reducción HUD v0.7
+Text Speed  Slow,Texto lento,Ajustes
+Text Speed  Normal,Texto normal,Ajustes
+Text Speed  Fast,Texto veloz,Ajustes; reducción HUD v0.7
+Text Speed  Blitz,Texto veloz,Ajustes
+Move Speed  Normal,Paso normal,Ajustes
+Move Speed  Fast,Paso veloz,Ajustes; reducción HUD v0.7
+Move Speed  Blitz,Paso veloz,Ajustes
+Good Ending,Final bueno,Historia
+Normal Ending,Final normal,Historia
+Bad Ending,Final malo,Historia
+Special Ending,Final especial,Historia
+All Items,Todo obj.,Inventario; reducción HUD v0.7
+All characters first story,Todos del relato inicial,Menú de bonificaciones; reducción HUD v0.7
+BGM,Mus,Ajustes; reducción HUD v0.7
+Human,Hum.,Tipo de unidad; reducción HUD v0.7
+Monsters,Monstruos,Tipo de unidad
+Items,Objetos,Inventario
+Equip,Poner,Inventario; reducción HUD v0.7
+Quit,Fin,Menú; reducción HUD v0.7
+Save,Guardar,Menú
+Inventory,Invent.,Menú; reducción HUD v0.7
+Special,Extra,Menú; reducción HUD v0.7
+Skills,Dotes,Menú; reducción HUD v0.7
+Move,Ir,Acción; reducción HUD v0.7
+Time,Tiempo,Estadísticas
+Main Street,Calle Mayor,Mapa
+Church,Igles.,Mapa; reducción HUD v0.7
+Udon Shop,Udon,Mapa; reducción HUD v0.7
