@@ -133,7 +133,8 @@ def plan(byres,sources,mode='conservador',allow_unapproved=False):
    results.append(dict(unit_id=uid,recurso=res,estado=status,motivo=reason,offset=r['offset']))
   if not editions:continue
   try:
-   result,journal=Reubicador(raw,permitir_subcaracter=(mode=='experimental')).aplicar(editions)
+   result,journal=Reubicador(raw,permitir_subcaracter=(mode=='experimental'),
+                              preservar_fase=(mode=='fase')).aplicar(editions)
   except (ReubicacionInsegura,ValueError,IndexError) as exc:
    for r in results:
     if r['recurso']==res and r['estado']=='CANDIDATO_REUBICACION':
@@ -246,7 +247,7 @@ def compile_replacements(changed,contexts,packer,auto_fonts=True):
 
 def cli(args):
  if not args.iso and not args.dlc_directorio:raise Peligro('Se requiere ISO o DLC')
- if args.modo=='experimental' and not args.acepto_riesgo_referencias:
+ if args.modo in ('experimental','fase') and not args.acepto_riesgo_referencias:
   raise Peligro('Modo experimental requiere --acepto-riesgo-referencias')
  if args.construir and not args.acepto_riesgo_ppsspp:
   raise Peligro('La reconstrucción no se ha probado en PPSSPP; confirma --acepto-riesgo-ppsspp')
@@ -257,10 +258,12 @@ def cli(args):
  rpath=args.salida/'informe_script_v014.csv'
  with rpath.open('w',newline='',encoding='utf-8-sig') as f:
   wr=csv.DictWriter(f,fieldnames=['unit_id','recurso','estado','motivo','offset']);wr.writeheader();wr.writerows(rows)
- result={'modo':args.modo,'script_unidades':len(rows),'estados':dict(counts),
+ result={'version_reubicacion':'0.16-fase-candidata' if args.modo=='fase' else '0.14',
+         'modo':args.modo,'script_unidades':len(rows),'estados':dict(counts),
          'recursos_modificados':{k:{q:v[q] for q in ('original_sha256','nuevo_sha256','cadenas')} for k,v in changed.items()},
          'resultado':'SOLO VERIFICACION ESTRUCTURAL; no certifica visualización en PPSSPP',
-         'now_loading':'sin modificar'}
+         'now_loading':'sin modificar',
+         'control_seguridad':'fase: interpretación desconocida; NO equivale a QA PPSSPP'}
  if args.construir and changed:
   replacements,dlcs,glyphs=compile_replacements(changed,ctx,args.packer,auto_fonts=not args.sin_fuentes_automaticas)
   result['fuentes_es']=glyphs
@@ -283,7 +286,7 @@ def main():
  p.add_argument('--manifiesto',type=Path,default=ROOT.parent/'data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv')
  p.add_argument('--auditoria',type=Path,default=ROOT/'informes/estado_unificado_66.csv',help='CSV de estado de 4507 recursos, con texto español y estado editorial')
  p.add_argument('--salida',type=Path,required=True)
- p.add_argument('--modo',choices=('conservador','experimental'),default='conservador')
+ p.add_argument('--modo',choices=('conservador','experimental','fase'),default='conservador')
  p.add_argument('--incluir-investigacion',action='store_true')
  p.add_argument('--construir',action='store_true')
  p.add_argument('--sin-fuentes-automaticas',action='store_true',help='Desactivar fuentes españolas (riesgo de glifos invisibles)')
