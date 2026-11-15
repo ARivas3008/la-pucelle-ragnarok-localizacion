@@ -22,7 +22,7 @@ $font = [System.Drawing.Font]::new('Segoe UI', 10)
 $fontBold = [System.Drawing.Font]::new('Segoe UI', 10, [System.Drawing.FontStyle]::Bold)
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.16.0'
+$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.16.1'
 $form.ClientSize = [System.Drawing.Size]::new(860, 925)
 $form.MinimumSize = [System.Drawing.Size]::new(876, 965)
 $form.MaximumSize = [System.Drawing.Size]::new(1200, 1100)
@@ -163,7 +163,7 @@ $includeInvestigation = New-Object System.Windows.Forms.CheckBox
 $includeInvestigation.Text = 'Incluir textos provisionales marcados para investigacion'
 $includeInvestigation.Location = [System.Drawing.Point]::new(32,511)
 $includeInvestigation.Size = [System.Drawing.Size]::new(620,26)
-$includeInvestigation.Checked = $true
+$includeInvestigation.Checked = $false
 $form.Controls.Add($includeInvestigation)
 $fontOnly.Add_CheckedChanged({$includeInvestigation.Enabled = -not $fontOnly.Checked; $reductions.Enabled = -not $fontOnly.Checked; $scripts.Enabled = -not $fontOnly.Checked; $scriptPhase.Enabled = (-not $fontOnly.Checked) -and $scripts.Checked})
 
