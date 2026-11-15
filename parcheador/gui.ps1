@@ -22,9 +22,9 @@ $font = [System.Drawing.Font]::new('Segoe UI', 10)
 $fontBold = [System.Drawing.Font]::new('Segoe UI', 10, [System.Drawing.FontStyle]::Bold)
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.17.1'
-$form.ClientSize = [System.Drawing.Size]::new(860, 925)
-$form.MinimumSize = [System.Drawing.Size]::new(876, 965)
+$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.17.2'
+$form.ClientSize = [System.Drawing.Size]::new(860, 970)
+$form.MinimumSize = [System.Drawing.Size]::new(876, 1010)
 $form.MaximumSize = [System.Drawing.Size]::new(1200, 1100)
 $form.StartPosition = 'CenterScreen'
 $form.BackColor = $bg
@@ -80,7 +80,7 @@ $title.Location = [System.Drawing.Point]::new(26,20)
 $title.Size = [System.Drawing.Size]::new(800,40)
 $header.Controls.Add($title)
 $sub = New-Object System.Windows.Forms.Label
-$sub.Text = 'PARCHEADOR ESPANOL   |   ISO  /  DLC   |   VERSION EXPERIMENTAL 0.17.1'
+$sub.Text = 'PARCHEADOR ESPANOL   |   ISO  /  DLC   |   VERSION EXPERIMENTAL 0.17.2'
 $sub.Font = [System.Drawing.Font]::new('Segoe UI', 9)
 $sub.ForeColor = [System.Drawing.Color]::FromArgb(200,214,232)
 $sub.Location = [System.Drawing.Point]::new(28,70)
@@ -192,22 +192,33 @@ $scriptPhase.Size = [System.Drawing.Size]::new(780,26)
 $scriptPhase.Checked = $false
 $scriptPhase.Enabled = $false
 $form.Controls.Add($scriptPhase)
+$preserveEboot = New-Object System.Windows.Forms.CheckBox
+$preserveEboot.Text = 'Prueba gráfica: conservar EBOOT y atlas de interfaz originales (menos menús en español)'
+$preserveEboot.Location = [System.Drawing.Point]::new(32,660)
+$preserveEboot.Size = [System.Drawing.Size]::new(800,28)
+$preserveEboot.Checked = $true
+$form.Controls.Add($preserveEboot)
+$preserveEboot.Add_CheckedChanged({
+  if ($preserveEboot.Checked) {$atlasUI.Checked = $false}
+  $atlasUI.Enabled = (-not $preserveEboot.Checked) -and (-not $script:process)
+})
+$atlasUI.Enabled = $false
 $scripts.Add_CheckedChanged({$scriptPhase.Enabled = $scripts.Checked -and (-not $fontOnly.Checked); if(-not $scripts.Checked){$scriptPhase.Checked = $false}})
-$safetyNote = LabelAt 'Protección: el modo fase es investigación, no acredita 100% ni PPSSPP.' 30 661 800 17 $false
+$safetyNote = LabelAt 'El aislamiento gráfico sirve para investigar; NO confirma que los glitches desaparezcan.' 30 699 800 17 $false
 $safetyNote.ForeColor = $muted
 $safetyNote.Font = [System.Drawing.Font]::new('Segoe UI', 8)
-$btnStart = ButtonAt 'INICIAR PARCHEO' 28 680 228 42 $accent
-$btnCancel = ButtonAt 'Cancelar' 270 680 115 42 $navy2
+$btnStart = ButtonAt 'INICIAR PARCHEO' 28 720 228 42 $accent
+$btnCancel = ButtonAt 'Cancelar' 270 720 115 42 $navy2
 $btnCancel.Enabled = $false
-$btnOpen = ButtonAt 'Abrir salida' 699 680 132 42 $navy2
+$btnOpen = ButtonAt 'Abrir salida' 699 720 132 42 $navy2
 
 $progress = New-Object System.Windows.Forms.ProgressBar
-$progress.Location = [System.Drawing.Point]::new(28,732)
+$progress.Location = [System.Drawing.Point]::new(28,773)
 $progress.Size = [System.Drawing.Size]::new(803,10)
 $progress.Style = [System.Windows.Forms.ProgressBarStyle]::Blocks
 $progress.Anchor = [System.Windows.Forms.AnchorStyles]::Top -bor [System.Windows.Forms.AnchorStyles]::Left -bor [System.Windows.Forms.AnchorStyles]::Right
 $form.Controls.Add($progress)
-$status = LabelAt 'Listo para seleccionar los archivos.' 27 749 780 23 $false
+$status = LabelAt 'Listo para seleccionar los archivos.' 27 790 780 23 $false
 $status.ForeColor = $muted
 $status.Anchor = [System.Windows.Forms.AnchorStyles]::Bottom -bor [System.Windows.Forms.AnchorStyles]::Left -bor [System.Windows.Forms.AnchorStyles]::Right
 $log = New-Object System.Windows.Forms.TextBox
@@ -217,8 +228,8 @@ $log.ReadOnly = $true
 $log.BackColor = [System.Drawing.Color]::FromArgb(236,241,247)
 $log.ForeColor = $ink
 $log.Font = [System.Drawing.Font]::new('Consolas', 9)
-$log.Location = [System.Drawing.Point]::new(28,780)
-$log.Size = [System.Drawing.Size]::new(803,114)
+$log.Location = [System.Drawing.Point]::new(28,822)
+$log.Size = [System.Drawing.Size]::new(803,115)
 $log.Anchor = [System.Windows.Forms.AnchorStyles]::Bottom -bor [System.Windows.Forms.AnchorStyles]::Left -bor [System.Windows.Forms.AnchorStyles]::Right
 $form.Controls.Add($log)
 
@@ -250,7 +261,8 @@ function SetBusy([bool]$busy) {
   $radioDLC.Enabled = -not $busy
   $fontOnly.Enabled = -not $busy
   $includeInvestigation.Enabled = (-not $busy) -and (-not $fontOnly.Checked)
-  $atlasUI.Enabled = -not $busy
+  $atlasUI.Enabled = (-not $busy) -and (-not $preserveEboot.Checked)
+  $preserveEboot.Enabled = -not $busy
   $reductions.Enabled = (-not $busy) -and (-not $fontOnly.Checked)
   $scripts.Enabled = (-not $busy) -and (-not $fontOnly.Checked)
   $scriptPhase.Enabled = (-not $busy) -and (-not $fontOnly.Checked) -and $scripts.Checked
@@ -285,7 +297,7 @@ $timer.Add_Tick({
       $status.Text = 'Parcheo cancelado. Los originales no se modificaron.'
       $status.ForeColor = [System.Drawing.Color]::DarkOrange
     } elseif ($exitCode -eq 0) {
-      $status.Text = 'Proceso terminado. Usa JUEGO_PARA_PPSSPP_V0171 (si activaste scripts).'
+      $status.Text = 'Proceso terminado. Usa JUEGO_PARA_PPSSPP_V0172 (si activaste scripts).'
       $status.ForeColor = $accent
       $detail = 'Se han creado archivos experimentales. Consulta resumen.json y reporte_por_unidad.csv. El parcheo no certifica que el juego se muestre completamente en espanol.'
       $summary = [System.IO.Path]::Combine($outBox.Text,'resumen.json')
@@ -363,6 +375,7 @@ $btnStart.Add_Click({
       atlas = [bool]$atlasUI.Checked
       reductions = [bool]$reductions.Checked
       scripts = [bool]$scripts.Checked
+      preserveEboot = [bool]$preserveEboot.Checked
       scriptMode = $(if ($scriptPhase.Checked) {'fase'} else {'conservador'})
       log = $script:logFile
     } | ConvertTo-Json -Compress
