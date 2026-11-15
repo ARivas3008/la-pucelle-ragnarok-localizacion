@@ -2,7 +2,7 @@ name: v0.17.2 Windows EXE diagnóstico de gráficos
 on:
   push:
     branches:
-      - desarrollo/parcheador-v0.17.2-dlc-fix
+      - desarrollo/parcheador-v0.17.2-diagnostico-graficos
   pull_request:
     paths:
       - 'parcheador/**'
@@ -87,7 +87,7 @@ jobs:
           if-no-files-found: error
           retention-days: 30
       - name: Publicar prerelease experimental de herramienta (no juego)
-        if: github.event_name == 'push' && github.ref == 'refs/heads/desarrollo/parcheador-v0.17.2-dlc-fix'
+        if: github.event_name == 'push' && github.ref == 'refs/heads/desarrollo/parcheador-v0.17.2-diagnostico-graficos'
         shell: pwsh
         env:
           GH_TOKEN: ${{ github.token }}
