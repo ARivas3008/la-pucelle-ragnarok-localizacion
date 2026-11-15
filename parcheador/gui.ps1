@@ -310,7 +310,7 @@ $timer.Add_Tick({
           }
         }
       } catch {}
-      [System.Windows.Forms.MessageBox]::Show($form,"Parcheo interrumpido (codigo $exitCode).\`n\`n$reason\`n\`nNo se han sobrescrito tus archivos originales.",'Parcheo interrumpido',[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning) | Out-Null
+      [System.Windows.Forms.MessageBox]::Show($form,"Parcheo interrumpido (codigo $exitCode).`n`n$reason`n`nNo se han sobrescrito tus archivos originales.",'Parcheo interrumpido',[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning) | Out-Null
     }
   }
 })
