@@ -129,6 +129,7 @@ Los registros exactos están en investigacion/v0.15/casos_14.csv. La auditoría 
 - [Reubicador de anclas v0.12](../investigacion/v0.12/reubicador_anclas_v012.py)
 - [Prueba de inserción v0.14](../investigacion/v0.14/README.md)
 - [Auditoría subcarácter v0.15](../investigacion/v0.15/README.md)
+- [Protocolo de trazado en PPSSPP](TRAZADO_PPSSPP_ANCLAS.md)
 - [Estado editorial y técnico del proyecto](ESTADO_100_POR_CIENTO.md)
 
 El inventario público debe contener solo metadatos, hashes, código propio y citas técnicas, no volcados completos de diálogos, ISO, EDAT o texturas comerciales.
