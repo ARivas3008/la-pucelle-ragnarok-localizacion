@@ -45,3 +45,8 @@ La implementación técnica del parcheador para ISO y cuatro DLC, los informes y
 El reubicador experimental [v0.14](parcheador/investigacion/v0.14/README.md) incorpora 489 inserciones estructuralmente validadas de `script*.dat` con prueba de reconstrucción ISO y DLC; no sustituye la GUI v0.13 ni acredita la traducción final.
 
 [Forensia v0.15: estructura, offsets y mapa de las 14 referencias](parcheador/docs/FORENSE_ESTRUCTURA_JUEGO.md) · [Ficha de formatos](parcheador/docs/FORMATOS_BINARIOS.md). La investigación no modifica el juego ni equivale a traducción jugable completa.
+
+
+### Desarrollo v0.16 (no aprobado)
+
+La rama `desarrollo/parcheador-v0.16-referencias` agrega la integración opcional del reubicador de scripts en el EXE y un ensayo conservador de fase CP932. Se identificaron 14 textos con 15 referencias problemáticas en los originales facilitados: solamente 4 tienen candidato cercano en fase. Los resultados no acreditan 100 % ni ejecución PPSSPP. Véase [v0.16](parcheador/docs/versiones/v0.16.md).
