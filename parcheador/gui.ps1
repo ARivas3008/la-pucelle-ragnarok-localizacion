@@ -299,7 +299,18 @@ $timer.Add_Tick({
     } else {
       $status.Text = "Error durante el parcheo (codigo $exitCode). Consulta el registro."
       $status.ForeColor = [System.Drawing.Color]::Firebrick
-      [System.Windows.Forms.MessageBox]::Show($form,'El parcheador termino con un error. Consulta el registro en pantalla y la carpeta de salida. No se han sobrescrito tus archivos originales.','Parcheo interrumpido',[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning) | Out-Null
+      $reason = 'Consulta el registro en pantalla y en la carpeta de salida.'
+      try {
+        if ([System.IO.File]::Exists($script:logFile)) {
+          $raw = [System.IO.File]::ReadAllText($script:logFile,[System.Text.Encoding]::UTF8)
+          $last = @($raw -split '[\r\n]+' | Where-Object { $_.StartsWith('ERROR:') } | Select-Object -Last 1)
+          if ($last.Count -gt 0 -and -not [string]::IsNullOrWhiteSpace($last[0])) {
+            $reason = [string]$last[0]
+            if ($reason.Length -gt 1200) {$reason = $reason.Substring(0,1200)}
+          }
+        }
+      } catch {}
+      [System.Windows.Forms.MessageBox]::Show($form,"Parcheo interrumpido (codigo $exitCode).\`n\`n$reason\`n\`nNo se han sobrescrito tus archivos originales.",'Parcheo interrumpido',[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning) | Out-Null
     }
   }
 })
