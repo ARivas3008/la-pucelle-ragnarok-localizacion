@@ -9,6 +9,8 @@
 - La v0.12 produjo 296 nuevas soluciones de ensayo: 197 reducciones, 94 casos script y 5 especiales. Otros 547 casos siguieron sin validación conservadora en el balance del informe.
 - La v0.13 conserva los archivos de investigación y añade una vía **optativa** de 197 sustituciones breves. En una prueba con recursos originales sin otras inserciones se pudieron aplicar 197/197: 145 a tablas DAT y 52 a cadenas ASCII de EBOOT. Es una prueba de compatibilidad estructural, **no de fidelidad ni de renderizado**.
 
+- La v0.14 escribió **489 de las 503 unidades traducibles de `script*.dat`** sobre una ISO y cuatro DLC de prueba, verificó los contenedores y conservó `Now Loading`. El modo experimental consigue reubicar estructuralmente 503/503, pero las 14 referencias subcarácter requieren QA de ejecución. Los 489 textos son **una subfamilia de las 4507 unidades no-talk**: no deben sumarse de forma directa a cifras anteriores para inferir una cobertura global.
+
 ## Pendientes reales
 
 1. Cadenas de formato variable con referencias de bytecode y temporización no completamente documentadas. En v0.12 se probaron 14 referencias en el segundo byte de caracteres CP932 solo bajo modo experimental, excluido del ejecutable de producción.
