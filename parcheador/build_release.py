@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT=Path(__file__).resolve().parent
 MASTER=ROOT.parent/'data'/'maestros'/'04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv'
-VERSION='0.13.0'
+VERSION='0.16.0-experimental'
 
 
 def make_resources(manifest:Path, packer:Path, dest:Path):
@@ -21,6 +21,18 @@ def make_resources(manifest:Path, packer:Path, dest:Path):
         if rel.startswith('tests/') or rel in ('datos/mapa_26258_unidades.csv','scripts/nis_lzs_pack','scripts/nis_lzs_pack.exe'):
             continue
         entries[rel]=path.read_bytes()
+    # v0.16 incorpora el motor de eventos sin romper la CLI histórica v0.13.
+    # La estructura relativa es necesaria para los imports de v0.14.
+    for old_rel in ('scripts/construir_parche.py','scripts/nis_formats.py',
+                    'scripts/fuentes_es.py','scripts/campos_fijos.py'):
+        entries['app/'+old_rel]=entries[old_rel]
+    for rel in ('investigacion/v0.10/contenedores.py',
+                'investigacion/v0.10/iso_reubicar.py',
+                'investigacion/v0.12/reubicador_anclas_v012.py',
+                'investigacion/v0.14/integrar_scripts_v014.py'):
+        entries[rel]=(ROOT/rel).read_bytes()
+    # Informe editorial de 4507 unidades, sin binarios comerciales.
+    entries['datos/estado_unificado_66.csv']=(ROOT/'informes/estado_unificado_66.csv').read_bytes()
     entries['datos/mapa_26258_unidades.csv']=manifest.read_bytes()
     entries['scripts/nis_lzs_pack.exe']=packer.read_bytes()
     with dest.open('wb') as outf:
