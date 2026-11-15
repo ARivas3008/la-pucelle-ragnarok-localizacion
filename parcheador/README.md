@@ -95,3 +95,8 @@ Las capturas del 15/11/2026 muestran menús y ventanas dañados. [Informe de nue
 ## v0.17.3 — Los recursos ya no se trasladan innecesariamente al final de la ISO
 
 El integrador de eventos antes cambiaba los LBAs de START_JP y SCRIPTPACK incluso cuando cabían en su ubicación original. En la [v0.17.3](docs/versiones/v0.17.3.md) se escribe en el mismo LBA y se preserva el tamaño físico de la ISO. Se mantiene el modo diagnóstico de EBOOT/atlas sin cambios y los arreglos previos de diálogos y entrega de DLC. **La desaparición de las anomalías visuales aún debe comprobarse en PPSSPP original/parche con mismos ajustes.**
+
+
+## v0.17.4 — Evitar error «exit status 2» al integrar scripts
+
+La primera fase reducía START_JP.LZS a 4 937 836 bytes; la segunda lo aumentaba a 4 937 862 (+26). La v0.17.3 bloqueaba por longitud lógica, pese a tener 4 939 776 bytes reservados en sectores. La [v0.17.4](docs/versiones/v0.17.4.md) calcula la reserva ISO9660 por sectores, rechaza solapamientos y mantiene todos los LBAs. En la prueba real pasaron ambas fases. Al fallar, la interfaz muestra el diagnóstico concreto de Python, no solo código 2. No es certificación gráfica PPSSPP.
