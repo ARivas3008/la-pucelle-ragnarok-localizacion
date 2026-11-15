@@ -2,6 +2,7 @@
 
 Cada versión tiene un documento propio en `docs/versiones/`. **Las métricas históricas provienen de sus respectivos paquetes; no equivalen a pruebas actuales en PPSSPP.**
 
+- [v0.14 — Inserción y reubicación conservadora de 489 textos de script](docs/versiones/v0.14.md)
 - [v0.13 — Integración versionada y verificación de reducciones](docs/versiones/v0.13.md)
 - [v0.12 — Reducciones y anclas de script](docs/versiones/v0.12.md)
 - [v0.11 — Auditoría de 66 recursos](docs/versiones/v0.11.md)
