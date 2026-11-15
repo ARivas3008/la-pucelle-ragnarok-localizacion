@@ -1,4 +1,4 @@
-name: v0.16 Windows EXE experimental
+name: v0.16.1 Windows EXE experimental
 on:
   push:
     branches:
@@ -37,9 +37,38 @@ jobs:
           python parcheador/build_release.py --packer-exe .\nis_lzs_pack.exe
           if ($LASTEXITCODE -ne 0) { exit 1 }
           Get-FileHash parcheador/dist/*.exe -Algorithm SHA256 | Format-Table
+      - name: Verificar dependencias integradas y ausencia de recursos comerciales
+        shell: pwsh
+        run: |
+          @'
+          import tarfile
+          with tarfile.open("parcheador/resources.tar.gz", "r:gz") as tar:
+              entries=set(tar.getnames())
+          needed={"app/scripts/construir_parche.py",
+                  "app/scripts/segmentacion.py",
+                  "app/scripts/integracion_v013.py",
+                  "app/scripts/subtitulos_script.py",
+                  "app/scripts/atlas_ui_es.py",
+                  "investigacion/v0.14/integrar_scripts_v014.py",
+                  "investigacion/v0.12/reubicador_anclas_v012.py",
+                  "datos/mapa_26258_unidades.csv",
+                  "scripts/nis_lzs_pack.exe"}
+          missing=needed-entries
+          assert not missing, f"Dependencias faltantes: {sorted(missing)}"
+          assert not any(x.lower().endswith((".iso",".edat",".lzs"))
+                         for x in entries), "Se ha empaquetado material comercial"
+          print("OK: dependencias completas y sin ISO/EDAT/LZS")
+          '@ | python -
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+      - name: Autotest de ejecutable Windows
+        shell: pwsh
+        run: |
+          $exe = (Get-ChildItem parcheador/dist/*.exe | Select-Object -First 1).FullName
+          $proc = Start-Process -FilePath $exe -ArgumentList "--self-test" -Wait -PassThru
+          if ($proc.ExitCode -ne 0) { throw "Autotest EXE falló con código $($proc.ExitCode)" }
       - uses: actions/upload-artifact@v4
         with:
-          name: LaPucelle-Parcheador-v016-Windows-EXPERIMENTAL
+          name: LaPucelle-Parcheador-v0161-Windows-EXPERIMENTAL
           path: parcheador/dist/*.exe
           if-no-files-found: error
           retention-days: 30
