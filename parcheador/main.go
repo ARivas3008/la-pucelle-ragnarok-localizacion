@@ -1,4 +1,4 @@
-// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.16.0-experimental.
+// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.16.1-experimental.
 // No contiene el juego, DLC ni recursos comerciales: solo scripts y mapas.
 package main
 
@@ -26,7 +26,7 @@ import (
 //go:embed resources.tar.gz gui.ps1
 var resources embed.FS
 
-const version = "0.16.0-experimental"
+const version = "0.16.1-experimental"
 const pythonDownload = "https://www.python.org/ftp/python/3.11.9/python-3.11.9-embed-amd64.zip"
 const maxDownload = 35 << 20
 
@@ -77,7 +77,7 @@ func workDir() (string, error) {
 			return "", err
 		}
 	}
-	return filepath.Join(base, "LaPucelleES", "app_v0_16_0_exp"), nil
+	return filepath.Join(base, "LaPucelleES", "app_v0_16_1_exp"), nil
 }
 func extractEmbedded(base string) error {
 	stamp := filepath.Join(base, ".version")
