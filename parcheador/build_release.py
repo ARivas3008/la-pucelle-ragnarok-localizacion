@@ -23,8 +23,11 @@ def make_resources(manifest:Path, packer:Path, dest:Path):
         entries[rel]=path.read_bytes()
     # v0.16 incorpora el motor de eventos sin romper la CLI histórica v0.13.
     # La estructura relativa es necesaria para los imports de v0.14.
-    for old_rel in ('scripts/construir_parche.py','scripts/nis_formats.py',
-                    'scripts/fuentes_es.py','scripts/campos_fijos.py'):
+    # El reubicador importa construir_parche.py desde app/scripts; este
+    # importa segmentacion, atlas_ui_es, subtitulos_script e integracion_v013.
+    # Empaquetar SOLO cuatro módulos impedía ejecutar v0.16 en Windows.
+    # Duplicamos el conjunto completo de scripts bajo app/scripts.
+    for old_rel in sorted(k for k in entries if k.startswith('scripts/') and k.endswith('.py')):
         entries['app/'+old_rel]=entries[old_rel]
     for rel in ('investigacion/v0.10/contenedores.py',
                 'investigacion/v0.10/iso_reubicar.py',
