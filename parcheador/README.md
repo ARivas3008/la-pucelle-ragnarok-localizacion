@@ -90,3 +90,8 @@ La [ficha v0.17.1](docs/versiones/v0.17.1.md) explica por qué la segunda etapa 
 ## v0.17.2 — Corrupción visual: aislación y medición
 
 Las capturas del 15/11/2026 muestran menús y ventanas dañados. [Informe de nueve capturas](docs/QA_VISUAL_V0172.md). La v0.17.2 permite conservar EBOOT y atlas de UI (casilla de diagnóstico activada por defecto; partes del menú pueden quedar sin traducir), y el [auditor](investigacion/v0.17/qa_integridad_graficos.py) detecta cambios no autorizados de texturas, CLUT y glifos. Se han ajustado los grupos 5056, 5064 y 5072 para que los segmentos quepan en CP932. **Es una prueba de aislamiento, no solución de gráficos demostrada.** [Versión v0.17.2](docs/versiones/v0.17.2.md).
+
+
+## v0.17.3 — Los recursos ya no se trasladan innecesariamente al final de la ISO
+
+El integrador de eventos antes cambiaba los LBAs de START_JP y SCRIPTPACK incluso cuando cabían en su ubicación original. En la [v0.17.3](docs/versiones/v0.17.3.md) se escribe en el mismo LBA y se preserva el tamaño físico de la ISO. Se mantiene el modo diagnóstico de EBOOT/atlas sin cambios y los arreglos previos de diálogos y entrega de DLC. **La desaparición de las anomalías visuales aún debe comprobarse en PPSSPP original/parche con mismos ajustes.**

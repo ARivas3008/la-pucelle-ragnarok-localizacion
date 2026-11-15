@@ -193,12 +193,32 @@ def compress(raw,original,packer):
  return result
 
 def append_multiple_iso(input_iso,out_iso,replacements):
- """Adjunta archivos a una ISO copiada y actualiza entradas ISO9660 y volumen.
+ """v0.17.3: reconstrución ISO en las MISMAS posiciones LBA originales.
 
- Solo modificar entradas cuyo recurso se reconstruyó. Usar transacción .tmp.
+ Los contenedores START y SCRIPTPACK solo se sustituyen si caben en sus
+ espacios originales. Nunca se adjuntan al final ni se cambia el tamaño
+ del volumen. El consumidor PSP podría usar direcciones físicas y no solo
+ entradas de directorio ISO9660. Reubicarlas sin necesidad fue un riesgo.
  """
  target=Path(out_iso);origin=Path(input_iso)
- if origin.resolve()==target.resolve():raise Peligro('No sobrescribir ISO original')
+ if origin.resolve()==target.resolve():
+  raise Peligro('No sobrescribir ISO original')
+ if not replacements:
+  raise Peligro('No hay recursos para sustituir')
+ with origin.open('rb') as fp:
+  originals={x.ruta:x for x in recorrer(fp)}
+  original_size=origin.stat().st_size
+  for name,blob in replacements.items():
+   if name not in originals:
+    raise Peligro('No hay entrada ISO '+name)
+   if not isinstance(blob,bytes) or not blob:
+    raise Peligro('Reemplazo ISO vacío: '+name)
+   old=originals[name]
+   if len(blob)>old.size:
+    raise Peligro(
+      f'{name}: {len(blob)} bytes superan los {old.size} disponibles '
+      'en la ubicación original; se rechaza reubicar automáticamente. '
+      'Reducir/comprimir o estudiar referencias físicas primero')
  target.parent.mkdir(parents=True,exist_ok=True)
  temp=target.with_name(target.name+'.tmp')
  if temp.exists():temp.unlink()
@@ -206,33 +226,40 @@ def append_multiple_iso(input_iso,out_iso,replacements):
   shutil.copyfile(origin,temp)
   with temp.open('r+b') as fp:
    records={x.ruta:x for x in recorrer(fp)}
-   for path in replacements:
-    if path not in records:raise Peligro('No hay entrada ISO '+path)
-   fp.seek(0,os.SEEK_END)
    for name,blob in sorted(replacements.items()):
-    if not isinstance(blob,bytes) or not blob:raise Peligro('Blob vacío')
-    pos=fp.tell();start=(pos+2047)//2048*2048
-    if start>pos:fp.write(b'\x00'*(start-pos))
+    old=records[name]
+    # Mantener LBA y directorio originales. Cambiar solo longitud.
+    fp.seek(old.offset)
     fp.write(blob)
-    if fp.tell()%2048:fp.write(b'\x00'*(2048-fp.tell()%2048))
-    entry=records[name].entrada
-    fp.seek(entry+2)
-    fp.write(struct.pack('<I',start//2048)+struct.pack('>I',start//2048))
+    # No conservar basura al reducir archivo; nunca invade otro sector.
+    padding=old.size-len(blob)
+    if padding:fp.write(b'\x00'*padding)
+    fp.seek(old.entrada+10)
     fp.write(struct.pack('<I',len(blob))+struct.pack('>I',len(blob)))
-    fp.seek(0,os.SEEK_END)
-   total=(fp.tell()+2047)//2048
-   fp.seek(16*2048+80);fp.write(struct.pack('<I',total)+struct.pack('>I',total))
    fp.flush();os.fsync(fp.fileno())
+  if temp.stat().st_size!=original_size:
+   raise Peligro('La ISO cambió de longitud con parcheo LBA estable')
   with temp.open('rb') as fp:
    indexes={x.ruta:x for x in recorrer(fp)}
-   for name,expected in replacements.items():
-    ent=indexes[name]
-    if ent.size!=len(expected):raise Peligro('ISO tamaño incorrecto '+name)
-    fp.seek(ent.offset)
-    if sha(fp.read(ent.size))!=sha(expected):raise Peligro('ISO contenido incorrecto '+name)
+   if set(indexes)!=set(originals):
+    raise Peligro('El árbol ISO9660 cambió de miembros')
+   for name,old in originals.items():
+    new=indexes[name]
+    if new.offset!=old.offset:
+     raise Peligro('Cambió posición LBA: '+name)
+    if name in replacements:
+     expected=replacements[name]
+     if new.size!=len(expected):
+      raise Peligro('Longitud incorrecta después de reescribir: '+name)
+     fp.seek(new.offset)
+     if sha(fp.read(new.size))!=sha(expected):
+      raise Peligro('Contenido distinto del previsto: '+name)
+    elif new.size!=old.size:
+     raise Peligro('Cambió longitud de recurso ajeno: '+name)
   os.replace(temp,target)
  finally:
   if temp.exists():temp.unlink()
+
 
 def compile_replacements(changed,contexts,packer,auto_fonts=True):
  """Reconstrucción reversible de script + fuentes; cero cambio fuera de miembros.
@@ -302,6 +329,8 @@ def cli(args):
    name=args.salida/'La_Pucelle_Ragnarok_ES_SCRIPT_V014_EXPERIMENTAL.iso'
    append_multiple_iso(args.iso,name,replacements)
    result['iso']=str(name)
+   result['iso_lba_estables']=True
+   result['iso_tamano_preservado']=True
   for key,blob in dlcs.items():
    name=args.salida/f'{key}_SCRIPT_V014_EXPERIMENTAL.EDAT';name.write_bytes(blob)
    result[key]=str(name)

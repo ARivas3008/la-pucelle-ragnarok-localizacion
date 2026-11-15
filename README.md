@@ -72,3 +72,8 @@ La v0.17 podía fallar al encontrar un DLC que no necesitaba reconstrucción dur
 ### v0.17.2-diagnóstico — Nueve capturas de corrupción visual en PPSSPP
 
 La rama `desarrollo/parcheador-v0.17.2-diagnostico-graficos` incorpora [la matriz de fallos de pantalla](parcheador/docs/QA_VISUAL_V0172.md), un modo temporal de conservar EBOOT/atlas para pruebas A/B, auditor de integridad de texturas y tres adaptaciones de diálogo de los grupos 5056, 5064 y 5072. **No se acredita la eliminación de fallos visuales**, ni una traducción 100 % jugable; usar únicamente como diagnóstico con ISO y DLC originales propios. [Ficha v0.17.2](parcheador/docs/versiones/v0.17.2.md).
+
+
+### v0.17.3 — Prueba de compatibilidad con LBA estable
+
+La [v0.17.3](parcheador/docs/versiones/v0.17.3.md) corrige la reubicación física innecesaria de `START_JP.LZS` y `SCRIPTPACK.DAT`: ambos cabían en su extensión original. El nuevo motor conserva los 28 offsets ISO9660, el tamaño total de la ISO y los bytes de BGPACK/MAPPACK/ANMPACK/EBOOT, abortando si un reemplazo excede el espacio. **Es una hipótesis de compatibilidad verificada a nivel binario, no una corrección de fondos certificada en PPSSPP.**

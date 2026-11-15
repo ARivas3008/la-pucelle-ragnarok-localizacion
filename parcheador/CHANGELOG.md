@@ -1,5 +1,7 @@
 # Registro de versiones del parcheador
 
+- [v0.17.3-lba-qa — Conservar LBA de START y SCRIPTPACK y abortar si no caben](docs/versiones/v0.17.3.md) (validación visual PPSSPP pendiente)
+
 - [v0.17.2-diagnóstico — Corrupción visual PPSSPP y 3 diálogos bloqueados](docs/versiones/v0.17.2.md) (A/B pendiente, sin certificación de gráficos)
 
 - [v0.17.1-qa — Corregir falta de DLC sin cambios y publicación final atómica](docs/versiones/v0.17.1.md) (pruebas Windows, PPSSPP pendiente)
