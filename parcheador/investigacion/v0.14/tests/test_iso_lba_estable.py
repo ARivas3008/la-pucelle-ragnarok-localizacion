@@ -85,9 +85,35 @@ class TestKeepLBA(unittest.TestCase):
     self.assertEqual(patched[24*SECTOR:24*SECTOR+1000],b"Q"*1000)
     self.assertEqual(after["/PSP_GAME/USRDIR/START_JP.LZS"].size,710)
  def test_overflow_falla_sin_escribir_iso(self):
-    with self.assertRaisesRegex(Peligro,"reubicar automáticamente"):
+    with self.assertRaisesRegex(Peligro,"no se puede crecer sin ocupar otro sector"):
         append_multiple_iso(self.src,self.out,{
-            "/PSP_GAME/USRDIR/START_JP.LZS":b"X"*801
+            "/PSP_GAME/USRDIR/START_JP.LZS":b"X"*2049
+        })
+    self.assertFalse(self.out.exists())
+ def test_crece_26_bytes_en_mismo_sector_como_en_iso_real(self):
+    before=self.records(self.src)
+    new=b"N"*(800+26)
+    append_multiple_iso(self.src,self.out,{
+        "/PSP_GAME/USRDIR/START_JP.LZS":new
+    })
+    after=self.records(self.out)
+    key="/PSP_GAME/USRDIR/START_JP.LZS"
+    self.assertEqual(after[key].size,len(new))
+    self.assertEqual(before[key].offset,after[key].offset)
+    self.assertEqual(self.src.stat().st_size,self.out.stat().st_size)
+    result=self.out.read_bytes()
+    original=self.src.read_bytes()
+    self.assertEqual(result[23*SECTOR:23*SECTOR+len(new)],new)
+    self.assertEqual(result[23*SECTOR+len(new):24*SECTOR],
+                     b"\0"*(SECTOR-len(new)))
+    self.assertEqual(result[24*SECTOR:26*SECTOR],
+                     original[24*SECTOR:26*SECTOR])
+ def test_crecimiento_no_invade_otro_archivo(self):
+    # 2048 bytes de sector original: 2049 exige otro sector que ocupa
+    # el SCRIPTPACK contiguo, de modo que rechaza el reemplazo.
+    with self.assertRaises(Peligro):
+        append_multiple_iso(self.src,self.out,{
+            "/PSP_GAME/USRDIR/START_JP.LZS":b"N"*2049
         })
     self.assertFalse(self.out.exists())
  def test_no_sobrescribe_original(self):

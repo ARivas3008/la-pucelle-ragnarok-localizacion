@@ -77,3 +77,8 @@ La rama `desarrollo/parcheador-v0.17.2-diagnostico-graficos` incorpora [la matri
 ### v0.17.3 — Prueba de compatibilidad con LBA estable
 
 La [v0.17.3](parcheador/docs/versiones/v0.17.3.md) corrige la reubicación física innecesaria de `START_JP.LZS` y `SCRIPTPACK.DAT`: ambos cabían en su extensión original. El nuevo motor conserva los 28 offsets ISO9660, el tamaño total de la ISO y los bytes de BGPACK/MAPPACK/ANMPACK/EBOOT, abortando si un reemplazo excede el espacio. **Es una hipótesis de compatibilidad verificada a nivel binario, no una corrección de fondos certificada en PPSSPP.**
+
+
+### v0.17.4 — Segunda fase corregida (26 bytes en sector ISO9660)
+
+La [v0.17.4](parcheador/docs/versiones/v0.17.4.md) resuelve el error de la v0.17.3 «segunda fase de scripts falló: exit status 2»: un START_JP.LZS que crecía 26 bytes seguía cabiendo en su sector, pero el programa lo rechazaba. Ahora se admite crecimiento **dentro del mismo sector ya reservado**, con LBA y tamaño físico de ISO intactos. Se reprodujo el bloqueo en los originales y se comprobó la reparación. La ausencia de defectos gráficos en PPSSPP **no está acreditada**.
