@@ -62,3 +62,8 @@ El parcheador de la rama `desarrollo/parcheador-v0.16-referencias` pasa el autot
 ### Desarrollo v0.17.0-qa — diálogos del tutorial y salida final identificable
 
 La rama `desarrollo/parcheador-v0.17-qa-dialogos` incorpora [correcciones verificables para 11 unidades de diálogo antes bloqueadas](parcheador/docs/versiones/v0.17.md): conserva las transiciones de página, realiza abreviaciones contextualizadas para grupos 5050/5051/5055/5057 y marca claramente la ISO final de prueba. [Matriz de diez capturas](parcheador/docs/QA_CAPTURAS_V017.md). La tarjeta del capítulo 1 es una textura `BGPACK.DAT/at01.txp` distinta de la cadena de diálogos: su modificación gráfica y el parpadeo siguen pendientes de validación. **No es 100 % ni reemplaza PPSSPP.**
+
+
+### v0.17.1-qa — Corrección de entrega de DLC sin cambios
+
+La v0.17 podía fallar al encontrar un DLC que no necesitaba reconstrucción durante la segunda fase, y dejar una carpeta PPSSPP incompleta. La [v0.17.1](parcheador/docs/versiones/v0.17.1.md) conserva esos DLC desde la salida preliminar, valida la ISO y los cuatro EDAT antes de publicar `JUEGO_PARA_PPSSPP_V0171` y registra su procedencia. No implica un 100 % de traducción ni resuelve los parpadeos observados. El ejecutable Windows se compila en una rama experimental con pruebas de regresión.
