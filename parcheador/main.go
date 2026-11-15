@@ -468,7 +468,7 @@ func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) 
     if cfg.ISO!="" {
         src,status,e:=selectSource("iso",inputISO)
         if e!=nil {return "",e}
-        tasks=append(tasks,candidate{src:src,dest:"La_Pucelle_Ragnarok_ES_V0171_PRUEBA_PPSSPP.iso",key:"ISO",status:status})
+        tasks=append(tasks,candidate{src:src,dest:"La_Pucelle_Ragnarok_ES_V0172_PRUEBA_PPSSPP.iso",key:"ISO",status:status})
     }
     if cfg.DLC!="" {
         for n:=0;n<4;n++ {
@@ -487,7 +487,7 @@ func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) 
             return "",fmt.Errorf("recurso final %s ausente, vacío o inaccesible: %s",t.key,t.src)
         }
     }
-    finalDir:=filepath.Join(cfg.Output,"JUEGO_PARA_PPSSPP_V0171")
+    finalDir:=filepath.Join(cfg.Output,"JUEGO_PARA_PPSSPP_V0172")
     staging:=finalDir+".en_construccion"
     if _,e:=os.Stat(finalDir);e==nil {
         return "",fmt.Errorf("ya existe %s; usa otra carpeta de salida para no mezclar versiones",finalDir)
@@ -526,14 +526,15 @@ func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) 
         "version":"0.17.2-diagnostico",
         "estado":"archivos entregados estructuralmente; PPSSPP NO validado",
         "fuente_script":summaryPath,
+        "diagnostico_conservar_eboot":cfg.PreserveEBOOT,
         "recursos":records,
     },"","  ")
     if e!=nil {return "",e}
-    if e:=os.WriteFile(filepath.Join(staging,"INFORME_ENTREGA_V0171.json"),details,0644);e!=nil{return "",e}
-    note:="La Pucelle ES v0.17.1 — SALIDA DE PRUEBAS PPSSPP\n"+
+    if e:=os.WriteFile(filepath.Join(staging,"INFORME_ENTREGA_V0172.json"),details,0644);e!=nil{return "",e}
+    note:="La Pucelle ES v0.17.2 — SALIDA DE PRUEBAS PPSSPP\n"+
         "Abrir la ISO de esta carpeta y copiar a PSP/GAME/ULJS00244 los DLC generados.\n"+
         "Se conservó el DLC preliminar cuando la etapa de scripts no produjo cambios.\n"+
-        "Consulta INFORME_ENTREGA_V0171.json para conocer cada caso.\n"+
+        "Consulta INFORME_ENTREGA_V0172.json para conocer cada caso.\n"+
         "No usar la ISO *_PRELIMINAR.iso; no se han sobrescrito originales.\n"+
         "Esta compilación no certifica el 100% de traducción ni ausencia de fallos visuales.\n"
     if e:=os.WriteFile(filepath.Join(staging,"LEEME_PRUEBA_PPSSPP.txt"),[]byte(note),0644);e!=nil{return "",e}
