@@ -96,6 +96,12 @@ def contains_unsafe_reference(raw,offset,old):
  return any((begin<=ptr<begin+len(old)) and (ptr-begin not in lim) for ptr in table.pointers)
 
 def plan(byres,sources,mode='conservador',allow_unapproved=False):
+ """Planifica por unidad. Un ancla mala nunca invalida otras 489 ediciones.
+
+ En modo fase, cada referencia de riesgo se ensaya *adicionalmente* sobre el
+ lote conservador ya validado. Solo se acepta si el archivo completo se puede
+ reconstruir e invertir byte a byte. Aun así no certifica PPSSPP.
+ """
  results=[];changed={};stats=Counter()
  for res,rows in sorted(byres.items()):
   if res not in sources:
@@ -103,7 +109,7 @@ def plan(byres,sources,mode='conservador',allow_unapproved=False):
     results.append(dict(unit_id=r['unit_id'],recurso=res,estado='OBJETIVO_NO_SELECCIONADO',motivo='ISO/DLC no seleccionado'))
     stats['OBJETIVO_NO_SELECCIONADO']+=1
    continue
-  raw=sources[res];editions=[]
+  raw=sources[res];editions=[];special=[];local_rows=[]
   for r in sorted(rows,key=lambda x:x['offset']):
    uid=r['unit_id'];status='';reason='';new=None
    original=r['original'];spanish=r.get('es_revisado','');state=r.get('estado_editorial','')
@@ -126,26 +132,51 @@ def plan(byres,sources,mode='conservador',allow_unapproved=False):
      if new is not None:
       if len(new)>=255:status='OPCODE_LONGITUD_255';reason='No cabe en u8 de script'
       elif new==old:status='SIN_CAMBIO';reason='Coincide byte por byte'
-      elif mode=='conservador' and contains_unsafe_reference(raw,off,old):
-       status='REFERENCIA_SUBCARACTER';reason='Ancla dentro de carácter CP932; no modificar'
       else:
-       editions.append(Edicion(off,old,new,uid));status='CANDIDATO_REUBICACION';reason='Pendiente de reversión del archivo completo'
-   results.append(dict(unit_id=uid,recurso=res,estado=status,motivo=reason,offset=r['offset']))
-  if not editions:continue
+       edition=Edicion(off,old,new,uid)
+       is_special=(mode in ('fase','conservador') and contains_unsafe_reference(raw,off,old))
+       if is_special and mode=='conservador':
+        status='REFERENCIA_SUBCARACTER';reason='Ancla dentro de carácter CP932; no modificar'
+       elif is_special and mode=='fase':
+        status='ANCLA_FASE_PENDIENTE';reason='Pendiente de prueba de lote completo'
+        special.append((edition,uid))
+       else:
+        editions.append(edition);status='CANDIDATO_REUBICACION';reason='Pendiente de reversión del archivo completo'
+   entry=dict(unit_id=uid,recurso=res,estado=status,motivo=reason,offset=r['offset'])
+   results.append(entry);local_rows.append(entry)
+  if not editions and not special:continue
+  byid={r['unit_id']:r for r in local_rows}
+  def compile_batch(chosen):
+   return Reubicador(raw,permitir_subcaracter=(mode=='experimental'),
+                     preservar_fase=(mode=='fase')).aplicar(chosen)
   try:
-   result,journal=Reubicador(raw,permitir_subcaracter=(mode=='experimental'),
-                              preservar_fase=(mode=='fase')).aplicar(editions)
+   # Primera puerta: el lote que ya debía funcionar en modo conservador.
+   compiled=compile_batch(editions) if editions else (raw,{'ediciones':[], 'anclas':[]})
   except (ReubicacionInsegura,ValueError,IndexError) as exc:
-   for r in results:
-    if r['recurso']==res and r['estado']=='CANDIDATO_REUBICACION':
-     r['estado']='REUBICACION_RECHAZADA';r['motivo']=str(exc)
+   for row in local_rows:
+    if row['estado'] in ('CANDIDATO_REUBICACION','ANCLA_FASE_PENDIENTE'):
+     row['estado']='REUBICACION_RECHAZADA';row['motivo']=str(exc)
    continue
-  # Recuperar el archivo de entrada mediante diario inverso, ya validado por Reubicador.
+  if mode=='fase':
+   for edit,uid in special:
+    try:
+     proposal=compile_batch(editions+[edit])
+    except (ReubicacionInsegura,ValueError,IndexError) as exc:
+     byid[uid]['estado']='ANCLA_FASE_BLOQUEADA'
+     byid[uid]['motivo']=str(exc)
+    else:
+     editions.append(edit);compiled=proposal
+     byid[uid]['estado']='CANDIDATO_REUBICACION_FASE'
+     byid[uid]['motivo']='Lote reversible, PENDIENTE de traza PPSSPP'
+  if not editions:continue
+  result,journal=compiled
   changed[res]={'original_sha256':sha(raw),'nuevo_sha256':sha(result),'raw':result,
                 'journal':journal,'cadenas':len(editions)}
-  for r in results:
-   if r['recurso']==res and r['estado']=='CANDIDATO_REUBICACION':
-    r['estado']='REUBICACION_ESTRUCTURAL';r['motivo']='Probada ida/vuelta, no validada en PPSSPP'
+  for row in local_rows:
+   if row['estado']=='CANDIDATO_REUBICACION':
+    row['estado']='REUBICACION_ESTRUCTURAL';row['motivo']='Probada ida/vuelta, NO verificada en PPSSPP'
+   elif row['estado']=='CANDIDATO_REUBICACION_FASE':
+    row['estado']='REUBICACION_FASE_EXPERIMENTAL';row['motivo']='Fase conservada, NO verificada en PPSSPP'
  for r in results:stats[r['estado']]+=1
  return changed,results,stats
 
