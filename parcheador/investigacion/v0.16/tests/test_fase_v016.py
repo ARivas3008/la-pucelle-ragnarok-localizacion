@@ -57,5 +57,32 @@ class FaseCP932(unittest.TestCase):
                        permitir_subcaracter=True, preservar_fase=True)
 
 
+    def test_un_ancla_rechazada_no_bloquea_otro_texto_del_mismo_script(self):
+        # Regresión real v0.16: antes una ancla bloqueada hacía caer
+        # hasta 344 candidatos de otros textos que compartían script.
+        sys.path.insert(0, str(ROOT / "investigacion" / "v0.14"))
+        from integrar_scripts_v014 import plan
+        # Dos textos en el mismo bytecode; el primero tiene ancla en
+        # segundo byte, el otro se puede traducir y reubicar con seguridad.
+        body = (b"\x32\x03" + "あ".encode("cp932") + b"\0" +
+                b"\x32\x03OK\0" + bytes(8))
+        pointers = (0, 3, 7)
+        original = struct.pack("<I3I", 3, *pointers) + body
+        key = "ISO_START/script00.dat"
+        rows = [
+            dict(unit_id="1", recurso=key, offset=18, original="あ",
+                 es_revisado="gato", estado_editorial="revisado"),
+            dict(unit_id="2", recurso=key, offset=23, original="OK",
+                 es_revisado="Largo", estado_editorial="revisado"),
+        ]
+        changed, report, counts = plan({key: rows}, {key: original}, "fase")
+        self.assertIn(key, changed)
+        self.assertEqual(changed[key]["cadenas"], 1)
+        self.assertEqual(counts["REUBICACION_ESTRUCTURAL"], 1)
+        self.assertEqual(counts["ANCLA_FASE_BLOQUEADA"], 1)
+        self.assertEqual(changed[key]["raw"].count(b"Largo"), 1)
+        self.assertEqual(changed[key]["raw"].count("あ".encode("cp932")), 1)
+
+
 if __name__ == "__main__":
     unittest.main()
