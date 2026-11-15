@@ -34,3 +34,12 @@ python scripts/validar.py --corpus 7 --estricto
 Consulta [CONTROL_CALIDAD_Y_REINTEGRACION.md](CONTROL_CALIDAD_Y_REINTEGRACION.md) y [COORDINACION_FINAL.md](COORDINACION_FINAL.md).
 
 **Aviso de distribución:** el proyecto es público por decisión del titular. Contiene textos originales de un videojuego comercial; no almacena ISOs, EBOOT, archivos EDAT ni claves de distribución. La publicación de los textos no implica una licencia comercial o redistribución otorgada por los titulares de derechos.
+
+
+## Parcheador experimental e ingeniería de inserción
+
+La implementación técnica del parcheador para ISO y cuatro DLC, los informes y **un documento por versión desde v0.1 hasta v0.14** están en [parcheador/](parcheador/README.md). Consulta [el historial de cambios](parcheador/CHANGELOG.md), [las fichas de versiones](parcheador/docs/versiones/) y [el estado de cobertura de las 26 258 unidades](parcheador/docs/ESTADO_100_POR_CIENTO.md).
+
+**Estado:** parche parcial experimental, no traducción validada al 100 %. La v0.13 incluye una opción para aplicar 197 reducciones estructuralmente comprobadas; la reubicación experimental del bytecode permanece aislada hasta las pruebas en PPSSPP. No se distribuyen ISO, EDAT ni otros recursos comerciales.
+
+El reubicador experimental [v0.14](parcheador/investigacion/v0.14/README.md) incorpora 489 inserciones estructuralmente validadas de `script*.dat` con prueba de reconstrucción ISO y DLC; no sustituye la GUI v0.13 ni acredita la traducción final.

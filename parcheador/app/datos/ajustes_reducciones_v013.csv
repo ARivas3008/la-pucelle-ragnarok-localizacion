@@ -1,0 +1,5 @@
+unit_id,propuesta_anterior,propuesta_v013,justificacion
+759,"¡Al ataque, hadas!","¡Al ataque!","Acción equivalente; texto en fuente de ancho completo limitado a 23 bytes"
+761,"¡Disparo conjunto +!","¡Salva +!","Salva conserva el sentido de disparo conjunto; + señala mejora"
+766,"Zarpa extensible","Zarpa larga","Zarpa larga conserva el significado funcional del ataque"
+1052,"¡Flonne gigante!","¡Flonne XL!","Flonne y tamaño extraordinario; se comprueba el espacio de fuente ancha"

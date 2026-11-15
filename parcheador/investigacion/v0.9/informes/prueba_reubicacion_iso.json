@@ -1,0 +1,16 @@
+{
+  "recurso": "/PSP_GAME/USRDIR/SCRIPTPACK.DAT",
+  "offset_anterior": 379191296,
+  "offset_nuevo": 858937344,
+  "bytes_anteriores": 2779759,
+  "bytes_nuevos": 2779759,
+  "old_talk_len": 152787,
+  "new_talk_len": 152827,
+  "changed_members": [
+    "talk01_jp.dat"
+  ],
+  "other_members_identical": true,
+  "start_lzs_identical": true,
+  "eboot_identical": true,
+  "test_type": "estructural_no_PPSSPP"
+}

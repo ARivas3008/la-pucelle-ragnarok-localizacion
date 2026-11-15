@@ -1,0 +1,40 @@
+name: Compilar parcheador Windows (experimental)
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'parcheador/**'
+      - '.github/workflows/build_parcheador.yml'
+      - 'data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv'
+permissions:
+  contents: read
+jobs:
+  compilar:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.23'
+      - name: Preparar MSVC para el compresor C++
+        uses: ilammy/msvc-dev-cmd@v1
+      - name: Compilar compresor NIS LZS desde fuentes
+        shell: cmd
+        working-directory: parcheador
+        run: cl /nologo /std:c++17 /EHsc /O2 /Fe:nis_lzs_pack.exe app\scripts\nis_lzs_pack.cpp
+      - name: Pruebas del motor de inserción
+        shell: pwsh
+        run: |
+          python -m unittest discover -s parcheador/app/tests -v
+          python -m unittest discover -s parcheador/investigacion/v0.12/tests -v
+      - name: Generar ejecutable independiente
+        shell: pwsh
+        run: python parcheador/build_release.py --packer-exe parcheador/nis_lzs_pack.exe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: LaPucelle-ES-v0.13-Windows-EXPERIMENTAL
+          path: parcheador/dist/*.exe
+          if-no-files-found: error

@@ -1,0 +1,21 @@
+{
+  "cantidad": 5,
+  "recursos": [
+    {
+      "recurso": "DLC_00/skill.dat",
+      "sha_original": "34360a3977c48163dd52a7301637372956ca20e4cd763958d632ab83d2cf1dee",
+      "sha_modificado": "74aeedc94a1edd672b43255fc6775a4340bbab64c0ab41f206587ed444af261e"
+    },
+    {
+      "recurso": "ISO_START/magic.dat",
+      "sha_original": "9018e9c5ea277ad1acd5f9a2a9d10120c3d5864a1ee45d8fe789166b8a138fe3",
+      "sha_modificado": "b19b85f6d89d31f71c47def7a76f7244ddf5c4021a4740852bfe3b8d16947917"
+    },
+    {
+      "recurso": "ISO_START/skill.dat",
+      "sha_original": "8df0acaff462429663138dc75773a709e1548d5d751ad0649a5283a9c8fc8944",
+      "sha_modificado": "99afb38263edc56fb8c08b6fe61723265151c1f086a888efffd096abe7beaf87"
+    }
+  ],
+  "advertencia": "Sin cotejo editorial ni PPSSPP"
+}
