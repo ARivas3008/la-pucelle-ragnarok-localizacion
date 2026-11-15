@@ -1,0 +1,53 @@
+#!/usr/bin/env python3
+"""Build reproducible GUI patcher from repository source (no game assets)."""
+from __future__ import annotations
+import argparse, io, os, subprocess, shutil, tarfile, gzip, hashlib
+from pathlib import Path
+
+ROOT=Path(__file__).resolve().parent
+MASTER=ROOT.parent/'data'/'maestros'/'04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv'
+VERSION='0.13.0'
+
+
+def make_resources(manifest:Path, packer:Path, dest:Path):
+    if not manifest.is_file() or not packer.is_file():
+        raise FileNotFoundError('Falta el manifiesto o el ejecutable de compresión Windows')
+    entries={}
+    for path in sorted((ROOT/'app').rglob('*')):
+        if not path.is_file():continue
+        rel=path.relative_to(ROOT/'app').as_posix()
+        if path.suffix in ('.pyc','.pyo') or '__pycache__' in rel.split('/'):
+            continue
+        if rel.startswith('tests/') or rel in ('datos/mapa_26258_unidades.csv','scripts/nis_lzs_pack','scripts/nis_lzs_pack.exe'):
+            continue
+        entries[rel]=path.read_bytes()
+    entries['datos/mapa_26258_unidades.csv']=manifest.read_bytes()
+    entries['scripts/nis_lzs_pack.exe']=packer.read_bytes()
+    with dest.open('wb') as outf:
+        # Buffered compression is deterministic: fixed timestamps and names.
+        with gzip.GzipFile(fileobj=outf,mode='wb',mtime=0,filename='') as gz:
+            with tarfile.open(fileobj=gz,mode='w|') as tf:
+                for rel,data in sorted(entries.items()):
+                    t=tarfile.TarInfo(rel);t.size=len(data);t.mtime=0;t.mode=0o644
+                    t.uid=t.gid=0;t.uname=t.gname=''
+                    tf.addfile(t,io.BytesIO(data))
+    return {'version':VERSION,'assets':len(entries),
+            'manifest_sha256':hashlib.sha256(entries['datos/mapa_26258_unidades.csv']).hexdigest(),
+            'packed_sha256':hashlib.sha256(dest.read_bytes()).hexdigest()}
+
+
+def main():
+    a=argparse.ArgumentParser()
+    a.add_argument('--packer-exe',type=Path,required=True,help='nis_lzs_pack.exe compilado desde scripts/nis_lzs_pack.cpp')
+    a.add_argument('--manifest',type=Path,default=MASTER)
+    a.add_argument('--out',type=Path,default=ROOT/'dist'/f'LaPucelle_Parcheador_ES_GUI_v{VERSION}.exe')
+    a.add_argument('--no-go',action='store_true',help='Sólo crea resources.tar.gz')
+    x=a.parse_args()
+    x.out.parent.mkdir(parents=True,exist_ok=True)
+    print(make_resources(x.manifest,x.packer_exe,ROOT/'resources.tar.gz'))
+    if not x.no_go:
+        env=os.environ.copy();env['GOOS']='windows';env['GOARCH']='amd64';env['CGO_ENABLED']='0'
+        subprocess.run(['go','build','-trimpath','-ldflags=-s -w -H=windowsgui','-o',str(x.out),'main.go'],cwd=ROOT,env=env,check=True)
+        print('EXE SHA256',hashlib.sha256(x.out.read_bytes()).hexdigest(),x.out)
+
+if __name__=='__main__':main()
