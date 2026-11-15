@@ -1,4 +1,4 @@
-// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.16.1-experimental.
+// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.17.0-qa.
 // No contiene el juego, DLC ni recursos comerciales: solo scripts y mapas.
 package main
 
@@ -26,7 +26,7 @@ import (
 //go:embed resources.tar.gz gui.ps1
 var resources embed.FS
 
-const version = "0.16.1-experimental"
+const version = "0.17.0-qa"
 const pythonDownload = "https://www.python.org/ftp/python/3.11.9/python-3.11.9-embed-amd64.zip"
 const maxDownload = 35 << 20
 
@@ -77,7 +77,7 @@ func workDir() (string, error) {
 			return "", err
 		}
 	}
-	return filepath.Join(base, "LaPucelleES", "app_v0_16_1_exp"), nil
+	return filepath.Join(base, "LaPucelleES", "app_v0_17_0_qa"), nil
 }
 func extractEmbedded(base string) error {
 	stamp := filepath.Join(base, ".version")
@@ -387,7 +387,7 @@ func runWorker(configPath string) (err error) {
         }
         stagedDLC := ""
         if cfg.DLC != "" {
-            stagedDLC = filepath.Join(cfg.Output, "v016_dlc_entrada")
+            stagedDLC = filepath.Join(cfg.Output, "v017_dlc_entrada")
             if e := os.MkdirAll(stagedDLC, 0755); e != nil { return e }
             for n:=0;n<4;n++ {
                 src := filepath.Join(cfg.Output, fmt.Sprintf("DL_JP_%02d_ES_PRELIMINAR.EDAT",n))
@@ -403,7 +403,7 @@ func runWorker(configPath string) (err error) {
             }
         }
         scriptPath := filepath.Join(base,"investigacion","v0.14","integrar_scripts_v014.py")
-        scriptOut := filepath.Join(cfg.Output,"v016_scripts_"+mode)
+        scriptOut := filepath.Join(cfg.Output,"v017_scripts_"+mode)
         inputs := []string{scriptPath,
             "--salida",scriptOut,
             "--manifiesto", filepath.Join(base,"datos","mapa_26258_unidades.csv"),
@@ -419,6 +419,36 @@ func runWorker(configPath string) (err error) {
         cmd2:=exec.Command(py,inputs...)
         cmd2.Dir=base;cmd2.Env=cmd.Env;cmd2.Stdout=os.Stdout;cmd2.Stderr=os.Stderr
         if e:=cmd2.Run();e!=nil {return fmt.Errorf("segunda fase de scripts falló: %w",e)}
+        // No mostrar como final la ISO preliminar sin integración de scripts.
+        finalDir:=filepath.Join(cfg.Output,"JUEGO_PARA_PPSSPP_V017")
+        if isDir(finalDir) {return fmt.Errorf("salida final %s ya existe; elige una carpeta de salida nueva",finalDir)}
+        if e:=os.MkdirAll(finalDir,0755);e!=nil {return e}
+        if cfg.ISO!="" {
+            source:=filepath.Join(scriptOut,"La_Pucelle_Ragnarok_ES_SCRIPT_V014_EXPERIMENTAL.iso")
+            target:=filepath.Join(finalDir,"La_Pucelle_Ragnarok_ES_V017_PRUEBA_PPSSPP.iso")
+            if !isFile(source) {return fmt.Errorf("no se generó ISO con scripts: %s",source)}
+            if e:=os.Rename(source,target);e!=nil {return fmt.Errorf("no se pudo preparar ISO final: %w",e)}
+            fmt.Println("ISO PARA PPSSPP:",target)
+        }
+        if cfg.DLC!="" {
+            dir:=filepath.Join(finalDir,"ULJS00244")
+            if e:=os.MkdirAll(dir,0755);e!=nil {return e}
+            for n:=0;n<4;n++ {
+                source:=filepath.Join(scriptOut,fmt.Sprintf("DLC_%02d_SCRIPT_V014_EXPERIMENTAL.EDAT",n))
+                target:=filepath.Join(dir,fmt.Sprintf("DL_JP_%02d.EDAT",n))
+                if !isFile(source) {return fmt.Errorf("no se generó DLC con scripts: %s",source)}
+                if e:=os.Rename(source,target);e!=nil {return fmt.Errorf("no se pudo preparar DLC final: %w",e)}
+                fmt.Println("DLC PARA PPSSPP:",target)
+            }
+        }
+        notes:="VERSION EXPERIMENTAL V017 PARA PROBAR EN PPSSPP\n"+
+            "Usar EXCLUSIVAMENTE los archivos de esta carpeta final para la prueba.\n"+
+            "Los archivos *_PRELIMINAR.* de la carpeta superior NO incluyen todos los scripts.\n"+
+            "Los originales nunca se sobrescriben. Guardar copias de partidas.\n"+
+            "NO se certifica ausencia de parpadeos, 100 por ciento ni jugabilidad completa.\n"+
+            "Revisar resumen.json, reporte_por_unidad.csv e informe_script_v014.csv.\n"
+        if e:=os.WriteFile(filepath.Join(finalDir,"LEEME_PRUEBA_PPSSPP.txt"),[]byte(notes),0644);e!=nil {return e}
+        fmt.Println("ARCHIVOS FINALES:",finalDir)
     }
     fmt.Println("Proceso completado. Revisa los informes; NINGUNA escena está certificada para PPSSPP.")
 	return nil
