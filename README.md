@@ -43,3 +43,8 @@ La implementación técnica del parcheador para ISO y cuatro DLC, los informes y
 **Estado:** parche parcial experimental, no traducción validada al 100 %. La v0.13 incluye una opción para aplicar 197 reducciones estructuralmente comprobadas; la reubicación experimental del bytecode permanece aislada hasta las pruebas en PPSSPP. No se distribuyen ISO, EDAT ni otros recursos comerciales.
 
 El reubicador experimental [v0.14](parcheador/investigacion/v0.14/README.md) incorpora 489 inserciones estructuralmente validadas de `script*.dat` con prueba de reconstrucción ISO y DLC; no sustituye la GUI v0.13 ni acredita la traducción final.
+
+
+## Método de localización reutilizable (rama experimental)
+
+La [rúbrica de diez fases](metodologia/RUBRICA_LOCALIZACION.md), los [scripts de corpus y presupuesto](metodologia/README.md) y la [ficha de metodología v1.0](metodologia/versiones/v1.0.md) se desarrollan **en una rama independiente**, sin modificar corpus ni recursos del juego.
