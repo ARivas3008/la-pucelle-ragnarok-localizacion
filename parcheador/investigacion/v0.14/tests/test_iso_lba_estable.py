@@ -7,7 +7,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
-sys.path.insert(0,str(Path(__file__).resolve().parents[3]/"v0.10"))
+sys.path.insert(0,str(Path(__file__).resolve().parents[2]/"v0.10"))
 from integrar_scripts_v014 import append_multiple_iso, Peligro
 from iso_reubicar import recorrer
 
