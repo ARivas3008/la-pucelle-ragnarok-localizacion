@@ -15,7 +15,7 @@ def script(texto, referencias=(3,)):
     n = 1 + len(referencias)
     indices = (0,) + referencias
     return struct.pack("<I", n) + struct.pack("<" + "I"*n, *indices) + (
-        b"\x32" + bytes([len(texto) + 1]) + texto + b"\0"
+        b"\x32" + bytes([len(texto) + 1]) + texto + b"\0" + bytes(8)
     )
 
 
