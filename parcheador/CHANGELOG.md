@@ -1,5 +1,7 @@
 # Registro de versiones del parcheador
 
+- [v0.17.1-qa — Corregir falta de DLC sin cambios y publicación final atómica](docs/versiones/v0.17.1.md) (pruebas Windows, PPSSPP pendiente)
+
 - [v0.17.0-qa — Paginación de diálogos, once unidades del tutorial y salida final para PPSSPP](docs/versiones/v0.17.md) (QA visual pendiente)
 
 - [v0.16 — GUI con segunda fase de scripts y ensayo de referencias CP932](docs/versiones/v0.16.md) (NO verificada en PPSSPP)

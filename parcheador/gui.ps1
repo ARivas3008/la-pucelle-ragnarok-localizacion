@@ -22,7 +22,7 @@ $font = [System.Drawing.Font]::new('Segoe UI', 10)
 $fontBold = [System.Drawing.Font]::new('Segoe UI', 10, [System.Drawing.FontStyle]::Bold)
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.17.0'
+$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.17.1'
 $form.ClientSize = [System.Drawing.Size]::new(860, 925)
 $form.MinimumSize = [System.Drawing.Size]::new(876, 965)
 $form.MaximumSize = [System.Drawing.Size]::new(1200, 1100)
@@ -80,7 +80,7 @@ $title.Location = [System.Drawing.Point]::new(26,20)
 $title.Size = [System.Drawing.Size]::new(800,40)
 $header.Controls.Add($title)
 $sub = New-Object System.Windows.Forms.Label
-$sub.Text = 'PARCHEADOR ESPANOL   |   ISO  /  DLC   |   VERSION EXPERIMENTAL 0.16.0'
+$sub.Text = 'PARCHEADOR ESPANOL   |   ISO  /  DLC   |   VERSION EXPERIMENTAL 0.17.1'
 $sub.Font = [System.Drawing.Font]::new('Segoe UI', 9)
 $sub.ForeColor = [System.Drawing.Color]::FromArgb(200,214,232)
 $sub.Location = [System.Drawing.Point]::new(28,70)
@@ -285,7 +285,7 @@ $timer.Add_Tick({
       $status.Text = 'Parcheo cancelado. Los originales no se modificaron.'
       $status.ForeColor = [System.Drawing.Color]::DarkOrange
     } elseif ($exitCode -eq 0) {
-      $status.Text = 'Proceso terminado. Usa JUEGO_PARA_PPSSPP_V017 (si activaste scripts).'
+      $status.Text = 'Proceso terminado. Usa JUEGO_PARA_PPSSPP_V0171 (si activaste scripts).'
       $status.ForeColor = $accent
       $detail = 'Se han creado archivos experimentales. Consulta resumen.json y reporte_por_unidad.csv. El parcheo no certifica que el juego se muestre completamente en espanol.'
       $summary = [System.IO.Path]::Combine($outBox.Text,'resumen.json')
@@ -299,7 +299,18 @@ $timer.Add_Tick({
     } else {
       $status.Text = "Error durante el parcheo (codigo $exitCode). Consulta el registro."
       $status.ForeColor = [System.Drawing.Color]::Firebrick
-      [System.Windows.Forms.MessageBox]::Show($form,'El parcheador termino con un error. Consulta el registro en pantalla y la carpeta de salida. No se han sobrescrito tus archivos originales.','Parcheo interrumpido',[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning) | Out-Null
+      $reason = 'Consulta el registro en pantalla y en la carpeta de salida.'
+      try {
+        if ([System.IO.File]::Exists($script:logFile)) {
+          $raw = [System.IO.File]::ReadAllText($script:logFile,[System.Text.Encoding]::UTF8)
+          $last = @($raw -split '[\r\n]+' | Where-Object { $_.StartsWith('ERROR:') } | Select-Object -Last 1)
+          if ($last.Count -gt 0 -and -not [string]::IsNullOrWhiteSpace($last[0])) {
+            $reason = [string]$last[0]
+            if ($reason.Length -gt 1200) {$reason = $reason.Substring(0,1200)}
+          }
+        }
+      } catch {}
+      [System.Windows.Forms.MessageBox]::Show($form,"Parcheo interrumpido (codigo $exitCode).`n`n$reason`n`nNo se han sobrescrito tus archivos originales.",'Parcheo interrumpido',[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning) | Out-Null
     }
   }
 })

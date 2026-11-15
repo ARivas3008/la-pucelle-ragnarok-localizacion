@@ -80,3 +80,8 @@ La v0.16.1 incorpora una segunda etapa opcional de scripts: `conservador` (v0.14
 ## Versión v0.17.0-qa — parche de incidencias aportadas por capturas
 
 La [v0.17](docs/versiones/v0.17.md) repara el rechazo de grupos paginados por separador `NUL 02 01` y agrega adaptaciones de cuatro grupos del tutorial (11 segmentos recuperados en ensayo de la ISO original), sin tocar los corpus aprobados. La GUI activa la etapa de scripts conservadores por defecto y separa la salida final en `JUEGO_PARA_PPSSPP_V017`; **no pruebes la ISO preliminar**. Hay [un informe de los diez fallos visibles](docs/QA_CAPTURAS_V017.md) que identifica estados abiertos, incluida la textura de capítulo 1, etiquetas de EBOOT y el parpadeo no comprobable desde capturas. No se declara localización completa.
+
+
+## v0.17.1 — Solución de «Parcheo interrumpido» al generar DLC_01
+
+La [ficha v0.17.1](docs/versiones/v0.17.1.md) explica por qué la segunda etapa solo genera DLC modificados: el GUI de v0.17 buscaba los cuatro nombres de salida incondicionalmente. La corrección usa el informe `resumen_script_v014.json`, conserva los DLC que no cambiaron, comprueba las cinco salidas y publica atómicamente `JUEGO_PARA_PPSSPP_V0171`. También muestra un mensaje de error más específico. No usar la carpeta parcial de v0.17 ni confundir una comprobación de archivos con QA visual.

@@ -1,4 +1,4 @@
-// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.17.0-qa.
+// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.17.1-qa.
 // No contiene el juego, DLC ni recursos comerciales: solo scripts y mapas.
 package main
 
@@ -26,7 +26,7 @@ import (
 //go:embed resources.tar.gz gui.ps1
 var resources embed.FS
 
-const version = "0.17.0-qa"
+const version = "0.17.1-qa"
 const pythonDownload = "https://www.python.org/ftp/python/3.11.9/python-3.11.9-embed-amd64.zip"
 const maxDownload = 35 << 20
 
@@ -77,7 +77,7 @@ func workDir() (string, error) {
 			return "", err
 		}
 	}
-	return filepath.Join(base, "LaPucelleES", "app_v0_17_0_qa"), nil
+	return filepath.Join(base, "LaPucelleES", "app_v0_17_1_qa"), nil
 }
 func extractEmbedded(base string) error {
 	stamp := filepath.Join(base, ".version")
@@ -419,39 +419,122 @@ func runWorker(configPath string) (err error) {
         cmd2:=exec.Command(py,inputs...)
         cmd2.Dir=base;cmd2.Env=cmd.Env;cmd2.Stdout=os.Stdout;cmd2.Stderr=os.Stderr
         if e:=cmd2.Run();e!=nil {return fmt.Errorf("segunda fase de scripts falló: %w",e)}
-        // No mostrar como final la ISO preliminar sin integración de scripts.
-        finalDir:=filepath.Join(cfg.Output,"JUEGO_PARA_PPSSPP_V017")
-        if isDir(finalDir) {return fmt.Errorf("salida final %s ya existe; elige una carpeta de salida nueva",finalDir)}
-        if e:=os.MkdirAll(finalDir,0755);e!=nil {return e}
-        if cfg.ISO!="" {
-            source:=filepath.Join(scriptOut,"La_Pucelle_Ragnarok_ES_SCRIPT_V014_EXPERIMENTAL.iso")
-            target:=filepath.Join(finalDir,"La_Pucelle_Ragnarok_ES_V017_PRUEBA_PPSSPP.iso")
-            if !isFile(source) {return fmt.Errorf("no se generó ISO con scripts: %s",source)}
-            if e:=os.Rename(source,target);e!=nil {return fmt.Errorf("no se pudo preparar ISO final: %w",e)}
-            fmt.Println("ISO PARA PPSSPP:",target)
-        }
-        if cfg.DLC!="" {
-            dir:=filepath.Join(finalDir,"ULJS00244")
-            if e:=os.MkdirAll(dir,0755);e!=nil {return e}
-            for n:=0;n<4;n++ {
-                source:=filepath.Join(scriptOut,fmt.Sprintf("DLC_%02d_SCRIPT_V014_EXPERIMENTAL.EDAT",n))
-                target:=filepath.Join(dir,fmt.Sprintf("DL_JP_%02d.EDAT",n))
-                if !isFile(source) {return fmt.Errorf("no se generó DLC con scripts: %s",source)}
-                if e:=os.Rename(source,target);e!=nil {return fmt.Errorf("no se pudo preparar DLC final: %w",e)}
-                fmt.Println("DLC PARA PPSSPP:",target)
-            }
-        }
-        notes:="VERSION EXPERIMENTAL V017 PARA PROBAR EN PPSSPP\n"+
-            "Usar EXCLUSIVAMENTE los archivos de esta carpeta final para la prueba.\n"+
-            "Los archivos *_PRELIMINAR.* de la carpeta superior NO incluyen todos los scripts.\n"+
-            "Los originales nunca se sobrescriben. Guardar copias de partidas.\n"+
-            "NO se certifica ausencia de parpadeos, 100 por ciento ni jugabilidad completa.\n"+
-            "Revisar resumen.json, reporte_por_unidad.csv e informe_script_v014.csv.\n"
-        if e:=os.WriteFile(filepath.Join(finalDir,"LEEME_PRUEBA_PPSSPP.txt"),[]byte(notes),0644);e!=nil {return e}
-        fmt.Println("ARCHIVOS FINALES:",finalDir)
+        finalDir,e:=prepareFinalDelivery(cfg,inputISO,stagedDLC,scriptOut)
+        if e!=nil {return fmt.Errorf("preparacion de ISO/DLC finales: %w",e)}
+        fmt.Println("ARCHIVOS FINALES VERIFICADOS:",finalDir)
+
     }
     fmt.Println("Proceso completado. Revisa los informes; NINGUNA escena está certificada para PPSSPP.")
 	return nil
+}
+
+// prepareFinalDelivery reúne las salidas de la segunda fase sin asumir que
+// todos los DLC hayan cambiado. Un DLC no modificado en v0.14 NO produce
+// archivo DLC_XX_SCRIPT_V014_EXPERIMENTAL.EDAT; se conserva el EDAT de v0.13.
+// El informe JSON del integrador es la autoridad para decidir cuál usar.
+// La carpeta final se publica atómicamente, una vez validados los 5 recursos.
+func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) (string, error) {
+    summaryPath := filepath.Join(scriptOut, "resumen_script_v014.json")
+    blob, e := os.ReadFile(summaryPath)
+    if e != nil { return "", fmt.Errorf("no se pudo leer el informe de scripts %s: %w",summaryPath,e) }
+    var report map[string]json.RawMessage
+    if e := json.Unmarshal(blob, &report); e != nil {
+        return "", fmt.Errorf("informe JSON de scripts inválido: %w",e)
+    }
+    type candidate struct { src, dest, key, status string }
+    tasks := make([]candidate,0,5)
+    selectSource := func(key, fallback string)(string,string,error) {
+        if value, exists := report[key]; exists {
+            var declared string
+            if e := json.Unmarshal(value,&declared);e!=nil || declared=="" {
+                return "","",fmt.Errorf("%s reporta una ruta inválida en %s",key,summaryPath)
+            }
+            if !isFile(declared) {
+                return "","",fmt.Errorf("%s fue declarado modificado, pero no existe %s",key,declared)
+            }
+            return declared,"reconstruido_con_scripts",nil
+        }
+        if fallback=="" || !isFile(fallback) {
+            return "","",fmt.Errorf("%s no fue reconstruido y falta la copia preliminar %s",key,fallback)
+        }
+        return fallback,"conservado_de_fase_preliminar_sin_cambios_de_scripts",nil
+    }
+    if cfg.ISO!="" {
+        src,status,e:=selectSource("iso",inputISO)
+        if e!=nil {return "",e}
+        tasks=append(tasks,candidate{src:src,dest:"La_Pucelle_Ragnarok_ES_V0171_PRUEBA_PPSSPP.iso",key:"ISO",status:status})
+    }
+    if cfg.DLC!="" {
+        for n:=0;n<4;n++ {
+            key:=fmt.Sprintf("DLC_%02d",n)
+            fallback:=filepath.Join(stagedDLC,fmt.Sprintf("DL_JP_%02d.EDAT",n))
+            src,status,e:=selectSource(key,fallback)
+            if e!=nil {return "",e}
+            tasks=append(tasks,candidate{src:src,dest:filepath.Join("ULJS00244",fmt.Sprintf("DL_JP_%02d.EDAT",n)),key:key,status:status})
+        }
+    }
+    if len(tasks)==0{return "",errors.New("no hay archivos ISO/DLC para entregar")}
+    // Prevalidar TODOS antes de crear cualquier archivo final.
+    for _,t:=range tasks {
+        st,e:=os.Stat(t.src)
+        if e!=nil || st.IsDir() || st.Size()==0 {
+            return "",fmt.Errorf("recurso final %s ausente, vacío o inaccesible: %s",t.key,t.src)
+        }
+    }
+    finalDir:=filepath.Join(cfg.Output,"JUEGO_PARA_PPSSPP_V0171")
+    staging:=finalDir+".en_construccion"
+    if _,e:=os.Stat(finalDir);e==nil {
+        return "",fmt.Errorf("ya existe %s; usa otra carpeta de salida para no mezclar versiones",finalDir)
+    } else if !errors.Is(e,os.ErrNotExist) {return "",e}
+    if _,e:=os.Stat(staging);e==nil {
+        return "",fmt.Errorf("quedó una salida incompleta en %s; elimínala después de revisar su contenido",staging)
+    } else if !errors.Is(e,os.ErrNotExist) {return "",e}
+    if e:=os.MkdirAll(staging,0755);e!=nil{return "",e}
+    defer os.RemoveAll(staging) // Solo se ejecuta sobre ruta temporal, nunca fuentes.
+    type record struct {
+        Recurso string `json:"recurso"`
+        Estado string `json:"estado"`
+        Nombre string `json:"nombre"`
+        Bytes int64 `json:"bytes"`
+    }
+    records:=make([]record,0,len(tasks))
+    for _,t:=range tasks {
+        dest:=filepath.Join(staging,t.dest)
+        if e:=os.MkdirAll(filepath.Dir(dest),0755);e!=nil{return "",e}
+        in,e:=os.Open(t.src);if e!=nil{return "",e}
+        out,e:=os.OpenFile(dest,os.O_CREATE|os.O_EXCL|os.O_WRONLY,0644)
+        if e!=nil {in.Close();return "",e}
+        n,e:=io.Copy(out,in)
+        inClose:=in.Close()
+        syncErr:=out.Sync()
+        closeErr:=out.Close()
+        if e!=nil{return "",fmt.Errorf("copiando %s: %w",t.key,e)}
+        if inClose!=nil{return "",inClose}
+        if syncErr!=nil{return "",syncErr}
+        if closeErr!=nil{return "",closeErr}
+        if n==0{return "",fmt.Errorf("copia vacía de %s",t.key)}
+        records=append(records,record{Recurso:t.key,Estado:t.status,Nombre:t.dest,Bytes:n})
+        fmt.Printf("PREPARADO %s: %s (%s, %d bytes)\n",t.key,t.dest,t.status,n)
+    }
+    details,e:=json.MarshalIndent(map[string]any{
+        "version":"0.17.1-qa",
+        "estado":"archivos entregados estructuralmente; PPSSPP NO validado",
+        "fuente_script":summaryPath,
+        "recursos":records,
+    },"","  ")
+    if e!=nil {return "",e}
+    if e:=os.WriteFile(filepath.Join(staging,"INFORME_ENTREGA_V0171.json"),details,0644);e!=nil{return "",e}
+    note:="La Pucelle ES v0.17.1 — SALIDA DE PRUEBAS PPSSPP\n"+
+        "Abrir la ISO de esta carpeta y copiar a PSP/GAME/ULJS00244 los DLC generados.\n"+
+        "Se conservó el DLC preliminar cuando la etapa de scripts no produjo cambios.\n"+
+        "Consulta INFORME_ENTREGA_V0171.json para conocer cada caso.\n"+
+        "No usar la ISO *_PRELIMINAR.iso; no se han sobrescrito originales.\n"+
+        "Esta compilación no certifica el 100% de traducción ni ausencia de fallos visuales.\n"
+    if e:=os.WriteFile(filepath.Join(staging,"LEEME_PRUEBA_PPSSPP.txt"),[]byte(note),0644);e!=nil{return "",e}
+    if e:=os.Rename(staging,finalDir);e!=nil {
+        return "",fmt.Errorf("no se pudo confirmar la carpeta final: %w",e)
+    }
+    return finalDir,nil
 }
 
 func selfTest() error {
