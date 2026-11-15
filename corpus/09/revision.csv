@@ -616,13 +616,13 @@
 9564,¡Acaben con los herejes!,revisado,"Imperativo de la milicia, plural de tratamiento congruente con el resto.",
 9565,"Prier, ya sabes lo que tenemos que hacer, ¿verdad?",revisado,Segunda lectura contextual; español adaptado al registro del personaje.,
 9566,Estas personas...,revisado,Segunda lectura contextual; español adaptado al registro del personaje.,
-9567,"¡Lo sé! ¡Me hierve la sangre, pero no les haré...!",requiere_investigacion,"Original «I know! It burns me up, but I will not hurt» se corta antes de objeto; no se puede asegurar la separación de la réplica siguiente.",
-9568,¡No merece la pena malgastar fuerzas con ellos! ¡Tenemos que salvar a Angelique!,requiere_investigacion,"Original comienza «to waste on them anyway!», remanente de la frase anterior; el borrador «desperdicio de dinero» es MTL errónea. Reconstrucción provisional, requiere cotejo.",
+9567,"¡Lo sé! ¡Me hierve la sangre, pero no les haré daño!",revisado,"REVISIÓN EDITORIAL Y TÉCNICA: COTEJO RESUELTO: «I know! It burns me up, but I won't hurt them!» es una intervención de Prier; «them» alude a los perseguidores a quienes no quiere combatir. La fuente fragmentaria acababa en «hurt», pero el guion independiente conserva «them!». No hay cambio de interlocutor en esta fila. El recurso de origen conserva alerta de extracción; aprobación lingüística no autoriza inserción binaria sin QA de unidades.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9568,¡No tenemos tiempo que perder con ellos! ¡Tenemos que salvar a Angelique!,revisado,"REVISIÓN EDITORIAL Y TÉCNICA: COTEJO RESUELTO: el comienzo perdido antes de «to waste on them anyway» es «We don't have time», seguido de «We've got to save Angelique!!». Ambas oraciones son de Prier y continúan el grupo 9567. El recurso de origen conserva alerta de extracción; aprobación lingüística no autoriza inserción binaria sin QA de unidades.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9569,¡An... ge... lique!,revisado,Nombre propio pronunciado con dificultad; no convertir en «Ungélico».,
 9570,¡Mantente alejado!,revisado,Segunda lectura contextual; español adaptado al registro del personaje. Segunda lectura editorial: se evitó conservar sin cambios la formulación automática mediante una adaptación contextual.,
 9571,¡Tú también acabarás metido en esto!,revisado,Segunda lectura contextual; español adaptado al registro del personaje.,
 9572,La Diosa velará por mí.,revisado,Segunda lectura contextual; español adaptado al registro del personaje. Segunda lectura editorial: se evitó conservar sin cambios la formulación automática mediante una adaptación contextual.,
-9573,¿¡De qué hablas!? Ni siquiera la Diosa puede...,requiere_investigacion,El comienzo «about?!» carece de verbo anterior; el final «cannot...» también queda sin predicado. No completar el contenido.,
+9573,¿¡Pero qué estás diciendo!? ¡Ni siquiera la Diosa puede...!,revisado,REVISIÓN EDITORIAL Y TÉCNICA: COTEJO RESUELTO: el guion atribuye a Prier «What are you talking about?! Even the Goddess can't...». El comienzo omitido antes de «about?!» es recuperable y el final está deliberadamente suspendido cuando interviene Angelique. El recurso de origen conserva alerta de extracción; aprobación lingüística no autoriza inserción binaria sin QA de unidades.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9574,¡Por favor! ¡No quiero que te hagan daño!,revisado,Segunda lectura contextual; español adaptado al registro del personaje.,
 9575,¡Pero...!,revisado,Segunda lectura contextual; español adaptado al registro del personaje.,
 9576,¡Huye! ¡Date prisa!,revisado,Segunda lectura contextual; español adaptado al registro del personaje.,
@@ -800,7 +800,7 @@
 9860,¡Tú!,revisado,Revisión editorial a partir del original y del contexto anterior/posterior.,
 9861,"Éclair, Culotte...",revisado,Conservar tildes y grafía oficial de nombres propios.,
 9862,Ve a reunirte con Hermes.,revisado,APROBACIÓN EDITORIAL INDEPENDIENTE: Orden de desplazarse a visitar a Hermes en la escena anterior a la confrontación. «Reunirte con» transmite «go and see» sin presuponer lugar específico.,
-9863,¡No podemos marcharnos así!,requiere_investigacion,"El original se reduce a «off!!». La transcripción externa contiene «We can't just take off!!»; reconstrucción propuesta, pero hay pérdida de texto en extracción y debe cotejarse.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9863,¡No podemos irnos así!,revisado,"REVISIÓN EDITORIAL Y TÉCNICA: COTEJO RESUELTO: la unidad contiene solo «off!!», pero el guion atribuye a Éclair la oración «We can't just take off!!» al recibir la orden de abandonar a Homard. Se localiza «take off» como marcharse y no como apagarse. El recurso de origen conserva alerta de extracción; aprobación lingüística no autoriza inserción binaria sin QA de unidades.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9864,¿Estás preocupada por mí?,revisado,"Homard provoca a Éclair, por eso se usa femenino.",
 9865,"N-no, pero...",revisado,Conservar tartamudeo de Éclair y vacilación.,
 9866,¡Te he dicho que te vayas!,revisado,Homard reafirma la orden con énfasis.,
@@ -831,7 +831,7 @@
 9891,"¡Jo, jo, jo...!",revisado,"Risa burlona, mismo criterio de 9872.",
 9892,Mucha palabrería...,revisado,"«You talk big» es jactancia, no mera cantidad de habla.",
 9893,Pero ¿podrás demostrarlo?,revisado,Provocación de Veloute.,
-9894,Suena a desafío.,requiere_investigacion,Original extraído solo «challenge.»; el guion contiene «That sounds like a challenge» pero deben verificarse los bytes y límites.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+9894,¡Eso suena a un desafío!,revisado,"REVISIÓN EDITORIAL Y TÉCNICA: COTEJO RESUELTO: «challenge.» es el final de la réplica completa de Homard «That sounds like a challenge», registrada entre la provocación de Veloute y la amenaza de despedazarlo. Traducción cerrada y con sujeto identificado. El recurso de origen conserva alerta de extracción; aprobación lingüística no autoriza inserción binaria sin QA de unidades.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 9895,¡Estoy deseando hacerte pedazos!,revisado,Respuesta desafiante de Homard.,
 9896,¡Aaaaaaargh!,revisado,Grito de ataque sin traducción semántica.,
 9897,Hermes dijo que despertaría nuestro potencial oculto. ¿Qué crees que se propone?,revisado,"Pregunta de Culotte a Éclair, naturaliza «what he has in mind».",
