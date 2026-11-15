@@ -82,7 +82,7 @@ copias ISO + 4 EDAT, informes por unidad, SHA y pruebas de reversión
 PPSSPP: escena, timing, HUD, guardado, DLC, screenshots, revisión final
 ```
 
-La **v0.16.1 en preparación** añade un aislamiento fundamental: una referencia rechazada **no** puede cancelar la escritura de textos no relacionados del mismo script.
+La **v0.16.1 experimental** añade un aislamiento fundamental: una referencia rechazada **no** puede cancelar la escritura de textos no relacionados del mismo script.
 
 ## 5. Lo que NO se sabe todavía
 
