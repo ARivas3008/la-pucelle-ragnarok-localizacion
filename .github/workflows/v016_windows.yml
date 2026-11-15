@@ -1,0 +1,45 @@
+name: v0.16 Windows EXE experimental
+on:
+  push:
+    branches:
+      - desarrollo/parcheador-v0.16-referencias
+  pull_request:
+    paths:
+      - 'parcheador/**'
+      - '.github/workflows/v016_windows.yml'
+  workflow_dispatch:
+
+jobs:
+  windows-v016:
+    runs-on: windows-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: ilammy/msvc-dev-cmd@v1
+      - name: Comprobar la reubicación sin contenidos del juego
+        shell: pwsh
+        run: |
+          python -m unittest discover -s parcheador/app/tests -v
+          python -m unittest discover -s parcheador/investigacion/v0.14/tests -v
+          python -m unittest discover -s parcheador/investigacion/v0.16/tests -v
+      - name: Construir compresor original
+        shell: pwsh
+        run: |
+          cl /std:c++17 /EHsc /O2 /Fe:nis_lzs_pack.exe parcheador\app\scripts\nis_lzs_pack.cpp
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+      - name: Generar parcheador Windows v0.16
+        shell: pwsh
+        run: |
+          python parcheador/build_release.py --packer-exe .\nis_lzs_pack.exe
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+          Get-FileHash parcheador/dist/*.exe -Algorithm SHA256 | Format-Table
+      - uses: actions/upload-artifact@v4
+        with:
+          name: LaPucelle-Parcheador-v016-Windows-EXPERIMENTAL
+          path: parcheador/dist/*.exe
+          if-no-files-found: error
+          retention-days: 30
