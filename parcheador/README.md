@@ -73,3 +73,5 @@ La v0.16.1 incorpora una segunda etapa opcional de scripts: `conservador` (v0.14
 
 
 **Forensia ampliada:** [inventario físico de ISO/DLC](docs/INVENTARIO_FISICO_V016.md) · [retorno de las 14 referencias](investigacion/v0.16/MATRIZ_RETEST_14.md). El modo fase ahora preserva las 489 ediciones conservadoras aunque una referencia no supere la prueba; véase [ficha de versión](docs/versiones/v0.16.md).
+
+[Descargar EXE experimental v0.16.1 desde GitHub Releases](https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/releases/tag/v0.16.1-experimental) · [Estado editorial actual observado](docs/ESTADO_EDITORIAL_OBSERVADO_2026-11-15.md). El EXE se publica separado de los recursos comerciales y no es release validada en PPSSPP.
