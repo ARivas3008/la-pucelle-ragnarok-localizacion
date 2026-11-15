@@ -1,0 +1,10 @@
+{
+  "objetivo": "v0.12 abreviaciones compatibles en originales sin haber aplicado otras traducciones",
+  "total_candidatos": 197,
+  "conteos": {
+    "APLICADO_REDUCCION_ESTRUCTURAL": 145,
+    "APLICADO_REDUCCION_EBOOT": 52
+  },
+  "motivos_rechazo": [],
+  "alcance": "Prueba de bytes; NO verificación visual PPSSPP"
+}
