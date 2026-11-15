@@ -22,7 +22,7 @@ $font = [System.Drawing.Font]::new('Segoe UI', 10)
 $fontBold = [System.Drawing.Font]::new('Segoe UI', 10, [System.Drawing.FontStyle]::Bold)
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.16.1'
+$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.17.0'
 $form.ClientSize = [System.Drawing.Size]::new(860, 925)
 $form.MinimumSize = [System.Drawing.Size]::new(876, 965)
 $form.MaximumSize = [System.Drawing.Size]::new(1200, 1100)
@@ -180,10 +180,10 @@ $reductions.Size = [System.Drawing.Size]::new(780,26)
 $reductions.Checked = $false
 $form.Controls.Add($reductions)
 $scripts = New-Object System.Windows.Forms.CheckBox
-$scripts.Text = 'Integrar scripts de eventos v0.14 (489 candidatos conservadores; NO validados en PPSSPP)'
+$scripts.Text = 'Integrar scripts de eventos y crear carpeta FINAL para PPSSPP (recomendado)'
 $scripts.Location = [System.Drawing.Point]::new(32,602)
 $scripts.Size = [System.Drawing.Size]::new(800,26)
-$scripts.Checked = $false
+$scripts.Checked = $true
 $form.Controls.Add($scripts)
 $scriptPhase = New-Object System.Windows.Forms.CheckBox
 $scriptPhase.Text = 'v0.16: ENSAYO de las 14 referencias CP932 (riesgo de escenas; NO release)'
@@ -285,7 +285,7 @@ $timer.Add_Tick({
       $status.Text = 'Parcheo cancelado. Los originales no se modificaron.'
       $status.ForeColor = [System.Drawing.Color]::DarkOrange
     } elseif ($exitCode -eq 0) {
-      $status.Text = 'Proceso terminado. Consulta la carpeta de salida y el informe.'
+      $status.Text = 'Proceso terminado. Usa JUEGO_PARA_PPSSPP_V017 (si activaste scripts).'
       $status.ForeColor = $accent
       $detail = 'Se han creado archivos experimentales. Consulta resumen.json y reporte_por_unidad.csv. El parcheo no certifica que el juego se muestre completamente en espanol.'
       $summary = [System.IO.Path]::Combine($outBox.Text,'resumen.json')
