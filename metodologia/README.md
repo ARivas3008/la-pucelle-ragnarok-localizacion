@@ -2,6 +2,10 @@
 
 Esta rama convierte las lecciones del proyecto La Pucelle: Ragnarok en una **rúbrica replicable, auditable y paralelizable**. No sustituye ni modifica los 15 corpus ni los binarios del juego. Está pensada para empezar un proyecto nuevo y evitar repetir meses de investigación manual.
 
+## Versión 1.1: puente MTL contextual
+
+[Guía y comandos v1.1](versiones/v1.1.md) · [exportación de peticiones MTL y validación de borradores](scripts/preparar_mtl_contextual.py). No necesita servicio conectado ni altera los corpus: prepara JSONL por escena/grupo y recibe las respuestas con IDs verificados; ningún borrador se aprueba automáticamente.
+
 ## Cómo usarlo
 
 1. Lee [RÚBRICA DE LOCALIZACIÓN](RUBRICA_LOCALIZACION.md) para el proceso completo y sus puertas de calidad.
@@ -37,4 +41,4 @@ Congelar formatos y glosario antes de distribuir, automatizar extracción, lotes
 
 ## Control de versiones
 
-[Metodología v1.0](versiones/v1.0.md): primer flujo repetible y su QA. Cada ampliación deberá adjuntar una ficha de versión y registrar cambios, riesgos y pruebas.
+[Metodología v1.0](versiones/v1.0.md) · [Metodología v1.1](versiones/v1.1.md): primer flujo repetible y su QA. Cada ampliación deberá adjuntar una ficha de versión y registrar cambios, riesgos y pruebas.
