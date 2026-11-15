@@ -1,5 +1,7 @@
 # Registro de versiones del parcheador
 
+- [v0.17.0-qa — Paginación de diálogos, once unidades del tutorial y salida final para PPSSPP](docs/versiones/v0.17.md) (QA visual pendiente)
+
 - [v0.16 — GUI con segunda fase de scripts y ensayo de referencias CP932](docs/versiones/v0.16.md) (NO verificada en PPSSPP)
 
 Cada versión tiene un documento propio en `docs/versiones/`. **Las métricas históricas provienen de sus respectivos paquetes; no equivalen a pruebas actuales en PPSSPP.**
