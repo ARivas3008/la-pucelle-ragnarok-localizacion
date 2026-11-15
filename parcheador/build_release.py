@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT=Path(__file__).resolve().parent
 MASTER=ROOT.parent/'data'/'maestros'/'04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv'
-VERSION='0.17.3-lba-qa'
+VERSION='0.17.4-sector-qa'
 
 
 def make_resources(manifest:Path, packer:Path, dest:Path):
