@@ -69,4 +69,7 @@ El complemento [v0.14](investigacion/v0.14/README.md) inserta experimentalmente 
 
 ## Versión experimental v0.16
 
-La v0.16 incorpora una segunda etapa opcional de scripts: `conservador` (v0.14) y `fase` (ensayo CP932 que preserva segundo byte cuando existe candidato próximo). **No se afirma cobertura del 100 %**: en los originales facilitados se reprodujeron 15 anclas en 14 unidades, pero solo 4 de esas unidades dieron candidatos cercanos con el texto propuesto; el modo `fase` rechaza los 10 restantes. Ningún modo sustituye el QA con PPSSPP. Consulta [v0.16](docs/versiones/v0.16.md). El EXE se compila como artefacto de GitHub Actions, no contiene juegos ni DLC.
+La v0.16.1 incorpora una segunda etapa opcional de scripts: `conservador` (v0.14) y `fase` (ensayo CP932 que preserva segundo byte cuando existe candidato próximo). **No se afirma cobertura del 100 %**: en los originales facilitados se reprodujeron 15 anclas en 14 unidades, pero 4 de esas unidades dieron candidatos teóricos cercanos; la reconstrucción real de v0.16.1 acepta **3 candidatos experimentales** (1758, 3924, 4170) y bloquea **11** (incluida 1759 por índice inválido). Ningún modo sustituye el QA con PPSSPP. Consulta [v0.16](docs/versiones/v0.16.md). El EXE v0.16.1 se compila y somete a autotest como artefacto de GitHub Actions, no contiene juegos ni DLC.
+
+
+**Forensia ampliada:** [inventario físico de ISO/DLC](docs/INVENTARIO_FISICO_V016.md) · [retorno de las 14 referencias](investigacion/v0.16/MATRIZ_RETEST_14.md). El modo fase ahora preserva las 489 ediciones conservadoras aunque una referencia no supere la prueba; véase [ficha de versión](docs/versiones/v0.16.md).
