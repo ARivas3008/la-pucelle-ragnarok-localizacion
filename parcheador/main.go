@@ -1,4 +1,4 @@
-// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.17.1-qa.
+// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.17.2-diagnostico.
 // No contiene el juego, DLC ni recursos comerciales: solo scripts y mapas.
 package main
 
@@ -26,7 +26,7 @@ import (
 //go:embed resources.tar.gz gui.ps1
 var resources embed.FS
 
-const version = "0.17.1-qa"
+const version = "0.17.2-diagnostico"
 const pythonDownload = "https://www.python.org/ftp/python/3.11.9/python-3.11.9-embed-amd64.zip"
 const maxDownload = 35 << 20
 
@@ -77,7 +77,7 @@ func workDir() (string, error) {
 			return "", err
 		}
 	}
-	return filepath.Join(base, "LaPucelleES", "app_v0_17_1_qa"), nil
+	return filepath.Join(base, "LaPucelleES", "app_v0_17_2_diag"), nil
 }
 func extractEmbedded(base string) error {
 	stamp := filepath.Join(base, ".version")
@@ -264,6 +264,7 @@ type GUIConfig struct {
 	DLC           string `json:"dlc"`
 	Output        string `json:"output"`
 	FontOnly      bool   `json:"fontOnly"`
+	PreserveEBOOT bool  `json:"preserveEboot"`
 	Investigation bool   `json:"investigation"`
 	Segment       bool   `json:"segment"`
 	Atlas         bool   `json:"atlas"`
@@ -354,8 +355,13 @@ func runWorker(configPath string) (err error) {
 	if cfg.Segment && !cfg.FontOnly {
 		args = append(args, "--segmentar-conservador")
 	}
+	if cfg.Atlas && cfg.PreserveEBOOT {return errors.New("No puedes activar atlas UI y conservar EBOOT simultáneamente en el diagnóstico")}
 	if cfg.Atlas {
 		args = append(args, "--atlas-ui")
+	}
+	if cfg.PreserveEBOOT && !cfg.FontOnly {
+		args = append(args, "--conservar-eboot")
+		fmt.Println("DIAGNÓSTICO VISUAL: conservar EBOOT original; algunas etiquetas de interfaz no se traducirán")
 	}
 	if cfg.Reductions && !cfg.FontOnly {
 		args = append(args, "--reducciones-verificadas")
@@ -517,7 +523,7 @@ func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) 
         fmt.Printf("PREPARADO %s: %s (%s, %d bytes)\n",t.key,t.dest,t.status,n)
     }
     details,e:=json.MarshalIndent(map[string]any{
-        "version":"0.17.1-qa",
+        "version":"0.17.2-diagnostico",
         "estado":"archivos entregados estructuralmente; PPSSPP NO validado",
         "fuente_script":summaryPath,
         "recursos":records,
