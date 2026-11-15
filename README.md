@@ -67,3 +67,8 @@ La rama `desarrollo/parcheador-v0.17-qa-dialogos` incorpora [correcciones verifi
 ### v0.17.1-qa — Corrección de entrega de DLC sin cambios
 
 La v0.17 podía fallar al encontrar un DLC que no necesitaba reconstrucción durante la segunda fase, y dejar una carpeta PPSSPP incompleta. La [v0.17.1](parcheador/docs/versiones/v0.17.1.md) conserva esos DLC desde la salida preliminar, valida la ISO y los cuatro EDAT antes de publicar `JUEGO_PARA_PPSSPP_V0171` y registra su procedencia. No implica un 100 % de traducción ni resuelve los parpadeos observados. El ejecutable Windows se compila en una rama experimental con pruebas de regresión.
+
+
+### v0.17.2-diagnóstico — Nueve capturas de corrupción visual en PPSSPP
+
+La rama `desarrollo/parcheador-v0.17.2-diagnostico-graficos` incorpora [la matriz de fallos de pantalla](parcheador/docs/QA_VISUAL_V0172.md), un modo temporal de conservar EBOOT/atlas para pruebas A/B, auditor de integridad de texturas y tres adaptaciones de diálogo de los grupos 5056, 5064 y 5072. **No se acredita la eliminación de fallos visuales**, ni una traducción 100 % jugable; usar únicamente como diagnóstico con ISO y DLC originales propios. [Ficha v0.17.2](parcheador/docs/versiones/v0.17.2.md).

@@ -1,4 +1,4 @@
-// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.17.1-qa.
+// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.17.2-diagnostico.
 // No contiene el juego, DLC ni recursos comerciales: solo scripts y mapas.
 package main
 
@@ -26,7 +26,7 @@ import (
 //go:embed resources.tar.gz gui.ps1
 var resources embed.FS
 
-const version = "0.17.1-qa"
+const version = "0.17.2-diagnostico"
 const pythonDownload = "https://www.python.org/ftp/python/3.11.9/python-3.11.9-embed-amd64.zip"
 const maxDownload = 35 << 20
 
@@ -77,7 +77,7 @@ func workDir() (string, error) {
 			return "", err
 		}
 	}
-	return filepath.Join(base, "LaPucelleES", "app_v0_17_1_qa"), nil
+	return filepath.Join(base, "LaPucelleES", "app_v0_17_2_diag"), nil
 }
 func extractEmbedded(base string) error {
 	stamp := filepath.Join(base, ".version")
@@ -264,6 +264,7 @@ type GUIConfig struct {
 	DLC           string `json:"dlc"`
 	Output        string `json:"output"`
 	FontOnly      bool   `json:"fontOnly"`
+	PreserveEBOOT bool  `json:"preserveEboot"`
 	Investigation bool   `json:"investigation"`
 	Segment       bool   `json:"segment"`
 	Atlas         bool   `json:"atlas"`
@@ -354,8 +355,13 @@ func runWorker(configPath string) (err error) {
 	if cfg.Segment && !cfg.FontOnly {
 		args = append(args, "--segmentar-conservador")
 	}
+	if cfg.Atlas && cfg.PreserveEBOOT {return errors.New("No puedes activar atlas UI y conservar EBOOT simultáneamente en el diagnóstico")}
 	if cfg.Atlas {
 		args = append(args, "--atlas-ui")
+	}
+	if cfg.PreserveEBOOT && !cfg.FontOnly {
+		args = append(args, "--conservar-eboot")
+		fmt.Println("DIAGNÓSTICO VISUAL: conservar EBOOT original; algunas etiquetas de interfaz no se traducirán")
 	}
 	if cfg.Reductions && !cfg.FontOnly {
 		args = append(args, "--reducciones-verificadas")
@@ -462,7 +468,7 @@ func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) 
     if cfg.ISO!="" {
         src,status,e:=selectSource("iso",inputISO)
         if e!=nil {return "",e}
-        tasks=append(tasks,candidate{src:src,dest:"La_Pucelle_Ragnarok_ES_V0171_PRUEBA_PPSSPP.iso",key:"ISO",status:status})
+        tasks=append(tasks,candidate{src:src,dest:"La_Pucelle_Ragnarok_ES_V0172_PRUEBA_PPSSPP.iso",key:"ISO",status:status})
     }
     if cfg.DLC!="" {
         for n:=0;n<4;n++ {
@@ -481,7 +487,7 @@ func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) 
             return "",fmt.Errorf("recurso final %s ausente, vacío o inaccesible: %s",t.key,t.src)
         }
     }
-    finalDir:=filepath.Join(cfg.Output,"JUEGO_PARA_PPSSPP_V0171")
+    finalDir:=filepath.Join(cfg.Output,"JUEGO_PARA_PPSSPP_V0172")
     staging:=finalDir+".en_construccion"
     if _,e:=os.Stat(finalDir);e==nil {
         return "",fmt.Errorf("ya existe %s; usa otra carpeta de salida para no mezclar versiones",finalDir)
@@ -517,17 +523,18 @@ func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) 
         fmt.Printf("PREPARADO %s: %s (%s, %d bytes)\n",t.key,t.dest,t.status,n)
     }
     details,e:=json.MarshalIndent(map[string]any{
-        "version":"0.17.1-qa",
+        "version":"0.17.2-diagnostico",
         "estado":"archivos entregados estructuralmente; PPSSPP NO validado",
         "fuente_script":summaryPath,
+        "diagnostico_conservar_eboot":cfg.PreserveEBOOT,
         "recursos":records,
     },"","  ")
     if e!=nil {return "",e}
-    if e:=os.WriteFile(filepath.Join(staging,"INFORME_ENTREGA_V0171.json"),details,0644);e!=nil{return "",e}
-    note:="La Pucelle ES v0.17.1 — SALIDA DE PRUEBAS PPSSPP\n"+
+    if e:=os.WriteFile(filepath.Join(staging,"INFORME_ENTREGA_V0172.json"),details,0644);e!=nil{return "",e}
+    note:="La Pucelle ES v0.17.2 — SALIDA DE PRUEBAS PPSSPP\n"+
         "Abrir la ISO de esta carpeta y copiar a PSP/GAME/ULJS00244 los DLC generados.\n"+
         "Se conservó el DLC preliminar cuando la etapa de scripts no produjo cambios.\n"+
-        "Consulta INFORME_ENTREGA_V0171.json para conocer cada caso.\n"+
+        "Consulta INFORME_ENTREGA_V0172.json para conocer cada caso.\n"+
         "No usar la ISO *_PRELIMINAR.iso; no se han sobrescrito originales.\n"+
         "Esta compilación no certifica el 100% de traducción ni ausencia de fallos visuales.\n"
     if e:=os.WriteFile(filepath.Join(staging,"LEEME_PRUEBA_PPSSPP.txt"),[]byte(note),0644);e!=nil{return "",e}

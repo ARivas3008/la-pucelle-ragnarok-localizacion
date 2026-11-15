@@ -1,0 +1,109 @@
+name: v0.17.2 Windows EXE diagnóstico de gráficos
+on:
+  push:
+    branches:
+      - desarrollo/parcheador-v0.17.2-diagnostico-graficos
+  pull_request:
+    paths:
+      - 'parcheador/**'
+      - '.github/workflows/v0172_windows.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: v0172-release-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  windows-v0172:
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: ilammy/msvc-dev-cmd@v1
+      - name: Comprobar la reubicación sin contenidos del juego
+        shell: pwsh
+        run: |
+          python -m unittest discover -s parcheador/app/tests -v
+          python -m unittest discover -s parcheador/investigacion/v0.14/tests -v
+          python -m unittest discover -s parcheador/investigacion/v0.16/tests -v
+          python -m unittest discover -s parcheador/investigacion/v0.17/tests -v
+          python -m py_compile parcheador/investigacion/v0.17/qa_integridad_graficos.py
+      - name: Construir compresor original
+        shell: pwsh
+        run: |
+          cl /std:c++17 /EHsc /O2 /Fe:nis_lzs_pack.exe parcheador\app\scripts\nis_lzs_pack.cpp
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+      - name: Generar parcheador Windows v0.17
+        shell: pwsh
+        run: |
+          python parcheador/build_release.py --packer-exe .\nis_lzs_pack.exe
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+          Get-FileHash parcheador/dist/*.exe -Algorithm SHA256 | Format-Table
+      - name: Probar entrega de ISO y cuatro DLC, con y sin modificaciones
+        shell: pwsh
+        run: |
+          Push-Location parcheador
+          go test main.go main_test.go -v
+          $code = $LASTEXITCODE
+          Pop-Location
+          if ($code -ne 0) { exit $code }
+      - name: Verificar dependencias integradas y ausencia de recursos comerciales
+        shell: pwsh
+        run: |
+          @'
+          import tarfile
+          with tarfile.open("parcheador/resources.tar.gz", "r:gz") as tar:
+              entries=set(tar.getnames())
+          needed={"app/scripts/construir_parche.py",
+                  "app/scripts/segmentacion.py",
+                  "app/scripts/integracion_v013.py",
+                  "app/scripts/subtitulos_script.py",
+                  "app/scripts/atlas_ui_es.py",
+                  "investigacion/v0.14/integrar_scripts_v014.py",
+                  "investigacion/v0.12/reubicador_anclas_v012.py",
+                  "datos/mapa_26258_unidades.csv",
+                  "scripts/nis_lzs_pack.exe"}
+          missing=needed-entries
+          assert not missing, f"Dependencias faltantes: {sorted(missing)}"
+          assert not any(x.lower().endswith((".iso",".edat",".lzs"))
+                         for x in entries), "Se ha empaquetado material comercial"
+          print("OK: dependencias completas y sin ISO/EDAT/LZS")
+          '@ | python -
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+      - name: Autotest de ejecutable Windows
+        shell: pwsh
+        run: |
+          $exe = (Get-ChildItem parcheador/dist/*.exe | Select-Object -First 1).FullName
+          $proc = Start-Process -FilePath $exe -ArgumentList "--self-test" -Wait -PassThru
+          if ($proc.ExitCode -ne 0) { throw "Autotest EXE falló con código $($proc.ExitCode)" }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: LaPucelle-Parcheador-v0172-Windows-DIAGNOSTICO
+          path: parcheador/dist/*.exe
+          if-no-files-found: error
+          retention-days: 30
+      - name: Publicar prerelease experimental de herramienta (no juego)
+        if: github.event_name == 'push' && github.ref == 'refs/heads/desarrollo/parcheador-v0.17.2-diagnostico-graficos'
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $file = (Get-ChildItem parcheador/dist/*.exe | Select-Object -First 1).FullName
+          gh release view v0.17.2-diagnostico --repo $env:GITHUB_REPOSITORY 2>$null
+          if ($LASTEXITCODE -eq 0) {
+            $assets = @(gh release view v0.17.2-diagnostico --repo $env:GITHUB_REPOSITORY --json assets --jq '.assets[].name')
+            if ($LASTEXITCODE -ne 0) { throw "No se pudo consultar los assets de la prerelease" }
+            if ($assets -contains [System.IO.Path]::GetFileName($file)) {
+              Write-Host "EXE experimental ya publicado; no sobrescribirlo en una carrera de CI."
+            } else {
+              gh release upload v0.17.2-diagnostico $file --repo $env:GITHUB_REPOSITORY
+            }
+          } else {
+            gh release create v0.17.2-diagnostico $file --repo $env:GITHUB_REPOSITORY --target $env:GITHUB_SHA --prerelease --title "La Pucelle ES v0.17.2 (EXPERIMENTAL)" --notes "Solo parcheador; NO contiene ISO, EDAT ni LZS. Incluye diagnóstico de EBOOT sin cambios, auditor de texturas, tres grupos de diálogos ajustados. Los glitches NO están certificados como resueltos. No validado en PPSSPP, NO 100% del juego."
+          }
+          if ($LASTEXITCODE -ne 0) { throw "No se pudo publicar prerelease; el artefacto de Actions sigue disponible" }
+

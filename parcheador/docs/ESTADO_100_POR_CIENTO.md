@@ -53,3 +53,8 @@ Se confirmó que 5050/5051/5055/5057 estaban `revisado` en `revision.csv`, pero 
 ## Incidencia de ensamblaje resuelta en v0.17.1 (sin cambio de cobertura)
 
 La v0.17 generaba el ISO de scripts, pero terminaba con código 1 al exigir `DLC_01_SCRIPT_V014_EXPERIMENTAL.EDAT` incluso cuando el segundo motor no había modificado ese DLC y no lo había creado. v0.17.1 preserva el DLC preliminar cuando el informe de scripts no declara cambios, valida los cuatro DLC y publica la carpeta final solo al estar completa. [Detalle y pruebas](versiones/v0.17.1.md). Esto **no incrementa por sí mismo la cobertura de traducción**, ni certifica jugabilidad o ausencia de parpadeo.
+
+
+## Hallazgo v0.17.2 (QA visual, 15-11-2026)
+
+Se recibieron nueve capturas que demuestran corrupción grave de paneles y texturas en el juego parcheado; no se conoce aún la causa. La v0.17.2 **no afirma resolverla**: añade aislamiento voluntario de EBOOT y atlas, auditor de solo lectura de recursos y 11 segmentos elegibles en tres grupos de diálogo ajustados a los bytes originales. La versión es diagnóstica y no incrementa la cobertura certificada en PPSSPP. Véase [QA visual](QA_VISUAL_V0172.md).

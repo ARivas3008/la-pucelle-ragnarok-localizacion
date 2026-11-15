@@ -479,6 +479,8 @@ def patch(args):
    edats[key]=(p,data)
  # Texturas de interfaz opcionales: sólo diffs del atlas con SHA original exacto.
  texturas_ui={}
+ if getattr(args,'conservar_eboot',False) and args.atlas_ui:
+  raise Fail('Aislamiento visual activo: no se pueden editar atlas de UI; desactiva esa opción')
  if args.atlas_ui:
   for k,obj in packs.items():
    try:texturas_ui[k]=aplicar_atlas_ui(obj['inner'])
@@ -512,7 +514,7 @@ def patch(args):
  stats=Counter();result=[];patch_offsets=defaultdict(list)
  refinamientos=leer_refinamientos()
  eb_changes={};eb_rejected={}
- if eboot_raw is not None and not args.solo_fuentes:
+ if eboot_raw is not None and not args.solo_fuentes and not getattr(args,'conservar_eboot',False):
   eb_changes,eb_rejected=sustituir_eboot_ascii(eboot_raw,manifest,reviews,refinamientos,cargar_menus_centrales())
  block_solutions={};block_rejected={};block_uids=set();editorial_changes={}
  if args.dialogos_atomicos and not args.solo_fuentes:
@@ -763,6 +765,7 @@ def main():
  p.add_argument('--salida',required=True,type=Path)
  p.add_argument('--solo-auditoria',action='store_true')
  p.add_argument('--incluir-investigacion',action='store_true',help='Permitir propuestas marcadas requiere_investigacion, como provisional')
+ p.add_argument('--conservar-eboot',action='store_true',help='Diagnóstico A/B: no modificar EBOOT, aunque algunas etiquetas de UI queden originales')
  p.add_argument('--atlas-ui',action='store_true',help='Atlas de interfaz sys3/sys4 con original SHA256 verificado; vista previa recomendada')
  p.add_argument('--reducciones-verificadas',action='store_true',help='OPT-IN: abreviaciones v0.12 que pasan capacidad/bytes; todavía requieren QA editorial y visual')
  p.add_argument('--sin-subtitulos-script',action='store_true',help='No editar los cuatro rótulos narrativos identificados en script00.dat')

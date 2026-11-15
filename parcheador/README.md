@@ -85,3 +85,8 @@ La [v0.17](docs/versiones/v0.17.md) repara el rechazo de grupos paginados por se
 ## v0.17.1 — Solución de «Parcheo interrumpido» al generar DLC_01
 
 La [ficha v0.17.1](docs/versiones/v0.17.1.md) explica por qué la segunda etapa solo genera DLC modificados: el GUI de v0.17 buscaba los cuatro nombres de salida incondicionalmente. La corrección usa el informe `resumen_script_v014.json`, conserva los DLC que no cambiaron, comprueba las cinco salidas y publica atómicamente `JUEGO_PARA_PPSSPP_V0171`. También muestra un mensaje de error más específico. No usar la carpeta parcial de v0.17 ni confundir una comprobación de archivos con QA visual.
+
+
+## v0.17.2 — Corrupción visual: aislación y medición
+
+Las capturas del 15/11/2026 muestran menús y ventanas dañados. [Informe de nueve capturas](docs/QA_VISUAL_V0172.md). La v0.17.2 permite conservar EBOOT y atlas de UI (casilla de diagnóstico activada por defecto; partes del menú pueden quedar sin traducir), y el [auditor](investigacion/v0.17/qa_integridad_graficos.py) detecta cambios no autorizados de texturas, CLUT y glifos. Se han ajustado los grupos 5056, 5064 y 5072 para que los segmentos quepan en CP932. **Es una prueba de aislamiento, no solución de gráficos demostrada.** [Versión v0.17.2](docs/versiones/v0.17.2.md).
