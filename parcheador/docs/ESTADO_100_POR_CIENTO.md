@@ -58,3 +58,8 @@ La v0.17 generaba el ISO de scripts, pero terminaba con código 1 al exigir `DLC
 ## Hallazgo v0.17.2 (QA visual, 15-11-2026)
 
 Se recibieron nueve capturas que demuestran corrupción grave de paneles y texturas en el juego parcheado; no se conoce aún la causa. La v0.17.2 **no afirma resolverla**: añade aislamiento voluntario de EBOOT y atlas, auditor de solo lectura de recursos y 11 segmentos elegibles en tres grupos de diálogo ajustados a los bytes originales. La versión es diagnóstica y no incrementa la cobertura certificada en PPSSPP. Véase [QA visual](QA_VISUAL_V0172.md).
+
+
+## v0.17.3 — Riesgo de compatibilidad mitigado, no se declara problema visual resuelto
+
+Se confirmó en reconstrucción real anterior que START_JP y SCRIPTPACK se trasladaban al final de la ISO pese a caber en sus extensiones originales. v0.17.3 conserva LBA y tamaño de ISO, con pruebas sintéticas y sobre contenidos originales, pero **no prueba ausencia de los fondos mal dibujados en PPSSPP**. Las referencias CP932, UI, tarjetas de capítulo, DLC y QA visual siguen abiertos. [Ficha y resultados](versiones/v0.17.3.md).
