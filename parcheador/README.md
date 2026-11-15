@@ -1,4 +1,4 @@
-# Parcheador de La Pucelle: Ragnarok — GUI v0.13 / reubicador de scripts v0.14
+# Parcheador de La Pucelle: Ragnarok — GUI v0.16 experimental (motor v0.13 + scripts v0.14)
 
 Este directorio reúne el código fuente del parcheador Windows con interfaz, los controles técnicos de versiones anteriores y los ensayos de reubicación. No contiene el videojuego ni sus DLC. La edición se realiza localmente sobre copias aportadas por el usuario.
 
@@ -65,3 +65,8 @@ El complemento [v0.14](investigacion/v0.14/README.md) inserta experimentalmente 
 ## Dossier técnico v0.15
 
 [Investigación de 14 anclas](investigacion/v0.15/README.md) · [Matriz de casos](investigacion/v0.15/MATRIZ_14.md) · [Forensia estructural](docs/FORENSE_ESTRUCTURA_JUEGO.md) · [Fichas de formatos](docs/FORMATOS_BINARIOS.md). La nueva herramienta enumera offsets/punteros y propone referencias de fase, pero **no inserta automáticamente esos 14 textos** ni certifica PPSSPP.
+
+
+## Versión experimental v0.16
+
+La v0.16 incorpora una segunda etapa opcional de scripts: `conservador` (v0.14) y `fase` (ensayo CP932 que preserva segundo byte cuando existe candidato próximo). **No se afirma cobertura del 100 %**: en los originales facilitados se reprodujeron 15 anclas en 14 unidades, pero solo 4 de esas unidades dieron candidatos cercanos con el texto propuesto; el modo `fase` rechaza los 10 restantes. Ningún modo sustituye el QA con PPSSPP. Consulta [v0.16](docs/versiones/v0.16.md). El EXE se compila como artefacto de GitHub Actions, no contiene juegos ni DLC.
