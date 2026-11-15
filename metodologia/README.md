@@ -33,3 +33,8 @@ El segundo comando exige revisiones por **unidad** con unit_id, es_revisado y es
 Congelar formatos y glosario antes de distribuir, automatizar extracción, lotes y tests, emitir informes por unidad con IDs estables, priorizar cadenas que bloquean el arranque y el HUD, y ejecutar compilaciones de humo desde la primera semana de trabajo. La traducción masiva se hace en paralelo; la aprobación de seguridad binaria se centraliza. 
 
 **No se incluyen textos del juego comercial ni recursos originales en las plantillas.**
+
+
+## Control de versiones
+
+[Metodología v1.0](versiones/v1.0.md): primer flujo repetible y su QA. Cada ampliación deberá adjuntar una ficha de versión y registrar cambios, riesgos y pruebas.
