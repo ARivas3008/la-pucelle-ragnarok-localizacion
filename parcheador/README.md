@@ -1,4 +1,4 @@
-# Parcheador de La Pucelle: Ragnarok — versión 0.13.0
+# Parcheador de La Pucelle: Ragnarok — GUI v0.13 / reubicador de scripts v0.14
 
 Este directorio reúne el código fuente del parcheador Windows con interfaz, los controles técnicos de versiones anteriores y los ensayos de reubicación. No contiene el videojuego ni sus DLC. La edición se realiza localmente sobre copias aportadas por el usuario.
 
@@ -30,7 +30,7 @@ Para usar las 197 abreviaciones verificadas estructuralmente en la auditoría v0
 - `app/datos/propuestas_reduccion_v012.csv`: propuestas y trazabilidad de la v0.12.
 - `app/datos/ajustes_reducciones_v013.csv`: cuatro reducciones nuevas para fuente de ancho completo.
 - `app/datos/atlas_deltas.json.z`: diferencias de atlas conocidas, sujetas a SHA-256.
-- `investigacion/v0.10`, `v0.11`, `v0.12`: herramientas de índices, scripts y reversión.
+- `investigacion/v0.10`, `v0.11`, `v0.12`, `v0.14`: herramientas de índices, scripts y reversión.
 - `informes/`: estados y resultados sin distribuir binarios del juego.
 - `docs/versiones/`: **un documento por versión**, con alcance, pruebas y pendientes.
 
@@ -57,3 +57,7 @@ La compilación Linux de Go con destino Windows no valida el comportamiento de l
 El trabajo técnico **no modifica** `corpus/*/revision.csv`, `glosario`, hashes ni mapas maestros. Todas las modificaciones se registran en [CHANGELOG.md](CHANGELOG.md), [docs/versiones](docs/versiones) y los informes. Un resultado marcado como `APLICADO_REDUCCION_ESTRUCTURAL` significa que caben sus bytes en el registro; todavía necesita QA lingüístico y ejecución en PPSSPP.
 
 Consulta [ESTADO_100_POR_CIENTO.md](docs/ESTADO_100_POR_CIENTO.md) y [PLAN_QA_PPSSPP.md](docs/PLAN_QA_PPSSPP.md) para los bloqueos restantes.
+
+## Nueva fase: scripts de eventos v0.14
+
+El complemento [v0.14](investigacion/v0.14/README.md) inserta experimentalmente **489 de 503 textos de script traducibles** sin dividir sus oraciones ni desplazar datos no relacionados; el texto de `Now Loading` se excluye. Hay **14 anclas subcarácter** bloqueadas por defecto. Incluye pruebas de reconstrucción de ISO + DLC y genera informes propios. **No está integrado como opción predeterminada del EXE v0.13** y no certifica PPSSPP ni el 100 % de los 26 258 registros.
