@@ -43,3 +43,8 @@ Las familias restantes con pendientes incluyen tablas fijas que exceden campo, E
 
 
 **Instantánea real de corpus en main (15-11-2026):** [14 727 revisados, 289 requieren investigación](ESTADO_EDITORIAL_OBSERVADO_2026-11-15.md) de 15 016 distribuidos; 509 grupos centrales aparte. Ningún porcentaje editorial equivale a implantación jugable.
+
+
+## Nuevo ensayo v0.17 de capturas de tutorial
+
+Se confirmó que 5050/5051/5055/5057 estaban `revisado` en `revision.csv`, pero el programa no los insertaba por presupuesto CP932/ancho completo y división entre dos cuadros. La v0.17 agrega un reflujo sin mover opcodes y ajustes contextualizados: en un ensayo del original se recuperaron **11 unidades** de `talk01_jp.dat`. Las unidades **no están verificadas visualmente en PPSSPP**. Los rótulos `BGPACK/at01.txp`, el logo, EBOOT, la anomalía del grupo 5084 y los parpadeos siguen sin resolución comprobada. [Ver matriz](QA_CAPTURAS_V017.md). Este dato no cambia los denominadores globales de 26 258 unidades.
