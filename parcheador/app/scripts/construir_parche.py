@@ -597,7 +597,7 @@ def patch(args):
    else:
     source_buffers[rsc][off:off+cap]=target
     patch_offsets[rsc].append(occupied)
-    status='APLICADO_BLOQUE_DIALOGO'
+    status='APLICADO_PAGINA_ESTRUCTURAL' if uid in paged_solutions else 'APLICADO_BLOQUE_DIALOGO'
     reason='Intervención completa repartida entre cajas 0x01, sin mezclar idiomas'
   elif uid in seg_solutions:
    (rsc,off,style,cap),newtext,target=seg_solutions[uid]
@@ -689,6 +689,8 @@ def patch(args):
           'estado_revisiones':dict(states),'sha256_revisiones':revchecks,'unidades_por_estado':dict(stats),
           'cadenas_modificadas':sum(v for k,v in stats.items() if k.startswith('APLICADO')),
           'bloques_de_dialogo_procesados':len({v[3] for v in block_solutions.values()}),
+          'grupos_paginados_estructurales':len({v[3] for v in paged_solutions.values()}),
+          'unidades_paginadas_estructurales':len(paged_solutions),
           'bloques_bloqueados':len(set(block_rejected.values())),
           'ediciones_contextuales_aplicadas':editorial_changes,
           'menus_eboot_ascii_aplicados':len(eb_changes),
