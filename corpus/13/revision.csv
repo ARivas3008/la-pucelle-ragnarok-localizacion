@@ -13,7 +13,7 @@
 15014,Llevo cincuenta años esperando este día.,revisado,Uso idiomático de la duración.,
 15015,¡Vas a sentir el peso de estos cincuenta años!,revisado,Expresa el desafío y la carga acumulada.,
 15016,Prier... Ha llegado el momento de que me demuestres la fuerza de tus convicciones.,revisado,Se mejora fluidez y fuerza dramática.,
-15017,,requiere_investigacion,"Original extraído con varias frases fusionadas: «I am fighting for what I I swear I will defeat Just let me ask you one thing...». No es seguro reconstruir las palabras omitidas; revisar unidades 25108–25111 antes de aprobar. COTEJO DE UNIDADES HECHO: 25108,25109,25110,25111. El texto de las unidades conserva la interrupción o concatenación; no existe en el manifiesto una continuación literal que permita reparar la pérdida, por lo que hace falta el guion o binario cotejado con la escena.",
+15017,—¡Lucho por mis convicciones! ¡Juro que te derrotaré! —Solo quiero preguntarte una cosa...,revisado,"La transcripción del combate final (guía de Crimson Phantom, sección «When Prier attacks Noir») confirma las palabras perdidas «what I believe in» y «you» en las primeras dos unidades. Las unidades 25110–25111 pertenecen a la intervención siguiente «Just let me ask you one thing...». Se distinguen voces sin modificar la segmentación de las unidades.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 15018,¿Por qué luchas?,revisado,Pregunta concisa vinculada a la respuesta posterior.,
 15019,¡Para proteger a las personas que quiero!,revisado,Registro emocional natural sin alterar la motivación.,
 15020,Muy bien...,revisado,Pausa de aceptación.,
@@ -36,7 +36,7 @@
 15037,¡Por el orgullo de toda la tripulación del Escargot!,revisado,Se mantiene el nombre propio de la nave.,
 15038,La verdad es que nunca me lo había planteado...,revisado,Se corrige la literalidad del borrador; el original contiene errata «though» por «thought».,
 15039,¿Sabes cuánta gente ha muerto por tu culpa?,revisado,Acusación directa y natural.,
-15040,,requiere_investigacion,"Dos intervenciones parecen fusionadas: «I will make you feel This is the last one...». La MTL inventa una relación causal; cotejar unidades 25162–25163. COTEJO DE UNIDADES HECHO: 25162,25163. El texto de las unidades conserva la interrupción o concatenación; no existe en el manifiesto una continuación literal que permita reparar la pérdida, por lo que hace falta el guion o binario cotejado con la escena.",
+15040,—¡Te haré sentir el peso de tus pecados! —Esta es la última vez...,revisado,La transcripción independiente de la escena «When Prier attacks the Darkness» completa «I'll make you feel your sins!» y confirma que «This is the last one...» es una intervención distinta antes de «REPEEENT». Se conservan ambas cláusulas y sus límites con rayas.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 15041,¡¡¡ARREPIÉNTETE!!!,revisado,La fórmula inglesa «Repent!» corresponde a la exclamación característica de Prier; no significa «reprendido».,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 15042,¡No pienso dejarte escapar!,revisado,Amenaza posesiva coherente con el siguiente grupo.,
 15043,¡Tu corazón me pertenece!,revisado,Se conserva la amenaza posesiva de la oscuridad.,
@@ -257,7 +257,7 @@
 15335,¡Tenemos que avanzar con cuidado!,revisado,,
 15336,¡¿Qué vamos a hacer?! ¡Jamás podremos vencer a tantos demonios!,revisado,"Unidad 25798 comienza en «going to do?!»; el arranque normal de la expresión es «What are we going to do?!», apoyado por la respuesta inmediata «Calm down, Culotte...». Unidades 25799–25800 contienen íntegra la segunda exclamación. Reconstrucción de fórmula idiomática sin datos nuevos.",
 15337,"Cálmate, Culotte...",revisado,,
-15338,,requiere_investigacion,"«odd about this.» es un final de oración aislado. Faltan sujeto y verbo, por lo que la MTL inventa información. COTEJO DE UNIDADES HECHO: 25802. El texto de las unidades conserva la interrupción o concatenación; no existe en el manifiesto una continuación literal que permita reparar la pérdida, por lo que hace falta el guion o binario cotejado con la escena.",
+15338,Hay algo raro en todo esto.,revisado,"El guion independiente registra íntegramente la intervención de Alouette «Calm down, Culotte... There's something odd about this.», de la cual el recurso extraído solo retiene «odd about this.». Se restaura el sentido literal y el tono de observación.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 15339,"Oh, criatura humana sin nombre...",revisado,,
 15340,—Ahora eres una... —¿¡Una Señora Demonio!?,revisado,"Las unidades 25805 («You are now a») y 25806 («A Demon Lord?») corresponden a una proclama interrumpida y su reacción. Se preservan las dos voces mediante rayas en una sola fila, el título femenino de Prier y la interrupción; el manifiesto sigue requiriendo resegmentación física.",
 15341,"En el Mundo Oscuro, la fuerza lo es todo.",revisado,,
@@ -268,7 +268,7 @@
 15346,"Pero, bien pensado, ¡serías mucho mejor Señora Demonio que Doncella!",revisado,,
 15347,¡Qué disparate!,revisado,Unidad 25825 solo contiene «this nonsense.»; se adapta como fragmento exclamativo nominal natural sin reconstruir un verbo ausente. Contexto: rechazo de la proclamación como Señora Demonio y salida de la escena.,
 15348,¡Salgamos de aquí!,revisado,,
-15349,,requiere_investigacion,"Dos frases fusionadas: «... twenty demon lords who rule You are now a lord among lords...». Falta el ámbito que gobiernan. COTEJO DE UNIDADES HECHO: 25827,25828,25829,25830,25831,25832,25833. El texto de las unidades conserva la interrupción o concatenación; no existe en el manifiesto una continuación literal que permita reparar la pérdida, por lo que hace falta el guion o binario cotejado con la escena.",
+15349,"¡Prier, Señora Demonio! Has derrotado a los veinte señores demonio que gobiernan el Mundo Oscuro. Ahora eres una Señora Demonio entre señores, ¡una poderosa Soberana Demoníaca!",revisado,"La transcripción independiente del segundo final especial del Mundo Oscuro confirma el complemento perdido de «who rule»: «the Dark World», y la frase «You are now a lord among lords: a mighty demon overlord!». Se restaura el ámbito gobernado y se mantiene la concordancia femenina con Prier.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 15350,Esto es una broma... ¿verdad?,revisado,,
 15351,"Lo digo muy en serio, mi señora.",revisado,,
 15352,"Prier, parece que has elegido el camino equivocado.",revisado,,
