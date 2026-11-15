@@ -1,0 +1,147 @@
+{
+  "estados": {
+    "REUBICACION_ESTRUCTURAL_OK": 503
+  },
+  "archivos": [
+    {
+      "recurso": "DLC_00/script00.dat",
+      "sha256_fuente": "539dcc66c6233471a0814bad296bce709602fbbfa9b566faac5be0337d059eae",
+      "sha256_ensayo": "dea6dbdbf322f5a032498b0d1f8833e48397f710a58b01b7d9a0800f0fbc31d4",
+      "cadenas": 18,
+      "anclas": 7,
+      "correcciones_subcaracter_experimentales": 3
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "sha256_fuente": "058f0ad4720c30b70be780251ca55feee3c2276ae3277d1c5641137a3fc6fd4a",
+      "sha256_ensayo": "6d39fe3a03c4c7848f79d0bc2330cdf6dba5d05d25af23d687d6b3ec7eb514ec",
+      "cadenas": 57,
+      "anclas": 19,
+      "correcciones_subcaracter_experimentales": 0
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "sha256_fuente": "018e82916f3910f4af0a0ad2887df0b5bd72a06679397d5d3a5a57eb4e806916",
+      "sha256_ensayo": "406b2ba66dc7c509a8828bf049d51ef0772b617b4f6b3087b972e455548daaff",
+      "cadenas": 54,
+      "anclas": 29,
+      "correcciones_subcaracter_experimentales": 3
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "sha256_fuente": "b3a42830834e1beb61e65cd89c585a65febe7efcb13f0b2edb3a2a231cc48bbf",
+      "sha256_ensayo": "8cc0fcb5960a6fa79f06662ee8fe1785b04a8f6e6b7abe8a0e0d4cd0b6b4d521",
+      "cadenas": 14,
+      "anclas": 6,
+      "correcciones_subcaracter_experimentales": 0
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script04.dat",
+      "sha256_fuente": "297be2d7aa4dd2f064cd63cad02ccd88b77a84bf611585c074d9aca64b5e5106",
+      "sha256_ensayo": "3fb40da0a8a2ee2400f25698e7dc9d927758e7b7aa0ef6ea72437a09b50bf37e",
+      "cadenas": 3,
+      "anclas": 1,
+      "correcciones_subcaracter_experimentales": 1
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "sha256_fuente": "8db14a1b8986186eb6d830701587d828330b3ccad34447ca74b37dfe31827a92",
+      "sha256_ensayo": "f3cb79dadb8f661cb373c0e508f7b706a80782195bfd4ff349edfdf0ac9b448d",
+      "cadenas": 23,
+      "anclas": 15,
+      "correcciones_subcaracter_experimentales": 0
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "sha256_fuente": "4fe49813ba895de5858f1b3053b07af50603dee6c566f0599bf875494d3c5a00",
+      "sha256_ensayo": "6f84f686abd7dd0ed1ade78d75213b22b0db1057a08a86da366e93dd2d1b9be8",
+      "cadenas": 32,
+      "anclas": 17,
+      "correcciones_subcaracter_experimentales": 1
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script07.dat",
+      "sha256_fuente": "294fc9aa825805c89295db1f3ba4f45916dfe0e74743c12f35ca979c82fd29ec",
+      "sha256_ensayo": "a49dd0d52183655c095147469c87f67a3ce7ada5133bba64bcd82237b00ad547",
+      "cadenas": 4,
+      "anclas": 0,
+      "correcciones_subcaracter_experimentales": 0
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "sha256_fuente": "979530c00fd29a6d1759e8353bec0982aa03ad1da986c20a222ce311e69f743d",
+      "sha256_ensayo": "94c662f5ae09129974d58e98db7ddd2b7eae100366d8b996a2015a4decf7f2fc",
+      "cadenas": 9,
+      "anclas": 2,
+      "correcciones_subcaracter_experimentales": 1
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "sha256_fuente": "e40d96d511483df33575c15a7b824fb0acd4d32d2c9f339c8c13345ef3631a1f",
+      "sha256_ensayo": "90bf6bef5a50df9f9882337f33a5012f47e6d03ddaa2e11e0f95887229a5d092",
+      "cadenas": 22,
+      "anclas": 4,
+      "correcciones_subcaracter_experimentales": 1
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script11.dat",
+      "sha256_fuente": "88ef4c129fafbd0252060a0f93453c641be4d2d98428c4224e7ccfb1cd9fd5b2",
+      "sha256_ensayo": "14dc5e59c6052e5eb91a525c943d38506ddb0be050074a0e087d04020c97a642",
+      "cadenas": 1,
+      "anclas": 0,
+      "correcciones_subcaracter_experimentales": 0
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "sha256_fuente": "9a50cb8a010969e609f0003c4b5b50469ad91eda55d0e3ae06599dc3d686d63b",
+      "sha256_ensayo": "038b08e5affba4f787aecd5734bd27ec196d7de33a5b71ab85e67772900dde49",
+      "cadenas": 52,
+      "anclas": 4,
+      "correcciones_subcaracter_experimentales": 0
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "sha256_fuente": "77e7f5c9ac39be3404c3f4fb3646f2ab03d7f329471cf2bd630b67a2fce1c5f8",
+      "sha256_ensayo": "f95f21b38b6d00208831f54c206348ceba849ddd9e630036441c1f7088734885",
+      "cadenas": 18,
+      "anclas": 6,
+      "correcciones_subcaracter_experimentales": 1
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "sha256_fuente": "c335e5ee1d8991fbc329d46c7a500600a5d254b93788d3ac882871a070e4d36e",
+      "sha256_ensayo": "0bf0f12b7b453aa602980f17f96798605704681097bd899570ef61544efabca0",
+      "cadenas": 22,
+      "anclas": 11,
+      "correcciones_subcaracter_experimentales": 2
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script17.dat",
+      "sha256_fuente": "ccb5fe666bab7d229eb3e4c6e7e126e3a035eae4bb7bce20a3a9cd4c1a1fa206",
+      "sha256_ensayo": "34cba88187c5f843e71c0f13e2914137a1f030ced48275963f61952eea1d5b87",
+      "cadenas": 1,
+      "anclas": 0,
+      "correcciones_subcaracter_experimentales": 0
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "sha256_fuente": "d2b790d9a6d4fe6370b7b1f8cd53ed6edc5375da3f101e5190509882b6058627",
+      "sha256_ensayo": "6aec91827fbdba7ce67e3e39c6e2f520df0b4db2bf76bc45ef6dde1c7acd53c8",
+      "cadenas": 169,
+      "anclas": 24,
+      "correcciones_subcaracter_experimentales": 2
+    },
+    {
+      "recurso": "ISO_START/script00.dat",
+      "sha256_fuente": "56caeda08675a6a551407dd68bddda5fe6063ab37102579996b3442cbe62e2ed",
+      "sha256_ensayo": "1191675bb008d498e23a453ac830551a3a7239cdc023dd5e70b4038cc383a3f3",
+      "cadenas": 4,
+      "anclas": 0,
+      "correcciones_subcaracter_experimentales": 0
+    }
+  ],
+  "total_anclas": 145,
+  "correcciones_subcaracter": 15,
+  "modo_experimental": true,
+  "aviso": "Solo prueba estructural reversible, NO aprobado para ejecución en PPSSPP."
+}

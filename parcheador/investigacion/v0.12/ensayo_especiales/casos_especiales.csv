@@ -1,0 +1,6 @@
+﻿unit_id,recurso,original,traduccion,bytes_fuente,bytes_es,nota,estado
+1804,DLC_00/skill.dat,(まわし受け,(Bloq. giro,11,11,Abreviación de bloqueo circular; exige cotejo editorial,BINARIO_REVERSIBLE_COTEJO_PENDIENTE
+23133,ISO_START/magic.dat,Butt Attack,Culazo,12,6,Nombre de técnica Butt Attack; humor coloquial; cotejar,BINARIO_REVERSIBLE_COTEJO_PENDIENTE
+23302,ISO_START/magic.dat,Boxes Galore,Mil cajas,12,9,Boxes Galore; título condensado,BINARIO_REVERSIBLE_COTEJO_PENDIENTE
+24106,ISO_START/skill.dat,Magic Barrier,Muro mágico,13,12,Magic Barrier; sin cambio de función,BINARIO_REVERSIBLE_COTEJO_PENDIENTE
+24111,ISO_START/skill.dat,(Heaven Barrier,(Muro celeste,15,13,Heaven Barrier; fragmento con prefijo de control conservado,BINARIO_REVERSIBLE_COTEJO_PENDIENTE
