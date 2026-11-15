@@ -36,6 +36,8 @@ La MTL inicial puede producir un CSV borrador con unit_id, original, mtl_es, mod
 
 **Puerta:** todos los grupos con borrador o causa de ausencia, sin alterar el archivo original.
 
+La **v1.1** añade `preparar_mtl_contextual.py`: exporta solicitudes JSONL por grupo, recibe respuestas `unit_id`/`mtl_es` y bloquea respuestas duplicadas, ausentes o con marcadores alterados. Es una herramienta de *preparación* y conciliación, no un servicio MTL conectado ni un aprobador automático. Véase [v1.1](versiones/v1.1.md).
+
 ## Fase 5 — Revisión humana por contexto y QA
 El revisor lee unidades contiguas y el evento completo, coteja japonés e inglés si existen, revisa tono, narrador, relaciones entre personajes, intención y terminología. Introducir es_revisado y estado (revisado / requiere_investigacion). Todo lo dudoso tiene nota, no una aprobación forzada.
 
