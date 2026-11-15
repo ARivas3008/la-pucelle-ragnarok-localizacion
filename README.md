@@ -50,3 +50,8 @@ El reubicador experimental [v0.14](parcheador/investigacion/v0.14/README.md) inc
 ### Desarrollo v0.16 (no aprobado)
 
 La rama `desarrollo/parcheador-v0.16-referencias` agrega la integración opcional del reubicador de scripts en el EXE y un ensayo conservador de fase CP932. Se identificaron 14 textos con 15 referencias problemáticas en los originales facilitados: solamente 4 tienen candidato cercano en fase. Los resultados no acreditan 100 % ni ejecución PPSSPP. Véase [v0.16](parcheador/docs/versiones/v0.16.md).
+
+
+### v0.16.1 — Corrección de scripts y documentación reproducida
+
+El parcheador de la rama `desarrollo/parcheador-v0.16-referencias` pasa el autotest de Windows y tiene [un documento por versión](parcheador/docs/versiones/v0.16.md), [inventario forense de la ISO y los DLC](parcheador/docs/INVENTARIO_FISICO_V016.md) y [matriz exacta de 14 unidades/15 anclas](parcheador/investigacion/v0.16/MATRIZ_RETEST_14.md). En prueba binaria aislada: **489 inserciones conservadoras + 3 candidatos de fase = 492**, 11 anclas bloqueadas y Now Loading preservado. **No es 100 % del juego**, no modifica los corpus editoriales ni acredita PPSSPP. El EXE se publica como artefacto de GitHub Actions y no contiene la ISO ni EDAT comerciales.
