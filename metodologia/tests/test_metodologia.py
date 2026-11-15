@@ -1,6 +1,6 @@
 import sys,unittest
 from pathlib import Path
-sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
+sys.path.insert(0,str(Path(__file__).resolve().parents[1] / "scripts"))
 from planificar_corpus import normalizar,lotear
 from verificar_presupuesto import evaluar,codificar
 class TestMetodologia(unittest.TestCase):
