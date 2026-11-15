@@ -1,0 +1,72 @@
+name: Exportar dossier documental para ChatGPT Work PC
+on:
+  push:
+    branches: [export/work-pc-dossier-20261115]
+  workflow_dispatch:
+
+jobs:
+  exportar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Descargar documentación y corpus de main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: fuentes_main
+          persist-credentials: false
+      - name: Descargar motor actualizado v0.17.4
+        uses: actions/checkout@v4
+        with:
+          ref: desarrollo/parcheador-v0.17.4-sector-seguro
+          path: fuentes_parcheador
+          persist-credentials: false
+      - name: Descargar metodología reusable
+        uses: actions/checkout@v4
+        with:
+          ref: metodologia/pipeline-localizacion-reutilizable
+          path: fuentes_metodologia
+          persist-credentials: false
+      - name: Empaquetar documentación y código sin material comercial
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json,zipfile,hashlib,subprocess
+          root=Path.cwd()
+          sources=[
+              ("01_GitHub_main",root/"fuentes_main",None),
+              ("02_Motor_parcheador_v0174",root/"fuentes_parcheador",["parcheador/",".github/workflows/","AGENTS.md","README.md","CHATGPT_PROJECT_INSTRUCCIONES.md"]),
+              ("03_Metodologia_reutilizable",root/"fuentes_metodologia",["metodologia/",".github/workflows/","README.md"]),
+          ]
+          forbidden_suffix={".iso",".edat",".lzs",".pmf",".at3",".prx",".bin",".dat",".dax",".cso",".chd",".dll",".exe",".so",".dylib",".pak",".vpk",".rar",".7z",".zip"}
+          permitted_suffix={".md",".txt",".csv",".json",".jsonl",".py",".go",".h",".hpp",".cpp",".cc",".c",".ps1",".sh",".bat",".cmd",".yml",".yaml",".xml",".toml",".ini",".cfg",".gitignore",".gitattributes",".xlsx",".xls",".pdf",".docx",".png",".jpg",".jpeg",".webp",".svg",".html",".js",".ts",".css",".sql",".patch",".diff",".ipynb",".log"}
+          excluded_names={"resources.tar.gz"}
+          out=root/"LaPucelle_GitHub_Documentacion_WorkPC.zip"
+          file_records=[]
+          revisions=[]
+          with zipfile.ZipFile(out,"w",compression=zipfile.ZIP_DEFLATED,compresslevel=6,allowZip64=True) as z:
+              for label,src,subsets in sources:
+                  sha=subprocess.check_output(["git","rev-parse","HEAD"],cwd=src,text=True).strip()
+                  revisions.append({"carpeta":label,"git_ref": {"01_GitHub_main":"main","02_Motor_parcheador_v0174":"desarrollo/parcheador-v0.17.4-sector-seguro","03_Metodologia_reutilizable":"metodologia/pipeline-localizacion-reutilizable"}[label],"commit":sha})
+                  for f in sorted(src.rglob("*")):
+                      if not f.is_file() or ".git" in f.relative_to(src).parts:continue
+                      if f.name in excluded_names or f.suffix.lower() in forbidden_suffix:continue
+                      rel=f.relative_to(src).as_posix()
+                      if subsets and not any(rel==part or rel.startswith(part) for part in subsets):continue
+                      if f.suffix.lower() not in permitted_suffix and f.name not in {".gitignore",".gitattributes"}:continue
+                      if f.stat().st_size>45_000_000:continue
+                      archive=f"{label}/{rel}"
+                      z.write(f,arcname=archive)
+                      file_records.append({"nombre":archive,"bytes":f.stat().st_size,"sha256":hashlib.sha256(f.read_bytes()).hexdigest()})
+              z.writestr("00_PROCEDENCIA_GITHUB.json",json.dumps({"revisiones":revisions,"archivos":file_records,"restricciones":"Sin ISO, EDAT, EBOOT ni contenido comercial binario"},ensure_ascii=False,indent=2))
+          print("ARCHIVO",out,"bytes",out.stat().st_size,"files",len(file_records),"commits",revisions)
+          PY
+      - name: Publicar ZIP del material (descarga y montaje local)
+        uses: actions/upload-artifact@v4
+        with:
+          name: LaPucelle_GitHub_Documentacion_WorkPC
+          path: LaPucelle_GitHub_Documentacion_WorkPC.zip
+          if-no-files-found: error
+          retention-days: 7
