@@ -28,3 +28,8 @@ Los estados `APLICADO_*` actuales no implican el primero de esos dos estados de 
 ## Investigación posterior v0.15
 
 Las 14 unidades con 15 anclas internas CP932 quedaron catalogadas y pueden auditarse en los originales sin escritura. La hipótesis de fase segundo byte → segundo byte se genera como candidato, no como parche aprobado. La cobertura española real **no aumenta** hasta que se identifique la semántica de los índices y se validen las escenas en PPSSPP. Detalles en [MATRIZ_14.md](../investigacion/v0.15/MATRIZ_14.md).
+
+
+## Evaluación v0.16 (experimental, 15-11-2026)
+
+Se verificaron 15 referencias CP932 dentro de 14 cadenas sobre la ISO y los 4 DLC originales. El ensayo de fase conservada halló solo 4 unidades con candidato cercano (1758, 1759, 3924, 4170). Los otros 10 casos permanecen bloqueados. La compilación de EXE y la reversibilidad no sustituyen las pruebas de PPSSPP ni la aprobación editorial de las 26 258 unidades: el cumplimiento global **no es 100 %**.
