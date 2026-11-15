@@ -61,3 +61,7 @@ Consulta [ESTADO_100_POR_CIENTO.md](docs/ESTADO_100_POR_CIENTO.md) y [PLAN_QA_PP
 ## Nueva fase: scripts de eventos v0.14
 
 El complemento [v0.14](investigacion/v0.14/README.md) inserta experimentalmente **489 de 503 textos de script traducibles** sin dividir sus oraciones ni desplazar datos no relacionados; el texto de `Now Loading` se excluye. Hay **14 anclas subcarácter** bloqueadas por defecto. Incluye pruebas de reconstrucción de ISO + DLC y genera informes propios. **No está integrado como opción predeterminada del EXE v0.13** y no certifica PPSSPP ni el 100 % de los 26 258 registros.
+
+## Dossier técnico v0.15
+
+[Investigación de 14 anclas](investigacion/v0.15/README.md) · [Matriz de casos](investigacion/v0.15/MATRIZ_14.md) · [Forensia estructural](docs/FORENSE_ESTRUCTURA_JUEGO.md) · [Fichas de formatos](docs/FORMATOS_BINARIOS.md). La nueva herramienta enumera offsets/punteros y propone referencias de fase, pero **no inserta automáticamente esos 14 textos** ni certifica PPSSPP.
