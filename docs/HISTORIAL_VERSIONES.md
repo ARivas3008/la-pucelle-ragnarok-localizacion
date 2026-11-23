@@ -1,13 +1,14 @@
 # Historial de versiones y conservación
 
-Actualizado el 17 de noviembre de 2026. Se conservan los originales, el corpus, el código y la evidencia histórica. La limpieza elimina entregables generados; no borra la explicación de cómo se construyeron.
+Actualizado el 23 de noviembre de 2026. Se conservan originales, corpus, código y evidencia histórica. La limpieza retira entregables sustituidos y mantiene sus explicaciones y commits.
 
-## Estado conservado tras la limpieza
+## Entrega vigente
 
-- Ejecutable: `11_Entrega_v0183/LaPucelle_Parcheador_ES_GUI_v0.18.3-fijo-qa.exe`. Es la última versión publicada del parcheador; no incluye aún las modificaciones del laboratorio 12.
-- ISO de trabajo: `12_Integracion_total/prueba_correcciones/La_Pucelle_Ragnarok_ES_PRELIMINAR.iso`, con sus cuatro EDAT en `ULJS00244`. Es experimental y su última revisión no tiene comprobación visual en PPSSPP.
-- Limpieza realizada: 102 archivos, 22.787.213.148 bytes. Inventario individual y resultado en `limpieza_versiones_ejecutada_20261117.json`.
-- Los enlaces antiguos a ISO/EXE eliminados en documentos históricos describen entregas pasadas y ya no son rutas de descarga válidas.
+- Parcheador: v0.19.0-integracion, publicado como preliminar en Releases, con 21.805/26.258 unidades verificadas (83,04 %).
+- ISO local: `13_Entrega_v0190/JUEGO_PARA_PPSSPP/La_Pucelle_Ragnarok_ES.iso`, con sus cuatro DLC. Validación visual amplia pendiente.
+- Limpieza del 23-11: 18 archivos locales (4.408.451.735 bytes), seis EXE antiguos de Releases y 26 ramas archivadas. [Informe y diarios](PUBLICACION_2026-11-23.md).
+- Limpieza histórica del 17-11: 102 archivos, 22.787.213.148 bytes. Entonces se conservaron v0.18.3 y la ISO `prueba_correcciones`, ahora sustituidas.
+- Los enlaces antiguos a binarios retirados en documentos históricos ya no son descargas vigentes.
 
 ## Versiones documentadas
 

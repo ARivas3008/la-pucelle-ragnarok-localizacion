@@ -1,0 +1,25 @@
+{
+  "commit": "35102ed9fccd1a9df125342a79dc287155ce1faf",
+  "comprobaciones": [
+    {
+      "nombre": "Compilar parcheador Windows",
+      "resultado": "success",
+      "url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45258203873"
+    },
+    {
+      "nombre": "QA de corpus",
+      "resultado": "success",
+      "url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45258203962"
+    },
+    {
+      "nombre": "QA motor y formatos",
+      "resultado": "success",
+      "url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45258203954"
+    },
+    {
+      "nombre": "QA metodología de localización",
+      "resultado": "success",
+      "url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45258204332"
+    }
+  ]
+}

@@ -33,6 +33,8 @@ Estas medidas tienen denominadores diferentes; no deben sumarse. Permanecen text
 
 El repositorio y la descarga contienen herramientas y datos de traducción. Cada usuario aporta la ISO y los DLC; no se distribuyen aquí.
 
+[Publicación, pruebas y limpieza completadas](docs/PUBLICACION_2026-11-23.md).
+
 ## Documentación
 
 | Contenido | Ubicación |

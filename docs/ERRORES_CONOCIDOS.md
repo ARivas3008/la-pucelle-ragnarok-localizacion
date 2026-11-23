@@ -20,6 +20,12 @@ No se considera completada una corrección solo por existir en el corpus.
 | Posición de anuncios | Observación del usuario: Fight / Tu turno | Atlas y coordenadas de dibujo, no diálogo | Centrar según ancho visible en pantalla PSP 480×272; comprobar área transparente del asset |
 | Puntuación con diseño original | 1, 12 | Glifos del juego | Conservar el diseño original de los puntos suspensivos |
 
+## Estado en v0.19.0
+
+Las correcciones de terminadores de script, Iglesia, Panza del Diablo, Cuarto de Salade, Enfermería, Comprar y Prica total están incorporadas al motor y verificadas en sus intervalos binarios. Su comportamiento en pantalla debe confirmarse en esta versión. Las inserciones de opciones y NPC son parciales: no se considera resuelta toda una categoría por corregir algunos grupos.
+
+Los títulos rasterizados, el cartel japonés, partes del HUD y el centrado de anuncios siguen pendientes. El diseño de los signos originales se conserva. La [cobertura vigente](COBERTURA.md) y los diarios sustituyen las cifras anteriores de laboratorio.
+
 ## Revisión editorial
 
 Se han cotejado 96 grupos problemáticos con 187 segmentos físicos completos.

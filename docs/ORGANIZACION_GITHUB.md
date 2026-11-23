@@ -2,7 +2,7 @@
 
 La consolidación del 23-11-2026 reúne el motor vigente, las 15 revisiones del corpus, la metodología y la investigación local en `main`.
 
-Las 26 ramas anteriores se archivan mediante etiquetas `archivo/2026-11-19/<nombre-original>`, conservando exactamente su commit. La fecha identifica el inventario inicial, no la fecha de publicación. El [inventario de ramas y SHA](informes/ramas_2026-11-19.json) permite recuperar cualquier estado. Las ramas solo se retiran después de publicar y verificar estas etiquetas y la nueva entrega; si una rama cambia entretanto, la limpieza se detiene.
+Las 26 ramas anteriores quedaron archivadas mediante etiquetas `archivo/2026-11-19/<nombre-original>`, conservando exactamente su commit. La fecha identifica el inventario inicial, no la fecha de publicación. El [inventario de ramas y SHA](informes/ramas_2026-11-19.json) permite recuperar cualquier estado. Las ramas solo se retiran después de publicar y verificar estas etiquetas y la nueva entrega; si una rama cambia entretanto, la limpieza se detiene.
 
 Las ramas de revisión 01–14 ya eran antecesoras de main. La revisión 15 y la metodología se incorporan completas; las correcciones locales posteriores se conservan sobre ellas. Las implementaciones experimentales anteriores permanecen accesibles en sus etiquetas y fichas históricas. Los PR experimentales superados se cierran con referencia a la entrega vigente, sin atribuirles una validación visual que no tienen.
 
@@ -15,3 +15,6 @@ Las ramas de revisión 01–14 ya eran antecesoras de main. La revisión 15 y la
 5. Mantener una sola entrega binaria vigente. Conservar los originales del usuario y toda la evidencia técnica necesaria.
 
 Para nuevo trabajo, abrir ramas breves por tarea desde main. Las ramas `revision/corpus-NN` se reservan a revisión editorial; las ramas de integración pueden abarcar código, corpus y documentación con QA completo.
+
+
+Resultado: [publicación y limpieza completadas](PUBLICACION_2026-11-23.md). Las etiquetas y fichas históricas permanecen disponibles; solo main queda como rama activa.

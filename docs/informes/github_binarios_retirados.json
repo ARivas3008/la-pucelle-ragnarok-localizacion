@@ -1,0 +1,38 @@
+[
+  {
+    "release": "v0.17.4-sector-qa",
+    "nombre": "LaPucelle_Parcheador_ES_GUI_v0.17.4-sector-qa.exe",
+    "bytes": 9364992,
+    "sha256": "sha256:6b8031c24a2dcaf4c18e05df705c67a92da275f40eb3230801693dcdc2108719"
+  },
+  {
+    "release": "v0.17.3-lba-qa",
+    "nombre": "LaPucelle_Parcheador_ES_GUI_v0.17.3-lba-qa.exe",
+    "bytes": 9361920,
+    "sha256": "sha256:ddc7aba2829bb92cec16bc6e0841c00cf523a47339e9bbee928fccc3faa88269"
+  },
+  {
+    "release": "v0.17.2-diagnostico",
+    "nombre": "LaPucelle_Parcheador_ES_GUI_v0.17.2-diagnostico.exe",
+    "bytes": 9361408,
+    "sha256": "sha256:7706a7d964efe709ff9abc2c98470d8ae4619bf8e28c8b99afd27d80a125da68"
+  },
+  {
+    "release": "v0.17.1-qa",
+    "nombre": "LaPucelle_Parcheador_ES_GUI_v0.17.1-qa.exe",
+    "bytes": 9358848,
+    "sha256": "sha256:fa858547bf17c9b1f33895c66ed18e6fb72bbabe50e2cc4e22704d80baf83832"
+  },
+  {
+    "release": "v0.17.0-qa",
+    "nombre": "LaPucelle_Parcheador_ES_GUI_v0.17.0-qa.exe",
+    "bytes": 9337344,
+    "sha256": "sha256:e966222bad44b919099b887f2ce9b9bccca5a45902d9c58738e8956f94e6b994"
+  },
+  {
+    "release": "v0.16.1-experimental",
+    "nombre": "LaPucelle_Parcheador_ES_GUI_v0.16.1-experimental.exe",
+    "bytes": 9327616,
+    "sha256": "sha256:5972cdf9ab4681fda9b8386f0550a89ecff725d6537bb6b8106189ff48599514"
+  }
+]
