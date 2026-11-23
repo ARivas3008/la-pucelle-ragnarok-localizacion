@@ -1,0 +1,41 @@
+{
+  "esquema": "defectos_v1",
+  "fecha": "2026-11-23",
+  "defectos": [
+    {
+      "id": "DEF-001",
+      "titulo": "capítulos y World Map",
+      "estado": "abierto_para_validacion",
+      "fuente": "docs/ERRORES_CONOCIDOS.md",
+      "prueba_ppsspp_v019": null
+    },
+    {
+      "id": "DEF-002",
+      "titulo": "cartel japonés de cueva",
+      "estado": "abierto_para_validacion",
+      "fuente": "docs/ERRORES_CONOCIDOS.md",
+      "prueba_ppsspp_v019": null
+    },
+    {
+      "id": "DEF-003",
+      "titulo": "HUD y centrado de anuncios",
+      "estado": "abierto_para_validacion",
+      "fuente": "docs/ERRORES_CONOCIDOS.md",
+      "prueba_ppsspp_v019": null
+    },
+    {
+      "id": "DEF-004",
+      "titulo": "sia,sia terminador: corrección histórica pendiente de prueba visual",
+      "estado": "abierto_para_validacion",
+      "fuente": "docs/ERRORES_CONOCIDOS.md",
+      "prueba_ppsspp_v019": null
+    },
+    {
+      "id": "DEF-005",
+      "titulo": "Iglesia, Panza del Diablo, Salade, prica: comprobar correcciones",
+      "estado": "abierto_para_validacion",
+      "fuente": "docs/ERRORES_CONOCIDOS.md",
+      "prueba_ppsspp_v019": null
+    }
+  ]
+}

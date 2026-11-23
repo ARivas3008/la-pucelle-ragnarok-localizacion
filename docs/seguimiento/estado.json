@@ -1,0 +1,48 @@
+{
+  "esquema": "estado_v1",
+  "fecha": "2026-11-23",
+  "base_main": "d2f3b0ced36173c8535c1ef3fcfb0124aacb1cf0",
+  "version": "v0.19.0-integracion",
+  "revision_corpus": {
+    "total": 15016,
+    "revisados": 14727,
+    "requieren_investigacion": 289
+  },
+  "hymt2": {
+    "total_documentado": 1711,
+    "revisadas_documentadas": 500,
+    "pendientes_documentadas": 1211
+  },
+  "unidades": {
+    "total": 26258,
+    "insertadas_y_cotejadas_documentadas": 21805,
+    "fuente": "docs/informes/cobertura_v0.19.0.json",
+    "prueba_nueva": false
+  },
+  "graficos": {
+    "conocidos": 62,
+    "certificados_v019": 0,
+    "alcance_completo": false
+  },
+  "betatesting": {
+    "certificacion_v019": false
+  },
+  "iso_original": {
+    "sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "comprobado": true
+  },
+  "dlc_originales_aportados": false,
+  "ppsspp_ejecutado": false,
+  "porcentaje_global": null,
+  "alcance_no_inventariado": [
+    "fuera de manifiesto",
+    "recursos gráficos adicionales",
+    "escenas y cuatro DLC exhaustivos"
+  ],
+  "bloqueos": [
+    "cuatro EDAT originales ausentes",
+    "PPSSPP no disponible",
+    "clon Windows no montado"
+  ],
+  "siguiente_tarea": "REV-002"
+}

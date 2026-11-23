@@ -1,0 +1,90 @@
+{
+  "esquema": "rom_v1",
+  "fecha": "2026-11-23",
+  "casos": [
+    {
+      "id": "ROM-A001",
+      "tipo": "ISO-original",
+      "estado": "original_autentico_verificado",
+      "evidencia": "auditoria_iso_original_20261123.json"
+    },
+    {
+      "id": "ROM-001",
+      "tipo": "cobertura binaria v0.19",
+      "estado": "historico_a_revalidar",
+      "evidencia": "docs/informes/cobertura_v0.19.0.json"
+    },
+    {
+      "id": "ROM-002",
+      "tipo": "talk-cabecera",
+      "estado": "pendiente_prueba",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-003",
+      "tipo": "script-cabecera",
+      "estado": "pendiente_prueba",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-004",
+      "tipo": "DAT-alineacion16",
+      "estado": "pendiente_prueba",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-005",
+      "tipo": "LZS-sin-solapamiento",
+      "estado": "pendiente_prueba",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-006",
+      "tipo": "EBOOT-control",
+      "estado": "pendiente_prueba",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-007",
+      "tipo": "LBA-identidad",
+      "estado": "pendiente_prueba",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-008",
+      "tipo": "glifos-y-buffer",
+      "estado": "pendiente_prueba",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-009",
+      "tipo": "ISO-sola-EXE",
+      "estado": "pendiente_prueba",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-010",
+      "tipo": "DLC-solos-EXE",
+      "estado": "bloqueado_faltan_EDAT",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-011",
+      "tipo": "ISO-DLC-EXE",
+      "estado": "bloqueado_faltan_EDAT",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-012",
+      "tipo": "errores-y-rollback",
+      "estado": "pendiente_prueba",
+      "evidencia": null
+    },
+    {
+      "id": "ROM-013",
+      "tipo": "candidata-reproducible",
+      "estado": "pendiente_prueba",
+      "evidencia": null
+    }
+  ]
+}
