@@ -97,6 +97,12 @@
       "tipo": "magic-dlc-prefijos-①②③",
       "estado": "solo_sinteticos_faltan_EDAT",
       "evidencia": "parcheador/app/tests/test_magic_prefijos_v020.py"
+    },
+    {
+      "id": "ROM-016",
+      "tipo": "BGPACK auténtico NISPACK: 285 registros y límites de recursos",
+      "estado": "original_autentico_estructura_verificada",
+      "evidencia": "docs/seguimiento/informes/GFX-001_bgpack_original.json"
     }
   ]
 }

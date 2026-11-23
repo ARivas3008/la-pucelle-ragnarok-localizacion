@@ -14,3 +14,7 @@ Hasta certificar al 100 % traducción, gráficos, romhacking y betatesting, cada
 ## RELEVO-002 / CENT-005
 
 [Informe editorial y técnico](informes/CENT-005.json) · [Relevo-003 autónomo](prompts/SIGUIENTE_RELEVO.md). Se revisaron 19 grupos de texto de tutorial. Los prefijos magic.dat se estudiaron con trazabilidad y pruebas sintéticas, sin validar DLC real. Cuatro áreas todavía no certificadas; HY-MT2 pendientes siguen fuera del alcance obligatorio.
+
+## RELEVO-004 (CENT-007 + GFX-001)
+
+[Informe CENT-007](informes/CENT-007.json) | [Auditoría auténtica BGPACK](informes/GFX-001_bgpack_original.json) | [Prompt RELEVO-005](prompts/SIGUIENTE_RELEVO.md). Se revisaron editorialmente 48 grupos y se identificaron ocho candidatos TXP externos al inventario de 62; no están confirmados como texto ni certificados en PPSSPP.

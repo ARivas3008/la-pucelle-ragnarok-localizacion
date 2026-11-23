@@ -18,7 +18,10 @@
     "conocidos": 62,
     "certificados_v019": 0,
     "alcance_completo": false,
-    "comprobaciones_nuevas_visual": 0
+    "comprobaciones_nuevas_visual": 0,
+    "txp_bgpack_originales_auditadas": 27,
+    "candidatos_txp_no_inventariados": 8,
+    "informe": "docs/seguimiento/informes/GFX-001_bgpack_original.json"
   },
   "betatesting": {
     "certificacion_v019": false,
@@ -28,7 +31,7 @@
   "iso_original": {
     "sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
     "comprobado": true,
-    "comprobado_en_relevo": "RELEVO-003",
+    "comprobado_en_relevo": "RELEVO-004",
     "archivo": "La_Pucelle_Ragnarok_v1.1.2.iso",
     "bytes": 858937344
   },
@@ -45,11 +48,11 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-004",
+  "siguiente_tarea": "RELEVO-005",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 421,
-    "revisados": 88,
+    "pendientes": 373,
+    "revisados": 136,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": true
   },
@@ -57,24 +60,23 @@
     "total_grupos_conocidos": 15525,
     "revisados_en_reparto": 14727,
     "pendientes_en_reparto": 289,
-    "pendientes_centrales": 421,
-    "pendientes_minimos": 710,
+    "pendientes_centrales": 373,
+    "pendientes_minimos": 662,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 88,
-    "revisados_editoriales_conocidos": 14815
+    "revisados_centrales": 136,
+    "revisados_editoriales_conocidos": 14863
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "CENT-007: revisar otro lote de 40 grupos centrales seguros, especialmente tutoriales y diálogo. Resolver los 11 grupos structurales de magic/talk solamente con EDAT original y selector de opciones verificado. Hacer QA real ISO y PPSSPP si está disponible.",
+  "criterio_siguiente": "CENT-008: resolver más unidades fiables, reconstruir grupos incompletos 2048/2049 con segmentos talk y originales DLC; GFX-002: inspeccionar 8 TXP candidatas sin incorporarlas como texto confirmado hasta verificarlas",
   "revisiones_nuevas_en_esta_rama": {
-    "editoriales_centrales": 40,
+    "editoriales_centrales": 48,
     "insertadas_fisicamente": 0,
     "validacion_visual": 0,
-    "fuente": "data/preexistentes/509_revision_central.csv",
-    "lote": "CENT-006",
-    "evidencia": "docs/seguimiento/informes/CENT-006.json"
+    "lote": "CENT-007",
+    "informe": "docs/seguimiento/informes/CENT-007.json"
   },
   "exclusiones_del_alcance": {
     "hymt2_pendientes": "excluido",

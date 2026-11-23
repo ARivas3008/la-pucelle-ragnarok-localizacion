@@ -939,6 +939,82 @@
   ],
   "fuera_de_manifiesto_pendiente": [
     "cartel cueva",
-    "HUD/atlas no enumerados"
+    "HUD/atlas no enumerados",
+    "8 nuevos candidatos TXP de BGPACK original (sin confirmar si contienen texto)"
+  ],
+  "auditoria_bgpack_iso_original": {
+    "informe": "docs/seguimiento/informes/GFX-001_bgpack_original.json",
+    "sha256_bgpack": "56e26744c01ad34ac79b4170746ccb6157eb6c5585b09e0340e3dbaef8f42e78",
+    "miembros": 285,
+    "texturas_txp": 27,
+    "txp_no_listados": 8,
+    "evidencia": "A: ISO original auténtica",
+    "aviso": "Candidatos sin clasificar; no sumar como texto traducible ni certificaciones"
+  },
+  "candidatos_txp_fuera_manifiesto": [
+    {
+      "nombre": "title1.txp",
+      "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/title1.txp",
+      "offset": 67903488,
+      "tamano_bytes": 132112,
+      "estado": "candidato_sin_confirmacion_texto",
+      "validacion_visual": "no_realizada"
+    },
+    {
+      "nombre": "wbg00.txp",
+      "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wbg00.txp",
+      "offset": 68108288,
+      "tamano_bytes": 35920,
+      "estado": "candidato_sin_confirmacion_texto",
+      "validacion_visual": "no_realizada"
+    },
+    {
+      "nombre": "wbg02.txp",
+      "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wbg02.txp",
+      "offset": 68145152,
+      "tamano_bytes": 35920,
+      "estado": "candidato_sin_confirmacion_texto",
+      "validacion_visual": "no_realizada"
+    },
+    {
+      "nombre": "wbg04.txp",
+      "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wbg04.txp",
+      "offset": 68182016,
+      "tamano_bytes": 35920,
+      "estado": "candidato_sin_confirmacion_texto",
+      "validacion_visual": "no_realizada"
+    },
+    {
+      "nombre": "wbg05.txp",
+      "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wbg05.txp",
+      "offset": 68218880,
+      "tamano_bytes": 72720,
+      "estado": "candidato_sin_confirmacion_texto",
+      "validacion_visual": "no_realizada"
+    },
+    {
+      "nombre": "wbg06.txp",
+      "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wbg06.txp",
+      "offset": 68292608,
+      "tamano_bytes": 72720,
+      "estado": "candidato_sin_confirmacion_texto",
+      "validacion_visual": "no_realizada"
+    },
+    {
+      "nombre": "wmap.txp",
+      "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wmap.txp",
+      "offset": 68366336,
+      "tamano_bytes": 263184,
+      "estado": "candidato_sin_confirmacion_texto",
+      "validacion_visual": "no_realizada"
+    },
+    {
+      "nombre": "wmap_04.txp",
+      "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wmap_04.txp",
+      "offset": 68763648,
+      "tamano_bytes": 66576,
+      "estado": "candidato_sin_confirmacion_texto",
+      "validacion_visual": "no_realizada"
+    }
   ]
 }
