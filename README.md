@@ -19,10 +19,8 @@ La ISO generada por el ejecutable contiene **21.805 de 26.258 unidades técnicas
 | Apariciones físicas de diálogo pendientes | 1.686 |
 | Bloques de signos originales conservados | 363 |
 | Textos de script insertados | 503 |
-| Propuestas adicionales HY-MT2 revisadas | 500 |
-| Borradores HY-MT2 todavía sin revisión | 1.211 |
 
-Estas medidas tienen denominadores diferentes; no deben sumarse. Permanecen textos de tablas, títulos de capítulos, carteles y elementos del HUD por completar o comprobar.
+**Alcance vigente:** las propuestas adicionales pendientes de HY-MT2 no son deuda ni figuran en las métricas de cierre; las traducciones aprobadas se conservan. Los textos auténticos sin traducir sí siguen pendientes. Estas medidas tienen denominadores diferentes; no deben sumarse. Permanecen textos de tablas, títulos de capítulos, carteles y elementos del HUD por completar o comprobar.
 
 ## Usar el parcheador
 
