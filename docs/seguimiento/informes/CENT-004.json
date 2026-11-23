@@ -1,0 +1,109 @@
+{
+  "id": "CENT-004",
+  "fecha": "2026-11-23",
+  "base_main": "a237b8bc63d9b8566894ec0e775ab5a564107152",
+  "tipo": "editorial_solo",
+  "grupos_investigados": [
+    598,
+    611,
+    731,
+    951,
+    1843,
+    1845,
+    1848,
+    1849,
+    1850,
+    1851,
+    1852,
+    1853
+  ],
+  "aprobados": [
+    {
+      "grupo_id": 598,
+      "original": "水属性UP",
+      "traduccion": "Aumenta el atributo celeste.",
+      "evidencia": [
+        {
+          "ruta": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+          "grupo_id": 1876,
+          "cita_corta": "青(氷)・紫(補助、状態変化)・水(回復)",
+          "conclusion": "Azul= hielo; 水= curación en lista de siete atributos"
+        },
+        {
+          "ruta": "corpus/13/entrada.csv",
+          "grupo_id": 599,
+          "cita_corta": "水属性追加",
+          "conclusion": "La etiqueta vecina se localizó con azul claro"
+        },
+        {
+          "ruta": "glosario/terminos_investigados.csv",
+          "entrada": "水色の地場",
+          "conclusion": "La corriente de curación se denomina celeste"
+        }
+      ],
+      "estado": "revisado_editorial",
+      "insercion": "no_comprobada",
+      "visual": "sin_prueba"
+    }
+  ],
+  "pendientes": [
+    {
+      "grupo_id": 611,
+      "motivo": "Prefijo numérico 1 potencial control sin DLC original"
+    },
+    {
+      "grupo_id": 731,
+      "motivo": "Prefijo numérico 1 potencial control sin DLC original"
+    },
+    {
+      "grupo_id": 951,
+      "motivo": "Prefijo numérico 2 potencial control sin DLC original"
+    },
+    {
+      "grupo_id": 1843,
+      "motivo": "Opciones y diálogo talk00 de varias unidades; exige reconstrucción estructural completa antes de aprobar"
+    },
+    {
+      "grupo_id": 1845,
+      "motivo": "Opciones y diálogo talk00 de varias unidades; exige reconstrucción estructural completa antes de aprobar"
+    },
+    {
+      "grupo_id": 1848,
+      "motivo": "Opciones y diálogo talk00 de varias unidades; exige reconstrucción estructural completa antes de aprobar"
+    },
+    {
+      "grupo_id": 1849,
+      "motivo": "Opciones y diálogo talk00 de varias unidades; exige reconstrucción estructural completa antes de aprobar"
+    },
+    {
+      "grupo_id": 1850,
+      "motivo": "Opciones y diálogo talk00 de varias unidades; exige reconstrucción estructural completa antes de aprobar"
+    },
+    {
+      "grupo_id": 1851,
+      "motivo": "Opciones y diálogo talk00 de varias unidades; exige reconstrucción estructural completa antes de aprobar"
+    },
+    {
+      "grupo_id": 1852,
+      "motivo": "Opciones y diálogo talk00 de varias unidades; exige reconstrucción estructural completa antes de aprobar"
+    },
+    {
+      "grupo_id": 1853,
+      "motivo": "Opciones y diálogo talk00 de varias unidades; exige reconstrucción estructural completa antes de aprobar"
+    }
+  ],
+  "conteos": {
+    "centrales_revisados": 29,
+    "centrales_pendientes": 480,
+    "editoriales_total_revisados": 14756,
+    "editoriales_total_pendientes": 769
+  },
+  "pruebas_reales_nuevas": {
+    "iso_modificada": false,
+    "dlc_originales_accesibles": false,
+    "ppsspp_ejecutado": false,
+    "assets_modificados": false
+  },
+  "exclusion": "Borradores adicionales pendientes de HY-MT2 fuera del alcance y de las métricas",
+  "siguiente": "docs/seguimiento/prompts/SIGUIENTE_RELEVO.md"
+}

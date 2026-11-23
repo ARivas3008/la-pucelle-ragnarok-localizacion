@@ -1,17 +1,12 @@
 {
   "esquema": "estado_v1",
   "fecha": "2026-11-23",
-  "base_main": "d2f3b0ced36173c8535c1ef3fcfb0124aacb1cf0",
+  "base_main": "a237b8bc63d9b8566894ec0e775ab5a564107152",
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
     "revisados": 14727,
     "requieren_investigacion": 289
-  },
-  "hymt2": {
-    "total_documentado": 1711,
-    "revisadas_documentadas": 500,
-    "pendientes_documentadas": 1211
   },
   "unidades": {
     "total": 26258,
@@ -44,11 +39,11 @@
     "PPSSPP no disponible",
     "clon Windows no montado"
   ],
-  "siguiente_tarea": "CENT-004",
+  "siguiente_tarea": "RELEVO-002",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 481,
-    "revisados": 28,
+    "pendientes": 480,
+    "revisados": 29,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": true
   },
@@ -56,22 +51,26 @@
     "total_grupos_conocidos": 15525,
     "revisados_en_reparto": 14727,
     "pendientes_en_reparto": 289,
-    "pendientes_centrales": 481,
-    "pendientes_minimos": 770,
+    "pendientes_centrales": 480,
+    "pendientes_minimos": 769,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 28,
-    "revisados_editoriales_conocidos": 14755
+    "revisados_centrales": 29,
+    "revisados_editoriales_conocidos": 14756
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Los 509 grupos centrales están todos pendientes; iniciar lote verificable de 20 con terminología documentada.",
+  "criterio_siguiente": "CENT-004: grupo 598 documentado; quedan 11 ambiguos, 480 grupos centrales pendientes. Resolver próximos mediante fuente y parser sin aprobar fragmentos aislados; continuar tareas independientes.",
   "revisiones_nuevas_en_esta_rama": {
-    "editoriales_centrales": 8,
+    "editoriales_centrales": 1,
     "insertadas_fisicamente": 0,
     "validacion_visual": 0,
     "fuente": "data/preexistentes/509_revision_central.csv",
-    "lote": "CENT-003"
+    "lote": "CENT-004"
+  },
+  "exclusiones_del_alcance": {
+    "hymt2_pendientes": "excluido",
+    "regla": "Las propuestas adicionales pendientes de HY-MT2 no son tarea obligatoria ni denominador. Los textos auténticos del juego siguen sujetos a traducción e integración."
   }
 }

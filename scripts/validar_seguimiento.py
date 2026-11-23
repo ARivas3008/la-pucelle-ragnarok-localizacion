@@ -1,10 +1,15 @@
 """Comprueba inventarios contra el checkout actual; no modifica datos."""
 from pathlib import Path
-import csv,json,collections
+import csv,json,collections,hashlib
 R=Path(__file__).resolve().parents[1]; P=R/"docs/seguimiento"
 def load(x): return json.loads((P/x).read_text(encoding="utf-8"))
 def main():
  t=load("inventario_textos.json");g=load("inventario_graficos.json");s=load("estado.json")
+ assert "hymt2" not in s, "HY-MT2 no debe figurar como indicador activo"
+ assert s["exclusiones_del_alcance"]["hymt2_pendientes"]=="excluido"
+ relay=(P/"prompts/SIGUIENTE_RELEVO.md").read_text(encoding="utf-8")
+ for token in ("14. OBLIGACIÓN RECURSIVA", "14.8.", "NO TERMINES UNA EJECUCIÓN", "HY-MT2", "Traducción", "Gráficos", "Romhacking", "Betatesting"):
+  assert token in relay, f"Relevo incompleto: {token}"
  ids=set();cnt=collections.Counter()
  assert len(t["corpus"])==15
  for c in t["corpus"]:
@@ -23,6 +28,9 @@ def main():
  central=t["centrales"]
  with (R/central["fuente"]).open(encoding="utf-8-sig",newline="") as fp:
   actual_central={x["grupo_id"]:(x["estado"],x["es_revisado"]) for x in csv.DictReader(fp)}
+ raw_central=(R/central["fuente"]).read_bytes()
+ central_blob=hashlib.sha1(b"blob "+str(len(raw_central)).encode()+b"\0"+raw_central).hexdigest()
+ assert central["sha_revision"]==central_blob, "El inventario no apunta al CSV central vigente"
  assert len(actual_central)==central["total"]==509
  pending={str(x) for x in central["grupo_ids_pendientes"]}
  reviewed={str(x) for x in central["grupo_ids_revisados"]}
@@ -34,5 +42,7 @@ def main():
  assert s["grupos_centrales"]["pendientes"]==len(pending)
  assert s["grupos_centrales"]["revisados"]==len(reviewed)
  assert s["editorial_catalogo"]["pendientes_minimos"]==cnt["requiere_investigacion"]+len(pending)
+ assert s["editorial_catalogo"]["revisados_editoriales_conocidos"]==cnt["revisado"]+len(reviewed)
+ assert t["resumen_editorial_ampliado"]["pendientes_minimos_conocidos"]==s["editorial_catalogo"]["pendientes_minimos"]
  print(json.dumps({"ok":True,"grupos":len(ids),"unidades":len(m),"graficos":len(expected)}))
 if __name__=="__main__":main()
