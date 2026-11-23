@@ -10,6 +10,8 @@ on:
       - 'parcheador/app/tests/test_talk_opciones_seguras_v020.py'
       - 'scripts/auditar_bgpack_original.py'
       - 'scripts/test_bgpack_auditoria.py'
+      - 'scripts/inspeccionar_txp_bgpack.py'
+      - 'scripts/test_txp_bgpack.py'
   pull_request:
     paths:
       - 'docs/seguimiento/**'
@@ -20,6 +22,8 @@ on:
       - 'parcheador/app/tests/test_talk_opciones_seguras_v020.py'
       - 'scripts/auditar_bgpack_original.py'
       - 'scripts/test_bgpack_auditoria.py'
+      - 'scripts/inspeccionar_txp_bgpack.py'
+      - 'scripts/test_txp_bgpack.py'
 permissions:
   contents: read
 jobs:
@@ -38,3 +42,5 @@ jobs:
         run: python -m unittest discover -s parcheador/app/tests -p 'test_talk_opciones_seguras_v020.py' -v
       - name: Auditar estructura BGPACK sintética (sin originales)
         run: python -m unittest discover -s scripts -p 'test_bgpack_auditoria.py' -v
+      - name: Pruebas sintéticas de TXP 4 y 8 bpp, swizzle y CLUT
+        run: python -m unittest discover -s scripts -p 'test_txp_bgpack.py' -v
