@@ -20,5 +20,14 @@ def main():
  assert len(m)==len(d)==26258 and expected=={x["unit_id"] for x in g["unidades"]} and len(expected)==62
  for x in g["unidades"]:
   assert d[x["unit_id"]]["grupo_id"]==str(x["grupo_id"]) and d[x["unit_id"]]["recurso"]==x["recurso"],x["id"]
+ central=t["centrales"]
+ with (R/central["fuente"]).open(encoding="utf-8-sig",newline="") as fp:
+  actual_central={x["grupo_id"]:(x["estado"],x["es_revisado"]) for x in csv.DictReader(fp)}
+ assert len(actual_central)==central["total"]==509
+ assert set(actual_central)=={str(x) for x in central["grupo_ids_pendientes"]}
+ assert not ids.intersection(actual_central), "Grupo central duplicado"
+ assert all(st=="pendiente" and not es.strip() for st,es in actual_central.values())
+ assert s["grupos_centrales"]["pendientes"]==len(actual_central)
+ assert s["editorial_catalogo"]["pendientes_minimos"]==cnt["requiere_investigacion"]+len(actual_central)
  print(json.dumps({"ok":True,"grupos":len(ids),"unidades":len(m),"graficos":len(expected)}))
 if __name__=="__main__":main()
