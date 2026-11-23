@@ -44,5 +44,20 @@
     "PPSSPP no disponible",
     "clon Windows no montado"
   ],
-  "siguiente_tarea": "REV-002"
+  "siguiente_tarea": "REV-002",
+  "grupos_centrales": {
+    "total": 509,
+    "pendientes": 509,
+    "revisados": 0,
+    "fuente": "data/preexistentes/509_revision_central.csv",
+    "leido_directamente_de_main": true
+  },
+  "editorial_catalogo": {
+    "total_grupos_conocidos": 15525,
+    "revisados_en_reparto": 14727,
+    "pendientes_en_reparto": 289,
+    "pendientes_centrales": 509,
+    "pendientes_minimos": 798,
+    "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario."
+  }
 }
