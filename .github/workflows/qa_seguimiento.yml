@@ -1,0 +1,24 @@
+name: QA de inventarios de seguimiento
+on:
+  push:
+    paths:
+      - 'docs/seguimiento/**'
+      - 'scripts/validar_seguimiento.py'
+      - '.github/workflows/qa_seguimiento.yml'
+  pull_request:
+    paths:
+      - 'docs/seguimiento/**'
+      - 'scripts/validar_seguimiento.py'
+      - '.github/workflows/qa_seguimiento.yml'
+permissions:
+  contents: read
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validar IDs, corpus, destinos gráficos y contadores
+        run: python scripts/validar_seguimiento.py
