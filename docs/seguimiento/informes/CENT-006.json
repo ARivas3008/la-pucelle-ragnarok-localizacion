@@ -412,7 +412,8 @@
   },
   "romhacking": {
     "test_nuevo": "parcheador/app/tests/test_talk_opciones_seguras_v020.py",
-    "estado": "fixtures sintéticos sobre parser y reversibilidad; sin EDAT original"
+    "estado": "fixtures sintéticos sobre parser y reversibilidad; sin EDAT original",
+    "descripcion_prueba": "El parser trata cada opción como subtoken con delimitadores. Se permiten reemplazos íntegros y se rechazan cortes en medio de las opciones. El reemplazo del selector completo también se valida con fixtures sintéticos; NO demuestra el comportamiento real de DLC_00."
   },
   "estado_despues": {
     "centrales_revisados": 88,
