@@ -68,7 +68,7 @@
 1891,,pendiente,,
 1895,,pendiente,,
 1896,,pendiente,,
-1897,,pendiente,,
+1897,Lo mismo ocurre cuando el enemigo te ataca.,revisado,"Original japonés cotejado en manifiesto por grupo 1897 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1897|glosario:terminos_investigados.csv
 1898,,pendiente,,
 1899,,pendiente,,
 1900,,pendiente,,
@@ -76,28 +76,28 @@
 1902,,pendiente,,
 1903,,pendiente,,
 1904,,pendiente,,
-1906,,pendiente,,
-1907,,pendiente,,
-1908,,pendiente,,
+1906,Los portales oscuros y las corrientes de energía oscura que emanan de ellos perjudican a tus aliados.,revisado,"Original japonés cotejado en manifiesto por grupo 1906 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1906|glosario:terminos_investigados.csv
+1907,Purificar los portales oscuros también puede impedir que aparezcan nuevos enemigos.,revisado,"Original japonés cotejado en manifiesto por grupo 1907 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1907|glosario:terminos_investigados.csv
+1908,Procura purificar todos los portales oscuros que puedas en cada mapa.,revisado,"Original japonés cotejado en manifiesto por grupo 1908 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1908|glosario:terminos_investigados.csv
 1909,,pendiente,,
 1910,,pendiente,,
-1911,,pendiente,,
-1912,,pendiente,,
-1913,,pendiente,,
-1914,,pendiente,,
-1915,,pendiente,,
-1916,,pendiente,,
-1917,,pendiente,,
-1918,,pendiente,,
+1911,"Los portales oscuros y las corrientes de energía oscura perjudican a tus aliados, pero también puedes aprovecharlos para atacar al enemigo.",revisado,"Original japonés cotejado en manifiesto por grupo 1911 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1911|glosario:terminos_investigados.csv
+1912,"Cuando purificas un portal oscuro, el efecto se propaga siguiendo la corriente de energía.",revisado,"Original japonés cotejado en manifiesto por grupo 1912 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1912|glosario:terminos_investigados.csv
+1913,Así funciona: los enemigos situados sobre esa corriente reciben daño.,revisado,"Original japonés cotejado en manifiesto por grupo 1913 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1913|glosario:terminos_investigados.csv
+1914,"Dicho de otro modo, creas una trampa aprovechando la corriente de energía.",revisado,"Original japonés cotejado en manifiesto por grupo 1914 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1914|glosario:terminos_investigados.csv
+1915,"Pero si una unidad mira de frente hacia la corriente, detendrá su avance.",revisado,"Original japonés cotejado en manifiesto por grupo 1915 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1915|glosario:terminos_investigados.csv
+1916,La corriente cambia de dirección según hacia dónde mire la unidad que esté sobre ella.,revisado,"Original japonés cotejado en manifiesto por grupo 1916 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1916|glosario:terminos_investigados.csv
+1917,También puedes cambiar la dirección de la corriente con el objeto «Cambio de rumbo».,revisado,"Original japonés cotejado en manifiesto por grupo 1917 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1917|glosario:terminos_investigados.csv
+1918,Colócalo sobre la corriente y pulsa □ para elegir la dirección.,revisado,"Original japonés cotejado en manifiesto por grupo 1918 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1918|glosario:terminos_investigados.csv
 1919,,pendiente,,
 1920,,pendiente,,
-1921,,pendiente,,
-1922,,pendiente,,
-1923,,pendiente,,
-1925,,pendiente,,
-1926,,pendiente,,
-1927,,pendiente,,
-1928,,pendiente,,
+1921,"Es un objeto útil, pero desaparece al completar el mapa. Piensa bien dónde lo colocas.",revisado,"Original japonés cotejado en manifiesto por grupo 1921 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1921|glosario:terminos_investigados.csv
+1922,"Como ya habrás notado, lo más importante al preparar una trampa de purificación es la orientación y la posición.",revisado,"Original japonés cotejado en manifiesto por grupo 1922 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1922|glosario:terminos_investigados.csv
+1923,"Puede resultar algo complicado, pero ¡qué satisfacción cuando la trampa funciona!",revisado,"Original japonés cotejado en manifiesto por grupo 1923 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1923|glosario:terminos_investigados.csv
+1925,"Si purificas a un enemigo antes de derrotarlo, puede que se una a tu equipo.",revisado,"Original japonés cotejado en manifiesto por grupo 1925 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1925|glosario:terminos_investigados.csv
+1926,"Cuantas más veces lo purifiques, más posibilidades habrá de que se una a tu equipo.",revisado,"Original japonés cotejado en manifiesto por grupo 1926 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1926|glosario:terminos_investigados.csv
+1927,"Si quieres reclutar a un enemigo, purifícalo varias veces antes de derrotarlo.",revisado,"Original japonés cotejado en manifiesto por grupo 1927 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1927|glosario:terminos_investigados.csv
+1928,"Si ya tienes aliados de esa especie, será más difícil reclutar a otros. Tendrás que insistir con la purificación.",revisado,"Original japonés cotejado en manifiesto por grupo 1928 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1928|glosario:terminos_investigados.csv
 1931,,pendiente,,
 1932,,pendiente,,
 1933,,pendiente,,
