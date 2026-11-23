@@ -1,0 +1,168 @@
+{
+  "id": "CENT-003",
+  "fecha": "2026-11-23",
+  "base_main": "49a68d1ed48dd3b55fcc9bacc756de7b539b0d12",
+  "tipo": "editorial_solo",
+  "fuente_japones": "maestro original ZIP de proyecto fechado 2026-11-14, grupos pertinentes 588..1853",
+  "fuente_revision": "data/preexistentes/509_revision_central.csv",
+  "grupos_evaluados": [
+    588,
+    590,
+    592,
+    594,
+    596,
+    598,
+    600,
+    607,
+    611,
+    731,
+    834,
+    951,
+    1843,
+    1845,
+    1848,
+    1849,
+    1850,
+    1851,
+    1852,
+    1853
+  ],
+  "grupos_aprobados": [
+    {
+      "grupo_id": 588,
+      "original": "赤属性UP",
+      "es_revisado": "Aumenta el atributo rojo.",
+      "estado": "revisado_editorial",
+      "insercion": "no_comprobada",
+      "visual": "sin_prueba"
+    },
+    {
+      "grupo_id": 590,
+      "original": "緑属性UP",
+      "es_revisado": "Aumenta el atributo verde.",
+      "estado": "revisado_editorial",
+      "insercion": "no_comprobada",
+      "visual": "sin_prueba"
+    },
+    {
+      "grupo_id": 592,
+      "original": "黄属性UP",
+      "es_revisado": "Aumenta el atributo amarillo.",
+      "estado": "revisado_editorial",
+      "insercion": "no_comprobada",
+      "visual": "sin_prueba"
+    },
+    {
+      "grupo_id": 594,
+      "original": "青属性UP",
+      "es_revisado": "Aumenta el atributo azul.",
+      "estado": "revisado_editorial",
+      "insercion": "no_comprobada",
+      "visual": "sin_prueba"
+    },
+    {
+      "grupo_id": 596,
+      "original": "紫属性UP",
+      "es_revisado": "Aumenta el atributo morado.",
+      "estado": "revisado_editorial",
+      "insercion": "no_comprobada",
+      "visual": "sin_prueba"
+    },
+    {
+      "grupo_id": 600,
+      "original": "白属性UP",
+      "es_revisado": "Aumenta el atributo blanco.",
+      "estado": "revisado_editorial",
+      "insercion": "no_comprobada",
+      "visual": "sin_prueba"
+    },
+    {
+      "grupo_id": 607,
+      "original": "MAP上の好きな場所にワープします",
+      "es_revisado": "Te teletransporta al lugar del mapa que elijas.",
+      "estado": "revisado_editorial",
+      "insercion": "no_comprobada",
+      "visual": "sin_prueba"
+    },
+    {
+      "grupo_id": 834,
+      "original": "全SPと引き換えに範囲内にいる者に大ダメージ",
+      "es_revisado": "Consume todos los PE para infligir gran daño a quienes estén en el área.",
+      "estado": "revisado_editorial",
+      "insercion": "no_comprobada",
+      "visual": "sin_prueba"
+    }
+  ],
+  "grupos_conservados_pendientes": [
+    {
+      "grupo_id": 598,
+      "estado": "pendiente",
+      "motivo": "水属性: incertidumbre sobre si es atributo de agua o color celeste/cian dentro de siete atributos"
+    },
+    {
+      "grupo_id": 611,
+      "estado": "pendiente",
+      "motivo": "Prefijo numérico 1/2 potencialmente técnico: no modificar sin analizar origen y formato"
+    },
+    {
+      "grupo_id": 731,
+      "estado": "pendiente",
+      "motivo": "Prefijo numérico 1/2 potencialmente técnico: no modificar sin analizar origen y formato"
+    },
+    {
+      "grupo_id": 951,
+      "estado": "pendiente",
+      "motivo": "Prefijo numérico 1/2 potencialmente técnico: no modificar sin analizar origen y formato"
+    },
+    {
+      "grupo_id": 1843,
+      "estado": "pendiente",
+      "motivo": "Diálogo/tutorial distribuido en múltiples unidades talk con controles y opciones: requiere reconstruir grupo y escena completos"
+    },
+    {
+      "grupo_id": 1845,
+      "estado": "pendiente",
+      "motivo": "Diálogo/tutorial distribuido en múltiples unidades talk con controles y opciones: requiere reconstruir grupo y escena completos"
+    },
+    {
+      "grupo_id": 1848,
+      "estado": "pendiente",
+      "motivo": "Diálogo/tutorial distribuido en múltiples unidades talk con controles y opciones: requiere reconstruir grupo y escena completos"
+    },
+    {
+      "grupo_id": 1849,
+      "estado": "pendiente",
+      "motivo": "Diálogo/tutorial distribuido en múltiples unidades talk con controles y opciones: requiere reconstruir grupo y escena completos"
+    },
+    {
+      "grupo_id": 1850,
+      "estado": "pendiente",
+      "motivo": "Diálogo/tutorial distribuido en múltiples unidades talk con controles y opciones: requiere reconstruir grupo y escena completos"
+    },
+    {
+      "grupo_id": 1851,
+      "estado": "pendiente",
+      "motivo": "Diálogo/tutorial distribuido en múltiples unidades talk con controles y opciones: requiere reconstruir grupo y escena completos"
+    },
+    {
+      "grupo_id": 1852,
+      "estado": "pendiente",
+      "motivo": "Diálogo/tutorial distribuido en múltiples unidades talk con controles y opciones: requiere reconstruir grupo y escena completos"
+    },
+    {
+      "grupo_id": 1853,
+      "estado": "pendiente",
+      "motivo": "Diálogo/tutorial distribuido en múltiples unidades talk con controles y opciones: requiere reconstruir grupo y escena completos"
+    }
+  ],
+  "conteos_despues": {
+    "revisados_centrales": 28,
+    "pendientes_centrales": 481,
+    "pendientes_editoriales_minimos_conocidos": 770
+  },
+  "seguridad": [
+    "No se editaron datos binarios, ni original, ni maestro",
+    "No se declara inserción física ni prueba PPSSPP",
+    "Los límites de longitud/CP932 deben cotejarse con el motor real"
+  ]
+}
