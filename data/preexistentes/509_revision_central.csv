@@ -1,24 +1,24 @@
 ﻿grupo_id,es_revisado,estado,notas_editoriales,referencias_consultadas
-16,,pendiente,,
-211,,pendiente,,
-212,,pendiente,,
-266,,pendiente,,
-544,,pendiente,,
-546,,pendiente,,
-548,,pendiente,,
-550,,pendiente,,
-552,,pendiente,,
-554,,pendiente,,
-556,,pendiente,,
-558,,pendiente,,
-560,,pendiente,,
-561,,pendiente,,
-562,,pendiente,,
-563,,pendiente,,
-564,,pendiente,,
-565,,pendiente,,
-566,,pendiente,,
-567,,pendiente,,
+16,"Prier, Señora Demonio",revisado,魔王プリエ: título propio confirmado en glosario; no traducir Prier. La adaptación al búfer y pantalla queda pendiente.,glosario:魔王プリエ
+211,Regalar un libro erótico,revisado,"Hな本をあげる: comando de acción en infinitivo. Hな本 es libro erótico, no revista; separarlo de la descripción 212.",glosario:Hな本
+212,Regalar un libro erótico al personaje,revisado,Hな本をプレゼントします: descripción de la acción 211; el destinatario procede del contexto de com.dat. Inserción y espacio pendientes.,glosario:Hな本
+266,Hacer que se retire a la montaña para entrenar,revisado,山ごもりして修行させます: distingue retiro en montaña y entrenamiento; no implica castigo escolar. Longitud física no certificada.,glosario:山ごもり
+544,Crecimiento de PV,revisado,HPソダーツ: habilidad de crecimiento de atributo; distinta de アガール. Abreviatura de estadística uniforme. No se declara insertada.,glosario:ソダーツ
+546,Crecimiento de PE,revisado,SPソダーツ: habilidad de crecimiento de atributo; distinta de アガール. Abreviatura de estadística uniforme. No se declara insertada.,glosario:ソダーツ
+548,Crecimiento de ATQ,revisado,ATKソダーツ: habilidad de crecimiento de atributo; distinta de アガール. Abreviatura de estadística uniforme. No se declara insertada.,glosario:ソダーツ
+550,Crecimiento de DEF,revisado,DEFソダーツ: habilidad de crecimiento de atributo; distinta de アガール. Abreviatura de estadística uniforme. No se declara insertada.,glosario:ソダーツ
+552,Crecimiento de INT,revisado,INTソダーツ: habilidad de crecimiento de atributo; distinta de アガール. Abreviatura de estadística uniforme. No se declara insertada.,glosario:ソダーツ
+554,Crecimiento de VEL,revisado,SPDソダーツ: habilidad de crecimiento de atributo; distinta de アガール. Abreviatura de estadística uniforme. No se declara insertada.,glosario:ソダーツ
+556,Crecimiento de PREC,revisado,HITソダーツ: habilidad de crecimiento de atributo; distinta de アガール. Abreviatura de estadística uniforme. No se declara insertada.,glosario:ソダーツ
+558,Crecimiento de RES,revisado,RESソダーツ: habilidad de crecimiento de atributo; distinta de アガール. Abreviatura de estadística uniforme. No se declara insertada.,glosario:ソダーツ
+560,Aumento de PV,revisado,HPアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
+561,Aumento de PE,revisado,SPアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
+562,Aumento de ATQ,revisado,ATKアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
+563,Aumento de DEF,revisado,DEFアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
+564,Aumento de INT,revisado,INTアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
+565,Aumento de VEL,revisado,SPDアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
+566,Aumento de PREC,revisado,HITアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
+567,Aumento de RES,revisado,RESアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
 588,,pendiente,,
 590,,pendiente,,
 592,,pendiente,,

@@ -24,10 +24,15 @@ def main():
  with (R/central["fuente"]).open(encoding="utf-8-sig",newline="") as fp:
   actual_central={x["grupo_id"]:(x["estado"],x["es_revisado"]) for x in csv.DictReader(fp)}
  assert len(actual_central)==central["total"]==509
- assert set(actual_central)=={str(x) for x in central["grupo_ids_pendientes"]}
+ pending={str(x) for x in central["grupo_ids_pendientes"]}
+ reviewed={str(x) for x in central["grupo_ids_revisados"]}
+ assert len(pending)==central["estados"]["pendiente"] and len(reviewed)==central["estados"]["revisado"]
+ assert pending.isdisjoint(reviewed) and set(actual_central)==pending|reviewed
  assert not ids.intersection(actual_central), "Grupo central duplicado"
- assert all(st=="pendiente" and not es.strip() for st,es in actual_central.values())
- assert s["grupos_centrales"]["pendientes"]==len(actual_central)
- assert s["editorial_catalogo"]["pendientes_minimos"]==cnt["requiere_investigacion"]+len(actual_central)
+ assert all(actual_central[i][0]=="pendiente" and not actual_central[i][1].strip() for i in pending)
+ assert all(actual_central[i][0]=="revisado" and actual_central[i][1].strip() for i in reviewed)
+ assert s["grupos_centrales"]["pendientes"]==len(pending)
+ assert s["grupos_centrales"]["revisados"]==len(reviewed)
+ assert s["editorial_catalogo"]["pendientes_minimos"]==cnt["requiere_investigacion"]+len(pending)
  print(json.dumps({"ok":True,"grupos":len(ids),"unidades":len(m),"graficos":len(expected)}))
 if __name__=="__main__":main()

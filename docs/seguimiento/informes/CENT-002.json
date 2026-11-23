@@ -1,0 +1,210 @@
+{
+  "id": "CENT-002",
+  "fecha": "2026-11-23",
+  "base_main": "757984d9dc1cf6fcf8cef02ff53d846c138be98c",
+  "tipo": "revisión_editorial_solamente",
+  "fuentes": [
+    "data/preexistentes/509_revision_central.csv",
+    "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv (snapshot usuario 14-11, sin editar)",
+    "glosario/terminos_investigados.csv (main actual)"
+  ],
+  "grupo_ids": [
+    16,
+    211,
+    212,
+    266,
+    544,
+    546,
+    548,
+    550,
+    552,
+    554,
+    556,
+    558,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567
+  ],
+  "total": 20,
+  "estados_anteriores": {
+    "pendiente": 509,
+    "revisado": 0
+  },
+  "estados_nuevos": {
+    "pendiente": 489,
+    "revisado": 20
+  },
+  "originales_cotejados": [
+    {
+      "grupo_id": 16,
+      "original": "魔王プリエ",
+      "es_revisado": "Prier, Señora Demonio",
+      "referencia": "glosario:魔王プリエ",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 211,
+      "original": "Hな本をあげる",
+      "es_revisado": "Regalar un libro erótico",
+      "referencia": "glosario:Hな本",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 212,
+      "original": "Hな本をプレゼントします",
+      "es_revisado": "Regalar un libro erótico al personaje",
+      "referencia": "glosario:Hな本",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 266,
+      "original": "山ごもりして修行させます",
+      "es_revisado": "Hacer que se retire a la montaña para entrenar",
+      "referencia": "glosario:山ごもり",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 544,
+      "original": "HPソダーツ",
+      "es_revisado": "Crecimiento de PV",
+      "referencia": "glosario:ソダーツ",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 546,
+      "original": "SPソダーツ",
+      "es_revisado": "Crecimiento de PE",
+      "referencia": "glosario:ソダーツ",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 548,
+      "original": "ATKソダーツ",
+      "es_revisado": "Crecimiento de ATQ",
+      "referencia": "glosario:ソダーツ",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 550,
+      "original": "DEFソダーツ",
+      "es_revisado": "Crecimiento de DEF",
+      "referencia": "glosario:ソダーツ",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 552,
+      "original": "INTソダーツ",
+      "es_revisado": "Crecimiento de INT",
+      "referencia": "glosario:ソダーツ",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 554,
+      "original": "SPDソダーツ",
+      "es_revisado": "Crecimiento de VEL",
+      "referencia": "glosario:ソダーツ",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 556,
+      "original": "HITソダーツ",
+      "es_revisado": "Crecimiento de PREC",
+      "referencia": "glosario:ソダーツ",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 558,
+      "original": "RESソダーツ",
+      "es_revisado": "Crecimiento de RES",
+      "referencia": "glosario:ソダーツ",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 560,
+      "original": "HPアガール",
+      "es_revisado": "Aumento de PV",
+      "referencia": "glosario:アガール",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 561,
+      "original": "SPアガール",
+      "es_revisado": "Aumento de PE",
+      "referencia": "glosario:アガール",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 562,
+      "original": "ATKアガール",
+      "es_revisado": "Aumento de ATQ",
+      "referencia": "glosario:アガール",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 563,
+      "original": "DEFアガール",
+      "es_revisado": "Aumento de DEF",
+      "referencia": "glosario:アガール",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 564,
+      "original": "INTアガール",
+      "es_revisado": "Aumento de INT",
+      "referencia": "glosario:アガール",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 565,
+      "original": "SPDアガール",
+      "es_revisado": "Aumento de VEL",
+      "referencia": "glosario:アガール",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 566,
+      "original": "HITアガール",
+      "es_revisado": "Aumento de PREC",
+      "referencia": "glosario:アガール",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    },
+    {
+      "grupo_id": 567,
+      "original": "RESアガール",
+      "es_revisado": "Aumento de RES",
+      "referencia": "glosario:アガール",
+      "insercion": "pendiente_cotejar",
+      "ppsspp": "no_ensayado"
+    }
+  ],
+  "advertencias": [
+    "El maestro local histórico fue usado como respaldo para leer el japonés; antes de insertar se debe cotejar con el maestro del commit de integración.",
+    "No se modificaron offsets ni se compiló una nueva candidata.",
+    "Los registros de traducción no cuentan como unidades técnicas insertadas.",
+    "Los términos de estadística requieren verificar límite real de bytes, glifos y espacio visual."
+  ]
+}

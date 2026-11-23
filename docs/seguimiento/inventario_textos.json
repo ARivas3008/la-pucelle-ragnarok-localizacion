@@ -15173,32 +15173,13 @@
   "nota": "Los datos fuente, idioma, destino, escena y texto revisado permanecen en los archivos de origen vinculados; no se atribuyen campos no comprobados. Revisado no significa insertado ni certificado en pantalla.",
   "centrales": {
     "fuente": "data/preexistentes/509_revision_central.csv",
-    "sha_revision": "4663146914e3bbaab00b453c67eca8e11ba7ba99",
+    "sha_revision": "930eaaf0c1bba4376e1e7c203f3e089be9092f79",
     "total": 509,
     "estados": {
-      "pendiente": 509
+      "pendiente": 489,
+      "revisado": 20
     },
     "grupo_ids_pendientes": [
-      16,
-      211,
-      212,
-      266,
-      544,
-      546,
-      548,
-      550,
-      552,
-      554,
-      556,
-      558,
-      560,
-      561,
-      562,
-      563,
-      564,
-      565,
-      566,
-      567,
       588,
       590,
       592,
@@ -15689,14 +15670,39 @@
       15210,
       15278
     ],
-    "nota": "Los 509 forman parte del catálogo maestro de 15525 grupos, no de los 15016 del reparto. No se consideraron revisados ni insertados por el hecho de estar catalogados."
+    "nota": "20 unidades/ grupos de primer lote revisadas editorialmente a partir de fuente japonesa y glosario, NO certificadas como insertadas. 489 sin revisión.",
+    "grupo_ids_revisados": [
+      16,
+      211,
+      212,
+      266,
+      544,
+      546,
+      548,
+      550,
+      552,
+      554,
+      556,
+      558,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567
+    ]
   },
   "resumen_editorial_ampliado": {
     "total_grupos_catalogo": 15525,
     "revisados_del_reparto": 14727,
     "requieren_investigacion_del_reparto": 289,
     "centrales_pendientes": 509,
-    "pendientes_minimos_conocidos": 798,
-    "alcance_aun_no_exhaustivo": true
+    "pendientes_minimos_conocidos": 778,
+    "alcance_aun_no_exhaustivo": true,
+    "pendientes_centrales": 489,
+    "revisados_centrales": 20,
+    "revisados_editoriales_conocidos": 14747
   }
 }
