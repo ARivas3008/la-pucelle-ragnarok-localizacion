@@ -1,0 +1,119 @@
+{
+  "id": "GFX-002",
+  "fecha": "2026-11-23",
+  "clase_evidencia": "A_ISO_autentica_visual_original_NO_PPSSPP",
+  "iso_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "bgpack_sha256": "56e26744c01ad34ac79b4170746ccb6157eb6c5585b09e0340e3dbaef8f42e78",
+  "procedimiento": "Extraídos a memoria los 8 TXP desde tabla NISPACK; validados width/height, cabeceras, CLUT y longitud; deswizzle reversible de 16x8 bytes; CLUT RGBA; imágenes originales renderizadas localmente e inspeccionadas, sin subir capturas/arte comercial.",
+  "texturas": [
+    {
+      "nombre": "title1.txp",
+      "ancho": 256,
+      "alto": 512,
+      "bpp": 8,
+      "sha256": "7933d764ef0ebf6320b7f27027e52c7125dbca1204c9b05d7243cedf89e2f850",
+      "apariencia": "ilustracion_de_personajes",
+      "dictamen": "sin_letras_de_interfaz_visibles",
+      "modificada": false,
+      "visible_en_candidata_v019": "no_comprobado"
+    },
+    {
+      "nombre": "wbg00.txp",
+      "ancho": 320,
+      "alto": 224,
+      "bpp": 4,
+      "sha256": "788220675566d5b112f4d4ef03458d8a22a9dc286ff14295496b7e5a67231e36",
+      "apariencia": "fondo_de_mapa_con_inscripciones_estilizadas",
+      "dictamen": "escritura_ficticia_amerita_criterio_localizacion",
+      "modificada": false,
+      "visible_en_candidata_v019": "no_comprobado"
+    },
+    {
+      "nombre": "wbg02.txp",
+      "ancho": 320,
+      "alto": 224,
+      "bpp": 4,
+      "sha256": "77c8a96c02a2f9269a62b7d9df9aa60e6a9bb605b52c8d8adc5cd60861b11896",
+      "apariencia": "marco_ornamental",
+      "dictamen": "sin_letras_de_interfaz_visibles",
+      "modificada": false,
+      "visible_en_candidata_v019": "no_comprobado"
+    },
+    {
+      "nombre": "wbg04.txp",
+      "ancho": 320,
+      "alto": 224,
+      "bpp": 4,
+      "sha256": "cb3c7093e730a6351ce4024f893e819820e4d454f192cd28ebd172df1fefb104",
+      "apariencia": "fondo_estelar",
+      "dictamen": "sin_letras_de_interfaz_visibles",
+      "modificada": false,
+      "visible_en_candidata_v019": "no_comprobado"
+    },
+    {
+      "nombre": "wbg05.txp",
+      "ancho": 320,
+      "alto": 224,
+      "bpp": 8,
+      "sha256": "0992857e70613c60c15de4a083b3c2e4b813f1440f60afc09f9f14e9ba0cc366",
+      "apariencia": "fondo_de_portal_magico",
+      "dictamen": "sin_letras_de_interfaz_visibles",
+      "modificada": false,
+      "visible_en_candidata_v019": "no_comprobado"
+    },
+    {
+      "nombre": "wbg06.txp",
+      "ancho": 320,
+      "alto": 224,
+      "bpp": 8,
+      "sha256": "bc3dbda86997ab1318d826a8b561bdbecbe0aece1aee6940dd0000ad967e5fd4",
+      "apariencia": "fondo_de_portal_magico",
+      "dictamen": "sin_letras_de_interfaz_visibles",
+      "modificada": false,
+      "visible_en_candidata_v019": "no_comprobado"
+    },
+    {
+      "nombre": "wmap.txp",
+      "ancho": 512,
+      "alto": 512,
+      "bpp": 8,
+      "sha256": "4cae81a1cedfbbaea3218ee9611db076d15e87c70409fccb35881555ed8e0f92",
+      "apariencia": "cartografia_con_toponimos_en_alfabeto_estilizado",
+      "dictamen": "escritura_ficticia_amerita_criterio_localizacion",
+      "modificada": false,
+      "visible_en_candidata_v019": "no_comprobado"
+    },
+    {
+      "nombre": "wmap_04.txp",
+      "ancho": 256,
+      "alto": 256,
+      "bpp": 8,
+      "sha256": "62883729f387626f38ec6aa94451f60c6d3cd962e3af2e1e2c106f1a422e59cd",
+      "apariencia": "ornamentos_sobre_fondo_transparente",
+      "dictamen": "sin_letras_de_interfaz_visibles",
+      "modificada": false,
+      "visible_en_candidata_v019": "no_comprobado"
+    }
+  ],
+  "clasificacion": {
+    "sin_texto_de_interfaz_aparente": 6,
+    "inscripciones_ficticias_o_estilizadas_que_requieren_decision": 2,
+    "texturas_adicionales_confirmadas_traducibles": 0,
+    "certificadas_ppsspp_v019": 0
+  },
+  "riesgos": [
+    "Los topónimos inscritos en wmap podrían ser escritura ficticia de ambientación; no traducir sin correlacionar con topónimos y reglas artísticas.",
+    "wbg00 también presenta marcas tipográficas decorativas; comprobar en juego si son legibles o meramente ornamentales.",
+    "No confundir una vista previa de los recursos originales con la validación de versión parcheada."
+  ],
+  "herramienta": "scripts/inspeccionar_txp_bgpack.py",
+  "pruebas": "scripts/test_txp_bgpack.py",
+  "no_incluir_binarios_comerciales": true,
+  "qa_sintetica": {
+    "clase_evidencia": "B",
+    "run_id": 45289527570,
+    "resultado": "success",
+    "pruebas": "swizzle 4 y 8 bpp, CLUT, cabeceras invalidas y roundtrip",
+    "no_certifica": "PPSSPP ni reparación del gráfico integrado"
+  }
+}

@@ -957,64 +957,161 @@
       "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/title1.txp",
       "offset": 67903488,
       "tamano_bytes": 132112,
-      "estado": "candidato_sin_confirmacion_texto",
-      "validacion_visual": "no_realizada"
+      "estado": "analizado_original_sin_insercion_ppsspp",
+      "validacion_visual": "no_realizada",
+      "analisis_original": {
+        "ancho": 256,
+        "alto": 512,
+        "bpp": 8,
+        "sha256_txp": "7933d764ef0ebf6320b7f27027e52c7125dbca1204c9b05d7243cedf89e2f850",
+        "apariencia": "ilustracion_de_personajes",
+        "dictamen": "sin_letras_de_interfaz_visibles",
+        "paleta_y_swizzle": "RGBA8888 CP932 no aplica a texturas; orden PSP reversible 16 bytes × 8 filas",
+        "clase_evidencia": "A: descodificado y visto desde ISO original; C: sin emulador",
+        "certificado_v019": false
+      }
     },
     {
       "nombre": "wbg00.txp",
       "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wbg00.txp",
       "offset": 68108288,
       "tamano_bytes": 35920,
-      "estado": "candidato_sin_confirmacion_texto",
-      "validacion_visual": "no_realizada"
+      "estado": "analizado_original_sin_insercion_ppsspp",
+      "validacion_visual": "no_realizada",
+      "analisis_original": {
+        "ancho": 320,
+        "alto": 224,
+        "bpp": 4,
+        "sha256_txp": "788220675566d5b112f4d4ef03458d8a22a9dc286ff14295496b7e5a67231e36",
+        "apariencia": "fondo_de_mapa_con_inscripciones_estilizadas",
+        "dictamen": "escritura_ficticia_amerita_criterio_localizacion",
+        "paleta_y_swizzle": "RGBA8888 CP932 no aplica a texturas; orden PSP reversible 16 bytes × 8 filas",
+        "clase_evidencia": "A: descodificado y visto desde ISO original; C: sin emulador",
+        "certificado_v019": false
+      }
     },
     {
       "nombre": "wbg02.txp",
       "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wbg02.txp",
       "offset": 68145152,
       "tamano_bytes": 35920,
-      "estado": "candidato_sin_confirmacion_texto",
-      "validacion_visual": "no_realizada"
+      "estado": "analizado_original_sin_insercion_ppsspp",
+      "validacion_visual": "no_realizada",
+      "analisis_original": {
+        "ancho": 320,
+        "alto": 224,
+        "bpp": 4,
+        "sha256_txp": "77c8a96c02a2f9269a62b7d9df9aa60e6a9bb605b52c8d8adc5cd60861b11896",
+        "apariencia": "marco_ornamental",
+        "dictamen": "sin_letras_de_interfaz_visibles",
+        "paleta_y_swizzle": "RGBA8888 CP932 no aplica a texturas; orden PSP reversible 16 bytes × 8 filas",
+        "clase_evidencia": "A: descodificado y visto desde ISO original; C: sin emulador",
+        "certificado_v019": false
+      }
     },
     {
       "nombre": "wbg04.txp",
       "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wbg04.txp",
       "offset": 68182016,
       "tamano_bytes": 35920,
-      "estado": "candidato_sin_confirmacion_texto",
-      "validacion_visual": "no_realizada"
+      "estado": "analizado_original_sin_insercion_ppsspp",
+      "validacion_visual": "no_realizada",
+      "analisis_original": {
+        "ancho": 320,
+        "alto": 224,
+        "bpp": 4,
+        "sha256_txp": "cb3c7093e730a6351ce4024f893e819820e4d454f192cd28ebd172df1fefb104",
+        "apariencia": "fondo_estelar",
+        "dictamen": "sin_letras_de_interfaz_visibles",
+        "paleta_y_swizzle": "RGBA8888 CP932 no aplica a texturas; orden PSP reversible 16 bytes × 8 filas",
+        "clase_evidencia": "A: descodificado y visto desde ISO original; C: sin emulador",
+        "certificado_v019": false
+      }
     },
     {
       "nombre": "wbg05.txp",
       "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wbg05.txp",
       "offset": 68218880,
       "tamano_bytes": 72720,
-      "estado": "candidato_sin_confirmacion_texto",
-      "validacion_visual": "no_realizada"
+      "estado": "analizado_original_sin_insercion_ppsspp",
+      "validacion_visual": "no_realizada",
+      "analisis_original": {
+        "ancho": 320,
+        "alto": 224,
+        "bpp": 8,
+        "sha256_txp": "0992857e70613c60c15de4a083b3c2e4b813f1440f60afc09f9f14e9ba0cc366",
+        "apariencia": "fondo_de_portal_magico",
+        "dictamen": "sin_letras_de_interfaz_visibles",
+        "paleta_y_swizzle": "RGBA8888 CP932 no aplica a texturas; orden PSP reversible 16 bytes × 8 filas",
+        "clase_evidencia": "A: descodificado y visto desde ISO original; C: sin emulador",
+        "certificado_v019": false
+      }
     },
     {
       "nombre": "wbg06.txp",
       "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wbg06.txp",
       "offset": 68292608,
       "tamano_bytes": 72720,
-      "estado": "candidato_sin_confirmacion_texto",
-      "validacion_visual": "no_realizada"
+      "estado": "analizado_original_sin_insercion_ppsspp",
+      "validacion_visual": "no_realizada",
+      "analisis_original": {
+        "ancho": 320,
+        "alto": 224,
+        "bpp": 8,
+        "sha256_txp": "bc3dbda86997ab1318d826a8b561bdbecbe0aece1aee6940dd0000ad967e5fd4",
+        "apariencia": "fondo_de_portal_magico",
+        "dictamen": "sin_letras_de_interfaz_visibles",
+        "paleta_y_swizzle": "RGBA8888 CP932 no aplica a texturas; orden PSP reversible 16 bytes × 8 filas",
+        "clase_evidencia": "A: descodificado y visto desde ISO original; C: sin emulador",
+        "certificado_v019": false
+      }
     },
     {
       "nombre": "wmap.txp",
       "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wmap.txp",
       "offset": 68366336,
       "tamano_bytes": 263184,
-      "estado": "candidato_sin_confirmacion_texto",
-      "validacion_visual": "no_realizada"
+      "estado": "analizado_original_sin_insercion_ppsspp",
+      "validacion_visual": "no_realizada",
+      "analisis_original": {
+        "ancho": 512,
+        "alto": 512,
+        "bpp": 8,
+        "sha256_txp": "4cae81a1cedfbbaea3218ee9611db076d15e87c70409fccb35881555ed8e0f92",
+        "apariencia": "cartografia_con_toponimos_en_alfabeto_estilizado",
+        "dictamen": "escritura_ficticia_amerita_criterio_localizacion",
+        "paleta_y_swizzle": "RGBA8888 CP932 no aplica a texturas; orden PSP reversible 16 bytes × 8 filas",
+        "clase_evidencia": "A: descodificado y visto desde ISO original; C: sin emulador",
+        "certificado_v019": false
+      }
     },
     {
       "nombre": "wmap_04.txp",
       "recurso": "ISO/PSP_GAME/USRDIR/BGPACK.DAT/wmap_04.txp",
       "offset": 68763648,
       "tamano_bytes": 66576,
-      "estado": "candidato_sin_confirmacion_texto",
-      "validacion_visual": "no_realizada"
+      "estado": "analizado_original_sin_insercion_ppsspp",
+      "validacion_visual": "no_realizada",
+      "analisis_original": {
+        "ancho": 256,
+        "alto": 256,
+        "bpp": 8,
+        "sha256_txp": "62883729f387626f38ec6aa94451f60c6d3cd962e3af2e1e2c106f1a422e59cd",
+        "apariencia": "ornamentos_sobre_fondo_transparente",
+        "dictamen": "sin_letras_de_interfaz_visibles",
+        "paleta_y_swizzle": "RGBA8888 CP932 no aplica a texturas; orden PSP reversible 16 bytes × 8 filas",
+        "clase_evidencia": "A: descodificado y visto desde ISO original; C: sin emulador",
+        "certificado_v019": false
+      }
     }
-  ]
+  ],
+  "auditoria_txp_visual_original": {
+    "informe": "docs/seguimiento/informes/GFX-002_txp_original.json",
+    "candidatos_decodificados": 8,
+    "candidatos_sin_texto_interfaz_visible": 6,
+    "inscripciones_ficticias_por_resolver": 2,
+    "certificados_en_v019": 0,
+    "tecnica": "TXP 4/8bpp + CLUT RGBA8888 PSP swizzle 16x8; reversibilidad original comprobada",
+    "prohibicion": "No sumar automáticamente estos ocho a 62; no certifica ninguna textura parcheada"
+  }
 }
