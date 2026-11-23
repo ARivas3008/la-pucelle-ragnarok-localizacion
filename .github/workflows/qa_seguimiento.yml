@@ -7,13 +7,13 @@ on:
       - '.github/workflows/qa_seguimiento.yml'
       - 'parcheador/app/tests/test_magic_prefijos_v020.py'
       - 'parcheador/app/scripts/campos_revisados.py'
-      - 'parcheador/app/tests/test_magic_prefijos_v020.py'
-      - 'parcheador/app/scripts/campos_revisados.py'
   pull_request:
     paths:
       - 'docs/seguimiento/**'
       - 'scripts/validar_seguimiento.py'
       - '.github/workflows/qa_seguimiento.yml'
+      - 'parcheador/app/tests/test_magic_prefijos_v020.py'
+      - 'parcheador/app/scripts/campos_revisados.py'
 permissions:
   contents: read
 jobs:
