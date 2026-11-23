@@ -93,5 +93,12 @@
     "desc": "193 de 219 descripciones magic.dat del DLC_00 en campo 41 comienzan con dígito; patrones 1/2/3 indican posiblemente NFKC de símbolos numerados CP932; falta contraste EDAT autenticado",
     "defensa_codigo": "conservar_icono() de campos_revisados.py conserva símbolos ①...⑳, match_source() coteja NFKC; añadidas pruebas sintéticas, sin prueba física",
     "dictamen": "No cerrar 611/731/951 sin comprobar EDAT auténtico. Las pruebas sintéticas de marcadores no equivalen a bytes DLC."
+  },
+  "ci_relevo005": {
+    "commit_evaluado": "a617b71a9580e704dbad945512919df4e6218f08",
+    "qa_corpus": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45289527508",
+    "qa_seguimiento_y_txp": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45289527570",
+    "resultado": "exitos_ambos",
+    "alcance": "corpus y tests sintéticos; ninguna prueba PSP real, ni build completa ISO+DLC"
   }
 }

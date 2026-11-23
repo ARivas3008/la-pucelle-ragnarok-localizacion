@@ -113,8 +113,9 @@
     {
       "id": "ROM-018",
       "tipo": "TXP reversibilidad swizzle 4/8bpp con fixtures",
-      "estado": "prueba_CI_sintetica_pendiente_resultado",
-      "evidencia": "scripts/test_txp_bgpack.py"
+      "estado": "pruebas_sinteticas_aprobadas_en_CI_sin_evidencia_de_emulador",
+      "evidencia": "scripts/test_txp_bgpack.py",
+      "ci": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45289527570"
     }
   ]
 }

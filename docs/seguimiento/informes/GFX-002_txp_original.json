@@ -108,5 +108,12 @@
   ],
   "herramienta": "scripts/inspeccionar_txp_bgpack.py",
   "pruebas": "scripts/test_txp_bgpack.py",
-  "no_incluir_binarios_comerciales": true
+  "no_incluir_binarios_comerciales": true,
+  "qa_sintetica": {
+    "clase_evidencia": "B",
+    "run_id": 45289527570,
+    "resultado": "success",
+    "pruebas": "swizzle 4 y 8 bpp, CLUT, cabeceras invalidas y roundtrip",
+    "no_certifica": "PPSSPP ni reparación del gráfico integrado"
+  }
 }
