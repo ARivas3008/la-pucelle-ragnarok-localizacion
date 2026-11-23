@@ -1,0 +1,207 @@
+{
+  "id": "CENT-005",
+  "fecha": "2026-11-23",
+  "base_main": "8aee0d3f0a62b3d8ab57c7fcd53877c769d8beec",
+  "pr": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/pull/29",
+  "categoria": "revisión editorial + investigación estática + regresiones sintéticas",
+  "fuente_traduccion": "maestro japonés original en ZIP aportado (2026-11-14); contrastar con maestro vigente antes de insertar",
+  "recurso": "DLC_00/talk00.dat",
+  "aprobados": [
+    {
+      "grupo_id": 1897,
+      "original_japones": "敵ユニットから攻撃されるときも同じだ。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1906,
+      "original_japones": "不浄点と、そこから流れ出る闇の地場は / 味方ユニットに悪影響を与える。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1907,
+      "original_japones": "また、不浄点を浄化すれば、 / 新たな敵の出現を防ぐこともできる。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1908,
+      "original_japones": "エリアマップにある不浄点は、 / できる限り、浄化しておくことだな。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1911,
+      "original_japones": "不浄点と闇の地場は味方ユニットに / 悪影響を与えるが、逆に利用して / 敵を攻撃することもできる。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1912,
+      "original_japones": "不浄点を浄化すると、地場の流れに沿って / 浄化効果が伝導する。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1913,
+      "original_japones": "そして、地場の上にいる敵ユニットに / ダメージを与えるってェ仕組みだ。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1914,
+      "original_japones": "わかりやすくいうなら、 / 『地場の流れを利用したトラップをつくる』 / ってことだな。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1915,
+      "original_japones": "ただし、地場の流れに対して / 正面を向いているユニットがいた場合、 / そこで流れが、せき止められてしまう。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1916,
+      "original_japones": "地場の流れは、その上に立っている / ユニットの『向き』によって / 方向が変わるってわけだ。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1917,
+      "original_japones": "地場の流れは『ムキカエール』という / アイテムでも変えることもできるぜ。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1918,
+      "original_japones": "地場の流れの上に配置して / □ボタンで方向を決めれば完了だ。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1921,
+      "original_japones": "便利なアイテムだが、 / そのエリアマップをクリアしたら / 消えるから、よく考えて配置しなよ。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1922,
+      "original_japones": "すでに気づいてるとは思うが、 / この浄化のトラップを張るときに / 一番大事なのは『向きと配置』だ。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1923,
+      "original_japones": "少々めんどうかもしれないが、 / トラップが成功したときの / 爽快感はサイコーだぜ!!",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1925,
+      "original_japones": "敵ユニットに『浄化』をかけてから倒すと、 / 仲間になることがあるぜ。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1926,
+      "original_japones": "浄化すればするほど、 / 仲間になる確率は上がる......。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1927,
+      "original_japones": "敵ユニットを仲間にしたいなら、 / 倒す前に何度も浄化することだな。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1928,
+      "original_japones": "すでに仲間にしている種族は / 仲間になりにくくなるから、 / 根気よく浄化しなければならない。",
+      "editorial": "revisado",
+      "insercion": "no_verificada",
+      "ppsspp": "no_ejecutado"
+    }
+  ],
+  "no_aprobados": [
+    611,
+    731,
+    951,
+    1843,
+    1845,
+    1848,
+    1849,
+    1850,
+    1851,
+    1852,
+    1853
+  ],
+  "investigacion_prefijos": {
+    "fuente": "Manifiesto histórico del ZIP adjunto: DLC_00/magic.dat",
+    "candidatos_analizados": [
+      {
+        "grupo_id": 611,
+        "offset": 2485,
+        "original": "1強烈な跳び蹴りで相手を爆砕!"
+      },
+      {
+        "grupo_id": 731,
+        "offset": 10953,
+        "original": "1己の命(HP)と魂(SP)を剣に込め敵を滅殺"
+      },
+      {
+        "grupo_id": 951,
+        "offset": 25801,
+        "original": "2UFOでダメージ"
+      }
+    ],
+    "observacion": "Los 3 offsets cumplen (offset-8-41)%116=0, campo de descripción de magic.dat, capacidad teórica 57 bytes. Entre 219 descripciones registradas, 193 empiezan con dígito; 1/2/3 se repiten masivamente. Estas cifras son del manifiesto histórico, NO de bytes auténticos DLC.",
+    "explicacion_tecnica": "Unicode NFKC normaliza ①②③ a 123. construir_parche.match_source normaliza las fuentes; campos_revisados.conservar_icono conserva el símbolo circular cuando está en los bytes originales. No se demuestra si estas tres entradas concretas contienen ①②, números de texto, o un control del formato: requiere DLC_00 auténtico.",
+    "pruebas_propuestas": "Pruebas unitarias con CP932 sintético y reserva 116 bytes; inspección byte a byte de los 3 offsets una vez se disponga del EDAT original."
+  },
+  "investigacion_talk": {
+    "estado": "sin_EDAT_auténtico",
+    "grupos_bloqueados": [
+      1843,
+      1845,
+      1848,
+      1849,
+      1850,
+      1851,
+      1852,
+      1853
+    ],
+    "causa": "1843 reúne 8 rótulos de selección y frase narrativa en nueve unidades, y 1845 contiene opciones; no es seguro insertar una frase amalgamada como grupo. Para otros grupos se necesita la delimitación real del intérprete (opcodes 01,02,14,FD), entradas y controles de voz/retrato. El motor ya modela selector 14 y compilación por runs, pero no hay confirmación física por falta de DLC."
+  },
+  "inventario": {
+    "revisados_editoriales_conocidos": 14775,
+    "pendientes_editoriales_conocidos": 750,
+    "revisados_centrales": 48,
+    "pendientes_centrales": 461
+  },
+  "qa": {
+    "nuevo_test": "parcheador/app/tests/test_magic_prefijos_v020.py",
+    "tipo": "sintético, no PPSSPP",
+    "compilacion_original": "no ejecutada",
+    "grafica": "no nueva",
+    "romhacking": "solo regresiones, sin insercion"
+  }
+}

@@ -10,3 +10,7 @@ Verificar con: python scripts/validar_seguimiento.py. No publicar ISO, DLC ni pe
 [Último relevo ejecutable](prompts/SIGUIENTE_RELEVO.md) · [Dictamen CENT-004](informes/CENT-004.json).
 
 Hasta certificar al 100 % traducción, gráficos, romhacking y betatesting, cada ejecución debe publicar un nuevo prompt de continuidad con esta misma obligación heredada. La cola de propuestas pendientes HY-MT2 queda expresamente excluida del seguimiento obligatorio y de los cálculos.
+
+## RELEVO-002 / CENT-005
+
+[Informe editorial y técnico](informes/CENT-005.json) · [Relevo-003 autónomo](prompts/SIGUIENTE_RELEVO.md). Se revisaron 19 grupos de texto de tutorial. Los prefijos magic.dat se estudiaron con trazabilidad y pruebas sintéticas, sin validar DLC real. Cuatro áreas todavía no certificadas; HY-MT2 pendientes siguen fuera del alcance obligatorio.

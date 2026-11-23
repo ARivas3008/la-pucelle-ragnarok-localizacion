@@ -35,15 +35,15 @@
     "escenas y cuatro DLC exhaustivos"
   ],
   "bloqueos": [
-    "cuatro EDAT originales ausentes",
-    "PPSSPP no disponible",
-    "clon Windows no montado"
+    "Cuatro EDAT originales ausentes para DLC_00..03",
+    "PPSSPP no disponible en el entorno",
+    "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-002",
+  "siguiente_tarea": "RELEVO-003",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 480,
-    "revisados": 29,
+    "pendientes": 461,
+    "revisados": 48,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": true
   },
@@ -51,26 +51,32 @@
     "total_grupos_conocidos": 15525,
     "revisados_en_reparto": 14727,
     "pendientes_en_reparto": 289,
-    "pendientes_centrales": 480,
-    "pendientes_minimos": 769,
+    "pendientes_centrales": 461,
+    "pendientes_minimos": 750,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 29,
-    "revisados_editoriales_conocidos": 14756
+    "revisados_centrales": 48,
+    "revisados_editoriales_conocidos": 14775
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "CENT-004: grupo 598 documentado; quedan 11 ambiguos, 480 grupos centrales pendientes. Resolver próximos mediante fuente y parser sin aprobar fragmentos aislados; continuar tareas independientes.",
+  "criterio_siguiente": "CENT-006: 11 grupos estructurales de DLC_00 sin prueba original; reconstruir magic.dat/talk00 con los EDAT auténticos, si se aportan. Seguir grupos centrales seguros y generador name.dat.",
   "revisiones_nuevas_en_esta_rama": {
-    "editoriales_centrales": 1,
+    "editoriales_centrales": 19,
     "insertadas_fisicamente": 0,
     "validacion_visual": 0,
     "fuente": "data/preexistentes/509_revision_central.csv",
-    "lote": "CENT-004"
+    "lote": "CENT-005",
+    "nota": "Incluye revisión de 19 grupos del tutorial; no prueba segmentación real ni inserción"
   },
   "exclusiones_del_alcance": {
     "hymt2_pendientes": "excluido",
     "regla": "Las propuestas adicionales pendientes de HY-MT2 no son tarea obligatoria ni denominador. Los textos auténticos del juego siguen sujetos a traducción e integración."
+  },
+  "investigacion_prefijos_magic": {
+    "fuente": "manifiesto de proyecto ZIP 2026-11-14",
+    "desc": "193 de 219 descripciones magic.dat del DLC_00 en campo 41 comienzan con dígito; patrones 1/2/3 indican posiblemente NFKC de símbolos numerados CP932; falta contraste EDAT autenticado",
+    "defensa_codigo": "conservar_icono() de campos_revisados.py conserva símbolos ①...⑳, match_source() coteja NFKC; añadidas pruebas sintéticas, sin prueba física"
   }
 }
