@@ -1,7 +1,7 @@
 {
   "esquema": "estado_v1",
   "fecha": "2026-11-23",
-  "base_main": "fcad7b4bb6e8a2448e3a53dcb2ebf7d551d90bf6",
+  "base_main": "ce8445fc58d0e1e871239238e6b653db0a200941",
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
@@ -21,17 +21,23 @@
     "comprobaciones_nuevas_visual": 0,
     "txp_bgpack_originales_auditadas": 27,
     "candidatos_txp_no_inventariados": 8,
-    "informe": "docs/seguimiento/informes/GFX-001_bgpack_original.json"
+    "informe": "docs/seguimiento/informes/GFX-001_bgpack_original.json",
+    "candidatos_txp_original_decodificados": 8,
+    "inscripciones_ficticias_pendientes_de_criterio": [
+      "wbg00.txp",
+      "wmap.txp"
+    ],
+    "informe_decodificacion": "docs/seguimiento/informes/GFX-002_txp_original.json"
   },
   "betatesting": {
     "certificacion_v019": false,
-    "casos_catalogados": 55,
+    "casos_catalogados": 63,
     "casos_ejecutados_v019": 0
   },
   "iso_original": {
     "sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
     "comprobado": true,
-    "comprobado_en_relevo": "RELEVO-004",
+    "comprobado_en_relevo": "RELEVO-005",
     "archivo": "La_Pucelle_Ragnarok_v1.1.2.iso",
     "bytes": 858937344
   },
@@ -48,11 +54,11 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-005",
+  "siguiente_tarea": "RELEVO-006",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 373,
-    "revisados": 136,
+    "pendientes": 329,
+    "revisados": 180,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": true
   },
@@ -60,23 +66,23 @@
     "total_grupos_conocidos": 15525,
     "revisados_en_reparto": 14727,
     "pendientes_en_reparto": 289,
-    "pendientes_centrales": 373,
-    "pendientes_minimos": 662,
+    "pendientes_centrales": 329,
+    "pendientes_minimos": 618,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 136,
-    "revisados_editoriales_conocidos": 14863
+    "revisados_centrales": 180,
+    "revisados_editoriales_conocidos": 14907
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "CENT-008: resolver más unidades fiables, reconstruir grupos incompletos 2048/2049 con segmentos talk y originales DLC; GFX-002: inspeccionar 8 TXP candidatas sin incorporarlas como texto confirmado hasta verificarlas",
+  "criterio_siguiente": "CENT-009: resolver 4250-4255 (lengua ficticia) y 4268 (marcador ¥) únicamente tras cotejo; continuar historias 6040–6110 y 9630–9740 con contexto, sin aprobar grupos fragmentados. GFX-003: decidir qué hacer con escrituras ficticias en wbg00 y wmap, sin alterar el arte original sin criterio. ROM: DLC originales para cotejo de controles y PPSSPP.",
   "revisiones_nuevas_en_esta_rama": {
-    "editoriales_centrales": 48,
+    "editoriales_centrales": 44,
     "insertadas_fisicamente": 0,
     "validacion_visual": 0,
-    "lote": "CENT-007",
-    "informe": "docs/seguimiento/informes/CENT-007.json"
+    "lote": "CENT-008",
+    "informe": "docs/seguimiento/informes/CENT-008.json"
   },
   "exclusiones_del_alcance": {
     "hymt2_pendientes": "excluido",

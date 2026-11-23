@@ -103,6 +103,18 @@
       "tipo": "BGPACK auténtico NISPACK: 285 registros y límites de recursos",
       "estado": "original_autentico_estructura_verificada",
       "evidencia": "docs/seguimiento/informes/GFX-001_bgpack_original.json"
+    },
+    {
+      "id": "ROM-017",
+      "tipo": "TXP BGPACK 8 candidatos: CLUT y swizzle PSP originales",
+      "estado": "inspeccion_original_autentico_sin_modificacion",
+      "evidencia": "docs/seguimiento/informes/GFX-002_txp_original.json"
+    },
+    {
+      "id": "ROM-018",
+      "tipo": "TXP reversibilidad swizzle 4/8bpp con fixtures",
+      "estado": "prueba_CI_sintetica_pendiente_resultado",
+      "evidencia": "scripts/test_txp_bgpack.py"
     }
   ]
 }

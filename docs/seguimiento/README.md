@@ -18,3 +18,7 @@ Hasta certificar al 100 % traducción, gráficos, romhacking y betatesting, cada
 ## RELEVO-004 (CENT-007 + GFX-001)
 
 [Informe CENT-007](informes/CENT-007.json) | [Auditoría auténtica BGPACK](informes/GFX-001_bgpack_original.json) | [Prompt RELEVO-005](prompts/SIGUIENTE_RELEVO.md). Se revisaron editorialmente 48 grupos y se identificaron ocho candidatos TXP externos al inventario de 62; no están confirmados como texto ni certificados en PPSSPP.
+
+## RELEVO-005 / CENT-008 / GFX-002
+
+Se revisaron 44 grupos editoriales del episodio Eringa y se clasificaron visualmente desde la ISO auténtica ocho TXP sin publicar imágenes comerciales. Se incorporaron metadatos/hash por textura, una herramienta de deswizzle/CLUT 4/8 bpp y ocho casos nuevos de QA visual, aún sin ejecutar. [CENT-008](informes/CENT-008.json) · [GFX-002](informes/GFX-002_txp_original.json) · [RELEVO-006](prompts/SIGUIENTE_RELEVO.md).

@@ -1,0 +1,130 @@
+{
+  "id": "CENT-008",
+  "fecha": "2026-11-23",
+  "rama": "relevo/relevo005-cent008-gfx002-20261123",
+  "base_main": "ce8445fc58d0e1e871239238e6b653db0a200941",
+  "tipo": "revision_editorial_japones_a_espanol_sin_insercion",
+  "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+  "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv del ZIP original aportado",
+  "archivo_revision": "data/preexistentes/509_revision_central.csv",
+  "grupos_aprobados_editorial": [
+    4256,
+    4257,
+    4258,
+    4259,
+    4260,
+    4261,
+    4262,
+    4263,
+    4264,
+    4265,
+    4266,
+    4267,
+    4269,
+    4270,
+    4271,
+    4272,
+    4273,
+    4274,
+    4275,
+    4276,
+    4277,
+    4278,
+    4279,
+    4280,
+    4281,
+    4282,
+    4283,
+    4284,
+    4285,
+    4286,
+    4287,
+    4288,
+    4289,
+    4290,
+    4291,
+    4292,
+    4293,
+    4294,
+    4295,
+    4296,
+    4297,
+    4298,
+    4299,
+    4300
+  ],
+  "conteos": {
+    "nuevos": 44,
+    "centrales_aprobados": 180,
+    "centrales_pendientes": 329,
+    "editorial_conocidos_aprobados": 14907,
+    "editorial_conocidos_pendientes": 618
+  },
+  "criterios": [
+    "Español natural por contexto de la escena del pueblo de hongos",
+    "Tic verbal エリ → eri conservado en personajes Eringa",
+    "グランドシャンピニオン: Grand Champignon; エリンギャー: Eringa; キノコじる: Kinoko Jiru",
+    "No convertir opciones ni fragmentos en una sola cadena física",
+    "No declarar bytes insertados ni pruebas PPSSPP por aprobación editorial"
+  ],
+  "bloqueos_mantenidos": [
+    {
+      "grupo": 4268,
+      "razon": "Original de manifiesto acaba con ¥; requiere inspección de control o error de extracción, no eliminar a ciegas"
+    },
+    {
+      "grupos": [
+        4250,
+        4251,
+        4252,
+        4253,
+        4254,
+        4255
+      ],
+      "razon": "Lengua ficticia y transcripciones requieren fijar criterio fonético antes de aprobar"
+    },
+    {
+      "grupos": [
+        2048,
+        2049
+      ],
+      "recurso": "DLC_00/talk00.dat",
+      "unidades": [
+        2219,
+        2220,
+        2221
+      ],
+      "offsets_manifiesto": [
+        33797,
+        33835,
+        33873
+      ],
+      "original_japones_unificado": "コマンド選択時にATK、DEFなどのアイコンが点灯しますので、それを見てどの能力を引き出すか決定します。",
+      "propuesta_es_no_aprobada": "Al elegir una orden, se iluminan iconos como ATQ y DEF; fíjate en ellos para decidir qué atributo desarrollar.",
+      "razon": "Oración gramatical única repartida entre dos grupos y tres unidades; sin EDAT original no se conoce segmentación y control exactos. No aprobar dos fragmentos independientemente."
+    },
+    {
+      "grupos": [
+        611,
+        731,
+        951,
+        1843,
+        1845,
+        1848,
+        1849,
+        1850,
+        1851,
+        1852,
+        1853
+      ],
+      "razon": "DLC_00 EDAT faltante para cotejo de controles, bytes y tokenización"
+    }
+  ],
+  "pruebas": {
+    "traduccion_editorial": 44,
+    "insercion_fisica_nueva": 0,
+    "ppsspp_real": 0,
+    "iso_original": "comprobada, sin modificaciones"
+  },
+  "proximo": "CENT-009"
+}
