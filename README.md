@@ -37,6 +37,8 @@ El repositorio y la descarga contienen herramientas y datos de traducción. Cada
 
 ## Documentación
 
+[Evaluación de las cuatro áreas y prompts para completar el proyecto](docs/PLAN_CIERRE_Y_PROMPTS.md).
+
 | Contenido | Ubicación |
 |---|---|
 | Requisitos, instalación, DLC y solución de problemas | [Instalación](docs/INSTALACION.md) |
