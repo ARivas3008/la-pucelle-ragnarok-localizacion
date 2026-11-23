@@ -1,7 +1,7 @@
 {
   "esquema": "estado_v1",
   "fecha": "2026-11-23",
-  "base_main": "a237b8bc63d9b8566894ec0e775ab5a564107152",
+  "base_main": "fcad7b4bb6e8a2448e3a53dcb2ebf7d551d90bf6",
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
@@ -17,14 +17,20 @@
   "graficos": {
     "conocidos": 62,
     "certificados_v019": 0,
-    "alcance_completo": false
+    "alcance_completo": false,
+    "comprobaciones_nuevas_visual": 0
   },
   "betatesting": {
-    "certificacion_v019": false
+    "certificacion_v019": false,
+    "casos_catalogados": 55,
+    "casos_ejecutados_v019": 0
   },
   "iso_original": {
     "sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
-    "comprobado": true
+    "comprobado": true,
+    "comprobado_en_relevo": "RELEVO-003",
+    "archivo": "La_Pucelle_Ragnarok_v1.1.2.iso",
+    "bytes": 858937344
   },
   "dlc_originales_aportados": false,
   "ppsspp_ejecutado": false,
@@ -39,11 +45,11 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-003",
+  "siguiente_tarea": "RELEVO-004",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 461,
-    "revisados": 48,
+    "pendientes": 421,
+    "revisados": 88,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": true
   },
@@ -51,24 +57,24 @@
     "total_grupos_conocidos": 15525,
     "revisados_en_reparto": 14727,
     "pendientes_en_reparto": 289,
-    "pendientes_centrales": 461,
-    "pendientes_minimos": 750,
+    "pendientes_centrales": 421,
+    "pendientes_minimos": 710,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 48,
-    "revisados_editoriales_conocidos": 14775
+    "revisados_centrales": 88,
+    "revisados_editoriales_conocidos": 14815
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "CENT-006: 11 grupos estructurales de DLC_00 sin prueba original; reconstruir magic.dat/talk00 con los EDAT auténticos, si se aportan. Seguir grupos centrales seguros y generador name.dat.",
+  "criterio_siguiente": "CENT-007: revisar otro lote de 40 grupos centrales seguros, especialmente tutoriales y diálogo. Resolver los 11 grupos structurales de magic/talk solamente con EDAT original y selector de opciones verificado. Hacer QA real ISO y PPSSPP si está disponible.",
   "revisiones_nuevas_en_esta_rama": {
-    "editoriales_centrales": 19,
+    "editoriales_centrales": 40,
     "insertadas_fisicamente": 0,
     "validacion_visual": 0,
     "fuente": "data/preexistentes/509_revision_central.csv",
-    "lote": "CENT-005",
-    "nota": "Incluye revisión de 19 grupos del tutorial; no prueba segmentación real ni inserción"
+    "lote": "CENT-006",
+    "evidencia": "docs/seguimiento/informes/CENT-006.json"
   },
   "exclusiones_del_alcance": {
     "hymt2_pendientes": "excluido",
@@ -77,6 +83,7 @@
   "investigacion_prefijos_magic": {
     "fuente": "manifiesto de proyecto ZIP 2026-11-14",
     "desc": "193 de 219 descripciones magic.dat del DLC_00 en campo 41 comienzan con dígito; patrones 1/2/3 indican posiblemente NFKC de símbolos numerados CP932; falta contraste EDAT autenticado",
-    "defensa_codigo": "conservar_icono() de campos_revisados.py conserva símbolos ①...⑳, match_source() coteja NFKC; añadidas pruebas sintéticas, sin prueba física"
+    "defensa_codigo": "conservar_icono() de campos_revisados.py conserva símbolos ①...⑳, match_source() coteja NFKC; añadidas pruebas sintéticas, sin prueba física",
+    "dictamen": "No cerrar 611/731/951 sin comprobar EDAT auténtico. Las pruebas sintéticas de marcadores no equivalen a bytes DLC."
   }
 }
