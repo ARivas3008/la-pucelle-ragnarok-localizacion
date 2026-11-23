@@ -1,40 +1,50 @@
-# LA PUCELLE: RAGNAROK — RELEVO-002 AUTÓNOMO PARA LAS CUATRO ÁREAS
+# LA PUCELLE: RAGNAROK — RELEVO-003 AUTÓNOMO: SEGMENTACIÓN DLC, MÁGICAS Y LAS CUATRO ÁREAS
 
-**Corte documental: 23/11/2026.** Repositorio: https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Trabajar con `main` y conservar sus avances. Último HEAD de main comprobado **antes del PR CENT-004**: `a237b8bc63d9b8566894ec0e775ab5a564107152`; commit real editorial CENT-004 en la rama de trabajo: `9ec14aabc1f8ccd28e3ab46f1010a7c60b4f1887`. **Consultar obligatoriamente el HEAD de main al iniciar el siguiente relevo**: el merge puede producir otro SHA. No retroceder la rama.
+**Corte: 23/11/2026**. Repo https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Ramas: main; PR de este relevo [#29](https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/pull/29). HEAD de main al comenzar RELEVO-002: `8aee0d3f0a62b3d8ab57c7fcd53877c769d8beec`. Commit de los 19 grupos editoriales de esta rama: `86d7c172a7e1f50768091a30f278ac3e20d11642`. **Consulta el HEAD nuevo de main al empezar, porque el merge #29 cambia el SHA; no hagas reset.**
 
-## Misión y estado factual
+## Misión y hechos documentados
 
-Actúa como traductor senior japonés/español e ingeniero de localización PSP, romhacking, gráficos y QA. **Ejecuta** cambios comprobables, pruebas, PR y documentación; no te limites a planificar. No inventes capturas, bytes, pruebas, compilaciones ni resultados.
+Eres traductor sénior de japonés/español e ingeniero de PSP, sistema de inserción, fuentes CP932, LZS/DAT y QA visual en PPSSPP. **Haz cambios reales**, PR, auditorías y pruebas; no inventes capturas, ejecución del emulador, certificaciones, hashes o cobertura. No trabajas en segundo plano.
 
-- **Traducción:** 14.756 de 15.525 grupos editoriales conocidos revisados; **769 pendientes conocidos** = 289 de corpus distribuidos + 480 centrales. Alcance no exhaustivo todavía.
-- **Gráficos:** 62 elementos conocidos, ninguno certificado visualmente para v0.19.0. Pueden existir más.
-- **Romhacking:** 21.805 de 26.258 unidades técnicas cotejadas en versión histórica v0.19.0 (**83,04 %**); sin nueva prueba de inserción desde ese corte. No equivale a completar los demás apartados.
-- **Betatesting:** v0.19.0 sin certificación integral; existe matriz inicial de 31 casos, pendiente ampliar por escenas, elecciones y DLC. Sin denominador final exhaustivo.
-- **HY-MT2:** se excluyen los borradores adicionales pendientes del seguimiento obligatorio y de todos los indicadores. Conservar las traducciones ya aprobadas. **No** eximir cadenas auténticas del juego pendientes de traducir.
-- **Entrega:** v0.19.0-integracion preliminar. No divulgar ISO ni DLC.
-- **Original auténtico:** ISO SHA-256 `4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5`, auditado previamente. Si lo reutilizas, comprueba que está disponible y vuelve a verificarlo.
-- **Bloqueos anteriores:** cuatro EDAT DLC originales, PPSSPP y clon Windows del usuario no accesibles al entorno anterior. Verificar disponibilidad actual, no dar por hecho que siguen ausentes.
-- **Novedad CENT-004:** revisión editorial segura del grupo 598, `水属性UP` → **«Aumenta el atributo celeste.»**, fundamentada en grupo 1876 del japonés que distingue 青(hielo) y 水(curación), grupo 599 y glosario. NO certificada inserción ni juego. Otros 11 grupos investigados siguen pendientes por controles/fragmentación.
+**Situación tras CENT-005:**
+- Traducción: **14.775 / 15.525** grupos editoriales conocidos, **750 pendientes** (289 corpus repartidos + 461 centrales). El inventario no es todavía exhaustivo.
+- Gráficos: 62 unidades conocidas, **0 certificaciones visuales de v0.19.0**, pueden existir más.
+- Romhacking: **21.805 / 26.258 (83,04%)** de la *auditoría histórica v0.19.0*, no una nueva compilación. Faltan integraciones.
+- Betatesting: v0.19.0 no tiene certificación integral; ampliar la matriz inicial de casos a todas las escenas, menús, rutas y DLC. No hay porcentaje definitivo.
+- HY-MT2: **EXCLUIR** los borradores adicionales pendientes de deuda, porcentajes y objetivos obligatorios. Conservar las traducciones aprobadas y traducir todos los textos auténticos pendientes.
+- Versión preliminar: v0.19.0-integracion. Original ISO recuperable del usuario: SHA-256 `4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5`; se verificó de nuevo en RELEVO-002 (no se modificó ni parcheó). Faltan cuatro EDAT originales y PPSSPP en el entorno de RELEVO-002, y el clon Windows no está montado.
 
-Leer `README.md`, `AGENTS.md`, `CONTRIBUTING.md`, `docs/INTEGRACION.md`, `docs/COBERTURA.md`, `docs/ERRORES_CONOCIDOS.md`, `docs/DESARROLLO.md`, `docs/seguimiento/estado.json`, los cuatro inventarios/matrices, `docs/seguimiento/informes/CENT-004.json`, y los archivos precisos de cada tarea.
+**Trabajo real de RELEVO-002 / PR #29:**
+- Se revisaron editorialmente **19 grupos centrales** del tutorial japonés: `1897,1906,1907,1908,1911,1912,1913,1914,1915,1916,1917,1918,1921,1922,1923,1925,1926,1927,1928`. Los textos se cotejaron con el maestro japonés histórico aportado; la distribución física y las pruebas PPSSPP no se certifican.
+- Los grupos `611,731,951` siguen pendientes: en el manifiesto histórico 193 de 219 descripciones de `DLC_00/magic.dat` empiezan por dígito. Los offsets de los tres grupos corresponden al campo 41 de registros de 116 bytes. `match_source` normaliza Unicode NFKC; `conservar_icono` preserva ①②③ cuando aparecen físicamente. **No inferir que los bytes de esas tres entradas son circled sin disponer del EDAT real.** Se añadieron pruebas sintéticas, que NO son evidencia del juego.
+- Los grupos `1843,1845,1848,1849,1850,1851,1852,1853` siguen pendientes: incluyen menús seleccionables y diálogos multiparte; faltan bytes del DLC para cotejar opcodes, offsets, y opciones.
+- No hay modificaciones de ISO/DLC ni capturas nuevas de PPSSPP.
 
-## Próxima tarea ejecutable
+**Lee antes de actuar:** `README.md`, `AGENTS.md`, `CONTRIBUTING.md`, `docs/COBERTURA.md`, `docs/ERRORES_CONOCIDOS.md`, `docs/INTEGRACION.md`, `docs/DESARROLLO.md`, `docs/seguimiento/estado.json`, inventarios y matrices, `docs/seguimiento/informes/CENT-005.json`, `data/preexistentes/509_revision_central.csv`, glosario, manifiesto y `docs/seguimiento/prompts/REV-002.md`. Consulta `docs/seguimiento/defectos.json`.
 
-**CENT-005 / REV-002:** investigar sin inventar los grupos 611, 731 y 951 de `DLC_00/magic.dat` (prefijos 1/2 ¿control o texto?), y 1843, 1845, 1848, 1849, 1850, 1851, 1852, 1853 de `DLC_00/talk00.dat` (opciones y frases divididas); usar `data/preexistentes/509_revision_central.csv`, manifiesto, original, glosario, el informe CENT-003 y parsers de `parcheador/app/scripts/`. **No aprobar si falta correspondencia de bytes**; mantener pendientes documentados. En paralelo, seleccionar otros grupos centrales que puedan resolverse con japonés y contexto y corregirlos con trazabilidad. Investigar también `docs/seguimiento/prompts/REV-002.md` para fragmentos concatenados en corpus/02. No reabrir grupos aprobados sin evidencia nueva.
+## Próxima tarea — CENT-006 y ROM-002
 
-Revisar seguridad y compatibilidad de inserción en `parcheador/app/scripts/integracion_total.py`, `formato_talk.py`, `recompilar_talk.py`, `fuentes_es.py`, `atlas_ui_es.py` y archivos relevantes; no alterar el binario sin pruebas. Preparar y ejecutar la auditoría desde original auténtico y los cuatro DLC cuando estén disponibles. Verificar texturas y un recorrido completo de juego con PPSSPP real, registrando versión, candidata, capturas y evidencia; no usar las capturas antiguas como pruebas de una versión nueva.
+1. Verificar la última revisión en main, PR y Actions. Investigar **primero** el alcance de `DLC_00/magic.dat` en originales auténticos: comparar bytes de offset `2485,10953,25801` con manifiesto y patrones de las otras 193 descripciones que comienzan con 1/2/3. Confirmar o rechazar los marcadores CP932 ①②③ (`87 40, 87 41, 87 42`). Solo aprobar traducciones cuando el símbolo o dígito correcto se conserve y quepa en un campo de **57 bytes** dentro de registros de **116 bytes**.
+2. Reconstruir con el parser `parcheador/app/scripts/formato_talk.py` los bloques reales de `DLC_00/talk00.dat`, unidades del menú `1843` y `1845`, y los grupos `1848–1853`. Los opcodes del selector son `14` y `FD`; distinguir las opciones de los textos narrativos. Solo marcar revisado si el grupo exacto puede reinsertarse de forma coherente y segura. **No** aprobar grupos que agreguen etiquetas de menú y narración en una sola cadena.
+3. Mientras no estén los cuatro DLC, trabajar en otros grupos centrales editables con japonés y contexto; elegir lotes verificables. Separar revisión editorial de inserción técnica. Continuar REV-002 sobre partículas del generador de nombres solo si se comprende su composición.
+4. Investigar recursos gráficos adicionales y mejorar matriz por escena/selección/DLC, sin inventar validaciones. Verificar el parcheador desde original y el PPSSPP real cuando los originales y herramienta estén disponibles. No distribuir material comercial.
 
-Ejecutar, según aplique:
+## Rutas, comandos y aceptación
+
+Archivos: `data/preexistentes/509_revision_central.csv`, `corpus/NN/{entrada.csv,lectura.txt,revision.csv}`, `parcheador/app/scripts/{campos_revisados.py,campos_fijos.py,formato_talk.py,recompilar_talk.py,construir_parche.py}`, `parcheador/app/tests/test_magic_prefijos_v020.py`, `docs/seguimiento/**`. Modificar `data/maestros/**` solo tras auditoría específica y con autorización; nunca desplazar offsets sin método seguro.
+
 ```bash
 python scripts/validar.py
 python scripts/validar_seguimiento.py
+python -m unittest discover -s parcheador/app/tests -p 'test_magic_prefijos_v020.py' -v
 python -m unittest discover -s scripts -p 'test_*.py'
 python -m unittest discover -s metodologia/tests -p 'test_*.py'
 python -m unittest discover -s parcheador/app/tests -p 'test_*.py'
 ```
-Consultar `docs/DESARROLLO.md` para comandos de construcción y pruebas adicionales. Si una prueba no es ejecutable, indicarlo; registrar la tarea bloqueada y seguir con otra independiente.
 
-Archivos esperados: CSV central o revisión de corpus (sin cambiar ID ni filas); documentación de dictámenes con originales y notas; métricas `docs/seguimiento/estado.json`, inventarios, matrices, defectos, y un PR comprobado. Nunca contar revisión editorial como inserción física o certificación visual.
+Prueba de aceptación: conteos exactos tras edición y CI verde; original nunca modificado; controles/IDs/offsets conservados; nuevo informe con dictamen por grupo; avisos de bloqueos concretos y pruebas realmente ejecutadas. Usar PR y solo fusionar con CI aprobado. **Ninguna prueba sintética demuestra inserción real o funcionamiento de PPSSPP.**
+
+Cuando el trabajo de esta sesión termine, **NO dejar la continuación en una lista de pendientes**: actualizar `docs/seguimiento/prompts/SIGUIENTE_RELEVO.md` reemplazándolo por un nuevo prompt íntegro que herede el apartado 14, subirlo a GitHub e incluirlo entero en la respuesta final.
 
 ## 14. OBLIGACIÓN RECURSIVA INNEGOCIABLE — GENERAR EL SIGUIENTE RELEVO HASTA EL 100 %
 
