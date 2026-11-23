@@ -1,0 +1,38 @@
+{
+  "original": "Are you telling me you cannot?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThat young lady came here to get in our way。 So I would like you to dispose of her。\nAre you telling me to fight against Prier?\nHah、 quit spouting nonsense。\n(If those two beasts start fighting、 neither will escape unscathed。。。)",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThat young lady came here to get in our way。 So I would like you to dispose of her。\nAre you telling me to fight against Prier?\nHah、 quit spouting nonsense。\n(If those two beasts start fighting、 neither will escape unscathed。。。)\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nAre you telling me you cannot?",
+  "respuesta": "¿Me estás diciendo que no puedes hacerlo?",
+  "fin": "stop",
+  "segundos": 2.15,
+  "uso": {
+    "completion_tokens": 15,
+    "prompt_tokens": 356,
+    "total_tokens": 371,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "250bdd9996de813561ff",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 106562,
+      "entry_id": 1811,
+      "original_hex": [
+        "82608292828581408299828f8295814082948285828c828c8289828e82878140828d8285",
+        "8299828f8295814082838281828e828e828f82948148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "That young lady came here to get in our way。 So I would like you to dispose of her。",
+        "Are you telling me to fight against Prier?",
+        "Hah、 quit spouting nonsense。",
+        "(If those two beasts start fighting、 neither will escape unscathed。。。)"
+      ]
+    }
+  ]
+}

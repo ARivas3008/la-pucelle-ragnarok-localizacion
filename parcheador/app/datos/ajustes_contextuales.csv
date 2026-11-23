@@ -1,3 +1,10 @@
 grupo_id,origen,ajuste,motivo
 5049,¡No lo aguanto más!,¡No aguanto más!,Acorta 6 bytes para mantener la intervención íntegra con 5048
 5053,¡No hables así!,¡No digas eso!,Permite reflujo de dos frases con el texto 5054 conservado
+"5050","¡¿Por qué tengo que perder el tiempo peleando contra zombis?!","¡¿Por qué he de luchar contra zombis?!","Ajuste contextual capítulo 1, mismo sentido y tres campos 0x01, presupuesto 94 bytes"
+"5051","¡Son unos debiluchos!","¡Qué debiluchos!","Intervención unitaria 0x01: 32 bytes frente a campo de 40"
+"5055","Estamos empezando, así que primero debemos enfrentarnos a enemigos fáciles antes de ir por los más fuertes.","Empecemos por los fáciles y luego por los más fuertes.","Grupo en cuatro líneas y dos páginas 0x01/0x02, mantiene la progresión"
+"5057","¡Y encima soy yo quien tiene que lavar toda la ropa!","¡Y yo tengo que lavar toda la ropa!","Acorta dos bytes o más para intervención 0x01 en tres líneas"
+"5056","Recuerda que llevas dos días seguidos dejando escapar a un fantasma por irte sola.","Recuerda: llevas dos días dejando escapar a un fantasma por irte sola","Cinco segmentos 46/46/32/40/8 B; final sola=8 B, conserva contexto"
+"5064","Y recuerda que estamos al servicio de la Santa Diosa...","Recuerda: somos siervos de la Santa Diosa...","Tres segmentos 40/30/30 B; reduce texto a 88 B de 100"
+"5072","Oh, santa diosa Poitreene... ¡Perdón por eso! Ya está, he terminado.","Oh, santa diosa Poitreene... ¡Perdón! Ya he terminado.","Tres segmentos 32/46/46 B; reduce a 108 B de 124"

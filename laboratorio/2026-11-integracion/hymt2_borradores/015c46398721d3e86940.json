@@ -1,0 +1,35 @@
+{
+  "original": "Dark energy & dark gates",
+  "contexto": "Menu selection: keep the translation short. Adjacent lines in the same event:\nCombining magic items\nNever mind",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nMenu selection: keep the translation short. Adjacent lines in the same event:\nCombining magic items\nNever mind\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nDark energy & dark gates",
+  "respuesta": "Energía oscura y puertas oscuras",
+  "fin": "stop",
+  "segundos": 1.42,
+  "uso": {
+    "completion_tokens": 12,
+    "prompt_tokens": 312,
+    "total_tokens": 324,
+    "prompt_tokens_details": {
+      "cached_tokens": 284
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "015c46398721d3e86940",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 22507,
+      "entry_id": 201793,
+      "original_hex": [
+        "826382818292828b81408285828e8285829282878299814081958140828482818292828b814082878281829482858293"
+      ],
+      "opcion": true,
+      "contexto": [
+        "Combining magic items",
+        "Never mind"
+      ]
+    }
+  ]
+}

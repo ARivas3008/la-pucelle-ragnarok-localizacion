@@ -1,0 +1,149 @@
+[
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+    "original": 152787,
+    "nuevo": 205910,
+    "bloques_aplicados": 1135,
+    "bloques_pendientes": 87
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+    "original": 152284,
+    "nuevo": 201936,
+    "bloques_aplicados": 1099,
+    "bloques_pendientes": 160
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+    "original": 152578,
+    "nuevo": 185904,
+    "bloques_aplicados": 1051,
+    "bloques_pendientes": 104
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+    "original": 141158,
+    "nuevo": 174984,
+    "bloques_aplicados": 920,
+    "bloques_pendientes": 114
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+    "original": 154389,
+    "nuevo": 184223,
+    "bloques_aplicados": 995,
+    "bloques_pendientes": 145
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+    "original": 144371,
+    "nuevo": 176479,
+    "bloques_aplicados": 968,
+    "bloques_pendientes": 130
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+    "original": 126702,
+    "nuevo": 188646,
+    "bloques_aplicados": 924,
+    "bloques_pendientes": 100
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+    "original": 129755,
+    "nuevo": 190638,
+    "bloques_aplicados": 936,
+    "bloques_pendientes": 110
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+    "original": 128951,
+    "nuevo": 189851,
+    "bloques_aplicados": 953,
+    "bloques_pendientes": 107
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+    "original": 152595,
+    "nuevo": 204974,
+    "bloques_aplicados": 1072,
+    "bloques_pendientes": 201
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+    "original": 151225,
+    "nuevo": 190405,
+    "bloques_aplicados": 929,
+    "bloques_pendientes": 268
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+    "original": 146473,
+    "nuevo": 197339,
+    "bloques_aplicados": 1023,
+    "bloques_pendientes": 165
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+    "original": 94852,
+    "nuevo": 113165,
+    "bloques_aplicados": 531,
+    "bloques_pendientes": 111
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+    "original": 104997,
+    "nuevo": 122361,
+    "bloques_aplicados": 533,
+    "bloques_pendientes": 157
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+    "original": 90281,
+    "nuevo": 116694,
+    "bloques_aplicados": 554,
+    "bloques_pendientes": 114
+  },
+  {
+    "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+    "original": 121455,
+    "nuevo": 139414,
+    "bloques_aplicados": 671,
+    "bloques_pendientes": 186
+  },
+  {
+    "recurso": "ISO_START/talk00.dat",
+    "original": 122000,
+    "nuevo": 124098,
+    "bloques_aplicados": 442,
+    "bloques_pendientes": 278
+  },
+  {
+    "recurso": "DLC_00/talk00.dat",
+    "original": 83360,
+    "nuevo": 117264,
+    "bloques_aplicados": 609,
+    "bloques_pendientes": 169
+  },
+  {
+    "recurso": "DLC_01/talk00.dat",
+    "original": 85680,
+    "nuevo": 122291,
+    "bloques_aplicados": 649,
+    "bloques_pendientes": 170
+  },
+  {
+    "recurso": "DLC_02/talk00.dat",
+    "original": 88528,
+    "nuevo": 127522,
+    "bloques_aplicados": 696,
+    "bloques_pendientes": 170
+  },
+  {
+    "recurso": "DLC_03/talk00.dat",
+    "original": 90880,
+    "nuevo": 132367,
+    "bloques_aplicados": 744,
+    "bloques_pendientes": 170
+  }
+]

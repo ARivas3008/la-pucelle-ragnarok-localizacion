@@ -1,0 +1,39 @@
+{
+  "original": "(Is this what it feels like to have a broken heart。。。?)",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n(This is so depressing。)\n(It is like she is better than me as a person and as a woman。。。)\nPrier、 can I ask you something?\nHuh?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n(This is so depressing。)\n(It is like she is better than me as a person and as a woman。。。)\nPrier、 can I ask you something?\nHuh?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n(Is this what it feels like to have a broken heart。。。?)",
+  "respuesta": "¿Es así como se siente tener un corazón roto…?",
+  "fin": "stop",
+  "segundos": 2.02,
+  "uso": {
+    "completion_tokens": 17,
+    "prompt_tokens": 344,
+    "total_tokens": 361,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8d458054b93dca716622",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 140320,
+      "entry_id": 1007,
+      "original_hex": [
+        "81698268829381408294828882898293814082978288828182948140828982948140828682858285828c8293",
+        "828c8289828b828581408294828f8140828882818296828581408281814082828292828f828b8285828e",
+        "828882858281829282948142814281428148816a"
+      ],
+      "opcion": false,
+      "contexto": [
+        "(This is so depressing。)",
+        "(It is like she is better than me as a person and as a woman。。。)",
+        "Prier、 can I ask you something?",
+        "Huh?"
+      ]
+    }
+  ]
+}

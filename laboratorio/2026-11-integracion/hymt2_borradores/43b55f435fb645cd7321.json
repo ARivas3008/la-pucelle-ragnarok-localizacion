@@ -1,0 +1,40 @@
+{
+  "original": "Are you saying the power of light DOES。。。? So you are saying that there is no way I can possibly save Croix!?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nGet a grip、 Prier! Were you not planning on becoming the strongest without succumbing to the power of the Dark Lord!?\nHe is right、 Sister Prier! The power of darkness does not have the ability to save Croix!\nQuit being so darn conceited just because you are the Maiden of Light!!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nGet a grip、 Prier! Were you not planning on becoming the strongest without succumbing to the power of the Dark Lord!?\nHe is right、 Sister Prier! The power of darkness does not have the ability to save Croix!\nQuit being so darn conceited just because you are the Maiden of Light!!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nAre you saying the power of light DOES。。。? So you are saying that there is no way I can possibly save Croix!?",
+  "respuesta": "¿Estás diciendo que el poder de la luz… sí puede hacerlo? ¿Quieres decir que no hay forma alguna de que yo pueda salvar a Croix?",
+  "fin": "stop",
+  "segundos": 4.23,
+  "uso": {
+    "completion_tokens": 41,
+    "prompt_tokens": 389,
+    "total_tokens": 430,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "43b55f435fb645cd7321",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 83594,
+      "entry_id": 1708,
+      "original_hex": [
+        "82608292828581408299828f829581408293828182998289828e82878140829482888285",
+        "8290828f8297828582928140828f82868140828c828982878288829481408263826e826482728142814281428148",
+        "8272828f81408299828f8295814082818292828581408293828182998289828e828781408294828882818294",
+        "829482888285829282858140828982938140828e828f814082978281829981408268814082838281828e",
+        "8290828f8293829382898282828c829981408293828182968285814082628292828f8289829881498148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Get a grip、 Prier! Were you not planning on becoming the strongest without succumbing to the power of the Dark Lord!?",
+        "He is right、 Sister Prier! The power of darkness does not have the ability to save Croix!",
+        "Quit being so darn conceited just because you are the Maiden of Light!!!"
+      ]
+    }
+  ]
+}

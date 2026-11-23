@@ -1,0 +1,41 @@
+{
+  "original": "What was that all about? You have a chip on your shoulder about something?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nRelax、 Sister Olive。 I will defeat these demons and find that kid all by myself!\nAh。。。 Thank you。 Sister Prier。。。\nI am perfectly fine、 thank you! I am just saying that、 as long as I am here、 these demons will be a piece of cake!\nRestrain yourself a bit、 Sister Prier! Have you forgotten what Father Salade said already?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nRelax、 Sister Olive。 I will defeat these demons and find that kid all by myself!\nAh。。。 Thank you。 Sister Prier。。。\nI am perfectly fine、 thank you! I am just saying that、 as long as I am here、 these demons will be a piece of cake!\nRestrain yourself a bit、 Sister Prier! Have you forgotten what Father Salade said already?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhat was that all about? You have a chip on your shoulder about something?",
+  "respuesta": "¿Qué fue todo eso? ¿Tienes algo que te preocupa?",
+  "fin": "stop",
+  "segundos": 2.76,
+  "uso": {
+    "completion_tokens": 18,
+    "prompt_tokens": 390,
+    "total_tokens": 408,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8c0a54ea6a4319e4ba60",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 78261,
+      "entry_id": 1503,
+      "original_hex": [
+        "827682888281829481408297828182938140829482888281829481408281828c828c",
+        "82818282828f829582948148",
+        "8278828f82958140828882818296828581408281814082838288828982908140828f828e",
+        "8299828f82958292814082938288828f8295828c828482858292814082818282828f82958294",
+        "8293828f828d8285829482888289828e82878148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Relax、 Sister Olive。 I will defeat these demons and find that kid all by myself!",
+        "Ah。。。 Thank you。 Sister Prier。。。",
+        "I am perfectly fine、 thank you! I am just saying that、 as long as I am here、 these demons will be a piece of cake!",
+        "Restrain yourself a bit、 Sister Prier! Have you forgotten what Father Salade said already?"
+      ]
+    }
+  ]
+}

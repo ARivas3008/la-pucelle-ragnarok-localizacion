@@ -1,0 +1,37 @@
+{
+  "original": "Talk is cheap。 Nobody has ever been able to defeat me!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI have so much I wanna get off my chest、 but there is no point in arguing with you。\nSo just hand her over already!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI have so much I wanna get off my chest、 but there is no point in arguing with you。\nSo just hand her over already!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nTalk is cheap。 Nobody has ever been able to defeat me!",
+  "respuesta": "Hablar es fácil. Nadie ha logrado derrotarme nunca.",
+  "fin": "stop",
+  "segundos": 2.1,
+  "uso": {
+    "completion_tokens": 17,
+    "prompt_tokens": 336,
+    "total_tokens": 353,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "579f61d098cf0380cae5",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 82238,
+      "entry_id": 4663,
+      "original_hex": [
+        "82738281828c828b8140828982938140828382888285828182908142",
+        "826d828f8282828f828482998140828882818293814082858296828582928140828282858285828e",
+        "82818282828c828581408294828f81408284828582868285828182948140828d82858149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I have so much I wanna get off my chest、 but there is no point in arguing with you。",
+        "So just hand her over already!"
+      ]
+    }
+  ]
+}

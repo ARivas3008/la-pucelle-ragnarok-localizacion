@@ -1,0 +1,40 @@
+{
+  "original": "I thought you were cute before、 but you are positively ravishing now。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nSo please let me help。。。\nThis is quite a surprise。。。\nHello?! We are in the middle of a battle here!\nOh、 that is right。 Sorry about that。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nSo please let me help。。。\nThis is quite a surprise。。。\nHello?! We are in the middle of a battle here!\nOh、 that is right。 Sorry about that。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI thought you were cute before、 but you are positively ravishing now。",
+  "respuesta": "Pensé que eras linda antes, pero ahora eres realmente impresionante.",
+  "fin": "stop",
+  "segundos": 2.54,
+  "uso": {
+    "completion_tokens": 21,
+    "prompt_tokens": 346,
+    "total_tokens": 367,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "0e10d709cc3c6abe05cb",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 132598,
+      "entry_id": 1108,
+      "original_hex": [
+        "8268814082948288828f829582878288829481408299828f82958140829782858292828581408283829582948285",
+        "828282858286828f829282858141814082828295829481408299828f82958140828182928285",
+        "8290828f829382898294828982968285828c829981408292828182968289829382888289828e8287",
+        "828e828f82978142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "So please let me help。。。",
+        "This is quite a surprise。。。",
+        "Hello?! We are in the middle of a battle here!",
+        "Oh、 that is right。 Sorry about that。"
+      ]
+    }
+  ]
+}

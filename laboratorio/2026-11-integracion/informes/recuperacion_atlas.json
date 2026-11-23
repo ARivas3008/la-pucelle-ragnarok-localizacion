@@ -1,0 +1,11 @@
+[
+  {
+    "offset": 3689024,
+    "miembros": 35,
+    "atlas": [
+      "app/scripts/atlas_ui_es.py",
+      "datos/atlas_deltas.json.z",
+      "scripts/atlas_ui_es.py"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "original": "Master Noir does so enjoy toying with little people。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nLooks like the Church of the Divine Mother is finally getting serious。\nI cannot have you going to Fatima。 Your journey is going to end right here。\nAw well、 it is only a little extra work for me。\nBut I was so looking forward to Fatima。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nLooks like the Church of the Divine Mother is finally getting serious。\nI cannot have you going to Fatima。 Your journey is going to end right here。\nAw well、 it is only a little extra work for me。\nBut I was so looking forward to Fatima。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nMaster Noir does so enjoy toying with little people。",
+  "respuesta": "El Maestro Noir realmente disfruta jugueteando con personas pequeñas.",
+  "fin": "stop",
+  "segundos": 2.52,
+  "uso": {
+    "completion_tokens": 21,
+    "prompt_tokens": 363,
+    "total_tokens": 384,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "cfc5c09bcb683a441788",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 124600,
+      "entry_id": 0,
+      "original_hex": [
+        "826c828182938294828582928140826d828f8289829281408284828f8285829381408293828f",
+        "8285828e828a828f829981408294828f82998289828e8287814082978289829482888140828c828982948294828c8285",
+        "82908285828f8290828c82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Looks like the Church of the Divine Mother is finally getting serious。",
+        "I cannot have you going to Fatima。 Your journey is going to end right here。",
+        "Aw well、 it is only a little extra work for me。",
+        "But I was so looking forward to Fatima。。。"
+      ]
+    }
+  ]
+}

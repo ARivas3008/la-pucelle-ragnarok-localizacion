@@ -1,0 +1,37 @@
+{
+  "original": "Even if you are a demon、 you sure have some guts entering this place of worship! Time to send you packing!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nEven if you are a demon、 you sure have some guts entering this place of worship! Time to send you packing!",
+  "respuesta": "Incluso si eres un demonio, seguramente tienes mucha valentía para entrar en este lugar de culto. Es hora de que te vayas de aquí.",
+  "fin": "stop",
+  "segundos": 3.33,
+  "uso": {
+    "completion_tokens": 42,
+    "prompt_tokens": 319,
+    "total_tokens": 361,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f7c110e2e660357e85d3",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 86170,
+      "entry_id": 4675,
+      "original_hex": [
+        "826482968285828e81408289828681408299828f8295814082818292828581408281",
+        "82848285828d828f828e814181408299828f82958140829382958292828581408288828182968285",
+        "8293828f828d82858140828782958294829381408285828e8294828582928289828e828781408294828882898293",
+        "8290828c8281828382858140828f828681408297828f829282938288828982908149",
+        "82738289828d828581408294828f814082938285828e828481408299828f8295",
+        "829082818283828b8289828e82878149"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

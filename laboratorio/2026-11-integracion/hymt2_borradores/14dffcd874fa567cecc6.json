@@ -1,0 +1,36 @@
+{
+  "original": "Captain Homard sure is amazing! Who would have thought our adventure would lead us to the past?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nCaptain Homard sure is amazing! Who would have thought our adventure would lead us to the past?",
+  "respuesta": "¡El Capitán Homard es realmente increíble! ¿Quién hubiera pensado que nuestra aventura nos llevaría al pasado?",
+  "fin": "stop",
+  "segundos": 2.85,
+  "uso": {
+    "completion_tokens": 35,
+    "prompt_tokens": 315,
+    "total_tokens": 350,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "14dffcd874fa567cecc6",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 106997,
+      "entry_id": 280501,
+      "original_hex": [
+        "826282818290829482818289828e81408267828f828d82818292828481408293829582928285",
+        "8289829381408281828d8281829a8289828e82878149",
+        "82768288828f81408297828f8295828c828481408288828182968285814082948288828f8295828782888294",
+        "828f8295829281408281828482968285828e829482958292828581408297828f8295828c82848140828c828582818284",
+        "8295829381408294828f8140829482888285814082908281829382948148"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

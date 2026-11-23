@@ -1,0 +1,39 @@
+{
+  "original": "You looked like you were serious about that for a sec。。。 Anyway、 we need to hurry to Mt。 Tarte!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nIf Hermes is wrong about the gems、 he is so gonna get it!\nWe should have just beat the info out of him from the start。。。 Hah、 just kidding。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nIf Hermes is wrong about the gems、 he is so gonna get it!\nWe should have just beat the info out of him from the start。。。 Hah、 just kidding。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou looked like you were serious about that for a sec。。。 Anyway、 we need to hurry to Mt。 Tarte!",
+  "respuesta": "Parecías serio al respecto por un momento… De todos modos, tenemos que darnos prisa hacia el Monte Tarte.",
+  "fin": "stop",
+  "segundos": 3.05,
+  "uso": {
+    "completion_tokens": 33,
+    "prompt_tokens": 356,
+    "total_tokens": 389,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "a87f8634a4da7c78bb60",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 78778,
+      "entry_id": 276002,
+      "original_hex": [
+        "8278828f82958140828c828f828f828b828582848140828c8289828b828581408299828f8295",
+        "829782858292828581408293828582928289828f82958293814082818282828f8295829481408294828882818294",
+        "8286828f8292814082818140829382858283814281428142",
+        "8260828e829982978281829981418140829782858140828e82858285828481408294828f",
+        "8288829582928292829981408294828f8140826c829481428140827382818292829482858149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "If Hermes is wrong about the gems、 he is so gonna get it!",
+        "We should have just beat the info out of him from the start。。。 Hah、 just kidding。"
+      ]
+    }
+  ]
+}

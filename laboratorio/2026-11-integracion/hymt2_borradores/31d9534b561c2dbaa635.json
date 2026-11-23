@@ -1,0 +1,38 @@
+{
+  "original": "It is me。 Hermes from Castle Cresson。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWe have got to。。。!\nHey。。。 Got a minute?\nHermes?!\nYou got it。 So you remember me、 do you?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWe have got to。。。!\nHey。。。 Got a minute?\nHermes?!\nYou got it。 So you remember me、 do you?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIt is me。 Hermes from Castle Cresson。",
+  "respuesta": "Soy yo. Hermes, de Castillo Cresson.",
+  "fin": "stop",
+  "segundos": 1.5,
+  "uso": {
+    "completion_tokens": 15,
+    "prompt_tokens": 336,
+    "total_tokens": 351,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "31d9534b561c2dbaa635",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 112248,
+      "entry_id": 1102,
+      "original_hex": [
+        "826882948140828982938140828d828581428140826782858292828d82858293814082868292828f828d",
+        "8262828182938294828c8285814082628292828582938293828f828e8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "We have got to。。。!",
+        "Hey。。。 Got a minute?",
+        "Hermes?!",
+        "You got it。 So you remember me、 do you?"
+      ]
+    }
+  ]
+}

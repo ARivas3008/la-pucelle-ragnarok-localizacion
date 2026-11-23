@@ -1,0 +1,90 @@
+{
+  "original": "I have made up my mind! You cannot  talk me out of it!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThis may all be a part of Goddess Poitreenes plan。\nI am going to raise him!\nYeah。 Trying to talk you out of anything is usually pointless。。。\nThe Lords child has joined you!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThis may all be a part of Goddess Poitreenes plan。\nI am going to raise him!\nYeah。 Trying to talk you out of anything is usually pointless。。。\nThe Lords child has joined you!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI have made up my mind! You cannot  talk me out of it!",
+  "respuesta": "¡He tomado una decisión! No puedes convencerme de hacer algo que no quiero hacer.",
+  "fin": "stop",
+  "segundos": 2.56,
+  "uso": {
+    "completion_tokens": 24,
+    "prompt_tokens": 353,
+    "total_tokens": 377,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "2e89be152913e75939bc",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+      "offset": 148137,
+      "entry_id": 0,
+      "original_hex": [
+        "8268814082888281829682858140828d8281828482858140829582908140828d8299",
+        "828d8289828e8284814981408278828f8295814082838281828e828e828f82948140",
+        "82948281828c828b8140828d82858140828f829582948140828f82868140828982948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "This may all be a part of Goddess Poitreenes plan。",
+        "I am going to raise him!",
+        "Yeah。 Trying to talk you out of anything is usually pointless。。。",
+        "The Lords child has joined you!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 140554,
+      "entry_id": 0,
+      "original_hex": [
+        "8268814082888281829682858140828d8281828482858140829582908140828d8299",
+        "828d8289828e8284814981408278828f8295814082838281828e828e828f82948140",
+        "82948281828c828b8140828d82858140828f829582948140828f82868140828982948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "This may all be a part of Goddess Poitreenes plan。",
+        "I am going to raise him!",
+        "Yeah。 Trying to talk you out of anything is usually pointless。。。",
+        "The Lords child has joined you!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 151330,
+      "entry_id": 0,
+      "original_hex": [
+        "8268814082888281829682858140828d8281828482858140829582908140828d8299",
+        "828d8289828e8284814981408278828f8295814082838281828e828e828f82948140",
+        "82948281828c828b8140828d82858140828f829582948140828f82868140828982948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "This may all be a part of Goddess Poitreenes plan。",
+        "I am going to raise him!",
+        "Yeah。 Trying to talk you out of anything is usually pointless。。。",
+        "The Lords child has joined you!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 141312,
+      "entry_id": 0,
+      "original_hex": [
+        "8268814082888281829682858140828d8281828482858140829582908140828d8299",
+        "828d8289828e8284814981408278828f8295814082838281828e828e828f82948140",
+        "82948281828c828b8140828d82858140828f829582948140828f82868140828982948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "This may all be a part of Goddess Poitreenes plan。",
+        "I am going to raise him!",
+        "Yeah。 Trying to talk you out of anything is usually pointless。。。",
+        "The Lords child has joined you!"
+      ]
+    }
+  ]
+}

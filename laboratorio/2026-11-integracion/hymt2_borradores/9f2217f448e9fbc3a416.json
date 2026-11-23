@@ -1,0 +1,38 @@
+{
+  "original": "I have been waiting。 Former little miss demon hunter。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nCroix!!!\nI have no business with you!\nCroix! I。。。I came for you!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nCroix!!!\nI have no business with you!\nCroix! I。。。I came for you!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI have been waiting。 Former little miss demon hunter。",
+  "respuesta": "He estado esperando. La antigua pequeña cazadora de demonios.",
+  "fin": "stop",
+  "segundos": 1.98,
+  "uso": {
+    "completion_tokens": 19,
+    "prompt_tokens": 326,
+    "total_tokens": 345,
+    "prompt_tokens_details": {
+      "cached_tokens": 281
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "9f2217f448e9fbc3a416",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 78991,
+      "entry_id": 1806,
+      "original_hex": [
+        "8268814082888281829682858140828282858285828e814082978281828982948289828e82878142",
+        "8265828f8292828d828582928140828c828982948294828c82858140828d828982938293",
+        "82848285828d828f828e814082888295828e8294828582928142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Croix!!!",
+        "I have no business with you!",
+        "Croix! I。。。I came for you!"
+      ]
+    }
+  ]
+}

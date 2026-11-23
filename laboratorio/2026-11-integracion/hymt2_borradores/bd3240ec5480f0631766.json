@@ -1,0 +1,39 @@
+{
+  "original": "I have no clue what the hell you keep going on about!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nCalm down、 Sister Prier!\nYes、 just like that。 This is how you should act、 Big Sister Prier。 Keep this up and become even more honest with yourself。\nYou know。。。 The most redeeming quality Prier has is being honest with herself。\nI have more redeeming qualities than just that! Like how cute I am。 Or how nice I am!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nCalm down、 Sister Prier!\nYes、 just like that。 This is how you should act、 Big Sister Prier。 Keep this up and become even more honest with yourself。\nYou know。。。 The most redeeming quality Prier has is being honest with herself。\nI have more redeeming qualities than just that! Like how cute I am。 Or how nice I am!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI have no clue what the hell you keep going on about!",
+  "respuesta": "No tengo ni idea de qué demonios estás diciendo.",
+  "fin": "stop",
+  "segundos": 2.88,
+  "uso": {
+    "completion_tokens": 16,
+    "prompt_tokens": 384,
+    "total_tokens": 400,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "bd3240ec5480f0631766",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 84716,
+      "entry_id": 1605,
+      "original_hex": [
+        "8268814082888281829682858140828e828f81408283828c8295828581408297828882818294",
+        "829482888285814082888285828c828c81408299828f82958140828b82858285829081408287828f8289828e8287",
+        "828f828e814082818282828f829582948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Calm down、 Sister Prier!",
+        "Yes、 just like that。 This is how you should act、 Big Sister Prier。 Keep this up and become even more honest with yourself。",
+        "You know。。。 The most redeeming quality Prier has is being honest with herself。",
+        "I have more redeeming qualities than just that! Like how cute I am。 Or how nice I am!"
+      ]
+    }
+  ]
+}

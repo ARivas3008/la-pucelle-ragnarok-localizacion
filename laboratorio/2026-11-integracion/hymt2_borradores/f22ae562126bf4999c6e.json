@@ -1,0 +1,40 @@
+{
+  "original": "When that happens、 I will be cut off from the outside world for a while。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYes、 that is good。\nBut sooner or later I am going to have to start studying to be Queen。\nI will not be able to meet you or Culotte。\nEclair。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYes、 that is good。\nBut sooner or later I am going to have to start studying to be Queen。\nI will not be able to meet you or Culotte。\nEclair。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhen that happens、 I will be cut off from the outside world for a while。",
+  "respuesta": "Cuando eso ocurra, estaré separada del mundo exterior por un tiempo.",
+  "fin": "stop",
+  "segundos": 2.43,
+  "uso": {
+    "completion_tokens": 19,
+    "prompt_tokens": 350,
+    "total_tokens": 369,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f22ae562126bf4999c6e",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 132006,
+      "entry_id": 611,
+      "original_hex": [
+        "827682888285828e81408294828882818294814082888281829082908285828e82938141",
+        "8268814082978289828c828c81408282828581408283829582948140828f82868286814082868292828f828d",
+        "8294828882858140828f82958294829382898284828581408297828f8292828c8284",
+        "8286828f8292814082818140829782888289828c82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yes、 that is good。",
+        "But sooner or later I am going to have to start studying to be Queen。",
+        "I will not be able to meet you or Culotte。",
+        "Eclair。。。"
+      ]
+    }
+  ]
+}

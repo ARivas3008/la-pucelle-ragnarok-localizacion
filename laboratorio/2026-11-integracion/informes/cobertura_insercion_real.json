@@ -1,0 +1,180 @@
+{
+  "fecha": "2026-11-17",
+  "iso": "<CARPETA_PROYECTO>\\12_Integracion_total\\prueba_correcciones\\La_Pucelle_Ragnarok_ES_PRELIMINAR.iso",
+  "sha256": "ec05e688b5e62710658bc5c2540c115245dbd6358849a02feb0cb20d30b06860",
+  "unidades_total": 26258,
+  "unidades_insertadas_verificadas": 20493,
+  "porcentaje_unidades_tecnicas": 78.04,
+  "estados": {
+    "CAMPO_COINCIDE_REVISION": 2966,
+    "CAMPO_SIN_TRADUCIR": 524,
+    "SIN_CAMBIO_COINCIDE_REVISION": 116,
+    "CAMPO_MODIFICADO_COTEJO_PENDIENTE": 335,
+    "SCRIPT_INSERTADO": 503,
+    "SCRIPT_PENDIENTE": 1,
+    "TALK_BLOQUE_INSERTADO": 17024,
+    "TALK_PENDIENTE": 4727,
+    "GRAFICO_PENDIENTE_REVISION_VISUAL": 62
+  },
+  "recursos_compilados_releidos": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "sha256": "e61a258ab251c9cf6b6245260799b54c770b7220f194a3f0b48bb3fe3a81a3fb"
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "sha256": "2de787b6d49bfb54cdb9cd10de8fb5f9ee1ff202d4e3888318376f4a05e716a0"
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "sha256": "de4e9ae43bad7e65eb85986feb6e3210debd5b84f8c4f3ba6936fd4a04a46274"
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "sha256": "712bf314c61f6f0250e44388ff6649877a7b3978885bdbb55e528d54d7e68037"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+      "sha256": "b2001ad0f2c988d3b6c44a2a44572dc005b933e0af5c881bbb2fff0bd37fd19d"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "sha256": "a2260818369d97815bddfe6f605954cc1656221e3ecd36d45c4cdabb9a42a1a4"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+      "sha256": "a84b3b077de427d181b29b0b5fcdf3770f14b1014f3c77d46c6c00fcd819a4f4"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "sha256": "8c5b39805090364c4a4847ff5609149c2fc583bc5b438e7b6571f3847749a2e7"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "sha256": "ebe46db680c73ee5fc436118603b9290bd29e2456496936f28cc8726c4265910"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "sha256": "a67d942407933e4d7ad31aebf9866f3509897a4a29eceee7c99d3a22cb6e49b5"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "sha256": "ad00c5c0bbaa680be34c1ebc7c4af2746d0459c9fc11c40255dde0a364cd1ed5"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "sha256": "099a0fe475c1e349d6e1045fc4a9ac3e255b7b08934e07ce05c46fad5a5a3ebc"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "sha256": "a49a6bda10dd2032eaafe2fe7397f3041d1b337c658c0ddd1af364da556682c8"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "sha256": "5c3826f84d760be8c82b5423a68120ed2e6b0a1876e4d09feb8a972f494675b1"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "sha256": "204bef2c373dc6a1860920def0c449ce8e99d9752c35fc30a2261abc84389a7f"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "sha256": "d07230c20ea4507c336506343a2068b738df2326e2f8e8cd87dd8d2c7a7fcbe0"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "sha256": "0f5fbd8c5cf0fdeb21f0e2b58b8b6e76a012e1b0ee971c834b63a7743be50e72"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "sha256": "b284be92941f683db7ffb48e009f47e9cfc34bdded29dd07e2965d197e437167"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "sha256": "454e042b08e3ede682970d4077bb800952370dcdf7f3387287120d3ca041abac"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "sha256": "bad624f36e918fee8210a45e2f918b157f6fc4c1ea55b5b7ac85afb13c3ad099"
+    },
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "sha256": "121d0cd0f2a902f29cbc13f0d0cfae542ac8cb7bfe38ebb3626900a5f832985e"
+    },
+    {
+      "recurso": "DLC_00/script00.dat",
+      "sha256": "f62a2dac90d22e5a452d06af02743d8eb54ae3bd4fe3e61231ab960d9e285d32"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "sha256": "96825b50d8dafa88551a84443e219e6815a27c5161f7d138ed42b99c94f902a3"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "sha256": "3f85f9598661807a362a37bdfd1423f46f9978e2b0ef98673784e62064f7230b"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "sha256": "8bc559d5c51f9273c168ddaa591ddfaa1d5faf9e659f6c63e07abf25f81f4619"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script04.dat",
+      "sha256": "2bcc4935eceea6194d42d1a0739a2e5360003f3e89f3877da11e34f59fc5b0f1"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "sha256": "3d24100c415fa14a1c54b2cd9d623b34dc72f76b8549bac348872795d684c837"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "sha256": "cc5ac0d5fd596a476053d6eed72145b3568f895b91317938b34549e3a3eb5da3"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script07.dat",
+      "sha256": "08ead196fa4ff21e48468f55785353ddbbdf1b966a1da84ef21bc910238edaf5"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "sha256": "f1ce33996758ed162211009f96bfb935415790ce13fc870cac1454485e572eda"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "sha256": "88288713f663e579c47bd026970c0e001f9bf3e1c9aaf17badc1f1672ea91437"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script11.dat",
+      "sha256": "40c9ea9edb844a23e615c7dca1c9018b928525679573f42bc79931ea71f2700d"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "sha256": "c10194eef6a6a5bf48e232370bcea68aee0118ad9516c7e432584e9800c9a242"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "sha256": "b99ce67a5f49c53cde4b6f6409bcc1afa86a8e670b307f9e06a923d820633e43"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "sha256": "fde5a4a67e6734f5982751bbea0db914d4a1aeff81771eae986679b0a5c92199"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script17.dat",
+      "sha256": "525142c291094d94647fdee9adfd1c25cb24e29bdfb15e112afc9422ae9ef6a8"
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "sha256": "30b1e17fff265d90b8bba4ac2ce6daeefb24f6c0cad69379f9a5b23a4d4d1a86"
+    },
+    {
+      "recurso": "ISO_START/script00.dat",
+      "sha256": "4e3d6bda1a2aaceca13f3bd688c9e9d953e3c56fd530327262de8d312fdbfd5c"
+    }
+  ],
+  "advertencias": [
+    "Porcentaje de unidades técnicas del manifiesto, no porcentaje del juego ni calidad editorial.",
+    "Los bloques talk incluyen unidades físicas de destino; no se cuentan los IDs de los catálogos reutilizados.",
+    "Campos modificados con reducciones requieren cotejo antes de sumarlos.",
+    "Texturas pendientes de revisión visual; textos fuera del manifiesto se contabilizan aparte.",
+    "Esta comprobación binaria no sustituye la prueba en PPSSPP."
+  ]
+}

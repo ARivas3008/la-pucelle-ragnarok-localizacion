@@ -1,0 +1,50 @@
+{
+  "original": "To make a miracle attack get 15 or more squares of dark energy into a circle and purify them。 Enemies on the dark energy will be damaged、 and so will those  inside the circle。 Unless using light blue healing energy、 there must be enemies in the circle for this to work。 It feels great when you get this to work! You have got to give it a try! The only problem is that it can be difficult to make the circle、 and you do not get XP for it。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nTo make a miracle attack get 15 or more squares of dark energy into a circle and purify them。 Enemies on the dark energy will be damaged、 and so will those  inside the circle。 Unless using light blue healing energy、 there must be enemies in the circle for this to work。 It feels great when you get this to work! You have got to give it a try! The only problem is that it can be difficult to make the circle、 and you do not get XP for it。",
+  "respuesta": "Para realizar un ataque milagroso, es necesario reunir 15 o más unidades de energía oscura en un círculo y purificarlas. Los enemigos que se encuentren dentro del círculo serán dañados, al igual que aquellos que estén dentro del mismo. A menos que se utilice energía curativa de color azul claro, será necesario que haya enemigos dentro del círculo para que el ataque funcione. ¡Es maravilloso cuando funciona! Debes probarlo. El único problema es que puede ser difícil crear ese círculo, y no se obtienen puntos de experiencia por ello.",
+  "fin": "stop",
+  "segundos": 10.04,
+  "uso": {
+    "completion_tokens": 155,
+    "prompt_tokens": 396,
+    "total_tokens": 551,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "bd9226e7afd1b274ffed",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 28888,
+      "entry_id": 201733,
+      "original_hex": [
+        "8273828f8140828d8281828b8285814082818140828d8289829282818283828c8285814082818294829482818283828b",
+        "8287828582948140825082548140828f82928140828d828f8292828581408293829182958281829282858293",
+        "828f82868140828482818292828b81408285828e828582928287829981408289828e8294828f81408281",
+        "8283828982928283828c828581408281828e828481408290829582928289828682998140829482888285828d8142",
+        "8264828e8285828d8289828582938140828f828e81408294828882858140828482818292828b",
+        "8285828e8285829282878299814082978289828c828c814082828285814082848281828d82818287828582848141",
+        "8281828e828481408293828f814082978289828c828c814082948288828f829382858140",
+        "8289828e8293828982848285814082948288828581408283828982928283828c82858142",
+        "8274828e828c8285829382938140829582938289828e82878140828c828982878288829481408282828c82958285",
+        "828882858281828c8289828e828781408285828e82858292828782998141814082948288828582928285",
+        "828d82958293829481408282828581408285828e8285828d82898285829381408289828e8140829482888285",
+        "8283828982928283828c828581408286828f82928140829482888289829381408294828f81408297828f8292828b8142",
+        "826882948140828682858285828c82938140828782928285828182948140829782888285828e81408299828f8295",
+        "8287828582948140829482888289829381408294828f81408297828f8292828b814981408278828f8295",
+        "828882818296828581408287828f829481408294828f814082878289829682858140828982948140828181408294829282998149",
+        "8273828882858140828f828e828c8299814082908292828f8282828c8285828d81408289829381408294828882818294",
+        "82898294814082838281828e81408282828581408284828982868286828982838295828c829481408294828f8140828d8281828b8285",
+        "82948288828581408283828982928283828c8285814181408281828e828481408299828f829581408284828f",
+        "828e828f8294814082878285829481408277826f81408286828f82928140828982948142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

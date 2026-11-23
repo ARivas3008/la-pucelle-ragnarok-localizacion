@@ -1,0 +1,36 @@
+{
+  "original": "To think that a Sister would end up like this。。。 Surprising、 but I will still be counting on ya。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nTo think that a Sister would end up like this。。。 Surprising、 but I will still be counting on ya。",
+  "respuesta": "Pensar que una hermana termina así… Es sorprendente, pero de todas formas seguiré confiando en ti.",
+  "fin": "stop",
+  "segundos": 2.29,
+  "uso": {
+    "completion_tokens": 32,
+    "prompt_tokens": 318,
+    "total_tokens": 350,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "15eeee063259b7bbe65a",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 26291,
+      "entry_id": 250740,
+      "original_hex": [
+        "8273828f8140829482888289828e828b81408294828882818294814082818140827282898293829482858292",
+        "8297828f8295828c828481408285828e82848140829582908140828c8289828b8285",
+        "8294828882898293814281428142",
+        "82728295829282908292828982938289828e82878141814082828295829481408268814082978289828c828c",
+        "829382948289828c828c81408282828581408283828f8295828e82948289828e82878140828f828e8140829982818142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "original": "やめる",
+  "contexto": "Menu selection: keep the translation short. Adjacent lines in the same event:\n魔導合成\n魔界化指数と魔界ゲート",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nMenu selection: keep the translation short. Adjacent lines in the same event:\n魔導合成\n魔界化指数と魔界ゲート\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nやめる",
+  "respuesta": "Dejar de hacerlo.",
+  "fin": "stop",
+  "segundos": 0.92,
+  "uso": {
+    "completion_tokens": 7,
+    "prompt_tokens": 316,
+    "total_tokens": 323,
+    "prompt_tokens_details": {
+      "cached_tokens": 288
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "1c9e9aa7e68603131313",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 22147,
+      "entry_id": 201793,
+      "original_hex": [
+        "82e282df82e9"
+      ],
+      "opcion": true,
+      "contexto": [
+        "魔導合成",
+        "魔界化指数と魔界ゲート"
+      ]
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 22115,
+      "entry_id": 201793,
+      "original_hex": [
+        "82e282df82e9"
+      ],
+      "opcion": true,
+      "contexto": [
+        "魔導合成",
+        "魔界化指数と魔界ゲート"
+      ]
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 22339,
+      "entry_id": 201793,
+      "original_hex": [
+        "82e282df82e9"
+      ],
+      "opcion": true,
+      "contexto": [
+        "魔導合成",
+        "魔界化指数と魔界ゲート"
+      ]
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 22307,
+      "entry_id": 201793,
+      "original_hex": [
+        "82e282df82e9"
+      ],
+      "opcion": true,
+      "contexto": [
+        "魔導合成",
+        "魔界化指数と魔界ゲート"
+      ]
+    }
+  ]
+}

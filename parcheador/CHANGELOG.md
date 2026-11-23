@@ -1,4 +1,22 @@
+# v0.19.0-integracion
+
+Integración desde originales, 21.805 unidades verificadas (83,04 %), 500 propuestas HY-MT2 revisadas, correcciones de scripts, diálogos y menús. Entrega preliminar: QA visual pendiente. [Ficha completa](../docs/versiones/v0.19.0.md).
+
+---
+
 # Registro de versiones del parcheador
+
+- [v0.17.4-sector-qa — Corrección de crecimiento +26 B dentro de sector ISO y diagnóstico real de Python](docs/versiones/v0.17.4.md) (probado binariamente; PPSSPP pendiente)
+
+- [v0.17.3-lba-qa — Conservar LBA de START y SCRIPTPACK y abortar si no caben](docs/versiones/v0.17.3.md) (validación visual PPSSPP pendiente)
+
+- [v0.17.2-diagnóstico — Corrupción visual PPSSPP y 3 diálogos bloqueados](docs/versiones/v0.17.2.md) (A/B pendiente, sin certificación de gráficos)
+
+- [v0.17.1-qa — Corregir falta de DLC sin cambios y publicación final atómica](docs/versiones/v0.17.1.md) (pruebas Windows, PPSSPP pendiente)
+
+- [v0.17.0-qa — Paginación de diálogos, once unidades del tutorial y salida final para PPSSPP](docs/versiones/v0.17.md) (QA visual pendiente)
+
+- [v0.16 — GUI con segunda fase de scripts y ensayo de referencias CP932](docs/versiones/v0.16.md) (NO verificada en PPSSPP)
 
 Cada versión tiene un documento propio en `docs/versiones/`. **Las métricas históricas provienen de sus respectivos paquetes; no equivalen a pruebas actuales en PPSSPP.**
 
@@ -27,3 +45,10 @@ Cada versión tiene un documento propio en `docs/versiones/`. **Las métricas hi
 3. Pruebas unitarias en `app/tests` y de ingeniería inversa en `investigacion/v*/tests`.
 4. Un PR por integración, con revisión de los hashes y sin incluir imágenes comerciales.
 5. No confundir una prueba de reversibilidad binaria con una validación de jugabilidad.
+# v0.18.0-local-qa (2026-11-15)
+
+Protección de EBOOT también en abreviaciones; revisiones integradas con hashes;
+fuente editorial común y una sola edición de scripts; lectura correcta de CSV
+multilínea; caché ligada al paquete compilado; ventana desplazable.
+Ensayo real ISO + cuatro DLC y auditoría binaria correctos; QA visual pendiente.
+Véase `docs/versiones/v0.18.0.md`.

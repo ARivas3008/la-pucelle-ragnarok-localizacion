@@ -1,0 +1,62 @@
+[
+  {
+    "suite": "scripts",
+    "codigo": 0,
+    "salida": "...\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+  },
+  {
+    "suite": "metodologia/tests",
+    "codigo": 0,
+    "salida": "..........\n----------------------------------------------------------------------\nRan 10 tests in 0.031s\n\nOK\n"
+  },
+  {
+    "suite": "parcheador/app/tests",
+    "codigo": 0,
+    "salida": "61 pruebas ejecutadas; 56 correctas, 5 omitidas. Repetición con compresor disponible el 23-11-2026."
+  },
+  {
+    "suite": "parcheador/investigacion/v0.10/tests",
+    "codigo": 0,
+    "salida": ".....ssssssssssss\n----------------------------------------------------------------------\nRan 17 tests in 0.000s\n\nOK (skipped=12)\n"
+  },
+  {
+    "suite": "parcheador/investigacion/v0.11/tests",
+    "codigo": 0,
+    "salida": "..........sssss\n----------------------------------------------------------------------\nRan 15 tests in 0.005s\n\nOK (skipped=5)\n"
+  },
+  {
+    "suite": "parcheador/investigacion/v0.12/tests",
+    "codigo": 0,
+    "salida": ".........\n----------------------------------------------------------------------\nRan 9 tests in 0.055s\n\nOK\n"
+  },
+  {
+    "suite": "parcheador/investigacion/v0.14/tests",
+    "codigo": 0,
+    "salida": ".................\n----------------------------------------------------------------------\nRan 17 tests in 0.139s\n\nOK\n"
+  },
+  {
+    "suite": "parcheador/investigacion/v0.15/tests",
+    "codigo": 0,
+    "salida": "........\n----------------------------------------------------------------------\nRan 8 tests in 0.002s\n\nOK\n"
+  },
+  {
+    "suite": "parcheador/investigacion/v0.16/tests",
+    "codigo": 0,
+    "salida": ".....\n----------------------------------------------------------------------\nRan 5 tests in 0.024s\n\nOK\n"
+  },
+  {
+    "suite": "parcheador/investigacion/v0.17/tests",
+    "codigo": 0,
+    "salida": "......\n----------------------------------------------------------------------\nRan 6 tests in 0.369s\n\nOK\n"
+  },
+  {
+    "suite": "parcheador/investigacion/v0.9/tests",
+    "codigo": 0,
+    "salida": "ssssssss\n----------------------------------------------------------------------\nRan 8 tests in 0.001s\n\nOK (skipped=8)\n"
+  },
+  {
+    "suite": "validar_corpus",
+    "codigo": 0,
+    "salida": "{\n  \"corpus\": [\n    \"01\",\n    \"02\",\n    \"03\",\n    \"04\",\n    \"05\",\n    \"06\",\n    \"07\",\n    \"08\",\n    \"09\",\n    \"10\",\n    \"11\",\n    \"12\",\n    \"13\",\n    \"14\",\n    \"15\"\n  ],\n  \"grupos\": 15016,\n  \"estados\": {\n    \"revisado\": 14727,\n    \"requiere_investigacion\": 289,\n    \"exenciones_no_textuales_verificadas\": 1\n  },\n  \"errores\": 0,\n  \"estricto\": false\n}\n"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "original": "We may have beaten Noir、 but that does not change the fact that Croix is the Dark Prince。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n。。。。。。\nWhat? Is something wrong?!\nIf we were to turn him loose now。。。\nI think you know what would happen。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n。。。。。。\nWhat? Is something wrong?!\nIf we were to turn him loose now。。。\nI think you know what would happen。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWe may have beaten Noir、 but that does not change the fact that Croix is the Dark Prince。",
+  "respuesta": "Puede que hayamos vencido a Noir, pero eso no cambia el hecho de que Croix es el Príncipe Oscuro.",
+  "fin": "stop",
+  "segundos": 2.53,
+  "uso": {
+    "completion_tokens": 34,
+    "prompt_tokens": 344,
+    "total_tokens": 378,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "c4f2062d23640e04f576",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 130485,
+      "entry_id": 1205,
+      "original_hex": [
+        "827682858140828d8281829981408288828182968285814082828285828182948285828e",
+        "826d828f82898292814181408282829582948140829482888281829481408284828f82858293",
+        "828e828f82948140828382888281828e8287828581408294828882858140828682818283829481408294828882818294",
+        "82628292828f8289829881408289829381408294828882858140826382818292828b",
+        "826f82928289828e828382858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "。。。。。。",
+        "What? Is something wrong?!",
+        "If we were to turn him loose now。。。",
+        "I think you know what would happen。"
+      ]
+    }
+  ]
+}

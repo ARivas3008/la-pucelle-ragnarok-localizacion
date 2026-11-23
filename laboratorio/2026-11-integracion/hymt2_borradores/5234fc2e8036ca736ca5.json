@@ -1,0 +1,38 @@
+{
+  "original": "Both the heart of darkness and light are part of Sister Eclair。 And we need to make them whole again!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nBoth the heart of darkness and light are part of Sister Eclair。 And we need to make them whole again!",
+  "respuesta": "Tanto el corazón de la oscuridad como la luz son parte de la hermana Éclair. Y necesitamos volver a hacerlos completos.",
+  "fin": "stop",
+  "segundos": 2.83,
+  "uso": {
+    "completion_tokens": 36,
+    "prompt_tokens": 320,
+    "total_tokens": 356,
+    "prompt_tokens_details": {
+      "cached_tokens": 296
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "5234fc2e8036ca736ca5",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 83434,
+      "entry_id": 4667,
+      "original_hex": [
+        "8261828f8294828881408294828882858140828882858281829282948140828f8286",
+        "828482818292828b828e82858293829381408281828e82848140828c82898287828882948140828182928285",
+        "82908281829282948140828f82868140827282898293829482858292814082648283828c8281828982928142",
+        "8260828e82848140829782858140828e82858285828481408294828f8140828d8281828b8285",
+        "829482888285828d814082978288828f828c828581408281828782818289828e8149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "。。。"
+      ]
+    }
+  ]
+}

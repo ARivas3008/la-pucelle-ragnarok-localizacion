@@ -1,0 +1,78 @@
+{
+  "original": "次の戦闘で経験値が3倍",
+  "contexto": "Menu selection: keep the translation short. Adjacent lines in the same event:\n一つだけ願い事がかなうとしたら なにがいいですか?\n次の浄化で経験値が3倍\n次のマップでお金が3倍",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nMenu selection: keep the translation short. Adjacent lines in the same event:\n一つだけ願い事がかなうとしたら なにがいいですか?\n次の浄化で経験値が3倍\n次のマップでお金が3倍\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n次の戦闘で経験値が3倍",
+  "respuesta": "En el próximo combate, los puntos de experiencia se duplicarán.",
+  "fin": "stop",
+  "segundos": 2.9,
+  "uso": {
+    "completion_tokens": 20,
+    "prompt_tokens": 358,
+    "total_tokens": 378,
+    "prompt_tokens_details": {
+      "cached_tokens": 268
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "daedfb850001a799c93d",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 36956,
+      "entry_id": 299803,
+      "original_hex": [
+        "8e9f82cc90ed93ac82c58c6f8cb1926c82aa8252947b"
+      ],
+      "opcion": true,
+      "contexto": [
+        "一つだけ願い事がかなうとしたら なにがいいですか?",
+        "次の浄化で経験値が3倍",
+        "次のマップでお金が3倍"
+      ]
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 36924,
+      "entry_id": 299803,
+      "original_hex": [
+        "8e9f82cc90ed93ac82c58c6f8cb1926c82aa8252947b"
+      ],
+      "opcion": true,
+      "contexto": [
+        "一つだけ願い事がかなうとしたら なにがいいですか?",
+        "次の浄化で経験値が3倍",
+        "次のマップでお金が3倍"
+      ]
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 37148,
+      "entry_id": 299803,
+      "original_hex": [
+        "8e9f82cc90ed93ac82c58c6f8cb1926c82aa8252947b"
+      ],
+      "opcion": true,
+      "contexto": [
+        "一つだけ願い事がかなうとしたら なにがいいですか?",
+        "次の浄化で経験値が3倍",
+        "次のマップでお金が3倍"
+      ]
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 37116,
+      "entry_id": 299803,
+      "original_hex": [
+        "8e9f82cc90ed93ac82c58c6f8cb1926c82aa8252947b"
+      ],
+      "opcion": true,
+      "contexto": [
+        "一つだけ願い事がかなうとしたら なにがいいですか?",
+        "次の浄化で経験値が3倍",
+        "次のマップでお金が3倍"
+      ]
+    }
+  ]
+}

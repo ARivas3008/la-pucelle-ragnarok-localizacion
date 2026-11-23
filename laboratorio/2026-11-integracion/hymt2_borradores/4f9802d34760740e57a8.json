@@ -1,0 +1,40 @@
+{
+  "original": "It has been many years since humans have  come to this valley。 I am the leader of the valley、 Ellie the 16th。 Some of us may have never seen a human so please forgive our curiosity。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIt has been many years since humans have  come to this valley。 I am the leader of the valley、 Ellie the 16th。 Some of us may have never seen a human so please forgive our curiosity。",
+  "respuesta": "Han pasado muchos años desde que los humanos llegaron a este valle. Yo soy el líder del valle, la décima sexta en su orden de jerarquía. Algunos de nosotros quizás nunca hayan visto a un ser humano, así que por favor, perdónen nuestra curiosidad.",
+  "fin": "stop",
+  "segundos": 5.78,
+  "uso": {
+    "completion_tokens": 75,
+    "prompt_tokens": 339,
+    "total_tokens": 414,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "4f9802d34760740e57a8",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 49186,
+      "entry_id": 209501,
+      "original_hex": [
+        "8268829481408288828182938140828282858285828e8140828d8281828e8299814082998285828182928293",
+        "82938289828e82838285814082888295828d8281828e8293814082888281829682858140",
+        "8283828f828d828581408294828f81408294828882898293814082968281828c828c828582998142",
+        "826881408281828d81408294828882858140828c828582818284828582928140828f82868140829482888285",
+        "82968281828c828c82858299814181408264828c828c828982858140829482888285814082508255829482888142",
+        "8272828f828d82858140828f82868140829582938140828d8281829981408288828182968285",
+        "828e82858296828582928140829382858285828e81408281814082888295828d8281828e",
+        "8293828f81408290828c828582818293828581408286828f829282878289829682858140828f82958292",
+        "8283829582928289828f82938289829482998142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

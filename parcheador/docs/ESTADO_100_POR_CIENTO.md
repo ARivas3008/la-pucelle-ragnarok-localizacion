@@ -28,3 +28,43 @@ Los estados `APLICADO_*` actuales no implican el primero de esos dos estados de 
 ## Investigación posterior v0.15
 
 Las 14 unidades con 15 anclas internas CP932 quedaron catalogadas y pueden auditarse en los originales sin escritura. La hipótesis de fase segundo byte → segundo byte se genera como candidato, no como parche aprobado. La cobertura española real **no aumenta** hasta que se identifique la semántica de los índices y se validen las escenas en PPSSPP. Detalles en [MATRIZ_14.md](../investigacion/v0.15/MATRIZ_14.md).
+
+
+## Evaluación v0.16 (experimental, 15-11-2026)
+
+Se verificaron 15 referencias CP932 dentro de 14 cadenas sobre la ISO y los 4 DLC originales. El ensayo de fase conservada halló solo 4 unidades con candidato cercano (1758, 1759, 3924, 4170). Los otros 10 casos permanecen bloqueados. La compilación de EXE y la reversibilidad no sustituyen las pruebas de PPSSPP ni la aprobación editorial de las 26 258 unidades: el cumplimiento global **no es 100 %**.
+
+
+## Corrección de balance v0.16.1 (reproducción real)
+
+La primera v0.16 rechazaba **344 candidatos** de script al combinar referencias inseguras con un lote: solo 159 ediciones sobrevivían. Después de corregir el aislamiento, los **489** textos conservadores siguen insertándose y **3** referencias subcarácter adicionales generan archivos reversibles, pero **no están verificadas en PPSSPP**. Las **otras 11** unidades siguen bloqueadas, incluida 1759 (dos referencias). No confundir `492/503` de esta familia con el 100 % del manifiesto general (26 258 unidades).
+
+Las familias restantes con pendientes incluyen tablas fijas que exceden campo, EBOOT, 62 texturas no tratadas como textos, continuaciones talk, renderización/anchuras y aprobación editorial. El estado de cumplimiento final permanece **NO CERTIFICADO**. Véase [v0.16](versiones/v0.16.md).
+
+
+**Instantánea real de corpus en main (15-11-2026):** [14 727 revisados, 289 requieren investigación](ESTADO_EDITORIAL_OBSERVADO_2026-11-15.md) de 15 016 distribuidos; 509 grupos centrales aparte. Ningún porcentaje editorial equivale a implantación jugable.
+
+
+## Nuevo ensayo v0.17 de capturas de tutorial
+
+Se confirmó que 5050/5051/5055/5057 estaban `revisado` en `revision.csv`, pero el programa no los insertaba por presupuesto CP932/ancho completo y división entre dos cuadros. La v0.17 agrega un reflujo sin mover opcodes y ajustes contextualizados: en un ensayo del original se recuperaron **11 unidades** de `talk01_jp.dat`. Las unidades **no están verificadas visualmente en PPSSPP**. Los rótulos `BGPACK/at01.txp`, el logo, EBOOT, la anomalía del grupo 5084 y los parpadeos siguen sin resolución comprobada. [Ver matriz](QA_CAPTURAS_V017.md). Este dato no cambia los denominadores globales de 26 258 unidades.
+
+
+## Incidencia de ensamblaje resuelta en v0.17.1 (sin cambio de cobertura)
+
+La v0.17 generaba el ISO de scripts, pero terminaba con código 1 al exigir `DLC_01_SCRIPT_V014_EXPERIMENTAL.EDAT` incluso cuando el segundo motor no había modificado ese DLC y no lo había creado. v0.17.1 preserva el DLC preliminar cuando el informe de scripts no declara cambios, valida los cuatro DLC y publica la carpeta final solo al estar completa. [Detalle y pruebas](versiones/v0.17.1.md). Esto **no incrementa por sí mismo la cobertura de traducción**, ni certifica jugabilidad o ausencia de parpadeo.
+
+
+## Hallazgo v0.17.2 (QA visual, 15-11-2026)
+
+Se recibieron nueve capturas que demuestran corrupción grave de paneles y texturas en el juego parcheado; no se conoce aún la causa. La v0.17.2 **no afirma resolverla**: añade aislamiento voluntario de EBOOT y atlas, auditor de solo lectura de recursos y 11 segmentos elegibles en tres grupos de diálogo ajustados a los bytes originales. La versión es diagnóstica y no incrementa la cobertura certificada en PPSSPP. Véase [QA visual](QA_VISUAL_V0172.md).
+
+
+## v0.17.3 — Riesgo de compatibilidad mitigado, no se declara problema visual resuelto
+
+Se confirmó en reconstrucción real anterior que START_JP y SCRIPTPACK se trasladaban al final de la ISO pese a caber en sus extensiones originales. v0.17.3 conserva LBA y tamaño de ISO, con pruebas sintéticas y sobre contenidos originales, pero **no prueba ausencia de los fondos mal dibujados en PPSSPP**. Las referencias CP932, UI, tarjetas de capítulo, DLC y QA visual siguen abiertos. [Ficha y resultados](versiones/v0.17.3.md).
+
+
+## v0.17.4: corrección de bloqueo del empaquetado, sin aumentar cobertura editorial
+
+Se reprodujo el fallo `exit status 2` de la v0.17.3: segunda fase crecía `START_JP.LZS` 26 B sobre su tamaño lógico, aunque cabía en el mismo sector asignado. v0.17.4 admite ese crecimiento sin cambiar LBA o volumen. Fases 1 y 2 verificadas sobre copia de ISO y cuatro DLC del propietario. **No demuestra que se hayan corregido fondos de menús ni certifica todo el juego**. [Documento técnico](versiones/v0.17.4.md).

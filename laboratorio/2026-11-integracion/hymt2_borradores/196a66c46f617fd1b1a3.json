@@ -1,0 +1,38 @@
+{
+  "original": "Keep your wits about you。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nN-no、 nothing。 Forget I mentioned it。 Just a momentary slip of the lip。。。\nBut the Church of the Divine Mother does seem to be getting more active。\nDo not worry so much!!\nWhen I become the Maiden of Light、 I will take care of them all single-handed!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nN-no、 nothing。 Forget I mentioned it。 Just a momentary slip of the lip。。。\nBut the Church of the Divine Mother does seem to be getting more active。\nDo not worry so much!!\nWhen I become the Maiden of Light、 I will take care of them all single-handed!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nKeep your wits about you。",
+  "respuesta": "Mantén la calma.",
+  "fin": "stop",
+  "segundos": 2.16,
+  "uso": {
+    "completion_tokens": 8,
+    "prompt_tokens": 362,
+    "total_tokens": 370,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "196a66c46f617fd1b1a3",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 99982,
+      "entry_id": 501,
+      "original_hex": [
+        "826a82858285829081408299828f8295829281408297828982948293814082818282828f82958294",
+        "8299828f82958142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "N-no、 nothing。 Forget I mentioned it。 Just a momentary slip of the lip。。。",
+        "But the Church of the Divine Mother does seem to be getting more active。",
+        "Do not worry so much!!",
+        "When I become the Maiden of Light、 I will take care of them all single-handed!"
+      ]
+    }
+  ]
+}

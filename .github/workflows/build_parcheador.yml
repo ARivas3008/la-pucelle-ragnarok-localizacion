@@ -1,11 +1,11 @@
-name: Compilar parcheador Windows (experimental)
+name: Compilar parcheador Windows
 on:
   workflow_dispatch:
   push:
-    paths:
-      - 'parcheador/**'
-      - '.github/workflows/build_parcheador.yml'
-      - 'data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv'
+    branches: [main]
+    paths: ['parcheador/**', 'corpus/**/revision.csv', 'data/maestros/**', '.github/workflows/build_parcheador.yml']
+  pull_request:
+    paths: ['parcheador/**', 'corpus/**/revision.csv', '.github/workflows/build_parcheador.yml']
 permissions:
   contents: read
 jobs:
@@ -19,22 +19,26 @@ jobs:
       - uses: actions/setup-go@v5
         with:
           go-version: '1.23'
-      - name: Preparar MSVC para el compresor C++
-        uses: ilammy/msvc-dev-cmd@v1
-      - name: Compilar compresor NIS LZS desde fuentes
+      - uses: ilammy/msvc-dev-cmd@v1
+      - name: Compilar compresor desde fuentes
         shell: cmd
+        run: cl /nologo /std:c++17 /EHsc /O2 /Fe:parcheador\app\scripts\nis_lzs_pack.exe parcheador\app\scripts\nis_lzs_pack.cpp
+      - name: Pruebas del motor con compresor
+        run: python -m unittest discover -s parcheador/app/tests -v
+      - name: Generar ejecutable
+        run: python parcheador/build_release.py --packer-exe parcheador/app/scripts/nis_lzs_pack.exe
+      - name: Pruebas del lanzador
         working-directory: parcheador
-        run: cl /nologo /std:c++17 /EHsc /O2 /Fe:nis_lzs_pack.exe app\scripts\nis_lzs_pack.cpp
-      - name: Pruebas del motor de inserción
+        run: go test -v main.go main_test.go
+      - name: Autocomprobación del EXE
         shell: pwsh
         run: |
-          python -m unittest discover -s parcheador/app/tests -v
-          python -m unittest discover -s parcheador/investigacion/v0.12/tests -v
-      - name: Generar ejecutable independiente
-        shell: pwsh
-        run: python parcheador/build_release.py --packer-exe parcheador/nis_lzs_pack.exe
+          $exe = Get-ChildItem parcheador/dist/*.exe | Select-Object -First 1
+          $proc = Start-Process -FilePath $exe.FullName -ArgumentList '--self-test' -Wait -PassThru
+          if ($proc.ExitCode -ne 0) { throw 'Autocomprobación fallida' }
+          Get-FileHash $exe.FullName -Algorithm SHA256 | Format-List
       - uses: actions/upload-artifact@v4
         with:
-          name: LaPucelle-ES-v0.13-Windows-EXPERIMENTAL
+          name: LaPucelle-ES-v0.19.0-Windows-PRELIMINAR
           path: parcheador/dist/*.exe
           if-no-files-found: error

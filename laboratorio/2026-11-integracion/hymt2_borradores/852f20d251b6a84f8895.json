@@ -1,0 +1,40 @@
+{
+  "original": "Quit worrying。。。 Big sister、 have you really grasped what happened?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nSorry、 Prier。。。 If only I would not have said that being a Demon Lord suits you、 none of this would have ever happened。。。\nThere is no need to apologize、 Culotte。 This is all because I let my weakness take over。 So quit worrying about that!\nOf course I have! I am just being optimistic!\nNo doubt! That sounds just like the Prier I know!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nSorry、 Prier。。。 If only I would not have said that being a Demon Lord suits you、 none of this would have ever happened。。。\nThere is no need to apologize、 Culotte。 This is all because I let my weakness take over。 So quit worrying about that!\nOf course I have! I am just being optimistic!\nNo doubt! That sounds just like the Prier I know!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nQuit worrying。。。 Big sister、 have you really grasped what happened?",
+  "respuesta": "Deja de preocuparte… Hermana mayor, ¿realmente has comprendido lo que pasó?",
+  "fin": "stop",
+  "segundos": 3.97,
+  "uso": {
+    "completion_tokens": 23,
+    "prompt_tokens": 390,
+    "total_tokens": 413,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "852f20d251b6a84f8895",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 91249,
+      "entry_id": 1809,
+      "original_hex": [
+        "827082958289829481408297828f8292829282998289828e8287814281428142",
+        "826182898287814082938289829382948285829281418140828882818296828581408299828f8295",
+        "829282858281828c828c82998140828782928281829382908285828481408297828882818294",
+        "82888281829082908285828e828582848148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Sorry、 Prier。。。 If only I would not have said that being a Demon Lord suits you、 none of this would have ever happened。。。",
+        "There is no need to apologize、 Culotte。 This is all because I let my weakness take over。 So quit worrying about that!",
+        "Of course I have! I am just being optimistic!",
+        "No doubt! That sounds just like the Prier I know!"
+      ]
+    }
+  ]
+}

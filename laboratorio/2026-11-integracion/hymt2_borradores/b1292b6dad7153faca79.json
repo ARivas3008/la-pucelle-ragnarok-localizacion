@@ -1,0 +1,37 @@
+{
+  "original": "Nice one、 Culotte。 Well said。 We are counting on you。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI really appreciate you looking out for me、 but you should put a little more faith in my abilities。\nIn that case、 we should work harder so they can trust our abilities more!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI really appreciate you looking out for me、 but you should put a little more faith in my abilities。\nIn that case、 we should work harder so they can trust our abilities more!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nNice one、 Culotte。 Well said。 We are counting on you。",
+  "respuesta": "Bien dicho, Culotte. Realmente apreciamos que te preocupes por mí, pero deberías tener un poco más de confianza en mis habilidades. En ese caso, debemos esforzarnos más para que puedan confiar aún más en nuestras capacidades.",
+  "fin": "stop",
+  "segundos": 4.35,
+  "uso": {
+    "completion_tokens": 68,
+    "prompt_tokens": 347,
+    "total_tokens": 415,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "b1292b6dad7153faca79",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 43603,
+      "entry_id": 256010,
+      "original_hex": [
+        "826d8289828382858140828f828e82858141814082628295828c828f8294829482858142",
+        "82768285828c828c814082938281828982848142",
+        "82768285814082818292828581408283828f8295828e82948289828e82878140828f828e81408299828f82958142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I really appreciate you looking out for me、 but you should put a little more faith in my abilities。",
+        "In that case、 we should work harder so they can trust our abilities more!"
+      ]
+    }
+  ]
+}

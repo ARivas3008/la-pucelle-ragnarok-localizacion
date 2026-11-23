@@ -1,0 +1,40 @@
+{
+  "original": "You do not have to close off your heart any longer。 You are not alone。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI may not be Angelique、 but I will stay by you and help you control the darkness inside of you。\nI will watch over you for the rest of your life!\n。。。Heh。\nYou plan to boss me around for the rest of my life?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI may not be Angelique、 but I will stay by you and help you control the darkness inside of you。\nI will watch over you for the rest of your life!\n。。。Heh。\nYou plan to boss me around for the rest of my life?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou do not have to close off your heart any longer。 You are not alone。",
+  "respuesta": "No necesitas seguir cerrando tu corazón. No estás sola.",
+  "fin": "stop",
+  "segundos": 2.17,
+  "uso": {
+    "completion_tokens": 19,
+    "prompt_tokens": 364,
+    "total_tokens": 383,
+    "prompt_tokens_details": {
+      "cached_tokens": 280
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "9763cbe2cf850a3fd037",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 141145,
+      "entry_id": 1205,
+      "original_hex": [
+        "8278828f829581408284828f8140828e828f82948140828882818296828581408294828f",
+        "8283828c828f829382858140828f8286828681408299828f82958292814082888285828182928294",
+        "8281828e82998140828c828f828e828782858292814281408278828f82958140828182928285",
+        "828e828f829481408281828c828f828e82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I may not be Angelique、 but I will stay by you and help you control the darkness inside of you。",
+        "I will watch over you for the rest of your life!",
+        "。。。Heh。",
+        "You plan to boss me around for the rest of my life?"
+      ]
+    }
+  ]
+}

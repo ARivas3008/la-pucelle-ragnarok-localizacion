@@ -1,0 +1,106 @@
+{
+  "original": "コマンドの『浄化』を使って エリアマップ上に点在する 『不浄点』を浄化する......。 これが浄化だ。 不浄点と、そこから流れ出る闇の地場は 味方ユニットに悪影響を与える。 また、不浄点を浄化すれば、 新たな敵の出現を防ぐこともできる。 エリアマップにある不浄点は、 できる限り、浄化しておくことだな。 ただし、不浄点にはHPがあるから、 一度の浄化で成功するとは限らないぜ。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nコマンドの『浄化』を使って エリアマップ上に点在する 『不浄点』を浄化する......。 これが浄化だ。 不浄点と、そこから流れ出る闇の地場は 味方ユニットに悪影響を与える。 また、不浄点を浄化すれば、 新たな敵の出現を防ぐこともできる。 エリアマップにある不浄点は、 できる限り、浄化しておくことだな。 ただし、不浄点にはHPがあるから、 一度の浄化で成功するとは限らないぜ。",
+  "respuesta": "Se utiliza el comando “Limpieza” para eliminar los puntos impuros que se encuentran en la mapa del área. Eso es lo que significa “limpieza”. Los puntos impuros y la oscuridad que emanan de ellos causan daños a las unidades aliadas. Además, al limpiar los puntos impuros, también se puede evitar la aparición de nuevos enemigos. Es importante eliminar todos los puntos impuros posibles en la mapa del área. Pero, como los puntos impuros tienen salud, no se puede garantizar que la limpieza sea exitosa con una sola vez.",
+  "fin": "stop",
+  "segundos": 11.63,
+  "uso": {
+    "completion_tokens": 150,
+    "prompt_tokens": 458,
+    "total_tokens": 608,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "3c4ef7184792471dc127",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 23498,
+      "entry_id": 201730,
+      "original_hex": [
+        "8352837d8393836882cc81778ff289bb817882f08e6782c182c4",
+        "8347838a8341837d836283768fe382c9935f8ddd82b782e9",
+        "817795738ff2935f817882f08ff289bb82b782e9816381638142",
+        "82b182ea82aa8ff289bb82be8142",
+        "95738ff2935f82c6814182bb82b182a982e797ac82ea8f6f82e988c582cc926e8fea82cd",
+        "96a195fb8386836a8362836782c988ab89658bbf82f0975e82a682e98142",
+        "82dc82bd814195738ff2935f82f08ff289bb82b782ea82ce8141",
+        "905682bd82c8934782cc8f6f8cbb82f0966882ae82b182c682e082c582ab82e98142",
+        "8347838a8341837d8362837682c982a082e995738ff2935f82cd8141",
+        "82c582ab82e98cc082e881418ff289bb82b582c482a882ad82b182c682be82c88142",
+        "82bd82be82b5814195738ff2935f82c982cd8267826f82aa82a082e982a982e78141",
+        "88ea937882cc8ff289bb82c590ac8cf782b782e982c682cd8cc082e782c882a282ba8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 23466,
+      "entry_id": 201730,
+      "original_hex": [
+        "8352837d8393836882cc81778ff289bb817882f08e6782c182c4",
+        "8347838a8341837d836283768fe382c9935f8ddd82b782e9",
+        "817795738ff2935f817882f08ff289bb82b782e9816381638142",
+        "82b182ea82aa8ff289bb82be8142",
+        "95738ff2935f82c6814182bb82b182a982e797ac82ea8f6f82e988c582cc926e8fea82cd",
+        "96a195fb8386836a8362836782c988ab89658bbf82f0975e82a682e98142",
+        "82dc82bd814195738ff2935f82f08ff289bb82b782ea82ce8141",
+        "905682bd82c8934782cc8f6f8cbb82f0966882ae82b182c682e082c582ab82e98142",
+        "8347838a8341837d8362837682c982a082e995738ff2935f82cd8141",
+        "82c582ab82e98cc082e881418ff289bb82b582c482a882ad82b182c682be82c88142",
+        "82bd82be82b5814195738ff2935f82c982cd8267826f82aa82a082e982a982e78141",
+        "88ea937882cc8ff289bb82c590ac8cf782b782e982c682cd8cc082e782c882a282ba8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 23690,
+      "entry_id": 201730,
+      "original_hex": [
+        "8352837d8393836882cc81778ff289bb817882f08e6782c182c4",
+        "8347838a8341837d836283768fe382c9935f8ddd82b782e9",
+        "817795738ff2935f817882f08ff289bb82b782e9816381638142",
+        "82b182ea82aa8ff289bb82be8142",
+        "95738ff2935f82c6814182bb82b182a982e797ac82ea8f6f82e988c582cc926e8fea82cd",
+        "96a195fb8386836a8362836782c988ab89658bbf82f0975e82a682e98142",
+        "82dc82bd814195738ff2935f82f08ff289bb82b782ea82ce8141",
+        "905682bd82c8934782cc8f6f8cbb82f0966882ae82b182c682e082c582ab82e98142",
+        "8347838a8341837d8362837682c982a082e995738ff2935f82cd8141",
+        "82c582ab82e98cc082e881418ff289bb82b582c482a882ad82b182c682be82c88142",
+        "82bd82be82b5814195738ff2935f82c982cd8267826f82aa82a082e982a982e78141",
+        "88ea937882cc8ff289bb82c590ac8cf782b782e982c682cd8cc082e782c882a282ba8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 23658,
+      "entry_id": 201730,
+      "original_hex": [
+        "8352837d8393836882cc81778ff289bb817882f08e6782c182c4",
+        "8347838a8341837d836283768fe382c9935f8ddd82b782e9",
+        "817795738ff2935f817882f08ff289bb82b782e9816381638142",
+        "82b182ea82aa8ff289bb82be8142",
+        "95738ff2935f82c6814182bb82b182a982e797ac82ea8f6f82e988c582cc926e8fea82cd",
+        "96a195fb8386836a8362836782c988ab89658bbf82f0975e82a682e98142",
+        "82dc82bd814195738ff2935f82f08ff289bb82b782ea82ce8141",
+        "905682bd82c8934782cc8f6f8cbb82f0966882ae82b182c682e082c582ab82e98142",
+        "8347838a8341837d8362837682c982a082e995738ff2935f82cd8141",
+        "82c582ab82e98cc082e881418ff289bb82b582c482a882ad82b182c682be82c88142",
+        "82bd82be82b5814195738ff2935f82c982cd8267826f82aa82a082e982a982e78141",
+        "88ea937882cc8ff289bb82c590ac8cf782b782e982c682cd8cc082e782c882a282ba8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

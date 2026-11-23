@@ -1,0 +1,38 @@
+{
+  "original": "Thank you for helping me earlier。 If you had not shown up、 I might be in heaven right now。 I thank you from the bottom of my heart。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThank you for helping me earlier。 If you had not shown up、 I might be in heaven right now。 I thank you from the bottom of my heart。",
+  "respuesta": "Gracias por ayudarme antes. Si no hubieras aparecido, probablemente estaría en el cielo ahora mismo. Te agradezco desde el fondo de mi corazón.",
+  "fin": "stop",
+  "segundos": 3.05,
+  "uso": {
+    "completion_tokens": 44,
+    "prompt_tokens": 327,
+    "total_tokens": 371,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "2ed59ddb709691dc91a3",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+      "offset": 38901,
+      "entry_id": 202302,
+      "original_hex": [
+        "827382888281828e828b81408299828f829581408286828f8292814082888285828c82908289828e8287",
+        "828d82858140828582818292828c8289828582928142",
+        "8268828681408299828f829581408288828182848140828e828f8294814082938288828f8297828e",
+        "829582908141814082688140828d828982878288829481408282828581408289828e814082888285828182968285828e",
+        "829282898287828882948140828e828f82978142",
+        "82688140829482888281828e828b81408299828f8295814082868292828f828d8140829482888285",
+        "8282828f82948294828f828d8140828f82868140828d82998140828882858281829282948142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

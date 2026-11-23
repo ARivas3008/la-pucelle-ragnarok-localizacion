@@ -1,0 +1,40 @@
+{
+  "original": "(But I was wrong。 Culottes grown into a young man、 and I never even realized it。)",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI see。。。\n(And I thought I knew everything there was to know about him。。。)\n(I guess I wanted him to remain a child forever。。。)\n(Maybe I did not want him to go and  leave me。。。)",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI see。。。\n(And I thought I knew everything there was to know about him。。。)\n(I guess I wanted him to remain a child forever。。。)\n(Maybe I did not want him to go and  leave me。。。)\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n(But I was wrong。 Culottes grown into a young man、 and I never even realized it。)",
+  "respuesta": "(Pero me equivoqué. Los culottes se convirtieron en un joven, y nunca me di cuenta de eso.)",
+  "fin": "stop",
+  "segundos": 2.88,
+  "uso": {
+    "completion_tokens": 29,
+    "prompt_tokens": 364,
+    "total_tokens": 393,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "926b2aa61720bf3fb41f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 146947,
+      "entry_id": 211,
+      "original_hex": [
+        "8169826182958294814082688140829782818293814082978292828f828e82878142",
+        "82628295828c828f8294829482858293814082878292828f8297828e81408289828e8294828f",
+        "828181408299828f8295828e82878140828d8281828e814181408281828e828481408268",
+        "828e82858296828582928140828582968285828e8140829282858281828c8289829a828582848140828982948142816a"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I see。。。",
+        "(And I thought I knew everything there was to know about him。。。)",
+        "(I guess I wanted him to remain a child forever。。。)",
+        "(Maybe I did not want him to go and  leave me。。。)"
+      ]
+    }
+  ]
+}

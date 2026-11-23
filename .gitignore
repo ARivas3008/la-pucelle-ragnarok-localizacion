@@ -14,3 +14,12 @@ __pycache__/
 .DS_Store
 salidas/*
 !salidas/.gitkeep
+
+# Entregas y dependencias locales
+*.gguf
+*.dll
+*.exe
+*.zip
+*.part
+**/herramientas/hymt2/bin/
+**/validacion_final/

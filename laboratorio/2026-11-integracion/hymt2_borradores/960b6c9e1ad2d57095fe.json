@@ -1,0 +1,43 @@
+{
+  "original": "Do not run away from this、 Prier! Take a good hard look at me! And realize that I embody your true feelings!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nPrier!?\nGet a grip、 Prier!\nOnce you do、 the two of us can merge back into one。 We can become the real you!\nThe real me。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nPrier!?\nGet a grip、 Prier!\nOnce you do、 the two of us can merge back into one。 We can become the real you!\nThe real me。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nDo not run away from this、 Prier! Take a good hard look at me! And realize that I embody your true feelings!",
+  "respuesta": "No huyas de esto, ¡Prier! Mira bien hacia mí. Entiende que yo represento tus verderos sentimientos.",
+  "fin": "stop",
+  "segundos": 4.05,
+  "uso": {
+    "completion_tokens": 31,
+    "prompt_tokens": 359,
+    "total_tokens": 390,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "960b6c9e1ad2d57095fe",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 93630,
+      "entry_id": 1607,
+      "original_hex": [
+        "8263828f8140828e828f8294814082928295828e81408281829782818299814082868292828f828d",
+        "829482888289829381418140826f82928289828582928149",
+        "82738281828b82858140828181408287828f828f8284814082888281829282848140828c828f828f828b",
+        "828182948140828d82858149",
+        "8260828e82848140829282858281828c8289829a82858140829482888281829481408268",
+        "8285828d8282828f8284829981408299828f8295829281408294829282958285",
+        "828682858285828c8289828e828782938149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Prier!?",
+        "Get a grip、 Prier!",
+        "Once you do、 the two of us can merge back into one。 We can become the real you!",
+        "The real me。。。"
+      ]
+    }
+  ]
+}

@@ -31,7 +31,10 @@ int main(int argc,char **argv){
    int32_t cand=last[hash3(src.data()+i)];
    for(int checks=0;cand>=0 && i-(size_t)cand<=254 && checks<260; cand=prev[cand],++checks){
     size_t length=0;
-    while(length<255 && i+length<n && src[cand+length]==src[i+length])++length;
+    // El decodificador del juego requiere que la fuente ya esté completa.
+    // No emitir referencias solapadas (longitud > distancia): el decoder
+    // Python byte a byte las toleraba, ocultando corrupción en ejecución.
+    while(length<255 && length<i-(size_t)cand && i+length<n && src[cand+length]==src[i+length])++length;
     if(length>best && length>=3){best=length;dist=i-cand;if(best==255)break;}
    }
   }

@@ -1,0 +1,37 @@
+{
+  "original": "You do not have to worry so much! Father Salade is invincible!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nDirector。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nDirector。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou do not have to worry so much! Father Salade is invincible!",
+  "respuesta": "No necesitas preocuparte tanto. ¡Padre Salade es invencible!",
+  "fin": "stop",
+  "segundos": 2.01,
+  "uso": {
+    "completion_tokens": 19,
+    "prompt_tokens": 315,
+    "total_tokens": 334,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f91904e561c42fe13b80",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 40326,
+      "entry_id": 206116,
+      "original_hex": [
+        "8278828f829581408284828f8140828e828f82948140828882818296828581408294828f",
+        "8297828f82928292829981408293828f8140828d8295828382888149",
+        "826582818294828882858292814082728281828c828182848285814082898293",
+        "8289828e82968289828e828382898282828c82858149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Director。。。"
+      ]
+    }
+  ]
+}

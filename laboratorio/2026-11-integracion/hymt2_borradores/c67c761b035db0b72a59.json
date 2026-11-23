@@ -1,0 +1,36 @@
+{
+  "original": "Wha--?! Anything but that!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nGreat! You finally found someone willing to marry you。\nSo what if it is a mushroom。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nGreat! You finally found someone willing to marry you。\nSo what if it is a mushroom。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWha--?! Anything but that!",
+  "respuesta": "¿Qué…?! ¡De ninguna manera!",
+  "fin": "stop",
+  "segundos": 1.32,
+  "uso": {
+    "completion_tokens": 11,
+    "prompt_tokens": 323,
+    "total_tokens": 334,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "c67c761b035db0b72a59",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 54202,
+      "entry_id": 210321,
+      "original_hex": [
+        "827682888281817c817c81488149",
+        "8260828e8299829482888289828e82878140828282958294814082948288828182948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Great! You finally found someone willing to marry you。",
+        "So what if it is a mushroom。。。"
+      ]
+    }
+  ]
+}

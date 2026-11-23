@@ -1,0 +1,39 @@
+{
+  "original": "What are you talking about?! Even the Goddess cannot。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nDo not come near!! You will get mixed up in this、 too!\nI will be fine。 The Goddess will protect me。\nPlease! I do not want you to get hurt!\nBut。。。!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nDo not come near!! You will get mixed up in this、 too!\nI will be fine。 The Goddess will protect me。\nPlease! I do not want you to get hurt!\nBut。。。!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhat are you talking about?! Even the Goddess cannot。。。",
+  "respuesta": "¿De qué estás hablando?! Ni siquiera la Diosa puede…",
+  "fin": "stop",
+  "segundos": 2.11,
+  "uso": {
+    "completion_tokens": 18,
+    "prompt_tokens": 346,
+    "total_tokens": 364,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "41711d9fd1cb023f83b6",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 148911,
+      "entry_id": 1009,
+      "original_hex": [
+        "8276828882818294814082818292828581408299828f8295814082948281828c828b8289828e8287",
+        "82818282828f82958294814881498140826482968285828e8140829482888285",
+        "8266828f82848284828582938293814082838281828e828e828f8294814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Do not come near!! You will get mixed up in this、 too!",
+        "I will be fine。 The Goddess will protect me。",
+        "Please! I do not want you to get hurt!",
+        "But。。。!"
+      ]
+    }
+  ]
+}

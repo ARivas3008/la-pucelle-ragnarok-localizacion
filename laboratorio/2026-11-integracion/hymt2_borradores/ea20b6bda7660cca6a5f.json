@@ -1,0 +1,42 @@
+{
+  "original": "What a boring answer。。。 I should prove to you right now that you have no way of defeating me。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWhy did you come all this way to see me、 Big Sister Prier? You plan on finally becoming the true Demon Lord?\nI did not come here to play into your game。 I came here to kick your butt、 of course!\nTsk。。。 Why you little。。。!\nAre they actually protecting this girl。。。?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWhy did you come all this way to see me、 Big Sister Prier? You plan on finally becoming the true Demon Lord?\nI did not come here to play into your game。 I came here to kick your butt、 of course!\nTsk。。。 Why you little。。。!\nAre they actually protecting this girl。。。?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhat a boring answer。。。 I should prove to you right now that you have no way of defeating me。。。",
+  "respuesta": "Qué respuesta aburrida… Debería demostrarte ahora mismo que no tienes ninguna posibilidad de derrotarme.",
+  "fin": "stop",
+  "segundos": 4.9,
+  "uso": {
+    "completion_tokens": 32,
+    "prompt_tokens": 381,
+    "total_tokens": 413,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "ea20b6bda7660cca6a5f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 82736,
+      "entry_id": 1604,
+      "original_hex": [
+        "82768288828182948140828181408282828f82928289828e8287",
+        "8281828e8293829782858292814281428142",
+        "8268814082938288828f8295828c8284814082908292828f8296828581408294828f81408299828f8295",
+        "829282898287828882948140828e828f82978140829482888281829481408299828f829581408288828182968285",
+        "828e828f81408297828182998140828f828681408284828582868285828182948289828e8287",
+        "828d8285814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Why did you come all this way to see me、 Big Sister Prier? You plan on finally becoming the true Demon Lord?",
+        "I did not come here to play into your game。 I came here to kick your butt、 of course!",
+        "Tsk。。。 Why you little。。。!",
+        "Are they actually protecting this girl。。。?"
+      ]
+    }
+  ]
+}

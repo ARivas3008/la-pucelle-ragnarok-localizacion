@@ -1,0 +1,36 @@
+{
+  "original": "Life in this village is great! We were really lucky to find such a nice spot!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nLife in this village is great! We were really lucky to find such a nice spot!",
+  "respuesta": "La vida en este pueblo es maravillosa. ¡Tuvimos mucha suerte al encontrar un lugar tan agradable!",
+  "fin": "stop",
+  "segundos": 2.3,
+  "uso": {
+    "completion_tokens": 31,
+    "prompt_tokens": 313,
+    "total_tokens": 344,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "baf70dea5d413fc0e6f9",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 61397,
+      "entry_id": 214202,
+      "original_hex": [
+        "826b82898286828581408289828e81408294828882898293814082968289828c828c828182878285",
+        "828982938140828782928285828182948149",
+        "82768285814082978285829282858140829282858281828c828c82998140828c82958283828b8299",
+        "8294828f814082868289828e828481408293829582838288814082818140828e828982838285",
+        "82938290828f82948149"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

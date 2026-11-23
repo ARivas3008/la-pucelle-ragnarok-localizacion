@@ -1,0 +1,40 @@
+{
+  "original": "Cut the crap。。。 Would you give up on that baseless theory already。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI just plan on taking in this darkness and never losing to it。 Nothing more。\nThat is correct。 Obtaining power and giving in to the darkness are two different things。 It seems you finally understand、 Sister Prier。\nThe lines you continue to spew make me sick。。。! The entire reason that I desired power and was consumed by darkness was because you、 Sister Alouette。。。!\nSister Alouette caused this。。。?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI just plan on taking in this darkness and never losing to it。 Nothing more。\nThat is correct。 Obtaining power and giving in to the darkness are two different things。 It seems you finally understand、 Sister Prier。\nThe lines you continue to spew make me sick。。。! The entire reason that I desired power and was consumed by darkness was because you、 Sister Alouette。。。!\nSister Alouette caused this。。。?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nCut the crap。。。 Would you give up on that baseless theory already。。。",
+  "respuesta": "Deja de decir tonterías… ¿Podrías dejar de lado esa teoría sin fundamento ya?",
+  "fin": "stop",
+  "segundos": 3.51,
+  "uso": {
+    "completion_tokens": 26,
+    "prompt_tokens": 398,
+    "total_tokens": 424,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "32930c90ab4eb7e293a1",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 85063,
+      "entry_id": 1709,
+      "original_hex": [
+        "826282958294814082948288828581408283829282818290814281428142",
+        "8276828f8295828c828481408299828f8295814082878289829682858140829582908140828f828e",
+        "829482888281829481408282828182938285828c8285829382938140829482888285828f82928299",
+        "8281828c82928285828182848299814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I just plan on taking in this darkness and never losing to it。 Nothing more。",
+        "That is correct。 Obtaining power and giving in to the darkness are two different things。 It seems you finally understand、 Sister Prier。",
+        "The lines you continue to spew make me sick。。。! The entire reason that I desired power and was consumed by darkness was because you、 Sister Alouette。。。!",
+        "Sister Alouette caused this。。。?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "original": "I would hate that! I will not hand over anything else to Sister Alouette。。。!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nHer heart is beginning to waver! If this keeps up。。。\nGet a hold of yourself、 Big Sister! Please、 calm your heart!\nI will。。。 I will be the one to save Croix!!!\nI will be the one。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nHer heart is beginning to waver! If this keeps up。。。\nGet a hold of yourself、 Big Sister! Please、 calm your heart!\nI will。。。 I will be the one to save Croix!!!\nI will be the one。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI would hate that! I will not hand over anything else to Sister Alouette。。。!",
+  "respuesta": "¡Eso me odiaría! No entregaré nada más a la hermana Alouette…!",
+  "fin": "stop",
+  "segundos": 2.91,
+  "uso": {
+    "completion_tokens": 24,
+    "prompt_tokens": 363,
+    "total_tokens": 387,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "16247bdf21cce340cb5e",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 87346,
+      "entry_id": 1709,
+      "original_hex": [
+        "826881408297828f8295828c828481408288828182948285814082948288828182948149",
+        "8268814082978289828c828c8140828e828f8294814082888281828e82848140828f829682858292",
+        "8281828e8299829482888289828e828781408285828c8293828581408294828f",
+        "82728289829382948285829281408260828c828f829582858294829482858142814281428149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Her heart is beginning to waver! If this keeps up。。。",
+        "Get a hold of yourself、 Big Sister! Please、 calm your heart!",
+        "I will。。。 I will be the one to save Croix!!!",
+        "I will be the one。。。"
+      ]
+    }
+  ]
+}

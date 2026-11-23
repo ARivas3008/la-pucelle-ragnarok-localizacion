@@ -1,0 +1,72 @@
+{
+  "original": "I am a scout for the Dark World。 There has been constant war there for 10、000 years、 and the balance of power changes daily。 There are about 2、000 demon lords in the Dark World、 but my master is among the strongest。 I am here searching for talented fighters。 If you know anyone、 please introduce them。 We will take care of anyone you introduce。 Of course、 what care depends on their skill。 In return for the introduction、 we will perform a special item combination service for you。 The service uses a special Dark World technique to combine your items。 Give the items you want combined to the character you introduce to us。 Just one catch。 If the level of the character you introduce、 or the items、 is too low the combination will not work。 I am always here。 Please feel free to drop by and talk anytime。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThank you for stopping by。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThank you for stopping by。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI am a scout for the Dark World。 There has been constant war there for 10、000 years、 and the balance of power changes daily。 There are about 2、000 demon lords in the Dark World、 but my master is among the strongest。 I am here searching for talented fighters。 If you know anyone、 please introduce them。 We will take care of anyone you introduce。 Of course、 what care depends on their skill。 In return for the introduction、 we will perform a special item combination service for you。 The service uses a special Dark World technique to combine your items。 Give the items you want combined to the character you introduce to us。 Just one catch。 If the level of the character you introduce、 or the items、 is too low the combination will not work。 I am always here。 Please feel free to drop by and talk anytime。",
+  "respuesta": "Soy un explorador del Mundo Oscuro. Allí ha habido guerra constante durante 10,000 años, y el equilibrio de poder cambia día tras día. En el Mundo Oscuro hay aproximadamente 2,000 señores demonios, pero mi maestro es uno de los más fuertes. Estoy aquí en busca de luchadores talentosos. Si conoces a alguien así, por favor, pídele que se nos presente. Nosotros nos encargaremos de quienquiera que presentes. Por supuesto, la recompensa depende de su habilidad. A cambio de tu recomendación, te ofreceremos un servicio especial: utilizaremos una técnica del Mundo Oscuro para combinar tus objetos. Puedes entregar los objetos que desees a la persona que nos presente. Pero hay una condición: si el nivel de la persona que presentas, o los objetos, es demasiado bajo, la combinación no funcionará. Siempre estoy aquí. Puedes venir a hablar conmigo en cualquier momento.",
+  "fin": "stop",
+  "segundos": 21.81,
+  "uso": {
+    "completion_tokens": 261,
+    "prompt_tokens": 474,
+    "total_tokens": 735,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "046b57dd95d16a03bf62",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 45176,
+      "entry_id": 299901,
+      "original_hex": [
+        "826881408281828d81408281814082938283828f8295829481408286828f82928140829482888285",
+        "826382818292828b81408276828f8292828c82848142",
+        "8273828882858292828581408288828182938140828282858285828e81408283828f828e829382948281828e8294",
+        "82978281829281408294828882858292828581408286828f829281408250824f8141824f824f824f",
+        "82998285828182928293814181408281828e82848140829482888285814082828281828c8281828e82838285",
+        "828f828681408290828f8297828582928140828382888281828e8287828582938140828482818289828c82998142",
+        "827382888285829282858140828182928285814082818282828f82958294814082518141824f824f824f",
+        "82848285828d828f828e8140828c828f82928284829381408289828e81408294828882858140826382818292828b",
+        "8276828f8292828c8284814181408282829582948140828d82998140828d82818293829482858292",
+        "8289829381408281828d828f828e828781408294828882858140829382948292828f828e82878285829382948142",
+        "826881408281828d8140828882858292828581408293828582818292828382888289828e828781408286828f8292",
+        "82948281828c8285828e8294828582848140828682898287828882948285829282938142",
+        "8268828681408299828f82958140828b828e828f829781408281828e8299828f828e82858141",
+        "8290828c828582818293828581408289828e82948292828f82848295828382858140829482888285828d8142",
+        "82768285814082978289828c828c814082948281828b8285814082838281829282858140828f8286",
+        "8281828e8299828f828e828581408299828f829581408289828e82948292828f82848295828382858142",
+        "826e828681408283828f829582928293828581418140829782888281829481408283828182928285",
+        "8284828582908285828e828482938140828f828e81408294828882858289829281408293828b8289828c828c8142",
+        "8268828e814082928285829482958292828e81408286828f82928140829482888285",
+        "8289828e82948292828f82848295828382948289828f828e8141814082978285814082978289828c828c",
+        "8290828582928286828f8292828d814082818140829382908285828382898281828c8140828982948285828d",
+        "8283828f828d82828289828e828182948289828f828e81408293828582928296828982838285",
+        "8286828f829281408299828f82958142",
+        "827382888285814082938285829282968289828382858140829582938285829381408281",
+        "829382908285828382898281828c8140826382818292828b81408276828f8292828c8284",
+        "8294828582838288828e828982918295828581408294828f81408283828f828d82828289828e8285",
+        "8299828f829582928140828982948285828d82938142",
+        "826682898296828581408294828882858140828982948285828d829381408299828f8295",
+        "82978281828e829481408283828f828d82828289828e8285828481408294828f8140829482888285",
+        "82838288828182928281828382948285829281408299828f829581408289828e82948292828f8284829582838285",
+        "8294828f8140829582938142814082698295829382948140828f828e82858140828382818294828382888142",
+        "8268828681408294828882858140828c828582968285828c8140828f82868140829482888285",
+        "82838288828182928281828382948285829281408299828f829581408289828e82948292828f82848295828382858141",
+        "828f829281408294828882858140828982948285828d8293814181408289829381408294828f828f",
+        "828c828f8297814082948288828581408283828f828d82828289828e828182948289828f828e",
+        "82978289828c828c8140828e828f829481408297828f8292828b8142",
+        "826881408281828d81408281828c8297828182998293814082888285829282858142",
+        "826f828c82858281829382858140828682858285828c8140828682928285828581408294828f814082848292828f8290",
+        "8282829981408281828e8284814082948281828c828b81408281828e829982948289828d82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Thank you for stopping by。"
+      ]
+    }
+  ]
+}

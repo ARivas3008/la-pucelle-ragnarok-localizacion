@@ -1,0 +1,41 @@
+{
+  "original": "The missing family  members range from young boys to old women。 They are all different。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nA locked room murder!\nSecond、 as I said  before、 there is someone missing in each family。\nThird、 there was a message written in blood with a finger at the scene of every crime。\nFingerprint analysis shows that the finger belonged to the missing person in the family。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nA locked room murder!\nSecond、 as I said  before、 there is someone missing in each family。\nThird、 there was a message written in blood with a finger at the scene of every crime。\nFingerprint analysis shows that the finger belonged to the missing person in the family。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThe missing family  members range from young boys to old women。 They are all different。",
+  "respuesta": "Los miembros desaparecidos de la familia van desde niños pequeños hasta mujeres mayores. Todos son diferentes entre sí.",
+  "fin": "stop",
+  "segundos": 5.13,
+  "uso": {
+    "completion_tokens": 33,
+    "prompt_tokens": 368,
+    "total_tokens": 401,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "d6057833db1b02b453e6",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 116686,
+      "entry_id": 202,
+      "original_hex": [
+        "8273828882858140828d8289829382938289828e8287814082868281828d8289828c82998140",
+        "828d8285828d8282828582928293814082928281828e82878285814082868292828f828d",
+        "8299828f8295828e828781408282828f8299829381408294828f8140828f828c8284",
+        "8297828f828d8285828e8142",
+        "8273828882858299814082818292828581408281828c828c81408284828982868286828582928285828e82948142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "A locked room murder!",
+        "Second、 as I said  before、 there is someone missing in each family。",
+        "Third、 there was a message written in blood with a finger at the scene of every crime。",
+        "Fingerprint analysis shows that the finger belonged to the missing person in the family。"
+      ]
+    }
+  ]
+}

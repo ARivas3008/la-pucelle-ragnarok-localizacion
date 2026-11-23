@@ -1,0 +1,42 @@
+{
+  "original": "But you should do well to remember this。 As long as we are here、 we will never let you become the Demon Lord。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nGoddess Poitreene told me about it earlier。\nIt is true that I am the Maiden of Light。 And I also should not be pushing myself as I need to protect people from the Dark Prince。\nSister Alouette。。。 You。。。\nWe already came this far、 so any excuses you plan on giving are nothing but a waste of time!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nGoddess Poitreene told me about it earlier。\nIt is true that I am the Maiden of Light。 And I also should not be pushing myself as I need to protect people from the Dark Prince。\nSister Alouette。。。 You。。。\nWe already came this far、 so any excuses you plan on giving are nothing but a waste of time!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nBut you should do well to remember this。 As long as we are here、 we will never let you become the Demon Lord。",
+  "respuesta": "Pero deberías recordar esto. Mientras estemos aquí, nunca te permitiremos convertirte en el Señor del Demonio.",
+  "fin": "stop",
+  "segundos": 4.24,
+  "uso": {
+    "completion_tokens": 34,
+    "prompt_tokens": 395,
+    "total_tokens": 429,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8a192c1e0099887f0bd4",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 66488,
+      "entry_id": 1702,
+      "original_hex": [
+        "82618295829481408299828f8295814082938288828f8295828c828481408284828f814082978285828c828c",
+        "8294828f814082928285828d8285828d828282858292814082948288828982938142",
+        "826082938140828c828f828e82878140828182938140829782858140828182928285",
+        "82888285829282858141814082978285814082978289828c828c8140828e8285829682858292",
+        "828c8285829481408299828f82958140828282858283828f828d82858140829482888285",
+        "82638285828d828f828e8140826b828f829282848142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Goddess Poitreene told me about it earlier。",
+        "It is true that I am the Maiden of Light。 And I also should not be pushing myself as I need to protect people from the Dark Prince。",
+        "Sister Alouette。。。 You。。。",
+        "We already came this far、 so any excuses you plan on giving are nothing but a waste of time!"
+      ]
+    }
+  ]
+}

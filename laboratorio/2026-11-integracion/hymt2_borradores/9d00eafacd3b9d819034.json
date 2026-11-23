@@ -1,0 +1,148 @@
+{
+  "original": "おかげさまで、キノコドラゴンが テリトリーから出ることはなくなりましたエリ。 でも、キノコドラゴンが危険であることには 変わりないですエリ。 戦いは さけたほうがいいですエリ。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nおかげさまで、キノコドラゴンが テリトリーから出ることはなくなりましたエリ。 でも、キノコドラゴンが危険であることには 変わりないですエリ。 戦いは さけたほうがいいですエリ。",
+  "respuesta": "Gracias a esto, el Dragon de los Hongos ya no puede salir de su territorio, Eli. Pero sigue siendo un ser peligroso, Eli. Es mejor evitar luchar contra él, Eli.",
+  "fin": "stop",
+  "segundos": 5.96,
+  "uso": {
+    "completion_tokens": 50,
+    "prompt_tokens": 364,
+    "total_tokens": 414,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "9d00eafacd3b9d819034",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+      "offset": 66149,
+      "entry_id": 210102,
+      "original_hex": [
+        "82a882a982b082b382dc82c58141834c836d8352836883898353839382aa",
+        "8365838a8367838a815b82a982e78f6f82e982b182c682cd82c882ad82c882e882dc82b582bd8347838a8142",
+        "82c582e08141834c836d8352836883898353839382aa8aeb8caf82c582a082e982b182c682c982cd",
+        "95cf82ed82e882c882a282c582b78347838a8142",
+        "90ed82a282cd814082b382af82bd82d982a482aa82a282a282c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 63050,
+      "entry_id": 210102,
+      "original_hex": [
+        "82a882a982b082b382dc82c58141834c836d8352836883898353839382aa",
+        "8365838a8367838a815b82a982e78f6f82e982b182c682cd82c882ad82c882e882dc82b582bd8347838a8142",
+        "82c582e08141834c836d8352836883898353839382aa8aeb8caf82c582a082e982b182c682c982cd",
+        "95cf82ed82e882c882a282c582b78347838a8142",
+        "90ed82a282cd814082b382af82bd82d982a482aa82a282a282c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 51879,
+      "entry_id": 210102,
+      "original_hex": [
+        "82a882a982b082b382dc82c58141834c836d8352836883898353839382aa",
+        "8365838a8367838a815b82a982e78f6f82e982b182c682cd82c882ad82c882e882dc82b582bd8347838a8142",
+        "82c582e08141834c836d8352836883898353839382aa8aeb8caf82c582a082e982b182c682c982cd",
+        "95cf82ed82e882c882a282c582b78347838a8142",
+        "90ed82a282cd814082b382af82bd82d982a482aa82a282a282c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 66956,
+      "entry_id": 210102,
+      "original_hex": [
+        "82a882a982b082b382dc82c58141834c836d8352836883898353839382aa",
+        "8365838a8367838a815b82a982e78f6f82e982b182c682cd82c882ad82c882e882dc82b582bd8347838a8142",
+        "82c582e08141834c836d8352836883898353839382aa8aeb8caf82c582a082e982b182c682c982cd",
+        "95cf82ed82e882c882a282c582b78347838a8142",
+        "90ed82a282cd814082b382af82bd82d982a482aa82a282a282c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "offset": 67116,
+      "entry_id": 210102,
+      "original_hex": [
+        "82a882a982b082b382dc82c58141834c836d8352836883898353839382aa",
+        "8365838a8367838a815b82a982e78f6f82e982b182c682cd82c882ad82c882e882dc82b582bd8347838a8142",
+        "82c582e08141834c836d8352836883898353839382aa8aeb8caf82c582a082e982b182c682c982cd",
+        "95cf82ed82e882c882a282c582b78347838a8142",
+        "90ed82a282cd814082b382af82bd82d982a482aa82a282a282c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 66956,
+      "entry_id": 210102,
+      "original_hex": [
+        "82a882a982b082b382dc82c58141834c836d8352836883898353839382aa",
+        "8365838a8367838a815b82a982e78f6f82e982b182c682cd82c882ad82c882e882dc82b582bd8347838a8142",
+        "82c582e08141834c836d8352836883898353839382aa8aeb8caf82c582a082e982b182c682c982cd",
+        "95cf82ed82e882c882a282c582b78347838a8142",
+        "90ed82a282cd814082b382af82bd82d982a482aa82a282a282c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 67340,
+      "entry_id": 210102,
+      "original_hex": [
+        "82a882a982b082b382dc82c58141834c836d8352836883898353839382aa",
+        "8365838a8367838a815b82a982e78f6f82e982b182c682cd82c882ad82c882e882dc82b582bd8347838a8142",
+        "82c582e08141834c836d8352836883898353839382aa8aeb8caf82c582a082e982b182c682c982cd",
+        "95cf82ed82e882c882a282c582b78347838a8142",
+        "90ed82a282cd814082b382af82bd82d982a482aa82a282a282c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 49754,
+      "entry_id": 210102,
+      "original_hex": [
+        "82a882a982b082b382dc82c58141834c836d8352836883898353839382aa",
+        "8365838a8367838a815b82a982e78f6f82e982b182c682cd82c882ad82c882e882dc82b582bd8347838a8142",
+        "82c582e08141834c836d8352836883898353839382aa8aeb8caf82c582a082e982b182c682c982cd",
+        "95cf82ed82e882c882a282c582b78347838a8142",
+        "90ed82a282cd814082b382af82bd82d982a482aa82a282a282c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 60298,
+      "entry_id": 210102,
+      "original_hex": [
+        "82a882a982b082b382dc82c58141834c836d8352836883898353839382aa",
+        "8365838a8367838a815b82a982e78f6f82e982b182c682cd82c882ad82c882e882dc82b582bd8347838a8142",
+        "82c582e08141834c836d8352836883898353839382aa8aeb8caf82c582a082e982b182c682c982cd",
+        "95cf82ed82e882c882a282c582b78347838a8142",
+        "90ed82a282cd814082b382af82bd82d982a482aa82a282a282c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

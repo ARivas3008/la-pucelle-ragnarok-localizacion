@@ -1,0 +1,43 @@
+{
+  "original": "Where are the strong opponents。。。 I want to fight against an even stronger opponent。。。 Fight against an even stronger one。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWhere are they。。。 Where are my opponents。。。\nAh! There is one! It is some of the darkness inside of Big Sister!\nI want to fight and beat them to a pulp。。。!\nIt seems that she has been consumed by the thirst for power。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWhere are they。。。 Where are my opponents。。。\nAh! There is one! It is some of the darkness inside of Big Sister!\nI want to fight and beat them to a pulp。。。!\nIt seems that she has been consumed by the thirst for power。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhere are the strong opponents。。。 I want to fight against an even stronger opponent。。。 Fight against an even stronger one。。。",
+  "respuesta": "¿Dónde están los oponentes fuertes? Quiero luchar contra uno aún más fuerte… Luchar contra alguien realmente poderoso.",
+  "fin": "stop",
+  "segundos": 3.75,
+  "uso": {
+    "completion_tokens": 37,
+    "prompt_tokens": 370,
+    "total_tokens": 407,
+    "prompt_tokens_details": {
+      "cached_tokens": 289
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "61bb6266dff5ecaad105",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 73743,
+      "entry_id": 1705,
+      "original_hex": [
+        "82768288828582928285814082818292828581408294828882858140829382948292828f828e8287",
+        "828f82908290828f828e8285828e82948293814281428142",
+        "8268814082978281828e829481408294828f81408286828982878288829481408281828782818289828e82938294",
+        "8281828e8140828582968285828e8140829382948292828f828e828782858292",
+        "828f82908290828f828e8285828e8294814281428142",
+        "8265828982878288829481408281828782818289828e8293829481408281828e8140828582968285828e",
+        "829382948292828f828e8287828582928140828f828e8285814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Where are they。。。 Where are my opponents。。。",
+        "Ah! There is one! It is some of the darkness inside of Big Sister!",
+        "I want to fight and beat them to a pulp。。。!",
+        "It seems that she has been consumed by the thirst for power。"
+      ]
+    }
+  ]
+}

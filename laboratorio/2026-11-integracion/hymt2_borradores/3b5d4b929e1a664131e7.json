@@ -1,0 +1,38 @@
+{
+  "original": "I too fight for my destiny、 a fight I will wage with every ounce of strength I have。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nTo fulfill my destiny as the Maiden of Light!\nVery well。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nTo fulfill my destiny as the Maiden of Light!\nVery well。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI too fight for my destiny、 a fight I will wage with every ounce of strength I have。",
+  "respuesta": "También yo lucho por mi destino, una lucha que llevaré a cabo con toda la fuerza que tengo.",
+  "fin": "stop",
+  "segundos": 2.46,
+  "uso": {
+    "completion_tokens": 31,
+    "prompt_tokens": 330,
+    "total_tokens": 361,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "3b5d4b929e1a664131e7",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 65563,
+      "entry_id": 3622,
+      "original_hex": [
+        "826881408294828f828f81408286828982878288829481408286828f82928140828d8299",
+        "82848285829382948289828e829981418140828181408286828982878288829481408268814082978289828c828c",
+        "8297828182878285814082978289829482888140828582968285829282998140828f8295828e82838285",
+        "828f828681408293829482928285828e82878294828881408268814082888281829682858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "To fulfill my destiny as the Maiden of Light!",
+        "Very well。。。"
+      ]
+    }
+  ]
+}

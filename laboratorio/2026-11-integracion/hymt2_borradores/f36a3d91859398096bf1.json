@@ -1,0 +1,100 @@
+{
+  "original": "ん? どうした、プリエ? こんなとこで油売ってねェで、 さっさと犯人を とっつかまえてこいや。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nん? どうした、プリエ? こんなとこで油売ってねェで、 さっさと犯人を とっつかまえてこいや。",
+  "respuesta": "¿Eh? ¿Qué pasa, Prier? No estás vendiendo aceite en un lugar como este. ¡Apresúrate y atrapa al culpable!",
+  "fin": "stop",
+  "segundos": 3.93,
+  "uso": {
+    "completion_tokens": 39,
+    "prompt_tokens": 337,
+    "total_tokens": 376,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f36a3d91859398096bf1",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+      "offset": 58154,
+      "entry_id": 207101,
+      "original_hex": [
+        "82f18148",
+        "82c782a482b582bd81418376838a83478148",
+        "82b182f182c882c682b182c596fb948482c182c482cb834682c58141",
+        "82b382c182b382c694c6906c82f0814082c682c182c282a982dc82a682c482b182a282e28142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 59224,
+      "entry_id": 207101,
+      "original_hex": [
+        "82f18148",
+        "82c782a482b582bd81418376838a83478148",
+        "82b182f182c882c682b182c596fb948482c182c482cb834682c58141",
+        "82b382c182b382c694c6906c82f0814082c682c182c282a982dc82a682c482b182a282e28142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "offset": 59384,
+      "entry_id": 207101,
+      "original_hex": [
+        "82f18148",
+        "82c782a482b582bd81418376838a83478148",
+        "82b182f182c882c682b182c596fb948482c182c482cb834682c58141",
+        "82b382c182b382c694c6906c82f0814082c682c182c282a982dc82a682c482b182a282e28142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 59224,
+      "entry_id": 207101,
+      "original_hex": [
+        "82f18148",
+        "82c782a482b582bd81418376838a83478148",
+        "82b182f182c882c682b182c596fb948482c182c482cb834682c58141",
+        "82b382c182b382c694c6906c82f0814082c682c182c282a982dc82a682c482b182a282e28142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 59608,
+      "entry_id": 207101,
+      "original_hex": [
+        "82f18148",
+        "82c782a482b582bd81418376838a83478148",
+        "82b182f182c882c682b182c596fb948482c182c482cb834682c58141",
+        "82b382c182b382c694c6906c82f0814082c682c182c282a982dc82a682c482b182a282e28142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 51990,
+      "entry_id": 207101,
+      "original_hex": [
+        "82f18148",
+        "82c782a482b582bd81418376838a83478148",
+        "82b182f182c882c682b182c596fb948482c182c482cb834682c58141",
+        "82b382c182b382c694c6906c82f0814082c682c182c282a982dc82a682c482b182a282e28142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "original": "And you even took care of the Maiden of Light。 On behalf of the Dark Prince、 you have our gratitude。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYou are。。。Noir!\nYou actually remembered my name? I am honored。\nI do not need your praise。 More importantly、 where is Croix? Tell me where he is!\nThe Dark Prince is currently located at the ancient ruins called Angel Halo。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYou are。。。Noir!\nYou actually remembered my name? I am honored。\nI do not need your praise。 More importantly、 where is Croix? Tell me where he is!\nThe Dark Prince is currently located at the ancient ruins called Angel Halo。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nAnd you even took care of the Maiden of Light。 On behalf of the Dark Prince、 you have our gratitude。",
+  "respuesta": "Y además, te encargaste de la Doncella de la Luz. En nombre del Príncipe Oscuro, te debemos gratitud.",
+  "fin": "stop",
+  "segundos": 3.62,
+  "uso": {
+    "completion_tokens": 34,
+    "prompt_tokens": 371,
+    "total_tokens": 405,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "711e263460257a68f3a7",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 74874,
+      "entry_id": 1804,
+      "original_hex": [
+        "8260828e828481408299828f82958140828582968285828e81408294828f828f828b",
+        "82838281829282858140828f828681408294828882858140826c8281828982848285828e",
+        "828f82868140826b82898287828882948142",
+        "826e828e81408282828582888281828c82868140828f82868140829482888285",
+        "826382818292828b8140826f82928289828e82838285814181408299828f829581408288828182968285",
+        "828f8295829281408287829282818294828982948295828482858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "You are。。。Noir!",
+        "You actually remembered my name? I am honored。",
+        "I do not need your praise。 More importantly、 where is Croix? Tell me where he is!",
+        "The Dark Prince is currently located at the ancient ruins called Angel Halo。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "original": "To think that you were engaged。。。 A lot of stuff must have happened。。。!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWhat are you getting so worked up for?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWhat are you getting so worked up for?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nTo think that you were engaged。。。 A lot of stuff must have happened。。。!",
+  "respuesta": "Pensar que estabas comprometida… Debe haber pasado muchas cosas…!",
+  "fin": "stop",
+  "segundos": 1.86,
+  "uso": {
+    "completion_tokens": 22,
+    "prompt_tokens": 320,
+    "total_tokens": 342,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "4309d3600499462d84e6",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 106329,
+      "entry_id": 280302,
+      "original_hex": [
+        "8273828f8140829482888289828e828b8140829482888281829481408299828f829581408297828582928285",
+        "8285828e82878281828782858284814281428142",
+        "82608140828c828f82948140828f82868140829382948295828682868140828d82958293829481408288828182968285",
+        "82888281829082908285828e828582848142814281428149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "What are you getting so worked up for?"
+      ]
+    }
+  ]
+}

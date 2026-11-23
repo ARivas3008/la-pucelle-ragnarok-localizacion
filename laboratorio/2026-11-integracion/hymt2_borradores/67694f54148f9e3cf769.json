@@ -1,0 +1,36 @@
+{
+  "original": "That scared the heck out of me! I have never seen the earth shake like that! I peed my pants again。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThat scared the heck out of me! I have never seen the earth shake like that! I peed my pants again。。。",
+  "respuesta": "¡Eso me asustó mucho! Nunca había visto la tierra temblar de esa manera. Me oriné los pantalones otra vez…",
+  "fin": "stop",
+  "segundos": 2.94,
+  "uso": {
+    "completion_tokens": 35,
+    "prompt_tokens": 320,
+    "total_tokens": 355,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "67694f54148f9e3cf769",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 70396,
+      "entry_id": 213304,
+      "original_hex": [
+        "8273828882818294814082938283828182928285828481408294828882858140828882858283828b",
+        "828f829582948140828f82868140828d828581498140826881408288828182968285",
+        "828e82858296828582928140829382858285828e8140829482888285814082858281829282948288",
+        "829382888281828b82858140828c8289828b8285814082948288828182948149",
+        "8268814082908285828582848140828d8299814082908281828e8294829381408281828782818289828e814281428142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

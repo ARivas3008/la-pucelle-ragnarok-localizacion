@@ -1,0 +1,38 @@
+{
+  "original": "(P-p-pregnant! They are THAT close?)",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYour powers must be amazing。\nYou are right。 It has been three months。 I still have not told Croix。\nUh-oh。 Big Sisters frozen again。\nAngelique!! It is terrible!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYour powers must be amazing。\nYou are right。 It has been three months。 I still have not told Croix。\nUh-oh。 Big Sisters frozen again。\nAngelique!! It is terrible!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n(P-p-pregnant! They are THAT close?)",
+  "respuesta": "¡Están embarazadas! ¿Son realmente tan cercanas?",
+  "fin": "stop",
+  "segundos": 2.07,
+  "uso": {
+    "completion_tokens": 16,
+    "prompt_tokens": 346,
+    "total_tokens": 362,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "bcfd7aeed4cf35d491ce",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 142123,
+      "entry_id": 1007,
+      "original_hex": [
+        "8169826f817c8290817c8290829282858287828e8281828e82948149",
+        "827382888285829981408281829282858140827382678260827381408283828c828f829382858148816a"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Your powers must be amazing。",
+        "You are right。 It has been three months。 I still have not told Croix。",
+        "Uh-oh。 Big Sisters frozen again。",
+        "Angelique!! It is terrible!"
+      ]
+    }
+  ]
+}

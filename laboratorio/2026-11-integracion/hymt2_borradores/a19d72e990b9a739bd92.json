@@ -1,0 +1,39 @@
+{
+  "original": "(Oh man。。。 That girl really IS just like Prier。。。 )",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n100。。。 No、 even 200 enemies would not be enough to satisfy me、 the great Captain Homard!\nHey、 minions。 What is going on here? All of these pests are still alive! This is not playtime、 you know!!!\nYou finally feel like fighting yourself? No matter how many servants you have lined up、 none of them can come close to defeating me。\nYou get that? Fight me yourself! I will give you a good spanking myself!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n100。。。 No、 even 200 enemies would not be enough to satisfy me、 the great Captain Homard!\nHey、 minions。 What is going on here? All of these pests are still alive! This is not playtime、 you know!!!\nYou finally feel like fighting yourself? No matter how many servants you have lined up、 none of them can come close to defeating me。\nYou get that? Fight me yourself! I will give you a good spanking myself!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n(Oh man。。。 That girl really IS just like Prier。。。 )",
+  "respuesta": "(Dios mío… Esa chica realmente se parece mucho a Prier…)",
+  "fin": "stop",
+  "segundos": 3.43,
+  "uso": {
+    "completion_tokens": 20,
+    "prompt_tokens": 404,
+    "total_tokens": 424,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "a19d72e990b9a739bd92",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 90685,
+      "entry_id": 1607,
+      "original_hex": [
+        "8169826e82888140828d8281828e814281428142",
+        "82738288828182948140828782898292828c8140829282858281828c828c82998140826882728140828a829582938294",
+        "828c8289828b82858140826f82928289828582928142814281428140816a"
+      ],
+      "opcion": false,
+      "contexto": [
+        "100。。。 No、 even 200 enemies would not be enough to satisfy me、 the great Captain Homard!",
+        "Hey、 minions。 What is going on here? All of these pests are still alive! This is not playtime、 you know!!!",
+        "You finally feel like fighting yourself? No matter how many servants you have lined up、 none of them can come close to defeating me。",
+        "You get that? Fight me yourself! I will give you a good spanking myself!"
+      ]
+    }
+  ]
+}

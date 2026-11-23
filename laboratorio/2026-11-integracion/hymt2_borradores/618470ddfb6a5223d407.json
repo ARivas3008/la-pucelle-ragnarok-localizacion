@@ -1,0 +1,38 @@
+{
+  "original": "That is what I was afraid of。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nBut with the ship in this condition。。。\nWe will just have to walk。\nCats!! Prepare to move out!\nWait。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nBut with the ship in this condition。。。\nWe will just have to walk。\nCats!! Prepare to move out!\nWait。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThat is what I was afraid of。。。",
+  "respuesta": "Eso era lo que temía…",
+  "fin": "stop",
+  "segundos": 1.26,
+  "uso": {
+    "completion_tokens": 9,
+    "prompt_tokens": 329,
+    "total_tokens": 338,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "618470ddfb6a5223d407",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "offset": 119797,
+      "entry_id": 801,
+      "original_hex": [
+        "827382888281829481408289829381408297828882818294814082688140829782818293",
+        "8281828682928281828982848140828f8286814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "But with the ship in this condition。。。",
+        "We will just have to walk。",
+        "Cats!! Prepare to move out!",
+        "Wait。"
+      ]
+    }
+  ]
+}

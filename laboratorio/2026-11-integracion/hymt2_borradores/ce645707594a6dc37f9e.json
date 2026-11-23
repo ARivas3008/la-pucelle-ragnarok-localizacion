@@ -1,0 +1,40 @@
+{
+  "original": "From now on、 try and have a little more confidence in yourself。 OK?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAs a prize、 I have given you a new skill called Kitty Kitty。\nI think the name suits you。。。\nY-yes sir!\nAnd now for the little lady。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAs a prize、 I have given you a new skill called Kitty Kitty。\nI think the name suits you。。。\nY-yes sir!\nAnd now for the little lady。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nFrom now on、 try and have a little more confidence in yourself。 OK?",
+  "respuesta": "A partir de ahora, trate de tener un poco más de confianza en sí mismo. ¿De acuerdo?",
+  "fin": "stop",
+  "segundos": 2.26,
+  "uso": {
+    "completion_tokens": 27,
+    "prompt_tokens": 349,
+    "total_tokens": 376,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "ce645707594a6dc37f9e",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 128103,
+      "entry_id": 1104,
+      "original_hex": [
+        "82658292828f828d8140828e828f82978140828f828e8141814082948292829981408281828e8284",
+        "8288828182968285814082818140828c828982948294828c82858140828d828f82928285",
+        "8283828f828e8286828982848285828e8283828581408289828e81408299828f8295829282938285828c82868142",
+        "826e826a8148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "As a prize、 I have given you a new skill called Kitty Kitty。",
+        "I think the name suits you。。。",
+        "Y-yes sir!",
+        "And now for the little lady。。。"
+      ]
+    }
+  ]
+}

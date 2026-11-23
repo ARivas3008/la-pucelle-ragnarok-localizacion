@@ -1,0 +1,40 @@
+{
+  "original": "Leave things to us while you are gone! The Camembert Detective Agency will keep the city streets safe for law-abiding people! So。。。 Just make sure you come back!!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nLeave things to us while you are gone! The Camembert Detective Agency will keep the city streets safe for law-abiding people! So。。。 Just make sure you come back!!",
+  "respuesta": "Dejen las cosas en nuestras manos mientras están fuera. La Agencia de Detección Camembert cuidará de que las calles de la ciudad estén seguras para las personas que respetan la ley. Así que… Por favor, vuelvan pronto.",
+  "fin": "stop",
+  "segundos": 4.96,
+  "uso": {
+    "completion_tokens": 67,
+    "prompt_tokens": 331,
+    "total_tokens": 398,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "9ea047b8a3fb189b9c69",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 47958,
+      "entry_id": 206208,
+      "original_hex": [
+        "826b82858281829682858140829482888289828e8287829381408294828f8140829582938140829782888289828c8285",
+        "8299828f8295814082818292828581408287828f828e82858149",
+        "827382888285814082628281828d8285828d82828285829282948140826382858294828582838294828982968285",
+        "826082878285828e82838299814082978289828c828c8140828b8285828582908140829482888285",
+        "82838289829482998140829382948292828582858294829381408293828182868285",
+        "8286828f82928140828c82818297817c82818282828982848289828e8287814082908285828f8290828c82858149",
+        "8272828f814281428142",
+        "82698295829382948140828d8281828b82858140829382958292828581408299828f8295",
+        "8283828f828d82858140828282818283828b81498149"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

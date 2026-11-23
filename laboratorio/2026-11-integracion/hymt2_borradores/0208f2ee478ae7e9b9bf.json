@@ -1,0 +1,40 @@
+{
+  "original": "The Church of the Holy Maiden? Never heard of it。 Are you beggars?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAnd who are you?\nW-we are from the Church of the Holy Maiden。 We are here doing research。。。\nWe are Sisters。 We serve the Goddess Poitreene and the Maiden of Light。\nHmmm。。。And what are you Sisters doing here again?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAnd who are you?\nW-we are from the Church of the Holy Maiden。 We are here doing research。。。\nWe are Sisters。 We serve the Goddess Poitreene and the Maiden of Light。\nHmmm。。。And what are you Sisters doing here again?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThe Church of the Holy Maiden? Never heard of it。 Are you beggars?",
+  "respuesta": "¿La Iglesia de la Santa Virgen? Nunca he oído hablar de ella. ¿Sois mendigos?",
+  "fin": "stop",
+  "segundos": 2.89,
+  "uso": {
+    "completion_tokens": 28,
+    "prompt_tokens": 368,
+    "total_tokens": 396,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "0208f2ee478ae7e9b9bf",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 118119,
+      "entry_id": 609,
+      "original_hex": [
+        "82738288828581408262828882958292828382888140828f82868140829482888285",
+        "8267828f828c82998140826c8281828982848285828e8148",
+        "826d82858296828582928140828882858281829282848140828f82868140828982948142",
+        "82608292828581408299828f8295814082828285828782878281829282938148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "And who are you?",
+        "W-we are from the Church of the Holy Maiden。 We are here doing research。。。",
+        "We are Sisters。 We serve the Goddess Poitreene and the Maiden of Light。",
+        "Hmmm。。。And what are you Sisters doing here again?"
+      ]
+    }
+  ]
+}

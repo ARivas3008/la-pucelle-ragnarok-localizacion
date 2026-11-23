@@ -1,0 +1,38 @@
+{
+  "original": "Taking advantage of male pattern baldness is about as low as you can get! I will not allow it!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nGet ready to die!!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nGet ready to die!!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nTaking advantage of male pattern baldness is about as low as you can get! I will not allow it!",
+  "respuesta": "Aprovecharse de la calvicie masculina es lo más bajo que se puede llegar a hacer. ¡No lo permitiré!",
+  "fin": "stop",
+  "segundos": 2.2,
+  "uso": {
+    "completion_tokens": 31,
+    "prompt_tokens": 322,
+    "total_tokens": 353,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8c030a92621c2c5d70bd",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 58503,
+      "entry_id": 3551,
+      "original_hex": [
+        "82738281828b8289828e828781408281828482968281828e82948281828782858140828f8286",
+        "828d8281828c82858140829082818294829482858292828e814082828281828c8284828e828582938293",
+        "82898293814082818282828f829582948140828182938140828c828f829781408281829381408299828f8295",
+        "82838281828e8140828782858294814981408268814082978289828c828c8140828e828f8294",
+        "8281828c828c828f82978140828982948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Get ready to die!!!"
+      ]
+    }
+  ]
+}

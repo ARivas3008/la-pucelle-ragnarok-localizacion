@@ -1,0 +1,37 @@
+{
+  "original": "Good timing、 Yattanya!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nHahahaha! We are saved!!\nCaptain!!\nThe storm dissolved the Death Cloud。\nTalk about a silver lining! You guys did a good job、 too。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nHahahaha! We are saved!!\nCaptain!!\nThe storm dissolved the Death Cloud。\nTalk about a silver lining! You guys did a good job、 too。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nGood timing、 Yattanya!",
+  "respuesta": "Buen momento, Yattanya.",
+  "fin": "stop",
+  "segundos": 1.49,
+  "uso": {
+    "completion_tokens": 9,
+    "prompt_tokens": 335,
+    "total_tokens": 344,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "4e049336dd59a8bbbc89",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 99760,
+      "entry_id": 1101,
+      "original_hex": [
+        "8266828f828f8284814082948289828d8289828e82878141814082788281829482948281828e829982818149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Hahahaha! We are saved!!",
+        "Captain!!",
+        "The storm dissolved the Death Cloud。",
+        "Talk about a silver lining! You guys did a good job、 too。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "original": "It is true that darkness lies within your heart。 But you are not alone in this。 Everyone has both light and darkness within their hearts。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n。。。。。。\nPrier。。。\nSo、 Sister Prier。。。 Do not lose sight because of her words。。。 Never forget the light in your heart。。。\nI understand、 Sister Alouette。 Um。。。 I am so sorry!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n。。。。。。\nPrier。。。\nSo、 Sister Prier。。。 Do not lose sight because of her words。。。 Never forget the light in your heart。。。\nI understand、 Sister Alouette。 Um。。。 I am so sorry!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIt is true that darkness lies within your heart。 But you are not alone in this。 Everyone has both light and darkness within their hearts。",
+  "respuesta": "Es cierto que la oscuridad existe en tu corazón. Pero no estás sola en esto. Todos tienen tanto luz como oscuridad en sus corazones.",
+  "fin": "stop",
+  "segundos": 4.37,
+  "uso": {
+    "completion_tokens": 41,
+    "prompt_tokens": 368,
+    "total_tokens": 409,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "72b1c08b55d6881bdf59",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 101466,
+      "entry_id": 1608,
+      "original_hex": [
+        "8268829481408289829381408294829282958285814082948288828182948140828482818292828b828e828582938293",
+        "828c828982858293814082978289829482888289828e81408299828f829582928140828882858281829282948142",
+        "82618295829481408299828f829581408281829282858140828e828f829481408281828c828f828e8285",
+        "8289828e814082948288828982938142",
+        "82648296828582928299828f828e8285814082888281829381408282828f82948288",
+        "828c828982878288829481408281828e82848140828482818292828b828e828582938293",
+        "82978289829482888289828e81408294828882858289829281408288828582818292829482938142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "。。。。。。",
+        "Prier。。。",
+        "So、 Sister Prier。。。 Do not lose sight because of her words。。。 Never forget the light in your heart。。。",
+        "I understand、 Sister Alouette。 Um。。。 I am so sorry!"
+      ]
+    }
+  ]
+}

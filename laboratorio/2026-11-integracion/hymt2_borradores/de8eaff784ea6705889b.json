@@ -1,0 +1,39 @@
+{
+  "original": "We cannot save Croix unless we sacrifice Alouette?!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nCulotte。。。\nI do not like it either!\nThat is just not right!!\nPrier is right!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nCulotte。。。\nI do not like it either!\nThat is just not right!!\nPrier is right!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWe cannot save Croix unless we sacrifice Alouette?!",
+  "respuesta": "No podemos salvar a Croix a menos que sacrificemos a Alouette?!",
+  "fin": "stop",
+  "segundos": 1.81,
+  "uso": {
+    "completion_tokens": 19,
+    "prompt_tokens": 330,
+    "total_tokens": 349,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "de8eaff784ea6705889b",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 133358,
+      "entry_id": 1205,
+      "original_hex": [
+        "82768285814082838281828e828e828f829481408293828182968285814082628292828f82898298",
+        "8295828e828c8285829382938140829782858140829382818283829282898286828982838285",
+        "8260828c828f8295828582948294828581488149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Culotte。。。",
+        "I do not like it either!",
+        "That is just not right!!",
+        "Prier is right!"
+      ]
+    }
+  ]
+}

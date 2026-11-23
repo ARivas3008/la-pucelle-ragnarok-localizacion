@@ -1,0 +1,39 @@
+{
+  "original": "Be true to your own feelings and you will avoid regrets。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nJust let me give you one piece of advice。。。\nYou never know what life will bring。\nThat is all the guidance I have for you。\nOh、 and young lady。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nJust let me give you one piece of advice。。。\nYou never know what life will bring。\nThat is all the guidance I have for you。\nOh、 and young lady。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nBe true to your own feelings and you will avoid regrets。",
+  "respuesta": "Sé fiel a tus propios sentimientos y así evitarás los arrepentimientos.",
+  "fin": "stop",
+  "segundos": 2.72,
+  "uso": {
+    "completion_tokens": 26,
+    "prompt_tokens": 344,
+    "total_tokens": 370,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "83909bfadb4cb9394239",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 128664,
+      "entry_id": 611,
+      "original_hex": [
+        "826182858140829482928295828581408294828f81408299828f829582928140828f8297828e",
+        "828682858285828c8289828e8287829381408281828e828481408299828f8295814082978289828c828c",
+        "82818296828f82898284814082928285828782928285829482938142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Just let me give you one piece of advice。。。",
+        "You never know what life will bring。",
+        "That is all the guidance I have for you。",
+        "Oh、 and young lady。。。"
+      ]
+    }
+  ]
+}

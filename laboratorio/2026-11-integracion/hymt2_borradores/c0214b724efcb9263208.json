@@ -1,0 +1,40 @@
+{
+  "original": "Oh、 nothing! Nothing at all! Time to go、 Sister Alouette!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nSister Alouette is the Maiden of Light、 after all。。。 Man、 I will be left behind if I do not do the best job I can。。。\nWhat do you mean be left behind?\nYeah。\nDrop by once in awhile、 Prier。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nSister Alouette is the Maiden of Light、 after all。。。 Man、 I will be left behind if I do not do the best job I can。。。\nWhat do you mean be left behind?\nYeah。\nDrop by once in awhile、 Prier。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nOh、 nothing! Nothing at all! Time to go、 Sister Alouette!",
+  "respuesta": "Oh, nada. ¡Nada en absoluto! Es hora de irse, hermana Alouette.",
+  "fin": "stop",
+  "segundos": 2.99,
+  "uso": {
+    "completion_tokens": 24,
+    "prompt_tokens": 365,
+    "total_tokens": 389,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "c0214b724efcb9263208",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 120587,
+      "entry_id": 1854,
+      "original_hex": [
+        "826e828881418140828e828f829482888289828e82878149",
+        "826d828f829482888289828e828781408281829481408281828c828c8149",
+        "82738289828d828581408294828f81408287828f81418140827282898293829482858292",
+        "8260828c828f829582858294829482858149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Sister Alouette is the Maiden of Light、 after all。。。 Man、 I will be left behind if I do not do the best job I can。。。",
+        "What do you mean be left behind?",
+        "Yeah。",
+        "Drop by once in awhile、 Prier。"
+      ]
+    }
+  ]
+}

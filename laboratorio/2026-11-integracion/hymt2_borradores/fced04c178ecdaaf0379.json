@@ -1,0 +1,78 @@
+{
+  "original": "モーブーかァ......。 なつかしいぜェ。 昔は、コイツの倍はあるグレートモーブーと",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nバカやったモンだ......。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nバカやったモンだ......。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nモーブーかァ......。 なつかしいぜェ。 昔は、コイツの倍はあるグレートモーブーと",
+  "respuesta": "¿Moobé, verdad? Qué recuerdos… En el pasado, había un Great Moobé que era el doble de grande que este.",
+  "fin": "stop",
+  "segundos": 3.22,
+  "uso": {
+    "completion_tokens": 36,
+    "prompt_tokens": 340,
+    "total_tokens": 376,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "fced04c178ecdaaf0379",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 37687,
+      "entry_id": 201418,
+      "original_hex": [
+        "8382815b8375815b82a98340816381638142",
+        "82c882c282a982b582a282ba83468142",
+        "90cc82cd814183528343836382cc947b82cd82a082e9834f838c815b83678382815b8375815b82c6"
+      ],
+      "opcion": false,
+      "contexto": [
+        "バカやったモンだ......。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "offset": 37847,
+      "entry_id": 201418,
+      "original_hex": [
+        "8382815b8375815b82a98340816381638142",
+        "82c882c282a982b582a282ba83468142",
+        "90cc82cd814183528343836382cc947b82cd82a082e9834f838c815b83678382815b8375815b82c6"
+      ],
+      "opcion": false,
+      "contexto": [
+        "バカやったモンだ......。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 37687,
+      "entry_id": 201418,
+      "original_hex": [
+        "8382815b8375815b82a98340816381638142",
+        "82c882c282a982b582a282ba83468142",
+        "90cc82cd814183528343836382cc947b82cd82a082e9834f838c815b83678382815b8375815b82c6"
+      ],
+      "opcion": false,
+      "contexto": [
+        "バカやったモンだ......。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 38071,
+      "entry_id": 201418,
+      "original_hex": [
+        "8382815b8375815b82a98340816381638142",
+        "82c882c282a982b582a282ba83468142",
+        "90cc82cd814183528343836382cc947b82cd82a082e9834f838c815b83678382815b8375815b82c6"
+      ],
+      "opcion": false,
+      "contexto": [
+        "バカやったモンだ......。"
+      ]
+    }
+  ]
+}

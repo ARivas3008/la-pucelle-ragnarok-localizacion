@@ -1,0 +1,42 @@
+{
+  "original": "Ugh。。。 To think that I would be so consumed by darkness that I viewed these demons as my friends。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI see。。。 I did search out for you、 after all。。。 Now that it has come to this。。。!\nWe can fight with the power of light!!!\nI can never tell a soul about this。\nWhat was that light right now!?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI see。。。 I did search out for you、 after all。。。 Now that it has come to this。。。!\nWe can fight with the power of light!!!\nI can never tell a soul about this。\nWhat was that light right now!?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nUgh。。。 To think that I would be so consumed by darkness that I viewed these demons as my friends。。。",
+  "respuesta": "Ugh… ¡Qué absurdo pensar que yo podría estar tan dominado por la oscuridad que considerara a esos demonios como mis amigos!",
+  "fin": "stop",
+  "segundos": 4.51,
+  "uso": {
+    "completion_tokens": 37,
+    "prompt_tokens": 365,
+    "total_tokens": 402,
+    "prompt_tokens_details": {
+      "cached_tokens": 280
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "2cd778c7c0cd6e9804ec",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 88828,
+      "entry_id": 1808,
+      "original_hex": [
+        "827482878288814281428142",
+        "8273828f8140829482888289828e828b814082948288828182948140826881408297828f8295828c8284",
+        "8282828581408293828f81408283828f828e82938295828d82858284814082828299",
+        "828482818292828b828e82858293829381408294828882818294814082688140829682898285829782858284",
+        "82948288828582938285814082848285828d828f828e8293814082818293",
+        "828d829981408286829282898285828e82848293814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I see。。。 I did search out for you、 after all。。。 Now that it has come to this。。。!",
+        "We can fight with the power of light!!!",
+        "I can never tell a soul about this。",
+        "What was that light right now!?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "original": "The hair on this monster looks creepy。。。 But there is no way I will lose!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nRattle、 rattle。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nRattle、 rattle。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThe hair on this monster looks creepy。。。 But there is no way I will lose!",
+  "respuesta": "El cabello de este monstruo parece aterrador… Pero no hay manera de que pierda.",
+  "fin": "stop",
+  "segundos": 2.09,
+  "uso": {
+    "completion_tokens": 23,
+    "prompt_tokens": 319,
+    "total_tokens": 342,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "50f4e06f19e45d5ba7f9",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 93589,
+      "entry_id": 4560,
+      "original_hex": [
+        "827382888285814082888281828982928140828f828e814082948288828982938140828d828f828e8293829482858292",
+        "828c828f828f828b82938140828382928285828582908299814281428142",
+        "8261829582948140829482888285829282858140828982938140828e828f814082978281829981408268",
+        "82978289828c828c8140828c828f829382858149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Rattle、 rattle。"
+      ]
+    }
+  ]
+}

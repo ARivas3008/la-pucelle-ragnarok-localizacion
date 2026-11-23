@@ -1,0 +1,42 @@
+{
+  "original": "Yes! A woman who meets the qualifications of a Demon Lord can never become the Maiden of Light!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThat is not what I meant。。。! I。。。 I did not mean it like。。。\nYou do not need to make excuses。 You were correct、 after all。。。\nYou understand that the most! Right、 Prier! Right?!?!\nYeah。。。 You do have a point。。。 It could be just like you said。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThat is not what I meant。。。! I。。。 I did not mean it like。。。\nYou do not need to make excuses。 You were correct、 after all。。。\nYou understand that the most! Right、 Prier! Right?!?!\nYeah。。。 You do have a point。。。 It could be just like you said。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYes! A woman who meets the qualifications of a Demon Lord can never become the Maiden of Light!",
+  "respuesta": "¡Sí! Una mujer que cumpla con los requisitos de un Señor Demonio nunca podrá convertirse en la Doncella de la Luz.",
+  "fin": "stop",
+  "segundos": 4.45,
+  "uso": {
+    "completion_tokens": 37,
+    "prompt_tokens": 383,
+    "total_tokens": 420,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "c260a7ba3ba2636dd88d",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 95226,
+      "entry_id": 1607,
+      "original_hex": [
+        "8278828582938149",
+        "826081408297828f828d8281828e814082978288828f8140828d8285828582948293",
+        "8294828882858140829182958281828c8289828682898283828182948289828f828e82938140828f828681408281",
+        "82638285828d828f828e8140826b828f82928284814082838281828e8140828e8285829682858292",
+        "828282858283828f828d828581408294828882858140826c8281828982848285828e",
+        "828f82868140826b82898287828882948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "That is not what I meant。。。! I。。。 I did not mean it like。。。",
+        "You do not need to make excuses。 You were correct、 after all。。。",
+        "You understand that the most! Right、 Prier! Right?!?!",
+        "Yeah。。。 You do have a point。。。 It could be just like you said。。。"
+      ]
+    }
+  ]
+}

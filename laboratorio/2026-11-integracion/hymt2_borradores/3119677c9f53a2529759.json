@@ -1,0 +1,39 @@
+{
+  "original": "But she was always sickly、 and shortly after we married。。。 ",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYes。。。 She was so beautiful。\nAnd not just on the outside。 She had a heart as beautiful and pure as the river Riviere。\nLosing her tore me apart inside!!\nI cursed the sickness that took her、 and  I cursed the Goddess!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYes。。。 She was so beautiful。\nAnd not just on the outside。 She had a heart as beautiful and pure as the river Riviere。\nLosing her tore me apart inside!!\nI cursed the sickness that took her、 and  I cursed the Goddess!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nBut she was always sickly、 and shortly after we married。。。 ",
+  "respuesta": "Pero ella siempre estuvo enferma. Poco después de que nos casamos…",
+  "fin": "stop",
+  "segundos": 3.62,
+  "uso": {
+    "completion_tokens": 20,
+    "prompt_tokens": 363,
+    "total_tokens": 383,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "3119677c9f53a2529759",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 141130,
+      "entry_id": 211,
+      "original_hex": [
+        "8261829582948140829382888285814082978281829381408281828c8297828182998293",
+        "829382898283828b828c8299814181408281828e8284814082938288828f82928294828c8299",
+        "828182868294828582928140829782858140828d8281829282928289828582848142814281428140"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yes。。。 She was so beautiful。",
+        "And not just on the outside。 She had a heart as beautiful and pure as the river Riviere。",
+        "Losing her tore me apart inside!!",
+        "I cursed the sickness that took her、 and  I cursed the Goddess!"
+      ]
+    }
+  ]
+}

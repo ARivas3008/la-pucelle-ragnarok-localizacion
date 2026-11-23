@@ -1,0 +1,41 @@
+{
+  "original": "Well then、 Maiden of Light。 Observe as the filth in this world gets destroyed。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nHowever、 even upon knowing what I plan on doing、 you cannot save humanity。 Any attempts will be in vain。\n。。。Eh!\nI will never let you get away with such a thing!\nYou are quite amusing、 young lady。 Very well。 If you think you can stop me、 just go ahead and try it。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nHowever、 even upon knowing what I plan on doing、 you cannot save humanity。 Any attempts will be in vain。\n。。。Eh!\nI will never let you get away with such a thing!\nYou are quite amusing、 young lady。 Very well。 If you think you can stop me、 just go ahead and try it。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWell then、 Maiden of Light。 Observe as the filth in this world gets destroyed。",
+  "respuesta": "Bueno entonces, Doncella de la Luz. Observa cómo la suciedad de este mundo es destruida.",
+  "fin": "stop",
+  "segundos": 3.57,
+  "uso": {
+    "completion_tokens": 28,
+    "prompt_tokens": 379,
+    "total_tokens": 407,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "553286fdce6908b60c7c",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 97993,
+      "entry_id": 1809,
+      "original_hex": [
+        "82768285828c828c8140829482888285828e81418140826c8281828982848285828e",
+        "828f82868140826b82898287828882948142",
+        "826e8282829382858292829682858140828182938140829482888285814082868289828c82948288",
+        "8289828e8140829482888289829381408297828f8292828c828481408287828582948293",
+        "82848285829382948292828f8299828582848142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "However、 even upon knowing what I plan on doing、 you cannot save humanity。 Any attempts will be in vain。",
+        "。。。Eh!",
+        "I will never let you get away with such a thing!",
+        "You are quite amusing、 young lady。 Very well。 If you think you can stop me、 just go ahead and try it。"
+      ]
+    }
+  ]
+}

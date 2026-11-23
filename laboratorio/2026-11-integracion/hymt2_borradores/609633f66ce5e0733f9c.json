@@ -1,0 +1,39 @@
+{
+  "original": "The Dark Prince。。。 will be。。。when you know。。。he will again。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAlouette。。。 Seek out。。。 Fatima。。。\nFatima?\nAnd the Maiden of Light。。。Her life。。。 all things。。。end\nGoddess? Goddess!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAlouette。。。 Seek out。。。 Fatima。。。\nFatima?\nAnd the Maiden of Light。。。Her life。。。 all things。。。end\nGoddess? Goddess!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThe Dark Prince。。。 will be。。。when you know。。。he will again。",
+  "respuesta": "El Príncipe Oscuro… estará allí cuando tú lo sepa… volverá a aparecer.",
+  "fin": "stop",
+  "segundos": 2.64,
+  "uso": {
+    "completion_tokens": 26,
+    "prompt_tokens": 345,
+    "total_tokens": 371,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "609633f66ce5e0733f9c",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 98854,
+      "entry_id": 601,
+      "original_hex": [
+        "8273828882858140826382818292828b8140826f82928289828e82838285814281428142",
+        "82978289828c828c814082828285814281428142829782888285828e81408299828f8295",
+        "828b828e828f829781428142814282888285814082978289828c828c81408281828782818289828e8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Alouette。。。 Seek out。。。 Fatima。。。",
+        "Fatima?",
+        "And the Maiden of Light。。。Her life。。。 all things。。。end",
+        "Goddess? Goddess!!"
+      ]
+    }
+  ]
+}

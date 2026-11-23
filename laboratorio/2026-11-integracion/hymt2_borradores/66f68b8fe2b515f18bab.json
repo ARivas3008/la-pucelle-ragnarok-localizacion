@@ -1,0 +1,40 @@
+{
+  "original": "The first thing we need to do is get her out of the rain before she dies。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nSister Alouette。。。\nShe is burning with fever! We need to do something!\nWe are going to have to find some shelter from the storm。\nI am not sure we can stay airborne in this storm! Meow!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nSister Alouette。。。\nShe is burning with fever! We need to do something!\nWe are going to have to find some shelter from the storm。\nI am not sure we can stay airborne in this storm! Meow!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThe first thing we need to do is get her out of the rain before she dies。",
+  "respuesta": "Lo primero que debemos hacer es sacarla de la lluvia antes de que muera.",
+  "fin": "stop",
+  "segundos": 2.76,
+  "uso": {
+    "completion_tokens": 22,
+    "prompt_tokens": 360,
+    "total_tokens": 382,
+    "prompt_tokens_details": {
+      "cached_tokens": 286
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "66f68b8fe2b515f18bab",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 98619,
+      "entry_id": 1101,
+      "original_hex": [
+        "8273828882858140828682898292829382948140829482888289828e82878140829782858140828e828582858284",
+        "8294828f81408284828f814082898293814082878285829481408288828582928140828f829582948140828f8286",
+        "8294828882858140829282818289828e8140828282858286828f829282858140829382888285",
+        "82848289828582938142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Sister Alouette。。。",
+        "She is burning with fever! We need to do something!",
+        "We are going to have to find some shelter from the storm。",
+        "I am not sure we can stay airborne in this storm! Meow!!"
+      ]
+    }
+  ]
+}

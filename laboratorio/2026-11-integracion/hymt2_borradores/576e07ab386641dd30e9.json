@@ -1,0 +1,78 @@
+{
+  "original": "では、一緒に祈りましょう。 あなたにも、女神ポワトゥリーヌの 御加護があらんことを。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n誰でもいいから、わたしのこと守りなさいよ!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n誰でもいいから、わたしのこと守りなさいよ!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nでは、一緒に祈りましょう。 あなたにも、女神ポワトゥリーヌの 御加護があらんことを。",
+  "respuesta": "Bueno, entonces, oremos juntos. Que la diosa Poitrine nos bendiga a todos.",
+  "fin": "stop",
+  "segundos": 3.02,
+  "uso": {
+    "completion_tokens": 26,
+    "prompt_tokens": 351,
+    "total_tokens": 377,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "576e07ab386641dd30e9",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 55223,
+      "entry_id": 3558,
+      "original_hex": [
+        "82c582cd814188ea8f8f82c98b4682e882dc82b582e582a48142",
+        "82a082c882bd82c982e081418f97905f837c838f83678344838a815b836b82cc",
+        "8ce489c18cec82aa82a082e782f182b182c682f08142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "誰でもいいから、わたしのこと守りなさいよ!"
+      ]
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 55191,
+      "entry_id": 3558,
+      "original_hex": [
+        "82c582cd814188ea8f8f82c98b4682e882dc82b582e582a48142",
+        "82a082c882bd82c982e081418f97905f837c838f83678344838a815b836b82cc",
+        "8ce489c18cec82aa82a082e782f182b182c682f08142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "誰でもいいから、わたしのこと守りなさいよ!"
+      ]
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 55415,
+      "entry_id": 3558,
+      "original_hex": [
+        "82c582cd814188ea8f8f82c98b4682e882dc82b582e582a48142",
+        "82a082c882bd82c982e081418f97905f837c838f83678344838a815b836b82cc",
+        "8ce489c18cec82aa82a082e782f182b182c682f08142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "誰でもいいから、わたしのこと守りなさいよ!"
+      ]
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 55383,
+      "entry_id": 3558,
+      "original_hex": [
+        "82c582cd814188ea8f8f82c98b4682e882dc82b582e582a48142",
+        "82a082c882bd82c982e081418f97905f837c838f83678344838a815b836b82cc",
+        "8ce489c18cec82aa82a082e782f182b182c682f08142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "誰でもいいから、わたしのこと守りなさいよ!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "original": "No need to worry。 We will simply educate him。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThe Church sure has a lot of beautiful Sisters。 I wanna join the Church of the Holy Maiden、 too!\nThat is quite some motivation to join。。。 What if someone like this were to actually join?\nGreat thinking、 Sister Alouette!\nShe has a scary look in her eyes。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThe Church sure has a lot of beautiful Sisters。 I wanna join the Church of the Holy Maiden、 too!\nThat is quite some motivation to join。。。 What if someone like this were to actually join?\nGreat thinking、 Sister Alouette!\nShe has a scary look in her eyes。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nNo need to worry。 We will simply educate him。",
+  "respuesta": "No hay necesidad de preocuparse. Simplemente lo educaremos.",
+  "fin": "stop",
+  "segundos": 1.72,
+  "uso": {
+    "completion_tokens": 18,
+    "prompt_tokens": 365,
+    "total_tokens": 383,
+    "prompt_tokens_details": {
+      "cached_tokens": 302
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "25100e43f219393b6544",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 24204,
+      "entry_id": 250610,
+      "original_hex": [
+        "826d828f8140828e82858285828481408294828f81408297828f8292829282998142",
+        "82768285814082978289828c828c814082938289828d8290828c829981408285828482958283828182948285",
+        "82888289828d8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "The Church sure has a lot of beautiful Sisters。 I wanna join the Church of the Holy Maiden、 too!",
+        "That is quite some motivation to join。。。 What if someone like this were to actually join?",
+        "Great thinking、 Sister Alouette!",
+        "She has a scary look in her eyes。。。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "original": "You do not need to laugh、 you know!?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAh、 um。。。 It is all right、 little girl。 Big Sister Prier here is your friend。\nPsh、 what was that。。。?\nBig Sister Prier。。。?\nYeah、 that is right! Big Sister Prier has finally arrived、 so there is nothing to worry about。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAh、 um。。。 It is all right、 little girl。 Big Sister Prier here is your friend。\nPsh、 what was that。。。?\nBig Sister Prier。。。?\nYeah、 that is right! Big Sister Prier has finally arrived、 so there is nothing to worry about。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou do not need to laugh、 you know!?",
+  "respuesta": "No necesitas reírte, ¿sabes?",
+  "fin": "stop",
+  "segundos": 2.42,
+  "uso": {
+    "completion_tokens": 13,
+    "prompt_tokens": 363,
+    "total_tokens": 376,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f302458af5aac671e860",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 83072,
+      "entry_id": 1505,
+      "original_hex": [
+        "8278828f829581408284828f8140828e828f82948140828e82858285828481408294828f",
+        "828c8281829582878288814181408299828f82958140828b828e828f829781498148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Ah、 um。。。 It is all right、 little girl。 Big Sister Prier here is your friend。",
+        "Psh、 what was that。。。?",
+        "Big Sister Prier。。。?",
+        "Yeah、 that is right! Big Sister Prier has finally arrived、 so there is nothing to worry about。"
+      ]
+    }
+  ]
+}

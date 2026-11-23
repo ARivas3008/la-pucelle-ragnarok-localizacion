@@ -1,0 +1,39 @@
+{
+  "original": "We can defeat him if we  understand why he hates humanity。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThat hatred。。。\nThat terrible darkness in his heart is what drew the fallen angel Calamity to him。\nWe must ease the darkness in his heart before he regains his memory。\nAlone、 that is far more than I can accomplish。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThat hatred。。。\nThat terrible darkness in his heart is what drew the fallen angel Calamity to him。\nWe must ease the darkness in his heart before he regains his memory。\nAlone、 that is far more than I can accomplish。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWe can defeat him if we  understand why he hates humanity。",
+  "respuesta": "Podemos derrotarlo si comprendemos por qué odia a la humanidad.",
+  "fin": "stop",
+  "segundos": 2.69,
+  "uso": {
+    "completion_tokens": 18,
+    "prompt_tokens": 357,
+    "total_tokens": 375,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "fbfba9b339447f02748d",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 103849,
+      "entry_id": 1101,
+      "original_hex": [
+        "82768285814082838281828e8140828482858286828582818294814082888289828d8140828982868140829782858140",
+        "8295828e828482858292829382948281828e82848140829782888299814082888285814082888281829482858293",
+        "82888295828d8281828e8289829482998142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "That hatred。。。",
+        "That terrible darkness in his heart is what drew the fallen angel Calamity to him。",
+        "We must ease the darkness in his heart before he regains his memory。",
+        "Alone、 that is far more than I can accomplish。"
+      ]
+    }
+  ]
+}

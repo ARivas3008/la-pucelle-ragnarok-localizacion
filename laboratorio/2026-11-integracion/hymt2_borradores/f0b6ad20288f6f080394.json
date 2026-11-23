@@ -1,0 +1,39 @@
+{
+  "original": "This princess is actually quite something、 but now does not seem like the time or place for this。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n。。。\nSorry、 but I am gonna defeat you!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n。。。\nSorry、 but I am gonna defeat you!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThis princess is actually quite something、 but now does not seem like the time or place for this。",
+  "respuesta": "Esta princesa es realmente algo especial, pero ahora no parece ser el momento ni el lugar adecuado para eso.",
+  "fin": "stop",
+  "segundos": 2.6,
+  "uso": {
+    "completion_tokens": 27,
+    "prompt_tokens": 326,
+    "total_tokens": 353,
+    "prompt_tokens_details": {
+      "cached_tokens": 280
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f0b6ad20288f6f080394",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 83686,
+      "entry_id": 4668,
+      "original_hex": [
+        "82738288828982938140829082928289828e8283828582938293814082898293",
+        "82818283829482958281828c828c829981408291829582898294828581408293828f828d8285829482888289828e82878141",
+        "8282829582948140828e828f829781408284828f828582938140828e828f82948140829382858285828d",
+        "828c8289828b82858140829482888285814082948289828d82858140828f829281408290828c828182838285",
+        "8286828f8292814082948288828982938142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "。。。",
+        "Sorry、 but I am gonna defeat you!"
+      ]
+    }
+  ]
+}

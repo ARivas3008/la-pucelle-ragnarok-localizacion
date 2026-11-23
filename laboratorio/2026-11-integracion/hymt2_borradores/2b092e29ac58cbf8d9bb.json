@@ -1,0 +1,73 @@
+{
+  "original": "There are icons like ATK and DEF in the item status list。 Items can allow characters to develop their own hidden powers。 For example、 lets say that someone equips an item with an ATK icon on it。 The ATK gauge will go up when he defeats an enemy。 When the gauge gets full、 the characters own ATK attribute increases。 In other words、 you can decide how your characters develop by choosing the items they use。 If you want fighters、 choose items with HP、 ATK and DEF icons on them。 If you want wizards、 choose items with SP and INT icons on them。 In addition、 it is also possible to learn new skills when going up a level。 Skills are special powers that characters can learn。 You can become a much better overall fighter by learning a wide variety of skills。 But at first、 it is probably a good idea to limit the kind of skills you try to learn。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThere are icons like ATK and DEF in the item status list。 Items can allow characters to develop their own hidden powers。 For example、 lets say that someone equips an item with an ATK icon on it。 The ATK gauge will go up when he defeats an enemy。 When the gauge gets full、 the characters own ATK attribute increases。 In other words、 you can decide how your characters develop by choosing the items they use。 If you want fighters、 choose items with HP、 ATK and DEF icons on them。 If you want wizards、 choose items with SP and INT icons on them。 In addition、 it is also possible to learn new skills when going up a level。 Skills are special powers that characters can learn。 You can become a much better overall fighter by learning a wide variety of skills。 But at first、 it is probably a good idea to limit the kind of skills you try to learn。",
+  "respuesta": "En la lista de estado de los objetos, existen iconos como ATK y DEF. Los objetos pueden permitir que los personajes desarrollen sus propios poderes ocultos. Por ejemplo, supongamos que alguien equipa un objeto con una icona de ATK. El indicador de ATK aumentará cuando derrote a un enemigo. Cuando el indicador se llene, el atributo de ATK del personaje aumentará. En otras palabras, puedes decidir cómo se desarrollarán tus personajes eligiendo los objetos que utilicen. Si deseas que los personajes sean luchadores, elige objetos con iconas de HP, ATK y DEF. Si deseas que sean magos, elige objetos con iconas de SP e INT. Además, también es posible aprender nuevas habilidades al subir de nivel. Las habilidades son poderes especiales que los personajes pueden adquirir. Puedes convertirte en un mejor luchador si aprendes una amplia variedad de habilidades. Pero al principio, probablemente sea buena idea limitar el tipo de habilidades que intentas aprender.",
+  "fin": "stop",
+  "segundos": 22.54,
+  "uso": {
+    "completion_tokens": 280,
+    "prompt_tokens": 481,
+    "total_tokens": 761,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "2b092e29ac58cbf8d9bb",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 18977,
+      "entry_id": 201714,
+      "original_hex": [
+        "827382888285829282858140828182928285814082898283828f828e82938140828c8289828b8285814082608273826a",
+        "8281828e8284814082638264826581408289828e81408294828882858140828982948285828d",
+        "8293829482818294829582938140828c8289829382948142",
+        "826882948285828d8293814082838281828e81408281828c828c828f829781408283828882818292828182838294828582928293",
+        "8294828f81408284828582968285828c828f82908140829482888285828982928140828f8297828e",
+        "82888289828482848285828e81408290828f82978285829282938142",
+        "8265828f82928140828582988281828d8290828c828581418140828c8285829482938140829382818299",
+        "829482888281829481408293828f828d8285828f828e8285814082858291829582898290829381408281828e",
+        "828982948285828d8140829782898294828881408281828e814082608273826a814082898283828f828e",
+        "828f828e8140828982948142",
+        "827382888285814082608273826a814082878281829582878285814082978289828c828c81408287828f",
+        "829582908140829782888285828e8140828882858140828482858286828582818294829381408281828e",
+        "8285828e8285828d82998142",
+        "827682888285828e814082948288828581408287828182958287828581408287828582948293814082868295828c828c81418140829482888285",
+        "82838288828182928281828382948285829282938140828f8297828e814082608273826a",
+        "82818294829482928289828282958294828581408289828e82838292828582818293828582938142",
+        "8268828e8140828f829482888285829281408297828f829282848293814181408299828f8295814082838281828e",
+        "82848285828382898284828581408288828f829781408299828f82958292",
+        "828382888281829282818283829482858292829381408284828582968285828c828f8290814082828299",
+        "82838288828f828f82938289828e828781408294828882858140828982948285828d829381408294828882858299",
+        "8295829382858142",
+        "8268828681408299828f8295814082978281828e82948140828682898287828882948285829282938141",
+        "82838288828f828f829382858140828982948285828d82938140829782898294828881408267826f8141",
+        "82608273826a81408281828e82848140826382648265814082898283828f828e82938140828f828e",
+        "829482888285828d8142",
+        "8268828681408299828f8295814082978281828e8294814082978289829a82818292828482938141",
+        "82838288828f828f829382858140828982948285828d82938140829782898294828881408272826f",
+        "8281828e828481408268826d8273814082898283828f828e82938140828f828e8140829482888285828d8142",
+        "8268828e8140828182848284828982948289828f828e814181408289829481408289829381408281828c8293828f",
+        "8290828f8293829382898282828c828581408294828f8140828c828582818292828e8140828e82858297",
+        "8293828b8289828c828c82938140829782888285828e81408287828f8289828e8287814082958290",
+        "82818140828c828582968285828c8142",
+        "8272828b8289828c828c829381408281829282858140829382908285828382898281828c81408290828f8297828582928293",
+        "829482888281829481408283828882818292828182838294828582928293814082838281828e8140828c828582818292828e8142",
+        "8278828f8295814082838281828e8140828282858283828f828d8285814082818140828d829582838288",
+        "8282828582948294828582928140828f8296828582928281828c828c81408286828982878288829482858292814082828299",
+        "828c828582818292828e8289828e8287814082818140829782898284828581408296828182928289828582948299",
+        "828f828681408293828b8289828c828c82938142",
+        "8261829582948140828182948140828682898292829382948141814082898294814082898293",
+        "82908292828f828282818282828c82998140828181408287828f828f82848140828982848285828181408294828f",
+        "828c8289828d8289829481408294828882858140828b8289828e82848140828f828681408293828b8289828c828c8293",
+        "8299828f8295814082948292829981408294828f8140828c828582818292828e8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "original": "No。 They radiate intense spiritual energy、 but I sense no life force in them。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI have never seen anything like them before。\nSister Alouette、 are these some kind of monster?\nThey seem to be artificially created spirits。。。\nSo they are like demons、 then?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI have never seen anything like them before。\nSister Alouette、 are these some kind of monster?\nThey seem to be artificially created spirits。。。\nSo they are like demons、 then?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nNo。 They radiate intense spiritual energy、 but I sense no life force in them。",
+  "respuesta": "No. Ellos irradian una intensa energía espiritual, pero no percibo ninguna fuerza vital en ellos.",
+  "fin": "stop",
+  "segundos": 3.35,
+  "uso": {
+    "completion_tokens": 30,
+    "prompt_tokens": 351,
+    "total_tokens": 381,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "eb695ce86abbd377c1bf",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 100720,
+      "entry_id": 502,
+      "original_hex": [
+        "826d828f8142814082738288828582998140829282818284828982818294828581408289828e82948285828e82938285",
+        "82938290828982928289829482958281828c81408285828e82858292828782998141814082828295829481408268",
+        "82938285828e829382858140828e828f8140828c82898286828581408286828f82928283828581408289828e",
+        "829482888285828d8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I have never seen anything like them before。",
+        "Sister Alouette、 are these some kind of monster?",
+        "They seem to be artificially created spirits。。。",
+        "So they are like demons、 then?"
+      ]
+    }
+  ]
+}

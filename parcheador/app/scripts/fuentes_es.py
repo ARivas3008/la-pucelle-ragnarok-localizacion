@@ -86,6 +86,19 @@ def decode_es(data):
     return ''.join(out)
 
 
+def encode_script_text(text):
+    """Codificación del dibujador 0x0885be1c para los rótulos 0x32.
+
+    El motor consume dos bytes para signos ASCII menores que 0x2e,
+    salvo el espacio. Una coma al final consume también el NUL y muestra
+    restos de la fila anterior. Letras/dígitos tienen retroceso explícito;
+    esos signos requieren su variante CP932 de dos bytes.
+    """
+    if any(ord(c)<32 for c in text):raise FontError('Control no admitido en rótulo script')
+    safe=''.join(chr(ord(c)+0xfee0) if 0x21<=ord(c)<0x2e else c for c in text)
+    return encode_es(safe)
+
+
 def unpack_pixels(raw):
     if len(raw)!=TXP_SIZE or raw[:4]!=b'\x00\x02\x00\x02':
         raise FontError('Textura fontB inesperada (cabecera/tamaño); no modificar')
@@ -278,13 +291,28 @@ def add_spanish_fonts(members):
             except UnicodeError:continue
             if fnt[fi]:
                 fnt[ix]=fnt[fi];ftd[ix]=ftd[fi];alias+=1
-    changed=bool(changes or alias)
+    # Algunas tablas no contienen ninguna variante recta de las comillas.
+    # Reutilizar el glifo tipográfico ya creado evita dejar nombres invisibles.
+    for c,fallback in (("'",'’'),('"','”')):
+        ix=index_sjis(c.encode('ascii'));fi=index_sjis(CODIGOS[fallback])
+        if not fnt[ix] and fnt[fi]:
+            fnt[ix]=fnt[fi];ftd[ix]=ftd[fi];alias+=1
+    # Talk y signos de script requieren dos bytes incluso cuando el atlas
+    # solo trae la variante ASCII (coma y punto y coma, entre otros).
+    alias_wide=0
+    for c in string.punctuation:
+        ix=index_sjis(c.encode('ascii'))
+        try:fi=index_sjis(chr(ord(c)+0xFEE0).encode('cp932'))
+        except UnicodeError:continue
+        if not fnt[fi] and fnt[ix]:
+            fnt[fi]=fnt[ix];ftd[fi]=ftd[ix];alias_wide+=1
+    changed=bool(changes or alias or alias_wide)
     if changed:
         members['fontB.fnt']=bytearray(struct.pack('<11616H',*fnt))
         members['fontB.ftd']=bytearray(struct.pack('<11616H',*ftd))
         for n,p in zip(('FontB0000.txp','FontB0001.txp'),pix):
             members[n]=bytearray(pack_pixels(bytes(members[n]),p))
-    return {'glifos_agregados':changes,'alias_ascii':alias,'glifos':add,
+    return {'glifos_agregados':changes,'alias_ascii':alias,'alias_ancho':alias_wide,'glifos':add,
             'gid_final':max_gid,'cobertura_gaiji':{k:v.hex() for k,v in CODIGOS.items()},
             'fontB_fnt_sha256':hashlib.sha256(members['fontB.fnt']).hexdigest()}
 

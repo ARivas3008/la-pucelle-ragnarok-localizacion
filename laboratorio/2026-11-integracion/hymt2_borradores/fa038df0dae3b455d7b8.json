@@ -1,0 +1,39 @@
+{
+  "original": "What do you think、 Big Sister? Do you think can win?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAh! Take a look、 Big Sister! That is。。。!\nThat is the demon who attacked your village。。。 The one who you want me defeat、 right?\nOf course! Who do you think you are talking to? I will end this all in a jiffy!\nHey、 Prier! You remember、 right? Do not let your strength go to your。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAh! Take a look、 Big Sister! That is。。。!\nThat is the demon who attacked your village。。。 The one who you want me defeat、 right?\nOf course! Who do you think you are talking to? I will end this all in a jiffy!\nHey、 Prier! You remember、 right? Do not let your strength go to your。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhat do you think、 Big Sister? Do you think can win?",
+  "respuesta": "¿Qué piensas, Hermana Mayor? ¿Crees que puedes ganar?",
+  "fin": "stop",
+  "segundos": 3.19,
+  "uso": {
+    "completion_tokens": 20,
+    "prompt_tokens": 384,
+    "total_tokens": 404,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "fa038df0dae3b455d7b8",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 89785,
+      "entry_id": 1506,
+      "original_hex": [
+        "827682888281829481408284828f81408299828f82958140829482888289828e828b8141",
+        "82618289828781408272828982938294828582928148",
+        "8263828f81408299828f82958140829482888289828e828b814082838281828e814082978289828e8148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Ah! Take a look、 Big Sister! That is。。。!",
+        "That is the demon who attacked your village。。。 The one who you want me defeat、 right?",
+        "Of course! Who do you think you are talking to? I will end this all in a jiffy!",
+        "Hey、 Prier! You remember、 right? Do not let your strength go to your。。。"
+      ]
+    }
+  ]
+}

@@ -35,15 +35,22 @@ def limites_cp932(data):
     return result
 
 class Reubicador:
-    def __init__(self,original,permitir_subcaracter=False):
+    def __init__(self,original,permitir_subcaracter=False,preservar_fase=False):
+        if permitir_subcaracter and preservar_fase:
+            raise ReubicacionInsegura('Selecciona una sola política subcarácter')
         self.permitir_subcaracter=permitir_subcaracter
+        self.preservar_fase=preservar_fase
         self.original=bytes(original)
         if len(self.original)<20:raise ReubicacionInsegura('Script demasiado corto')
         self.n=struct.unpack_from('<I',self.original)[0]
-        self.body=4+4*self.n
+        # EBOOT original, 0x08844e88..0x08844ec0: count, N offsets,
+        # N identificadores y después bytecode. La versión antigua confundía
+        # la tabla de IDs con instrucciones y desplazaba las entradas mal.
+        self.body=4+8*self.n
         if not (1<=self.n<=50000 and self.body<len(self.original)):
             raise ReubicacionInsegura('Tabla truncada')
         self.pointers=list(struct.unpack_from(f'<{self.n}I',self.original,4))
+        self.identifiers=list(struct.unpack_from(f'<{self.n}I',self.original,4+4*self.n))
         if self.pointers[0]!=0 or any(a>b for a,b in zip(self.pointers,self.pointers[1:])) or self.pointers[-1]>len(self.original)-self.body:
             raise ReubicacionInsegura('Índice inválido')
 
@@ -51,7 +58,7 @@ class Reubicador:
         ls=sorted(ediciones,key=lambda e:e.offset)
         if not ls:return self.original, {'ediciones':[],'anclas':[]}
         previous=self.body;data=[];start_offset=self.body
-        events=[];anclas=[];total=0;new_offs=[];corrigidas=[]
+        events=[];anclas=[];total=0;new_offs=[];corrigidas=[];fase_conservada=[]
         for e in ls:
             off=e.offset;old=e.antes;new=e.despues
             if not old or not new or b'\0' in old+new:
@@ -70,19 +77,38 @@ class Reubicador:
                     rel=p-old_start
                     if rel==len(old):destination=len(new) # terminador
                     else:
-                        if rel not in before_limits:
-                            if not self.permitir_subcaracter:
-                                raise ReubicacionInsegura(f'Puntero #{i} cae dentro de carácter CP932 en {off}')
-                            # ÚNICAMENTE ENSAYO: apuntar al inicio del glifo,
-                            # no a su byte final. Puede alterar la cadencia de texto.
-                            candidates=[v for v in before_limits if v<rel]
-                            if not candidates:raise ReubicacionInsegura('No existe carácter anterior')
-                            old_rel=rel;rel=max(candidates)
-                            corrigidas.append({'indice':i,'offset_fuente':off,'byte_anterior':old_rel,'char_inicio':rel})
-                        char_index=before_limits.index(rel)
-                        # Alinea el avance por carácter: no crea entradas nuevas.
-                        mapped_index=round(char_index*(len(after_limits)-1)/(len(before_limits)-1))
-                        destination=after_limits[mapped_index]
+                        if rel not in before_limits and self.preservar_fase:
+                            # v0.16: ensayar segundo byte -> segundo byte, sin
+                            # fingir que conocemos la semántica del índice.
+                            char_index=bisect_right(before_limits,rel)-1
+                            phase=rel-before_limits[char_index]
+                            if phase!=1:
+                                raise ReubicacionInsegura('Fase CP932 desconocida')
+                            ideal=round(char_index*(len(after_limits)-2)/max(1,len(before_limits)-2))
+                            options=sorted((abs(j-ideal),j)
+                                for j in range(len(after_limits)-1)
+                                if after_limits[j+1]-after_limits[j]>phase)
+                            if not options or options[0][0]>2:
+                                raise ReubicacionInsegura(
+                                    f'Puntero #{i}: no hay segundo byte CP932 '
+                                    f'equivalente a distancia <=2 caracteres')
+                            distance,j=options[0]
+                            destination=after_limits[j]+phase
+                            fase_conservada.append({'indice':i,'offset_fuente':off,
+                                'byte_origen':rel,'byte_destino':destination,
+                                'distancia_en_caracteres':distance,'fase':phase})
+                        else:
+                            if rel not in before_limits:
+                                if not self.permitir_subcaracter:
+                                    raise ReubicacionInsegura(f'Puntero #{i} cae dentro de carácter CP932 en {off}')
+                                # Compatibilidad con el ensayo v0.12; NO aprobado.
+                                candidates=[v for v in before_limits if v<rel]
+                                if not candidates:raise ReubicacionInsegura('No existe carácter anterior')
+                                old_rel=rel;rel=max(candidates)
+                                corrigidas.append({'indice':i,'offset_fuente':off,'byte_anterior':old_rel,'char_inicio':rel})
+                            char_index=before_limits.index(rel)
+                            mapped_index=round(char_index*(len(after_limits)-1)/(len(before_limits)-1))
+                            destination=after_limits[mapped_index]
                     inside.append((i,p,old_start+total+destination))
             data.extend([self.original[previous:off-1],bytes([len(new)+1]),new,b'\0'])
             new_off=off+total;new_offs.append(new_off)
@@ -113,7 +139,8 @@ class Reubicador:
                  'sha256_modificado':hashlib.sha256(result).hexdigest(),
                  'tabla_original':self.original[4:self.body].hex(),
                  'ediciones':events,'anclas':anclas,'anclas_reubicadas':len(anclas),
-                 'anclas_subcaracter_corregidas_experimentalmente':corrigidas}
+                 'anclas_subcaracter_corregidas_experimentalmente':corrigidas,
+                 'anclas_subcaracter_fase_conservada':fase_conservada}
         assert self.revertir(result,journal)==self.original, 'La reversión no coincide byte a byte'
         return result,journal
 

@@ -1,0 +1,90 @@
+{
+  "original": "Those clothes。。。 Is not that the uniform of our Church?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAn evil spirit?!\nWait、 Prier!\nIt certainly is。\nThis is the uniform of an A class demon hunter。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAn evil spirit?!\nWait、 Prier!\nIt certainly is。\nThis is the uniform of an A class demon hunter。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThose clothes。。。 Is not that the uniform of our Church?",
+  "respuesta": "Esos ropajes… ¿No son los uniformes de nuestra Iglesia?",
+  "fin": "stop",
+  "segundos": 2.15,
+  "uso": {
+    "completion_tokens": 21,
+    "prompt_tokens": 332,
+    "total_tokens": 353,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "fb2ca638b91787a8431f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 148910,
+      "entry_id": 0,
+      "original_hex": [
+        "82738288828f8293828581408283828c828f8294828882858293814281428142",
+        "826882938140828e828f8294814082948288828182948140829482888285",
+        "8295828e82898286828f8292828d8140828f82868140828f8295829281408262828882958292828382888148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "An evil spirit?!",
+        "Wait、 Prier!",
+        "It certainly is。",
+        "This is the uniform of an A class demon hunter。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 135464,
+      "entry_id": 0,
+      "original_hex": [
+        "82738288828f8293828581408283828c828f8294828882858293814281428142",
+        "826882938140828e828f8294814082948288828182948140829482888285",
+        "8295828e82898286828f8292828d8140828f82868140828f8295829281408262828882958292828382888148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "An evil spirit?!",
+        "Wait、 Prier!",
+        "It certainly is。",
+        "This is the uniform of an A class demon hunter。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 146240,
+      "entry_id": 0,
+      "original_hex": [
+        "82738288828f8293828581408283828c828f8294828882858293814281428142",
+        "826882938140828e828f8294814082948288828182948140829482888285",
+        "8295828e82898286828f8292828d8140828f82868140828f8295829281408262828882958292828382888148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "An evil spirit?!",
+        "Wait、 Prier!",
+        "It certainly is。",
+        "This is the uniform of an A class demon hunter。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 136222,
+      "entry_id": 0,
+      "original_hex": [
+        "82738288828f8293828581408283828c828f8294828882858293814281428142",
+        "826882938140828e828f8294814082948288828182948140829482888285",
+        "8295828e82898286828f8292828d8140828f82868140828f8295829281408262828882958292828382888148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "An evil spirit?!",
+        "Wait、 Prier!",
+        "It certainly is。",
+        "This is the uniform of an A class demon hunter。"
+      ]
+    }
+  ]
+}

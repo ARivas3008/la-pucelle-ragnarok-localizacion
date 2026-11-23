@@ -1,0 +1,36 @@
+{
+  "original": "You know、 I never see Mr。 Noir around the Church these days。 You do not suppose he is sick?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou know、 I never see Mr。 Noir around the Church these days。 You do not suppose he is sick?",
+  "respuesta": "Sabes, últimamente no veo al señor Noir por ningún lado en la iglesia. ¿No crees que esté enfermo?",
+  "fin": "stop",
+  "segundos": 2.51,
+  "uso": {
+    "completion_tokens": 36,
+    "prompt_tokens": 319,
+    "total_tokens": 355,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "e2054d6cbf9f73efd61f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 35185,
+      "entry_id": 201606,
+      "original_hex": [
+        "8278828f82958140828b828e828f82978141814082688140828e82858296828582928140829382858285",
+        "826c829281428140826d828f82898292814082818292828f8295828e82848140829482888285",
+        "826282888295829282838288814082948288828582938285814082848281829982938142",
+        "8278828f829581408284828f8140828e828f829481408293829582908290828f82938285814082888285",
+        "828982938140829382898283828b8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

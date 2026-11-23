@@ -1,0 +1,39 @@
+{
+  "original": "Well、 whatever。 So what happened to you guys、 exactly?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nUmmm、 you have lost every time this happens。 We helped them this time、 but it is kind of a pattern。\nIt is。\nWell near the castle of overlord、 a dark gate of some kind appeared。 After passing through it、 we warped here and somehow got separated。\nAnd the careless Demon Princess went missing。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nUmmm、 you have lost every time this happens。 We helped them this time、 but it is kind of a pattern。\nIt is。\nWell near the castle of overlord、 a dark gate of some kind appeared。 After passing through it、 we warped here and somehow got separated。\nAnd the careless Demon Princess went missing。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWell、 whatever。 So what happened to you guys、 exactly?",
+  "respuesta": "Bueno, no importa. Entonces, ¿qué le pasó a ustedes, exactamente?",
+  "fin": "stop",
+  "segundos": 3.02,
+  "uso": {
+    "completion_tokens": 23,
+    "prompt_tokens": 375,
+    "total_tokens": 398,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "d9cba891b016cc76702a",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 119958,
+      "entry_id": 1908,
+      "original_hex": [
+        "82768285828c828c81418140829782888281829482858296828582928142",
+        "8272828f81408297828882818294814082888281829082908285828e8285828481408294828f",
+        "8299828f8295814082878295829982938141814082858298828182838294828c82998148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Ummm、 you have lost every time this happens。 We helped them this time、 but it is kind of a pattern。",
+        "It is。",
+        "Well near the castle of overlord、 a dark gate of some kind appeared。 After passing through it、 we warped here and somehow got separated。",
+        "And the careless Demon Princess went missing。"
+      ]
+    }
+  ]
+}

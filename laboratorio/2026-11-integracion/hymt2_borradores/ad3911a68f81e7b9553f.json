@@ -1,0 +1,37 @@
+{
+  "original": "Is that right。。。?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nLaharl and Etna said we were going to go out and play but it seems we got seperated。\nSo you came out of the dark gate。。。? We purified all the dark gates around here so there is no exit for you。\nSo increasing the dark energy will make another gate appear? That means I will be able to go home、 right?\nI get it now!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nLaharl and Etna said we were going to go out and play but it seems we got seperated。\nSo you came out of the dark gate。。。? We purified all the dark gates around here so there is no exit for you。\nSo increasing the dark energy will make another gate appear? That means I will be able to go home、 right?\nI get it now!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIs that right。。。?",
+  "respuesta": "¿Es eso cierto...?",
+  "fin": "stop",
+  "segundos": 2.16,
+  "uso": {
+    "completion_tokens": 8,
+    "prompt_tokens": 377,
+    "total_tokens": 385,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "ad3911a68f81e7b9553f",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 111708,
+      "entry_id": 1903,
+      "original_hex": [
+        "82688293814082948288828182948140829282898287828882948142814281428148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Laharl and Etna said we were going to go out and play but it seems we got seperated。",
+        "So you came out of the dark gate。。。? We purified all the dark gates around here so there is no exit for you。",
+        "So increasing the dark energy will make another gate appear? That means I will be able to go home、 right?",
+        "I get it now!"
+      ]
+    }
+  ]
+}

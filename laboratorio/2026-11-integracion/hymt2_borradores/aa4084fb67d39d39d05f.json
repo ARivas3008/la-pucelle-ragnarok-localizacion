@@ -1,0 +1,43 @@
+{
+  "original": "Knock it off、 Sister Prier! Our job is to investigate the Dark World、 not to test out how strong you are。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nIt is hard to keep track with her ridiculous power。 If she keeps this up、 she could get injured。 You listening、 Prier?\nWhat do you mean get hurt? I am not planning on losing! I wonder if there are any stronger demons around。。。\nI am not hunting demons just for fun、 ya know! I am investigating。 You know、 gathering information。。。 I am figuring out how strong the demons are in this area。\nThere she goes、 talking down to people again。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nIt is hard to keep track with her ridiculous power。 If she keeps this up、 she could get injured。 You listening、 Prier?\nWhat do you mean get hurt? I am not planning on losing! I wonder if there are any stronger demons around。。。\nI am not hunting demons just for fun、 ya know! I am investigating。 You know、 gathering information。。。 I am figuring out how strong the demons are in this area。\nThere she goes、 talking down to people again。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nKnock it off、 Sister Prier! Our job is to investigate the Dark World、 not to test out how strong you are。",
+  "respuesta": "Deja de hacer eso, hermana Prier. Nuestra tarea es investigar el Mundo Oscuro, no probar cuán fuerte eres.",
+  "fin": "stop",
+  "segundos": 5.81,
+  "uso": {
+    "completion_tokens": 36,
+    "prompt_tokens": 420,
+    "total_tokens": 456,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "aa4084fb67d39d39d05f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 68639,
+      "entry_id": 1501,
+      "original_hex": [
+        "826a828e828f8283828b8140828982948140828f828682868141",
+        "8272828982938294828582928140826f82928289828582928149",
+        "826e829582928140828a828f828281408289829381408294828f",
+        "8289828e82968285829382948289828782818294828581408294828882858140826382818292828b",
+        "8276828f8292828c828481418140828e828f829481408294828f",
+        "82948285829382948140828f8295829481408288828f82978140829382948292828f828e8287",
+        "8299828f829581408281829282858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "It is hard to keep track with her ridiculous power。 If she keeps this up、 she could get injured。 You listening、 Prier?",
+        "What do you mean get hurt? I am not planning on losing! I wonder if there are any stronger demons around。。。",
+        "I am not hunting demons just for fun、 ya know! I am investigating。 You know、 gathering information。。。 I am figuring out how strong the demons are in this area。",
+        "There she goes、 talking down to people again。"
+      ]
+    }
+  ]
+}

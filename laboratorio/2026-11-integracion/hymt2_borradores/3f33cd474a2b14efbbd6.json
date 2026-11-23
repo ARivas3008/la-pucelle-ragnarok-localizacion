@@ -1,0 +1,41 @@
+{
+  "original": "No need to worry about it、 Culotte。 I understand that you were just joking around、 after all。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWhy you little。。。 You are still going on about that。。。!\nPrier!!! Thank goodness。。。 I。。。 I said such awful things to you。。。\nMore importantly、 I can never forgive myself for having the darkness in my heart hurt you。。。!\nYou expect me to just sit back and let you get away with what you are saying!? I am gonna become the Maiden of Light!!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWhy you little。。。 You are still going on about that。。。!\nPrier!!! Thank goodness。。。 I。。。 I said such awful things to you。。。\nMore importantly、 I can never forgive myself for having the darkness in my heart hurt you。。。!\nYou expect me to just sit back and let you get away with what you are saying!? I am gonna become the Maiden of Light!!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nNo need to worry about it、 Culotte。 I understand that you were just joking around、 after all。。。",
+  "respuesta": "No hay necesidad de preocuparse por eso, Culotte. Entiendo que solo estabas bromeando, después de todo…",
+  "fin": "stop",
+  "segundos": 4.2,
+  "uso": {
+    "completion_tokens": 29,
+    "prompt_tokens": 396,
+    "total_tokens": 425,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "3f33cd474a2b14efbbd6",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 96829,
+      "entry_id": 1607,
+      "original_hex": [
+        "826d828f8140828e82858285828481408294828f81408297828f829282928299",
+        "82818282828f829582948140828982948141814082628295828c828f8294829482858142",
+        "826881408295828e828482858292829382948281828e82848140829482888281829481408299828f8295",
+        "82978285829282858140828a8295829382948140828a828f828b8289828e8287814082818292828f8295828e82848141",
+        "8281828682948285829281408281828c828c814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Why you little。。。 You are still going on about that。。。!",
+        "Prier!!! Thank goodness。。。 I。。。 I said such awful things to you。。。",
+        "More importantly、 I can never forgive myself for having the darkness in my heart hurt you。。。!",
+        "You expect me to just sit back and let you get away with what you are saying!? I am gonna become the Maiden of Light!!!"
+      ]
+    }
+  ]
+}

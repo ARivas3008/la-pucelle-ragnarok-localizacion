@@ -1,0 +1,41 @@
+{
+  "original": "You said that me becoming a Demon Lord was more fitting than becoming the Maiden of Light!!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThe Maiden。。。 of Light。。。\nThat is quite a line coming from you、 Culotte! You were the one who said it first、 after all。。。\nThat is not what I meant。。。! I。。。 I did not mean it like。。。\nYou do not need to make excuses。 You were correct、 after all。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThe Maiden。。。 of Light。。。\nThat is quite a line coming from you、 Culotte! You were the one who said it first、 after all。。。\nThat is not what I meant。。。! I。。。 I did not mean it like。。。\nYou do not need to make excuses。 You were correct、 after all。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou said that me becoming a Demon Lord was more fitting than becoming the Maiden of Light!!",
+  "respuesta": "Dijiste que ser yo un Señor Demonio era más apropiado que ser la Doncella de la Luz… ¡Eso es una tontería, Culotte! Tú fuiste quien lo dijo primero, después de todo… Pero eso no es lo que quise decir… No quería decir eso. No necesitas excusarte. Tienes razón, después de todo.",
+  "fin": "stop",
+  "segundos": 7.69,
+  "uso": {
+    "completion_tokens": 88,
+    "prompt_tokens": 382,
+    "total_tokens": 470,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "45d2c86f0cf6d87c5b83",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 94749,
+      "entry_id": 1607,
+      "original_hex": [
+        "8278828f829581408293828182898284814082948288828182948140828d8285",
+        "828282858283828f828d8289828e828781408281814082638285828d828f828e",
+        "826b828f8292828481408297828182938140828d828f82928285814082868289829482948289828e8287",
+        "829482888281828e8140828282858283828f828d8289828e82878140829482888285",
+        "826c8281828982848285828e8140828f82868140826b828982878288829481498149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "The Maiden。。。 of Light。。。",
+        "That is quite a line coming from you、 Culotte! You were the one who said it first、 after all。。。",
+        "That is not what I meant。。。! I。。。 I did not mean it like。。。",
+        "You do not need to make excuses。 You were correct、 after all。。。"
+      ]
+    }
+  ]
+}

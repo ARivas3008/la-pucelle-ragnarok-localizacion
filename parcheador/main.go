@@ -1,4 +1,4 @@
-// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.13.0.
+// La Pucelle Ragnarok - Parcheador con interfaz grafica Windows v0.19.0-integracion.
 // No contiene el juego, DLC ni recursos comerciales: solo scripts y mapas.
 package main
 
@@ -26,7 +26,7 @@ import (
 //go:embed resources.tar.gz gui.ps1
 var resources embed.FS
 
-const version = "0.13.0"
+const version = "0.19.0-integracion"
 const pythonDownload = "https://www.python.org/ftp/python/3.11.9/python-3.11.9-embed-amd64.zip"
 const maxDownload = 35 << 20
 
@@ -77,18 +77,20 @@ func workDir() (string, error) {
 			return "", err
 		}
 	}
-	return filepath.Join(base, "LaPucelleES", "app_v0_13_0"), nil
+	return filepath.Join(base, "LaPucelleES", "app_v0_19_0_integracion"), nil
 }
 func extractEmbedded(base string) error {
+	content, err := resources.ReadFile("resources.tar.gz")
+	if err != nil {
+		return err
+	}
+	archiveHash := sha256.Sum256(content)
+	identity := version + ":" + hex.EncodeToString(archiveHash[:])
 	stamp := filepath.Join(base, ".version")
-	if b, err := os.ReadFile(stamp); err == nil && strings.TrimSpace(string(b)) == version && isFile(filepath.Join(base, "scripts", "construir_parche.py")) && isFile(filepath.Join(base, "datos", "mapa_26258_unidades.csv")) && isFile(filepath.Join(base, "scripts", "nis_lzs_pack.exe")) {
+	if b, err := os.ReadFile(stamp); err == nil && strings.TrimSpace(string(b)) == identity && isFile(filepath.Join(base, "scripts", "construir_parche.py")) && isFile(filepath.Join(base, "datos", "mapa_26258_unidades.csv")) && isFile(filepath.Join(base, "scripts", "nis_lzs_pack.exe")) {
 		return nil
 	}
 	if err := os.MkdirAll(base, 0755); err != nil {
-		return err
-	}
-	content, err := resources.ReadFile("resources.tar.gz")
-	if err != nil {
 		return err
 	}
 	g, err := gzip.NewReader(bytes.NewReader(content))
@@ -126,7 +128,7 @@ func extractEmbedded(base string) error {
 			return e
 		}
 	}
-	return os.WriteFile(stamp, []byte(version), 0644)
+	return os.WriteFile(stamp, []byte(identity), 0644)
 }
 func runCmd(name string, args ...string) (string, error) {
 	c := exec.Command(name, args...)
@@ -264,10 +266,13 @@ type GUIConfig struct {
 	DLC           string `json:"dlc"`
 	Output        string `json:"output"`
 	FontOnly      bool   `json:"fontOnly"`
+	PreserveEBOOT bool   `json:"preserveEboot"`
 	Investigation bool   `json:"investigation"`
 	Segment       bool   `json:"segment"`
 	Atlas         bool   `json:"atlas"`
 	Reductions    bool   `json:"reductions"`
+	Scripts       bool   `json:"scripts"`
+	ScriptMode    string `json:"scriptMode"`
 	Log           string `json:"log"`
 }
 
@@ -326,52 +331,183 @@ func runWorker(configPath string) (err error) {
 	if e := extractEmbedded(base); e != nil {
 		return fmt.Errorf("extracción del motor: %w", e)
 	}
+	if e := selfTest(); e != nil {
+		return e
+	}
 	fmt.Println("Comprobando Python portátil...")
 	py, isLauncher, e := getPython()
 	if e != nil {
 		return fmt.Errorf("Python: %w", e)
 	}
-	args := []string{filepath.Join(base, "scripts", "construir_parche.py"), "--salida", cfg.Output}
+	args := []string{filepath.Join(base, "scripts", "integracion_total.py"), "--salida", cfg.Output, "--repo-directorio", base}
 	if cfg.ISO != "" {
 		args = append(args, "--iso", cfg.ISO)
 	}
 	if cfg.DLC != "" {
 		args = append(args, "--dlc-directorio", cfg.DLC)
 	}
-	if cfg.FontOnly {
-		args = append(args, "--solo-fuentes")
-	} else {
-		args = append(args, "--descargar-revisiones")
-	}
-	if cfg.Investigation && !cfg.FontOnly {
-		args = append(args, "--incluir-investigacion")
-	}
-	if !cfg.FontOnly {
-		args = append(args, "--dialogos-atomicos")
-	}
-	if cfg.Segment && !cfg.FontOnly {
-		args = append(args, "--segmentar-conservador")
-	}
-	if cfg.Atlas {
-		args = append(args, "--atlas-ui")
-	}
-	if cfg.Reductions && !cfg.FontOnly {
-		args = append(args, "--reducciones-verificadas")
-	}
 	if isLauncher {
 		args = append([]string{"-3"}, args...)
 	}
-	fmt.Println("Aplicando fuentes y revisión de diálogos...")
+	fmt.Println("Aplicando corpus revisado, diálogos completos y menús...")
 	cmd := exec.Command(py, args...)
 	cmd.Dir = base
 	cmd.Env = append(os.Environ(), "PYTHONUTF8=1", "PYTHONUNBUFFERED=1", "PYTHONIOENCODING=utf-8")
 	cmd.Stdout = os.Stdout
 	cmd.Stderr = os.Stderr
 	if e := cmd.Run(); e != nil {
-		return fmt.Errorf("el motor de parcheo terminó con error: %w", e)
+		return fmt.Errorf("el motor de integración terminó con error: %w", e)
 	}
-	fmt.Println("Proceso completado. Revisa el archivo resumen.json y el reporte.")
+	fmt.Println("Archivos generados en JUEGO_PARA_PPSSPP. Consulta informes: la traducción y la validación visual siguen en curso.")
 	return nil
+}
+
+// prepareFinalDelivery reúne las salidas de la segunda fase sin asumir que
+// todos los DLC hayan cambiado. Un DLC no modificado en v0.14 NO produce
+// archivo DLC_XX_SCRIPT_V014_EXPERIMENTAL.EDAT; se conserva el EDAT de v0.13.
+// El informe JSON del integrador es la autoridad para decidir cuál usar.
+// La carpeta final se publica atómicamente, una vez validados los 5 recursos.
+func prepareFinalDelivery(cfg GUIConfig, inputISO, stagedDLC, scriptOut string) (string, error) {
+	summaryPath := filepath.Join(scriptOut, "resumen_script_v014.json")
+	blob, e := os.ReadFile(summaryPath)
+	if e != nil {
+		return "", fmt.Errorf("no se pudo leer el informe de scripts %s: %w", summaryPath, e)
+	}
+	var report map[string]json.RawMessage
+	if e := json.Unmarshal(blob, &report); e != nil {
+		return "", fmt.Errorf("informe JSON de scripts inválido: %w", e)
+	}
+	type candidate struct{ src, dest, key, status string }
+	tasks := make([]candidate, 0, 5)
+	selectSource := func(key, fallback string) (string, string, error) {
+		if value, exists := report[key]; exists {
+			var declared string
+			if e := json.Unmarshal(value, &declared); e != nil || declared == "" {
+				return "", "", fmt.Errorf("%s reporta una ruta inválida en %s", key, summaryPath)
+			}
+			if !isFile(declared) {
+				return "", "", fmt.Errorf("%s fue declarado modificado, pero no existe %s", key, declared)
+			}
+			return declared, "reconstruido_con_scripts", nil
+		}
+		if fallback == "" || !isFile(fallback) {
+			return "", "", fmt.Errorf("%s no fue reconstruido y falta la copia preliminar %s", key, fallback)
+		}
+		return fallback, "conservado_de_fase_preliminar_sin_cambios_de_scripts", nil
+	}
+	if cfg.ISO != "" {
+		src, status, e := selectSource("iso", inputISO)
+		if e != nil {
+			return "", e
+		}
+		tasks = append(tasks, candidate{src: src, dest: "La_Pucelle_Ragnarok_ES_V0183_PRUEBA_PPSSPP.iso", key: "ISO", status: status})
+	}
+	if cfg.DLC != "" {
+		for n := 0; n < 4; n++ {
+			key := fmt.Sprintf("DLC_%02d", n)
+			fallback := filepath.Join(stagedDLC, fmt.Sprintf("DL_JP_%02d.EDAT", n))
+			src, status, e := selectSource(key, fallback)
+			if e != nil {
+				return "", e
+			}
+			tasks = append(tasks, candidate{src: src, dest: filepath.Join("ULJS00244", fmt.Sprintf("DL_JP_%02d.EDAT", n)), key: key, status: status})
+		}
+	}
+	if len(tasks) == 0 {
+		return "", errors.New("no hay archivos ISO/DLC para entregar")
+	}
+	// Prevalidar TODOS antes de crear cualquier archivo final.
+	for _, t := range tasks {
+		st, e := os.Stat(t.src)
+		if e != nil || st.IsDir() || st.Size() == 0 {
+			return "", fmt.Errorf("recurso final %s ausente, vacío o inaccesible: %s", t.key, t.src)
+		}
+	}
+	finalDir := filepath.Join(cfg.Output, "JUEGO_PARA_PPSSPP_V0183")
+	staging := finalDir + ".en_construccion"
+	if _, e := os.Stat(finalDir); e == nil {
+		return "", fmt.Errorf("ya existe %s; usa otra carpeta de salida para no mezclar versiones", finalDir)
+	} else if !errors.Is(e, os.ErrNotExist) {
+		return "", e
+	}
+	if _, e := os.Stat(staging); e == nil {
+		return "", fmt.Errorf("quedó una salida incompleta en %s; elimínala después de revisar su contenido", staging)
+	} else if !errors.Is(e, os.ErrNotExist) {
+		return "", e
+	}
+	if e := os.MkdirAll(staging, 0755); e != nil {
+		return "", e
+	}
+	defer os.RemoveAll(staging) // Solo se ejecuta sobre ruta temporal, nunca fuentes.
+	type record struct {
+		Recurso string `json:"recurso"`
+		Estado  string `json:"estado"`
+		Nombre  string `json:"nombre"`
+		Bytes   int64  `json:"bytes"`
+	}
+	records := make([]record, 0, len(tasks))
+	for _, t := range tasks {
+		dest := filepath.Join(staging, t.dest)
+		if e := os.MkdirAll(filepath.Dir(dest), 0755); e != nil {
+			return "", e
+		}
+		in, e := os.Open(t.src)
+		if e != nil {
+			return "", e
+		}
+		out, e := os.OpenFile(dest, os.O_CREATE|os.O_EXCL|os.O_WRONLY, 0644)
+		if e != nil {
+			in.Close()
+			return "", e
+		}
+		n, e := io.Copy(out, in)
+		inClose := in.Close()
+		syncErr := out.Sync()
+		closeErr := out.Close()
+		if e != nil {
+			return "", fmt.Errorf("copiando %s: %w", t.key, e)
+		}
+		if inClose != nil {
+			return "", inClose
+		}
+		if syncErr != nil {
+			return "", syncErr
+		}
+		if closeErr != nil {
+			return "", closeErr
+		}
+		if n == 0 {
+			return "", fmt.Errorf("copia vacía de %s", t.key)
+		}
+		records = append(records, record{Recurso: t.key, Estado: t.status, Nombre: t.dest, Bytes: n})
+		fmt.Printf("PREPARADO %s: %s (%s, %d bytes)\n", t.key, t.dest, t.status, n)
+	}
+	details, e := json.MarshalIndent(map[string]any{
+		"version":                     "0.19.0-integracion",
+		"estado":                      "archivos entregados estructuralmente; PPSSPP NO validado",
+		"fuente_script":               summaryPath,
+		"diagnostico_conservar_eboot": cfg.PreserveEBOOT,
+		"recursos":                    records,
+	}, "", "  ")
+	if e != nil {
+		return "", e
+	}
+	if e := os.WriteFile(filepath.Join(staging, "INFORME_ENTREGA_V0183.json"), details, 0644); e != nil {
+		return "", e
+	}
+	note := "La Pucelle ES v0.18.3 — SALIDA DE PRUEBAS PPSSPP\n" +
+		"Abrir la ISO de esta carpeta y copiar a PSP/GAME/ULJS00244 los DLC generados.\n" +
+		"Se conservó el DLC preliminar cuando la etapa de scripts no produjo cambios.\n" +
+		"Consulta INFORME_ENTREGA_V0183.json para conocer cada caso.\n" +
+		"No usar la ISO *_PRELIMINAR.iso; no se han sobrescrito originales.\n" +
+		"Esta compilación no certifica el 100% de traducción ni ausencia de fallos visuales.\n"
+	if e := os.WriteFile(filepath.Join(staging, "LEEME_PRUEBA_PPSSPP.txt"), []byte(note), 0644); e != nil {
+		return "", e
+	}
+	if e := os.Rename(staging, finalDir); e != nil {
+		return "", fmt.Errorf("no se pudo confirmar la carpeta final: %w", e)
+	}
+	return finalDir, nil
 }
 
 func selfTest() error {
@@ -382,7 +518,7 @@ func selfTest() error {
 	if e := extractEmbedded(base); e != nil {
 		return e
 	}
-	for _, p := range []string{"scripts/construir_parche.py", "scripts/subtitulos_script.py", "scripts/fuentes_es.py", "scripts/segmentacion.py", "scripts/nis_lzs_pack.exe", "datos/mapa_26258_unidades.csv", "datos/propuestas_reduccion_v012.csv", "datos/ajustes_reducciones_v013.csv", "scripts/integracion_v013.py"} {
+	for _, p := range []string{"scripts/integracion_total.py", "scripts/recompilar_talk.py", "datos/tablas_base_deltas.json.z", "datos/segmentos_hymt2_aprobados.json", "scripts/construir_parche.py", "scripts/subtitulos_script.py", "scripts/fuentes_es.py", "scripts/segmentacion.py", "scripts/nis_lzs_pack.exe", "datos/mapa_26258_unidades.csv", "datos/propuestas_reduccion_v012.csv", "datos/ajustes_reducciones_v013.csv", "scripts/integracion_v013.py", "investigacion/v0.14/integrar_scripts_v014.py", "investigacion/v0.12/reubicador_anclas_v012.py", "datos/estado_unificado_66.csv", "datos/fuentes_editoriales.json", "corpus/01/revision.csv", "corpus/15/revision.csv"} {
 		if !isFile(filepath.Join(base, p)) {
 			return fmt.Errorf("falta el recurso %s", p)
 		}
@@ -396,7 +532,32 @@ func selfTest() error {
 	if _, e := io.Copy(h, f); e != nil {
 		return e
 	}
-	fmt.Println("Autotest OK, SHA256 manifiesto:", hex.EncodeToString(h.Sum(nil)))
+
+	metadata, err := os.ReadFile(filepath.Join(base, "datos", "fuentes_editoriales.json"))
+	if err != nil {
+		return err
+	}
+	var snapshot struct {
+		SHA256 map[string]string `json:"sha256"`
+	}
+	if err := json.Unmarshal(metadata, &snapshot); err != nil {
+		return err
+	}
+	if len(snapshot.SHA256) != 15 {
+		return errors.New("snapshot editorial incompleto")
+	}
+	for n := 1; n <= 15; n++ {
+		rel := fmt.Sprintf("corpus/%02d/revision.csv", n)
+		data, err := os.ReadFile(filepath.Join(base, filepath.FromSlash(rel)))
+		if err != nil {
+			return err
+		}
+		sum := sha256.Sum256(data)
+		if hex.EncodeToString(sum[:]) != snapshot.SHA256[rel] {
+			return fmt.Errorf("revisión alterada: %s", rel)
+		}
+	}
+	fmt.Println("Autotest OK, 15 revisiones íntegras; SHA256 manifiesto:", hex.EncodeToString(h.Sum(nil)))
 	return nil
 }
 

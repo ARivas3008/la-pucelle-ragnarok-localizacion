@@ -1,0 +1,41 @@
+{
+  "original": "Correct。 The light in your heart you lost when turning into the Demon Lord。。。 That would be me。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI was really worried about what might have happened if I would have lost you。\nYou are the precious light in my heart、 after all。\nAnd once again、 we have become one。 Just like when you decided you wanted to become the Maiden of Light in the caves back at Vinaigrette。\nThat is why you looked deep within your heart and called out to me? Telling me not to forget。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI was really worried about what might have happened if I would have lost you。\nYou are the precious light in my heart、 after all。\nAnd once again、 we have become one。 Just like when you decided you wanted to become the Maiden of Light in the caves back at Vinaigrette。\nThat is why you looked deep within your heart and called out to me? Telling me not to forget。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nCorrect。 The light in your heart you lost when turning into the Demon Lord。。。 That would be me。",
+  "respuesta": "Correcto. La luz en tu corazón que perdiste al convertirte en el Señor Demonio… Eso sería yo.",
+  "fin": "stop",
+  "segundos": 4.14,
+  "uso": {
+    "completion_tokens": 33,
+    "prompt_tokens": 401,
+    "total_tokens": 434,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "646822c50b3e8873b561",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 86753,
+      "entry_id": 1808,
+      "original_hex": [
+        "8262828f82928292828582838294814281408273828882858140828c828982878288829481408289828e",
+        "8299828f8295829281408288828582818292829481408299828f82958140828c828f82938294",
+        "829782888285828e8140829482958292828e8289828e828781408289828e8294828f",
+        "829482888285814082638285828d828f828e8140826b828f82928284814281428142",
+        "827382888281829481408297828f8295828c82848140828282858140828d82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I was really worried about what might have happened if I would have lost you。",
+        "You are the precious light in my heart、 after all。",
+        "And once again、 we have become one。 Just like when you decided you wanted to become the Maiden of Light in the caves back at Vinaigrette。",
+        "That is why you looked deep within your heart and called out to me? Telling me not to forget。。。"
+      ]
+    }
+  ]
+}

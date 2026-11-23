@@ -1,0 +1,42 @@
+{
+  "original": "Hey now。  You are getting a bit TOO fired up。 How is he supposed to talk if you grab him like that?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nHm? Looks like you are getting a bit fired up now。\nI told you to tell me every darn detail that you know about this girl who is calling herself Demon Lord Prier! \nI am sorry for how rude she acted、 Captain Homard。 But please、 would you mind telling us what you know?\nGuess I have no choice since Sister Alouette asked nicely。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nHm? Looks like you are getting a bit fired up now。\nI told you to tell me every darn detail that you know about this girl who is calling herself Demon Lord Prier! \nI am sorry for how rude she acted、 Captain Homard。 But please、 would you mind telling us what you know?\nGuess I have no choice since Sister Alouette asked nicely。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nHey now。  You are getting a bit TOO fired up。 How is he supposed to talk if you grab him like that?",
+  "respuesta": "Oye, ahora. Estás emocionándote un poco demasiado. ¿Cómo puede hablar si lo agarras de esa manera?",
+  "fin": "stop",
+  "segundos": 4.79,
+  "uso": {
+    "completion_tokens": 35,
+    "prompt_tokens": 401,
+    "total_tokens": 436,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "b7793145ca472fd40345",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 76080,
+      "entry_id": 1603,
+      "original_hex": [
+        "8267828582998140828e828f829781428140",
+        "8278828f82958140828182928285814082878285829482948289828e8287814082818140828282898294",
+        "8273826e826e8140828682898292828582848140829582908142",
+        "8267828f829781408289829381408288828581408293829582908290828f829382858284",
+        "8294828f814082948281828c828b81408289828681408299828f829581408287829282818282814082888289828d",
+        "828c8289828b8285814082948288828182948148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Hm? Looks like you are getting a bit fired up now。",
+        "I told you to tell me every darn detail that you know about this girl who is calling herself Demon Lord Prier! ",
+        "I am sorry for how rude she acted、 Captain Homard。 But please、 would you mind telling us what you know?",
+        "Guess I have no choice since Sister Alouette asked nicely。"
+      ]
+    }
+  ]
+}

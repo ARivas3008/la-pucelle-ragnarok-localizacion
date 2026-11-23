@@ -69,7 +69,7 @@
 3028,Mapa del mundo,revisado,Cotejado con el original y su contexto inmediato; etiqueta de interfaz/topónimo/clase correcta sin ajustes necesarios.,
 3029,Ciudad de Pot-au-Feu,revisado,Topónimo Pot-au-Feu fijado en glosario; se añade preposición idiomática española.,
 3030,Puerto Mayonesa,revisado,"Topónimo de juego gastronómico: Port Mayonnaise => Puerto Mayonesa, sin alterar el lugar.",
-3031,Estómago del Diablo,revisado,Devils Stomach se normaliza como Estómago del Diablo; se mantiene el sentido anatómico del topónimo.,
+3031,Panza del Diablo,revisado,Devils Stomach se normaliza como Estómago del Diablo; se mantiene el sentido anatómico del topónimo.,
 3032,Castillo de Montblanc,revisado,Castillo de Montblanc: construcción española idiomática sin traducir Montblanc.,
 3033,Plaza Minka,revisado,Minka se conserva como nombre propio; Place se adapta a plaza.,
 3034,Bosque Meunière,revisado,Meunière se conserva como nombre propio francés del bosque.,
@@ -320,7 +320,7 @@
 3279,Inventario lleno,revisado,Contrastado con original y contexto inmediato; se mantiene la versión previa por precisión y naturalidad.,
 3280,No se ha conseguido,revisado,Contrastado con original y contexto inmediato; se mantiene la versión previa por precisión y naturalidad.,
 3281,Objetos de recompensa,revisado,Contrastado con original y contexto inmediato; se mantiene la versión previa por precisión y naturalidad.,
-1077,Estómago del Diablo,revisado,La localización del mapa japonés 悪魔の胃袋 concuerda con Estómago del Diablo ya utilizado en interfaz.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
+1077,Panza del Diablo,revisado,La localización del mapa japonés 悪魔の胃袋 concuerda con Estómago del Diablo ya utilizado en interfaz.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 1078,Cementerio de los necios,revisado,墓場 designa cementerio/necrópolis; el borrador «Tumba» lo singularizaba indebidamente. «愚者たち» es plural: los necios.,https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 1079,Sala de los muertos,revisado,"死者の集会所 es el lugar de reunión de los muertos; se usa una denominación breve, equivalente a Hall of the Dead.",https://www.neoseeker.com/la-pucelle/faqs/78770-a.html
 1080,Cuarto del encargado,revisado,"管理人 significa encargado/cuidador, no necesariamente guardián. Se corrige el cargo del original.",
@@ -420,7 +420,7 @@
 1174,Pasillo de las tinieblas,revisado,"闇落の回廊 sugiere corredor hacia/caído en la oscuridad; se opta por una formulación breve conservando su identidad, distinta de la entrada 1173.",
 1175,Oscuridad y más oscuridad,revisado,"Cotejado con el nombre japonés, la lista inglesa paralela y los mapas vecinos; ajuste de significado y naturalidad cuando corresponde.",
 1176,Mundo Oscuro,revisado,"魔界 se traduce según glosario como Mundo Oscuro, no Infierno (Hell en archivo inglés).",glosario/terminos_investigados.csv
-13926,Estómago del Diablo,revisado,Se reutiliza la denominación ya aprobada para 悪魔の胃袋 en grupo 1077.,corpus/01/revision.csv:grupo_id=1077
+13926,Panza del Diablo,revisado,Se reutiliza la denominación ya aprobada para 悪魔の胃袋 en grupo 1077.,corpus/01/revision.csv:grupo_id=1077
 13927,Cementerio de los necios,revisado,"«Grave» es singular en inglés, pero el topónimo japonés 墓場 significa cementerio y ya se revisó como Cementerio de los necios (1078).",corpus/01/revision.csv:grupo_id=1078
 13928,Sala de los muertos,revisado,El nombre inglés se contrastó con el japonés del grupo 1079 y su traducción aprobada; se conserva idéntico topónimo para el mismo lugar.,
 13929,Cuarto del encargado,revisado,Caretakers Room es literalmente Cuarto del encargado; referencia al original japonés 管理人部屋 (1080).,corpus/01/revision.csv:grupo_id=1080
@@ -654,7 +654,7 @@
 133,Camino de las setas,revisado,"キノコロード = camino de las setas; rótulo de mapa, no una ruta técnica o comando.",
 134,Mapa del mundo,revisado,"Cotejado con el nombre original ワールドマップ y los nombres contiguos; rótulo de personaje, monstruo o escenario conservado/adaptado sin alterar la identidad.",
 135,Enfermería de la Santa Doncella,revisado,聖女会病棟: enfermería de la orden de la Santa Doncella; se restituye el referente institucional.,
-136,Habitación del padre Salade,revisado,サラド神父の部屋: habitación del padre Salade. «Oficina» inventaba una función no expresada.,
+136,Cuarto de Salade,revisado,サラド神父の部屋: habitación del padre Salade. «Oficina» inventaba una función no expresada.,
 137,Interior de la catedral,revisado,聖女会大聖堂内: interior de la catedral de la Santa Doncella; se acorta manteniendo la relación con 138.,
 138,Frente a la catedral,revisado,"聖女会大聖堂前: zona frente a la catedral, no simplemente «Iglesia» como el borrador.",
 139,Tienda de udon Yamasemi,revisado,うどん屋やませみ: restaurante/tienda de udon llamado Yamasemi; se recupera el nombre propio que omitía el borrador.,glosario/terminos_investigados.csv
@@ -807,8 +807,8 @@
 12931,Oscuridad del corazón,revisado,"Dark Mind se alinea con 心の闇 «Oscuridad del corazón», grupo 132; el japonés no habla de una mente literal.",glosario/terminos_investigados.csv
 12932,Camino de las setas,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
 12933,Mapa del mundo,revisado,Nombre o categoría cotejado con su original y la lista paralela. Mantiene la identidad del personaje o la función textual.,glosario/terminos_investigados.csv
-12934,Enfermería de la Santa Doncella,revisado,"Infirmary se refiere a 聖女会病棟, enfermería de la Santa Doncella, grupo 135; mantener institución del juego.",glosario/terminos_investigados.csv
-12935,Habitación del padre Salade,revisado,Office corresponde a サラド神父の部屋 «Habitación del padre Salade» en grupo 136; evitar función de oficina no expresada por el japonés.,glosario/terminos_investigados.csv
+12934,Enfermería,revisado,"Infirmary se refiere a 聖女会病棟, enfermería de la Santa Doncella, grupo 135; mantener institución del juego.",glosario/terminos_investigados.csv
+12935,Cuarto de Salade,revisado,Office corresponde a サラド神父の部屋 «Habitación del padre Salade» en grupo 136; evitar función de oficina no expresada por el japonés.,glosario/terminos_investigados.csv
 12936,Iglesia,revisado,"Church es genérico en el inglés; no permite decidir si se trata del interior o la entrada de la catedral, dos rótulos japoneses separados. «Iglesia» es fiel al término tal como se presenta aquí.",glosario/terminos_investigados.csv
 12937,Tienda de udon Yamasemi,revisado,Udon Shop omite el nombre comercial Yamasemi que aparece en うどん屋やませみ (grupo 139).,glosario/terminos_investigados.csv
 12938,Tienda Rosenqueen,revisado,Store omite Rosenqueen del japonés ローゼンクイーン商会 (grupo 140); se armoniza el establecimiento.,glosario/terminos_investigados.csv

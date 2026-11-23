@@ -1,0 +1,42 @@
+{
+  "original": "You sure have some guts to say something like that right in front of me。 Do you want me to hit you again?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nIt seems that she has been consumed by the thirst for power。\nA cluster of the desire of strength、 eh? In a way、 this is just like Prier。\nNow、 now。 Calm down、 Prier。\nI do not want to calm down。。。 Trying to feel better and think reasonably do nothing but get in the way。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nIt seems that she has been consumed by the thirst for power。\nA cluster of the desire of strength、 eh? In a way、 this is just like Prier。\nNow、 now。 Calm down、 Prier。\nI do not want to calm down。。。 Trying to feel better and think reasonably do nothing but get in the way。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou sure have some guts to say something like that right in front of me。 Do you want me to hit you again?",
+  "respuesta": "Tienes mucha valentía al decir algo así justo frente a mí. ¿Quieres que te golpee de nuevo?",
+  "fin": "stop",
+  "segundos": 3.69,
+  "uso": {
+    "completion_tokens": 30,
+    "prompt_tokens": 389,
+    "total_tokens": 419,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "fc2277ebc9f42bf5a715",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 74414,
+      "entry_id": 1705,
+      "original_hex": [
+        "8278828f8295814082938295829282858140828882818296828581408293828f828d8285",
+        "828782958294829381408294828f814082938281829981408293828f828d8285829482888289828e8287",
+        "828c8289828b82858140829482888281829481408292828982878288829481408289828e814082868292828f828e8294",
+        "828f82868140828d82858142",
+        "8263828f81408299828f8295814082978281828e82948140828d828581408294828f",
+        "82888289829481408299828f829581408281828782818289828e8148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "It seems that she has been consumed by the thirst for power。",
+        "A cluster of the desire of strength、 eh? In a way、 this is just like Prier。",
+        "Now、 now。 Calm down、 Prier。",
+        "I do not want to calm down。。。 Trying to feel better and think reasonably do nothing but get in the way。。。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "original": "Some people in town said they saw white light being sucked into the Devils Stomach。 Listen Prier。。。 Did you conduct a proper investigation there? If I catch you loafing on the job。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI may have to teach you a lesson。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI may have to teach you a lesson。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nSome people in town said they saw white light being sucked into the Devils Stomach。 Listen Prier。。。 Did you conduct a proper investigation there? If I catch you loafing on the job。。。",
+  "respuesta": "Algunas personas en la ciudad dijeron que vieron luz blanca siendo absorbida por el “Estómago del Diablo”. Escucha, Prier… ¿Realizaste una investigación adecuada allí? Si te descubro sin hacer mi trabajo…",
+  "fin": "stop",
+  "segundos": 7.06,
+  "uso": {
+    "completion_tokens": 61,
+    "prompt_tokens": 344,
+    "total_tokens": 405,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "a505c47675e2daa1e100",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 55118,
+      "entry_id": 207111,
+      "original_hex": [
+        "8272828f828d8285814082908285828f8290828c828581408289828e81408294828f8297828e",
+        "8293828182898284814082948288828582998140829382818297814082978288828982948285",
+        "828c82898287828882948140828282858289828e82878140829382958283828b8285828481408289828e8294828f",
+        "82948288828581408263828582968289828c8293814082728294828f828d8281828382888142",
+        "826b8289829382948285828e8140826f8292828982858292814281428142",
+        "82638289828481408299828f829581408283828f828e828482958283829481408281814082908292828f829082858292",
+        "8289828e829682858293829482898287828182948289828f828e8140829482888285829282858148",
+        "826882868140826881408283828182948283828881408299828f82958140828c828f828182868289828e8287",
+        "828f828e81408294828882858140828a828f8282814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I may have to teach you a lesson。。。"
+      ]
+    }
+  ]
+}

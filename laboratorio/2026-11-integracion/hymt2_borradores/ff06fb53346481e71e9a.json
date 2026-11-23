@@ -1,0 +1,39 @@
+{
+  "original": "So I am going to kick your butt and rescue Croix!!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nBut there is one thing I can say!\nYou really piss me off!\nThat is what I think is right!!\nThat is very cute、 Prier。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nBut there is one thing I can say!\nYou really piss me off!\nThat is what I think is right!!\nThat is very cute、 Prier。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nSo I am going to kick your butt and rescue Croix!!",
+  "respuesta": "¡Así que voy a derrotarte y rescatar a Croix!!",
+  "fin": "stop",
+  "segundos": 1.62,
+  "uso": {
+    "completion_tokens": 18,
+    "prompt_tokens": 340,
+    "total_tokens": 358,
+    "prompt_tokens_details": {
+      "cached_tokens": 280
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "ff06fb53346481e71e9a",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 125628,
+      "entry_id": 0,
+      "original_hex": [
+        "8272828f8140826881408281828d81408287828f8289828e828781408294828f8140828b82898283828b",
+        "8299828f829582928140828282958294829481408281828e82848140829282858293828382958285",
+        "82628292828f8289829881498149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "But there is one thing I can say!",
+        "You really piss me off!",
+        "That is what I think is right!!",
+        "That is very cute、 Prier。"
+      ]
+    }
+  ]
+}

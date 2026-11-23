@@ -1,0 +1,35 @@
+{
+  "original": "・No thanks。",
+  "contexto": "Menu selection: keep the translation short. Adjacent lines in the same event:\nWould you like to hire me? I can help you! I will make you a deal。 Only 3、000 prica。 How about it?\n・OK",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nMenu selection: keep the translation short. Adjacent lines in the same event:\nWould you like to hire me? I can help you! I will make you a deal。 Only 3、000 prica。 How about it?\n・OK\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n・No thanks。",
+  "respuesta": "・No, gracias.",
+  "fin": "stop",
+  "segundos": 0.8,
+  "uso": {
+    "completion_tokens": 7,
+    "prompt_tokens": 338,
+    "total_tokens": 345,
+    "prompt_tokens_details": {
+      "cached_tokens": 316
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "acbb4647f1b3bb8b7f17",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 47820,
+      "entry_id": 209302,
+      "original_hex": [
+        "8145826d828f8140829482888281828e828b82938142"
+      ],
+      "opcion": true,
+      "contexto": [
+        "Would you like to hire me? I can help you! I will make you a deal。 Only 3、000 prica。 How about it?",
+        "・OK"
+      ]
+    }
+  ]
+}

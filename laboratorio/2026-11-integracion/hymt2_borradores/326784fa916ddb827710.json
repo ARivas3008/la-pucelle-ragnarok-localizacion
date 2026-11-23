@@ -1,0 +1,41 @@
+{
+  "original": "On top of accepting the darkness in your heart、 you never lost sight of the light、 either。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nSigh。。。 One more step and you would have completely fallen into darkness。。。\nHah! It would be best not to underestimate me。\nHow interesting。 I would not expect any less from myself。\nDarn straight!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nSigh。。。 One more step and you would have completely fallen into darkness。。。\nHah! It would be best not to underestimate me。\nHow interesting。 I would not expect any less from myself。\nDarn straight!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nOn top of accepting the darkness in your heart、 you never lost sight of the light、 either。",
+  "respuesta": "Además de aceptar la oscuridad en tu corazón, nunca perdías de vista la luz.",
+  "fin": "stop",
+  "segundos": 2.73,
+  "uso": {
+    "completion_tokens": 25,
+    "prompt_tokens": 359,
+    "total_tokens": 384,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "326784fa916ddb827710",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 95259,
+      "entry_id": 1809,
+      "original_hex": [
+        "826e828e81408294828f82908140828f828681408281828382838285829082948289828e8287",
+        "8294828882858140828482818292828b828e82858293829381408289828e81408299828f82958292",
+        "82888285828182928294814181408299828f82958140828e82858296828582928140828c828f82938294",
+        "829382898287828882948140828f828681408294828882858140828c82898287828882948141",
+        "8285828982948288828582928142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Sigh。。。 One more step and you would have completely fallen into darkness。。。",
+        "Hah! It would be best not to underestimate me。",
+        "How interesting。 I would not expect any less from myself。",
+        "Darn straight!"
+      ]
+    }
+  ]
+}

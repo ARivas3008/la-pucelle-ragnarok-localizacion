@@ -1,0 +1,36 @@
+{
+  "original": "For us to find out the secret behind the birth of the Dark Prince。。。 This must be the will of Goddess Poitreene。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nFor us to find out the secret behind the birth of the Dark Prince。。。 This must be the will of Goddess Poitreene。。。",
+  "respuesta": "Para que podamos descubrir el secreto detrás del nacimiento del Príncipe Oscuro… Eso debe ser la voluntad de la Diosa Poitreene.",
+  "fin": "stop",
+  "segundos": 3.2,
+  "uso": {
+    "completion_tokens": 40,
+    "prompt_tokens": 321,
+    "total_tokens": 361,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "9f5a580b2d9fa93605d5",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 107422,
+      "entry_id": 280601,
+      "original_hex": [
+        "8265828f829281408295829381408294828f814082868289828e82848140828f829582948140829482888285",
+        "82938285828382928285829481408282828582888289828e82848140829482888285814082828289829282948288",
+        "828f828681408294828882858140826382818292828b8140826f82928289828e82838285814281428142",
+        "82738288828982938140828d8295829382948140828282858140829482888285814082978289828c828c",
+        "828f828681408266828f828482848285829382938140826f828f82898294829282858285828e8285814281428142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

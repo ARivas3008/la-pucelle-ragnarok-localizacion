@@ -1,0 +1,40 @@
+{
+  "original": "Do you think that island down there could be the one he was talking about?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nIt just part of a book written by an adventurer 100 years ago。\nI though it was just something my mother liked、 but。。。\nCould be! Lets go check out that island!\nHair-balls!! We are changing course! Land on that island!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nIt just part of a book written by an adventurer 100 years ago。\nI though it was just something my mother liked、 but。。。\nCould be! Lets go check out that island!\nHair-balls!! We are changing course! Land on that island!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nDo you think that island down there could be the one he was talking about?",
+  "respuesta": "¿Crees que esa isla allá abajo podría ser la misma de la que hablaba él?",
+  "fin": "stop",
+  "segundos": 2.91,
+  "uso": {
+    "completion_tokens": 26,
+    "prompt_tokens": 365,
+    "total_tokens": 391,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "7c4c8686957851d79526",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 120864,
+      "entry_id": 702,
+      "original_hex": [
+        "8263828f81408299828f82958140829482888289828e828b81408294828882818294814082898293828c8281828e8284",
+        "8284828f8297828e81408294828882858292828581408283828f8295828c82848140828282858140829482888285",
+        "828f828e82858140828882858140829782818293814082948281828c828b8289828e8287",
+        "82818282828f829582948148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "It just part of a book written by an adventurer 100 years ago。",
+        "I though it was just something my mother liked、 but。。。",
+        "Could be! Lets go check out that island!",
+        "Hair-balls!! We are changing course! Land on that island!"
+      ]
+    }
+  ]
+}

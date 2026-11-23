@@ -1,0 +1,40 @@
+{
+  "original": "Noir must have been collecting dark energy in order to set the gate in motion again。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThe gods communicated with them、 gave them power to live。\nThat must be the ruins of one of the gates they built to communicate with Calamity。\nYou mean that all of the dark energy in Paprica is concentrated in that gate?\nSo that is how he plans to summon the fallen angel Calamity、 hum?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThe gods communicated with them、 gave them power to live。\nThat must be the ruins of one of the gates they built to communicate with Calamity。\nYou mean that all of the dark energy in Paprica is concentrated in that gate?\nSo that is how he plans to summon the fallen angel Calamity、 hum?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nNoir must have been collecting dark energy in order to set the gate in motion again。",
+  "respuesta": "Seguramente, Noir estaba recolectando energía oscura para poder activar nuevamente esa puerta.",
+  "fin": "stop",
+  "segundos": 2.92,
+  "uso": {
+    "completion_tokens": 26,
+    "prompt_tokens": 378,
+    "total_tokens": 404,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "1a13c79b4605c18b55e6",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 112546,
+      "entry_id": 1201,
+      "original_hex": [
+        "826d828f828982928140828d829582938294814082888281829682858140828282858285828e",
+        "8283828f828c828c8285828382948289828e82878140828482818292828b81408285828e8285829282878299",
+        "8289828e8140828f829282848285829281408294828f8140829382858294814082948288828581408287828182948285",
+        "8289828e8140828d828f82948289828f828e81408281828782818289828e8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "The gods communicated with them、 gave them power to live。",
+        "That must be the ruins of one of the gates they built to communicate with Calamity。",
+        "You mean that all of the dark energy in Paprica is concentrated in that gate?",
+        "So that is how he plans to summon the fallen angel Calamity、 hum?"
+      ]
+    }
+  ]
+}

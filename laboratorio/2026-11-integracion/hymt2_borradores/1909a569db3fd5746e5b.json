@@ -1,0 +1,42 @@
+{
+  "original": "Basically、 there are many parts of me that wish for the power of the Demon Lord。 Well then、 I will be waiting for you。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nFine。 I wonder、 which one of me will you happen to be facing。。。\nWhat!? She increased her numbers!? What is going on here!?\nHey! Wait just a moment!\nThis is all because I had to go and start thinking about the Demon Lord。。。 I am really pathetic。。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nFine。 I wonder、 which one of me will you happen to be facing。。。\nWhat!? She increased her numbers!? What is going on here!?\nHey! Wait just a moment!\nThis is all because I had to go and start thinking about the Demon Lord。。。 I am really pathetic。。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nBasically、 there are many parts of me that wish for the power of the Demon Lord。 Well then、 I will be waiting for you。。。",
+  "respuesta": "Básicamente, hay muchas partes de mí que desean tener los poderes del Señor Demonio. Bueno, entonces, te esperaré…",
+  "fin": "stop",
+  "segundos": 4.02,
+  "uso": {
+    "completion_tokens": 37,
+    "prompt_tokens": 388,
+    "total_tokens": 425,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "1909a569db3fd5746e5b",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 71533,
+      "entry_id": 1704,
+      "original_hex": [
+        "826182818293828982838281828c828c829981418140829482888285829282858140828182928285",
+        "828d8281828e82998140829082818292829482938140828f82868140828d828581408294828882818294",
+        "829782898293828881408286828f8292814082948288828581408290828f8297828582928140828f8286",
+        "829482888285814082638285828d828f828e8140826b828f829282848142",
+        "82768285828c828c8140829482888285828e814181408268814082978289828c828c814082828285",
+        "82978281828982948289828e828781408286828f829281408299828f8295814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Fine。 I wonder、 which one of me will you happen to be facing。。。",
+        "What!? She increased her numbers!? What is going on here!?",
+        "Hey! Wait just a moment!",
+        "This is all because I had to go and start thinking about the Demon Lord。。。 I am really pathetic。。。。"
+      ]
+    }
+  ]
+}

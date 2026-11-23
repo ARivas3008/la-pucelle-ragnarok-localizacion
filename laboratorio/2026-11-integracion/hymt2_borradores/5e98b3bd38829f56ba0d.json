@@ -1,0 +1,36 @@
+{
+  "original": "Angelique is such a kind and gentle person。 You can be the same way at times、 Big Sister。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nAngelique is such a kind and gentle person。 You can be the same way at times、 Big Sister。",
+  "respuesta": "Angelique es una persona muy amable y gentil. A veces, tú también puedes ser así, hermana mayor.",
+  "fin": "stop",
+  "segundos": 2.27,
+  "uso": {
+    "completion_tokens": 28,
+    "prompt_tokens": 318,
+    "total_tokens": 346,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "5e98b3bd38829f56ba0d",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 106571,
+      "entry_id": 280401,
+      "original_hex": [
+        "8260828e82878285828c82898291829582858140828982938140829382958283828881408281",
+        "828b8289828e828481408281828e8284814082878285828e8294828c828581408290828582928293828f828e8142",
+        "8278828f8295814082838281828e8140828282858140829482888285814082938281828d8285",
+        "829782818299814082818294814082948289828d828582938141",
+        "82618289828781408272828982938294828582928142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

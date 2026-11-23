@@ -1,0 +1,39 @@
+{
+  "original": "I can use my powers to help many suffering people。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI mean、 did you not ever resent your powers and hate the people who persecuted you?\nNo、 never。\nThere is nothing better than that。\n。。。。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI mean、 did you not ever resent your powers and hate the people who persecuted you?\nNo、 never。\nThere is nothing better than that。\n。。。。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI can use my powers to help many suffering people。",
+  "respuesta": "Puedo utilizar mis poderes para ayudar a muchas personas que sufren.",
+  "fin": "stop",
+  "segundos": 2.22,
+  "uso": {
+    "completion_tokens": 21,
+    "prompt_tokens": 338,
+    "total_tokens": 359,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "1055eac5927eb4b1224f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 139501,
+      "entry_id": 1007,
+      "original_hex": [
+        "8268814082838281828e81408295829382858140828d829981408290828f8297828582928293",
+        "8294828f814082888285828c82908140828d8281828e829981408293829582868286828582928289828e8287",
+        "82908285828f8290828c82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I mean、 did you not ever resent your powers and hate the people who persecuted you?",
+        "No、 never。",
+        "There is nothing better than that。",
+        "。。。。。。"
+      ]
+    }
+  ]
+}

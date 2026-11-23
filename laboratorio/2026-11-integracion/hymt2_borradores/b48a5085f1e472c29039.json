@@ -1,0 +1,38 @@
+{
+  "original": "A very straightforward answer indeed。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThat is what I think is right!!\nThat is very cute、 Prier。\nBut、 I am afraid we were incompatible from the start。\nWe were fated to come together this way、 to fight for what we believe in。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThat is what I think is right!!\nThat is very cute、 Prier。\nBut、 I am afraid we were incompatible from the start。\nWe were fated to come together this way、 to fight for what we believe in。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nA very straightforward answer indeed。。。",
+  "respuesta": "Una respuesta realmente sencilla, sin duda.",
+  "fin": "stop",
+  "segundos": 1.5,
+  "uso": {
+    "completion_tokens": 15,
+    "prompt_tokens": 347,
+    "total_tokens": 362,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "b48a5085f1e472c29039",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 125874,
+      "entry_id": 0,
+      "original_hex": [
+        "8260814082968285829282998140829382948292828182898287828882948286828f82928297828182928284",
+        "8281828e829382978285829281408289828e8284828582858284814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "That is what I think is right!!",
+        "That is very cute、 Prier。",
+        "But、 I am afraid we were incompatible from the start。",
+        "We were fated to come together this way、 to fight for what we believe in。"
+      ]
+    }
+  ]
+}

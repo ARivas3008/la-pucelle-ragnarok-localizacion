@@ -1,0 +1,39 @@
+{
+  "original": "Now that you mention it、 the people here seem kind of pale。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nNo。 The dark energies influencing this area are terribly intense。\nThey are causing this  strange weather。\nThose are not people。\nIs it a trap?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nNo。 The dark energies influencing this area are terribly intense。\nThey are causing this  strange weather。\nThose are not people。\nIs it a trap?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nNow that you mention it、 the people here seem kind of pale。。。",
+  "respuesta": "Ahora que lo mencionas, las personas de aquí parecen un poco pálidas…",
+  "fin": "stop",
+  "segundos": 2.31,
+  "uso": {
+    "completion_tokens": 22,
+    "prompt_tokens": 339,
+    "total_tokens": 361,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "1a1aa7c8a8893e5f66ce",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 121341,
+      "entry_id": 1002,
+      "original_hex": [
+        "826d828f82978140829482888281829481408299828f82958140828d8285828e82948289828f828e",
+        "8289829481418140829482888285814082908285828f8290828c828581408288828582928285",
+        "829382858285828d8140828b8289828e82848140828f8286814082908281828c8285814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "No。 The dark energies influencing this area are terribly intense。",
+        "They are causing this  strange weather。",
+        "Those are not people。",
+        "Is it a trap?"
+      ]
+    }
+  ]
+}

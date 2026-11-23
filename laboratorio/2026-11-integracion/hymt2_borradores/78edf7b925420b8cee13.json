@@ -1,0 +1,40 @@
+{
+  "original": "Tell me about it、 Father! That is why I kicked all their butts! Hahahaha!!!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nHahahahaha!!! A demon hunter given the title Demon Lord!? This must be some kind of joke、 right、 Prier!?\nWait、 this is no laughing matter! Who is responsible for this mess!!?\nI am terribly sorry、 Father Salade。 Even though I was with them、 something as shameful as this has。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nHahahahaha!!! A demon hunter given the title Demon Lord!? This must be some kind of joke、 right、 Prier!?\nWait、 this is no laughing matter! Who is responsible for this mess!!?\nI am terribly sorry、 Father Salade。 Even though I was with them、 something as shameful as this has。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nTell me about it、 Father! That is why I kicked all their butts! Hahahaha!!!",
+  "respuesta": "Dígame, padre. Por eso les pateé los traseros. Jajajajaja!!!",
+  "fin": "stop",
+  "segundos": 3.38,
+  "uso": {
+    "completion_tokens": 23,
+    "prompt_tokens": 389,
+    "total_tokens": 412,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "78edf7b925420b8cee13",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 71006,
+      "entry_id": 1502,
+      "original_hex": [
+        "82738285828c828c8140828d8285814082818282828f829582948140828982948141",
+        "8265828182948288828582928149",
+        "82738288828182948140828982938140829782888299814082688140828b82898283828b8285828481408281828c828c",
+        "829482888285828982928140828282958294829482938149",
+        "82678281828882818288828182888281814981498149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Hahahahaha!!! A demon hunter given the title Demon Lord!? This must be some kind of joke、 right、 Prier!?",
+        "Wait、 this is no laughing matter! Who is responsible for this mess!!?",
+        "I am terribly sorry、 Father Salade。 Even though I was with them、 something as shameful as this has。。。"
+      ]
+    }
+  ]
+}

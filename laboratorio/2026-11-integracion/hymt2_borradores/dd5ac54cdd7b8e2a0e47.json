@@ -1,0 +1,94 @@
+{
+  "original": "Father Salade ordered me to follow a murder suspect who was ripping peoples hearts out。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nSister Olive!\nHow could this happen?\nThe shape changing demon?\nI followed him as far as Mt。 Tarte but then he got the best of me。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nSister Olive!\nHow could this happen?\nThe shape changing demon?\nI followed him as far as Mt。 Tarte but then he got the best of me。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nFather Salade ordered me to follow a murder suspect who was ripping peoples hearts out。",
+  "respuesta": "El padre Salade me ordenó que siguiera a un sospechoso de asesinato que le arrancaba los corazones a las personas.",
+  "fin": "stop",
+  "segundos": 3.4,
+  "uso": {
+    "completion_tokens": 36,
+    "prompt_tokens": 346,
+    "total_tokens": 382,
+    "prompt_tokens_details": {
+      "cached_tokens": 283
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "dd5ac54cdd7b8e2a0e47",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 149476,
+      "entry_id": 213,
+      "original_hex": [
+        "826582818294828882858292814082728281828c8281828482858140828f829282848285829282858284",
+        "828d828581408294828f81408286828f828c828c828f8297814082818140828d82958292828482858292",
+        "8293829582938290828582838294814082978288828f8140829782818293814082928289829082908289828e8287",
+        "82908285828f8290828c8285829381408288828582818292829482938140828f829582948142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Sister Olive!",
+        "How could this happen?",
+        "The shape changing demon?",
+        "I followed him as far as Mt。 Tarte but then he got the best of me。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 136030,
+      "entry_id": 213,
+      "original_hex": [
+        "826582818294828882858292814082728281828c8281828482858140828f829282848285829282858284",
+        "828d828581408294828f81408286828f828c828c828f8297814082818140828d82958292828482858292",
+        "8293829582938290828582838294814082978288828f8140829782818293814082928289829082908289828e8287",
+        "82908285828f8290828c8285829381408288828582818292829482938140828f829582948142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Sister Olive!",
+        "How could this happen?",
+        "The shape changing demon?",
+        "I followed him as far as Mt。 Tarte but then he got the best of me。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 146806,
+      "entry_id": 213,
+      "original_hex": [
+        "826582818294828882858292814082728281828c8281828482858140828f829282848285829282858284",
+        "828d828581408294828f81408286828f828c828c828f8297814082818140828d82958292828482858292",
+        "8293829582938290828582838294814082978288828f8140829782818293814082928289829082908289828e8287",
+        "82908285828f8290828c8285829381408288828582818292829482938140828f829582948142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Sister Olive!",
+        "How could this happen?",
+        "The shape changing demon?",
+        "I followed him as far as Mt。 Tarte but then he got the best of me。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 136788,
+      "entry_id": 213,
+      "original_hex": [
+        "826582818294828882858292814082728281828c8281828482858140828f829282848285829282858284",
+        "828d828581408294828f81408286828f828c828c828f8297814082818140828d82958292828482858292",
+        "8293829582938290828582838294814082978288828f8140829782818293814082928289829082908289828e8287",
+        "82908285828f8290828c8285829381408288828582818292829482938140828f829582948142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Sister Olive!",
+        "How could this happen?",
+        "The shape changing demon?",
+        "I followed him as far as Mt。 Tarte but then he got the best of me。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "original": "However、 this is most likely only temporary。。。 You already know that it is only a matter of time before the darkness consumes me and I try to destroy all of humanity again。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYeah、 it seems so。\nThis cannot be。。。! This is simply not possible。。。 Something this ridiculous cannot be happening。。。\nSo、 Prier。。。 While I am still my normal self、 you should kill me with your own hands。\nCroix。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYeah、 it seems so。\nThis cannot be。。。! This is simply not possible。。。 Something this ridiculous cannot be happening。。。\nSo、 Prier。。。 While I am still my normal self、 you should kill me with your own hands。\nCroix。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nHowever、 this is most likely only temporary。。。 You already know that it is only a matter of time before the darkness consumes me and I try to destroy all of humanity again。",
+  "respuesta": "Sin embargo, es muy probable que esto sea solo temporal. Ya sabes que no pasa de ser cuestión de tiempo antes de que la oscuridad me consuma y vuelva a intentar destruir a toda la humanidad.",
+  "fin": "stop",
+  "segundos": 6.03,
+  "uso": {
+    "completion_tokens": 53,
+    "prompt_tokens": 381,
+    "total_tokens": 434,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "7b2870d1b35faccd2f56",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 110093,
+      "entry_id": 1812,
+      "original_hex": [
+        "8267828f829782858296828582928141814082948288828982938140828982938140828d828f82938294",
+        "828c8289828b8285828c82998140828f828e828c8299814082948285828d8290828f8292828182928299814281428142",
+        "8278828f829581408281828c829282858281828482998140828b828e828f829781408294828882818294",
+        "828982948140828982938140828f828e828c8299814082818140828d828182948294828582928140828f8286",
+        "82948289828d82858140828282858286828f829282858140829482888285",
+        "828482818292828b828e82858293829381408283828f828e82938295828d82858293",
+        "828d828581408281828e828481408268814082948292829981408294828f814082848285829382948292828f8299",
+        "8281828c828c8140828f8286814082888295828d8281828e82898294829981408281828782818289828e8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yeah、 it seems so。",
+        "This cannot be。。。! This is simply not possible。。。 Something this ridiculous cannot be happening。。。",
+        "So、 Prier。。。 While I am still my normal self、 you should kill me with your own hands。",
+        "Croix。。。"
+      ]
+    }
+  ]
+}

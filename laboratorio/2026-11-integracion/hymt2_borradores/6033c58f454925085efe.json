@@ -1,0 +1,82 @@
+{
+  "original": "敵を倒したときのゲージの意味",
+  "contexto": "Menu selection: keep the translation short. Adjacent lines in the same event:\n浄化について\nアイテムの育て方\n魔法のおぼえ方\n魔界からの誘い...¥",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nMenu selection: keep the translation short. Adjacent lines in the same event:\n浄化について\nアイテムの育て方\n魔法のおぼえ方\n魔界からの誘い...¥\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n敵を倒したときのゲージの意味",
+  "respuesta": "El significado del indicador cuando se derrota al enemigo",
+  "fin": "stop",
+  "segundos": 1.94,
+  "uso": {
+    "completion_tokens": 15,
+    "prompt_tokens": 342,
+    "total_tokens": 357,
+    "prompt_tokens_details": {
+      "cached_tokens": 284
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "6033c58f454925085efe",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 19008,
+      "entry_id": 201790,
+      "original_hex": [
+        "934782f0937c82b582bd82c682ab82cc8351815b835782cc88d396a1"
+      ],
+      "opcion": true,
+      "contexto": [
+        "浄化について",
+        "アイテムの育て方",
+        "魔法のおぼえ方",
+        "魔界からの誘い...¥"
+      ]
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 18976,
+      "entry_id": 201790,
+      "original_hex": [
+        "934782f0937c82b582bd82c682ab82cc8351815b835782cc88d396a1"
+      ],
+      "opcion": true,
+      "contexto": [
+        "浄化について",
+        "アイテムの育て方",
+        "魔法のおぼえ方",
+        "魔界からの誘い...¥"
+      ]
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 19200,
+      "entry_id": 201790,
+      "original_hex": [
+        "934782f0937c82b582bd82c682ab82cc8351815b835782cc88d396a1"
+      ],
+      "opcion": true,
+      "contexto": [
+        "浄化について",
+        "アイテムの育て方",
+        "魔法のおぼえ方",
+        "魔界からの誘い...¥"
+      ]
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 19168,
+      "entry_id": 201790,
+      "original_hex": [
+        "934782f0937c82b582bd82c682ab82cc8351815b835782cc88d396a1"
+      ],
+      "opcion": true,
+      "contexto": [
+        "浄化について",
+        "アイテムの育て方",
+        "魔法のおぼえ方",
+        "魔界からの誘い...¥"
+      ]
+    }
+  ]
+}

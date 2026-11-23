@@ -1,0 +1,139 @@
+{
+  "original": "あなたたちの勇気に感服しましたエリ。 そうだエリ! よろしければ、うちの息子の ヨメになっていただけませんかエリ?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nあなたたちの勇気に感服しましたエリ。 そうだエリ! よろしければ、うちの息子の ヨメになっていただけませんかエリ?",
+  "respuesta": "Me han impresionado sus valientes actos, Eli. ¡Sí, Eli! Si está de acuerdo, ¿podría convertirse en la esposa de mi hijo, Yome?",
+  "fin": "stop",
+  "segundos": 5.62,
+  "uso": {
+    "completion_tokens": 47,
+    "prompt_tokens": 340,
+    "total_tokens": 387,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "e37325c996d5be37e3b5",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+      "offset": 67814,
+      "entry_id": 210311,
+      "original_hex": [
+        "82a082c882bd82bd82bf82cc97458b4382c98ab4959e82b582dc82b582bd8347838a8142",
+        "82bb82a482be8347838a8149",
+        "82e682eb82b582af82ea82ce814182a482bf82cc91a78e7182cc",
+        "8388838182c982c882c182c482a282bd82be82af82dc82b982f182a98347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 64715,
+      "entry_id": 210311,
+      "original_hex": [
+        "82a082c882bd82bd82bf82cc97458b4382c98ab4959e82b582dc82b582bd8347838a8142",
+        "82bb82a482be8347838a8149",
+        "82e682eb82b582af82ea82ce814182a482bf82cc91a78e7182cc",
+        "8388838182c982c882c182c482a282bd82be82af82dc82b982f182a98347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 50730,
+      "entry_id": 210311,
+      "original_hex": [
+        "82a082c882bd82bd82bf82cc97458b4382c98ab4959e82b582dc82b582bd8347838a8142",
+        "82bb82a482be8347838a8149",
+        "82e682eb82b582af82ea82ce814182a482bf82cc91a78e7182cc",
+        "8388838182c982c882c182c482a282bd82be82af82dc82b982f182a98347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 68621,
+      "entry_id": 210311,
+      "original_hex": [
+        "82a082c882bd82bd82bf82cc97458b4382c98ab4959e82b582dc82b582bd8347838a8142",
+        "82bb82a482be8347838a8149",
+        "82e682eb82b582af82ea82ce814182a482bf82cc91a78e7182cc",
+        "8388838182c982c882c182c482a282bd82be82af82dc82b982f182a98347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "offset": 68781,
+      "entry_id": 210311,
+      "original_hex": [
+        "82a082c882bd82bd82bf82cc97458b4382c98ab4959e82b582dc82b582bd8347838a8142",
+        "82bb82a482be8347838a8149",
+        "82e682eb82b582af82ea82ce814182a482bf82cc91a78e7182cc",
+        "8388838182c982c882c182c482a282bd82be82af82dc82b982f182a98347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 68621,
+      "entry_id": 210311,
+      "original_hex": [
+        "82a082c882bd82bd82bf82cc97458b4382c98ab4959e82b582dc82b582bd8347838a8142",
+        "82bb82a482be8347838a8149",
+        "82e682eb82b582af82ea82ce814182a482bf82cc91a78e7182cc",
+        "8388838182c982c882c182c482a282bd82be82af82dc82b982f182a98347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 69005,
+      "entry_id": 210311,
+      "original_hex": [
+        "82a082c882bd82bd82bf82cc97458b4382c98ab4959e82b582dc82b582bd8347838a8142",
+        "82bb82a482be8347838a8149",
+        "82e682eb82b582af82ea82ce814182a482bf82cc91a78e7182cc",
+        "8388838182c982c882c182c482a282bd82be82af82dc82b982f182a98347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 51569,
+      "entry_id": 210311,
+      "original_hex": [
+        "82a082c882bd82bd82bf82cc97458b4382c98ab4959e82b582dc82b582bd8347838a8142",
+        "82bb82a482be8347838a8149",
+        "82e682eb82b582af82ea82ce814182a482bf82cc91a78e7182cc",
+        "8388838182c982c882c182c482a282bd82be82af82dc82b982f182a98347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 62102,
+      "entry_id": 210311,
+      "original_hex": [
+        "82a082c882bd82bd82bf82cc97458b4382c98ab4959e82b582dc82b582bd8347838a8142",
+        "82bb82a482be8347838a8149",
+        "82e682eb82b582af82ea82ce814182a482bf82cc91a78e7182cc",
+        "8388838182c982c882c182c482a282bd82be82af82dc82b982f182a98347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

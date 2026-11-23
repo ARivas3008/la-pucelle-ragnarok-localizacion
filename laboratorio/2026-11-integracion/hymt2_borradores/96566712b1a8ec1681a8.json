@@ -1,0 +1,37 @@
+{
+  "original": "To be honest、 I am surprised that YOU are the heart of darkness。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI have so much I wanna get off my chest、 but there is no point in arguing with you。\nSo just hand her over already!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI have so much I wanna get off my chest、 but there is no point in arguing with you。\nSo just hand her over already!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nTo be honest、 I am surprised that YOU are the heart of darkness。",
+  "respuesta": "Para ser honesto, me sorprende que TÚ seas el corazón de la oscuridad.",
+  "fin": "stop",
+  "segundos": 2.61,
+  "uso": {
+    "completion_tokens": 24,
+    "prompt_tokens": 338,
+    "total_tokens": 362,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "96566712b1a8ec1681a8",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 81850,
+      "entry_id": 4663,
+      "original_hex": [
+        "8273828f81408282828581408288828f828e82858293829481418140826881408281828d",
+        "8293829582928290829282898293828582848140829482888281829481408278826e82748140828182928285",
+        "8294828882858140828882858281829282948140828f82868140828482818292828b828e8285829382938142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I have so much I wanna get off my chest、 but there is no point in arguing with you。",
+        "So just hand her over already!"
+      ]
+    }
+  ]
+}

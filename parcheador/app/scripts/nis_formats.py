@@ -13,7 +13,7 @@ def lzs_header(data):
  if uncompressed>256*1024*1024:raise ValueError('LZS mayor de 256 MiB')
  return {'ext':ext,'raw_size':uncompressed,'compressed_size':compressed,'marker':marker,'reserved':bytes(other)}
 
-def lzs_decompress(data):
+def lzs_decompress(data, *, allow_overlap=True):
  h=lzs_header(data)
  raw=bytearray(h['raw_size'])
  marker=h['marker'];i=16;j=0
@@ -32,6 +32,8 @@ def lzs_decompress(data):
     if i>=end:raise ValueError('LZS sin longitud')
     if distance>marker:distance-=1
     n=data[i];i+=1
+    if not allow_overlap and n>distance:
+     raise ValueError(f'LZS copia solapada incompatible con el juego: distancia={distance}, longitud={n}')
     if n>h['raw_size']-j or distance>j:
      raise ValueError(f'LZS referencia invalida output={j} distance={distance} n={n}')
     if not distance:raise ValueError('LZS distancia cero')

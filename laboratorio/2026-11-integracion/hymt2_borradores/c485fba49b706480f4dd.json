@@ -1,0 +1,40 @@
+{
+  "original": "Ugh。。。 I am getting sick of washing my husbands underwear。 Hey、 you are a handsome one! I would be happy to wash your underwear any time!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nUgh。。。 I am getting sick of washing my husbands underwear。 Hey、 you are a handsome one! I would be happy to wash your underwear any time!",
+  "respuesta": "Ugh… Estoy harta de lavar la ropa interior de mi esposo. Oye, eres un hombre muy atractivo. Estaría encantada de lavar tu ropa interior en cualquier momento.",
+  "fin": "stop",
+  "segundos": 3.2,
+  "uso": {
+    "completion_tokens": 50,
+    "prompt_tokens": 329,
+    "total_tokens": 379,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "c485fba49b706480f4dd",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+      "offset": 37419,
+      "entry_id": 201803,
+      "original_hex": [
+        "827482878288814281428142",
+        "826881408281828d814082878285829482948289828e82878140829382898283828b8140828f8286",
+        "82978281829382888289828e82878140828d8299814082888295829382828281828e82848293",
+        "8295828e82848285829282978285828182928142",
+        "826782858299814181408299828f8295814082818292828581408281",
+        "82888281828e82848293828f828d82858140828f828e82858149",
+        "826881408297828f8295828c828481408282828581408288828182908290829981408294828f",
+        "829782818293828881408299828f8295829281408295828e828482858292829782858281829281408281828e8299",
+        "82948289828d82858149"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

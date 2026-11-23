@@ -1,0 +1,78 @@
+{
+  "original": "You seem to have too many friends all ready。 Come back after you have gotten rid of some of them。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou seem to have too many friends all ready。 Come back after you have gotten rid of some of them。",
+  "respuesta": "Parece que tienes demasiados amigos. Vuelve después de haberse deshecho de algunos de ellos.",
+  "fin": "stop",
+  "segundos": 1.85,
+  "uso": {
+    "completion_tokens": 29,
+    "prompt_tokens": 317,
+    "total_tokens": 346,
+    "prompt_tokens_details": {
+      "cached_tokens": 295
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "ee0da737a0a3bba7fc7d",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 46729,
+      "entry_id": 209322,
+      "original_hex": [
+        "8278828f82958140829382858285828d81408294828f8140828882818296828581408294828f828f",
+        "828d8281828e829981408286829282898285828e8284829381408281828c828c8140829282858281828482998142",
+        "8262828f828d82858140828282818283828b81408281828682948285829281408299828f829581408288828182968285",
+        "8287828f829482948285828e81408292828982848140828f828681408293828f828d82858140828f8286",
+        "829482888285828d8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 48005,
+      "entry_id": 209322,
+      "original_hex": [
+        "8278828f82958140829382858285828d81408294828f8140828882818296828581408294828f828f",
+        "828d8281828e829981408286829282898285828e8284829381408281828c828c8140829282858281828482998142",
+        "8262828f828d82858140828282818283828b81408281828682948285829281408299828f829581408288828182968285",
+        "8287828f829482948285828e81408292828982848140828f828681408293828f828d82858140828f8286",
+        "829482888285828d8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 46674,
+      "entry_id": 209322,
+      "original_hex": [
+        "8278828f82958140829382858285828d81408294828f8140828882818296828581408294828f828f",
+        "828d8281828e829981408286829282898285828e8284829381408281828c828c8140829282858281828482998142",
+        "8262828f828d82858140828282818283828b81408281828682948285829281408299828f829581408288828182968285",
+        "8287828f829482948285828e81408292828982848140828f828681408293828f828d82858140828f8286",
+        "829482888285828d8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 57215,
+      "entry_id": 209322,
+      "original_hex": [
+        "8278828f82958140829382858285828d81408294828f8140828882818296828581408294828f828f",
+        "828d8281828e829981408286829282898285828e8284829381408281828c828c8140829282858281828482998142",
+        "8262828f828d82858140828282818283828b81408281828682948285829281408299828f829581408288828182968285",
+        "8287828f829482948285828e81408292828982848140828f828681408293828f828d82858140828f8286",
+        "829482888285828d8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "original": "This intel comes from a freelance demon hunter、 but it appears that a magic gate has recently appeared in a cave around Vinaigrette。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nGuess I have no choice since Sister Alouette asked nicely。\nI heard about the rumor of Demon Lord Prier about 2 days ago。 The Escargot Gang and I stopped by a port for a short while to stock up on supplies。\nHe figured that he could use this to earn some cash、 so he went to go check it out。 When he got there、 he apparently saw one hell of a scene。\nThere was a young and beautiful girl all alone who was slaying demons left and right without a single care in the world。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nGuess I have no choice since Sister Alouette asked nicely。\nI heard about the rumor of Demon Lord Prier about 2 days ago。 The Escargot Gang and I stopped by a port for a short while to stock up on supplies。\nHe figured that he could use this to earn some cash、 so he went to go check it out。 When he got there、 he apparently saw one hell of a scene。\nThere was a young and beautiful girl all alone who was slaying demons left and right without a single care in the world。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThis intel comes from a freelance demon hunter、 but it appears that a magic gate has recently appeared in a cave around Vinaigrette。",
+  "respuesta": "Esta información proviene de un cazador de demonios independiente. Parece que recientemente se ha aparecido una puerta mágica en una cueva cercana a Vinaigrette.",
+  "fin": "stop",
+  "segundos": 5.91,
+  "uso": {
+    "completion_tokens": 45,
+    "prompt_tokens": 435,
+    "total_tokens": 480,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f2d1813c6737c265545d",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 76958,
+      "entry_id": 1603,
+      "original_hex": [
+        "827382888289829381408289828e82948285828c81408283828f828d82858293814082868292828f828d",
+        "828181408286829282858285828c8281828e82838285814082848285828d828f828e",
+        "82888295828e8294828582928141814082828295829481408289829481408281829082908285828182928293",
+        "8294828882818294814082818140828d8281828782898283814082878281829482858140828882818293",
+        "8292828582838285828e8294828c829981408281829082908285828182928285828481408289828e",
+        "828181408283828182968285814082818292828f8295828e8284",
+        "82758289828e828182898287829282858294829482858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Guess I have no choice since Sister Alouette asked nicely。",
+        "I heard about the rumor of Demon Lord Prier about 2 days ago。 The Escargot Gang and I stopped by a port for a short while to stock up on supplies。",
+        "He figured that he could use this to earn some cash、 so he went to go check it out。 When he got there、 he apparently saw one hell of a scene。",
+        "There was a young and beautiful girl all alone who was slaying demons left and right without a single care in the world。"
+      ]
+    }
+  ]
+}

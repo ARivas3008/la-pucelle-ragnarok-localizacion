@@ -1,0 +1,250 @@
+{
+  "unidades": 26258,
+  "grupos": 15525,
+  "estados_grupo": {
+    "completo": 5809,
+    "sin_insercion": 9709,
+    "parcial": 7
+  },
+  "estados_editoriales": {
+    "revisado": 14727,
+    "requiere_investigacion": 289
+  },
+  "centrales": {
+    "pendiente": 509
+  },
+  "causas_unidades": [
+    {
+      "estado": "BLOQUEADO_BLOQUE_DIALOGO",
+      "motivo": "Intervención original conservada íntegra: traducción supera la capacidad total de bytes",
+      "n": 6792
+    },
+    {
+      "estado": "BLOQUEADO_BLOQUE_DIALOGO",
+      "motivo": "Intervención original conservada íntegra: Un grupo comparte fragmentos con otra intervención: requiere revisión manual",
+      "n": 4742
+    },
+    {
+      "estado": "BLOQUEADO_BLOQUE_DIALOGO",
+      "motivo": "Intervención original conservada íntegra: Intervención con estilos de codificación mezclados",
+      "n": 1196
+    },
+    {
+      "estado": "BLOQUEADO_BLOQUE_DIALOGO",
+      "motivo": "Intervención original conservada íntegra: no hay cortes en límites de palabra que quepan en todas las cajas",
+      "n": 1076
+    },
+    {
+      "estado": "BLOQUEADO_BLOQUE_DIALOGO",
+      "motivo": "Intervención original conservada íntegra: Intervención con texto sin revisión central",
+      "n": 740
+    },
+    {
+      "estado": "BLOQUEADO_BLOQUE_DIALOGO",
+      "motivo": "Intervención original conservada íntegra: El script tiene una continuación fuera del mapa de unidades",
+      "n": 524
+    },
+    {
+      "estado": "RECURSO_NO_TEXTO",
+      "motivo": "Textura, EBOOT o archivo no mapeado para inserción de cadenas",
+      "n": 278
+    },
+    {
+      "estado": "SCRIPT_EXCEDE_ESPACIO_ORIGINAL",
+      "motivo": "No desplazar bytecode: requiere ajuste editorial para caber",
+      "n": 164
+    },
+    {
+      "estado": "CENTRAL_SIN_REVISION",
+      "motivo": "Los 509 grupos de coordinación son externos al corpus revisado",
+      "n": 130
+    },
+    {
+      "estado": "BLOQUEADO_BLOQUE_DIALOGO",
+      "motivo": "Intervención original conservada íntegra: Intervención con textos pendientes de investigación",
+      "n": 108
+    },
+    {
+      "estado": "REFERENCIA_INTERIOR_NO_VERIFICADA",
+      "motivo": "Índice interior de semántica desconocida: no reubicar proporcionalmente",
+      "n": 91
+    },
+    {
+      "estado": "INVESTIGACION",
+      "motivo": "Marcado requiere_investigacion en el repositorio",
+      "n": 79
+    },
+    {
+      "estado": "NO_COINCIDE_FUENTE",
+      "motivo": "Bytes origen no verificables en offset exacto o sin NUL inmediatamente después",
+      "n": 43
+    },
+    {
+      "estado": "BLOQUEADO_SEGMENTACION",
+      "motivo": "No se modificó ninguna unidad de este grupo: traducción supera la capacidad total de bytes",
+      "n": 25
+    },
+    {
+      "estado": "BLOQUEADO_CODIFICACION_O_TAMANO",
+      "motivo": "traducción 30 bytes excede los 26 bytes disponibles",
+      "n": 20
+    }
+  ],
+  "fuente_metricas": [
+    {
+      "caracter": "A",
+      "indice": 34,
+      "gid": 144,
+      "ftd": 1792,
+      "ftd_hex": "0x700"
+    },
+    {
+      "caracter": "a",
+      "indice": 66,
+      "gid": 180,
+      "ftd": 1792,
+      "ftd_hex": "0x700"
+    },
+    {
+      "caracter": "M",
+      "indice": 46,
+      "gid": 156,
+      "ftd": 1792,
+      "ftd_hex": "0x700"
+    },
+    {
+      "caracter": "m",
+      "indice": 78,
+      "gid": 192,
+      "ftd": 1792,
+      "ftd_hex": "0x700"
+    },
+    {
+      "caracter": " ",
+      "indice": 1,
+      "gid": 0,
+      "ftd": 0,
+      "ftd_hex": "0x0"
+    },
+    {
+      "caracter": "i",
+      "indice": 74,
+      "gid": 188,
+      "ftd": 2562,
+      "ftd_hex": "0xa02"
+    },
+    {
+      "caracter": "I",
+      "indice": 42,
+      "gid": 152,
+      "ftd": 2306,
+      "ftd_hex": "0x902"
+    },
+    {
+      "caracter": ".",
+      "indice": 15,
+      "gid": 7,
+      "ftd": 2817,
+      "ftd_hex": "0xb01"
+    },
+    {
+      "caracter": ",",
+      "indice": 13,
+      "gid": 5,
+      "ftd": 2817,
+      "ftd_hex": "0xb01"
+    },
+    {
+      "caracter": "é",
+      "indice": 9121,
+      "gid": 2418,
+      "ftd": 1792,
+      "ftd_hex": "0x700"
+    },
+    {
+      "caracter": "ñ",
+      "indice": 9130,
+      "gid": 2427,
+      "ftd": 1792,
+      "ftd_hex": "0x700"
+    },
+    {
+      "caracter": "¿",
+      "indice": 9134,
+      "gid": 2431,
+      "ftd": 257,
+      "ftd_hex": "0x101"
+    },
+    {
+      "caracter": "Ａ",
+      "indice": 320,
+      "gid": 144,
+      "ftd": 257,
+      "ftd_hex": "0x101"
+    },
+    {
+      "caracter": "ａ",
+      "indice": 353,
+      "gid": 180,
+      "ftd": 770,
+      "ftd_hex": "0x302"
+    },
+    {
+      "caracter": "Ｍ",
+      "indice": 332,
+      "gid": 156,
+      "ftd": 257,
+      "ftd_hex": "0x101"
+    },
+    {
+      "caracter": "ｍ",
+      "indice": 365,
+      "gid": 192,
+      "ftd": 257,
+      "ftd_hex": "0x101"
+    },
+    {
+      "caracter": "　",
+      "indice": 96,
+      "gid": 68,
+      "ftd": 3341,
+      "ftd_hex": "0xd0d"
+    }
+  ],
+  "simulaciones": [
+    {
+      "metodo": "original_ancho",
+      "unidades_resueltas": 3794,
+      "bloqueadas": 15183,
+      "causas": {
+        "traducción supera la capacidad total de bytes": 6792,
+        "Un grupo comparte fragmentos con otra intervención: requiere revisión manual": 4742,
+        "Intervención con texto sin revisión central": 740,
+        "Intervención con textos pendientes de investigación": 108,
+        "Intervención con estilos de codificación mezclados": 1196,
+        "no hay cortes en límites de palabra que quepan en todas las cajas": 1076,
+        "Fuente sin glifos: ['；']": 3,
+        "menos palabras que unidades físicas": 2,
+        "El script tiene una continuación fuera del mapa de unidades": 524
+      }
+    },
+    {
+      "metodo": "ascii_existente",
+      "unidades_resueltas": 13010,
+      "bloqueadas": 6065,
+      "causas": {
+        "traducción supera la capacidad total de bytes": 2065,
+        "Un grupo comparte fragmentos con otra intervención: requiere revisión manual": 2289,
+        "Intervención con texto sin revisión central": 740,
+        "Intervención con textos pendientes de investigación": 108,
+        "Intervención con estilos de codificación mezclados": 82,
+        "no hay cortes en límites de palabra que quepan en todas las cajas": 220,
+        "menos palabras que unidades físicas": 2,
+        "El script tiene una continuación fuera del mapa de unidades": 559
+      }
+    }
+  ],
+  "continuaciones_fuera_manifiesto": 837,
+  "textos_distintos_fuera_manifiesto": 514,
+  "atlas_deltas_disponible": false
+}

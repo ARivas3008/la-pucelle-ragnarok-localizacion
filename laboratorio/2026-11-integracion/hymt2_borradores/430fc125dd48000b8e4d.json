@@ -1,0 +1,42 @@
+{
+  "original": "I am perfectly fine、 thank you! I am just saying that、 as long as I am here、 these demons will be a piece of cake!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAh。。。 Thank you。 Sister Prier。。。\nWhat was that all about? You have a chip on your shoulder about something?\nRestrain yourself a bit、 Sister Prier! Have you forgotten what Father Salade said already?\nDo not let your strength go to your head、 right? I know、 I know。 I never let it go to my head in the first place!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAh。。。 Thank you。 Sister Prier。。。\nWhat was that all about? You have a chip on your shoulder about something?\nRestrain yourself a bit、 Sister Prier! Have you forgotten what Father Salade said already?\nDo not let your strength go to your head、 right? I know、 I know。 I never let it go to my head in the first place!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI am perfectly fine、 thank you! I am just saying that、 as long as I am here、 these demons will be a piece of cake!",
+  "respuesta": "Estoy perfectamente bien, gracias. Solo digo que, mientras esté aquí, esos demonios no serán más que un juego de niños para mí.",
+  "fin": "stop",
+  "segundos": 5.11,
+  "uso": {
+    "completion_tokens": 39,
+    "prompt_tokens": 402,
+    "total_tokens": 441,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "430fc125dd48000b8e4d",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 78426,
+      "entry_id": 1503,
+      "original_hex": [
+        "826881408281828d81408290828582928286828582838294828c8299814082868289828e82858141",
+        "829482888281828e828b81408299828f82958149",
+        "826881408281828d8140828a82958293829481408293828182998289828e8287814082948288828182948141",
+        "828182938140828c828f828e82878140828182938140826881408281828d814082888285829282858141",
+        "82948288828582938285814082848285828d828f828e8293814082978289828c828c814082828285",
+        "82818140829082898285828382858140828f8286814082838281828b82858149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Ah。。。 Thank you。 Sister Prier。。。",
+        "What was that all about? You have a chip on your shoulder about something?",
+        "Restrain yourself a bit、 Sister Prier! Have you forgotten what Father Salade said already?",
+        "Do not let your strength go to your head、 right? I know、 I know。 I never let it go to my head in the first place!"
+      ]
+    }
+  ]
+}

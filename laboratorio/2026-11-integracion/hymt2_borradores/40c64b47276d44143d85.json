@@ -1,0 +1,37 @@
+{
+  "original": "Prier!?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWhoa! What is that!?\nThis presence。。。 Could it be。。。!\nYup。 I am you、 after all。 I know everything about you、 Prier!\nWhat the heck? What is going on!?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWhoa! What is that!?\nThis presence。。。 Could it be。。。!\nYup。 I am you、 after all。 I know everything about you、 Prier!\nWhat the heck? What is going on!?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nPrier!?",
+  "respuesta": "¡Orar!?",
+  "fin": "stop",
+  "segundos": 1.74,
+  "uso": {
+    "completion_tokens": 6,
+    "prompt_tokens": 344,
+    "total_tokens": 350,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "40c64b47276d44143d85",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 92324,
+      "entry_id": 1607,
+      "original_hex": [
+        "826f829282898285829281498148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Whoa! What is that!?",
+        "This presence。。。 Could it be。。。!",
+        "Yup。 I am you、 after all。 I know everything about you、 Prier!",
+        "What the heck? What is going on!?"
+      ]
+    }
+  ]
+}

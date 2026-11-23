@@ -1,0 +1,41 @@
+{
+  "original": "But if Alouette dies、 her spell will be broken、 and he will once again become the Dark Prince。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAnd Eclair。。。You will be her sword。 The two of you will help Alouette。\nThe Dark Prince Croix still retains a small portion of his humanity。\nSo the demons will want to kill Sister Alouette!\nThis has all been a big diversion! And we played right into their hands!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAnd Eclair。。。You will be her sword。 The two of you will help Alouette。\nThe Dark Prince Croix still retains a small portion of his humanity。\nSo the demons will want to kill Sister Alouette!\nThis has all been a big diversion! And we played right into their hands!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nBut if Alouette dies、 her spell will be broken、 and he will once again become the Dark Prince。",
+  "respuesta": "Pero si Alouette muere, su hechizo se romperá, y él volverá a convertirse en el Príncipe Oscuro.",
+  "fin": "stop",
+  "segundos": 3.24,
+  "uso": {
+    "completion_tokens": 38,
+    "prompt_tokens": 380,
+    "total_tokens": 418,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "d422bb37727f831574b4",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 135364,
+      "entry_id": 1105,
+      "original_hex": [
+        "82618295829481408289828681408260828c828f82958285829482948285814082848289828582938141",
+        "8288828582928140829382908285828c828c814082978289828c828c814082828285",
+        "82828292828f828b8285828e814181408281828e8284814082888285814082978289828c828c",
+        "828f828e8283828581408281828782818289828e8140828282858283828f828d8285",
+        "8294828882858140826382818292828b8140826f82928289828e828382858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "And Eclair。。。You will be her sword。 The two of you will help Alouette。",
+        "The Dark Prince Croix still retains a small portion of his humanity。",
+        "So the demons will want to kill Sister Alouette!",
+        "This has all been a big diversion! And we played right into their hands!"
+      ]
+    }
+  ]
+}

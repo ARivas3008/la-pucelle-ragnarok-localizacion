@@ -1,0 +1,37 @@
+{
+  "original": "Why did this have to happen to another of  our demon hunters?!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nIt certainly is。\nThis is the uniform of  an A class demon hunter。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nIt certainly is。\nThis is the uniform of  an A class demon hunter。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhy did this have to happen to another of  our demon hunters?!",
+  "respuesta": "¿Por qué tiene que pasar esto a otro de nuestros cazadores de demonios?",
+  "fin": "stop",
+  "segundos": 2.3,
+  "uso": {
+    "completion_tokens": 22,
+    "prompt_tokens": 325,
+    "total_tokens": 347,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "d10151a1ebd809e837bb",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+      "offset": 149290,
+      "entry_id": 0,
+      "original_hex": [
+        "8276828882998140828482898284814082948288828982938140828882818296828581408294828f",
+        "82888281829082908285828e81408294828f81408281828e828f82948288828582928140828f82868140",
+        "828f82958292814082848285828d828f828e814082888295828e829482858292829381488149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "It certainly is。",
+        "This is the uniform of  an A class demon hunter。"
+      ]
+    }
+  ]
+}

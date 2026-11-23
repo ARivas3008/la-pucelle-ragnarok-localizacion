@@ -1,0 +1,38 @@
+{
+  "original": "He and I go way back。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nN-no、 but。。。\nI said、 GO!!!\nIt is time I paid you back for this scar!!\nScar。。。?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nN-no、 but。。。\nI said、 GO!!!\nIt is time I paid you back for this scar!!\nScar。。。?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nHe and I go way back。。。",
+  "respuesta": "Él y yo nos conocemos desde hace mucho tiempo…",
+  "fin": "stop",
+  "segundos": 1.81,
+  "uso": {
+    "completion_tokens": 15,
+    "prompt_tokens": 328,
+    "total_tokens": 343,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "94ee19b69d9fdcfb700f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 114865,
+      "entry_id": 1102,
+      "original_hex": [
+        "8267828581408281828e82848140826881408287828f8140829782818299",
+        "828282818283828b814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "N-no、 but。。。",
+        "I said、 GO!!!",
+        "It is time I paid you back for this scar!!",
+        "Scar。。。?"
+      ]
+    }
+  ]
+}

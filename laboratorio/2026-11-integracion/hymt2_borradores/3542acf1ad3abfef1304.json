@@ -1,0 +1,41 @@
+{
+  "original": "That is not what I meant。。。! I。。。 I did not mean it like。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThat is quite a line coming from you、 Culotte! You were the one who said it first、 after all。。。\nYou said that me becoming a Demon Lord was more fitting than becoming the Maiden of Light!!\nYou do not need to make excuses。 You were correct、 after all。。。\nYes! A woman who meets the qualifications of a Demon Lord can never become the Maiden of Light!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThat is quite a line coming from you、 Culotte! You were the one who said it first、 after all。。。\nYou said that me becoming a Demon Lord was more fitting than becoming the Maiden of Light!!\nYou do not need to make excuses。 You were correct、 after all。。。\nYes! A woman who meets the qualifications of a Demon Lord can never become the Maiden of Light!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThat is not what I meant。。。! I。。。 I did not mean it like。。。",
+  "respuesta": "Eso no es lo que quise decir…! Yo… no quise decir eso.",
+  "fin": "stop",
+  "segundos": 3.4,
+  "uso": {
+    "completion_tokens": 20,
+    "prompt_tokens": 395,
+    "total_tokens": 415,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "3542acf1ad3abfef1304",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 94948,
+      "entry_id": 1607,
+      "original_hex": [
+        "82738288828182948140828982938140828e828f82948140829782888281829481408268",
+        "828d82858281828e82948142814281428149",
+        "8268814281428142",
+        "826881408284828982848140828e828f82948140828d82858281828e814082898294",
+        "828c8289828b8285814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "That is quite a line coming from you、 Culotte! You were the one who said it first、 after all。。。",
+        "You said that me becoming a Demon Lord was more fitting than becoming the Maiden of Light!!",
+        "You do not need to make excuses。 You were correct、 after all。。。",
+        "Yes! A woman who meets the qualifications of a Demon Lord can never become the Maiden of Light!"
+      ]
+    }
+  ]
+}

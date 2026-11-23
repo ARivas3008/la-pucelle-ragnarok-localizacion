@@ -1,0 +1,58 @@
+{
+  "original": "Oh Goddess Poitreene! Allow this poor、 wounded soul to rest in peace!!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nPrier。。。 Put his soul to rest。。。\nIn the name of the Maiden of Light!\nAh。。。My head。。。 It is full of hair! Luxurious、 bushy hair!\nNow Suzanne will love me。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nPrier。。。 Put his soul to rest。。。\nIn the name of the Maiden of Light!\nAh。。。My head。。。 It is full of hair! Luxurious、 bushy hair!\nNow Suzanne will love me。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nOh Goddess Poitreene! Allow this poor、 wounded soul to rest in peace!!",
+  "respuesta": "¡Oh diosa Poitreene! Permite que esta pobre alma herida descanse en paz!!",
+  "fin": "stop",
+  "segundos": 2.7,
+  "uso": {
+    "completion_tokens": 24,
+    "prompt_tokens": 358,
+    "total_tokens": 382,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "7106cd50a59c474be6de",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 153403,
+      "entry_id": 513,
+      "original_hex": [
+        "826e828881408266828f828482848285829382938140826f828f82898294829282858285828e82858149",
+        "8260828c828c828f82978140829482888289829381408290828f828f82928141",
+        "8297828f8295828e82848285828481408293828f8295828c81408294828f81408292828582938294",
+        "8289828e81408290828582818283828581498149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Prier。。。 Put his soul to rest。。。",
+        "In the name of the Maiden of Light!",
+        "Ah。。。My head。。。 It is full of hair! Luxurious、 bushy hair!",
+        "Now Suzanne will love me。。。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 143385,
+      "entry_id": 513,
+      "original_hex": [
+        "826e828881408266828f828482848285829382938140826f828f82898294829282858285828e82858149",
+        "8260828c828c828f82978140829482888289829381408290828f828f82928141",
+        "8297828f8295828e82848285828481408293828f8295828c81408294828f81408292828582938294",
+        "8289828e81408290828582818283828581498149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Prier。。。 Put his soul to rest。。。",
+        "In the name of the Maiden of Light!",
+        "Ah。。。My head。。。 It is full of hair! Luxurious、 bushy hair!",
+        "Now Suzanne will love me。。。"
+      ]
+    }
+  ]
+}

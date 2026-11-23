@@ -1,0 +1,41 @@
+{
+  "original": "That is not all、 either。 Sister Prier was also the one who saved the Forest Lord in Meuniere Forest。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nComplementing Prier、 eh。。。? Then how about when Prier became the mediator for Barsom and Suzanne?\nSomeone who wants to become the Demon Lord would never try to help two people get married。\nEveryone。。。!\nDarn! You filthy humans keep getting in my way of corrupting her heart!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nComplementing Prier、 eh。。。? Then how about when Prier became the mediator for Barsom and Suzanne?\nSomeone who wants to become the Demon Lord would never try to help two people get married。\nEveryone。。。!\nDarn! You filthy humans keep getting in my way of corrupting her heart!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThat is not all、 either。 Sister Prier was also the one who saved the Forest Lord in Meuniere Forest。",
+  "respuesta": "Eso no es todo. La hermana Prier también fue quien salvó al Señor del Bosque en el Bosque de Meuniere.",
+  "fin": "stop",
+  "segundos": 3.87,
+  "uso": {
+    "completion_tokens": 33,
+    "prompt_tokens": 385,
+    "total_tokens": 418,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "6614fb71394253a8a941",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 86790,
+      "entry_id": 1605,
+      "original_hex": [
+        "82738288828182948140828982938140828e828f829481408281828c828c814181408285828982948288828582928142",
+        "8272828982938294828582928140826f8292828982858292814082978281829381408281828c8293828f",
+        "8294828882858140828f828e8285814082978288828f8140829382818296828582848140829482888285",
+        "8265828f82928285829382948140826b828f8292828481408289828e8140826c82858295828e8289828582928285",
+        "8265828f82928285829382948142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Complementing Prier、 eh。。。? Then how about when Prier became the mediator for Barsom and Suzanne?",
+        "Someone who wants to become the Demon Lord would never try to help two people get married。",
+        "Everyone。。。!",
+        "Darn! You filthy humans keep getting in my way of corrupting her heart!"
+      ]
+    }
+  ]
+}

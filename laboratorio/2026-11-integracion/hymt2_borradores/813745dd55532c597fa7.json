@@ -1,0 +1,35 @@
+{
+  "original": "It has been a long time! Business has been terrible since you stopped coming by!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIt has been a long time! Business has been terrible since you stopped coming by!",
+  "respuesta": "¡Hace mucho tiempo! Los negocios han estado terriblemente mal desde que dejaste de venir por aquí.",
+  "fin": "stop",
+  "segundos": 1.78,
+  "uso": {
+    "completion_tokens": 27,
+    "prompt_tokens": 312,
+    "total_tokens": 339,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "813745dd55532c597fa7",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 39455,
+      "entry_id": 205305,
+      "original_hex": [
+        "8268829481408288828182938140828282858285828e814082818140828c828f828e8287814082948289828d82858149",
+        "8261829582938289828e82858293829381408288828182938140828282858285828e",
+        "829482858292829282898282828c8285814082938289828e8283828581408299828f8295",
+        "82938294828f829082908285828481408283828f828d8289828e82878140828282998149"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

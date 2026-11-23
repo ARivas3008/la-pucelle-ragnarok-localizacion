@@ -1,0 +1,98 @@
+{
+  "original": "攻撃するときは、敵ユニットより 高い位置にいたほうが、より大きなダメージを 与えることができる。 逆に低い位置から攻撃すると、 与えるダメージは少なくなってしまう。 これは敵ユニットの攻撃を受けるときも 同じことだ......。 つまり、戦いにおいては 常に高い位置にいるほうが 有利になるってわけだ。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n攻撃するときは、敵ユニットより 高い位置にいたほうが、より大きなダメージを 与えることができる。 逆に低い位置から攻撃すると、 与えるダメージは少なくなってしまう。 これは敵ユニットの攻撃を受けるときも 同じことだ......。 つまり、戦いにおいては 常に高い位置にいるほうが 有利になるってわけだ。",
+  "respuesta": "Cuando se ataca, es mejor estar en una posición más alta que los unidades enemigas, para causar más daño. Por el contrario, si se ataca desde una posición baja, el daño resultante será menor. Lo mismo ocurre cuando las unidades enemigas también atacan… En resumen, en la batalla, siempre es mejor estar en una posición elevada.",
+  "fin": "stop",
+  "segundos": 7.09,
+  "uso": {
+    "completion_tokens": 91,
+    "prompt_tokens": 403,
+    "total_tokens": 494,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "badd67f196763f8218ec",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 23186,
+      "entry_id": 201723,
+      "original_hex": [
+        "8d558c8282b782e982c682ab82cd814193478386836a8362836782e682e8",
+        "8d8282a288ca927582c982a282bd82d982a482aa814182e682e891e582ab82c8835f8381815b835782f0",
+        "975e82a682e982b182c682aa82c582ab82e98142",
+        "8b7482c992e182a288ca927582a982e78d558c8282b782e982c68141",
+        "975e82a682e9835f8381815b835782cd8fad82c882ad82c882c182c482b582dc82a48142",
+        "82b182ea82cd93478386836a8362836782cc8d558c8282f08ef382af82e982c682ab82e0",
+        "93af82b682b182c682be816381638142",
+        "82c282dc82e8814190ed82a282c982a882a282c482cd",
+        "8fed82c98d8282a288ca927582c982a282e982d982a482aa",
+        "974c979882c982c882e982c182c482ed82af82be8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 23154,
+      "entry_id": 201723,
+      "original_hex": [
+        "8d558c8282b782e982c682ab82cd814193478386836a8362836782e682e8",
+        "8d8282a288ca927582c982a282bd82d982a482aa814182e682e891e582ab82c8835f8381815b835782f0",
+        "975e82a682e982b182c682aa82c582ab82e98142",
+        "8b7482c992e182a288ca927582a982e78d558c8282b782e982c68141",
+        "975e82a682e9835f8381815b835782cd8fad82c882ad82c882c182c482b582dc82a48142",
+        "82b182ea82cd93478386836a8362836782cc8d558c8282f08ef382af82e982c682ab82e0",
+        "93af82b682b182c682be816381638142",
+        "82c282dc82e8814190ed82a282c982a882a282c482cd",
+        "8fed82c98d8282a288ca927582c982a282e982d982a482aa",
+        "974c979882c982c882e982c182c482ed82af82be8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 23378,
+      "entry_id": 201723,
+      "original_hex": [
+        "8d558c8282b782e982c682ab82cd814193478386836a8362836782e682e8",
+        "8d8282a288ca927582c982a282bd82d982a482aa814182e682e891e582ab82c8835f8381815b835782f0",
+        "975e82a682e982b182c682aa82c582ab82e98142",
+        "8b7482c992e182a288ca927582a982e78d558c8282b782e982c68141",
+        "975e82a682e9835f8381815b835782cd8fad82c882ad82c882c182c482b582dc82a48142",
+        "82b182ea82cd93478386836a8362836782cc8d558c8282f08ef382af82e982c682ab82e0",
+        "93af82b682b182c682be816381638142",
+        "82c282dc82e8814190ed82a282c982a882a282c482cd",
+        "8fed82c98d8282a288ca927582c982a282e982d982a482aa",
+        "974c979882c982c882e982c182c482ed82af82be8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 23346,
+      "entry_id": 201723,
+      "original_hex": [
+        "8d558c8282b782e982c682ab82cd814193478386836a8362836782e682e8",
+        "8d8282a288ca927582c982a282bd82d982a482aa814182e682e891e582ab82c8835f8381815b835782f0",
+        "975e82a682e982b182c682aa82c582ab82e98142",
+        "8b7482c992e182a288ca927582a982e78d558c8282b782e982c68141",
+        "975e82a682e9835f8381815b835782cd8fad82c882ad82c882c182c482b582dc82a48142",
+        "82b182ea82cd93478386836a8362836782cc8d558c8282f08ef382af82e982c682ab82e0",
+        "93af82b682b182c682be816381638142",
+        "82c282dc82e8814190ed82a282c982a882a282c482cd",
+        "8fed82c98d8282a288ca927582c982a282e982d982a482aa",
+        "974c979882c982c882e982c182c482ed82af82be8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

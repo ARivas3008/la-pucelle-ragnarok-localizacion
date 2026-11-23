@@ -1,0 +1,39 @@
+{
+  "original": "According to the Holy  Book、 the Maiden of Light and the  Prince of Darkness fought 50 years ago。 But it does not say what happened。 I wonder what  that means。。。?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nAccording to the Holy  Book、 the Maiden of Light and the  Prince of Darkness fought 50 years ago。 But it does not say what happened。 I wonder what  that means。。。?",
+  "respuesta": "Según el Libro Sagrado, la Doncella de la Luz y el Príncipe Oscuro lucharon hace 50 años. Pero no se dice qué pasó. Me pregunto qué significa eso…",
+  "fin": "stop",
+  "segundos": 6.05,
+  "uso": {
+    "completion_tokens": 49,
+    "prompt_tokens": 336,
+    "total_tokens": 385,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "56e99577bda108e602c5",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 40630,
+      "entry_id": 203201,
+      "original_hex": [
+        "826082838283828f829282848289828e828781408294828f814082948288828581408267828f828c82998140",
+        "8261828f828f828b814181408294828882858140826c8281828982848285828e8140828f8286",
+        "826b828982878288829481408281828e828481408294828882858140",
+        "826f82928289828e828382858140828f82868140826382818292828b828e828582938293",
+        "8286828f829582878288829481408254824f814082998285828182928293814082818287828f8142",
+        "82618295829481408289829481408284828f828582938140828e828f8294814082938281829981408297828882818294",
+        "82888281829082908285828e8285828481428140826881408297828f828e828482858292814082978288828182948140",
+        "82948288828182948140828d82858281828e82938142814281428148"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

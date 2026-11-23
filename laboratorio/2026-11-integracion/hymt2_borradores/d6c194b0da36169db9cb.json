@@ -1,0 +1,38 @@
+{
+  "original": "Why did I not realize such a simple thing?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThe dead do not come back to life。\nThose words hit me hard。。。 Like a knife in my heart。。。\nBut。。。\nYou only did it because you loved your wife so much。。。!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThe dead do not come back to life。\nThose words hit me hard。。。 Like a knife in my heart。。。\nBut。。。\nYou only did it because you loved your wife so much。。。!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhy did I not realize such a simple thing?",
+  "respuesta": "¿Por qué no me di cuenta de algo tan simple?",
+  "fin": "stop",
+  "segundos": 2.02,
+  "uso": {
+    "completion_tokens": 13,
+    "prompt_tokens": 344,
+    "total_tokens": 357,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "d6c194b0da36169db9cb",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 143063,
+      "entry_id": 211,
+      "original_hex": [
+        "8276828882998140828482898284814082688140828e828f82948140829282858281828c8289829a8285",
+        "829382958283828881408281814082938289828d8290828c82858140829482888289828e82878148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "The dead do not come back to life。",
+        "Those words hit me hard。。。 Like a knife in my heart。。。",
+        "But。。。",
+        "You only did it because you loved your wife so much。。。!"
+      ]
+    }
+  ]
+}

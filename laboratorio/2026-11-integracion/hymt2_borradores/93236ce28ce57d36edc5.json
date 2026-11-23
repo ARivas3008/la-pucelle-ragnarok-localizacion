@@ -1,0 +1,39 @@
+{
+  "original": "But her compassion and strong will are the equal of any Maidens。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nLook at the way Prier is praying for her mortal enemy。。。\nPrier may not have been chosen as the Maiden of Light。\nShe reminds me of a divine mother、 enveloping everyone in the warmth of her kindness。\nMy sister? She sure does not look that way to me。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nLook at the way Prier is praying for her mortal enemy。。。\nPrier may not have been chosen as the Maiden of Light。\nShe reminds me of a divine mother、 enveloping everyone in the warmth of her kindness。\nMy sister? She sure does not look that way to me。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nBut her compassion and strong will are the equal of any Maidens。",
+  "respuesta": "Pero su compasión y voluntad fuerte son equivalentes a las de cualquier Doncella.",
+  "fin": "stop",
+  "segundos": 2.51,
+  "uso": {
+    "completion_tokens": 24,
+    "prompt_tokens": 370,
+    "total_tokens": 394,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "93236ce28ce57d36edc5",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 129325,
+      "entry_id": 1205,
+      "original_hex": [
+        "826182958294814082888285829281408283828f828d82908281829382938289828f828e81408281828e8284",
+        "829382948292828f828e8287814082978289828c828c81408281829282858140829482888285",
+        "8285829182958281828c8140828f828681408281828e82998140826c8281828982848285828e82938142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Look at the way Prier is praying for her mortal enemy。。。",
+        "Prier may not have been chosen as the Maiden of Light。",
+        "She reminds me of a divine mother、 enveloping everyone in the warmth of her kindness。",
+        "My sister? She sure does not look that way to me。。。"
+      ]
+    }
+  ]
+}

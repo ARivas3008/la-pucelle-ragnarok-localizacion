@@ -1,0 +1,86 @@
+{
+  "original": "In the name of the Maiden of Light。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nIn the name of the Maiden of Light。。。\nOh Goddess Poitreene! Please guide this pious woman to her final rest!\nMay the Goddess Poitreene watch over you all、 wherever  your paths may take you。。。\nDespite what she said。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nIn the name of the Maiden of Light。。。\nOh Goddess Poitreene! Please guide this pious woman to her final rest!\nMay the Goddess Poitreene watch over you all、 wherever  your paths may take you。。。\nDespite what she said。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIn the name of the Maiden of Light。。。",
+  "respuesta": "En nombre de la Doncella de la Luz…",
+  "fin": "stop",
+  "segundos": 1.78,
+  "uso": {
+    "completion_tokens": 12,
+    "prompt_tokens": 358,
+    "total_tokens": 370,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "529f81aa2af6a6c4cf10",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 151420,
+      "entry_id": 213,
+      "original_hex": [
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "826c8281828982848285828e8140828f82868140826b8289828782888294814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "In the name of the Maiden of Light。。。",
+        "Oh Goddess Poitreene! Please guide this pious woman to her final rest!",
+        "May the Goddess Poitreene watch over you all、 wherever  your paths may take you。。。",
+        "Despite what she said。。。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 137974,
+      "entry_id": 213,
+      "original_hex": [
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "826c8281828982848285828e8140828f82868140826b8289828782888294814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "In the name of the Maiden of Light。。。",
+        "Oh Goddess Poitreene! Please guide this pious woman to her final rest!",
+        "May the Goddess Poitreene watch over you all、 wherever  your paths may take you。。。",
+        "Despite what she said。。。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 148750,
+      "entry_id": 213,
+      "original_hex": [
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "826c8281828982848285828e8140828f82868140826b8289828782888294814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "In the name of the Maiden of Light。。。",
+        "Oh Goddess Poitreene! Please guide this pious woman to her final rest!",
+        "May the Goddess Poitreene watch over you all、 wherever  your paths may take you。。。",
+        "Despite what she said。。。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 138732,
+      "entry_id": 213,
+      "original_hex": [
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "826c8281828982848285828e8140828f82868140826b8289828782888294814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "In the name of the Maiden of Light。。。",
+        "Oh Goddess Poitreene! Please guide this pious woman to her final rest!",
+        "May the Goddess Poitreene watch over you all、 wherever  your paths may take you。。。",
+        "Despite what she said。。。"
+      ]
+    }
+  ]
+}

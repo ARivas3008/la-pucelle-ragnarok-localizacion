@@ -1,0 +1,43 @@
+{
+  "original": "A shape changing demon who rips the hearts out of people? Talk about a scary case。。。 We cannot just search blindly for the culprit、 though。 In order to solve this case、 we need to focus on gathering more information。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nA shape changing demon who rips the hearts out of people? Talk about a scary case。。。 We cannot just search blindly for the culprit、 though。 In order to solve this case、 we need to focus on gathering more information。",
+  "respuesta": "Un demonio que cambia de forma y arranca los corazones de las personas… Qué caso tétrico. No podemos simplemente buscar al culpable a ciegas. Para resolver este caso, necesitamos concentrarnos en recopilar más información.",
+  "fin": "stop",
+  "segundos": 7.38,
+  "uso": {
+    "completion_tokens": 63,
+    "prompt_tokens": 341,
+    "total_tokens": 404,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "16be90e5e300c432da77",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 78702,
+      "entry_id": 270701,
+      "original_hex": [
+        "82608140829382888281829082858140828382888281828e82878289828e8287814082848285828d828f828e",
+        "82978288828f81408292828982908293814082948288828581408288828582818292829482938140828f82958294",
+        "828f8286814082908285828f8290828c82858148",
+        "82738281828c828b814082818282828f8295829481408281814082938283828182928299",
+        "8283828182938285814281428142",
+        "82768285814082838281828e828e828f82948140828a8295829382948140829382858281829282838288",
+        "8282828c8289828e8284828c829981408286828f82928140829482888285814082838295828c82908292828982948141",
+        "82948288828f8295828782888142",
+        "8268828e8140828f829282848285829281408294828f81408293828f828c8296828581408294828882898293",
+        "828382818293828581418140829782858140828e82858285828481408294828f81408286828f828382958293",
+        "828f828e81408287828182948288828582928289828e82878140828d828f82928285",
+        "8289828e8286828f8292828d828182948289828f828e8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

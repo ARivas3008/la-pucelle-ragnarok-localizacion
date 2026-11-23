@@ -1,0 +1,78 @@
+{
+  "original": "失礼ねェ~。 こんな美人の姉さんの服を洗えるんだから",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nうんうん。 その気持ち、よくわかります。 うちの姉さんなんてヒドいんですよ。 さんざん汚した服を 全部ボクに押しつけるんですから。\n光栄に思いなさいよ。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nうんうん。 その気持ち、よくわかります。 うちの姉さんなんてヒドいんですよ。 さんざん汚した服を 全部ボクに押しつけるんですから。\n光栄に思いなさいよ。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n失礼ねェ~。 こんな美人の姉さんの服を洗えるんだから",
+  "respuesta": "Perdóneme, pero… Usted puede lavar la ropa de una hermana tan hermosa como esa.",
+  "fin": "stop",
+  "segundos": 3.23,
+  "uso": {
+    "completion_tokens": 27,
+    "prompt_tokens": 382,
+    "total_tokens": 409,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "d81ab3c364007cb160d0",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 40583,
+      "entry_id": 201812,
+      "original_hex": [
+        "8eb897e782cb834681608142",
+        "82b182f182c894fc906c82cc8e6f82b382f182cc959e82f090f482a682e982f182be82a982e7"
+      ],
+      "opcion": false,
+      "contexto": [
+        "うんうん。 その気持ち、よくわかります。 うちの姉さんなんてヒドいんですよ。 さんざん汚した服を 全部ボクに押しつけるんですから。",
+        "光栄に思いなさいよ。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "offset": 40743,
+      "entry_id": 201812,
+      "original_hex": [
+        "8eb897e782cb834681608142",
+        "82b182f182c894fc906c82cc8e6f82b382f182cc959e82f090f482a682e982f182be82a982e7"
+      ],
+      "opcion": false,
+      "contexto": [
+        "うんうん。 その気持ち、よくわかります。 うちの姉さんなんてヒドいんですよ。 さんざん汚した服を 全部ボクに押しつけるんですから。",
+        "光栄に思いなさいよ。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 40583,
+      "entry_id": 201812,
+      "original_hex": [
+        "8eb897e782cb834681608142",
+        "82b182f182c894fc906c82cc8e6f82b382f182cc959e82f090f482a682e982f182be82a982e7"
+      ],
+      "opcion": false,
+      "contexto": [
+        "うんうん。 その気持ち、よくわかります。 うちの姉さんなんてヒドいんですよ。 さんざん汚した服を 全部ボクに押しつけるんですから。",
+        "光栄に思いなさいよ。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 40967,
+      "entry_id": 201812,
+      "original_hex": [
+        "8eb897e782cb834681608142",
+        "82b182f182c894fc906c82cc8e6f82b382f182cc959e82f090f482a682e982f182be82a982e7"
+      ],
+      "opcion": false,
+      "contexto": [
+        "うんうん。 その気持ち、よくわかります。 うちの姉さんなんてヒドいんですよ。 さんざん汚した服を 全部ボクに押しつけるんですから。",
+        "光栄に思いなさいよ。"
+      ]
+    }
+  ]
+}

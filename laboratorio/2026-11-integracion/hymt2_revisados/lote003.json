@@ -1,0 +1,3125 @@
+[
+  {
+    "id": "665b4e913de75d5f64ac",
+    "original": "The teachings of the Goddess are not   everything。 Sometimes you have to follow your own path。",
+    "es": "Las enseñanzas de la diosa no lo son todo. A veces tienes que seguir tu propio camino.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 142758,
+        "entry_id": 314,
+        "original_hex": [
+          "8273828882858140829482858281828382888289828e828782938140828f82868140829482888285",
+          "8266828f8284828482858293829381408281829282858140828e828f829481408140",
+          "82858296828582928299829482888289828e82878142",
+          "8272828f828d828582948289828d8285829381408299828f829581408288828182968285",
+          "8294828f81408286828f828c828c828f829781408299828f829582928140828f8297828e814082908281829482888142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Please forgive me、 Sister Prier。",
+          "You taught me a valuable lesson。",
+          "T-that is just the way I am。 I do things without thinking。。。",
+          "And I always say what I feel。 But I know that I am not always right。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8dfc88c27d6acb6f5d78",
+    "original": "And I always say what I feel。 But I know that I am not always right。",
+    "es": "Y siempre digo lo que siento. Pero sé que no siempre tengo razón.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 143092,
+        "entry_id": 314,
+        "original_hex": [
+          "8260828e82848140826881408281828c8297828182998293814082938281829981408297828882818294",
+          "82688140828682858285828c81428140826182958294814082688140828b828e828f829781408294828882818294",
+          "826881408281828d8140828e828f829481408281828c82978281829982938140829282898287828882948142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "The teachings of the Goddess are not   everything。 Sometimes you have to follow your own path。",
+          "T-that is just the way I am。 I do things without thinking。。。",
+          "I just have to follow my gut so I do not  regret it later。",
+          "You do not have to apologize。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f50d37373555cad20094",
+    "original": "I just have to follow my gut so I do not  regret it later。",
+    "es": "Solo tengo que seguir mi instinto, para no arrepentirme después.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 143244,
+        "entry_id": 314,
+        "original_hex": [
+          "82688140828a8295829382948140828882818296828581408294828f81408286828f828c828c828f8297",
+          "828d8299814082878295829481408293828f8140826881408284828f8140828e828f82948140",
+          "8292828582878292828582948140828982948140828c82818294828582928142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "T-that is just the way I am。 I do things without thinking。。。",
+          "And I always say what I feel。 But I know that I am not always right。",
+          "You do not have to apologize。",
+          "I admire your openness and honesty、 Sister Prier。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "03a8a478e9890d46339a",
+    "original": "You do not have to apologize。",
+    "es": "No necesitas disculparte.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 143376,
+        "entry_id": 314,
+        "original_hex": [
+          "8278828f829581408284828f8140828e828f82948140828882818296828581408294828f",
+          "82818290828f828c828f82878289829a82858142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "And I always say what I feel。 But I know that I am not always right。",
+          "I just have to follow my gut so I do not  regret it later。",
+          "I admire your openness and honesty、 Sister Prier。",
+          "Just Prier。 Please call me Prier from now on。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1901b2c75b423d732849",
+    "original": "Whew! That was pretty close! I thought they were going to kill each other for a minute。",
+    "es": "¡Uf! ¡Por poco! Por un momento pensé que iban a matarse.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 143800,
+        "entry_id": 314,
+        "original_hex": [
+          "82768288828582978149814082738288828182948140829782818293",
+          "82908292828582948294829981408283828c828f82938285814981408268814082948288828f8295828782888294",
+          "82948288828582998140829782858292828581408287828f8289828e828781408294828f8140828b8289828c828c",
+          "82858281828382888140828f829482888285829281408286828f8292814082818140828d8289828e8295829482858142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "I will。 And you can  call me Alouette。",
+          "OK。 Thanks。",
+          "I hope they have worked that out of their systems。。。",
+          "Boy、 that was scary。。。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b81a404af22b10388c7a",
+    "original": "A Sister in the service of the Goddess should wear something more modest。。。",
+    "es": "Una monja al servicio de la diosa debería llevar ropa más recatada...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 144773,
+        "entry_id": 314,
+        "original_hex": [
+          "8260814082728289829382948285829281408289828e814082948288828581408293828582928296828982838285",
+          "828f8286814082948288828581408266828f82848284828582938293814082938288828f8295828c8284",
+          "829782858281829281408293828f828d8285829482888289828e8287",
+          "828d828f829282858140828d828f8284828582938294814281428142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "What about those clothes?",
+          "A Sister must not wear clothes that are too tight or too revealing。",
+          "But Father Salade picked these out! And you are wearing  a micro-mini under your robe!",
+          "F-Father Salade said it would be easier to move in、 so。。。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18eec8214d9338f432d4",
+    "original": "Who would have thought the old guy would be interested in that kind of thing?",
+    "es": "¿Quién hubiera pensado que ese anciano estaría interesado en ese tipo de cosas?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 145259,
+        "entry_id": 314,
+        "original_hex": [
+          "82768288828f81408297828f8295828c828481408288828182968285814082948288828f8295828782888294",
+          "8294828882858140828f828c8284814082878295829981408297828f8295828c8284814082828285",
+          "8289828e8294828582928285829382948285828481408289828e81408294828882818294",
+          "828b8289828e82848140828f82868140829482888289828e82878148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "But Father Salade picked these out! And you are wearing  a micro-mini under your robe!",
+          "F-Father Salade said it would be easier to move in、 so。。。",
+          "Father!",
+          "Father Salade?!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fbf0107d773fb4afb319",
+    "original": "I cannot confess my love for Suzanne looking  like this。。。",
+    "es": "No puedo declararme a Suzanne con estas pintas...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 146279,
+        "entry_id": 315,
+        "original_hex": [
+          "8268814082838281828e828e828f829481408283828f828e82868285829382938140828d82998140828c828f82968285",
+          "8286828f8292814082728295829a8281828e828e82858140828c828f828f828b8289828e82878140",
+          "828c8289828b828581408294828882898293814281428142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Well、 there goes the last of my hair。。。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0088118945bce87a5e4b",
+    "original": "In the name of the Holy Maiden! Goddess Poitreene、 heal this creatures wounds!",
+    "es": "¡En nombre de la Santa Doncella! ¡Diosa Poitreene, sana las heridas de esta criatura!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 146775,
+        "entry_id": 0,
+        "original_hex": [
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "8267828f828c82998140826c8281828982848285828e8149",
+          "8266828f828482848285829382938140826f828f82898294829282858285828e828581418140828882858281828c",
+          "8294828882898293814082838292828582818294829582928285829381408297828f8295828e828482938149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "You think so、 too?",
+          "He is wounded。",
+          "That should do it。。。",
+          "Hey、 you cannot follow us!You live in the forest、 remember?"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 139192,
+        "entry_id": 0,
+        "original_hex": [
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "8267828f828c82998140826c8281828982848285828e8149",
+          "8266828f828482848285829382938140826f828f82898294829282858285828e828581418140828882858281828c",
+          "8294828882898293814082838292828582818294829582928285829381408297828f8295828e828482938149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "You think so、 too?",
+          "He is wounded。",
+          "That should do it。。。",
+          "Hey、 you cannot follow us!You live in the forest、 remember?"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 149968,
+        "entry_id": 0,
+        "original_hex": [
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "8267828f828c82998140826c8281828982848285828e8149",
+          "8266828f828482848285829382938140826f828f82898294829282858285828e828581418140828882858281828c",
+          "8294828882898293814082838292828582818294829582928285829381408297828f8295828e828482938149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "You think so、 too?",
+          "He is wounded。",
+          "That should do it。。。",
+          "Hey、 you cannot follow us!You live in the forest、 remember?"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+        "offset": 139950,
+        "entry_id": 0,
+        "original_hex": [
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "8267828f828c82998140826c8281828982848285828e8149",
+          "8266828f828482848285829382938140826f828f82898294829282858285828e828581418140828882858281828c",
+          "8294828882898293814082838292828582818294829582928285829381408297828f8295828e828482938149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "You think so、 too?",
+          "He is wounded。",
+          "That should do it。。。",
+          "Hey、 you cannot follow us!You live in the forest、 remember?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2e89be152913e75939bc",
+    "original": "I have made up my mind! You cannot  talk me out of it!",
+    "es": "¡Ya lo he decidido! ¡No me harás cambiar de opinión!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 148137,
+        "entry_id": 0,
+        "original_hex": [
+          "8268814082888281829682858140828d8281828482858140829582908140828d8299",
+          "828d8289828e8284814981408278828f8295814082838281828e828e828f82948140",
+          "82948281828c828b8140828d82858140828f829582948140828f82868140828982948149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "This may all be a part of Goddess Poitreenes plan。",
+          "I am going to raise him!",
+          "Yeah。 Trying to talk you out of anything is usually pointless。。。",
+          "The Lords child has joined you!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 140554,
+        "entry_id": 0,
+        "original_hex": [
+          "8268814082888281829682858140828d8281828482858140829582908140828d8299",
+          "828d8289828e8284814981408278828f8295814082838281828e828e828f82948140",
+          "82948281828c828b8140828d82858140828f829582948140828f82868140828982948149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "This may all be a part of Goddess Poitreenes plan。",
+          "I am going to raise him!",
+          "Yeah。 Trying to talk you out of anything is usually pointless。。。",
+          "The Lords child has joined you!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 151330,
+        "entry_id": 0,
+        "original_hex": [
+          "8268814082888281829682858140828d8281828482858140829582908140828d8299",
+          "828d8289828e8284814981408278828f8295814082838281828e828e828f82948140",
+          "82948281828c828b8140828d82858140828f829582948140828f82868140828982948149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "This may all be a part of Goddess Poitreenes plan。",
+          "I am going to raise him!",
+          "Yeah。 Trying to talk you out of anything is usually pointless。。。",
+          "The Lords child has joined you!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+        "offset": 141312,
+        "entry_id": 0,
+        "original_hex": [
+          "8268814082888281829682858140828d8281828482858140829582908140828d8299",
+          "828d8289828e8284814981408278828f8295814082838281828e828e828f82948140",
+          "82948281828c828b8140828d82858140828f829582948140828f82868140828982948149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "This may all be a part of Goddess Poitreenes plan。",
+          "I am going to raise him!",
+          "Yeah。 Trying to talk you out of anything is usually pointless。。。",
+          "The Lords child has joined you!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6d5f6d8b039dc4847903",
+    "original": "An evil spirit?!",
+    "es": "¡¿Un espíritu maligno?!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 148915,
+        "entry_id": 0,
+        "original_hex": [
+          "8260828e8140828582968289828c814082938290828982928289829481488149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Ooooohhh。。。",
+          "Wait、 Prier!",
+          "Those clothes。。。  Is not that the uniform of our Church。。。?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f3395815825cf5cb1d23",
+    "original": "Wait、 Prier!",
+    "es": "¡Espera, Prier!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 148963,
+        "entry_id": 0,
+        "original_hex": [
+          "827682818289829481418140826f82928289828582928149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Ooooohhh。。。",
+          "An evil spirit?!",
+          "Those clothes。。。  Is not that the uniform of our Church。。。?",
+          "It certainly is。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d8d3ff3a2afc2b2e99bb",
+    "original": "Those clothes。。。  Is not that the uniform of our Church。。。?",
+    "es": "Esa ropa... ¿No es el uniforme de nuestra Iglesia...?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 149003,
+        "entry_id": 0,
+        "original_hex": [
+          "82738288828f8293828581408283828c828f82948288828582938142814281428140",
+          "826882938140828e828f829481408294828882818294814082948288828581408295828e82898286828f8292828d",
+          "828f82868140828f8295829281408262828882958292828382888142814281428148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "An evil spirit?!",
+          "Wait、 Prier!",
+          "It certainly is。",
+          "This is the uniform of  an A class demon hunter。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "682e42342c662b31f47d",
+    "original": "It certainly is。",
+    "es": "Así es.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 149137,
+        "entry_id": 0,
+        "original_hex": [
+          "826882948140828382858292829482818289828e828c82998140828982938142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Wait、 Prier!",
+          "Those clothes。。。  Is not that the uniform of our Church。。。?",
+          "This is the uniform of  an A class demon hunter。",
+          "Why did this have to happen to another of  our demon hunters?!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5cf82d6540940f9f3499",
+    "original": "This is the uniform of  an A class demon hunter。",
+    "es": "Este es el uniforme de un cazador de demonios de clase A.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 149178,
+        "entry_id": 0,
+        "original_hex": [
+          "8273828882898293814082898293814082948288828581408295828e82898286828f8292828d8140828f82868140",
+          "8281828e8140826081408283828c828182938293814082848285828d828f828e",
+          "82888295828e8294828582928142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Those clothes。。。  Is not that the uniform of our Church。。。?",
+          "It certainly is。",
+          "Why did this have to happen to another of  our demon hunters?!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d10151a1ebd809e837bb",
+    "original": "Why did this have to happen to another of  our demon hunters?!",
+    "es": "¡¿Por qué tenía que pasarle esto a otro de nuestros cazadores de demonios?!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 149290,
+        "entry_id": 0,
+        "original_hex": [
+          "8276828882998140828482898284814082948288828982938140828882818296828581408294828f",
+          "82888281829082908285828e81408294828f81408281828e828f82948288828582928140828f82868140",
+          "828f82958292814082848285828d828f828e814082888295828e829482858292829381488149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "It certainly is。",
+          "This is the uniform of  an A class demon hunter。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "46b08e7ae032590ebee3",
+    "original": "もしかして、 あのときのモンスターの子供かも......。",
+    "es": "Quizá sea la cría de aquel monstruo...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+        "offset": 151269,
+        "entry_id": 0,
+        "original_hex": [
+          "82e082b582a982b582c48141",
+          "82a082cc82c682ab82cc838283938358835e815b82cc8e718b9f82a982e0816381638142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "ねぇ、キュロット。 この子、見覚えない?",
+          "あんたも そう思う?",
+          "この子、ケガしてるわ。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "942845fce8cd13b7a0c2",
+    "original": "Hello、 Sister Prier。 Fighting demons is fine、 but do not forget our true mission。",
+    "es": "Hola, hermana Prier. Luchar contra los demonios está bien, pero no olvides nuestra verdadera misión.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 38792,
+        "entry_id": 203202,
+        "original_hex": [
+          "82678285828c828c828f814181408272828982938294828582928140826f82928289828582928142",
+          "826582898287828882948289828e8287814082848285828d828f828e8293814082898293814082868289828e82858141",
+          "82828295829481408284828f8140828e828f829481408286828f82928287828582948140828f82958292",
+          "82948292829582858140828d8289829382938289828f828e8142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "1ce947e4dcd1f05f457f",
+    "original": "The Church of the Holy Maiden helps anyone in need。 That is what Father Salade says。 And that is why he decided to build  this infirmary。",
+    "es": "La Iglesia de la Santa Doncella ayuda a cualquiera que lo necesite. Eso dice el padre Salade. Por eso decidió construir esta enfermería.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 45287,
+        "entry_id": 208202,
+        "original_hex": [
+          "82738288828581408262828882958292828382888140828f8286814082948288828581408267828f828c8299",
+          "826c8281828982848285828e814082888285828c8290829381408281828e8299828f828e8285",
+          "8289828e8140828e8285828582848142",
+          "8273828882818294814082898293814082978288828182948140826582818294828882858292",
+          "82728281828c828182848285814082938281829982938142",
+          "8260828e8284814082948288828182948140828982938140829782888299814082888285",
+          "828482858283828982848285828481408294828f8140828282958289828c82848140",
+          "829482888289829381408289828e828682898292828d8281829282998142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "55f27563cd12ceb0113f",
+    "original": "Welcome to the Eringa Valley!",
+    "es": "¡Bienvenidos al Valle Eringa!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 48839,
+        "entry_id": 209402,
+        "original_hex": [
+          "82768285828c8283828f828d828581408294828f8140829482888285",
+          "826482928289828e82878281814082758281828c828c828582998149"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "4f9802d34760740e57a8",
+    "original": "It has been many years since humans have  come to this valley。 I am the leader of the valley、 Ellie the 16th。 Some of us may have never seen a human so please forgive our curiosity。",
+    "es": "Hace muchos años que ningún humano venía a este valle. Soy su líder, Ellie XVI. Algunos quizá nunca hayan visto a un humano, así que disculpen nuestra curiosidad.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 49186,
+        "entry_id": 209501,
+        "original_hex": [
+          "8268829481408288828182938140828282858285828e8140828d8281828e8299814082998285828182928293",
+          "82938289828e82838285814082888295828d8281828e8293814082888281829682858140",
+          "8283828f828d828581408294828f81408294828882898293814082968281828c828c828582998142",
+          "826881408281828d81408294828882858140828c828582818284828582928140828f82868140829482888285",
+          "82968281828c828c82858299814181408264828c828c828982858140829482888285814082508255829482888142",
+          "8272828f828d82858140828f82868140829582938140828d8281829981408288828182968285",
+          "828e82858296828582928140829382858285828e81408281814082888295828d8281828e",
+          "8293828f81408290828c828582818293828581408286828f829282878289829682858140828f82958292",
+          "8283829582928289828f82938289829482998142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "0d6b3f4d17dab202b5c5",
+    "original": "Thank you for helping Elizabeth。",
+    "es": "Gracias por ayudar a Elizabeth.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 49714,
+        "entry_id": 209502,
+        "original_hex": [
+          "827382888281828e828b81408299828f829581408286828f8292814082888285828c82908289828e8287",
+          "8264828c8289829a828182828285829482888142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Eringas never forget their debts。 You are  now honorary Eringas。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0693b8d4392c54aaf5af",
+    "original": "The area beyond is Mushroom Road、 the territory of the dragonshrooms。 The dragonshooms are incredibly strong。 You should not even try to fight them。 If you really have to travel on the Mushroom Road、 just run away from the dragonshrooms。 There are also some evil mushrooms around、 so be careful。",
+    "es": "Más adelante está el Camino de las Setas, territorio de los dragones seta. Son increíblemente fuertes. Ni se te ocurra luchar contra ellos. Si debes pasar por allí, huye de los dragones seta. También hay setas malvadas, así que ten cuidado.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 51026,
+        "entry_id": 210101,
+        "original_hex": [
+          "827382888285814082818292828582818140828282858299828f828e8284814082898293",
+          "826c8295829382888292828f828f828d81408271828f8281828481418140829482888285",
+          "829482858292829282898294828f829282998140828f82868140829482888285",
+          "8284829282818287828f828e829382888292828f828f828d82938142",
+          "82738288828581408284829282818287828f828e82938288828f828f828d82938140828182928285",
+          "8289828e828382928285828482898282828c82998140829382948292828f828e82878142",
+          "8278828f8295814082938288828f8295828c82848140828e828f82948140828582968285828e",
+          "82948292829981408294828f8140828682898287828882948140829482888285828d8142",
+          "8268828681408299828f82958140829282858281828c828c82998140828882818296828581408294828f",
+          "82948292828182968285828c8140828f828e81408294828882858140826c8295829382888292828f828f828d",
+          "8271828f8281828481418140828a829582938294814082928295828e81408281829782818299",
+          "82868292828f828d814082948288828581408284829282818287828f828e829382888292828f828f828d82938142",
+          "82738288828582928285814082818292828581408281828c8293828f81408293828f828d82858140828582968289828c",
+          "828d8295829382888292828f828f828d8293814082818292828f8295828e8284814181408293828f",
+          "828282858140828382818292828582868295828c8142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "e45b4cfec9df5bf2020f",
+    "original": "I have never seen humans as strong as you。 You are not the legendary Mushroom Messiah、 are you?",
+    "es": "Nunca he visto a humanos tan fuertes como ustedes. No serán el legendario Mesías de las Setas, ¿verdad?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 51639,
+        "entry_id": 210111,
+        "original_hex": [
+          "8268814082888281829682858140828e82858296828582928140829382858285828e",
+          "82888295828d8281828e82938140828182938140829382948292828f828e8287814082818293",
+          "8299828f82958142",
+          "8278828f829581408281829282858140828e828f82948140829482888285",
+          "828c828582878285828e82848281829282998140826c8295829382888292828f828f828d",
+          "826c8285829382938289828182888141814082818292828581408299828f82958148"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "863e7bae19521cf8d289",
+    "original": "I am the grand elder of Mt。 Champignon。 Things have gotten out of our control recently。 So maybe your coming here is a sign from the Goddess。 Please do something to help us。 If you can bring peace to this land again、 we will be glad to give you some Kinoko Jiru。",
+    "es": "Soy el gran anciano del monte Champignon. Últimamente, la situación escapa a nuestro control. Quizá la diosa los haya enviado. Por favor, ayúdennos. Si logran devolver la paz a esta tierra, les daremos Kinoko Jiru con mucho gusto.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 52294,
+        "entry_id": 210201,
+        "original_hex": [
+          "826881408281828d81408294828882858140828782928281828e828481408285828c8284828582928140828f8286",
+          "826c829481428140826282888281828d829082898287828e828f828e8142",
+          "827382888289828e828782938140828882818296828581408287828f829482948285828e8140828f82958294",
+          "828f82868140828f8295829281408283828f828e82948292828f828c81408292828582838285828e8294828c82998142",
+          "8272828f8140828d828182998282828581408299828f8295829281408283828f828d8289828e8287",
+          "8288828582928285814082898293814082818140829382898287828e814082868292828f828d",
+          "82948288828581408266828f828482848285829382938142",
+          "826f828c828582818293828581408284828f81408293828f828d8285829482888289828e828781408294828f",
+          "82888285828c82908140829582938142",
+          "8268828681408299828f8295814082838281828e8140828282928289828e8287814082908285828182838285",
+          "8294828f814082948288828982938140828c8281828e828481408281828782818289828e8141",
+          "82978285814082978289828c828c81408282828581408287828c8281828481408294828f81408287828982968285",
+          "8299828f829581408293828f828d82858140826a8289828e828f828b828f814082698289829282958142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "c67c761b035db0b72a59",
+    "original": "Wha--?! Anything but that!",
+    "es": "¡¿Qué...?! ¡Cualquier cosa menos eso!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 54202,
+        "entry_id": 210321,
+        "original_hex": [
+          "827682888281817c817c81488149",
+          "8260828e8299829482888289828e82878140828282958294814082948288828182948149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Great! You finally found someone willing to marry you。",
+          "So what if it is a mushroom。。。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ad0e9cf28530450c80f6",
+    "original": "We need to hurry up and catch that monster before it attacks everyone in town! We need to hurry to Mayonnaise!",
+    "es": "¡Tenemos que atrapar a ese monstruo antes de que ataque a toda la ciudad! ¡Hay que ir a Mayonnaise cuanto antes!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 73075,
+        "entry_id": 272201,
+        "original_hex": [
+          "827682858140828e82858285828481408294828f814082888295829282928299814082958290",
+          "8281828e8284814082838281829482838288814082948288828182948140828d828f828e8293829482858292",
+          "828282858286828f82928285814082898294814082818294829482818283828b8293",
+          "82858296828582928299828f828e828581408289828e81408294828f8297828e8149",
+          "827682858140828e82858285828481408294828f81408288829582928292829981408294828f",
+          "826c82818299828f828e828e82818289829382858149"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "d9e8c9e91948c0a1f9cf",
+    "original": "They call themselves the Escargot gang。 It is a bit strange that pirates would come to exterminate monsters。",
+    "es": "Se hacen llamar la banda Escargot. Es extraño que unos piratas vengan a exterminar monstruos.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 75260,
+        "entry_id": 272602,
+        "original_hex": [
+          "8273828882858299814082838281828c828c8140829482888285828d82938285828c829682858293",
+          "8294828882858140826482938283828182928287828f8294814082878281828e82878142",
+          "8268829481408289829381408281814082828289829481408293829482928281828e8287828581408294828882818294",
+          "829082898292828182948285829381408297828f8295828c828481408283828f828d828581408294828f",
+          "82858298829482858292828d8289828e8281829482858140828d828f828e829382948285829282938142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "And to think he would try to make a move on you、 Prier。。。",
+          "The more I remember it、 the more I wanna punch him again。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f98ec8ae341498acd190",
+    "original": "And to think he would try to make a move on you、 Prier。。。",
+    "es": "Y pensar que intentó ligar contigo, Prier...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 75483,
+        "entry_id": 272602,
+        "original_hex": [
+          "8260828e828481408294828f8140829482888289828e828b81408288828581408297828f8295828c8284",
+          "82948292829981408294828f8140828d8281828b8285814082818140828d828f82968285",
+          "828f828e81408299828f829581418140826f8292828982858292814281428142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "They call themselves the Escargot gang。 It is a bit strange that pirates would come to exterminate monsters。",
+          "The more I remember it、 the more I wanna punch him again。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3d0ec26c27cfc58d5d60",
+    "original": "The engine on the Escargot is primed and ready for action! We need to hurry to Mt。 Champignon to save the kid!",
+    "es": "¡El motor del Escargot está listo para la acción! ¡Debemos ir al monte Champignon a salvar al niño!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 77812,
+        "entry_id": 273101,
+        "original_hex": [
+          "82738288828581408285828e82878289828e82858140828f828e8140829482888285",
+          "826482938283828182928287828f82948140828982938140829082928289828d8285828481408281828e8284",
+          "8292828582818284829981408286828f829281408281828382948289828f828e8149",
+          "827682858140828e82858285828481408294828f81408288829582928292829981408294828f",
+          "826c829481428140826282888281828d829082898287828e828f828e81408294828f",
+          "829382818296828581408294828882858140828b828982848149"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "078dab36c909f3a48b5d",
+    "original": "Wha--?",
+    "es": "¿Qué...?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 103251,
+        "entry_id": 401,
+        "original_hex": [
+          "827682888281817c817c8148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "What is with all this noise? It is the middle of the night!",
+          "It has got to be Prier and her stupid training。 No one else makes this much noise。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24bbb1296fc52ce334bb",
+    "original": "W-w-w-wha-wha!!",
+    "es": "¡¡Q-q-q-qué...!!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 103594,
+        "entry_id": 401,
+        "original_hex": [
+          "8276817c8297817c8297817c829782888281817c82978288828181498149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "What is with all this noise? It is the middle of the night!",
+          "It has got to be Prier and her stupid training。 No one else makes this much noise。",
+          "Hahahahaha!",
+          "A monster you s-say?! Hahaha! Heehee! Hoho! Come off it!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8327db869dc08a56753b",
+    "original": "Sister Alouette! ",
+    "es": "¡Hermana Alouette!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 104551,
+        "entry_id": 401,
+        "original_hex": [
+          "82728289829382948285829281408260828c828f8295828582948294828581498140"
+        ],
+        "opcion": false,
+        "contexto": [
+          "When I was a boy、 all I thought about was fighting monsters and saving the princess!",
+          "It was not a dream!",
+          "You believe me、  right Sister Alouette?!",
+          "I think you believe  what you are saying。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0d99b9233e4fcfd082ae",
+    "original": "In the name of the Maiden of Light。",
+    "es": "En nombre de la Doncella de la Luz.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 106210,
+        "entry_id": 401,
+        "original_hex": [
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "826c8281828982848285828e8140828f82868140826b82898287828882948142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Father Salade、 may we go?",
+          "By all means。",
+          "May the Goddess  Poitreene watch over all of you。",
+          "In the name of the Maiden of Light。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2ebe54460f3ee187ba7b",
+    "original": "May the Goddess  Poitreene watch over all of you。",
+    "es": "Que la diosa Poitreene vele por todos ustedes.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 106289,
+        "entry_id": 401,
+        "original_hex": [
+          "826c82818299814082948288828581408266828f828482848285829382938140",
+          "826f828f82898294829282858285828e82858140829782818294828382888140828f829682858292",
+          "8281828c828c8140828f828681408299828f82958142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "By all means。",
+          "In the name of the Maiden of Light。",
+          "In the name of the Maiden of Light。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "27f64948e98e9e8f4487",
+    "original": "In the name of the Maiden of Light。",
+    "es": "En nombre de la Doncella de la Luz.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 106400,
+        "entry_id": 401,
+        "original_hex": [
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "826c8281828982848285828e8140828f82868140826b82898287828882948142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "In the name of the Maiden of Light。",
+          "May the Goddess  Poitreene watch over all of you。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ba61c5b33691b8adb669",
+    "original": "It was not a dream! There really is a monster!",
+    "es": "¡No era un sueño! ¡El monstruo existe de verdad!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 107508,
+        "entry_id": 402,
+        "original_hex": [
+          "8268829481408297828182938140828e828f82948140828181408284829282858281828d8149",
+          "827382888285829282858140829282858281828c828c829981408289829381408281",
+          "828d828f828e82938294828582928149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "I do not believe it。。。",
+          "See Prier! Just like I said!",
+          "This is no time to celebrate!",
+          "Ack! It is coming this way!!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6b62aaa7b570fd398a51",
+    "original": "This is no time to celebrate!",
+    "es": "¡Este no es momento para celebrar!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 107616,
+        "entry_id": 402,
+        "original_hex": [
+          "82738288828982938140828982938140828e828f814082948289828d828581408294828f",
+          "82838285828c8285828282928281829482858149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "See Prier! Just like I said!",
+          "It was not a dream! There really is a monster!",
+          "Ack! It is coming this way!!",
+          "W-what should we do? How are we supposed to fight something like that?!?!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bc1e804bf77aa3822a60",
+    "original": "Well、 we will think of something。",
+    "es": "Bueno, pensaremos en algo.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 108604,
+        "entry_id": 402,
+        "original_hex": [
+          "82768285828c828c8141814082978285814082978289828c828c8140829482888289828e828b8140828f8286",
+          "8293828f828d8285829482888289828e82878142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "And then?",
+          "And then。。。",
+          "Come on!! We will think of something?",
+          "That is a good one! I love it!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "224b95b8edeb31e2a3e6",
+    "original": "Come on!! We will think of something?",
+    "es": "¡¡Venga ya!! ¿Que pensaremos en algo?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 108686,
+        "entry_id": 402,
+        "original_hex": [
+          "8262828f828d82858140828f828e81498149814082768285814082978289828c828c",
+          "829482888289828e828b8140828f828681408293828f828d8285829482888289828e82878148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "And then。。。",
+          "Well、 we will think of something。",
+          "That is a good one! I love it!",
+          "(Sister Alouette。。。)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "334fe0a0891f3673c8be",
+    "original": "Hey Boss -- Should we use the big guns? Meow!",
+    "es": "Oye, jefe, ¿usamos la artillería pesada? ¡Miau!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 110576,
+        "entry_id": 403,
+        "original_hex": [
+          "82678285829981408261828f829382938140817c817c",
+          "82728288828f8295828c8284814082978285814082958293828581408294828882858140828282898287",
+          "82878295828e829381488140826c8285828f82978149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Prepare to attack!",
+          "Attack positions!!",
+          "Do not call me Boss。 It is Captain!",
+          "And do not use the big guns! Understand?!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5b071fca6a276a15c7b0",
+    "original": "You have got some nerve、 trying that kind of thing with a pure、  innocent girl like me!",
+    "es": "¡Hay que tener valor para intentar algo así con una chica tan pura e inocente como yo!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 115209,
+        "entry_id": 404,
+        "original_hex": [
+          "8278828f82958140828882818296828581408287828f829481408293828f828d8285",
+          "828e8285829282968285814181408294829282998289828e8287814082948288828182948140828b8289828e8284",
+          "828f82868140829482888289828e828781408297828982948288814082818140829082958292828581418140",
+          "8289828e828e828f82838285828e82948140828782898292828c8140828c8289828b82858140828d82858149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Same to you!",
+          "You just tried to hug  me、 right?!",
+          "Are you out of your gourd?! I was just saying hello!!",
+          "And what kind of pure、 innocent girl has an  uppercut like that?!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0c484399d4d5f49e8dca",
+    "original": "How nice。 As a token  of our new friendship。",
+    "es": "Qué bonito. Como muestra de nuestra nueva amistad.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 117537,
+        "entry_id": 405,
+        "original_hex": [
+          "8267828f82978140828e82898283828581428140826082938140828181408294828f828b8285828e8140",
+          "828f82868140828f829582928140828e8285829781408286829282898285828e828482938288828982908142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "I am Prier。 I am a member of La Pucelle、 from the Church of the Holy Maiden。",
+          "A Sister、 eh?",
+          "Boss?!",
+          "W-what was that?!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "54357e003a1ee431df83",
+    "original": "You have got some nerve、 trying that kind of thing with a pure、  innocent girl like me!",
+    "es": "¡Hay que tener valor para intentar algo así con una chica tan pura e inocente como yo!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 117827,
+        "entry_id": 405,
+        "original_hex": [
+          "8278828f82958140828882818296828581408287828f829481408293828f828d8285",
+          "828e8285829282968285814181408294829282998289828e8287814082948288828182948140828b8289828e8284",
+          "828f82868140829482888289828e828781408297828982948288814082818140829082958292828581418140",
+          "8289828e828e828f82838285828e82948140828782898292828c8140828c8289828b82858140828d82858149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Same to you!",
+          "You just tried to hug me、 right?!",
+          "Are you out of your gourd?! I was just saying hello!!",
+          "And what kind of pure、 innocent girl has an  uppercut like that?!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "990d27f2d2f40bb6f9d4",
+    "original": "H-hey!",
+    "es": "¡E-eh!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 118692,
+        "entry_id": 405,
+        "original_hex": [
+          "8267817c8288828582998149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "It is headed in the  direction of the church!",
+          "Everybody! After it!",
+          "。。。They are gone。 Why were they in such a hurry?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ce1a52fd71a6ab14a443",
+    "original": "He loves monsters。 He draws pictures of them every day。",
+    "es": "Le encantan los monstruos. Se pasa el día dibujándolos.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 120213,
+        "entry_id": 406,
+        "original_hex": [
+          "826782858140828c828f8296828582938140828d828f828e829382948285829282938142",
+          "826782858140828482928281829782938140829082898283829482958292828582938140828f8286",
+          "829482888285828d81408285829682858292829981408284828182998142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Who drew this picture?",
+          "That? Rocini、 my little boy  drew it。",
+          "He has always been so sick。。。I think he looks up to them、 because  they are so strong。",
+          "Where is your son?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "37d752deb8c3d3732578",
+    "original": "W-what?",
+    "es": "¿Q-qué?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 123948,
+        "entry_id": 406,
+        "original_hex": [
+          "8276817c82978288828182948148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "A true man goes out to meet death head-on!",
+          "It will not do any good to try and stop us!  Come on men!!",
+          "H-hey! Wait a minute! We are coming、 too!",
+          "Prepare for take off!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e715f0d8fa6a557148d2",
+    "original": "Output is 30% of maximum!! Meow! 40!。。。50!。。。60!",
+    "es": "¡¡Potencia al 30 % del máximo!! ¡Miau! ¡40!... ¡50!... ¡60!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 124304,
+        "entry_id": 406,
+        "original_hex": [
+          "826e8295829482908295829481408289829381408252824f81938140828f8286",
+          "828d828182988289828d8295828d814981498140826c8285828f82978149",
+          "8253824f81498142814281428254824f81498142814281428255824f8149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Preparing for take off!!",
+          "High-speed turbulence engines engaged!! Meow!",
+          "What is that? 。。。A bug?",
+          "Do not call me a bug!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bbb78379b5d8ad539b02",
+    "original": "You do not have enough money。 I hope you will come again after you have saved the money",
+    "es": "No tienes suficiente dinero. Espero que vuelvas después de haber ahorrado el dinero necesario.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 126936,
+        "entry_id": 40702,
+        "original_hex": [
+          "8278828f829581408284828f8140828e828f82948140828882818296828581408285828e828f829582878288",
+          "828d828f828e828582998142",
+          "826881408288828f8290828581408299828f8295814082978289828c828c81408283828f828d8285",
+          "8281828782818289828e81408281828682948285829281408299828f829581408288828182968285",
+          "8293828182968285828481408294828882858140828d828f828e82858299"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "ee9c84fb346d4e6ec0d3",
+    "original": "You do not want it? Please come again if you change your mind!",
+    "es": "¿No lo quieres? ¡Vuelve si cambias de opinión!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 127145,
+        "entry_id": 40703,
+        "original_hex": [
+          "8278828f829581408284828f8140828e828f8294814082978281828e82948140828982948148",
+          "826f828c828582818293828581408283828f828d828581408281828782818289828e814082898286",
+          "8299828f82958140828382888281828e8287828581408299828f829582928140828d8289828e82848149"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "058e91dc5181498b30af",
+    "original": "So that is Mt。 Champignon!",
+    "es": "¡Así que ese es el monte Champignon!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 127387,
+        "entry_id": 409,
+        "original_hex": [
+          "8272828f81408294828882818294814082898293",
+          "826c829481428140826282888281828d829082898287828e828f828e8149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Mt。 Champignon、 straight ahead!",
+          "Amazing。。。!",
+          "With an altitude of 10、000 feet、 it is one of the worlds few mushroom-shaped mountains。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7752384132d620a75e47",
+    "original": "Amazing。。。!",
+    "es": "¡Impresionante...!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 127461,
+        "entry_id": 409,
+        "original_hex": [
+          "8260828d8281829a8289828e82878142814281428149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Mt。 Champignon、 straight ahead!",
+          "So that is Mt。 Champignon!",
+          "With an altitude of 10、000 feet、 it is one of the worlds few mushroom-shaped mountains。",
+          "No one has ever made it to the top、 but they say you could fit 50 Cresson Castles up there。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "08a35e080a08238dbf30",
+    "original": "Go ahead and drink it、 Rocini。 They went and got it especially for you。",
+    "es": "Bebe eso, Rocini. Te lo han traído especialmente para ti.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 131832,
+        "entry_id": 412,
+        "original_hex": [
+          "8266828f81408281828882858281828481408281828e82848140828482928289828e828b8140828982948141",
+          "8271828f82838289828e8289814281408273828882858299814082978285828e829481408281828e8284",
+          "8287828f829481408289829481408285829382908285828382898281828c828c8299",
+          "8286828f829281408299828f82958142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Drink this Kinoko Jiru、 you will get better。",
+          "But。。。 It smells horrible。。。",
+          "You are worried about the smell?! Do not you want to get better?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0801e4ec897d1ee0c98b",
+    "original": "But。。。 It smells horrible。。。",
+    "es": "Pero... Huele fatal...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 131991,
+        "entry_id": 412,
+        "original_hex": [
+          "826182958294814281428142",
+          "8268829481408293828d8285828c828c829381408288828f8292829282898282828c8285814281428142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Drink this Kinoko Jiru、 you will get better。",
+          "Go ahead and drink it、 Rocini。 They went and got it especially for you。",
+          "You are worried about the smell?! Do not you want to get better?",
+          "Drinking a little juice is not going to help。。。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2306af78cd0a4e0aea99",
+    "original": "You do not have to dream about becoming a monster any more!",
+    "es": "¡No necesitas soñar más con convertirte en un monstruo!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+        "offset": 132643,
+        "entry_id": 412,
+        "original_hex": [
+          "8278828f829581408284828f8140828e828f82948140828882818296828581408294828f",
+          "8284829282858281828d814082818282828f829582948140828282858283828f828d8289828e8287",
+          "82818140828d828f828e829382948285829281408281828e82998140828d828f829282858149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Good boy!",
+          "See、 you are not weak。 You drank it。",
+          "How did you know that I wanted to be a monster?",
+          "What?  I。。。er。。。 The thing about that is?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e169e343bbec45001531",
+    "original": "A little bit ago、 a member of the Church of the Divine Mother was here trying to convert me! They said if I joined right away、 I would get a genuine faux pearl necklace。。。 I almost joined right then!",
+    "es": "¡Hace un rato vino alguien de la Iglesia de la Divina Madre a intentar que me uniera! Dijeron que, si lo hacía enseguida, me regalarían un auténtico collar de perlas falsas... ¡Casi acepto!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 33543,
+        "entry_id": 201103,
+        "original_hex": [
+          "82608140828c828982948294828c82858140828282898294814082818287828f814181408281",
+          "828d8285828d8282828582928140828f8286814082948288828581408262828882958292828382888140828f8286",
+          "82948288828581408263828982968289828e82858140826c828f82948288828582928140829782818293",
+          "828882858292828581408294829282998289828e828781408294828f81408283828f828e8296828582928294",
+          "828d82858149",
+          "827382888285829981408293828182898284814082898286814082688140828a828f8289828e82858284",
+          "829282898287828882948140828182978281829981418140826881408297828f8295828c82848140828782858294",
+          "8281814082878285828e82958289828e82858140828682818295829881408290828582818292828c",
+          "828e82858283828b828c828182838285814281428142",
+          "826881408281828c828d828f829382948140828a828f8289828e82858284814082928289828782888294",
+          "829482888285828e8149"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "f457b5ddcf45cd2ba112",
+    "original": "Have you heard about the wonderful things the Church of the Divine Mother is selling? They have a special tonic that makes your hair grow! Well、 I do not need it myself、 of course。",
+    "es": "¿Has oído hablar de las maravillosas cosas que vende la Iglesia de la Divina Madre? Tienen un tónico especial que hace que el cabello crezca. Bueno, yo no lo necesito, claro.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 36223,
+        "entry_id": 201604,
+        "original_hex": [
+          "826782818296828581408299828f8295814082888285828182928284814082818282828f82958294",
+          "82948288828581408297828f828e82848285829282868295828c8140829482888289828e828782938140829482888285",
+          "8262828882958292828382888140828f8286814082948288828581408263828982968289828e8285",
+          "826c828f8294828882858292814082898293814082938285828c828c8289828e82878148",
+          "827382888285829981408288828182968285814082818140829382908285828382898281828c",
+          "8294828f828e82898283814082948288828182948140828d8281828b8285829381408299828f82958292",
+          "8288828182898292814082878292828f82978149",
+          "82768285828c828c81418140826881408284828f8140828e828f82948140828e828582858284814082898294",
+          "828d829982938285828c828681418140828f828681408283828f82958292829382858142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "c6e856cb4dd937ab686a",
+    "original": "You can often go on to the next map without defeating all of the enemies on the map。 Remember sometimes it is smarter to run away。",
+    "es": "A menudo puedes pasar al siguiente mapa sin derrotar a todos los enemigos. Recuerda que a veces es más inteligente huir.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 37636,
+        "entry_id": 202204,
+        "original_hex": [
+          "8278828f8295814082838281828e8140828f828682948285828e81408287828f8140828f828e",
+          "8294828f81408294828882858140828e8285829882948140828d8281829081408297828982948288828f82958294",
+          "8284828582868285828182948289828e828781408281828c828c8140828f82868140829482888285",
+          "8285828e8285828d8289828582938140828f828e81408294828882858140828d828182908142",
+          "82718285828d8285828d82828285829281408293828f828d828582948289828d82858293814082898294",
+          "8289829381408293828d8281829282948285829281408294828f814082928295828e814082818297828182998142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "30aebc868afbf4ebb489",
+    "original": "The Holy Book makes no mention of the creatures in Meuniere Forest。 We do not know anything about them、 so be careful。",
+    "es": "El Libro Sagrado no menciona a las criaturas del bosque Meunière. No sabemos nada de ellas, así que tengan cuidado.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 38077,
+        "entry_id": 202304,
+        "original_hex": [
+          "82738288828581408267828f828c829981408261828f828f828b8140828d8281828b82858293",
+          "828e828f8140828d8285828e82948289828f828e8140828f82868140829482888285",
+          "82838292828582818294829582928285829381408289828e8140826c82858295828e8289828582928285",
+          "8265828f82928285829382948142",
+          "8276828581408284828f8140828e828f82948140828b828e828f829781408281828e8299829482888289828e8287",
+          "82818282828f829582948140829482888285828d814181408293828f814082828285",
+          "828382818292828582868295828c8142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "4d7e372ebd8a068bad8c",
+    "original": "Recently、 someone from the Church of the Divine Mother was seen in Meuniere Forest。 I am sure those creatures in the forest have something to do with them!",
+    "es": "Hace poco vieron a alguien de la Iglesia de la Divina Madre en el bosque Meunière. ¡Seguro que esas criaturas tienen algo que ver con ellos!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 42353,
+        "entry_id": 206205,
+        "original_hex": [
+          "8271828582838285828e8294828c8299814181408293828f828d8285828f828e8285814082868292828f828d",
+          "82948288828581408262828882958292828382888140828f8286814082948288828581408263828982968289828e8285",
+          "826c828f829482888285829281408297828182938140829382858285828e81408289828e",
+          "826c82858295828e828982858292828581408265828f82928285829382948142",
+          "826881408281828d81408293829582928285814082948288828f82938285",
+          "82838292828582818294829582928285829381408289828e8140829482888285",
+          "8286828f82928285829382948140828882818296828581408293828f828d8285829482888289828e8287",
+          "8294828f81408284828f814082978289829482888140829482888285828d8149"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "14c12661e438a57a7eff",
+    "original": "There are Eringa Valleys all over the world。 I think there is one in a place called Marl or something。。。",
+    "es": "Hay valles Eringa por todo el mundo. Creo que hay uno en un sitio llamado Marl o algo así...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 46098,
+        "entry_id": 209301,
+        "original_hex": [
+          "8273828882858292828581408281829282858140826482928289828e82878281814082758281828c828c828582998293",
+          "8281828c828c8140828f829682858292814082948288828581408297828f8292828c82848142",
+          "82688140829482888289828e828b8140829482888285829282858140828982938140828f828e828581408289828e",
+          "828181408290828c828182838285814082838281828c828c828582848140826c82818292828c8140828f8292",
+          "8293828f828d8285829482888289828e8287814281428142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "52d76f17cd4c96550e43",
+    "original": "You do not have enough money。 I have my standards、 you know。",
+    "es": "No tienes suficiente dinero. Tengo mis exigencias, ¿sabes?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 46587,
+        "entry_id": 209312,
+        "original_hex": [
+          "8278828f829581408284828f8140828e828f82948140828882818296828581408285828e828f829582878288",
+          "828d828f828e82858299814281408268814082888281829682858140828d8299",
+          "829382948281828e82848281829282848293814181408299828f82958140828b828e828f82978142"
+        ],
+        "opcion": false,
+        "contexto": []
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+        "offset": 47863,
+        "entry_id": 209312,
+        "original_hex": [
+          "8278828f829581408284828f8140828e828f82948140828882818296828581408285828e828f829582878288",
+          "828d828f828e82858299814281408268814082888281829682858140828d8299",
+          "829382948281828e82848281829282848293814181408299828f82958140828b828e828f82978142"
+        ],
+        "opcion": false,
+        "contexto": []
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        "offset": 46532,
+        "entry_id": 209312,
+        "original_hex": [
+          "8278828f829581408284828f8140828e828f82948140828882818296828581408285828e828f829582878288",
+          "828d828f828e82858299814281408268814082888281829682858140828d8299",
+          "829382948281828e82848281829282848293814181408299828f82958140828b828e828f82978142"
+        ],
+        "opcion": false,
+        "contexto": []
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+        "offset": 57073,
+        "entry_id": 209312,
+        "original_hex": [
+          "8278828f829581408284828f8140828e828f82948140828882818296828581408285828e828f829582878288",
+          "828d828f828e82858299814281408268814082888281829682858140828d8299",
+          "829382948281828e82848281829282848293814181408299828f82958140828b828e828f82978142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "ee0da737a0a3bba7fc7d",
+    "original": "You seem to have too many friends all ready。 Come back after you have gotten rid of some of them。",
+    "es": "Parece que ya tienes demasiados compañeros. Vuelve cuando hayas prescindido de algunos.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 46729,
+        "entry_id": 209322,
+        "original_hex": [
+          "8278828f82958140829382858285828d81408294828f8140828882818296828581408294828f828f",
+          "828d8281828e829981408286829282898285828e8284829381408281828c828c8140829282858281828482998142",
+          "8262828f828d82858140828282818283828b81408281828682948285829281408299828f829581408288828182968285",
+          "8287828f829482948285828e81408292828982848140828f828681408293828f828d82858140828f8286",
+          "829482888285828d8142"
+        ],
+        "opcion": false,
+        "contexto": []
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+        "offset": 48005,
+        "entry_id": 209322,
+        "original_hex": [
+          "8278828f82958140829382858285828d81408294828f8140828882818296828581408294828f828f",
+          "828d8281828e829981408286829282898285828e8284829381408281828c828c8140829282858281828482998142",
+          "8262828f828d82858140828282818283828b81408281828682948285829281408299828f829581408288828182968285",
+          "8287828f829482948285828e81408292828982848140828f828681408293828f828d82858140828f8286",
+          "829482888285828d8142"
+        ],
+        "opcion": false,
+        "contexto": []
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        "offset": 46674,
+        "entry_id": 209322,
+        "original_hex": [
+          "8278828f82958140829382858285828d81408294828f8140828882818296828581408294828f828f",
+          "828d8281828e829981408286829282898285828e8284829381408281828c828c8140829282858281828482998142",
+          "8262828f828d82858140828282818283828b81408281828682948285829281408299828f829581408288828182968285",
+          "8287828f829482948285828e81408292828982848140828f828681408293828f828d82858140828f8286",
+          "829482888285828d8142"
+        ],
+        "opcion": false,
+        "contexto": []
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+        "offset": 57215,
+        "entry_id": 209322,
+        "original_hex": [
+          "8278828f82958140829382858285828d81408294828f8140828882818296828581408294828f828f",
+          "828d8281828e829981408286829282898285828e8284829381408281828c828c8140829282858281828482998142",
+          "8262828f828d82858140828282818283828b81408281828682948285829281408299828f829581408288828182968285",
+          "8287828f829482948285828e81408292828982848140828f828681408293828f828d82858140828f8286",
+          "829482888285828d8142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "a2312d86eb9ac6ac0b89",
+    "original": "Thanks! I promise I will work hard!",
+    "es": "¡Gracias! ¡Prometo esforzarme mucho!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 46941,
+        "entry_id": 209322,
+        "original_hex": [
+          "827382888281828e828b82938149",
+          "8268814082908292828f828d82898293828581408268814082978289828c828c81408297828f8292828b",
+          "82888281829282848149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "An Eringa joined forces with you!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+        "offset": 48217,
+        "entry_id": 209322,
+        "original_hex": [
+          "827382888281828e828b82938149",
+          "8268814082908292828f828d82898293828581408268814082978289828c828c81408297828f8292828b",
+          "82888281829282848149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "An Eringa joined forces with you!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        "offset": 46886,
+        "entry_id": 209322,
+        "original_hex": [
+          "827382888281828e828b82938149",
+          "8268814082908292828f828d82898293828581408268814082978289828c828c81408297828f8292828b",
+          "82888281829282848149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "An Eringa joined forces with you!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+        "offset": 57427,
+        "entry_id": 209322,
+        "original_hex": [
+          "827382888281828e828b82938149",
+          "8268814082908292828f828d82898293828581408268814082978289828c828c81408297828f8292828b",
+          "82888281829282848149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "An Eringa joined forces with you!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "81000c5bf10d064ebc08",
+    "original": "Thanks to you、 the dragonshrooms have stopped coming out of their territory。 But they are still very dangerous。 It is probably better to avoid fighting them。",
+    "es": "Gracias a ustedes, los dragones seta ya no salen de su territorio. Pero siguen siendo muy peligrosos. Es mejor evitar luchar contra ellos.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 48915,
+        "entry_id": 210102,
+        "original_hex": [
+          "827382888281828e828b829381408294828f81408299828f829581418140829482888285",
+          "8284829282818287828f828e829382888292828f828f828d829381408288828182968285",
+          "82938294828f829082908285828481408283828f828d8289828e82878140828f829582948140828f8286",
+          "829482888285828982928140829482858292829282898294828f829282998142",
+          "8261829582948140829482888285829981408281829282858140829382948289828c828c81408296828582928299",
+          "82848281828e828782858292828f829582938142814082688294814082898293",
+          "82908292828f828282818282828c8299814082828285829482948285829281408294828f814082818296828f82898284",
+          "828682898287828882948289828e82878140829482888285828d8142"
+        ],
+        "opcion": false,
+        "contexto": []
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+        "offset": 49176,
+        "entry_id": 210102,
+        "original_hex": [
+          "827382888281828e828b829381408294828f81408299828f829581418140829482888285",
+          "8284829282818287828f828e829382888292828f828f828d829381408288828182968285",
+          "82938294828f829082908285828481408283828f828d8289828e82878140828f829582948140828f8286",
+          "829482888285828982928140829482858292829282898294828f829282998142",
+          "8261829582948140829482888285829981408281829282858140829382948289828c828c81408296828582928299",
+          "82848281828e828782858292828f829582938142814082688294814082898293",
+          "82908292828f828282818282828c8299814082828285829482948285829281408294828f814082818296828f82898284",
+          "828682898287828882948289828e82878140829482888285828d8142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "97b206ce77cde2fc8126",
+    "original": "We need to go and investigate those weird creatures that keeps showing up around Meuniere Forest。",
+    "es": "Debemos investigar esas criaturas extrañas que aparecen cerca del bosque Meunière.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 69508,
+        "entry_id": 273701,
+        "original_hex": [
+          "827682858140828e82858285828481408294828f81408287828f81408281828e8284",
+          "8289828e829682858293829482898287828182948285814082948288828f82938285814082978285828982928284",
+          "828382928285828182948295829282858293814082948288828182948140828b8285828582908293",
+          "82938288828f82978289828e8287814082958290814082818292828f8295828e8284",
+          "826c82858295828e828982858292828581408265828f82928285829382948142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "54b4d3433681ad9dcf90",
+    "original": "Time to reveal the truth behind these creatures!",
+    "es": "¡Es hora de averiguar la verdad sobre esas criaturas!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 69727,
+        "entry_id": 273702,
+        "original_hex": [
+          "82738289828d828581408294828f814082928285829682858281828c8140829482888285814082948292829582948288",
+          "8282828582888289828e828481408294828882858293828581408283829282858281829482958292828582938149"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "46ae83963d7dc70f7e33",
+    "original": "No matter what I am facing、 no one will get in my way! In the name of the Maiden of Light!",
+    "es": "¡No importa a qué me enfrente, nadie se interpondrá en mi camino! ¡En nombre de la Doncella de la Luz!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 69970,
+        "entry_id": 273802,
+        "original_hex": [
+          "826d828f8140828d82818294829482858292814082978288828182948140826881408281828d",
+          "8286828182838289828e828781418140828e828f8140828f828e8285814082978289828c828c8140828782858294",
+          "8289828e8140828d829981408297828182998149",
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "826c8281828982848285828e8140828f82868140826b82898287828882948149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Come on。 Leave some fun for me、 too!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "874768eb59bd9a2cef14",
+    "original": "So she only wants to date good looking guys、 huh。。。 I guess everyone thinks that。。。",
+    "es": "Así que ella solo quiere salir con chicos guapos, ¿eh? Supongo que todos piensan lo mismo.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 71869,
+        "entry_id": 274301,
+        "original_hex": [
+          "8272828f81408293828882858140828f828e828c8299814082978281828e8294829381408294828f",
+          "828482818294828581408287828f828f82848140828c828f828f828b8289828e8287814082878295829982938141",
+          "828882958288814281428142",
+          "8268814082878295828582938293814082858296828582928299828f828e82858140829482888289828e828b8293",
+          "8294828882818294814281428142"
+        ],
+        "opcion": false,
+        "contexto": []
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 75105,
+        "entry_id": 274901,
+        "original_hex": [
+          "8272828f81408293828882858140828f828e828c8299814082978281828e8294829381408294828f",
+          "828482818294828581408287828f828f82848140828c828f828f828b8289828e8287814082878295829982938141",
+          "828882958288814281428142",
+          "8268814082878295828582938293814082858296828582928299828f828e82858140829482888289828e828b8293",
+          "8294828882818294814281428142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "1ab3b9ad20f2daa70f30",
+    "original": "Not everyone thinks that! Be sure to find yourself a great girlfriend、 Culotte!",
+    "es": "¡No todo el mundo piensa así! ¡Búscate una buena novia, Culotte!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 72060,
+        "entry_id": 274302,
+        "original_hex": [
+          "826d828f8294814082858296828582928299828f828e82858140829482888289828e828b8293",
+          "82948288828182948149",
+          "826182858140829382958292828581408294828f814082868289828e8284",
+          "8299828f8295829282938285828c828681408281814082878292828582818294",
+          "828782898292828c8286829282898285828e82848141814082628295828c828f8294829482858149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "You know、 someone like me!",
+          "You gotta be kidding。。。"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 75296,
+        "entry_id": 274902,
+        "original_hex": [
+          "826d828f8294814082858296828582928299828f828e82858140829482888289828e828b8293",
+          "82948288828182948149",
+          "826182858140829382958292828581408294828f814082868289828e828481408299828f8295829282938285828c8286",
+          "82818140828782928285828182948140828782898292828c8286829282898285828e82848141",
+          "82628295828c828f8294829482858149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "You know、 someone like me!",
+          "You gotta be kidding。。。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dcc632b6c470ec28d48e",
+    "original": "I never would have dreamed that the source of all of this was some hair growth tonic。。。",
+    "es": "Nunca habría imaginado que todo esto se debía a un tónico para hacer crecer el pelo...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 72723,
+        "entry_id": 274501,
+        "original_hex": [
+          "82688140828e828582968285829281408297828f8295828c828481408288828182968285",
+          "8284829282858281828d8285828481408294828882818294814082948288828581408293828f8295829282838285",
+          "828f828681408281828c828c8140828f828681408294828882898293814082978281829381408293828f828d8285",
+          "8288828182898292814082878292828f82978294828881408294828f828e82898283814281428142"
+        ],
+        "opcion": false,
+        "contexto": []
+      }
+    ]
+  },
+  {
+    "id": "ec6fadd4440940d82033",
+    "original": "What do you think you are doing over there?!",
+    "es": "¡¿Qué te crees que estás haciendo ahí?!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 97988,
+        "entry_id": 501,
+        "original_hex": [
+          "827682888281829481408284828f81408299828f82958140829482888289828e828b81408299828f8295",
+          "82818292828581408284828f8289828e82878140828f82968285829281408294828882858292828581488149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Darn!! I overslept!",
+          "Hey、 where is Culotte?",
+          "This is not OK!",
+          "This is the third day in a row you have been late、 Prier。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "196a66c46f617fd1b1a3",
+    "original": "Keep your wits about you。",
+    "es": "Mantente alerta.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 99982,
+        "entry_id": 501,
+        "original_hex": [
+          "826a82858285829081408299828f8295829281408297828982948293814082818282828f82958294",
+          "8299828f82958142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "N-no、 nothing。 Forget I mentioned it。 Just a momentary slip of the lip。。。",
+          "But the Church of the Divine Mother does seem to be getting more active。",
+          "Do not worry so much!!",
+          "When I become the Maiden of Light、 I will take care of them all single-handed!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9e237d0b2540ff0e7da4",
+    "original": "Do not worry so much!!",
+    "es": "¡¡No te preocupes tanto!!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 100048,
+        "entry_id": 501,
+        "original_hex": [
+          "8263828f8140828e828f829481408297828f82928292829981408293828f8140828d82958283828881498149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "But the Church of the Divine Mother does seem to be getting more active。",
+          "Keep your wits about you。",
+          "When I become the Maiden of Light、 I will take care of them all single-handed!",
+          "You are not exactly putting my mind at ease、 Prier。。。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "50bded74851bc03d0afe",
+    "original": "I have never seen anything like them before。",
+    "es": "Nunca he visto algo así antes.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 100504,
+        "entry_id": 502,
+        "original_hex": [
+          "8268814082888281829682858140828e82858296828582928140829382858285828e",
+          "8281828e8299829482888289828e82878140828c8289828b82858140829482888285828d",
+          "828282858286828f829282858142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Ugh! What are these things?!",
+          "Sister Alouette、 are these some kind of monster?",
+          "No。 They radiate intense spiritual energy、 but I sense no life force in them。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "681466b6aa91d0919091",
+    "original": "Sister Alouette、 are these some kind of monster?",
+    "es": "Hermana Alouette, ¿esas criaturas son algún tipo de monstruo?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 100608,
+        "entry_id": 502,
+        "original_hex": [
+          "82728289829382948285829281408260828c828f8295828582948294828581418140828182928285",
+          "8294828882858293828581408293828f828d82858140828b8289828e82848140828f8286",
+          "828d828f828e82938294828582928148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Ugh! What are these things?!",
+          "I have never seen anything like them before。",
+          "No。 They radiate intense spiritual energy、 but I sense no life force in them。",
+          "They seem to be artificially created spirits。。。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eb695ce86abbd377c1bf",
+    "original": "No。 They radiate intense spiritual energy、 but I sense no life force in them。",
+    "es": "No. Ellos irradian una intensa energía espiritual, pero no percibo ninguna fuerza vital en ellos.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 100720,
+        "entry_id": 502,
+        "original_hex": [
+          "826d828f8142814082738288828582998140829282818284828982818294828581408289828e82948285828e82938285",
+          "82938290828982928289829482958281828c81408285828e82858292828782998141814082828295829481408268",
+          "82938285828e829382858140828e828f8140828c82898286828581408286828f82928283828581408289828e",
+          "829482888285828d8142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "I have never seen anything like them before。",
+          "Sister Alouette、 are these some kind of monster?",
+          "They seem to be artificially created spirits。。。",
+          "So they are like demons、 then?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6925d352189cfb78f104",
+    "original": "They seem to be artificially created spirits。。。",
+    "es": "Parecen ser espíritus creados artificialmente...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 100891,
+        "entry_id": 502,
+        "original_hex": [
+          "82738288828582998140829382858285828d81408294828f814082828285",
+          "828182928294828982868289828382898281828c828c829981408283829282858281829482858284",
+          "8293829082898292828982948293814281428142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Sister Alouette、 are these some kind of monster?",
+          "No。 They radiate intense spiritual energy、 but I sense no life force in them。",
+          "So they are like demons、 then?",
+          "Why did not you say so? We can handle them!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "72e25e5f45f8b3b6e443",
+    "original": "What is that supposed to mean? You choose your boyfriends just on their looks?",
+    "es": "¿Qué significa eso? ¿Eliges a tus novios solo por su apariencia?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 104656,
+        "entry_id": 504,
+        "original_hex": [
+          "82768288828182948140828982938140829482888281829481408293829582908290828f829382858284",
+          "8294828f8140828d82858281828e814881408278828f8295814082838288828f828f82938285",
+          "8299828f8295829281408282828f82998286829282898285828e82848293",
+          "828a8295829382948140828f828e8140829482888285828982928140828c828f828f828b82938148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "With hair、 he is pretty handsome、 so I figured it would be OK to go out with him。",
+          "But I do not really mind not being able to see him。",
+          "Yea、 pretty much。  What is the big deal?",
+          "I mean、 cute beats、 like、 ugly any day。 What、 you like ugly?  Whatever。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7aae256daa2630d33183",
+    "original": "You have gotta be kidding。。。",
+    "es": "Debes estar bromeando...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 106802,
+        "entry_id": 0,
+        "original_hex": [
+          "8278828f82958140828882818296828581408287828f829482948281814082828285",
+          "828b8289828482848289828e8287814281428142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "So this is the cause of all the trouble。。。?",
+          "Looks like it。",
+          "So you got the tonic from a man who said he was from the Church of the Divine Mother?",
+          "Yes、 that is right。 What about it?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e859027c67ec54386aa8",
+    "original": "They probably will not attack their creator。 They would not be able to reproduce without him。",
+    "es": "Probablemente no atacarán a su creador. No podrían reproducirse sin él.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 107332,
+        "entry_id": 0,
+        "original_hex": [
+          "8273828882858299814082908292828f828282818282828c8299814082978289828c828c8140828e828f8294",
+          "82818294829482818283828b814082948288828582898292814082838292828582818294828f82928142",
+          "827382888285829981408297828f8295828c82848140828e828f8294814082828285814082818282828c8285",
+          "8294828f81408292828582908292828f828482958283828581408297828982948288828f82958294",
+          "82888289828d8142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Have not you noticed any furry little things prancing around here lately?",
+          "No、 why?",
+          "Look、 whatever you do、 just do not use that tonic anymore!",
+          "W-what?! I value this tonic as much as my life!!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c77429119820212d011c",
+    "original": "Look、 whatever you do、 just do not use that tonic anymore!",
+    "es": "Mira, hagas lo que hagas, ¡no uses ese tónico nunca más!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 107535,
+        "entry_id": 0,
+        "original_hex": [
+          "826b828f828f828b814181408297828882818294828582968285829281408299828f829581408284828f8141",
+          "828a82958293829481408284828f8140828e828f8294814082958293828581408294828882818294",
+          "8294828f828e8289828381408281828e8299828d828f829282858149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "No、 why?",
+          "They probably will not attack their creator。 They would not be able to reproduce without him。",
+          "W-what?! I value this tonic as much as my life!!",
+          "Thanks to this tonic、 I am going out with Suzanne、 my dream-girl!!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "45b395855fb77af5dbf7",
+    "original": "Barsom told us about you。",
+    "es": "Barsom nos habló de ti.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 109659,
+        "entry_id": 506,
+        "original_hex": [
+          "8261828182928293828f828d81408294828f828c8284814082958293814082818282828f82958294",
+          "8299828f82958142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "So you are Suzanne?",
+          "That is right。 How did you know my name?",
+          "The truth is。。。",
+          "。。。So what are you saying? Barsoms hair growth tonic is creating those creatures?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ce15ef44f7c891abd366",
+    "original": "The truth is。。。",
+    "es": "La verdad es...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 109718,
+        "entry_id": 506,
+        "original_hex": [
+          "827382888285814082948292829582948288814082898293814281428142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "That is right。 How did you know my name?",
+          "Barsom told us about you。",
+          "。。。So what are you saying? Barsoms hair growth tonic is creating those creatures?",
+          "I am afraid so。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a95a566e0325f53b6a4d",
+    "original": "I guess I should have known。 A bald man does not suddenly start growing hair like that。",
+    "es": "Debería haberlo imaginado. A un calvo no le empieza a crecer el pelo así de repente.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 109989,
+        "entry_id": 506,
+        "original_hex": [
+          "826881408287829582858293829381408268814082938288828f8295828c828481408288828182968285",
+          "828b828e828f8297828e814281408260814082828281828c82848140828d8281828e",
+          "8284828f828582938140828e828f8294814082938295828482848285828e828c8299814082938294828182928294",
+          "82878292828f82978289828e8287814082888281828982928140828c8289828b8285814082948288828182948142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "。。。So what are you saying? Barsoms hair growth tonic is creating those creatures?",
+          "I am afraid so。",
+          "With hair、 he is pretty handsome、 so I figured it would be OK to go out with him。",
+          "But it is over now。 I am going to dump him。"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 143383,
+        "entry_id": 514,
+        "original_hex": [
+          "826881408287829582858293829381408268814082938288828f8295828c828481408288828182968285",
+          "828b828e828f8297828e814281408260814082828281828c82848140828d8281828e",
+          "8284828f828582938140828e828f8294814082938295828482848285828e828c8299814082938294828182928294",
+          "82878292828f82978289828e8287814082888281828982928140828c8289828b8285814082948288828182948142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "。。。So what are you saying? Barsoms hair growth tonic is creating those creatures?",
+          "I am afraid so。",
+          "With hair、 he is pretty handsome、 so I figured it would be OK to go out with him。",
+          "But it is over now。 I am going to dump him。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8f1cf29924e2023c7ef2",
+    "original": "What is that supposed to mean? You choose your boyfriends just on their looks?",
+    "es": "¿Qué significa eso? ¿Eliges a tus novios solo por su apariencia?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 110454,
+        "entry_id": 506,
+        "original_hex": [
+          "82768288828182948140828982938140829482888281829481408293829582908290828f829382858284",
+          "8294828f8140828d82858281828e814881408278828f8295814082838288828f828f82938285",
+          "8299828f8295829281408282828f82998286829282898285828e82848293",
+          "828a8295829382948140828f828e8140829482888285828982928140828c828f828f828b82938148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "With hair、 he is pretty handsome、 so I figured it would be OK to go out with him。",
+          "But it is over now。 I am going to dump him。",
+          "Yea、 pretty much。  What is the big deal?",
+          "I mean、 cute beats、 like、 ugly any day。 What、 you like ugly?  Whatever。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a958043748be182dbc2a",
+    "original": "Wha--?!",
+    "es": "¡¿Qué...?!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 112416,
+        "entry_id": 506,
+        "original_hex": [
+          "827682888281817c817c81488149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Shut your mouth!  What do you know?!",
+          "You are nothing but a little kid!",
+          "This is a problem。 I had hoped that she might convince Barsom not to use the tonic。。。",
+          "Hey!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 145768,
+        "entry_id": 514,
+        "original_hex": [
+          "827682888281817c817c81488149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Shut your mouth!  What do you know?!",
+          "You are nothing but a little kid!",
+          "This is a problem。 I had hoped that she might convince Barsom not to use the tonic。。。",
+          "Hey!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "313b0fcab7dc2f277465",
+    "original": "What is wrong? Hello?!",
+    "es": "¿Qué pasa? ¡¿Me oyes?!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 112654,
+        "entry_id": 506,
+        "original_hex": [
+          "8276828882818294814082898293814082978292828f828e82878148",
+          "82678285828c828c828f81488149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "This is a problem。 I had hoped that she might convince Barsom not to use the tonic。。。",
+          "Hey!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 146006,
+        "entry_id": 514,
+        "original_hex": [
+          "8276828882818294814082898293814082978292828f828e82878148",
+          "82678285828c828c828f81488149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "This is a problem。 I had hoped that she might convince Barsom not to use the tonic。。。",
+          "Hey!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "02859c29d6405fc6573b",
+    "original": "I am so grateful! I do not know how to thank you!!",
+    "es": "¡Te lo agradezco muchísimo! ¡¡No sé cómo darte las gracias!!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 112946,
+        "entry_id": 0,
+        "original_hex": [
+          "826881408281828d81408293828f81408287829282818294828582868295828c8149",
+          "826881408284828f8140828e828f82948140828b828e828f8297",
+          "8288828f829781408294828f8140829482888281828e828b81408299828f829581498149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Here is your new tonic。",
+          "Great! The stuff you gave me last time was about to run out!",
+          "No thanks are necessary。 The Church of the Divine Mother always helps those in need。",
+          "What a crock!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "226687969a63450015c4",
+    "original": "No thanks are necessary。 The Church of the Divine Mother always helps those in need。",
+    "es": "No hace falta dar las gracias. La Iglesia de la Divina Madre siempre ayuda a quienes lo necesitan.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 113058,
+        "entry_id": 0,
+        "original_hex": [
+          "826d828f8140829482888281828e828b829381408281829282858140828e828582838285829382938281829282998142",
+          "82738288828581408262828882958292828382888140828f8286814082948288828581408263828982968289828e8285",
+          "826c828f829482888285829281408281828c8297828182998293814082888285828c82908293",
+          "82948288828f8293828581408289828e8140828e8285828582848142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Great! The stuff you gave me last time was about to run out!",
+          "I am so grateful! I do not know how to thank you!!",
+          "What a crock!",
+          "The Church of the Holy Maiden!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1b9c9a9a1fedc0e3967e",
+    "original": "The Church of the Holy Maiden!",
+    "es": "¡La Iglesia de la Santa Doncella!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 113285,
+        "entry_id": 0,
+        "original_hex": [
+          "82738288828581408262828882958292828382888140828f82868140829482888285",
+          "8267828f828c82998140826c8281828982848285828e8149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "No thanks are necessary。 The Church of the Divine Mother always helps those in need。",
+          "What a crock!",
+          "That is right!!",
+          "Preying on the weaknesses of others! I will not stand for it!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 115021,
+        "entry_id": 0,
+        "original_hex": [
+          "82738288828581408262828882958292828382888140828f82868140829482888285",
+          "8267828f828c82998140826c8281828982848285828e8149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "No thanks are necessary。 The Church of the Divine Mother always helps those in need。",
+          "What a crock!",
+          "That is right!!",
+          "Preying on the weaknesses of others! I will not stand for it!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d8cfebb5367d22bad9c5",
+    "original": "That is right!!",
+    "es": "¡¡Así es!!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 113361,
+        "entry_id": 0,
+        "original_hex": [
+          "827382888281829481408289829381408292828982878288829481498149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "What a crock!",
+          "The Church of the Holy Maiden!",
+          "Preying on the weaknesses of others! I will not stand for it!",
+          "In the name of the Maiden of Light、 you will be punished!!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 115097,
+        "entry_id": 0,
+        "original_hex": [
+          "827382888281829481408289829381408292828982878288829481498149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "What a crock!",
+          "The Church of the Holy Maiden!",
+          "Preying on the weaknesses of others! I will not stand for it!",
+          "In the name of the Maiden of Light、 you will be punished!!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5d6958b006739db396f9",
+    "original": "In the name of the Maiden of Light、 you will be punished!!",
+    "es": "¡¡En nombre de la Doncella de la Luz, recibirás tu castigo!!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 113538,
+        "entry_id": 0,
+        "original_hex": [
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "826c8281828982848285828e8140828f82868140826b8289828782888294814181408299828f8295",
+          "82978289828c828c814082828285814082908295828e8289829382888285828481498149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "That is right!!",
+          "Preying on the weaknesses of others! I will not stand for it!",
+          "Repent!!",
+          "Do not make me laugh! What do you know?!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 115274,
+        "entry_id": 0,
+        "original_hex": [
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "826c8281828982848285828e8140828f82868140826b8289828782888294814181408299828f8295",
+          "82978289828c828c814082828285814082908295828e8289829382888285828481498149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "That is right!!",
+          "Preying on the weaknesses of others! I will not stand for it!",
+          "Repent!!",
+          "Do not make me laugh! What do you know?!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20eda0809745f46c849d",
+    "original": "Please accept my apologies。",
+    "es": "Por favor, acepte mis disculpas.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 117063,
+        "entry_id": 509,
+        "original_hex": [
+          "826f828c828582818293828581408281828382838285829082948140828d8299",
+          "82818290828f828c828f82878289828582938142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Master Noir!!",
+          "B-but why?!?! I am doing this for yooooouuuuu!!!",
+          "I am Noir、 the head of the Church of the Divine Mother。 I am pleased to make your acquaintance。",
+          "Why did you stop him?"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 124448,
+        "entry_id": 510,
+        "original_hex": [
+          "826f828c828582818293828581408281828382838285829082948140828d8299",
+          "82818290828f828c828f82878289828582938142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Master Noir!!",
+          "B-but why?!?! I am doing this for yooooouuuuu!!!",
+          "I am Noir、 the head of the Church of the Divine Mother。 I am pleased to make your acquaintance。",
+          "Why did you stop him?"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 133068,
+        "entry_id": 511,
+        "original_hex": [
+          "826f828c828582818293828581408281828382838285829082948140828d8299",
+          "82818290828f828c828f82878289828582938142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Master Noir!!",
+          "B-but why?!?! I am doing this for yooooouuuuu!!!",
+          "I am Noir、 the head of the Church of the Divine Mother。 I am pleased to make your acquaintance。",
+          "Why did you stop him?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8c6a1083e8304a38ce25",
+    "original": "I am Noir、 the head of the Church of the Divine Mother。 I am pleased to make your acquaintance。",
+    "es": "Soy Noir, el líder de la Iglesia de la Divina Madre. Encantado de conocerlos.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 117129,
+        "entry_id": 509,
+        "original_hex": [
+          "826881408281828d8140826d828f8289829281418140829482888285814082888285828182848140828f8286",
+          "82948288828581408262828882958292828382888140828f8286814082948288828581408263828982968289828e8285",
+          "826c828f829482888285829281428140826881408281828d81408290828c82858281829382858284",
+          "8294828f8140828d8281828b828581408299828f82958292",
+          "828182838291829582818289828e82948281828e828382858142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "B-but why?!?! I am doing this for yooooouuuuu!!!",
+          "Please accept my apologies。",
+          "Why did you stop him?",
+          "Would not it be better for you if he had burned the forest to a crisp、 and us with it?"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 124514,
+        "entry_id": 510,
+        "original_hex": [
+          "826881408281828d8140826d828f8289829281418140829482888285814082888285828182848140828f8286",
+          "82948288828581408262828882958292828382888140828f8286814082948288828581408263828982968289828e8285",
+          "826c828f829482888285829281428140826881408281828d81408290828c82858281829382858284",
+          "8294828f8140828d8281828b828581408299828f82958292",
+          "828182838291829582818289828e82948281828e828382858142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "B-but why?!?! I am doing this for yooooouuuuu!!!",
+          "Please accept my apologies。",
+          "Why did you stop him?",
+          "Would not it be better for you if he had burned the forest to a crisp、 and us with it?"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 133134,
+        "entry_id": 511,
+        "original_hex": [
+          "826881408281828d8140826d828f8289829281418140829482888285814082888285828182848140828f8286",
+          "82948288828581408262828882958292828382888140828f8286814082948288828581408263828982968289828e8285",
+          "826c828f829482888285829281428140826881408281828d81408290828c82858281829382858284",
+          "8294828f8140828d8281828b828581408299828f82958292",
+          "828182838291829582818289828e82948281828e828382858142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "B-but why?!?! I am doing this for yooooouuuuu!!!",
+          "Please accept my apologies。",
+          "Why did you stop him?",
+          "Would not it be better for you if he had burned the forest to a crisp、 and us with it?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3a40fcf2548b5d4d90c2",
+    "original": "M-me? I am the same as you。 I do not know。。。",
+    "es": "¿Y-yo? Estoy igual que tú. No lo sé...",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 121266,
+        "entry_id": 509,
+        "original_hex": [
+          "826c817c828d82858148",
+          "826881408281828d8140829482888285814082938281828d828581408281829381408299828f82958142",
+          "826881408284828f8140828e828f82948140828b828e828f8297814281428142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Oh yeah。。。",
+          "What about you、 Alouette?",
+          "(Sister Alouette is so pretty。。。)",
+          "(Love。。。)"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 129874,
+        "entry_id": 510,
+        "original_hex": [
+          "826c817c828d82858148",
+          "826881408281828d8140829482888285814082938281828d828581408281829381408299828f82958142",
+          "826881408284828f8140828e828f82948140828b828e828f8297814281428142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Oh yeah。。。",
+          "What about you、 Alouette?",
+          "(Sister Alouette is so pretty。。。)",
+          "(Love。。。)"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 140377,
+        "entry_id": 511,
+        "original_hex": [
+          "826c817c828d82858148",
+          "826881408281828d8140829482888285814082938281828d828581408281829381408299828f82958142",
+          "826881408284828f8140828e828f82948140828b828e828f8297814281428142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "Oh yeah。。。",
+          "What about you、 Alouette?",
+          "(Sister Alouette is so pretty。。。)",
+          "(Love。。。)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1c69d1c8c9463c845bef",
+    "original": "What is the matter、 Prier?",
+    "es": "¿Qué pasa, Prier?",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": false,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 122513,
+        "entry_id": 509,
+        "original_hex": [
+          "827682888281829481408289829381408294828882858140828d828182948294828582928141",
+          "826f82928289828582928148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "(。。。。。。)",
+          "(I just do not know。)",
+          "What?!",
+          "N-nothing! Nothing at all!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 131121,
+        "entry_id": 510,
+        "original_hex": [
+          "827682888281829481408289829381408294828882858140828d828182948294828582928141",
+          "826f82928289828582928148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "(。。。。。。)",
+          "(I just do not know。)",
+          "What?!",
+          "N-nothing! Nothing at all!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 141624,
+        "entry_id": 511,
+        "original_hex": [
+          "827682888281829481408289829381408294828882858140828d828182948294828582928141",
+          "826f82928289828582928148"
+        ],
+        "opcion": false,
+        "contexto": [
+          "(。。。。。。)",
+          "(I just do not know。)",
+          "What?!",
+          "N-nothing! Nothing at all!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "369f47ba8b96c22e7136",
+    "original": "Please -- Be my girlfriend!",
+    "es": "¡Por favor, sé mi novia!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 129343,
+        "entry_id": 510,
+        "original_hex": [
+          "826f828c82858281829382858140817c817c",
+          "826182858140828d82998140828782898292828c8286829282898285828e82848149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "No problem! Cheer up! There are plenty of other fish in the sea!",
+          "Oh。。。 You are so kind。 Almost like an angel。。。",
+          "Yeah、 in your dreams、 buddy!",
+          "I guess love can be a very tricky thing。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "58c9804dae4d5c730bd0",
+    "original": "But I would still rather go out with somebody handsome。",
+    "es": "Pero aun así, prefiero salir con alguien guapo.",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 145226,
+        "entry_id": 514,
+        "original_hex": [
+          "8261829582948140826881408297828f8295828c82848140829382948289828c828c8140829282818294828882858292",
+          "8287828f8140828f829582948140829782898294828881408293828f828d82858282828f82848299",
+          "82888281828e82848293828f828d82858142"
+        ],
+        "opcion": false,
+        "contexto": [
+          "And he loves me more than anyone。。。I think。",
+          "And I do not dislike him。。。I think。",
+          "The kind of beauty you are talking about is just skin-deep!!",
+          "You have got to judge people on what is inside!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b7433941c9f66cbc3aef",
+    "original": "In the name of the Maiden of Light!",
+    "es": "¡En nombre de la Doncella de la Luz!",
+    "estado": "revisado",
+    "procedencia": "HY-MT2 local + cotejo editorial de fuente, contexto y glosario",
+    "corregido": true,
+    "apariciones": [
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+        "offset": 153317,
+        "entry_id": 513,
+        "original_hex": [
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "826c8281828982848285828e8140828f82868140826b82898287828882948149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "M-my hair。。。",
+          "Prier。。。 Put his soul to rest。。。",
+          "Oh Goddess Poitreene! Allow this poor、 wounded soul to rest in peace!!",
+          "Ah。。。My head。。。 It is full of hair! Luxurious、 bushy hair!"
+        ]
+      },
+      {
+        "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+        "offset": 143299,
+        "entry_id": 513,
+        "original_hex": [
+          "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+          "826c8281828982848285828e8140828f82868140826b82898287828882948149"
+        ],
+        "opcion": false,
+        "contexto": [
+          "M-my hair。。。",
+          "Prier。。。 Put his soul to rest。。。",
+          "Oh Goddess Poitreene! Allow this poor、 wounded soul to rest in peace!!",
+          "Ah。。。My head。。。 It is full of hair! Luxurious、 bushy hair!"
+        ]
+      }
+    ]
+  }
+]

@@ -14,7 +14,7 @@ from pathlib import Path
 
 HERE=Path(__file__).absolute().parent
 ROOT=HERE.parents[1]                       # parcheador/
-for name in ('app/scripts','investigacion/v0.10','investigacion/v0.12'):
+for name in reversed(('app/scripts','investigacion/v0.10','investigacion/v0.12')):
  p=ROOT/name
  if not p.is_dir():
   raise RuntimeError('Dependencia no publicada en el repositorio: '+str(p))
@@ -23,7 +23,7 @@ from nis_formats import lzs_decompress, lzs_header, nispack
 from contenedores import reconstruir_dat, reconstruir_nispack
 from iso_reubicar import recorrer, IsoError
 from reubicador_anclas_v012 import Reubicador, Edicion, ReubicacionInsegura, limites_cp932
-from fuentes_es import encode_es, FontError, add_spanish_fonts, missing_render_glyphs, CODIGOS
+from fuentes_es import encode_es, encode_script_text, FontError, add_spanish_fonts, missing_render_glyphs, CODIGOS
 
 class Peligro(ValueError):pass
 
@@ -40,19 +40,32 @@ def match(raw,offset,expected):
  canon=lambda s:unicodedata.normalize('NFKC',s).strip()
  return b if canon(got)==canon(expected) else None
 
-def load_rows(manifest,report):
+def load_rows(manifest,report,repo_dir=None):
  with Path(manifest).open(encoding='utf-8-sig',newline='') as f:
   idx={row['unit_id']:row for row in csv.DictReader(f)}
  with Path(report).open(encoding='utf-8-sig',newline='') as f:
   report_rows=list(csv.DictReader(f))
- byres=defaultdict(list)
+ reviews=None
+ if repo_dir is not None:
+  from construir_parche import read_reviews
+  reviews,_,_=read_reviews(repo_dir,False)
+ groups=Counter(m['grupo_id'] for m in idx.values())
+ byres=defaultdict(list);seen=set()
  for row in report_rows:
   res=row.get('recurso','')
   if not re.search(r'(?:^|/)script\d+\.dat$',res):continue
   uid=row['unit_id'];m=idx.get(uid)
   if not m or m['recurso']!=res or m['original']!=row.get('original'):
    raise Peligro(f'Manifiesto incoherente: {uid} {res}')
-  r=dict(row);r['offset']=int(m['offset']);byres[res].append(r)
+  if uid in seen:raise Peligro('Unidad duplicada en auditoría: '+uid)
+  seen.add(uid)
+  r=dict(row);r['offset']=int(m['offset']);r['grupo_id']=m['grupo_id']
+  if reviews is not None:
+   rev=reviews.get(m['grupo_id'],{})
+   if groups[m['grupo_id']]!=1:raise Peligro('Script no unitario sin segmentación: '+uid)
+   r['es_revisado']=rev.get('es_revisado','')
+   r['estado_editorial']=rev.get('estado','pendiente')
+  byres[res].append(r)
  return byres
 
 def originals(iso,dlc):
@@ -95,15 +108,30 @@ def contains_unsafe_reference(raw,offset,old):
  lim=set(limites_cp932(old))
  return any((begin<=ptr<begin+len(old)) and (ptr-begin not in lim) for ptr in table.pointers)
 
+def contains_unverified_interior_reference(raw,offset,old):
+ """No inferir el destino de un índice interior mediante proporciones de texto.
+
+ Una frontera CP932 válida tampoco acredita semántica del intérprete.
+ El principio de cadena y el terminador sí conservan sus límites exactos.
+ """
+ table=Reubicador(raw)
+ begin=offset-table.body
+ return any(begin<ptr<begin+len(old) for ptr in table.pointers)
+
 def plan(byres,sources,mode='conservador',allow_unapproved=False):
+ """Planifica por unidad. Un ancla mala nunca invalida otras 489 ediciones.
+
+ En modo fase, cada referencia de riesgo se ensaya *adicionalmente* sobre el
+ lote conservador ya validado. Solo se acepta si el archivo completo se puede
+ reconstruir e invertir byte a byte. Aun así no certifica PPSSPP.
+ """
  results=[];changed={};stats=Counter()
  for res,rows in sorted(byres.items()):
   if res not in sources:
    for r in rows:
     results.append(dict(unit_id=r['unit_id'],recurso=res,estado='OBJETIVO_NO_SELECCIONADO',motivo='ISO/DLC no seleccionado'))
-    stats['OBJETIVO_NO_SELECCIONADO']+=1
    continue
-  raw=sources[res];editions=[]
+  raw=sources[res];editions=[];special=[];local_rows=[]
   for r in sorted(rows,key=lambda x:x['offset']):
    uid=r['unit_id'];status='';reason='';new=None
    original=r['original'];spanish=r.get('es_revisado','');state=r.get('estado_editorial','')
@@ -121,30 +149,78 @@ def plan(byres,sources,mode='conservador',allow_unapproved=False):
     elif re.findall(r'%[ds]|\{[^}]*\}|\\[rn]|<[^>]+>',original)!=re.findall(r'%[ds]|\{[^}]*\}|\\[rn]|<[^>]+>',spanish):
      status='CONTROLES_DIFERENTES';reason='Control o variable no preservado'
     else:
-     try:new=encode_es(spanish)
+     try:new=encode_script_text(spanish)
      except (FontError,UnicodeError) as e:status='FUENTE_NO_CODIFICA';reason=str(e)
      if new is not None:
-      if len(new)>=255:status='OPCODE_LONGITUD_255';reason='No cabe en u8 de script'
+      if len(new)>64:status='FILA_SCRIPT_EXCEDE_64';reason='EBOOT 0x08838af0: fila de 65 bytes incluido NUL'
       elif new==old:status='SIN_CAMBIO';reason='Coincide byte por byte'
-      elif mode=='conservador' and contains_unsafe_reference(raw,off,old):
-       status='REFERENCIA_SUBCARACTER';reason='Ancla dentro de carácter CP932; no modificar'
       else:
-       editions.append(Edicion(off,old,new,uid));status='CANDIDATO_REUBICACION';reason='Pendiente de reversión del archivo completo'
-   results.append(dict(unit_id=uid,recurso=res,estado=status,motivo=reason,offset=r['offset']))
-  if not editions:continue
+       edition=Edicion(off,old,new,uid)
+       is_special=(mode in ('fase','conservador','fijo') and contains_unsafe_reference(raw,off,old))
+       if is_special and mode in ('conservador','fijo'):
+        status='REFERENCIA_SUBCARACTER';reason='Ancla dentro de carácter CP932; no modificar'
+       elif mode in ('conservador','fijo') and contains_unverified_interior_reference(raw,off,old):
+        status='REFERENCIA_INTERIOR_NO_VERIFICADA';reason='Índice interior de semántica desconocida: no reubicar proporcionalmente'
+       elif mode=='fijo' and len(new)>len(old):
+        status='SCRIPT_EXCEDE_ESPACIO_ORIGINAL';reason='No desplazar bytecode: requiere ajuste editorial para caber'
+       elif mode=='fijo':
+        editions.append(Edicion(off,old,new+b' '*(len(old)-len(new)),uid))
+        status='CANDIDATO_FIJO';reason='Conservar longitud, terminador, índice y posiciones de todo el bytecode'
+       elif is_special and mode=='fase':
+        status='ANCLA_FASE_PENDIENTE';reason='Pendiente de prueba de lote completo'
+        special.append((edition,uid))
+       else:
+        editions.append(edition);status='CANDIDATO_REUBICACION';reason='Pendiente de reversión del archivo completo'
+   entry=dict(unit_id=uid,recurso=res,estado=status,motivo=reason,offset=r['offset'])
+   results.append(entry);local_rows.append(entry)
+  if not editions and not special:continue
+  byid={r['unit_id']:r for r in local_rows}
+  def compile_batch(chosen):
+   if mode=='fijo':
+    out=bytearray(raw);allowed=set();journal=[]
+    for e in chosen:
+     if len(e.antes)!=len(e.despues) or raw[e.offset:e.offset+len(e.antes)]!=e.antes:
+      raise Peligro('Sustitución fija no conserva el intervalo original')
+     span=set(range(e.offset,e.offset+len(e.antes)))
+     if allowed & span:raise Peligro('Sustituciones fijas solapadas')
+     allowed.update(span)
+     out[e.offset:e.offset+len(e.antes)]=e.despues
+     journal.append(dict(offset=e.offset,antes_hex=e.antes.hex(),despues_hex=e.despues.hex(),unit_id=e.unit_id))
+    assert len(out)==len(raw)
+    assert all(i in allowed for i,(a,b) in enumerate(zip(raw,out)) if a!=b)
+    return bytes(out),{'ediciones':journal,'anclas':[],'bytecode_fuera_de_textos_identico':True}
+   return Reubicador(raw,permitir_subcaracter=(mode=='experimental'),
+                     preservar_fase=(mode=='fase')).aplicar(chosen)
   try:
-   result,journal=Reubicador(raw,permitir_subcaracter=(mode=='experimental')).aplicar(editions)
+   # Primera puerta: el lote que ya debía funcionar en modo conservador.
+   compiled=compile_batch(editions) if editions else (raw,{'ediciones':[], 'anclas':[]})
   except (ReubicacionInsegura,ValueError,IndexError) as exc:
-   for r in results:
-    if r['recurso']==res and r['estado']=='CANDIDATO_REUBICACION':
-     r['estado']='REUBICACION_RECHAZADA';r['motivo']=str(exc)
+   for row in local_rows:
+    if row['estado'] in ('CANDIDATO_REUBICACION','ANCLA_FASE_PENDIENTE','CANDIDATO_FIJO'):
+     row['estado']='REUBICACION_RECHAZADA';row['motivo']=str(exc)
    continue
-  # Recuperar el archivo de entrada mediante diario inverso, ya validado por Reubicador.
+  if mode=='fase':
+   for edit,uid in special:
+    try:
+     proposal=compile_batch(editions+[edit])
+    except (ReubicacionInsegura,ValueError,IndexError) as exc:
+     byid[uid]['estado']='ANCLA_FASE_BLOQUEADA'
+     byid[uid]['motivo']=str(exc)
+    else:
+     editions.append(edit);compiled=proposal
+     byid[uid]['estado']='CANDIDATO_REUBICACION_FASE'
+     byid[uid]['motivo']='Lote reversible, PENDIENTE de traza PPSSPP'
+  if not editions:continue
+  result,journal=compiled
   changed[res]={'original_sha256':sha(raw),'nuevo_sha256':sha(result),'raw':result,
                 'journal':journal,'cadenas':len(editions)}
-  for r in results:
-   if r['recurso']==res and r['estado']=='CANDIDATO_REUBICACION':
-    r['estado']='REUBICACION_ESTRUCTURAL';r['motivo']='Probada ida/vuelta, no validada en PPSSPP'
+  for row in local_rows:
+   if row['estado']=='CANDIDATO_FIJO':
+    row['estado']='APLICADO_SCRIPT_FIJO';row['motivo']='Solo bytes de texto: tamaño, opcodes, terminadores e índices sin cambios'
+   elif row['estado']=='CANDIDATO_REUBICACION':
+    row['estado']='REUBICACION_ESTRUCTURAL';row['motivo']='Probada ida/vuelta, NO verificada en PPSSPP'
+   elif row['estado']=='CANDIDATO_REUBICACION_FASE':
+    row['estado']='REUBICACION_FASE_EXPERIMENTAL';row['motivo']='Fase conservada, NO verificada en PPSSPP'
  for r in results:stats[r['estado']]+=1
  return changed,results,stats
 
@@ -157,16 +233,45 @@ def compress(raw,original,packer):
   p=subprocess.run(cmd,check=False,capture_output=True,text=True,errors='replace')
   if p.returncode:raise Peligro('Compresor falló: '+(p.stderr or p.stdout)[:1000])
   result=(t/'out.lzs').read_bytes()
-  if lzs_decompress(result)!=raw:raise Peligro('LZS no reversible')
+  if lzs_decompress(result,allow_overlap=False)!=raw:raise Peligro('LZS no reversible')
  return result
 
 def append_multiple_iso(input_iso,out_iso,replacements):
- """Adjunta archivos a una ISO copiada y actualiza entradas ISO9660 y volumen.
+ """v0.17.4: reconstrucción ISO en los mismos LBAs y sectores reservados.
 
- Solo modificar entradas cuyo recurso se reconstruyó. Usar transacción .tmp.
+ Los contenedores START y SCRIPTPACK solo se sustituyen si caben en sus
+ espacios originales. Nunca se adjuntan al final ni se cambia el tamaño
+ del volumen. El consumidor PSP podría usar direcciones físicas y no solo
+ entradas de directorio ISO9660. Reubicarlas sin necesidad fue un riesgo.
  """
  target=Path(out_iso);origin=Path(input_iso)
- if origin.resolve()==target.resolve():raise Peligro('No sobrescribir ISO original')
+ if origin.resolve()==target.resolve():
+  raise Peligro('No sobrescribir ISO original')
+ if not replacements:
+  raise Peligro('No hay recursos para sustituir')
+ with origin.open('rb') as fp:
+  originals={x.ruta:x for x in recorrer(fp)}
+  original_size=origin.stat().st_size
+  for name,blob in replacements.items():
+   if name not in originals:
+    raise Peligro('No hay entrada ISO '+name)
+   if not isinstance(blob,bytes) or not blob:
+    raise Peligro('Reemplazo ISO vacío: '+name)
+   old=originals[name]
+   # ISO9660 reserva sectores de 2048 bytes, incluso si el tamaño
+   # lógico registrado es menor. Aceptar crecimiento SOLO en el mismo
+   # conjunto de sectores ya reservado y sin solapar ningún recurso.
+   capacity=((old.size+2047)//2048)*2048
+   if len(blob)>capacity:
+    raise Peligro(
+      f'{name}: {len(blob)} bytes superan {capacity} bytes reservados '
+      f'(longitud lógica {old.size}); no se puede crecer sin ocupar otro sector. '
+      'Reducir contenido o estudiar reubicación física primero')
+   for other_name,other in originals.items():
+    if name==other_name or other.size==0:continue
+    other_capacity=((other.size+2047)//2048)*2048
+    if old.offset < other.offset+other_capacity and old.offset+capacity > other.offset:
+     raise Peligro(f'{name}: sus sectores reservados se superponen con {other_name}; no escribir')
  target.parent.mkdir(parents=True,exist_ok=True)
  temp=target.with_name(target.name+'.tmp')
  if temp.exists():temp.unlink()
@@ -174,33 +279,40 @@ def append_multiple_iso(input_iso,out_iso,replacements):
   shutil.copyfile(origin,temp)
   with temp.open('r+b') as fp:
    records={x.ruta:x for x in recorrer(fp)}
-   for path in replacements:
-    if path not in records:raise Peligro('No hay entrada ISO '+path)
-   fp.seek(0,os.SEEK_END)
    for name,blob in sorted(replacements.items()):
-    if not isinstance(blob,bytes) or not blob:raise Peligro('Blob vacío')
-    pos=fp.tell();start=(pos+2047)//2048*2048
-    if start>pos:fp.write(b'\x00'*(start-pos))
+    old=records[name]
+    # Mantener LBA y directorio originales. Cambiar solo longitud.
+    fp.seek(old.offset)
     fp.write(blob)
-    if fp.tell()%2048:fp.write(b'\x00'*(2048-fp.tell()%2048))
-    entry=records[name].entrada
-    fp.seek(entry+2)
-    fp.write(struct.pack('<I',start//2048)+struct.pack('>I',start//2048))
+    # No conservar basura al reducir archivo; nunca invade otro sector.
+    padding=((old.size+2047)//2048)*2048-len(blob)
+    if padding:fp.write(b'\x00'*padding)
+    fp.seek(old.entrada+10)
     fp.write(struct.pack('<I',len(blob))+struct.pack('>I',len(blob)))
-    fp.seek(0,os.SEEK_END)
-   total=(fp.tell()+2047)//2048
-   fp.seek(16*2048+80);fp.write(struct.pack('<I',total)+struct.pack('>I',total))
    fp.flush();os.fsync(fp.fileno())
+  if temp.stat().st_size!=original_size:
+   raise Peligro('La ISO cambió de longitud con parcheo LBA estable')
   with temp.open('rb') as fp:
    indexes={x.ruta:x for x in recorrer(fp)}
-   for name,expected in replacements.items():
-    ent=indexes[name]
-    if ent.size!=len(expected):raise Peligro('ISO tamaño incorrecto '+name)
-    fp.seek(ent.offset)
-    if sha(fp.read(ent.size))!=sha(expected):raise Peligro('ISO contenido incorrecto '+name)
+   if set(indexes)!=set(originals):
+    raise Peligro('El árbol ISO9660 cambió de miembros')
+   for name,old in originals.items():
+    new=indexes[name]
+    if new.offset!=old.offset:
+     raise Peligro('Cambió posición LBA: '+name)
+    if name in replacements:
+     expected=replacements[name]
+     if new.size!=len(expected):
+      raise Peligro('Longitud incorrecta después de reescribir: '+name)
+     fp.seek(new.offset)
+     if sha(fp.read(new.size))!=sha(expected):
+      raise Peligro('Contenido distinto del previsto: '+name)
+    elif new.size!=old.size:
+     raise Peligro('Cambió longitud de recurso ajeno: '+name)
   os.replace(temp,target)
  finally:
   if temp.exists():temp.unlink()
+
 
 def compile_replacements(changed,contexts,packer,auto_fonts=True):
  """Reconstrucción reversible de script + fuentes; cero cambio fuera de miembros.
@@ -246,21 +358,23 @@ def compile_replacements(changed,contexts,packer,auto_fonts=True):
 
 def cli(args):
  if not args.iso and not args.dlc_directorio:raise Peligro('Se requiere ISO o DLC')
- if args.modo=='experimental' and not args.acepto_riesgo_referencias:
+ if args.modo in ('experimental','fase') and not args.acepto_riesgo_referencias:
   raise Peligro('Modo experimental requiere --acepto-riesgo-referencias')
  if args.construir and not args.acepto_riesgo_ppsspp:
   raise Peligro('La reconstrucción no se ha probado en PPSSPP; confirma --acepto-riesgo-ppsspp')
  source,ctx=originals(args.iso,args.dlc_directorio)
- byres=load_rows(args.manifiesto,args.auditoria)
+ byres=load_rows(args.manifiesto,args.auditoria,getattr(args,'repo_directorio',None))
  changed,rows,counts=plan(byres,source,args.modo,args.incluir_investigacion)
  args.salida.mkdir(parents=True,exist_ok=True)
  rpath=args.salida/'informe_script_v014.csv'
  with rpath.open('w',newline='',encoding='utf-8-sig') as f:
   wr=csv.DictWriter(f,fieldnames=['unit_id','recurso','estado','motivo','offset']);wr.writeheader();wr.writerows(rows)
- result={'modo':args.modo,'script_unidades':len(rows),'estados':dict(counts),
+ result={'version_reubicacion':'0.16-fase-candidata' if args.modo=='fase' else '0.14',
+         'modo':args.modo,'script_unidades':len(rows),'estados':dict(counts),
          'recursos_modificados':{k:{q:v[q] for q in ('original_sha256','nuevo_sha256','cadenas')} for k,v in changed.items()},
          'resultado':'SOLO VERIFICACION ESTRUCTURAL; no certifica visualización en PPSSPP',
-         'now_loading':'sin modificar'}
+         'now_loading':'sin modificar',
+         'control_seguridad':'fase: interpretación desconocida; NO equivale a QA PPSSPP'}
  if args.construir and changed:
   replacements,dlcs,glyphs=compile_replacements(changed,ctx,args.packer,auto_fonts=not args.sin_fuentes_automaticas)
   result['fuentes_es']=glyphs
@@ -268,6 +382,8 @@ def cli(args):
    name=args.salida/'La_Pucelle_Ragnarok_ES_SCRIPT_V014_EXPERIMENTAL.iso'
    append_multiple_iso(args.iso,name,replacements)
    result['iso']=str(name)
+   result['iso_lba_estables']=True
+   result['iso_tamano_preservado']=True
   for key,blob in dlcs.items():
    name=args.salida/f'{key}_SCRIPT_V014_EXPERIMENTAL.EDAT';name.write_bytes(blob)
    result[key]=str(name)
@@ -281,9 +397,10 @@ def main():
  p.add_argument('--iso',type=Path)
  p.add_argument('--dlc-directorio',type=Path)
  p.add_argument('--manifiesto',type=Path,default=ROOT.parent/'data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv')
- p.add_argument('--auditoria',type=Path,default=ROOT/'informes/estado_unificado_66.csv',help='CSV de estado de 4507 recursos, con texto español y estado editorial')
+ p.add_argument('--auditoria',type=Path,default=ROOT/'informes/estado_unificado_66.csv',help='Índice técnico de recursos script')
+ p.add_argument('--repo-directorio',type=Path,help='Misma fuente editorial que la primera fase; sustituye traducciones del informe histórico')
  p.add_argument('--salida',type=Path,required=True)
- p.add_argument('--modo',choices=('conservador','experimental'),default='conservador')
+ p.add_argument('--modo',choices=('fijo','conservador','experimental','fase'),default='fijo')
  p.add_argument('--incluir-investigacion',action='store_true')
  p.add_argument('--construir',action='store_true')
  p.add_argument('--sin-fuentes-automaticas',action='store_true',help='Desactivar fuentes españolas (riesgo de glifos invisibles)')

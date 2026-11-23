@@ -1,0 +1,39 @@
+{
+  "original": "And every night the dream gets a little clearer。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nEvery night I dream about dying。。。\nT-that is just a dream! You should not worry about it!\nI think my time is near。。。\nYou are not going to die!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nEvery night I dream about dying。。。\nT-that is just a dream! You should not worry about it!\nI think my time is near。。。\nYou are not going to die!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nAnd every night the dream gets a little clearer。。。",
+  "respuesta": "Y cada noche, el sueño se vuelve un poco más claro…",
+  "fin": "stop",
+  "segundos": 2.31,
+  "uso": {
+    "completion_tokens": 19,
+    "prompt_tokens": 342,
+    "total_tokens": 361,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "a16f97c6b5e503b61156",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 119364,
+      "entry_id": 1001,
+      "original_hex": [
+        "8260828e82848140828582968285829282998140828e82898287828882948140829482888285",
+        "8284829282858281828d81408287828582948293814082818140828c828982948294828c8285",
+        "8283828c82858281829282858292814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Every night I dream about dying。。。",
+        "T-that is just a dream! You should not worry about it!",
+        "I think my time is near。。。",
+        "You are not going to die!"
+      ]
+    }
+  ]
+}

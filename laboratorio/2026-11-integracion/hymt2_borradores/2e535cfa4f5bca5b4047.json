@@ -1,0 +1,40 @@
+{
+  "original": "So you had a side like that too、 Big Sister? That is surprising。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nPlease。。。 Just leave already! Do not get involved with me any more。。。!\nThis version of the Demon Lord seems pretty timid。。。\nWatch what you say。 I will hit you!\nDo not say you will hit people AFTER you hit them!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nPlease。。。 Just leave already! Do not get involved with me any more。。。!\nThis version of the Demon Lord seems pretty timid。。。\nWatch what you say。 I will hit you!\nDo not say you will hit people AFTER you hit them!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nSo you had a side like that too、 Big Sister? That is surprising。。。",
+  "respuesta": "Entonces, tú también tenías ese tipo de comportamiento, ¿verdad, Hermana Mayor? Eso es sorprendente…",
+  "fin": "stop",
+  "segundos": 3.46,
+  "uso": {
+    "completion_tokens": 30,
+    "prompt_tokens": 363,
+    "total_tokens": 393,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "2e535cfa4f5bca5b4047",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 76161,
+      "entry_id": 1706,
+      "original_hex": [
+        "8272828f81408299828f829581408288828182848140828181408293828982848285",
+        "828c8289828b82858140829482888281829481408294828f828f8141",
+        "82618289828781408272828982938294828582928148",
+        "8273828882818294814082898293814082938295829282908292828982938289828e8287814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Please。。。 Just leave already! Do not get involved with me any more。。。!",
+        "This version of the Demon Lord seems pretty timid。。。",
+        "Watch what you say。 I will hit you!",
+        "Do not say you will hit people AFTER you hit them!"
+      ]
+    }
+  ]
+}

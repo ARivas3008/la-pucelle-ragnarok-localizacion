@@ -1,0 +1,41 @@
+{
+  "original": "That is all there is to it! The more enemies you convert、 the stronger  your forces will be。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThe more times you purify an enemy、 the cleaner its heart becomes and the greater the chance of it going over to your side。\nConverted characters can be immediately called  into battle from the base panel。\nThank you、 Culotte。 You did very well。\nGee、 thanks。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThe more times you purify an enemy、 the cleaner its heart becomes and the greater the chance of it going over to your side。\nConverted characters can be immediately called  into battle from the base panel。\nThank you、 Culotte。 You did very well。\nGee、 thanks。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThat is all there is to it! The more enemies you convert、 the stronger  your forces will be。",
+  "respuesta": "¡Eso es todo! Cuantos más enemigos puedas convertir, más fuertes serán tus fuerzas.",
+  "fin": "stop",
+  "segundos": 5.15,
+  "uso": {
+    "completion_tokens": 29,
+    "prompt_tokens": 375,
+    "total_tokens": 404,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "402c8ea9b22104a7fb3e",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+      "offset": 127291,
+      "entry_id": 154,
+      "original_hex": [
+        "827382888281829481408289829381408281828c828c814082948288828582928285814082898293",
+        "8294828f8140828982948149",
+        "8273828882858140828d828f8292828581408285828e8285828d82898285829381408299828f8295",
+        "8283828f828e8296828582928294814181408294828882858140829382948292828f828e8287828582928140",
+        "8299828f8295829281408286828f8292828382858293814082978289828c828c8140828282858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "The more times you purify an enemy、 the cleaner its heart becomes and the greater the chance of it going over to your side。",
+        "Converted characters can be immediately called  into battle from the base panel。",
+        "Thank you、 Culotte。 You did very well。",
+        "Gee、 thanks。。。"
+      ]
+    }
+  ]
+}

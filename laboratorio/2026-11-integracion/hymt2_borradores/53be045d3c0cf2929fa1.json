@@ -1,0 +1,39 @@
+{
+  "original": "I have been waiting for this day for fifty years。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAmazing!!\nSo the rumors about Father Salade defeating a demon lord with his bare hands were true。。。\nFifty years?\nYes。 Fifty years ago、 there was a child who witnessed your battle with the Dark Prince。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAmazing!!\nSo the rumors about Father Salade defeating a demon lord with his bare hands were true。。。\nFifty years?\nYes。 Fifty years ago、 there was a child who witnessed your battle with the Dark Prince。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI have been waiting for this day for fifty years。。。",
+  "respuesta": "He estado esperando este día durante cincuenta años…",
+  "fin": "stop",
+  "segundos": 1.57,
+  "uso": {
+    "completion_tokens": 14,
+    "prompt_tokens": 352,
+    "total_tokens": 366,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "53be045d3c0cf2929fa1",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 138002,
+      "entry_id": 1106,
+      "original_hex": [
+        "8268814082888281829682858140828282858285828e814082978281828982948289828e828781408286828f8292",
+        "8294828882898293814082848281829981408286828f8292814082868289828682948299",
+        "82998285828182928293814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Amazing!!",
+        "So the rumors about Father Salade defeating a demon lord with his bare hands were true。。。",
+        "Fifty years?",
+        "Yes。 Fifty years ago、 there was a child who witnessed your battle with the Dark Prince。。。"
+      ]
+    }
+  ]
+}

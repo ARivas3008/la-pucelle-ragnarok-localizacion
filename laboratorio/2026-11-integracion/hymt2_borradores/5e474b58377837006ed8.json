@@ -1,0 +1,39 @@
+{
+  "original": "Reduce speed。 Reduce altitude、 prepare for pick up。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nCaptain。。。 I hope you are safe!\nSensors show several large life forms on that hill! Meow!!\nRoger! Meow!\nIs that thunder。。。?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nCaptain。。。 I hope you are safe!\nSensors show several large life forms on that hill! Meow!!\nRoger! Meow!\nIs that thunder。。。?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nReduce speed。 Reduce altitude、 prepare for pick up。",
+  "respuesta": "Reduzca la velocidad. Reduzca la altitud y prepárese para el aterrizaje.",
+  "fin": "stop",
+  "segundos": 2.75,
+  "uso": {
+    "completion_tokens": 25,
+    "prompt_tokens": 339,
+    "total_tokens": 364,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "5e474b58377837006ed8",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 99380,
+      "entry_id": 1101,
+      "original_hex": [
+        "82718285828482958283828581408293829082858285828481428140827182858284829582838285",
+        "8281828c82948289829482958284828581418140829082928285829082818292828581408286828f8292",
+        "829082898283828b8140829582908142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Captain。。。 I hope you are safe!",
+        "Sensors show several large life forms on that hill! Meow!!",
+        "Roger! Meow!",
+        "Is that thunder。。。?"
+      ]
+    }
+  ]
+}

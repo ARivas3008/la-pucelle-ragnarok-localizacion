@@ -1,0 +1,38 @@
+{
+  "original": "Cheer up、 Croix。 We still have a lot of info left to collect on Fatima、 so let us keep up the pace!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYeah。。。 You are right。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYeah。。。 You are right。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nCheer up、 Croix。 We still have a lot of info left to collect on Fatima、 so let us keep up the pace!",
+  "respuesta": "¡Anímate, Croix! Todavía tenemos mucho información que recopilar sobre Fatima, así que continuemos con el ritmo.",
+  "fin": "stop",
+  "segundos": 2.72,
+  "uso": {
+    "completion_tokens": 34,
+    "prompt_tokens": 330,
+    "total_tokens": 364,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "7dd79ffd8ca204ee89e4",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 102622,
+      "entry_id": 279302,
+      "original_hex": [
+        "826282888285828582928140829582908141814082628292828f828982988142",
+        "827682858140829382948289828c828c81408288828182968285814082818140828c828f82948140828f8286",
+        "8289828e8286828f8140828c82858286829481408294828f81408283828f828c828c8285828382948140828f828e",
+        "8265828182948289828d8281814181408293828f8140828c828582948140829582938140828b828582858290",
+        "829582908140829482888285814082908281828382858149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yeah。。。 You are right。"
+      ]
+    }
+  ]
+}

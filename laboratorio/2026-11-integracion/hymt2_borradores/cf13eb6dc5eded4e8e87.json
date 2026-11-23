@@ -1,0 +1,40 @@
+{
+  "original": "Please。。。 Just leave already! Do not get involved with me any more。。。!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nDo not come any closer!\nWhat is it now!?\nThis version of the Demon Lord seems pretty timid。。。\nSo you had a side like that too、 Big Sister? That is surprising。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nDo not come any closer!\nWhat is it now!?\nThis version of the Demon Lord seems pretty timid。。。\nSo you had a side like that too、 Big Sister? That is surprising。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nPlease。。。 Just leave already! Do not get involved with me any more。。。!",
+  "respuesta": "Por favor… ¡Déjeme en paz ya! No se involucre más conmigo…",
+  "fin": "stop",
+  "segundos": 2.64,
+  "uso": {
+    "completion_tokens": 23,
+    "prompt_tokens": 353,
+    "total_tokens": 376,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "cf13eb6dc5eded4e8e87",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 75884,
+      "entry_id": 1706,
+      "original_hex": [
+        "826f828c8285828182938285814281428142",
+        "82698295829382948140828c828582818296828581408281828c829282858281828482998149",
+        "8263828f8140828e828f8294814082878285829481408289828e8296828f828c829682858284",
+        "82978289829482888140828d828581408281828e82998140828d828f829282858142814281428149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Do not come any closer!",
+        "What is it now!?",
+        "This version of the Demon Lord seems pretty timid。。。",
+        "So you had a side like that too、 Big Sister? That is surprising。。。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "original": "You loved her so much that you could not accept her death。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nBut。。。\nYou only did it because you loved your wife so much。。。!\n。。。\nBut my crimes are too great。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nBut。。。\nYou only did it because you loved your wife so much。。。!\n。。。\nBut my crimes are too great。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou loved her so much that you could not accept her death。",
+  "respuesta": "La amabas tanto que no pudiste aceptar su muerte.",
+  "fin": "stop",
+  "segundos": 2.07,
+  "uso": {
+    "completion_tokens": 17,
+    "prompt_tokens": 333,
+    "total_tokens": 350,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "25faeea62b2ef5fc29cf",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 143310,
+      "entry_id": 211,
+      "original_hex": [
+        "8278828f82958140828c828f829682858284814082888285829281408293828f8140828d829582838288",
+        "829482888281829481408299828f829581408283828f8295828c82848140828e828f8294",
+        "82818283828382858290829481408288828582928140828482858281829482888142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "But。。。",
+        "You only did it because you loved your wife so much。。。!",
+        "。。。",
+        "But my crimes are too great。"
+      ]
+    }
+  ]
+}

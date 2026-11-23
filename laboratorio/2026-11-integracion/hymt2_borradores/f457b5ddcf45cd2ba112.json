@@ -1,0 +1,40 @@
+{
+  "original": "Have you heard about the wonderful things the Church of the Divine Mother is selling? They have a special tonic that makes your hair grow! Well、 I do not need it myself、 of course。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nHave you heard about the wonderful things the Church of the Divine Mother is selling? They have a special tonic that makes your hair grow! Well、 I do not need it myself、 of course。",
+  "respuesta": "¿Has oído hablar de las maravillosas cosas que vende la Iglesia de la Divina Madre? Tienen un tónico especial que hace que el cabello crezca. Bueno, yo no lo necesito, claro.",
+  "fin": "stop",
+  "segundos": 4.08,
+  "uso": {
+    "completion_tokens": 60,
+    "prompt_tokens": 334,
+    "total_tokens": 394,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f457b5ddcf45cd2ba112",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 36223,
+      "entry_id": 201604,
+      "original_hex": [
+        "826782818296828581408299828f8295814082888285828182928284814082818282828f82958294",
+        "82948288828581408297828f828e82848285829282868295828c8140829482888289828e828782938140829482888285",
+        "8262828882958292828382888140828f8286814082948288828581408263828982968289828e8285",
+        "826c828f8294828882858292814082898293814082938285828c828c8289828e82878148",
+        "827382888285829981408288828182968285814082818140829382908285828382898281828c",
+        "8294828f828e82898283814082948288828182948140828d8281828b8285829381408299828f82958292",
+        "8288828182898292814082878292828f82978149",
+        "82768285828c828c81418140826881408284828f8140828e828f82948140828e828582858284814082898294",
+        "828d829982938285828c828681418140828f828681408283828f82958292829382858142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

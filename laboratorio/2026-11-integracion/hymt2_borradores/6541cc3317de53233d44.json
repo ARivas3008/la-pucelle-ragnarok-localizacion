@@ -1,0 +1,41 @@
+{
+  "original": "We purified a lot of demons。 Hopefully some souls were saved thanks to all of this。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nGrrraaaahhhhhhhh。。。!\nAll right! Looks like that was the last of the demons in this area。\nWell、 I guess the mission is over。 Time to take this kid back to the village。\nWe should meet up with Sister Olive and help her purify the rest of the area。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nGrrraaaahhhhhhhh。。。!\nAll right! Looks like that was the last of the demons in this area。\nWell、 I guess the mission is over。 Time to take this kid back to the village。\nWe should meet up with Sister Olive and help her purify the rest of the area。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWe purified a lot of demons。 Hopefully some souls were saved thanks to all of this。。。",
+  "respuesta": "Purificamos a muchos demonios. Espero que algunas almas hayan sido salvadas gracias a todo esto…",
+  "fin": "stop",
+  "segundos": 2.96,
+  "uso": {
+    "completion_tokens": 28,
+    "prompt_tokens": 376,
+    "total_tokens": 404,
+    "prompt_tokens_details": {
+      "cached_tokens": 290
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "6541cc3317de53233d44",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 90604,
+      "entry_id": 1507,
+      "original_hex": [
+        "82768285814082908295829282898286828982858284814082818140828c828f82948140828f8286",
+        "82848285828d828f828e82938142",
+        "8267828f8290828582868295828c828c829981408293828f828d828581408293828f8295828c8293",
+        "82978285829282858140829382818296828582848140829482888281828e828b829381408294828f",
+        "8281828c828c8140828f828681408294828882898293814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Grrraaaahhhhhhhh。。。!",
+        "All right! Looks like that was the last of the demons in this area。",
+        "Well、 I guess the mission is over。 Time to take this kid back to the village。",
+        "We should meet up with Sister Olive and help her purify the rest of the area。"
+      ]
+    }
+  ]
+}

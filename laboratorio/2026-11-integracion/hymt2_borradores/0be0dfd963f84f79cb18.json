@@ -1,0 +1,42 @@
+{
+  "original": "It cannot be helped。 Sister Alouette is the one to blame for stealing every last thing I ever had、 after all。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThe effectiveness of the miracle that Sister Alouette performed is beginning to fade away!\nI。。。 What did I。。。\nBut I。。。\nDarn it! Hey、 Prier! Get a freaking hold of yourself already。。。!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThe effectiveness of the miracle that Sister Alouette performed is beginning to fade away!\nI。。。 What did I。。。\nBut I。。。\nDarn it! Hey、 Prier! Get a freaking hold of yourself already。。。!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIt cannot be helped。 Sister Alouette is the one to blame for stealing every last thing I ever had、 after all。",
+  "respuesta": "No hay nada que se pueda hacer al respecto. Después de todo, la hermana Alouette es la culpable de haberse llevado todo lo que tenía.",
+  "fin": "stop",
+  "segundos": 3.72,
+  "uso": {
+    "completion_tokens": 38,
+    "prompt_tokens": 368,
+    "total_tokens": 406,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "0be0dfd963f84f79cb18",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 88660,
+      "entry_id": 1709,
+      "original_hex": [
+        "82688294814082838281828e828e828f8294814082828285814082888285828c8290828582848142",
+        "82728289829382948285829281408260828c828f829582858294829482858140828982938140829482888285",
+        "828f828e828581408294828f81408282828c8281828d828581408286828f8292",
+        "8293829482858281828c8289828e82878140828582968285829282998140828c828182938294",
+        "829482888289828e8287814082688140828582968285829281408288828182848141",
+        "8281828682948285829281408281828c828c8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "The effectiveness of the miracle that Sister Alouette performed is beginning to fade away!",
+        "I。。。 What did I。。。",
+        "But I。。。",
+        "Darn it! Hey、 Prier! Get a freaking hold of yourself already。。。!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "original": "Try placing two of your characters next to each other。 If one attacks an enemy、 the other will support it。 You can have many characters attack an enemy at once。 This is called a supporting attack。 It will come in handy so remember it。 One limitation to supporting attacks、 they cannot be used together with a special ability。 Of course、 the enemy can use supporting attacks、 too、 so be ready。 You could wind up in trouble if you charge into a group of enemies。 The trick to using supportive attacks is the proper placement of your characters。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nTry placing two of your characters next to each other。 If one attacks an enemy、 the other will support it。 You can have many characters attack an enemy at once。 This is called a supporting attack。 It will come in handy so remember it。 One limitation to supporting attacks、 they cannot be used together with a special ability。 Of course、 the enemy can use supporting attacks、 too、 so be ready。 You could wind up in trouble if you charge into a group of enemies。 The trick to using supportive attacks is the proper placement of your characters。",
+  "respuesta": "Intente colocar a dos de sus personajes uno al lado del otro. Si uno ataca al enemigo, el otro lo apoyará. Puede haber muchos personajes que ataquen al enemigo al mismo tiempo. Esto se llama ataque de apoyo. Será útil, así que recuerde esto. Una limitación de los ataques de apoyo es que no pueden utilizarse junto con habilidades especiales. Por supuesto, el enemigo también puede utilizar ataques de apoyo, así que esté preparado. Podría meterse en problemas si se enfrenta a un grupo de enemigos. La clave para usar los ataques de apoyo es colocar adecuadamente sus personajes.",
+  "fin": "stop",
+  "segundos": 10.95,
+  "uso": {
+    "completion_tokens": 167,
+    "prompt_tokens": 406,
+    "total_tokens": 573,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "2af4d25c4bb4be9dbb30",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 31308,
+      "entry_id": 201750,
+      "original_hex": [
+        "82738292829981408290828c828182838289828e8287814082948297828f8140828f828681408299828f82958292",
+        "82838288828182928281828382948285829282938140828e82858298829481408294828f81408285828182838288",
+        "828f82948288828582928142",
+        "826882868140828f828e8285814082818294829482818283828b829381408281828e81408285828e8285828d82998141",
+        "8294828882858140828f8294828882858292814082978289828c828c81408293829582908290828f829282948140828982948142",
+        "8278828f8295814082838281828e814082888281829682858140828d8281828e8299",
+        "8283828882818292828182838294828582928293814082818294829482818283828b81408281828e",
+        "8285828e8285828d82998140828182948140828f828e828382858142",
+        "8273828882898293814082898293814082838281828c828c828582848140828181408293829582908290828f829282948289828e8287",
+        "82818294829482818283828b8142814082688294814082978289828c828c81408283828f828d828581408289828e",
+        "82888281828e8284829981408293828f814082928285828d8285828d8282828582928140828982948142",
+        "826e828e82858140828c8289828d82898294828182948289828f828e81408294828f",
+        "8293829582908290828f829282948289828e8287814082818294829482818283828b8293814181408294828882858299",
+        "82838281828e828e828f82948140828282858140829582938285828481408294828f828782858294828882858292",
+        "8297828982948288814082818140829382908285828382898281828c8140828182828289828c8289829482998142",
+        "826e828681408283828f82958292829382858141814082948288828581408285828e8285828d8299",
+        "82838281828e814082958293828581408293829582908290828f829282948289828e8287",
+        "82818294829482818283828b8293814181408294828f828f814181408293828f8140828282858140829282858281828482998142",
+        "8278828f829581408283828f8295828c8284814082978289828e828481408295829081408289828e",
+        "82948292828f82958282828c828581408289828681408299828f8295814082838288828182928287828581408289828e8294828f",
+        "8281814082878292828f829582908140828f828681408285828e8285828d8289828582938142",
+        "82738288828581408294829282898283828b81408294828f8140829582938289828e8287",
+        "8293829582908290828f82928294828982968285814082818294829482818283828b82938140828982938140829482888285",
+        "82908292828f82908285829281408290828c828182838285828d8285828e82948140828f828681408299828f82958292",
+        "82838288828182928281828382948285829282938142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

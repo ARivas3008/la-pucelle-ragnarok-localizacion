@@ -1,0 +1,51 @@
+{
+  "original": "I am collecting a record of all items found in the kingdom of Paprika。 If you find anything、 let me make a record of it。 I will add all information to my collection。 If you help me、 I will give you a surprise。 Do not worry about items you may get rid of、 I will still keep a record。 I will also keep a record of all your battles for you。 Please gather me tons of battle and item information。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI am collecting a record of all items found in the kingdom of Paprika。 If you find anything、 let me make a record of it。 I will add all information to my collection。 If you help me、 I will give you a surprise。 Do not worry about items you may get rid of、 I will still keep a record。 I will also keep a record of all your battles for you。 Please gather me tons of battle and item information。",
+  "respuesta": "Estoy recopilando información sobre todos los objetos que se encuentran en el reino de Paprika. Si encuentras algo, por favor, háznoslo saber. Agregaré toda la información a mi colección. Si me ayudas, te regalaré una sorpresa. No te preocupes por los objetos que puedas desechar; seguiré registrándolos todos. También registraré todas tus batallas para ti. Por favor, envíame toda la información sobre las batallas y los objetos que encuentres.",
+  "fin": "stop",
+  "segundos": 8.38,
+  "uso": {
+    "completion_tokens": 127,
+    "prompt_tokens": 386,
+    "total_tokens": 513,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "193d43bbd67bdf64613f",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 51820,
+      "entry_id": 221100,
+      "original_hex": [
+        "826881408281828d81408283828f828c828c8285828382948289828e8287814082818140829282858283828f82928284",
+        "828f828681408281828c828c8140828982948285828d829381408286828f8295828e828481408289828e",
+        "8294828882858140828b8289828e82878284828f828d8140828f82868140826f8281829082928289828b82818142",
+        "8268828681408299828f8295814082868289828e828481408281828e8299829482888289828e82878141",
+        "828c828582948140828d82858140828d8281828b8285814082818140829282858283828f82928284",
+        "828f82868140828982948142",
+        "8268814082978289828c828c814082818284828481408281828c828c",
+        "8289828e8286828f8292828d828182948289828f828e81408294828f8140828d8299",
+        "8283828f828c828c8285828382948289828f828e8142",
+        "8268828681408299828f8295814082888285828c82908140828d8285814181408268814082978289828c828c",
+        "828782898296828581408299828f8295814082818140829382958292829082928289829382858142",
+        "8263828f8140828e828f829481408297828f829282928299814082818282828f829582948140828982948285828d8293",
+        "8299828f82958140828d82818299814082878285829481408292828982848140828f82868141",
+        "8268814082978289828c828c8140829382948289828c828c8140828b828582858290814082818140829282858283828f829282848142",
+        "8268814082978289828c828c81408281828c8293828f8140828b82858285829081408281",
+        "829282858283828f829282848140828f828681408281828c828c81408299828f82958292",
+        "8282828182948294828c8285829381408286828f829281408299828f82958142",
+        "826f828c828582818293828581408287828182948288828582928140828d828581408294828f828e8293",
+        "828f828681408282828182948294828c828581408281828e82848140828982948285828d",
+        "8289828e8286828f8292828d828182948289828f828e8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

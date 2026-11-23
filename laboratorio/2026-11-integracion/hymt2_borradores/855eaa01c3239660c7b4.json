@@ -1,0 +1,41 @@
+{
+  "original": "Darn brat。。。!? In the name of the Maiden of Light、 I forbid you from using such a phrase!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAccording to the intel、 Demon Lord Prier should be somewhere around this area。。。\nHeyyyy! Get out hereeee!! You darn brat!!!!!\n。。。More importantly、 we barely even started searching、 and you are screaming your lungs out。 No wonder she is not coming out。。。\nYou should not be calling such a cute girl like me a darn brat anyway。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAccording to the intel、 Demon Lord Prier should be somewhere around this area。。。\nHeyyyy! Get out hereeee!! You darn brat!!!!!\n。。。More importantly、 we barely even started searching、 and you are screaming your lungs out。 No wonder she is not coming out。。。\nYou should not be calling such a cute girl like me a darn brat anyway。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nDarn brat。。。!? In the name of the Maiden of Light、 I forbid you from using such a phrase!",
+  "respuesta": "¡Maldito niño! ¿En nombre de la Doncella de la Luz, te prohíbo usar esa expresión?",
+  "fin": "stop",
+  "segundos": 3.95,
+  "uso": {
+    "completion_tokens": 31,
+    "prompt_tokens": 400,
+    "total_tokens": 431,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "855eaa01c3239660c7b4",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 80736,
+      "entry_id": 1604,
+      "original_hex": [
+        "826382818292828e8140828282928281829481428142814281498148",
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "826c8281828982848285828e8140828f82868140826b8289828782888294814181408268",
+        "8286828f829282828289828481408299828f8295814082868292828f828d8140829582938289828e8287",
+        "82938295828382888140828181408290828882928281829382858149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "According to the intel、 Demon Lord Prier should be somewhere around this area。。。",
+        "Heyyyy! Get out hereeee!! You darn brat!!!!!",
+        "。。。More importantly、 we barely even started searching、 and you are screaming your lungs out。 No wonder she is not coming out。。。",
+        "You should not be calling such a cute girl like me a darn brat anyway。"
+      ]
+    }
+  ]
+}

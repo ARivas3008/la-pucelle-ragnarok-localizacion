@@ -1,0 +1,36 @@
+{
+  "original": "What is wrong、 Big Sister? Please、 calm down!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nReally!? You are just flattering me! If anything、 I am。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nReally!? You are just flattering me! If anything、 I am。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhat is wrong、 Big Sister? Please、 calm down!",
+  "respuesta": "¿Qué pasa, hermana mayor? Por favor, cálmate.",
+  "fin": "stop",
+  "segundos": 1.81,
+  "uso": {
+    "completion_tokens": 17,
+    "prompt_tokens": 323,
+    "total_tokens": 340,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "c5dbd5b0e1625470e07b",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 106890,
+      "entry_id": 280402,
+      "original_hex": [
+        "8276828882818294814082898293814082978292828f828e82878141",
+        "82618289828781408272828982938294828582928148",
+        "826f828c82858281829382858141814082838281828c828d81408284828f8297828e8149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Really!? You are just flattering me! If anything、 I am。"
+      ]
+    }
+  ]
+}

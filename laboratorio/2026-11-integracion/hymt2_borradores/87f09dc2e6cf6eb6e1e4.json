@@ -1,0 +1,37 @@
+{
+  "original": "Demon Lord Prier is equally popular in the Dark World。 Only a matter of time until she becomes the Demon Overlord。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nDemon Lord Prier is equally popular in the Dark World。 Only a matter of time until she becomes the Demon Overlord。。。",
+  "respuesta": "El Señor Demonio Prier es igualmente popular en el Mundo Oscuro. Solo queda poco tiempo hasta que se convierta en el Dominante Demonio…",
+  "fin": "stop",
+  "segundos": 4.09,
+  "uso": {
+    "completion_tokens": 39,
+    "prompt_tokens": 322,
+    "total_tokens": 361,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "87f09dc2e6cf6eb6e1e4",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 41666,
+      "entry_id": 255220,
+      "original_hex": [
+        "82638285828d828f828e8140826b828f829282848140826f8292828982858292814082898293",
+        "8285829182958281828c828c829981408290828f82908295828c8281829281408289828e8140829482888285",
+        "826382818292828b81408276828f8292828c82848142",
+        "826e828e828c8299814082818140828d828182948294828582928140828f8286814082948289828d8285",
+        "8295828e82948289828c81408293828882858140828282858283828f828d828582938140829482888285",
+        "82638285828d828f828e8140826e829682858292828c828f82928284814281428142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

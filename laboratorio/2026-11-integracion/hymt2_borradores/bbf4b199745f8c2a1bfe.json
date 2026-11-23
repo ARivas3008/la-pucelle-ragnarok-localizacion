@@ -1,0 +1,38 @@
+{
+  "original": "This is not the real you!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAnd then I will be able to wipe the human scum from the face of the earth!\nYou are wrong、 Croix。\nThe real you was the person who went adventuring with us。。。\nAnd the one who lived happily with Angelique。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAnd then I will be able to wipe the human scum from the face of the earth!\nYou are wrong、 Croix。\nThe real you was the person who went adventuring with us。。。\nAnd the one who lived happily with Angelique。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThis is not the real you!",
+  "respuesta": "Esto no es tu verdadero yo.",
+  "fin": "stop",
+  "segundos": 1.4,
+  "uso": {
+    "completion_tokens": 11,
+    "prompt_tokens": 352,
+    "total_tokens": 363,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "bbf4b199745f8c2a1bfe",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 136464,
+      "entry_id": 1106,
+      "original_hex": [
+        "82738288828982938140828982938140828e828f829481408294828882858140829282858281828c",
+        "8299828f82958149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "And then I will be able to wipe the human scum from the face of the earth!",
+        "You are wrong、 Croix。",
+        "The real you was the person who went adventuring with us。。。",
+        "And the one who lived happily with Angelique。"
+      ]
+    }
+  ]
+}

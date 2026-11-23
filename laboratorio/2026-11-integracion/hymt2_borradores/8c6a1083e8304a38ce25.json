@@ -1,0 +1,79 @@
+{
+  "original": "I am Noir、 the head of the Church of the Divine Mother。 I am pleased to make your acquaintance。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nB-but why?!?! I am doing this for yooooouuuuu!!!\nPlease accept my apologies。\nWhy did you stop him?\nWould not it be better for you if he had burned the forest to a crisp、 and us with it?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nB-but why?!?! I am doing this for yooooouuuuu!!!\nPlease accept my apologies。\nWhy did you stop him?\nWould not it be better for you if he had burned the forest to a crisp、 and us with it?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI am Noir、 the head of the Church of the Divine Mother。 I am pleased to make your acquaintance。",
+  "respuesta": "Soy Noir, el líder de la Iglesia de la Madre Divina. Me complace conocerlo.",
+  "fin": "stop",
+  "segundos": 3.08,
+  "uso": {
+    "completion_tokens": 28,
+    "prompt_tokens": 368,
+    "total_tokens": 396,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8c6a1083e8304a38ce25",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 117129,
+      "entry_id": 509,
+      "original_hex": [
+        "826881408281828d8140826d828f8289829281418140829482888285814082888285828182848140828f8286",
+        "82948288828581408262828882958292828382888140828f8286814082948288828581408263828982968289828e8285",
+        "826c828f829482888285829281428140826881408281828d81408290828c82858281829382858284",
+        "8294828f8140828d8281828b828581408299828f82958292",
+        "828182838291829582818289828e82948281828e828382858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "B-but why?!?! I am doing this for yooooouuuuu!!!",
+        "Please accept my apologies。",
+        "Why did you stop him?",
+        "Would not it be better for you if he had burned the forest to a crisp、 and us with it?"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 124514,
+      "entry_id": 510,
+      "original_hex": [
+        "826881408281828d8140826d828f8289829281418140829482888285814082888285828182848140828f8286",
+        "82948288828581408262828882958292828382888140828f8286814082948288828581408263828982968289828e8285",
+        "826c828f829482888285829281428140826881408281828d81408290828c82858281829382858284",
+        "8294828f8140828d8281828b828581408299828f82958292",
+        "828182838291829582818289828e82948281828e828382858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "B-but why?!?! I am doing this for yooooouuuuu!!!",
+        "Please accept my apologies。",
+        "Why did you stop him?",
+        "Would not it be better for you if he had burned the forest to a crisp、 and us with it?"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 133134,
+      "entry_id": 511,
+      "original_hex": [
+        "826881408281828d8140826d828f8289829281418140829482888285814082888285828182848140828f8286",
+        "82948288828581408262828882958292828382888140828f8286814082948288828581408263828982968289828e8285",
+        "826c828f829482888285829281428140826881408281828d81408290828c82858281829382858284",
+        "8294828f8140828d8281828b828581408299828f82958292",
+        "828182838291829582818289828e82948281828e828382858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "B-but why?!?! I am doing this for yooooouuuuu!!!",
+        "Please accept my apologies。",
+        "Why did you stop him?",
+        "Would not it be better for you if he had burned the forest to a crisp、 and us with it?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "original": "50年......",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n50年だ。 この日が来ることを待ち続けた......。\n我が拳に込められし、 50年間の重みを知れぃっ!!!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n50年だ。 この日が来ることを待ち続けた......。\n我が拳に込められし、 50年間の重みを知れぃっ!!!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n50年......",
+  "respuesta": "50 años…",
+  "fin": "stop",
+  "segundos": 1.4,
+  "uso": {
+    "completion_tokens": 4,
+    "prompt_tokens": 339,
+    "total_tokens": 343,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "7c0cb636885f6ec6f783",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 48516,
+      "entry_id": 3613,
+      "original_hex": [
+        "8254824f944e81638163"
+      ],
+      "opcion": false,
+      "contexto": [
+        "50年だ。 この日が来ることを待ち続けた......。",
+        "我が拳に込められし、 50年間の重みを知れぃっ!!!!"
+      ]
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 48484,
+      "entry_id": 3613,
+      "original_hex": [
+        "8254824f944e81638163"
+      ],
+      "opcion": false,
+      "contexto": [
+        "50年だ。 この日が来ることを待ち続けた......。",
+        "我が拳に込められし、 50年間の重みを知れぃっ!!!!"
+      ]
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 48708,
+      "entry_id": 3613,
+      "original_hex": [
+        "8254824f944e81638163"
+      ],
+      "opcion": false,
+      "contexto": [
+        "50年だ。 この日が来ることを待ち続けた......。",
+        "我が拳に込められし、 50年間の重みを知れぃっ!!!!"
+      ]
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 48676,
+      "entry_id": 3613,
+      "original_hex": [
+        "8254824f944e81638163"
+      ],
+      "opcion": false,
+      "contexto": [
+        "50年だ。 この日が来ることを待ち続けた......。",
+        "我が拳に込められし、 50年間の重みを知れぃっ!!!!"
+      ]
+    }
+  ]
+}

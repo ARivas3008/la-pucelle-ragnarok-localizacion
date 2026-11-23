@@ -4,7 +4,7 @@ No promete una localización final: aplica sólo textos unitarios comprobables s
 cambiar offsets ni punteros, conserva el resto y emite un informe exhaustivo.
 No distribuye juegos ni DLC. Usa únicamente archivos aportados por el propietario.
 """
-import argparse,csv,hashlib,json,os,re,shutil,struct,subprocess,sys,tempfile,urllib.request,unicodedata
+import argparse,csv,hashlib,io,json,os,re,shutil,struct,subprocess,sys,tempfile,urllib.request,unicodedata
 from collections import Counter,defaultdict
 from pathlib import Path
 from nis_formats import lzs_decompress,lzs_header,nispack
@@ -25,6 +25,7 @@ REDUCCIONES=ROOT/'datos/propuestas_reduccion_v012.csv'
 AJUSTES_REDUCCIONES=ROOT/'datos/ajustes_reducciones_v013.csv'
 REMOTE='https://raw.githubusercontent.com/ARivas3008/la-pucelle-ragnarok-localizacion/main/corpus/{:02d}/revision.csv'
 SHA_ISO_START='22be383708fe5520cf9da7efa302a2502a9fca82727874b644ab64ad2d72620a'
+TEXTO_COMPACTO=False
 
 class Fail(Exception):pass
 
@@ -52,7 +53,7 @@ def read_reviews(repo_dir, fetch):
    except Exception as e:raise Fail(f'No se pudo obtener revisión {n:02d}: {e}. Usa --repo-directorio')
   else:raise Fail(f'Falta el corpus {n:02d}: usa --repo-directorio con checkout ACTUAL o --descargar-revisiones.')
   s=raw.decode('utf-8-sig').splitlines()
-  reader=csv.DictReader(s)
+  reader=csv.DictReader(io.StringIO(raw.decode('utf-8-sig')))
   if not {'grupo_id','es_revisado','estado'}.issubset(reader.fieldnames or []):raise Fail(f'Cabeceras incorrectas corpus {n:02d}')
   for row in reader:
    gid=row['grupo_id']
@@ -103,6 +104,10 @@ def canonical_source(text):
  """
  return unicodedata.normalize('NFKC',text)
 
+def texto_destino(text,style):
+ """La política de salida no cambia nunca la comparación del original."""
+ return to_full(text) if style=='ancho' and not TEXTO_COMPACTO else text
+
 def match_source(buf,off,orig):
  if off<0 or off>=len(buf) or not orig:return None,None
  # Método original rápido y más estricto.
@@ -135,7 +140,7 @@ def safe_encoding(text,style,length,drop_accents=False,fuentes_es=False):
   # ¡ y ¿ se eliminan sólo como modo preliminar explícito.
   text=unicodedata.normalize('NFD',text)
   text=''.join(c for c in text if unicodedata.category(c)!='Mn').replace('¿','').replace('¡','')
- if style=='ancho':text=to_full(text)
+ text=texto_destino(text,style)
  try:b=encode_es(text) if fuentes_es else text.encode('cp932')
  except (UnicodeEncodeError,FontError) as e:raise Fail('caracteres sin codificar/fontB; '+str(e)) from e
  if len(b)>length:raise Fail(f'traducción {len(b)} bytes excede los {length} bytes disponibles')
@@ -237,15 +242,15 @@ def planificar_intervenciones(manifest,source_buffers,group_units,reviews,invest
     if not style or src is None:
      raise SegmentacionError('No coinciden todos los bytes originales del mensaje')
     desc.append((resource,off,style,len(src)))
-   if len({x[2] for x in desc})!=1:raise SegmentacionError('Intervención con estilos de codificación mezclados')
+   if not TEXTO_COMPACTO and len({x[2] for x in desc})!=1:raise SegmentacionError('Intervención con estilos de codificación mezclados')
    if any(rsc!=desc[0][0] for rsc,_,_,_ in desc):raise SegmentacionError('Intervención cruza recursos distintos')
    style=desc[0][2]
-   enc=lambda t:encode_es(to_full(t) if style=='ancho' else t) if not sin_fuentes_es else (to_full(t) if style=='ancho' else t).encode('cp932')
+   enc=lambda t:encode_es(texto_destino(t,style)) if not sin_fuentes_es else (texto_destino(t,style)).encode('cp932')
    chunks=repartir(phrase,[x[3] for x in desc],encoder=enc)
    staged=[]
    for row,meta,chunk in zip(chain,desc,chunks):
     rsc,off,st,cap=meta
-    text=to_full(chunk) if st=='ancho' else chunk
+    text=texto_destino(chunk,st)
     pack='ISO_START' if rsc.startswith('ISO/') else rsc.split('/')[0]
     if not sin_fuentes_es and (missing:=missing_render_glyphs(text,fuentes[pack]['inner'])):
      raise SegmentacionError('Fuente sin glifos: '+repr(missing))
@@ -262,6 +267,63 @@ def planificar_intervenciones(manifest,source_buffers,group_units,reviews,invest
  for uid in orphan:rejected.setdefault(uid,'El script tiene una continuación fuera del mapa de unidades')
  return solutions,rejected,ids,revised
 
+def planificar_paginados(manifest,source_buffers,group_units,reviews,investigacion,sin_fuentes_es,fuentes,refinamientos):
+ """Traduce un grupo editorial distribuido entre cuadros 0x01/0x02/0x01.
+
+ Reconoce SOLO delimitadores literales entre unidades del mismo grupo;
+ nunca añade ni desplaza bytecode o punteros, ni fusiona hablantes diferentes.
+ Si cualquiera de sus cajas falla, no modifica ninguna.
+ """
+ chains,_,_=cadenas_dialogo(manifest,source_buffers)
+ solutions={}; rejected={}
+ for gid,units in group_units.items():
+  if len(units)<2:continue
+  ordered=sorted(units,key=lambda x:int(x['offset']))
+  res=ordered[0]['recurso']
+  if not all(x['recurso']==res for x in ordered):continue
+  if not re.search(r'(?:^|/)talk\d+(?:_jp)?\.dat$',res,re.I):continue
+  if res not in source_buffers:continue
+  buf=source_buffers[res]
+  desc=[];boundary=[]
+  for u in ordered:
+   off=int(u['offset']);style,src=match_source(buf,off,u['original'])
+   if not style or src is None or off<1 or buf[off-1]!=1:break
+   desc.append((res,off,style,len(src)))
+   boundary.append((off,off+len(src)))
+  if len(desc)!=len(ordered):continue
+  marks=[bytes(buf[end:nxt]) for (_,end),(nxt,_) in zip(boundary,boundary[1:])]
+  if not marks or not all(x in (b'\x00\x01',b'\x00\x02\x01') for x in marks):continue
+  if b'\x00\x02\x01' not in marks:continue
+  members={u['unit_id'] for u in ordered}
+  if any(members.intersection({x['unit_id'] for x in c}) and
+         any(x['grupo_id']!=gid for x in c) for c in chains):continue
+  try:
+   rev=reviews.get(gid)
+   if not rev or rev['estado'] not in ('revisado','requiere_investigacion'):
+    raise SegmentacionError('Sin revisión editorial del grupo paginado')
+   if rev['estado']=='requiere_investigacion' and not investigacion:
+    raise SegmentacionError('Grupo paginado pendiente de investigación')
+   phrase=es_revisado_para_parche(gid,rev,refinamientos)
+   if not phrase.strip():raise SegmentacionError('Traducción vacía')
+   styles={x[2] for x in desc}
+   if not TEXTO_COMPACTO and len(styles)!=1:raise SegmentacionError('Estilos CP932 mezclados entre páginas')
+   style=desc[0][2]
+   enc=lambda t:encode_es(texto_destino(t,style)) if not sin_fuentes_es else (texto_destino(t,style)).encode('cp932')
+   chunks=repartir(phrase,[x[3] for x in desc],encoder=enc)
+   pack='ISO_START' if res.startswith('ISO_START/') else res.split('/')[0] if not res.startswith('ISO/') else 'ISO_START'
+   staged=[]
+   for u,meta,chunk in zip(ordered,desc,chunks):
+    printable=texto_destino(chunk,style)
+    if not sin_fuentes_es and (missing:=missing_render_glyphs(printable,fuentes[pack]['inner'])):
+     raise SegmentacionError('Glifos no disponibles: '+repr(missing))
+    encoded=safe_encoding(chunk,style,meta[3],fuentes_es=not sin_fuentes_es)
+    staged.append((u['unit_id'],(meta,chunk,encoded,tuple(sorted(members)))))
+   solutions.update(staged)
+  except (Fail,SegmentacionError,FontError,UnicodeError) as exc:
+   for u in ordered:rejected[u['unit_id']]=str(exc)
+ return solutions,rejected
+
+
 def cargar_menus_centrales():
  """Curaduría voluntaria de interfaz. No se confunde con los 15 corpus revisados."""
  with MENU_CENTRAL.open(encoding='utf-8-sig',newline='') as f:
@@ -273,7 +335,7 @@ def cargar_menus_centrales():
   out[r['original']]=r['es']
  return out
 
-def sustituir_eboot_ascii(eboot,manifest,reviews,refinamientos,menus_centrales=None):
+def sustituir_eboot_ascii(eboot,manifest,reviews,refinamientos,menus_centrales=None,permitir_fontb=False):
  """Solo entradas ASCII completas con mismo bloque NUL y longitud fija.
  No altera secciones ELF, offsets, símbolos, código ni terminadores.
  El menú Start/Continue/Settings se conserva en su tabla original.
@@ -289,7 +351,9 @@ def sustituir_eboot_ascii(eboot,manifest,reviews,refinamientos,menus_centrales=N
   elif r and r['estado']=='revisado':
    text=es_revisado_para_parche(gid,r,refinamientos)
   else:continue
-  if not source.isascii() or not text.isascii() or not text.strip() or re.search(r'[%{}<>\\\r\n]',text+source):
+  controls=lambda s:re.findall(r'%(?:[-+ #0]*\d*(?:\.\d+)?)?[diuoxXfFeEgGcs%]|\{[^}]*\}|<[^>]*>|\\[rn]',s)
+  valid_controls=permitir_fontb and controls(source)==controls(text) and not re.search(r'[{}<>\\\r\n]',text+source)
+  if not source.isascii() or (not text.isascii() and not permitir_fontb) or not text.strip() or (re.search(r'[%{}<>\\\r\n]',text+source) and not valid_controls):
    rejected[uid]='EBOOT: texto no ASCII o con controles; requiere ingeniería adicional'
    continue
   if off<0 or off>=len(eboot):rejected[uid]='EBOOT: offset fuera de rango';continue
@@ -298,9 +362,24 @@ def sustituir_eboot_ascii(eboot,manifest,reviews,refinamientos,menus_centrales=N
   original=bytes(eboot[off:end])
   if original.rstrip(b' ')!=source.encode('ascii'):
    rejected[uid]='EBOOT: los bytes no corresponden exactamente a la fuente';continue
-  if len(text)>len(original):
+  try:encoded=encode_es(text) if permitir_fontb else text.encode('ascii')
+  except (FontError,UnicodeError):
+   rejected[uid]='EBOOT: fuente no representa el texto';continue
+  # Dos etiquetas tienen reserva NUL verificada en el EBOOT original.
+  # Mantener el inicio (las referencias siguen válidas), usar solo ceros
+  # libres y escribir un terminador nuevo dentro del mismo campo.
+  reserved={'Church':(708478,8),'Devils Stomach':(763822,20)}
+  slot=reserved.get(source) if permitir_fontb else None
+  if len(encoded)>len(original) and slot and off==slot[0] and len(encoded)<slot[1]:
+   limit=off+slot[1]
+   if any(eboot[end:limit]):
+    rejected[uid]='EBOOT: reserva de etiqueta ocupada';continue
+   eboot[off:limit]=(encoded+b'\0').ljust(slot[1],b'\0')
+   changes[uid]=(source,text,off)
+   continue
+  if len(encoded)>len(original):
    rejected[uid]='EBOOT: el texto en español excede el campo original';continue
-  data=text.encode('ascii').ljust(len(original),b' ')
+  data=encoded.ljust(len(original),b' ')
   if data!=original:
    eboot[off:end]=data
    changes[uid]=(source,text,off)
@@ -350,7 +429,7 @@ def cpack(unc, original, folder):
         if cp.returncode:
             raise Fail('Error de compresión LZS: ' + (cp.stderr or cp.stdout)[:1000])
         out = (t / 'output.lzs').read_bytes()
-        if lzs_decompress(out) != unc:
+        if lzs_decompress(out,allow_overlap=False) != unc:
             raise Fail('La compresión no pasa la verificación reversible LZS')
         return out
 
@@ -386,6 +465,8 @@ def auditar_graficos(original_members,nuevo_members,atlas_ui=False):
          'paletas_y_cabeceras_preservadas':True}
 
 def patch(args):
+ global TEXTO_COMPACTO
+ TEXTO_COMPACTO=getattr(args,'texto_compacto',False)
  if not args.iso and not args.dlc_directorio:
   raise Fail('Debes elegir al menos uno de estos objetivos: ISO o carpeta de DLC')
  original_iso=Path(args.iso) if args.iso else None
@@ -422,6 +503,8 @@ def patch(args):
    edats[key]=(p,data)
  # Texturas de interfaz opcionales: sólo diffs del atlas con SHA original exacto.
  texturas_ui={}
+ if getattr(args,'conservar_eboot',False) and args.atlas_ui:
+  raise Fail('Aislamiento visual activo: no se pueden editar atlas de UI; desactiva esa opción')
  if args.atlas_ui:
   for k,obj in packs.items():
    try:texturas_ui[k]=aplicar_atlas_ui(obj['inner'])
@@ -446,7 +529,7 @@ def patch(args):
  # Rótulos narrativos del script original, no subtítulos rasterizados del vídeo.
  # Reemplazo exacto dentro del espacio existente; nunca toca Now Loading.
  reporte_script=[];alerta_script=None
- if original_iso and not args.solo_fuentes and not args.sin_subtitulos_script:
+ if original_iso and not args.solo_fuentes and not args.sin_subtitulos_script and not getattr(args,'diferir_scripts',False):
   try:
    corregido,reporte_script=aplicar_subtitulos_script(source_buffers['ISO_START/script00.dat'])
    source_buffers['ISO_START/script00.dat'][:]=corregido
@@ -454,13 +537,32 @@ def patch(args):
    alerta_script=str(exc)  # No impide otros recursos; conservar script original.
  stats=Counter();result=[];patch_offsets=defaultdict(list)
  refinamientos=leer_refinamientos()
- eb_changes={};eb_rejected={}
- if eboot_raw is not None and not args.solo_fuentes:
-  eb_changes,eb_rejected=sustituir_eboot_ascii(eboot_raw,manifest,reviews,refinamientos,cargar_menus_centrales())
+ eb_changes={};eb_rejected={};eb_extra=[]
+ eboot_original=bytes(eboot_raw) if eboot_raw is not None else None
+ if eboot_raw is not None and not args.solo_fuentes and not getattr(args,'conservar_eboot',False):
+  eb_changes,eb_rejected=sustituir_eboot_ascii(eboot_raw,manifest,reviews,refinamientos,cargar_menus_centrales(),
+     permitir_fontb=getattr(args,'menus_fontb',False) and not args.sin_fuentes_es)
  block_solutions={};block_rejected={};block_uids=set();editorial_changes={}
  if args.dialogos_atomicos and not args.solo_fuentes:
   block_solutions,block_rejected,block_uids,editorial_changes=planificar_intervenciones(
       manifest,source_buffers,group_units,reviews,args.incluir_investigacion,args.sin_fuentes_es,packs,refinamientos)
+ # v0.17: admitir páginas adyacentes del MISMO grupo verificadas por
+ # bytecode original, sin desplazar offsets ni cambiar el contenedor.
+ paged_solutions,paged_rejected=planificar_paginados(
+    manifest,source_buffers,group_units,reviews,args.incluir_investigacion,
+    args.sin_fuentes_es,packs,refinamientos)
+ for uid,sol in paged_solutions.items():
+  block_solutions[uid]=sol
+  block_rejected.pop(uid,None)
+  block_uids.add(uid)
+ if TEXTO_COMPACTO and not args.solo_fuentes:
+  from dialogos_completos import planificar
+  module=sys.modules[__name__]
+  complete,blocked,covered=planificar(module,manifest,source_buffers,group_units,reviews,
+    args.incluir_investigacion,args.sin_fuentes_es,packs,refinamientos)
+  for uid in covered:
+   block_solutions.pop(uid,None);block_rejected.pop(uid,None)
+  block_solutions.update(complete);block_rejected.update(blocked);block_uids.update(covered)
  seg_solutions={}
 
  seg_rejected={}
@@ -485,13 +587,13 @@ def patch(args):
     if len({(x[0],x[2]) for x in descriptors})>1:continue
     # Calcular capacidad usando el mismo estilo de codificación final.
     style=descriptors[0][2]
-    enc=lambda text: encode_es(to_full(text) if style=='ancho' else text) if not args.sin_fuentes_es else (to_full(text) if style=='ancho' else text).encode('cp932')
+    enc=lambda text: encode_es(texto_destino(text,style)) if not args.sin_fuentes_es else (texto_destino(text,style)).encode('cp932')
     chunks=repartir(es_revisado_para_parche(gid,rev,refinamientos),[x[3] for x in descriptors],encoder=enc)
     prepared=[]
     # Preparar TODAS las cajas de un grupo ANTES de escribir cualquiera.
     for u,desc,chunk in zip(units,descriptors,chunks):
      rsc,off,style,cap=desc
-     display=to_full(chunk) if style=='ancho' else chunk
+     display=texto_destino(chunk,style)
      if not args.sin_fuentes_es and missing_render_glyphs(display,packs[rsc.split('/')[0] if not rsc.startswith('ISO/') else 'ISO_START']['inner']):
       raise SegmentacionError('caracter sin glifo en el grupo')
      data=safe_encoding(chunk,style,cap,drop_accents=args.sin_tildes_preliminar,fuentes_es=not args.sin_fuentes_es)
@@ -516,6 +618,8 @@ def patch(args):
    status='OMITIDO_FUERA_DE_ALCANCE';reason='El objetivo no se seleccionó en este parcheo (ISO o DLC)'
   elif args.solo_fuentes:
    status='OMITIDO_SOLO_FUENTES';reason='Modo de prueba de fuentes, sin texto de corpus'
+  elif getattr(args,'diferir_scripts',False) and re.search(r'(?:^|/)script\d+\.dat$',res):
+   status='DIFERIDO_FASE_SCRIPTS';reason='Edición única en segunda fase sobre scripts originales'
   elif uid in eb_changes:
    status='APLICADO_EBOOT_ASCII';newtext=eb_changes[uid][1]
    reason='EBOOT: reemplazo ASCII de campo NUL exacto, sin mover offsets ni modificar código'
@@ -531,7 +635,7 @@ def patch(args):
    else:
     source_buffers[rsc][off:off+cap]=target
     patch_offsets[rsc].append(occupied)
-    status='APLICADO_BLOQUE_DIALOGO'
+    status='APLICADO_PAGINA_ESTRUCTURAL' if uid in paged_solutions else 'APLICADO_BLOQUE_DIALOGO'
     reason='Intervención completa repartida entre cajas 0x01, sin mezclar idiomas'
   elif uid in seg_solutions:
    (rsc,off,style,cap),newtext,target=seg_solutions[uid]
@@ -559,6 +663,8 @@ def patch(args):
    status='INVESTIGACION';reason='Marcado requiere_investigacion en el repositorio'
   elif not (newtext:=es_revisado_para_parche(gid,r,refinamientos)).strip():
    status='SIN_TEXTO';reason='No hay español revisado'
+  elif res=='ISO/PSP_GAME/SYSDIR/EBOOT.BIN' and eboot_original is not None and original==newtext and eboot_original[int(row['offset']):int(row['offset'])+len(original)+1]==original.encode('ascii')+b'\0':
+   status='SIN_CAMBIO';reason='Nombre propio o término español idéntico al original, cotejado byte a byte'
   elif res not in source_buffers:
    status='RECURSO_NO_TEXTO';reason='Textura, EBOOT o archivo no mapeado para inserción de cadenas'
   else:
@@ -568,7 +674,7 @@ def patch(args):
     status='NO_COINCIDE_FUENTE';reason='Bytes origen no verificables en offset exacto o sin NUL inmediatamente después'
    else:
     try:
-     if not args.sin_fuentes_es and (missing:=missing_render_glyphs(to_full(newtext) if style=='ancho' else newtext,packs[res.split('/')[0] if not res.startswith('ISO/') else 'ISO_START']['inner'])):raise Fail('fontB no cubre: '+repr(missing))
+     if not args.sin_fuentes_es and (missing:=missing_render_glyphs(texto_destino(newtext,style),packs[res.split('/')[0] if not res.startswith('ISO/') else 'ISO_START']['inner'])):raise Fail('fontB no cubre: '+repr(missing))
      # Tablas de ancho fijo: nombres/descripciones pueden usar su padding cero.
      # Nunca se desplaza el resto del registro ni se modifican offsets.
      campo=capacidad_verificada(res,buf,off,len(src))
@@ -576,7 +682,7 @@ def patch(args):
      if campo is not None and not args.sin_tildes_preliminar:
       if any(c in newtext for c in ('\r','\n','\x00','\t')) or re.search(r'\{[^}]*\}|%[sd]|<[^>]+>',newtext):
        raise Fail('Controles especiales: campo fijo no autorizado')
-      text_encoded=to_full(newtext) if style=='ancho' else newtext
+      text_encoded=texto_destino(newtext,style)
       try:bytes_es=encode_es(text_encoded) if not args.sin_fuentes_es else text_encoded.encode('cp932')
       except (FontError,UnicodeError) as e:raise Fail(str(e)) from e
       if len(bytes_es)>len(src) and len(bytes_es)+1<=campo:
@@ -611,9 +717,13 @@ def patch(args):
   reporte_reducciones=aplicar_reducciones_v013(
       ajustar_propuestas(cargar_propuestas(REDUCCIONES),AJUSTES_REDUCCIONES),
       manifest,result,source_buffers,eboot_raw,
-      patch_offsets,packs,match_source,reviews,fuentes_activas=not args.sin_fuentes_es)
+      patch_offsets,packs,match_source,reviews,fuentes_activas=not args.sin_fuentes_es,
+      conservar_eboot=getattr(args,'conservar_eboot',False))
   eb_changes.update(reporte_reducciones['eboot_cambios'])
   stats=Counter(r['estado'] for r in result)
+ if eboot_raw is not None and not args.solo_fuentes and not getattr(args,'conservar_eboot',False) and getattr(args,'menus_fontb',False):
+  from menus_adicionales import aplicar as aplicar_menus_adicionales
+  eboot_raw,eb_extra=aplicar_menus_adicionales(eboot_original,eboot_raw)
  args.salida.mkdir(parents=True,exist_ok=True)
  with (args.salida/'reporte_por_unidad.csv').open('w',encoding='utf-8-sig',newline='') as f:
   w=csv.DictWriter(f,fieldnames=result[0]);w.writeheader();w.writerows(result)
@@ -623,9 +733,12 @@ def patch(args):
           'estado_revisiones':dict(states),'sha256_revisiones':revchecks,'unidades_por_estado':dict(stats),
           'cadenas_modificadas':sum(v for k,v in stats.items() if k.startswith('APLICADO')),
           'bloques_de_dialogo_procesados':len({v[3] for v in block_solutions.values()}),
+          'grupos_paginados_estructurales':len({v[3] for v in paged_solutions.values()}),
+          'unidades_paginadas_estructurales':len(paged_solutions),
           'bloques_bloqueados':len(set(block_rejected.values())),
           'ediciones_contextuales_aplicadas':editorial_changes,
           'menus_eboot_ascii_aplicados':len(eb_changes),
+          'menus_fuera_corpus':eb_extra,
           'reducciones_v012':{'conteos':reporte_reducciones['conteos'], 'auditoria_editorial_pendiente':True},
           'campos_fijos_ampliados':stats['APLICADO_CAMPO_FIJO']+stats['APLICADO_CAMPO_FIJO_PROVISIONAL'],
           'rotulos_narrativos_script':reporte_script,
@@ -665,7 +778,7 @@ def patch(args):
      new=scriptpack[file['name']]
      if len(new)!=file['size']:raise Fail('Cambio peligroso de longitud scriptpack')
      f.seek(scriptinfo[0]+file['offset']);f.write(new)
-    if eboot_raw is not None and eb_changes:
+    if eboot_raw is not None and (eb_changes or eb_extra):
      f.seek(ebootinfo[0]);f.write(eboot_raw)
    os.replace(temp,out_iso)
   finally:
@@ -673,7 +786,7 @@ def patch(args):
   verifyiso=Image(out_iso)
   rec2={p:(o,n,r) for p,o,n,r in verifyiso.records()}
   if sh(verifyiso.read(*rec2['/PSP_GAME/USRDIR/START_JP.LZS'][:2]))!=sh(new_lzs['ISO_START']):raise Fail('Error de verificación del START dentro de ISO nueva')
-  if eb_changes and sh(verifyiso.read(*rec2['/PSP_GAME/SYSDIR/EBOOT.BIN'][:2])) != sh(eboot_raw):raise Fail('Error en verificación EBOOT de menús')
+  if (eb_changes or eb_extra) and sh(verifyiso.read(*rec2['/PSP_GAME/SYSDIR/EBOOT.BIN'][:2])) != sh(eboot_raw):raise Fail('Error en verificación EBOOT de menús')
   sc2=verifyiso.read(*rec2['/PSP_GAME/USRDIR/SCRIPTPACK.DAT'][:2]);member2={x['name']:x['content'] for x in nispack(sc2)}
   if len(member2)!=len(scriptpack) or any(sh(member2.get(k,b''))!=sh(v) for k,v in scriptpack.items()):raise Fail('SCRIPTPACK no coincide tras empaquetado')
  for key,(p,data) in edats.items():
@@ -694,8 +807,12 @@ def main():
  p.add_argument('--descargar-revisiones',action='store_true',help='Obtener 15 archivos revision.csv públicos del main actual')
  p.add_argument('--salida',required=True,type=Path)
  p.add_argument('--solo-auditoria',action='store_true')
+ p.add_argument('--diferir-scripts',action='store_true',help='Reservar script*.dat íntegros para una única edición de segunda fase')
  p.add_argument('--incluir-investigacion',action='store_true',help='Permitir propuestas marcadas requiere_investigacion, como provisional')
+ p.add_argument('--conservar-eboot',action='store_true',help='Diagnóstico A/B: no modificar EBOOT, aunque algunas etiquetas de UI queden originales')
  p.add_argument('--atlas-ui',action='store_true',help='Atlas de interfaz sys3/sys4 con original SHA256 verificado; vista previa recomendada')
+ p.add_argument('--texto-compacto',action='store_true',help='Usar ASCII existente y gaiji españoles, conservando offsets y terminadores')
+ p.add_argument('--menus-fontb',action='store_true',help='Menús con glifos españoles; requiere validación visual de las rutas fontB')
  p.add_argument('--reducciones-verificadas',action='store_true',help='OPT-IN: abreviaciones v0.12 que pasan capacidad/bytes; todavía requieren QA editorial y visual')
  p.add_argument('--sin-subtitulos-script',action='store_true',help='No editar los cuatro rótulos narrativos identificados en script00.dat')
  p.add_argument('--solo-fuentes',action='store_true',help='Generar ISO y 4 DLC con fuentes extendidas; sin descargar revisiones ni sustituir diálogos')

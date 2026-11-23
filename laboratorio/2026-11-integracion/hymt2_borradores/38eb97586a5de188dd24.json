@@ -1,0 +1,40 @@
+{
+  "original": "I saw it when I was talking to her earlier。 I had a vision of her future。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWhat?! What do you mean?\nTonight。。。she will be killed。 By witch hunters。\nAnd her death will cause the birth of the Dark Prince。\nNo!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWhat?! What do you mean?\nTonight。。。she will be killed。 By witch hunters。\nAnd her death will cause the birth of the Dark Prince。\nNo!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI saw it when I was talking to her earlier。 I had a vision of her future。",
+  "respuesta": "Lo vi cuando hablé con ella antes. Tuve una visión de su futuro.",
+  "fin": "stop",
+  "segundos": 2.37,
+  "uso": {
+    "completion_tokens": 20,
+    "prompt_tokens": 348,
+    "total_tokens": 368,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "38eb97586a5de188dd24",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 143634,
+      "entry_id": 1007,
+      "original_hex": [
+        "826881408293828182978140828982948140829782888285828e814082688140829782818293",
+        "82948281828c828b8289828e828781408294828f81408288828582928140828582818292828c8289828582928142",
+        "826881408288828182848140828181408296828982938289828f828e8140828f82868140828882858292",
+        "8286829582948295829282858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "What?! What do you mean?",
+        "Tonight。。。she will be killed。 By witch hunters。",
+        "And her death will cause the birth of the Dark Prince。",
+        "No!"
+      ]
+    }
+  ]
+}

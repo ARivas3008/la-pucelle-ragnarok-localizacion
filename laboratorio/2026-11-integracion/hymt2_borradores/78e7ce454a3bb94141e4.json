@@ -1,0 +1,38 @@
+{
+  "original": "You are doing such a wonderful thing for everyone。 But still、 do not get too conceited。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nUgh。。。 I will try to be more careful。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nUgh。。。 I will try to be more careful。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou are doing such a wonderful thing for everyone。 But still、 do not get too conceited。",
+  "respuesta": "Estás haciendo algo maravilloso por todos. Pero, aún así, no te vuelvas demasiado orgulloso.",
+  "fin": "stop",
+  "segundos": 3.3,
+  "uso": {
+    "completion_tokens": 32,
+    "prompt_tokens": 327,
+    "total_tokens": 359,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "78e7ce454a3bb94141e4",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 51807,
+      "entry_id": 258120,
+      "original_hex": [
+        "8278828f8295814082818292828581408284828f8289828e828781408293829582838288",
+        "828181408297828f828e82848285829282868295828c8140829482888289828e828781408286828f8292",
+        "82858296828582928299828f828e82858142",
+        "8261829582948140829382948289828c828c814181408284828f8140828e828f82948140828782858294",
+        "8294828f828f81408283828f828e8283828582898294828582848142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Ugh。。。 I will try to be more careful。。。"
+      ]
+    }
+  ]
+}

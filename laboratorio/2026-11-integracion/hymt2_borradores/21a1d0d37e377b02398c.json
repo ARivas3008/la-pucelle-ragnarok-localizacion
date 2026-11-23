@@ -1,0 +1,42 @@
+{
+  "original": "The thing is、 there is no way I can become the Maiden of Light。 I believe in the power of strength。 I will not deny it。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThis is all because I had to go and start thinking about the Demon Lord。。。 I am really pathetic。。。。\nThat is not true、 Big Sister! Please do not blame yourself for this。。。\nPrier! What are you saying!?\nBut you know、 before even worrying about who is the Maiden of Light、 I need to deal with this Demon Lord as I will NOT let her simply trample all over me!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThis is all because I had to go and start thinking about the Demon Lord。。。 I am really pathetic。。。。\nThat is not true、 Big Sister! Please do not blame yourself for this。。。\nPrier! What are you saying!?\nBut you know、 before even worrying about who is the Maiden of Light、 I need to deal with this Demon Lord as I will NOT let her simply trample all over me!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThe thing is、 there is no way I can become the Maiden of Light。 I believe in the power of strength。 I will not deny it。",
+  "respuesta": "La verdad es que no hay manera de que pueda convertirme en la Doncella de la Luz. Creo en el poder de la fuerza. No lo negaré.",
+  "fin": "stop",
+  "segundos": 4.61,
+  "uso": {
+    "completion_tokens": 40,
+    "prompt_tokens": 414,
+    "total_tokens": 454,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "21a1d0d37e377b02398c",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 72228,
+      "entry_id": 1704,
+      "original_hex": [
+        "8273828882858140829482888289828e82878140828982938141814082948288828582928285814082898293",
+        "828e828f814082978281829981408268814082838281828e8140828282858283828f828d8285",
+        "8294828882858140826c8281828982848285828e8140828f82868140826b82898287828882948142",
+        "8268814082828285828c828982858296828581408289828e814082948288828581408290828f829782858292",
+        "828f828681408293829482928285828e8287829482888142",
+        "8268814082978289828c828c8140828e828f8294814082848285828e82998140828982948142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "This is all because I had to go and start thinking about the Demon Lord。。。 I am really pathetic。。。。",
+        "That is not true、 Big Sister! Please do not blame yourself for this。。。",
+        "Prier! What are you saying!?",
+        "But you know、 before even worrying about who is the Maiden of Light、 I need to deal with this Demon Lord as I will NOT let her simply trample all over me!"
+      ]
+    }
+  ]
+}

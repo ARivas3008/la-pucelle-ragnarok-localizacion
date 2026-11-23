@@ -1,0 +1,38 @@
+{
+  "original": "That man appeared three days after Palmier died。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nLosing her tore me apart inside!!\nI cursed the sickness that took her、 and  I cursed the Goddess!\nHe said he was from the Church of the Divine Mother、 and that he knew  how to bring her back。\nBut I needed a human heart to do it。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nLosing her tore me apart inside!!\nI cursed the sickness that took her、 and  I cursed the Goddess!\nHe said he was from the Church of the Divine Mother、 and that he knew  how to bring her back。\nBut I needed a human heart to do it。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThat man appeared three days after Palmier died。",
+  "respuesta": "Ese hombre apareció tres días después de la muerte de Palmier.",
+  "fin": "stop",
+  "segundos": 3.62,
+  "uso": {
+    "completion_tokens": 18,
+    "prompt_tokens": 364,
+    "total_tokens": 382,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "365c812ea90946a6e5e8",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 141481,
+      "entry_id": 211,
+      "original_hex": [
+        "82738288828182948140828d8281828e814082818290829082858281829282858284814082948288829282858285",
+        "82848281829982938140828182868294828582928140826f8281828c828d828982858292814082848289828582848142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Losing her tore me apart inside!!",
+        "I cursed the sickness that took her、 and  I cursed the Goddess!",
+        "He said he was from the Church of the Divine Mother、 and that he knew  how to bring her back。",
+        "But I needed a human heart to do it。"
+      ]
+    }
+  ]
+}

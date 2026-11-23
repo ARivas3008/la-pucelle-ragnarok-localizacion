@@ -1,0 +1,99 @@
+{
+  "version": "0.19.0-integracion",
+  "bloques_talk_insertados": 18601,
+  "bloques_talk_pendientes": 1686,
+  "bloques_signos_originales": 363,
+  "scripts": {
+    "REUBICACION_ESTRUCTURAL": 503,
+    "EXCLUIDO_NOW_LOADING": 1
+  },
+  "hashes": {
+    "La_Pucelle_Ragnarok_ES.iso": "424059fa049e23c30a11650ac46185dfbb129f27597084bf9ce8d22852ae67cb",
+    "ULJS00244\\DL_JP_00.EDAT": "4df79e8d2c9ce930546ccb195c3020e7ef23c1bf61b375f1c0aaf6cffdd43213",
+    "ULJS00244\\DL_JP_01.EDAT": "1e78f2bd6d664da2242dbe94cceb6f690d6e2cc45eb6f61951d8ec0b1cb8119d",
+    "ULJS00244\\DL_JP_02.EDAT": "5f25c0ae3f31dac1301e7c682038db0f2893c9c0d5504bb331a3ade68f4dd3d4",
+    "ULJS00244\\DL_JP_03.EDAT": "aa8c9579a77aafeb88a585497055d56c9a4d7ebd27aa381b32b5aa57af2a050c"
+  },
+  "corpus_sha256": [
+    {
+      "corpus": "01",
+      "sha256": "16830a8a23dbe91d8083e44e8e4944f71e1d195ce463dfb590df3877f9d1a852",
+      "filas": 1001
+    },
+    {
+      "corpus": "02",
+      "sha256": "a2fcf6807f132b43af5466af9962dde8daba0f8d70a8e2925555124cea466f7d",
+      "filas": 1058
+    },
+    {
+      "corpus": "03",
+      "sha256": "af6ab6e8856696b78424192a38915f6f123492c944a869c2a55dfa970a66ff5b",
+      "filas": 949
+    },
+    {
+      "corpus": "04",
+      "sha256": "5aaf0b3b8cb5f15f7d92e29e08b6f71fb17aada70d34d7b2e053b0c1b211597a",
+      "filas": 997
+    },
+    {
+      "corpus": "05",
+      "sha256": "46b15d1b1f3bf3bff3c3eccf43d75380dab6994a21268b0f49f7fcbfca79ef56",
+      "filas": 1000
+    },
+    {
+      "corpus": "06",
+      "sha256": "e08f7c18207286e7b4c02813a8361a508000b45916c980fbfb4bc9c7b06a7f8d",
+      "filas": 968
+    },
+    {
+      "corpus": "07",
+      "sha256": "c02c9b7a7f1f83f20e791713fdee038b0146d54cd7bfe35dc8dc6548a6764d9c",
+      "filas": 974
+    },
+    {
+      "corpus": "08",
+      "sha256": "22f46323a2cb153ca912a1f89a4cdd693df246f527ce718f2c9098cee50f0d0e",
+      "filas": 1006
+    },
+    {
+      "corpus": "09",
+      "sha256": "68bb22f3ac9452ebe7398c49dd63e8fe5ef81d5ef6e5893317720320ec51d9c9",
+      "filas": 1058
+    },
+    {
+      "corpus": "10",
+      "sha256": "31819b338d98a1fb5c9f6d13df3e81ccccef2811803d7ccd7dbacf38b8b4401d",
+      "filas": 1000
+    },
+    {
+      "corpus": "11",
+      "sha256": "4a18438c2ad39500c33057fbc7a03fa06e7caf4f3f07709e9a55bb63007fefab",
+      "filas": 1000
+    },
+    {
+      "corpus": "12",
+      "sha256": "84830454f6dc48d869b86e35174ea307d6c5b2c9a67ff4dd7946f4cdb516a21f",
+      "filas": 1003
+    },
+    {
+      "corpus": "13",
+      "sha256": "ed9c95da8c543c77e02cc522cb1cebc815feb6ee4fd596475cca5902f06ebb7c",
+      "filas": 947
+    },
+    {
+      "corpus": "14",
+      "sha256": "8280b6966010aca60583b0b29269c0f798ae4bfc11162b226e1a3e8e788bf5d2",
+      "filas": 1055
+    },
+    {
+      "corpus": "15",
+      "sha256": "a092cbd27bf99f8eb9909747e38534c9d4b47193de3e1c4ca90c210048846329",
+      "filas": 1000
+    }
+  ],
+  "estado_editorial": {
+    "revisado": 14727,
+    "requiere_investigacion": 289
+  },
+  "validacion_visual": "PENDIENTE: no certifica PPSSPP ni traducción completa"
+}

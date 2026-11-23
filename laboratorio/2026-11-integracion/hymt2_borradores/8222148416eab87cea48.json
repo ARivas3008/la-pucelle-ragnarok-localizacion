@@ -1,0 +1,43 @@
+{
+  "original": "Hey、 Prier。 Even after looking like that、 you still never forgot the light in your heart。 Just what I would expect from my student。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYou were about to badmouth me just a second ago。。。\nI swear、 these two are so predictable。 I guess the saying Like teacher、 like student holds true。\nIn the name of the Maiden of Light。 And may the Goddess Poitreene watch over all of us。\nIn the name of the Maiden of Light。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYou were about to badmouth me just a second ago。。。\nI swear、 these two are so predictable。 I guess the saying Like teacher、 like student holds true。\nIn the name of the Maiden of Light。 And may the Goddess Poitreene watch over all of us。\nIn the name of the Maiden of Light。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nHey、 Prier。 Even after looking like that、 you still never forgot the light in your heart。 Just what I would expect from my student。",
+  "respuesta": "Oye, Prier. Incluso después de tener esa apariencia, nunca olvidas la luz que hay en tu corazón. Es exactamente lo que esperaba de mi estudiante.",
+  "fin": "stop",
+  "segundos": 5.34,
+  "uso": {
+    "completion_tokens": 44,
+    "prompt_tokens": 392,
+    "total_tokens": 436,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8222148416eab87cea48",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 94427,
+      "entry_id": 1809,
+      "original_hex": [
+        "82678285829981418140826f82928289828582928142",
+        "826482968285828e8140828182868294828582928140828c828f828f828b8289828e82878140828c8289828b8285",
+        "8294828882818294814181408299828f82958140829382948289828c828c8140828e8285829682858292",
+        "8286828f82928287828f829481408294828882858140828c828982878288829481408289828e",
+        "8299828f829582928140828882858281829282948142",
+        "8269829582938294814082978288828182948140826881408297828f8295828c8284",
+        "828582988290828582838294814082868292828f828d8140828d8299814082938294829582848285828e82948142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "You were about to badmouth me just a second ago。。。",
+        "I swear、 these two are so predictable。 I guess the saying Like teacher、 like student holds true。",
+        "In the name of the Maiden of Light。 And may the Goddess Poitreene watch over all of us。",
+        "In the name of the Maiden of Light。"
+      ]
+    }
+  ]
+}

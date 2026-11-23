@@ -1,0 +1,40 @@
+{
+  "original": "Demons have been coming out of that gate and have been attacking Croquette Village。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nTsk、 fine already。。。\nJust like you have been doing before、 I need you guys to investigate a gate to the Dark World that appeared due to the darkness getting stronger these days。\nCroquette Village。。。  That is close to Pot au Feu。\nI have already dispatched other Sisters to investigate、 but the demons in the area are stronger than we originally thought。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nTsk、 fine already。。。\nJust like you have been doing before、 I need you guys to investigate a gate to the Dark World that appeared due to the darkness getting stronger these days。\nCroquette Village。。。  That is close to Pot au Feu。\nI have already dispatched other Sisters to investigate、 but the demons in the area are stronger than we originally thought。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nDemons have been coming out of that gate and have been attacking Croquette Village。",
+  "respuesta": "Los demonios han estado saliendo de esa puerta y atacando el pueblo de Croquette.",
+  "fin": "stop",
+  "segundos": 3.57,
+  "uso": {
+    "completion_tokens": 24,
+    "prompt_tokens": 388,
+    "total_tokens": 412,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "fab77395d82dbd4b0d8e",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 73030,
+      "entry_id": 1502,
+      "original_hex": [
+        "82638285828d828f828e8293814082888281829682858140828282858285828e",
+        "8283828f828d8289828e82878140828f829582948140828f82868140829482888281829481408287828182948285",
+        "8281828e8284814082888281829682858140828282858285828e814082818294829482818283828b8289828e8287",
+        "82628292828f829182958285829482948285814082758289828c828c8281828782858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Tsk、 fine already。。。",
+        "Just like you have been doing before、 I need you guys to investigate a gate to the Dark World that appeared due to the darkness getting stronger these days。",
+        "Croquette Village。。。  That is close to Pot au Feu。",
+        "I have already dispatched other Sisters to investigate、 but the demons in the area are stronger than we originally thought。"
+      ]
+    }
+  ]
+}

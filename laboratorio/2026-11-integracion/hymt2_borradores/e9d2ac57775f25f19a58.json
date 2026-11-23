@@ -1,0 +1,40 @@
+{
+  "original": "You should not be calling such a cute girl like me a darn brat anyway。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nDarn brat。。。!? In the name of the Maiden of Light、 I forbid you from using such a phrase!\n。。。More importantly、 we barely even started searching、 and you are screaming your lungs out。 No wonder she is not coming out。。。\nShe appeared!!!\nI was actually trying to hold back、 but I guess the name Demon Lord Prier is pretty famous now since you found me so soon。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nDarn brat。。。!? In the name of the Maiden of Light、 I forbid you from using such a phrase!\n。。。More importantly、 we barely even started searching、 and you are screaming your lungs out。 No wonder she is not coming out。。。\nShe appeared!!!\nI was actually trying to hold back、 but I guess the name Demon Lord Prier is pretty famous now since you found me so soon。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou should not be calling such a cute girl like me a darn brat anyway。",
+  "respuesta": "Deberías no llamar “bruto” a una chica tan linda como yo.",
+  "fin": "stop",
+  "segundos": 3.23,
+  "uso": {
+    "completion_tokens": 21,
+    "prompt_tokens": 398,
+    "total_tokens": 419,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "e9d2ac57775f25f19a58",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 81203,
+      "entry_id": 1604,
+      "original_hex": [
+        "8278828f8295814082938288828f8295828c82848140828e828f8294814082828285",
+        "82838281828c828c8289828e8287814082938295828382888140828181408283829582948285",
+        "828782898292828c8140828c8289828b82858140828d8285814082818140828482818292828e81408282829282818294",
+        "8281828e82998297828182998142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Darn brat。。。!? In the name of the Maiden of Light、 I forbid you from using such a phrase!",
+        "。。。More importantly、 we barely even started searching、 and you are screaming your lungs out。 No wonder she is not coming out。。。",
+        "She appeared!!!",
+        "I was actually trying to hold back、 but I guess the name Demon Lord Prier is pretty famous now since you found me so soon。"
+      ]
+    }
+  ]
+}

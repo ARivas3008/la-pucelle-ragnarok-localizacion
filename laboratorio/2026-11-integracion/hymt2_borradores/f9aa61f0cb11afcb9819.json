@@ -1,0 +1,42 @@
+{
+  "original": "My、 my。 I am quite impressed。 To think that a demon outside of the Dark Prince would be so powerful。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n。。。\nAlthough I wish that the infamous Salade the Demon Killer would have put up more of a fight。 Father。。。\nOn top of that、 the demon happens to be that pesky demon hunter from before。 You never fail to impress、 young lady。。。\nYou are。。。Noir!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n。。。\nAlthough I wish that the infamous Salade the Demon Killer would have put up more of a fight。 Father。。。\nOn top of that、 the demon happens to be that pesky demon hunter from before。 You never fail to impress、 young lady。。。\nYou are。。。Noir!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nMy、 my。 I am quite impressed。 To think that a demon outside of the Dark Prince would be so powerful。。。",
+  "respuesta": "Ay, ay. Estoy realmente impresionado. Pensar que un demonio que no pertenece al Príncipe Oscuro pueda ser tan poderoso…",
+  "fin": "stop",
+  "segundos": 4.15,
+  "uso": {
+    "completion_tokens": 40,
+    "prompt_tokens": 379,
+    "total_tokens": 419,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f9aa61f0cb11afcb9819",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 74246,
+      "entry_id": 1804,
+      "original_hex": [
+        "826c829981418140828d82998142",
+        "826881408281828d81408291829582898294828581408289828d82908292828582938293828582848142",
+        "8273828f8140829482888289828e828b8140829482888281829481408281814082848285828d828f828e",
+        "828f8295829482938289828482858140828f82868140829482888285",
+        "826382818292828b8140826f82928289828e8283828581408297828f8295828c8284814082828285",
+        "8293828f81408290828f82978285829282868295828c814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "。。。",
+        "Although I wish that the infamous Salade the Demon Killer would have put up more of a fight。 Father。。。",
+        "On top of that、 the demon happens to be that pesky demon hunter from before。 You never fail to impress、 young lady。。。",
+        "You are。。。Noir!"
+      ]
+    }
+  ]
+}

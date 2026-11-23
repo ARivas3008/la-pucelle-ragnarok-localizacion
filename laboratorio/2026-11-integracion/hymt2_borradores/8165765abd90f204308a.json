@@ -1,0 +1,37 @@
+{
+  "original": "I hear that the manager of the Rosenqueen Shop in Pot au Feu City is an Eringa。 I would like to get a job there myself。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI hear that the manager of the Rosenqueen Shop in Pot au Feu City is an Eringa。 I would like to get a job there myself。",
+  "respuesta": "Escuché que el gerente de la tienda Rosenqueen en la ciudad Pot au Feu es un Eringa. Me gustaría obtener un trabajo allí yo mismo.",
+  "fin": "stop",
+  "segundos": 3.0,
+  "uso": {
+    "completion_tokens": 41,
+    "prompt_tokens": 328,
+    "total_tokens": 369,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8165765abd90f204308a",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 47290,
+      "entry_id": 209202,
+      "original_hex": [
+        "8268814082888285828182928140829482888281829481408294828882858140828d8281828e8281828782858292",
+        "828f8286814082948288828581408271828f82938285828e8291829582858285828e814082728288828f8290",
+        "8289828e8140826f828f8294814082818295814082658285829581408262828982948299814082898293",
+        "8281828e8140826482928289828e828782818142",
+        "826881408297828f8295828c82848140828c8289828b828581408294828f814082878285829481408281",
+        "828a828f82828140829482888285829282858140828d829982938285828c82868142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

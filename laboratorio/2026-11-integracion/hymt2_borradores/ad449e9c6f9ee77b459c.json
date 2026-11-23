@@ -1,0 +1,112 @@
+{
+  "original": "キノコじるは、お役に立ちましたかなエリ?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nキノコじるは、お役に立ちましたかなエリ?",
+  "respuesta": "¿El uso de los hongos te ha sido útil, Eri?",
+  "fin": "stop",
+  "segundos": 2.19,
+  "uso": {
+    "completion_tokens": 18,
+    "prompt_tokens": 313,
+    "total_tokens": 331,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "ad449e9c6f9ee77b459c",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+      "offset": 67131,
+      "entry_id": 210202,
+      "original_hex": [
+        "834c836d835282b682e982cd814182a896f082c997a782bf82dc82b582bd82a982c88347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 64032,
+      "entry_id": 210202,
+      "original_hex": [
+        "834c836d835282b682e982cd814182a896f082c997a782bf82dc82b582bd82a982c88347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 53110,
+      "entry_id": 210202,
+      "original_hex": [
+        "834c836d835282b682e982cd814182a896f082c997a782bf82dc82b582bd82a982c88347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 67938,
+      "entry_id": 210202,
+      "original_hex": [
+        "834c836d835282b682e982cd814182a896f082c997a782bf82dc82b582bd82a982c88347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "offset": 68098,
+      "entry_id": 210202,
+      "original_hex": [
+        "834c836d835282b682e982cd814182a896f082c997a782bf82dc82b582bd82a982c88347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 67938,
+      "entry_id": 210202,
+      "original_hex": [
+        "834c836d835282b682e982cd814182a896f082c997a782bf82dc82b582bd82a982c88347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 68322,
+      "entry_id": 210202,
+      "original_hex": [
+        "834c836d835282b682e982cd814182a896f082c997a782bf82dc82b582bd82a982c88347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 50799,
+      "entry_id": 210202,
+      "original_hex": [
+        "834c836d835282b682e982cd814182a896f082c997a782bf82dc82b582bd82a982c88347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 61343,
+      "entry_id": 210202,
+      "original_hex": [
+        "834c836d835282b682e982cd814182a896f082c997a782bf82dc82b582bd82a982c88347838a8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

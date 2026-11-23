@@ -1,0 +1,43 @@
+{
+  "original": "So this part of my heart became so weak that it only desires power and gave in to becoming the Demon Lord。 This is so embarrassing。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI just want to fight for myself。。。 Simply fight for the sake of fighting。。。 If I do、 I will feel better!\nAnd the only ones who approve of that are demons! So I will aim to become the Demon Lord!!!!\nNo way I will lose to such weakness!!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI just want to fight for myself。。。 Simply fight for the sake of fighting。。。 If I do、 I will feel better!\nAnd the only ones who approve of that are demons! So I will aim to become the Demon Lord!!!!\nNo way I will lose to such weakness!!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nSo this part of my heart became so weak that it only desires power and gave in to becoming the Demon Lord。 This is so embarrassing。。。",
+  "respuesta": "Esta parte de mi corazón se volvió tan débil que solo anhelaba poder y cedió a la idea de convertirse en el Señor del Demonios. Es tan vergonzoso…",
+  "fin": "stop",
+  "segundos": 5.14,
+  "uso": {
+    "completion_tokens": 49,
+    "prompt_tokens": 381,
+    "total_tokens": 430,
+    "prompt_tokens_details": {
+      "cached_tokens": 280
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "ab6610c7d425a0bb46f5",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 75367,
+      "entry_id": 1705,
+      "original_hex": [
+        "8272828f81408294828882898293814082908281829282948140828f82868140828d8299",
+        "8288828582818292829481408282828582838281828d828581408293828f",
+        "829782858281828b814082948288828182948140828982948140828f828e828c8299",
+        "828482858293828982928285829381408290828f82978285829281408281828e8284",
+        "828782818296828581408289828e81408294828f8140828282858283828f828d8289828e8287",
+        "829482888285814082638285828d828f828e8140826b828f829282848142",
+        "827382888289829381408289829381408293828f",
+        "8285828d82828281829282928281829382938289828e8287814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I just want to fight for myself。。。 Simply fight for the sake of fighting。。。 If I do、 I will feel better!",
+        "And the only ones who approve of that are demons! So I will aim to become the Demon Lord!!!!",
+        "No way I will lose to such weakness!!!"
+      ]
+    }
+  ]
+}

@@ -22,14 +22,17 @@ $font = [System.Drawing.Font]::new('Segoe UI', 10)
 $fontBold = [System.Drawing.Font]::new('Segoe UI', 10, [System.Drawing.FontStyle]::Bold)
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.13.0'
-$form.ClientSize = [System.Drawing.Size]::new(860, 825)
-$form.MinimumSize = [System.Drawing.Size]::new(876, 865)
+$form.Text = 'La Pucelle: Ragnarok - Parcheador ES v0.19.0'
+$form.ClientSize = [System.Drawing.Size]::new(860, 970)
+$form.MinimumSize = [System.Drawing.Size]::new(876, 600)
 $form.MaximumSize = [System.Drawing.Size]::new(1200, 1100)
 $form.StartPosition = 'CenterScreen'
 $form.BackColor = $bg
 $form.Font = $font
 $form.AutoScaleMode = [System.Windows.Forms.AutoScaleMode]::Font
+$form.AutoScroll = $true
+$form.AutoScrollMinSize = [System.Drawing.Size]::new(850, 970)
+$form.Height = [Math]::Min(1010, [System.Windows.Forms.Screen]::PrimaryScreen.WorkingArea.Height - 40)
 
 function LabelAt([string]$text, [int]$x,[int]$y,[int]$w,[int]$h,[bool]$bold=$false) {
   $l = New-Object System.Windows.Forms.Label
@@ -80,7 +83,7 @@ $title.Location = [System.Drawing.Point]::new(26,20)
 $title.Size = [System.Drawing.Size]::new(800,40)
 $header.Controls.Add($title)
 $sub = New-Object System.Windows.Forms.Label
-$sub.Text = 'PARCHEADOR ESPANOL   |   ISO  /  DLC   |   VERSION EXPERIMENTAL 0.13.0'
+$sub.Text = 'PARCHEADOR ESPANOL   |   ISO  /  DLC   |   VERSION DE PRUEBAS 0.19.0 | REVISIONES INTEGRADAS'
 $sub.Font = [System.Drawing.Font]::new('Segoe UI', 9)
 $sub.ForeColor = [System.Drawing.Color]::FromArgb(200,214,232)
 $sub.Location = [System.Drawing.Point]::new(28,70)
@@ -153,7 +156,7 @@ $outPick.Add_Click({
   if ($dlg.ShowDialog($form) -eq [System.Windows.Forms.DialogResult]::OK) {$outBox.Text = $dlg.SelectedPath}
 })
 
-$null = LabelAt '5. Opciones de traduccion' 26 455 600 26 $true
+$null = LabelAt '5. Traducción incluida' 26 455 600 26 $true
 $fontOnly = New-Object System.Windows.Forms.CheckBox
 $fontOnly.Text = 'Solo soporte de fuentes (sin reemplazar dialogos)'
 $fontOnly.Location = [System.Drawing.Point]::new(32,482)
@@ -163,9 +166,9 @@ $includeInvestigation = New-Object System.Windows.Forms.CheckBox
 $includeInvestigation.Text = 'Incluir textos provisionales marcados para investigacion'
 $includeInvestigation.Location = [System.Drawing.Point]::new(32,511)
 $includeInvestigation.Size = [System.Drawing.Size]::new(620,26)
-$includeInvestigation.Checked = $true
+$includeInvestigation.Checked = $false
 $form.Controls.Add($includeInvestigation)
-$fontOnly.Add_CheckedChanged({$includeInvestigation.Enabled = -not $fontOnly.Checked; $reductions.Enabled = -not $fontOnly.Checked})
+$fontOnly.Add_CheckedChanged({$includeInvestigation.Enabled = -not $fontOnly.Checked; $reductions.Enabled = -not $fontOnly.Checked; $scripts.Enabled = -not $fontOnly.Checked; $scriptPhase.Enabled = (-not $fontOnly.Checked) -and $scripts.Checked})
 
 $atlasUI = New-Object System.Windows.Forms.CheckBox
 $atlasUI.Text = 'Localizar algunas texturas de menús (experimental; vista previa recomendada)'
@@ -179,21 +182,46 @@ $reductions.Location = [System.Drawing.Point]::new(32,573)
 $reductions.Size = [System.Drawing.Size]::new(780,26)
 $reductions.Checked = $false
 $form.Controls.Add($reductions)
-$safetyNote = LabelAt 'Protección: cajas con opcodes intactos; texturas ajenas a las auditadas, sin cambios.' 30 606 800 17 $false
+$scripts = New-Object System.Windows.Forms.CheckBox
+$scripts.Text = 'Traducir textos de eventos conservando su espacio y crear carpeta para PPSSPP'
+$scripts.Location = [System.Drawing.Point]::new(32,602)
+$scripts.Size = [System.Drawing.Size]::new(800,26)
+$scripts.Checked = $true
+$form.Controls.Add($scripts)
+$scriptPhase = New-Object System.Windows.Forms.CheckBox
+$scriptPhase.Text = 'v0.16: ENSAYO de las 14 referencias CP932 (riesgo de escenas; NO release)'
+$scriptPhase.Location = [System.Drawing.Point]::new(52,630)
+$scriptPhase.Size = [System.Drawing.Size]::new(780,26)
+$scriptPhase.Checked = $false
+$scriptPhase.Enabled = $false
+# La reubicación se retiró tras reproducir errores de escenas en PPSSPP.
+$preserveEboot = New-Object System.Windows.Forms.CheckBox
+$preserveEboot.Text = 'Prueba gráfica: conservar EBOOT y atlas de interfaz originales (menos menús en español)'
+$preserveEboot.Location = [System.Drawing.Point]::new(32,660)
+$preserveEboot.Size = [System.Drawing.Size]::new(800,28)
+$preserveEboot.Checked = $true
+$form.Controls.Add($preserveEboot)
+$preserveEboot.Add_CheckedChanged({
+  if ($preserveEboot.Checked) {$atlasUI.Checked = $false}
+  $atlasUI.Enabled = (-not $preserveEboot.Checked) -and (-not $script:process)
+})
+$atlasUI.Enabled = $false
+$scripts.Add_CheckedChanged({$scriptPhase.Enabled = $scripts.Checked -and (-not $fontOnly.Checked); if(-not $scripts.Checked){$scriptPhase.Checked = $false}})
+$safetyNote = LabelAt 'Versión de pruebas: consulta el informe de textos pendientes después del parcheo.' 30 699 800 17 $false
 $safetyNote.ForeColor = $muted
 $safetyNote.Font = [System.Drawing.Font]::new('Segoe UI', 8)
-$btnStart = ButtonAt 'INICIAR PARCHEO' 28 624 228 42 $accent
-$btnCancel = ButtonAt 'Cancelar' 270 624 115 42 $navy2
+$btnStart = ButtonAt 'INICIAR PARCHEO' 28 720 228 42 $accent
+$btnCancel = ButtonAt 'Cancelar' 270 720 115 42 $navy2
 $btnCancel.Enabled = $false
-$btnOpen = ButtonAt 'Abrir salida' 699 624 132 42 $navy2
+$btnOpen = ButtonAt 'Abrir salida' 699 720 132 42 $navy2
 
 $progress = New-Object System.Windows.Forms.ProgressBar
-$progress.Location = [System.Drawing.Point]::new(28,674)
+$progress.Location = [System.Drawing.Point]::new(28,773)
 $progress.Size = [System.Drawing.Size]::new(803,10)
 $progress.Style = [System.Windows.Forms.ProgressBarStyle]::Blocks
 $progress.Anchor = [System.Windows.Forms.AnchorStyles]::Top -bor [System.Windows.Forms.AnchorStyles]::Left -bor [System.Windows.Forms.AnchorStyles]::Right
 $form.Controls.Add($progress)
-$status = LabelAt 'Listo para seleccionar los archivos.' 27 690 780 23 $false
+$status = LabelAt 'Listo para seleccionar los archivos.' 27 790 780 23 $false
 $status.ForeColor = $muted
 $status.Anchor = [System.Windows.Forms.AnchorStyles]::Bottom -bor [System.Windows.Forms.AnchorStyles]::Left -bor [System.Windows.Forms.AnchorStyles]::Right
 $log = New-Object System.Windows.Forms.TextBox
@@ -203,8 +231,8 @@ $log.ReadOnly = $true
 $log.BackColor = [System.Drawing.Color]::FromArgb(236,241,247)
 $log.ForeColor = $ink
 $log.Font = [System.Drawing.Font]::new('Consolas', 9)
-$log.Location = [System.Drawing.Point]::new(28,718)
-$log.Size = [System.Drawing.Size]::new(803,74)
+$log.Location = [System.Drawing.Point]::new(28,822)
+$log.Size = [System.Drawing.Size]::new(803,115)
 $log.Anchor = [System.Windows.Forms.AnchorStyles]::Bottom -bor [System.Windows.Forms.AnchorStyles]::Left -bor [System.Windows.Forms.AnchorStyles]::Right
 $form.Controls.Add($log)
 
@@ -236,8 +264,11 @@ function SetBusy([bool]$busy) {
   $radioDLC.Enabled = -not $busy
   $fontOnly.Enabled = -not $busy
   $includeInvestigation.Enabled = (-not $busy) -and (-not $fontOnly.Checked)
-  $atlasUI.Enabled = -not $busy
+  $atlasUI.Enabled = (-not $busy) -and (-not $preserveEboot.Checked)
+  $preserveEboot.Enabled = -not $busy
   $reductions.Enabled = (-not $busy) -and (-not $fontOnly.Checked)
+  $scripts.Enabled = (-not $busy) -and (-not $fontOnly.Checked)
+  $scriptPhase.Enabled = (-not $busy) -and (-not $fontOnly.Checked) -and $scripts.Checked
   if ($busy) {$progress.Style = [System.Windows.Forms.ProgressBarStyle]::Marquee}
   else {$progress.Style = [System.Windows.Forms.ProgressBarStyle]::Blocks}
 }
@@ -269,21 +300,32 @@ $timer.Add_Tick({
       $status.Text = 'Parcheo cancelado. Los originales no se modificaron.'
       $status.ForeColor = [System.Drawing.Color]::DarkOrange
     } elseif ($exitCode -eq 0) {
-      $status.Text = 'Proceso terminado. Consulta la carpeta de salida y el informe.'
+      $status.Text = 'Proceso terminado. Usa JUEGO_PARA_PPSSPP_V0183 (si activaste scripts).'
       $status.ForeColor = $accent
       $detail = 'Se han creado archivos experimentales. Consulta resumen.json y reporte_por_unidad.csv. El parcheo no certifica que el juego se muestre completamente en espanol.'
       $summary = [System.IO.Path]::Combine($outBox.Text,'resumen.json')
       if ([System.IO.File]::Exists($summary)) {
         try {
           $d = [System.IO.File]::ReadAllText($summary,[System.Text.Encoding]::UTF8) | ConvertFrom-Json
-          $detail = "Cadenas modificadas: $($d.cadenas_modificadas)`nMenús EBOOT corregidos: $($d.menus_eboot_ascii_aplicados)`nAtlas UI: $($d.texturas_interfaz_localizadas.PSObject.Properties.Count) paquetes`nUnidades bloqueadas por limites técnicos: $($d.unidades_bloqueadas)`nUnidades con resegmentación pendiente: $($d.unidades_sin_resegmentar)`n`nConsulta reporte_por_unidad.csv para conocer los detalles. Cuatro rótulos narrativos de script localizados; los vídeos y el logotipo conservan su imagen original. El resultado necesita pruebas en PPSSPP."
+          $detail = "Cadenas modificadas: $($d.cadenas_modificadas)`nMenús EBOOT corregidos: $($d.menus_eboot_ascii_aplicados)`nAtlas UI: $($d.texturas_interfaz_localizadas.PSObject.Properties.Count) paquetes`nUnidades bloqueadas por limites técnicos: $($d.unidades_bloqueadas)`nUnidades con resegmentación pendiente: $($d.unidades_sin_resegmentar)`n`nConsulta reporte_por_unidad.csv para conocer los detalles. Solo se insertan textos que caben en sus campos; los pendientes permanecen en el informe. El resultado necesita pruebas en PPSSPP."
         } catch {}
       }
       [System.Windows.Forms.MessageBox]::Show($form,$detail,'Parcheo terminado',[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Information) | Out-Null
     } else {
       $status.Text = "Error durante el parcheo (codigo $exitCode). Consulta el registro."
       $status.ForeColor = [System.Drawing.Color]::Firebrick
-      [System.Windows.Forms.MessageBox]::Show($form,'El parcheador termino con un error. Consulta el registro en pantalla y la carpeta de salida. No se han sobrescrito tus archivos originales.','Parcheo interrumpido',[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning) | Out-Null
+      $reason = 'Consulta el registro en pantalla y en la carpeta de salida.'
+      try {
+        if ([System.IO.File]::Exists($script:logFile)) {
+          $raw = [System.IO.File]::ReadAllText($script:logFile,[System.Text.Encoding]::UTF8)
+          $last = @($raw -split '[\r\n]+' | Where-Object { $_.StartsWith('ERROR:') } | Select-Object -Last 1)
+          if ($last.Count -gt 0 -and -not [string]::IsNullOrWhiteSpace($last[0])) {
+            $reason = [string]$last[0]
+            if ($reason.Length -gt 1200) {$reason = $reason.Substring(0,1200)}
+          }
+        }
+      } catch {}
+      [System.Windows.Forms.MessageBox]::Show($form,"Parcheo interrumpido (codigo $exitCode).`n`n$reason`n`nNo se han sobrescrito tus archivos originales.",'Parcheo interrumpido',[System.Windows.Forms.MessageBoxButtons]::OK,[System.Windows.Forms.MessageBoxIcon]::Warning) | Out-Null
     }
   }
 })
@@ -327,6 +369,9 @@ $btnStart.Add_Click({
       segment = $true
       atlas = [bool]$atlasUI.Checked
       reductions = [bool]$reductions.Checked
+      scripts = [bool]$scripts.Checked
+      preserveEboot = [bool]$preserveEboot.Checked
+      scriptMode = 'integracion'
       log = $script:logFile
     } | ConvertTo-Json -Compress
     [System.IO.File]::WriteAllText($script:cfgFile, $config, (New-Object System.Text.UTF8Encoding($false)))
@@ -374,5 +419,8 @@ $form.Add_FormClosing({
   }
 })
 
+foreach ($legacyControl in @($fontOnly,$includeInvestigation,$atlasUI,$reductions,$scripts,$scriptPhase,$preserveEboot)) {$legacyControl.Visible = $false}
+$null = LabelAt 'Se aplican los diálogos revisados, los menús y las correcciones incorporadas a esta versión. Los textos pendientes se detallan en el informe de salida.' 32 490 770 70 $false
+$null = LabelAt 'Selecciona una carpeta de salida nueva. Al terminar, la carpeta JUEGO_PARA_PPSSPP contendrá la ISO y los DLC seleccionados.' 32 575 770 60 $false
 UpdateTargetState
 [void]$form.ShowDialog()

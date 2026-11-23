@@ -1,0 +1,90 @@
+{
+  "original": "Thanks。 Well、 see you later、 Prier。 Do your best!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n。。。Yeah。 You are right、 Prier。。。!\nIf plan on following me later、 you should be careful too、 Culotte。 I am heading to the epicenter of all this dark energy、 after all。\nAll right! Time to go wild!!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n。。。Yeah。 You are right、 Prier。。。!\nIf plan on following me later、 you should be careful too、 Culotte。 I am heading to the epicenter of all this dark energy、 after all。\nAll right! Time to go wild!!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThanks。 Well、 see you later、 Prier。 Do your best!",
+  "respuesta": "Gracias. Bueno, nos vemos más tarde, Prier. ¡Haz todo lo posible!",
+  "fin": "stop",
+  "segundos": 3.57,
+  "uso": {
+    "completion_tokens": 25,
+    "prompt_tokens": 361,
+    "total_tokens": 386,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "64c1679f79f75bac5055",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 65602,
+      "entry_id": 284001,
+      "original_hex": [
+        "827382888281828e828b82938142",
+        "82768285828c828c8141814082938285828581408299828f82958140828c82818294828582928141",
+        "826f82928289828582928142",
+        "8263828f81408299828f82958292814082828285829382948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "。。。Yeah。 You are right、 Prier。。。!",
+        "If plan on following me later、 you should be careful too、 Culotte。 I am heading to the epicenter of all this dark energy、 after all。",
+        "All right! Time to go wild!!!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 66267,
+      "entry_id": 284001,
+      "original_hex": [
+        "827382888281828e828b82938142",
+        "82768285828c828c8141814082938285828581408299828f82958140828c82818294828582928141",
+        "826f82928289828582928142",
+        "8263828f81408299828f82958292814082828285829382948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "。。。Yeah。 You are right、 Prier。。。!",
+        "If plan on following me later、 you should be careful too、 Culotte。 I am heading to the epicenter of all this dark energy、 after all。",
+        "All right! Time to go wild!!!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 56902,
+      "entry_id": 284001,
+      "original_hex": [
+        "827382888281828e828b82938142",
+        "82768285828c828c8141814082938285828581408299828f82958140828c82818294828582928141",
+        "826f82928289828582928142",
+        "8263828f81408299828f82958292814082828285829382948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "。。。Yeah。 You are right、 Prier。。。!",
+        "If plan on following me later、 you should be careful too、 Culotte。 I am heading to the epicenter of all this dark energy、 after all。",
+        "All right! Time to go wild!!!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 67387,
+      "entry_id": 284001,
+      "original_hex": [
+        "827382888281828e828b82938142",
+        "82768285828c828c8141814082938285828581408299828f82958140828c82818294828582928141",
+        "826f82928289828582928142",
+        "8263828f81408299828f82958292814082828285829382948149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "。。。Yeah。 You are right、 Prier。。。!",
+        "If plan on following me later、 you should be careful too、 Culotte。 I am heading to the epicenter of all this dark energy、 after all。",
+        "All right! Time to go wild!!!"
+      ]
+    }
+  ]
+}

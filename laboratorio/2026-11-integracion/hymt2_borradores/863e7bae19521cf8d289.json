@@ -1,0 +1,44 @@
+{
+  "original": "I am the grand elder of Mt。 Champignon。 Things have gotten out of our control recently。 So maybe your coming here is a sign from the Goddess。 Please do something to help us。 If you can bring peace to this land again、 we will be glad to give you some Kinoko Jiru。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI am the grand elder of Mt。 Champignon。 Things have gotten out of our control recently。 So maybe your coming here is a sign from the Goddess。 Please do something to help us。 If you can bring peace to this land again、 we will be glad to give you some Kinoko Jiru。",
+  "respuesta": "Soy el gran anciano de Mt. Champignon. Recientemente, las cosas han salido fuera de nuestro control. Quizás tu llegada aquí sea un signo de la Diosa. Por favor, haz algo para ayudarnos. Si puedes traer la paz a esta tierra una vez más, estaremos felices de darte algo de Kinoko Jiru.",
+  "fin": "stop",
+  "segundos": 7.86,
+  "uso": {
+    "completion_tokens": 88,
+    "prompt_tokens": 358,
+    "total_tokens": 446,
+    "prompt_tokens_details": {
+      "cached_tokens": 295
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "863e7bae19521cf8d289",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 52294,
+      "entry_id": 210201,
+      "original_hex": [
+        "826881408281828d81408294828882858140828782928281828e828481408285828c8284828582928140828f8286",
+        "826c829481428140826282888281828d829082898287828e828f828e8142",
+        "827382888289828e828782938140828882818296828581408287828f829482948285828e8140828f82958294",
+        "828f82868140828f8295829281408283828f828e82948292828f828c81408292828582838285828e8294828c82998142",
+        "8272828f8140828d828182998282828581408299828f8295829281408283828f828d8289828e8287",
+        "8288828582928285814082898293814082818140829382898287828e814082868292828f828d",
+        "82948288828581408266828f828482848285829382938142",
+        "826f828c828582818293828581408284828f81408293828f828d8285829482888289828e828781408294828f",
+        "82888285828c82908140829582938142",
+        "8268828681408299828f8295814082838281828e8140828282928289828e8287814082908285828182838285",
+        "8294828f814082948288828982938140828c8281828e828481408281828782818289828e8141",
+        "82978285814082978289828c828c81408282828581408287828c8281828481408294828f81408287828982968285",
+        "8299828f829581408293828f828d82858140826a8289828e828f828b828f814082698289829282958142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "original": "はい",
+  "contexto": "Menu selection: keep the translation short. Adjacent lines in the same event:\n『キノコじる』を買うかエリ? 50000プリカ エリーよ。\nいいえ",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nMenu selection: keep the translation short. Adjacent lines in the same event:\n『キノコじる』を買うかエリ? 50000プリカ エリーよ。\nいいえ\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nはい",
+  "respuesta": "Sí",
+  "fin": "stop",
+  "segundos": 1.73,
+  "uso": {
+    "completion_tokens": 3,
+    "prompt_tokens": 331,
+    "total_tokens": 334,
+    "prompt_tokens_details": {
+      "cached_tokens": 268
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "5acc659732e8acf13455",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+      "offset": 62391,
+      "entry_id": 209211,
+      "original_hex": [
+        "82cd82a2"
+      ],
+      "opcion": true,
+      "contexto": [
+        "『キノコじる』を買うかエリ? 50000プリカ エリーよ。",
+        "いいえ"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 59292,
+      "entry_id": 209211,
+      "original_hex": [
+        "82cd82a2"
+      ],
+      "opcion": true,
+      "contexto": [
+        "『キノコじる』を買うかエリ? 50000プリカ エリーよ。",
+        "いいえ"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+      "offset": 48675,
+      "entry_id": 209211,
+      "original_hex": [
+        "82cd82a2"
+      ],
+      "opcion": true,
+      "contexto": [
+        "『キノコじる』を買うかエリ? 50000プリカ エリーよ。",
+        "いいえ"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 63198,
+      "entry_id": 209211,
+      "original_hex": [
+        "82cd82a2"
+      ],
+      "opcion": true,
+      "contexto": [
+        "『キノコじる』を買うかエリ? 50000プリカ エリーよ。",
+        "いいえ"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "offset": 63358,
+      "entry_id": 209211,
+      "original_hex": [
+        "82cd82a2"
+      ],
+      "opcion": true,
+      "contexto": [
+        "『キノコじる』を買うかエリ? 50000プリカ エリーよ。",
+        "いいえ"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 63198,
+      "entry_id": 209211,
+      "original_hex": [
+        "82cd82a2"
+      ],
+      "opcion": true,
+      "contexto": [
+        "『キノコじる』を買うかエリ? 50000プリカ エリーよ。",
+        "いいえ"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 63582,
+      "entry_id": 209211,
+      "original_hex": [
+        "82cd82a2"
+      ],
+      "opcion": true,
+      "contexto": [
+        "『キノコじる』を買うかエリ? 50000プリカ エリーよ。",
+        "いいえ"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 45427,
+      "entry_id": 209211,
+      "original_hex": [
+        "82cd82a2"
+      ],
+      "opcion": true,
+      "contexto": [
+        "『キノコじる』を買うかエリ? 50000プリカ エリーよ。",
+        "いいえ"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 55968,
+      "entry_id": 209211,
+      "original_hex": [
+        "82cd82a2"
+      ],
+      "opcion": true,
+      "contexto": [
+        "『キノコじる』を買うかエリ? 50000プリカ エリーよ。",
+        "いいえ"
+      ]
+    }
+  ]
+}

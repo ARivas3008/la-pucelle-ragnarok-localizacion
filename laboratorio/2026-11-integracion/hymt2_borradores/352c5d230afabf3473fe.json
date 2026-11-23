@@ -1,0 +1,50 @@
+{
+  "original": "When planning an attack on an enemy、 it is best to attack from the sides or the rear。 It is much more effective than attacking from the front。 Also keep this in mind when being attacked by an enemy。 If you want to minimize the damage you take、 try and face the enemy as they attack you。 You can change the facing of your characters by using the Change  Facing command or using □。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhen planning an attack on an enemy、 it is best to attack from the sides or the rear。 It is much more effective than attacking from the front。 Also keep this in mind when being attacked by an enemy。 If you want to minimize the damage you take、 try and face the enemy as they attack you。 You can change the facing of your characters by using the Change  Facing command or using □。",
+  "respuesta": "Al planificar un ataque contra un enemigo, es mejor atacar desde los lados o por la retaguardia. Esto es mucho más efectivo que atacar desde el frente. También debes tener esto en mente cuando seas atacado por un enemigo. Si quieres minimizar el daño que recibes, intenta enfrentarte al enemigo justo cuando este te ataca. Puedes cambiar la posición de tus personajes utilizando el comando “Change Facing” o el símbolo □.",
+  "fin": "stop",
+  "segundos": 8.73,
+  "uso": {
+    "completion_tokens": 124,
+    "prompt_tokens": 378,
+    "total_tokens": 502,
+    "prompt_tokens_details": {
+      "cached_tokens": 268
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "352c5d230afabf3473fe",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 23630,
+      "entry_id": 201722,
+      "original_hex": [
+        "827682888285828e81408290828c8281828e828e8289828e828781408281828e814082818294829482818283828b",
+        "828f828e81408281828e81408285828e8285828d8299814181408289829481408289829381408282828582938294",
+        "8294828f814082818294829482818283828b814082868292828f828d8140829482888285814082938289828482858293",
+        "828f82928140829482888285814082928285828182928142",
+        "826882948140828982938140828d8295828382888140828d828f829282858140828582868286828582838294828982968285",
+        "829482888281828e814082818294829482818283828b8289828e8287814082868292828f828d8140829482888285",
+        "82868292828f828e82948142",
+        "8260828c8293828f8140828b8285828582908140829482888289829381408289828e8140828d8289828e8284",
+        "829782888285828e8140828282858289828e8287814082818294829482818283828b82858284814082828299",
+        "8281828e81408285828e8285828d82998142",
+        "8268828681408299828f8295814082978281828e829481408294828f8140828d8289828e8289828d8289829a8285",
+        "829482888285814082848281828d82818287828581408299828f8295814082948281828b828581418140829482928299",
+        "8281828e828481408286828182838285814082948288828581408285828e8285828d8299814082818293",
+        "8294828882858299814082818294829482818283828b81408299828f82958142",
+        "8278828f8295814082838281828e8140828382888281828e828782858140829482888285",
+        "8286828182838289828e82878140828f828681408299828f8295829281408283828882818292828182838294828582928293",
+        "828282998140829582938289828e828781408294828882858140826282888281828e828782858140",
+        "8265828182838289828e828781408283828f828d828d8281828e82848140828f8292",
+        "829582938289828e8287814081a08142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

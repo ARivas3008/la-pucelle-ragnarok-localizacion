@@ -1,13 +1,9 @@
-name: QA parcheador experimental
+name: QA motor y formatos
 on:
   push:
-    paths:
-      - 'parcheador/**'
-      - '.github/workflows/qa_parcheador.yml'
+    paths: ['parcheador/**', '.github/workflows/qa_parcheador.yml']
   pull_request:
-    paths:
-      - 'parcheador/**'
-      - '.github/workflows/qa_parcheador.yml'
+    paths: ['parcheador/**', '.github/workflows/qa_parcheador.yml']
 permissions:
   contents: read
 jobs:
@@ -18,9 +14,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Pruebas sin archivos comerciales del motor de inserción
-        run: python -m unittest discover -s parcheador/app/tests -p 'test_*.py' -v
-      - name: Pruebas de reubicación conservadora y anclas v0.12
-        run: python -m unittest discover -s parcheador/investigacion/v0.12/tests -p 'test_*.py' -v
-      - name: Pruebas de scripts v0.14
-        run: python -m unittest discover -s parcheador/investigacion/v0.14/tests -p 'test_*.py' -v
+      - name: Motor y formatos sin archivos comerciales
+        shell: bash
+        run: |
+          set -e
+          python -m unittest discover -s parcheador/app/tests -p 'test_*.py' -v
+          for suite in parcheador/investigacion/v*/tests; do
+            python -m unittest discover -s "$suite" -p 'test_*.py' -v
+          done

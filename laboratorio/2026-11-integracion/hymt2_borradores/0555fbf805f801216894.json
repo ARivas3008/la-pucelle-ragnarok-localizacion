@@ -1,0 +1,39 @@
+{
+  "original": "Snap out of it、 Culotte! Do you want to be   treated like a child for the rest  of your life?!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI guess I should have stayed with Prier and Sister Alouette。\nI cannot handle this by myself。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI guess I should have stayed with Prier and Sister Alouette。\nI cannot handle this by myself。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nSnap out of it、 Culotte! Do you want to be   treated like a child for the rest  of your life?!",
+  "respuesta": "¡Despierta de esa ilusión, Culotte! ¿Quieres ser tratado como un niño durante el resto de tu vida?",
+  "fin": "stop",
+  "segundos": 4.43,
+  "uso": {
+    "completion_tokens": 33,
+    "prompt_tokens": 345,
+    "total_tokens": 378,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "0555fbf805f801216894",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 128080,
+      "entry_id": 0,
+      "original_hex": [
+        "8272828e828182908140828f829582948140828f82868140828982948141814082628295828c828f8294829482858149",
+        "8263828f81408299828f8295814082978281828e829481408294828f81408282828581408140",
+        "82948292828582818294828582848140828c8289828b8285",
+        "82818140828382888289828c828481408286828f82928140829482888285814082928285829382948140",
+        "828f828681408299828f829582928140828c82898286828581488149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I guess I should have stayed with Prier and Sister Alouette。",
+        "I cannot handle this by myself。。。"
+      ]
+    }
+  ]
+}

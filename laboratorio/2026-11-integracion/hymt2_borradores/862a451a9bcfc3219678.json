@@ -1,0 +1,38 @@
+{
+  "original": "That person you sent us、 『A1』、 seems to be very bitter toward you。 I would probably feel the same way if I would been abandoned。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThat person you sent us、 『A1』、 seems to be very bitter toward you。 I would probably feel the same way if I would been abandoned。。。",
+  "respuesta": "La persona que nos envió, “A1”, parece estar muy resentida contigo. Probablemente me sentiría de la misma manera si me abandonaran a mi también…",
+  "fin": "stop",
+  "segundos": 2.56,
+  "uso": {
+    "completion_tokens": 40,
+    "prompt_tokens": 328,
+    "total_tokens": 368,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "862a451a9bcfc3219678",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 36286,
+      "entry_id": 298201,
+      "original_hex": [
+        "827382888281829481408290828582928293828f828e81408299828f8295814082938285828e8294",
+        "829582938141814081774131817881418140829382858285828d8293",
+        "8294828f81408282828581408296828582928299814082828289829482948285829281408294828f8297828182928284",
+        "8299828f82958142",
+        "826881408297828f8295828c8284814082908292828f828282818282828c82998140828682858285828c",
+        "829482888285814082938281828d828581408297828182998140828982868140826881408297828f8295828c8284",
+        "828282858285828e8140828182828281828e8284828f828e82858284814281428142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

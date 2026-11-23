@@ -1,0 +1,42 @@
+{
+  "original": "Sister Alouette is exactly right! The entire reason this whole thing is shameful is because you had to go and。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI am terribly sorry、 Father Salade。 Even though I was with them、 something as shameful as this has。。。\nSshameful!? What was that!?\nDo you have something you would like to say to me、 Culotte。。。?\nAnyway、 we finished investigating the area、 so how about we put the Demon Lord thing on hold for a bit。 More importantly、 we need to discuss our next mission、 right?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI am terribly sorry、 Father Salade。 Even though I was with them、 something as shameful as this has。。。\nSshameful!? What was that!?\nDo you have something you would like to say to me、 Culotte。。。?\nAnyway、 we finished investigating the area、 so how about we put the Demon Lord thing on hold for a bit。 More importantly、 we need to discuss our next mission、 right?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nSister Alouette is exactly right! The entire reason this whole thing is shameful is because you had to go and。。。",
+  "respuesta": "Hermana Alouette tiene toda la razón. La razón por la cual todo esto es vergonzoso es porque tuviste que ir allí…",
+  "fin": "stop",
+  "segundos": 5.52,
+  "uso": {
+    "completion_tokens": 36,
+    "prompt_tokens": 410,
+    "total_tokens": 446,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "3e40c6a9ce07ddfb6f61",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 71617,
+      "entry_id": 1502,
+      "original_hex": [
+        "82728289829382948285829281408260828c828f82958285829482948285814082898293",
+        "82858298828182838294828c82998140829282898287828882948149",
+        "82738288828581408285828e829482898292828581408292828582818293828f828e81408294828882898293",
+        "82978288828f828c82858140829482888289828e82878140828982938140829382888281828d828582868295828c",
+        "828982938140828282858283828182958293828581408299828f8295814082888281828481408294828f",
+        "8287828f81408281828e8284814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I am terribly sorry、 Father Salade。 Even though I was with them、 something as shameful as this has。。。",
+        "Sshameful!? What was that!?",
+        "Do you have something you would like to say to me、 Culotte。。。?",
+        "Anyway、 we finished investigating the area、 so how about we put the Demon Lord thing on hold for a bit。 More importantly、 we need to discuss our next mission、 right?"
+      ]
+    }
+  ]
+}

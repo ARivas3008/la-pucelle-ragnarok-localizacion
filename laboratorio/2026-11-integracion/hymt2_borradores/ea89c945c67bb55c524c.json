@@ -1,0 +1,39 @@
+{
+  "original": "This country fell when the Dark Prince was born。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWell、 not exactly。。。 You might say I am used to them。\nAnyway、 you should really go home right away。\nWe were caught in a wave of energy from the Dark Prince and were turned into ghosts。\nThe Dark Prince was born near here?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWell、 not exactly。。。 You might say I am used to them。\nAnyway、 you should really go home right away。\nWe were caught in a wave of energy from the Dark Prince and were turned into ghosts。\nThe Dark Prince was born near here?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThis country fell when the Dark Prince was born。",
+  "respuesta": "Este país cayó cuando nació el Príncipe Oscuro.",
+  "fin": "stop",
+  "segundos": 2.31,
+  "uso": {
+    "completion_tokens": 18,
+    "prompt_tokens": 355,
+    "total_tokens": 373,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "ea89c945c67bb55c524c",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 122381,
+      "entry_id": 1002,
+      "original_hex": [
+        "827382888289829381408283828f8295828e829482928299814082868285828c828c8140829782888285828e",
+        "8294828882858140826382818292828b8140826f82928289828e828382858140829782818293",
+        "8282828f8292828e8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Well、 not exactly。。。 You might say I am used to them。",
+        "Anyway、 you should really go home right away。",
+        "We were caught in a wave of energy from the Dark Prince and were turned into ghosts。",
+        "The Dark Prince was born near here?"
+      ]
+    }
+  ]
+}

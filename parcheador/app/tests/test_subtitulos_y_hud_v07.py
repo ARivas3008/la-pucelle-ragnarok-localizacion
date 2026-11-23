@@ -23,7 +23,8 @@ class SubtitulosYHudV07(unittest.TestCase):
   with self.assertRaises(CaptionError):aplicar(b'XXXXX')
  def test_menu_corto_ascii_en_campo_original(self):
   menu=cargar_menus_centrales()
-  for key in ('Church','Ghost Village','Demon Lord','Inventory','Voice Vol','All Items'):
+  # Iglesia usa la reserva exacta del EBOOT; se prueba aparte con su offset real.
+  for key in ('Ghost Village','Demon Lord','Inventory','Voice Vol','All Items'):
    self.assertIn(key,menu)
    self.assertTrue(menu[key].isascii())
    self.assertLessEqual(len(menu[key]),len(key))
@@ -40,7 +41,7 @@ class SubtitulosYHudV07(unittest.TestCase):
   menu=cargar_menus_centrales()
   # Algunas etiquetas largas del menú siguen rechazándose deliberadamente:
   # nunca se las corta sin validación ni se modifica la longitud de EBOOT.
-  for key in ('Church','Udon Shop','Ghost Village','Dark Shrine','Castle Bar','Demon','Great Demon','Demon Lord','Overlord','Tiny','Whale','Ghost','Priest','Fallen Angel','Equip','Quit','Human','Inventory','Skills','Special','All Items','Dark Gate','Move','Decide','BGM','Voice Vol','Battle Vol','System Speed Fast','Move Speed  Fast','Text Speed  Fast'):
+  for key in ('Udon Shop','Ghost Village','Dark Shrine','Castle Bar','Demon','Great Demon','Demon Lord','Overlord','Tiny','Whale','Ghost','Priest','Fallen Angel','Equip','Quit','Human','Inventory','Skills','Special','All Items','Dark Gate','Move','Decide','BGM','Voice Vol','Battle Vol','System Speed Fast','Move Speed  Fast','Text Speed  Fast'):
    self.assertTrue(menu[key].isascii(),key)
    self.assertLessEqual(len(menu[key]),len(key),key)
 

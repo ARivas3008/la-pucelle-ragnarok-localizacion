@@ -1,0 +1,126 @@
+{
+  "original": "『長のエリンギャー語講座 その3 「ごめんなさい」』ですエリ。 エリンギャー語で「ごめんなさい」は、 「アコルエオアンガオウェイアエリ」ですエリ。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n『長のエリンギャー語講座 その3 「ごめんなさい」』ですエリ。 エリンギャー語で「ごめんなさい」は、 「アコルエオアンガオウェイアエリ」ですエリ。",
+  "respuesta": "“Es el tercer capítulo del curso de habla en el idioma Erinjay. “Perdóneme”. En el idioma Erinjay, ‘perdóneme’ se dice ‘Akoréoangaoweieari’. Perdóneme.”",
+  "fin": "stop",
+  "segundos": 6.24,
+  "uso": {
+    "completion_tokens": 62,
+    "prompt_tokens": 356,
+    "total_tokens": 418,
+    "prompt_tokens_details": {
+      "cached_tokens": 307
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "02d878f1e570a86accd5",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+      "offset": 65310,
+      "entry_id": 209505,
+      "original_hex": [
+        "817792b782cc8347838a8393834d8383815b8cea8d758dc0814082bb82cc8252",
+        "817582b282df82f182c882b382a28176817882c582b78347838a8142",
+        "8347838a8393834d8383815b8cea82c5817582b282df82f182c882b382a2817682cd8141",
+        "817583418352838b8347834983418393834b834983458346834383418347838a817682c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 62211,
+      "entry_id": 209505,
+      "original_hex": [
+        "817792b782cc8347838a8393834d8383815b8cea8d758dc0814082bb82cc8252",
+        "817582b282df82f182c882b382a28176817882c582b78347838a8142",
+        "8347838a8393834d8383815b8cea82c5817582b282df82f182c882b382a2817682cd8141",
+        "817583418352838b8347834983418393834b834983458346834383418347838a817682c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 50669,
+      "entry_id": 209505,
+      "original_hex": [
+        "817792b782cc8347838a8393834d8383815b8cea8d758dc0814082bb82cc8252",
+        "817582b282df82f182c882b382a28176817882c582b78347838a8142",
+        "8347838a8393834d8383815b8cea82c5817582b282df82f182c882b382a2817682cd8141",
+        "817583418352838b8347834983418393834b834983458346834383418347838a817682c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 66117,
+      "entry_id": 209505,
+      "original_hex": [
+        "817792b782cc8347838a8393834d8383815b8cea8d758dc0814082bb82cc8252",
+        "817582b282df82f182c882b382a28176817882c582b78347838a8142",
+        "8347838a8393834d8383815b8cea82c5817582b282df82f182c882b382a2817682cd8141",
+        "817583418352838b8347834983418393834b834983458346834383418347838a817682c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "offset": 66277,
+      "entry_id": 209505,
+      "original_hex": [
+        "817792b782cc8347838a8393834d8383815b8cea8d758dc0814082bb82cc8252",
+        "817582b282df82f182c882b382a28176817882c582b78347838a8142",
+        "8347838a8393834d8383815b8cea82c5817582b282df82f182c882b382a2817682cd8141",
+        "817583418352838b8347834983418393834b834983458346834383418347838a817682c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 66117,
+      "entry_id": 209505,
+      "original_hex": [
+        "817792b782cc8347838a8393834d8383815b8cea8d758dc0814082bb82cc8252",
+        "817582b282df82f182c882b382a28176817882c582b78347838a8142",
+        "8347838a8393834d8383815b8cea82c5817582b282df82f182c882b382a2817682cd8141",
+        "817583418352838b8347834983418393834b834983458346834383418347838a817682c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 66501,
+      "entry_id": 209505,
+      "original_hex": [
+        "817792b782cc8347838a8393834d8383815b8cea8d758dc0814082bb82cc8252",
+        "817582b282df82f182c882b382a28176817882c582b78347838a8142",
+        "8347838a8393834d8383815b8cea82c5817582b282df82f182c882b382a2817682cd8141",
+        "817583418352838b8347834983418393834b834983458346834383418347838a817682c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 59423,
+      "entry_id": 209505,
+      "original_hex": [
+        "817792b782cc8347838a8393834d8383815b8cea8d758dc0814082bb82cc8252",
+        "817582b282df82f182c882b382a28176817882c582b78347838a8142",
+        "8347838a8393834d8383815b8cea82c5817582b282df82f182c882b382a2817682cd8141",
+        "817583418352838b8347834983418393834b834983458346834383418347838a817682c582b78347838a8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

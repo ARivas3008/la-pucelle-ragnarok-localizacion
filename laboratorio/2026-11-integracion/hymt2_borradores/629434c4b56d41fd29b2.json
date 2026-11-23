@@ -1,0 +1,122 @@
+{
+  "original": "浄化リアクションは、最近流行りの 新たな浄化方法だ。 やり方は難しいことはない。 普通に不浄点を浄化をするだけでOKだ。 浄化に成功すれば、浄化をした本人に 「Re-Action」という表示とともに もう一度行動をすることが可能になる。 これが「浄化リアクション」だ。 さらに「浄化リアクション」は浄化されていく 地場の上にいるキャラにも効果があるぞ。 地場の上で行動を完了させておけば、 そのキャラたちも、再度行動可能になるぜ。 上手く利用をすれば、キャラたちの行動回数を 飛躍的にアップさせることができるってワケだ。 戦闘マップの不浄点、地場の状況を判断して 浄化リアクションを使用するようにな。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n浄化リアクションは、最近流行りの 新たな浄化方法だ。 やり方は難しいことはない。 普通に不浄点を浄化をするだけでOKだ。 浄化に成功すれば、浄化をした本人に 「Re-Action」という表示とともに もう一度行動をすることが可能になる。 これが「浄化リアクション」だ。 さらに「浄化リアクション」は浄化されていく 地場の上にいるキャラにも効果があるぞ。 地場の上で行動を完了させておけば、 そのキャラたちも、再度行動可能になるぜ。 上手く利用をすれば、キャラたちの行動回数を 飛躍的にアップさせることができるってワケだ。 戦闘マップの不浄点、地場の状況を判断して 浄化リアクションを使用するようにな。",
+  "respuesta": "La “Reacción de Purificación” es un nuevo método de purificación que está de moda ahora. No es difícil de usar. Basta con purificar los puntos impuros de manera normal. Si se logra la purificación, la persona que lo hizo puede volver a actuar una vez más, junto con el indicador “Re-Action”. Esta es la “Reacción de Purificación”. Además, esta reacción también es efectiva para los personajes que se encuentran en las áreas purificadas. Si se completa la acción en esa área, esos personajes también podrán actuar nuevamente. Si se utiliza correctamente, se puede aumentar significativamente el número de veces que los personajes pueden actuar. Se debe utilizar la Reacción de Purificación según la situación en el mapa de combate y en las áreas purificadas.",
+  "fin": "stop",
+  "segundos": 20.6,
+  "uso": {
+    "completion_tokens": 210,
+    "prompt_tokens": 523,
+    "total_tokens": 733,
+    "prompt_tokens_details": {
+      "cached_tokens": 268
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "629434c4b56d41fd29b2",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 28023,
+      "entry_id": 201760,
+      "original_hex": [
+        "8ff289bb838a8341834e83568387839382cd81418dc58bdf97ac8d7382e882cc",
+        "905682bd82c88ff289bb95fb964082be8142",
+        "82e282e895fb82cd93ef82b582a282b182c682cd82c882a28142",
+        "958192ca82c995738ff2935f82f08ff289bb82f082b782e982be82af82c5826e826a82be8142",
+        "8ff289bb82c990ac8cf782b782ea82ce81418ff289bb82f082b582bd967b906c82c9",
+        "817582718285817c8260828382948289828f828e817682c682a282a4955c8ea682c682c682e082c9",
+        "82e082a488ea93788d7393ae82f082b782e982b182c682aa89c2945c82c982c882e98142",
+        "82b182ea82aa81758ff289bb838a8341834e835683878393817682be8142",
+        "82b382e782c981758ff289bb838a8341834e835683878393817682cd8ff289bb82b382ea82c482a282ad",
+        "926e8fea82cc8fe382c982a282e9834c8383838982c982e08cf889ca82aa82a082e982bc8142",
+        "926e8fea82cc8fe382c58d7393ae82f08aae97b982b382b982c482a882af82ce8141",
+        "82bb82cc834c8383838982bd82bf82e081418dc493788d7393ae89c2945c82c982c882e982ba8142",
+        "8fe38ee882ad9798977082f082b782ea82ce8141834c8383838982bd82bf82cc8d7393ae89f1909482f0",
+        "94f296f4934982c983418362837682b382b982e982b182c682aa82c582ab82e982c182c4838f835082be8142",
+        "90ed93ac837d8362837682cc95738ff2935f8141926e8fea82cc8ff38bb582f094bb926682b582c4",
+        "8ff289bb838a8341834e83568387839382f08e67977082b782e982e682a482c982c88142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 27991,
+      "entry_id": 201760,
+      "original_hex": [
+        "8ff289bb838a8341834e83568387839382cd81418dc58bdf97ac8d7382e882cc",
+        "905682bd82c88ff289bb95fb964082be8142",
+        "82e282e895fb82cd93ef82b582a282b182c682cd82c882a28142",
+        "958192ca82c995738ff2935f82f08ff289bb82f082b782e982be82af82c5826e826a82be8142",
+        "8ff289bb82c990ac8cf782b782ea82ce81418ff289bb82f082b582bd967b906c82c9",
+        "817582718285817c8260828382948289828f828e817682c682a282a4955c8ea682c682c682e082c9",
+        "82e082a488ea93788d7393ae82f082b782e982b182c682aa89c2945c82c982c882e98142",
+        "82b182ea82aa81758ff289bb838a8341834e835683878393817682be8142",
+        "82b382e782c981758ff289bb838a8341834e835683878393817682cd8ff289bb82b382ea82c482a282ad",
+        "926e8fea82cc8fe382c982a282e9834c8383838982c982e08cf889ca82aa82a082e982bc8142",
+        "926e8fea82cc8fe382c58d7393ae82f08aae97b982b382b982c482a882af82ce8141",
+        "82bb82cc834c8383838982bd82bf82e081418dc493788d7393ae89c2945c82c982c882e982ba8142",
+        "8fe38ee882ad9798977082f082b782ea82ce8141834c8383838982bd82bf82cc8d7393ae89f1909482f0",
+        "94f296f4934982c983418362837682b382b982e982b182c682aa82c582ab82e982c182c4838f835082be8142",
+        "90ed93ac837d8362837682cc95738ff2935f8141926e8fea82cc8ff38bb582f094bb926682b582c4",
+        "8ff289bb838a8341834e83568387839382f08e67977082b782e982e682a482c982c88142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 28215,
+      "entry_id": 201760,
+      "original_hex": [
+        "8ff289bb838a8341834e83568387839382cd81418dc58bdf97ac8d7382e882cc",
+        "905682bd82c88ff289bb95fb964082be8142",
+        "82e282e895fb82cd93ef82b582a282b182c682cd82c882a28142",
+        "958192ca82c995738ff2935f82f08ff289bb82f082b782e982be82af82c5826e826a82be8142",
+        "8ff289bb82c990ac8cf782b782ea82ce81418ff289bb82f082b582bd967b906c82c9",
+        "817582718285817c8260828382948289828f828e817682c682a282a4955c8ea682c682c682e082c9",
+        "82e082a488ea93788d7393ae82f082b782e982b182c682aa89c2945c82c982c882e98142",
+        "82b182ea82aa81758ff289bb838a8341834e835683878393817682be8142",
+        "82b382e782c981758ff289bb838a8341834e835683878393817682cd8ff289bb82b382ea82c482a282ad",
+        "926e8fea82cc8fe382c982a282e9834c8383838982c982e08cf889ca82aa82a082e982bc8142",
+        "926e8fea82cc8fe382c58d7393ae82f08aae97b982b382b982c482a882af82ce8141",
+        "82bb82cc834c8383838982bd82bf82e081418dc493788d7393ae89c2945c82c982c882e982ba8142",
+        "8fe38ee882ad9798977082f082b782ea82ce8141834c8383838982bd82bf82cc8d7393ae89f1909482f0",
+        "94f296f4934982c983418362837682b382b982e982b182c682aa82c582ab82e982c182c4838f835082be8142",
+        "90ed93ac837d8362837682cc95738ff2935f8141926e8fea82cc8ff38bb582f094bb926682b582c4",
+        "8ff289bb838a8341834e83568387839382f08e67977082b782e982e682a482c982c88142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 28183,
+      "entry_id": 201760,
+      "original_hex": [
+        "8ff289bb838a8341834e83568387839382cd81418dc58bdf97ac8d7382e882cc",
+        "905682bd82c88ff289bb95fb964082be8142",
+        "82e282e895fb82cd93ef82b582a282b182c682cd82c882a28142",
+        "958192ca82c995738ff2935f82f08ff289bb82f082b782e982be82af82c5826e826a82be8142",
+        "8ff289bb82c990ac8cf782b782ea82ce81418ff289bb82f082b582bd967b906c82c9",
+        "817582718285817c8260828382948289828f828e817682c682a282a4955c8ea682c682c682e082c9",
+        "82e082a488ea93788d7393ae82f082b782e982b182c682aa89c2945c82c982c882e98142",
+        "82b182ea82aa81758ff289bb838a8341834e835683878393817682be8142",
+        "82b382e782c981758ff289bb838a8341834e835683878393817682cd8ff289bb82b382ea82c482a282ad",
+        "926e8fea82cc8fe382c982a282e9834c8383838982c982e08cf889ca82aa82a082e982bc8142",
+        "926e8fea82cc8fe382c58d7393ae82f08aae97b982b382b982c482a882af82ce8141",
+        "82bb82cc834c8383838982bd82bf82e081418dc493788d7393ae89c2945c82c982c882e982ba8142",
+        "8fe38ee882ad9798977082f082b782ea82ce8141834c8383838982bd82bf82cc8d7393ae89f1909482f0",
+        "94f296f4934982c983418362837682b382b982e982b182c682aa82c582ab82e982c182c4838f835082be8142",
+        "90ed93ac837d8362837682cc95738ff2935f8141926e8fea82cc8ff38bb582f094bb926682b582c4",
+        "8ff289bb838a8341834e83568387839382f08e67977082b782e982e682a482c982c88142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

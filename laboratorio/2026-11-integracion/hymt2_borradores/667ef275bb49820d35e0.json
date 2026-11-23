@@ -1,0 +1,39 @@
+{
+  "original": "So I will not be a burden to you any longer。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nNo! We are friends! We want to help!\nAnd。。。 I have discovered my other self now。\nYour other self?\nW-w-w-what?!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nNo! We are friends! We want to help!\nAnd。。。 I have discovered my other self now。\nYour other self?\nW-w-w-what?!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nSo I will not be a burden to you any longer。",
+  "respuesta": "Así que ya no seré una carga para ti.",
+  "fin": "stop",
+  "segundos": 1.66,
+  "uso": {
+    "completion_tokens": 14,
+    "prompt_tokens": 339,
+    "total_tokens": 353,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "667ef275bb49820d35e0",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 131641,
+      "entry_id": 1108,
+      "original_hex": [
+        "8272828f81408268814082978289828c828c8140828e828f829481408282828581408281",
+        "82828295829282848285828e81408294828f81408299828f829581408281828e8299",
+        "828c828f828e8287828582928142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "No! We are friends! We want to help!",
+        "And。。。 I have discovered my other self now。",
+        "Your other self?",
+        "W-w-w-what?!"
+      ]
+    }
+  ]
+}

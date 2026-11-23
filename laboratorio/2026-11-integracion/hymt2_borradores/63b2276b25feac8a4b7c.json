@@ -1,0 +1,36 @@
+{
+  "original": "Man、 she is seriously scaring me。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nNo、 it is actually better to let him join。 We can then begin a rehabilitation program。\nWonderful idea、 Sister Alouette!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nNo、 it is actually better to let him join。 We can then begin a rehabilitation program。\nWonderful idea、 Sister Alouette!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nMan、 she is seriously scaring me。。。",
+  "respuesta": "Hombre, ella realmente me asusta mucho…",
+  "fin": "stop",
+  "segundos": 2.47,
+  "uso": {
+    "completion_tokens": 12,
+    "prompt_tokens": 333,
+    "total_tokens": 345,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "63b2276b25feac8a4b7c",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 24648,
+      "entry_id": 250620,
+      "original_hex": [
+        "826c8281828e8141814082938288828581408289829381408293828582928289828f82958293828c8299",
+        "82938283828182928289828e82878140828d8285814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "No、 it is actually better to let him join。 We can then begin a rehabilitation program。",
+        "Wonderful idea、 Sister Alouette!"
+      ]
+    }
+  ]
+}

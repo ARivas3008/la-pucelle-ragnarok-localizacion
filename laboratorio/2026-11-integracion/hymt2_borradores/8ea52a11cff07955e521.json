@@ -1,0 +1,38 @@
+{
+  "original": "She is burning with fever! We need to do something!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nSister Alouette。。。\nThe first thing we need to do is get her out of the rain before she dies。\nWe are going to have to find some shelter from the storm。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nSister Alouette。。。\nThe first thing we need to do is get her out of the rain before she dies。\nWe are going to have to find some shelter from the storm。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nShe is burning with fever! We need to do something!",
+  "respuesta": "¡Ella está sufriendo de fiebre alta! Tenemos que hacer algo al respecto.",
+  "fin": "stop",
+  "segundos": 2.74,
+  "uso": {
+    "completion_tokens": 23,
+    "prompt_tokens": 345,
+    "total_tokens": 368,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8ea52a11cff07955e521",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 98501,
+      "entry_id": 1101,
+      "original_hex": [
+        "8272828882858140828982938140828282958292828e8289828e828781408297828982948288",
+        "8286828582968285829281498140827682858140828e82858285828481408294828f",
+        "8284828f81408293828f828d8285829482888289828e82878149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Sister Alouette。。。",
+        "The first thing we need to do is get her out of the rain before she dies。",
+        "We are going to have to find some shelter from the storm。"
+      ]
+    }
+  ]
+}

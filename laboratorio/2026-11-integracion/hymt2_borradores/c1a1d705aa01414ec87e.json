@@ -1,0 +1,50 @@
+{
+  "original": "If you purify enemies before you fight and defeat them、 they will sometimes defect to your side。 The more times you purify them、 the greater the chances of them defecting。 If you want to convert an enemy、 try purifying them many times then battle them and win。 But it is harder to convert kinds of enemies that you have already converted in the past。 Oh、 and of course you cannot convert the boss characters。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIf you purify enemies before you fight and defeat them、 they will sometimes defect to your side。 The more times you purify them、 the greater the chances of them defecting。 If you want to convert an enemy、 try purifying them many times then battle them and win。 But it is harder to convert kinds of enemies that you have already converted in the past。 Oh、 and of course you cannot convert the boss characters。",
+  "respuesta": "Si purificas a los enemigos antes de luchar contra ellos y los derrobas, a veces se pasarán al bando tuyo. Cuanto más veces los purifiques, mayores serán las posibilidades de que se pasen al tuyo. Si deseas convertir a un enemigo, intenta purificarlo varias veces antes de luchar contra él y ganar. Pero es más difícil convertir a aquellos tipos de enemigos que ya has convertido en el pasado. Oh, y por supuesto, no puedes convertir a los personajes principales.",
+  "fin": "stop",
+  "segundos": 8.72,
+  "uso": {
+    "completion_tokens": 135,
+    "prompt_tokens": 380,
+    "total_tokens": 515,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "c1a1d705aa01414ec87e",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 28050,
+      "entry_id": 201732,
+      "original_hex": [
+        "8268828681408299828f8295814082908295829282898286829981408285828e8285828d828982858293",
+        "828282858286828f8292828581408299828f829581408286828982878288829481408281828e8284",
+        "8284828582868285828182948140829482888285828d814181408294828882858299814082978289828c828c",
+        "8293828f828d828582948289828d82858293814082848285828682858283829481408294828f81408299828f82958292",
+        "82938289828482858142",
+        "8273828882858140828d828f82928285814082948289828d8285829381408299828f82958140829082958292828982868299",
+        "829482888285828d81418140829482888285814082878292828582818294828582928140829482888285",
+        "828382888281828e8283828582938140828f82868140829482888285828d81408284828582868285828382948289828e82878142",
+        "8268828681408299828f8295814082978281828e829481408294828f81408283828f828e8296828582928294",
+        "8281828e81408285828e8285828d82998141814082948292829981408290829582928289828682998289828e8287",
+        "829482888285828d8140828d8281828e8299814082948289828d82858293",
+        "829482888285828e81408282828182948294828c82858140829482888285828d81408281828e8284814082978289828e8142",
+        "826182958294814082898294814082898293814082888281829282848285829281408294828f81408283828f828e8296828582928294",
+        "828b8289828e828482938140828f828681408285828e8285828d8289828582938140829482888281829481408299828f8295",
+        "828882818296828581408281828c8292828582818284829981408283828f828e829682858292829482858284",
+        "8289828e8140829482888285814082908281829382948142",
+        "826e8288814181408281828e82848140828f828681408283828f829582928293828581408299828f8295",
+        "82838281828e828e828f829481408283828f828e8296828582928294814082948288828581408282828f82938293",
+        "82838288828182928281828382948285829282938142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

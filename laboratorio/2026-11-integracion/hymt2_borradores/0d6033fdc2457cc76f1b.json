@@ -1,0 +1,38 @@
+{
+  "original": "There is something written on it。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n(She ignored me!!!)\nSo what is the deal with this tree?\nCr。。。? I cannot quite make it out。\nIt looks like ancient Paprican。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n(She ignored me!!!)\nSo what is the deal with this tree?\nCr。。。? I cannot quite make it out。\nIt looks like ancient Paprican。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThere is something written on it。",
+  "respuesta": "Hay algo escrito en él.",
+  "fin": "stop",
+  "segundos": 1.35,
+  "uso": {
+    "completion_tokens": 8,
+    "prompt_tokens": 334,
+    "total_tokens": 342,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "0d6033fdc2457cc76f1b",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 128973,
+      "entry_id": 1004,
+      "original_hex": [
+        "8273828882858292828581408289829381408293828f828d8285829482888289828e8287",
+        "829782928289829482948285828e8140828f828e8140828982948142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "(She ignored me!!!)",
+        "So what is the deal with this tree?",
+        "Cr。。。? I cannot quite make it out。",
+        "It looks like ancient Paprican。"
+      ]
+    }
+  ]
+}

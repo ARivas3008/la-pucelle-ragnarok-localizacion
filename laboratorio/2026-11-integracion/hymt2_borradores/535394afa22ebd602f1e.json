@@ -1,0 +1,39 @@
+{
+  "original": "Ah! Take a look、 Big Sister! That is。。。!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n(That girl looks up to Prier and not Sister Alouette?) (I am worried about her future。。。)\n(But you know、 not only does her personality remind me of Prier、 but she kinda looks like her、 too。。。)\nThat is the demon who attacked your village。。。 The one who you want me defeat、 right?\nWhat do you think、 Big Sister? Do you think can win?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n(That girl looks up to Prier and not Sister Alouette?) (I am worried about her future。。。)\n(But you know、 not only does her personality remind me of Prier、 but she kinda looks like her、 too。。。)\nThat is the demon who attacked your village。。。 The one who you want me defeat、 right?\nWhat do you think、 Big Sister? Do you think can win?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nAh! Take a look、 Big Sister! That is。。。!",
+  "respuesta": "¡Ah! Mire, hermana mayor. Eso es…",
+  "fin": "stop",
+  "segundos": 2.9,
+  "uso": {
+    "completion_tokens": 15,
+    "prompt_tokens": 391,
+    "total_tokens": 406,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "535394afa22ebd602f1e",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 89502,
+      "entry_id": 1506,
+      "original_hex": [
+        "826082888149",
+        "82738281828b8285814082818140828c828f828f828b8141814082618289828781408272828982938294828582928149",
+        "82738288828182948140828982938142814281428149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "(That girl looks up to Prier and not Sister Alouette?) (I am worried about her future。。。)",
+        "(But you know、 not only does her personality remind me of Prier、 but she kinda looks like her、 too。。。)",
+        "That is the demon who attacked your village。。。 The one who you want me defeat、 right?",
+        "What do you think、 Big Sister? Do you think can win?"
+      ]
+    }
+  ]
+}

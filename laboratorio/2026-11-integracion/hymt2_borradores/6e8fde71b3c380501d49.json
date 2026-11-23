@@ -1,0 +1,38 @@
+{
+  "original": "If we truly wish to save Croix、 we cannot bewilder Prier any more than she is!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI am gonna save Croix with the power of darkness、 so stay out of my way!\nYou cannot save the Prince of Darkness by succumbing to the powers of darkness!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI am gonna save Croix with the power of darkness、 so stay out of my way!\nYou cannot save the Prince of Darkness by succumbing to the powers of darkness!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIf we truly wish to save Croix、 we cannot bewilder Prier any more than she is!",
+  "respuesta": "Si realmente queremos salvar a Croix, no podemos confundir a Prier más de lo que ya está confundida.",
+  "fin": "stop",
+  "segundos": 2.96,
+  "uso": {
+    "completion_tokens": 32,
+    "prompt_tokens": 352,
+    "total_tokens": 384,
+    "prompt_tokens_details": {
+      "cached_tokens": 298
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "6e8fde71b3c380501d49",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 85237,
+      "entry_id": 4672,
+      "original_hex": [
+        "826882868140829782858140829482928295828c82998140829782898293828881408294828f81408293828182968285",
+        "82628292828f828982988141814082978285814082838281828e828e828f8294",
+        "8282828582978289828c8284828582928140826f829282898285829281408281828e82998140828d828f82928285",
+        "829482888281828e81408293828882858140828982938149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I am gonna save Croix with the power of darkness、 so stay out of my way!",
+        "You cannot save the Prince of Darkness by succumbing to the powers of darkness!"
+      ]
+    }
+  ]
+}

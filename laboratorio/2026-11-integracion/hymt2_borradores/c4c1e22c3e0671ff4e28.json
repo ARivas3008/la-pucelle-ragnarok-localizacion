@@ -1,0 +1,37 @@
+{
+  "original": "Roger! Meow!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nSensors show several large life forms on that hill! Meow!!\nReduce speed。 Reduce altitude、 prepare for pick up。\nIs that thunder。。。?\nNo! That sound can only be。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nSensors show several large life forms on that hill! Meow!!\nReduce speed。 Reduce altitude、 prepare for pick up。\nIs that thunder。。。?\nNo! That sound can only be。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nRoger! Meow!",
+  "respuesta": "¡De acuerdo! Miau.",
+  "fin": "stop",
+  "segundos": 1.74,
+  "uso": {
+    "completion_tokens": 10,
+    "prompt_tokens": 340,
+    "total_tokens": 350,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "c4c1e22c3e0671ff4e28",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 99498,
+      "entry_id": 1101,
+      "original_hex": [
+        "8271828f82878285829281498140826c8285828f82978149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Sensors show several large life forms on that hill! Meow!!",
+        "Reduce speed。 Reduce altitude、 prepare for pick up。",
+        "Is that thunder。。。?",
+        "No! That sound can only be。。。"
+      ]
+    }
+  ]
+}

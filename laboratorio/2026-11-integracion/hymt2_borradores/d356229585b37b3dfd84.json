@@ -1,0 +1,39 @@
+{
+  "original": "(You are not a child hiding behind your father anymore!!)",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n(I may be in trouble here。。。)\n(Snap out of it、 Homard!)\n(I was too scared to do anything then。。。)\n(I was so scared I thought I would die!)",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n(I may be in trouble here。。。)\n(Snap out of it、 Homard!)\n(I was too scared to do anything then。。。)\n(I was so scared I thought I would die!)\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n(You are not a child hiding behind your father anymore!!)",
+  "respuesta": "(Ya no eres un niño que se esconde detrás de tu padre!!)",
+  "fin": "stop",
+  "segundos": 2.26,
+  "uso": {
+    "completion_tokens": 20,
+    "prompt_tokens": 345,
+    "total_tokens": 365,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "d356229585b37b3dfd84",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 130278,
+      "entry_id": 1108,
+      "original_hex": [
+        "81698278828f829581408281829282858140828e828f8294814082818140828382888289828c8284",
+        "8288828982848289828e828781408282828582888289828e828481408299828f82958292",
+        "82868281829482888285829281408281828e8299828d828f8292828581498149816a"
+      ],
+      "opcion": false,
+      "contexto": [
+        "(I may be in trouble here。。。)",
+        "(Snap out of it、 Homard!)",
+        "(I was too scared to do anything then。。。)",
+        "(I was so scared I thought I would die!)"
+      ]
+    }
+  ]
+}

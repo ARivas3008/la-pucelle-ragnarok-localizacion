@@ -1,0 +1,42 @@
+{
+  "original": "It is hard to keep track with her ridiculous power。 If she keeps this up、 she could get injured。 You listening、 Prier?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAlright! I win once again!\nYou are really on the ball today、 Prier。 How many does that make so far?\nWhat do you mean get hurt? I am not planning on losing! I wonder if there are any stronger demons around。。。\nKnock it off、 Sister Prier! Our job is to investigate the Dark World、 not to test out how strong you are。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAlright! I win once again!\nYou are really on the ball today、 Prier。 How many does that make so far?\nWhat do you mean get hurt? I am not planning on losing! I wonder if there are any stronger demons around。。。\nKnock it off、 Sister Prier! Our job is to investigate the Dark World、 not to test out how strong you are。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIt is hard to keep track with her ridiculous power。 If she keeps this up、 she could get injured。 You listening、 Prier?",
+  "respuesta": "Es difícil mantener un control sobre su poder ridículo. Si sigue así, podría resultar herida. ¿Me escuchas, Prier?",
+  "fin": "stop",
+  "segundos": 5.14,
+  "uso": {
+    "completion_tokens": 36,
+    "prompt_tokens": 402,
+    "total_tokens": 438,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "865c6c8d6785e35cfbcd",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 68154,
+      "entry_id": 1501,
+      "original_hex": [
+        "826882948140828982938140828882818292828481408294828f8140828b82858285829081408294829282818283828b",
+        "829782898294828881408288828582928140829282898284828982838295828c828f82958293",
+        "8290828f8297828582928142",
+        "8268828681408293828882858140828b8285828582908293814082948288828982938140829582908141",
+        "82938288828581408283828f8295828c8284814082878285829481408289828e828a82958292828582848142",
+        "8278828f82958140828c8289829382948285828e8289828e828781418140826f82928289828582928148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Alright! I win once again!",
+        "You are really on the ball today、 Prier。 How many does that make so far?",
+        "What do you mean get hurt? I am not planning on losing! I wonder if there are any stronger demons around。。。",
+        "Knock it off、 Sister Prier! Our job is to investigate the Dark World、 not to test out how strong you are。"
+      ]
+    }
+  ]
+}

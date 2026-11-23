@@ -1,0 +1,59 @@
+[
+  {
+    "original": "Hello! Welcome to the Rosenqueen Shop!",
+    "contexto": "Location: town NPC conversation. Resource ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat, event 205400.",
+    "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Eclair; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro. Preserve character names and variable markers such as A1, A2, %s and %d exactly.\nScene context (do not translate this section):\nLocation: town NPC conversation. Resource ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat, event 205400.\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nHello! Welcome to the Rosenqueen Shop!",
+    "respuesta": "Hola! Bienvenido a la Tienda de la Rosenqueen.",
+    "fin": "stop",
+    "segundos": 4.7,
+    "uso": {
+      "completion_tokens": 17,
+      "prompt_tokens": 276,
+      "total_tokens": 293,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "modelo": "Hy-MT2-1.8B-Q8_0",
+    "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+    "estado": "pendiente_revision"
+  },
+  {
+    "original": "ん? どうした、プリエ? こんなとこで油売ってねェで、 さっさと犯人を とっつかまえてこいや。",
+    "contexto": "Location: town NPC conversation. Resource ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat, event 207101.",
+    "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Eclair; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro. Preserve character names and variable markers such as A1, A2, %s and %d exactly.\nScene context (do not translate this section):\nLocation: town NPC conversation. Resource ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat, event 207101.\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nん? どうした、プリエ? こんなとこで油売ってねェで、 さっさと犯人を とっつかまえてこいや。",
+    "respuesta": "¿Hmm? ¿Qué pasa, Prier? No vendas aceite en un lugar como este. ¡Apresúrate y atrapa al culpable!",
+    "fin": "stop",
+    "segundos": 2.97,
+    "uso": {
+      "completion_tokens": 37,
+      "prompt_tokens": 308,
+      "total_tokens": 345,
+      "prompt_tokens_details": {
+        "cached_tokens": 247
+      }
+    },
+    "modelo": "Hy-MT2-1.8B-Q8_0",
+    "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+    "estado": "pendiente_revision"
+  },
+  {
+    "original": "街の連中が『悪魔の胃袋』の中に 吸い込まれていく白い光を見たってェ 情報が入ってきた。 プリエよォ......。 おめェ、ちゃんと事件を解決したのか? えぇ、おい? あんまり いい加減な仕事しやがったら───",
+    "contexto": "Location: town NPC conversation. Resource ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat, event 207111.",
+    "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Eclair; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro. Preserve character names and variable markers such as A1, A2, %s and %d exactly.\nScene context (do not translate this section):\nLocation: town NPC conversation. Resource ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat, event 207111.\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n街の連中が『悪魔の胃袋』の中に 吸い込まれていく白い光を見たってェ 情報が入ってきた。 プリエよォ......。 おめェ、ちゃんと事件を解決したのか? えぇ、おい? あんまり いい加減な仕事しやがったら───",
+    "respuesta": "Se ha recibido información de que la gente del pueblo vio una luz blanca que fue absorbida por “Panza del Diablo”. Prier… ¿Has resuelto el caso correctamente? ¡Ah, no! Trabajaste muy mal.",
+    "fin": "stop",
+    "segundos": 4.89,
+    "uso": {
+      "completion_tokens": 58,
+      "prompt_tokens": 353,
+      "total_tokens": 411,
+      "prompt_tokens_details": {
+        "cached_tokens": 248
+      }
+    },
+    "modelo": "Hy-MT2-1.8B-Q8_0",
+    "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+    "estado": "pendiente_revision"
+  }
+]

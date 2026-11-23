@@ -1,3 +1,7 @@
+# Ámbitos de trabajo
+
+Las instrucciones de corpus que siguen se aplican a tareas de revisión editorial de un corpus. La coordinación e integración autorizadas por el titular pueden abarcar motor, documentación y publicación; conservan entradas y maestros, verifican controles y aplican el procedimiento de `docs/DESARROLLO.md`. No se consideran aprobados los borradores HY-MT2 por el solo hecho de existir.
+
 # Instrucciones para cualquier agente o chat revisor
 
 ## Identidad y cometido

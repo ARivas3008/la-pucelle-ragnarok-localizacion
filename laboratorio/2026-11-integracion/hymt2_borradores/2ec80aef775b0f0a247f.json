@@ -1,0 +1,39 @@
+{
+  "original": "That is enough of that。 I had my own reasons for fighting。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYes! Both Eclair and I have gotten stronger!\nAnd it is all thanks to you!\nWay to go、 Captain!! You are the cats meow。\nYou must not relax yet。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYes! Both Eclair and I have gotten stronger!\nAnd it is all thanks to you!\nWay to go、 Captain!! You are the cats meow。\nYou must not relax yet。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThat is enough of that。 I had my own reasons for fighting。",
+  "respuesta": "Eso es suficiente. Tengo mis propias razones para luchar.",
+  "fin": "stop",
+  "segundos": 1.84,
+  "uso": {
+    "completion_tokens": 20,
+    "prompt_tokens": 348,
+    "total_tokens": 368,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "2ec80aef775b0f0a247f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 134429,
+      "entry_id": 1105,
+      "original_hex": [
+        "827382888281829481408289829381408285828e828f8295828782888140828f8286814082948288828182948142",
+        "826881408288828182848140828d82998140828f8297828e81408292828582818293828f828e8293",
+        "8286828f82928140828682898287828882948289828e82878142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yes! Both Eclair and I have gotten stronger!",
+        "And it is all thanks to you!",
+        "Way to go、 Captain!! You are the cats meow。",
+        "You must not relax yet。。。"
+      ]
+    }
+  ]
+}

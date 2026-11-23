@@ -1,0 +1,42 @@
+{
+  "original": "Geez、 still denying it? I guess there is no way around this。。。 Fine、 I will be the Demon Lord in your place。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThat is exactly how a demon thinks。 You already pass with flying colors、 so you should hurry up and turn into a Demon Lord already!\nQuit spouting nonsense。。。! I am going to be the Maiden of Light! No way am I gonna turn into a Demon Lord!!\nFrom here on out、 I am Demon Lord Prier!\nI guess I will start by gathering some underlings。 I am gonna be one heck of a Demon Lord、 so look forward to it、 Big Sister Prier。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThat is exactly how a demon thinks。 You already pass with flying colors、 so you should hurry up and turn into a Demon Lord already!\nQuit spouting nonsense。。。! I am going to be the Maiden of Light! No way am I gonna turn into a Demon Lord!!\nFrom here on out、 I am Demon Lord Prier!\nI guess I will start by gathering some underlings。 I am gonna be one heck of a Demon Lord、 so look forward to it、 Big Sister Prier。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nGeez、 still denying it? I guess there is no way around this。。。 Fine、 I will be the Demon Lord in your place。",
+  "respuesta": "Vaya, ¿todavía lo niega? Supongo que no hay manera de evitarlo… Está bien, yo seré el Señor Demonio en tu lugar.",
+  "fin": "stop",
+  "segundos": 6.7,
+  "uso": {
+    "completion_tokens": 40,
+    "prompt_tokens": 430,
+    "total_tokens": 470,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "367d106fca798768c96a",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 94066,
+      "entry_id": 1507,
+      "original_hex": [
+        "826682858285829a81418140829382948289828c828c814082848285828e82998289828e82878140828982948148",
+        "82688140828782958285829382938140829482888285829282858140828982938140828e828f",
+        "829782818299814082818292828f8295828e828481408294828882898293814281428142",
+        "82658289828e8285814181408268814082978289828c828c8140828282858140829482888285",
+        "82638285828d828f828e8140826b828f8292828481408289828e81408299828f82958292",
+        "8290828c8281828382858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "That is exactly how a demon thinks。 You already pass with flying colors、 so you should hurry up and turn into a Demon Lord already!",
+        "Quit spouting nonsense。。。! I am going to be the Maiden of Light! No way am I gonna turn into a Demon Lord!!",
+        "From here on out、 I am Demon Lord Prier!",
+        "I guess I will start by gathering some underlings。 I am gonna be one heck of a Demon Lord、 so look forward to it、 Big Sister Prier。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "original": "In the name of the Maiden of Light、 I forbid you to use the  term old hag ever again。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n(Bossy old hag!)\nI heard that。\nAll right all right。。。\nFocus、 Sister Prier。  We must find out why  these zombies are in  the world of the living。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n(Bossy old hag!)\nI heard that。\nAll right all right。。。\nFocus、 Sister Prier。  We must find out why  these zombies are in  the world of the living。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIn the name of the Maiden of Light、 I forbid you to use the  term old hag ever again。",
+  "respuesta": "En nombre de la Doncella de la Luz, te prohíbo que vuelvas a usar la palabra “vieja bruja” nunca más.",
+  "fin": "stop",
+  "segundos": 5.46,
+  "uso": {
+    "completion_tokens": 35,
+    "prompt_tokens": 360,
+    "total_tokens": 395,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "53dac924926abfd956d6",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+      "offset": 133766,
+      "entry_id": 103,
+      "original_hex": [
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "826c8281828982848285828e8140828f82868140826b82898287828882948141",
+        "826881408286828f829282828289828481408299828f829581408294828f814082958293828581408294828882858140",
+        "829482858292828d8140828f828c828481408288828182878140828582968285829281408281828782818289828e8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "(Bossy old hag!)",
+        "I heard that。",
+        "All right all right。。。",
+        "Focus、 Sister Prier。  We must find out why  these zombies are in  the world of the living。"
+      ]
+    }
+  ]
+}

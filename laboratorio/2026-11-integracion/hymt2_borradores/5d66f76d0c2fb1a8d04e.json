@@ -1,0 +1,110 @@
+{
+  "original": "とうとう100%ですね...。 もう、このパプリカ王国にあるアイテムで 持っていないアイテムはないってことです。 歴史の教科書には書いてありましたが、 あたしのこの目で、収集率100%を 見られるだなんて思いませんでした。 景品...はありますが、もうプリエさんたちが 持ってないアイテムはないんですよね...。 10億光年砲、超合金ロボスーツ、 超時空エンジンを手に入れた!!! 本当におつかれさまでした。 この記録は、あたしが責任を持って 後世に伝え続けますね!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nとうとう100%ですね...。 もう、このパプリカ王国にあるアイテムで 持っていないアイテムはないってことです。 歴史の教科書には書いてありましたが、 あたしのこの目で、収集率100%を 見られるだなんて思いませんでした。 景品...はありますが、もうプリエさんたちが 持ってないアイテムはないんですよね...。 10億光年砲、超合金ロボスーツ、 超時空エンジンを手に入れた!!! 本当におつかれさまでした。 この記録は、あたしが責任を持って 後世に伝え続けますね!",
+  "respuesta": "Por fin, es del 100%. Ya no hay ningún objeto en el Reino de Prica que no tenga. Esto está escrito en los libros de historia, pero nunca imaginé que podría ver con mis propios ojos que la tasa de obtención de objetos era del 100%. Hay premios, pero ya no hay ningún objeto que las Price no tengan… He conseguido el “10 mil millones de años de alcance”, el traje robótico de superaleación y el motor de superespacio. ¡Realmente, ha sido un trabajo muy duro! Esta marca la transmitiré a las generaciones futuras, con toda mi responsabilidad.",
+  "fin": "stop",
+  "segundos": 13.43,
+  "uso": {
+    "completion_tokens": 155,
+    "prompt_tokens": 477,
+    "total_tokens": 632,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "5d66f76d0c2fb1a8d04e",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 38929,
+      "entry_id": 222004,
+      "original_hex": [
+        "82c682a482c682a48250824f824f819382c582b782cb81638142",
+        "82e082a4814182b182cc83708376838a834a89a48d9182c982a082e9834183438365838082c5",
+        "8e9d82c182c482a282c882a2834183438365838082cd82c882a282c182c482b182c682c582b78142",
+        "97f08e6a82cc8bb389c88f9182c982cd8f9182a282c482a082e882dc82b582bd82aa8141",
+        "82a082bd82b582cc82b182cc96da82c581418efb8f5797a68250824f824f819382f0",
+        "8ca982e782ea82e982be82c882f182c48e7682a282dc82b982f182c582b582bd8142",
+        "8c699569816382cd82a082e882dc82b782aa814182e082a48376838a834782b382f182bd82bf82aa",
+        "8e9d82c182c482c882a2834183438365838082cd82c882a282f182c582b782e682cb81638142",
+        "8250824f89ad8cf5944e9643814192b48d878be0838d837b8358815b83638141",
+        "92b48e9e8bf3834783938357839382f08ee882c993fc82ea82bd814981498149",
+        "967b939682c982a882c282a982ea82b382dc82c582b582bd8142",
+        "82b182cc8b4c985e82cd814182a082bd82b582aa90d3944382f08e9d82c182c4",
+        "8ce390a282c9936082a691b182af82dc82b782cb8149"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 38897,
+      "entry_id": 222004,
+      "original_hex": [
+        "82c682a482c682a48250824f824f819382c582b782cb81638142",
+        "82e082a4814182b182cc83708376838a834a89a48d9182c982a082e9834183438365838082c5",
+        "8e9d82c182c482a282c882a2834183438365838082cd82c882a282c182c482b182c682c582b78142",
+        "97f08e6a82cc8bb389c88f9182c982cd8f9182a282c482a082e882dc82b582bd82aa8141",
+        "82a082bd82b582cc82b182cc96da82c581418efb8f5797a68250824f824f819382f0",
+        "8ca982e782ea82e982be82c882f182c48e7682a282dc82b982f182c582b582bd8142",
+        "8c699569816382cd82a082e882dc82b782aa814182e082a48376838a834782b382f182bd82bf82aa",
+        "8e9d82c182c482c882a2834183438365838082cd82c882a282f182c582b782e682cb81638142",
+        "8250824f89ad8cf5944e9643814192b48d878be0838d837b8358815b83638141",
+        "92b48e9e8bf3834783938357839382f08ee882c993fc82ea82bd814981498149",
+        "967b939682c982a882c282a982ea82b382dc82c582b582bd8142",
+        "82b182cc8b4c985e82cd814182a082bd82b582aa90d3944382f08e9d82c182c4",
+        "8ce390a282c9936082a691b182af82dc82b782cb8149"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 39121,
+      "entry_id": 222004,
+      "original_hex": [
+        "82c682a482c682a48250824f824f819382c582b782cb81638142",
+        "82e082a4814182b182cc83708376838a834a89a48d9182c982a082e9834183438365838082c5",
+        "8e9d82c182c482a282c882a2834183438365838082cd82c882a282c182c482b182c682c582b78142",
+        "97f08e6a82cc8bb389c88f9182c982cd8f9182a282c482a082e882dc82b582bd82aa8141",
+        "82a082bd82b582cc82b182cc96da82c581418efb8f5797a68250824f824f819382f0",
+        "8ca982e782ea82e982be82c882f182c48e7682a282dc82b982f182c582b582bd8142",
+        "8c699569816382cd82a082e882dc82b782aa814182e082a48376838a834782b382f182bd82bf82aa",
+        "8e9d82c182c482c882a2834183438365838082cd82c882a282f182c582b782e682cb81638142",
+        "8250824f89ad8cf5944e9643814192b48d878be0838d837b8358815b83638141",
+        "92b48e9e8bf3834783938357839382f08ee882c993fc82ea82bd814981498149",
+        "967b939682c982a882c282a982ea82b382dc82c582b582bd8142",
+        "82b182cc8b4c985e82cd814182a082bd82b582aa90d3944382f08e9d82c182c4",
+        "8ce390a282c9936082a691b182af82dc82b782cb8149"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 39089,
+      "entry_id": 222004,
+      "original_hex": [
+        "82c682a482c682a48250824f824f819382c582b782cb81638142",
+        "82e082a4814182b182cc83708376838a834a89a48d9182c982a082e9834183438365838082c5",
+        "8e9d82c182c482a282c882a2834183438365838082cd82c882a282c182c482b182c682c582b78142",
+        "97f08e6a82cc8bb389c88f9182c982cd8f9182a282c482a082e882dc82b582bd82aa8141",
+        "82a082bd82b582cc82b182cc96da82c581418efb8f5797a68250824f824f819382f0",
+        "8ca982e782ea82e982be82c882f182c48e7682a282dc82b982f182c582b582bd8142",
+        "8c699569816382cd82a082e882dc82b782aa814182e082a48376838a834782b382f182bd82bf82aa",
+        "8e9d82c182c482c882a2834183438365838082cd82c882a282f182c582b782e682cb81638142",
+        "8250824f89ad8cf5944e9643814192b48d878be0838d837b8358815b83638141",
+        "92b48e9e8bf3834783938357839382f08ee882c993fc82ea82bd814981498149",
+        "967b939682c982a882c282a982ea82b382dc82c582b582bd8142",
+        "82b182cc8b4c985e82cd814182a082bd82b582aa90d3944382f08e9d82c182c4",
+        "8ce390a282c9936082a691b182af82dc82b782cb8149"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

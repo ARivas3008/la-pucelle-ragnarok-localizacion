@@ -1,0 +1,40 @@
+{
+  "original": "And then you will see just how little your Goddess can do for you。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nOh Goddess Poitreene、 please protect us and these innocent villagers。\nThis should be interesting! You and your precious villagers will scream in agony。\nA demon lord?!?!\nIs it him?!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nOh Goddess Poitreene、 please protect us and these innocent villagers。\nThis should be interesting! You and your precious villagers will scream in agony。\nA demon lord?!?!\nIs it him?!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nAnd then you will see just how little your Goddess can do for you。",
+  "respuesta": "Y entonces verás cuán poco puede hacer tu diosa por ti.",
+  "fin": "stop",
+  "segundos": 1.95,
+  "uso": {
+    "completion_tokens": 17,
+    "prompt_tokens": 351,
+    "total_tokens": 368,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "b894b36cf6e909abafb2",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 125218,
+      "entry_id": 902,
+      "original_hex": [
+        "8260828e82848140829482888285828e81408299828f8295814082978289828c828c8140829382858285",
+        "828a82958293829481408288828f82978140828c828982948294828c828581408299828f82958292",
+        "8266828f82848284828582938293814082838281828e81408284828f81408286828f8292",
+        "8299828f82958142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Oh Goddess Poitreene、 please protect us and these innocent villagers。",
+        "This should be interesting! You and your precious villagers will scream in agony。",
+        "A demon lord?!?!",
+        "Is it him?!"
+      ]
+    }
+  ]
+}

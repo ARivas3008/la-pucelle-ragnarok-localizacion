@@ -1,0 +1,41 @@
+{
+  "original": "You know。。。 The most redeeming quality Prier has is being honest with herself。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYes、 just like that。 This is how you should act、 Big Sister Prier。 Keep this up and become even more honest with yourself。\nI have no clue what the hell you keep going on about!\nI have more redeeming qualities than just that! Like how cute I am。 Or how nice I am!\nQuit trying to dodge my question with your trivial chitchat!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYes、 just like that。 This is how you should act、 Big Sister Prier。 Keep this up and become even more honest with yourself。\nI have no clue what the hell you keep going on about!\nI have more redeeming qualities than just that! Like how cute I am。 Or how nice I am!\nQuit trying to dodge my question with your trivial chitchat!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou know。。。 The most redeeming quality Prier has is being honest with herself。",
+  "respuesta": "Sabes… La mejor cualidad de Prier es ser honesta consigo misma.",
+  "fin": "stop",
+  "segundos": 3.24,
+  "uso": {
+    "completion_tokens": 21,
+    "prompt_tokens": 390,
+    "total_tokens": 411,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "a6d6e6cce7219b7c4f4c",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 84838,
+      "entry_id": 1605,
+      "original_hex": [
+        "8278828f82958140828b828e828f8297814281428142",
+        "8273828882858140828d828f82938294814082928285828482858285828d8289828e8287",
+        "829182958281828c8289829482998140826f82928289828582928140828882818293814082898293",
+        "828282858289828e828781408288828f828e82858293829481408297828982948288",
+        "82888285829282938285828c82868142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yes、 just like that。 This is how you should act、 Big Sister Prier。 Keep this up and become even more honest with yourself。",
+        "I have no clue what the hell you keep going on about!",
+        "I have more redeeming qualities than just that! Like how cute I am。 Or how nice I am!",
+        "Quit trying to dodge my question with your trivial chitchat!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "original": "高低差について",
+  "contexto": "Menu selection: keep the translation short. Adjacent lines in the same event:\n敵をフクロだたきにする方法\n攻撃方向について\nやめる",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nMenu selection: keep the translation short. Adjacent lines in the same event:\n敵をフクロだたきにする方法\n攻撃方向について\nやめる\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n高低差について",
+  "respuesta": "Información de contexto:  \nEsta es una conversación o menú de La Pucelle Ragnarok, un juego de rol táctico y fantástico. Traduzca el texto al español de manera que sea adecuado para un juego. Use “tú” para referirse a los compañeros y “usted” cuando un personaje se dirige respetuosamente al sacerdote. No agregue explicaciones, notas, nombres de personajes o eventos que no estén presentes en el texto original.  \nGlosario: プリエ = Orar; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = Prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = Perder el tiempo (idioma local). Mantenga los nombres de los personajes y los marcadores variables como A1, A2, %s y %d exactamente igual. Deje las oraciones inacabadas tal como están; no invente sus finales. Utilice signos de interrogación y exclamación en español.  \nContexto de la escena: No traduzca esta sección.  \nSelección del menú: Mantenga la traducción breve. Líneas adyacentes para el mismo evento:  \nCómo destruir al enemigo con facilidad.  \nDirección de ataque.  \nDejar de hacerlo.",
+  "fin": "stop",
+  "segundos": 28.09,
+  "uso": {
+    "completion_tokens": 426,
+    "prompt_tokens": 323,
+    "total_tokens": 749,
+    "prompt_tokens_details": {
+      "cached_tokens": 284
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "5fb24afd307628699ed4",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 19321,
+      "entry_id": 201791,
+      "original_hex": [
+        "8d8292e18db782c982c282a282c4"
+      ],
+      "opcion": true,
+      "contexto": [
+        "敵をフクロだたきにする方法",
+        "攻撃方向について",
+        "やめる"
+      ]
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 19289,
+      "entry_id": 201791,
+      "original_hex": [
+        "8d8292e18db782c982c282a282c4"
+      ],
+      "opcion": true,
+      "contexto": [
+        "敵をフクロだたきにする方法",
+        "攻撃方向について",
+        "やめる"
+      ]
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 19513,
+      "entry_id": 201791,
+      "original_hex": [
+        "8d8292e18db782c982c282a282c4"
+      ],
+      "opcion": true,
+      "contexto": [
+        "敵をフクロだたきにする方法",
+        "攻撃方向について",
+        "やめる"
+      ]
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 19481,
+      "entry_id": 201791,
+      "original_hex": [
+        "8d8292e18db782c982c282a282c4"
+      ],
+      "opcion": true,
+      "contexto": [
+        "敵をフクロだたきにする方法",
+        "攻撃方向について",
+        "やめる"
+      ]
+    }
+  ]
+}

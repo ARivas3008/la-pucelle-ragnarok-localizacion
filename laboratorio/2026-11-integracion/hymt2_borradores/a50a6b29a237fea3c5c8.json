@@ -1,0 +1,38 @@
+{
+  "original": "To think that Prier is actually friends with the Queen。。。 Talk about surprising。 Guess you cannot tell a book by its cover、 huh?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nTo think that Prier is actually friends with the Queen。。。 Talk about surprising。 Guess you cannot tell a book by its cover、 huh?",
+  "respuesta": "Pensar que Prier realmente es amigo de la Reina… Qué sorprendente. Supongo que no se puede reconocer a una persona por su cubierta, ¿verdad?",
+  "fin": "stop",
+  "segundos": 3.14,
+  "uso": {
+    "completion_tokens": 44,
+    "prompt_tokens": 324,
+    "total_tokens": 368,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "a50a6b29a237fea3c5c8",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+      "offset": 65844,
+      "entry_id": 271501,
+      "original_hex": [
+        "8273828f8140829482888289828e828b814082948288828182948140826f8292828982858292814082898293",
+        "82818283829482958281828c828c829981408286829282898285828e8284829381408297828982948288",
+        "82948288828581408270829582858285828e814281428142",
+        "82738281828c828b814082818282828f82958294814082938295829282908292828982938289828e82878142",
+        "8266829582858293829381408299828f8295814082838281828e828e828f8294814082948285828c828c",
+        "828181408282828f828f828b814082828299814082898294829381408283828f8296828582928141",
+        "8288829582888148"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

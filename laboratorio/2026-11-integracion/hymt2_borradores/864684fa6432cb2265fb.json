@@ -1,0 +1,36 @@
+{
+  "original": "There are no more clues left in this village。 How about we head to the next town?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThere are no more clues left in this village。 How about we head to the next town?",
+  "respuesta": "Ya no quedan más pistas en este pueblo. ¿Qué tal si nos dirigimos al siguiente pueblo?",
+  "fin": "stop",
+  "segundos": 1.68,
+  "uso": {
+    "completion_tokens": 25,
+    "prompt_tokens": 314,
+    "total_tokens": 339,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "864684fa6432cb2265fb",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 100371,
+      "entry_id": 278601,
+      "original_hex": [
+        "8273828882858292828581408281829282858140828e828f8140828d828f82928285",
+        "8283828c8295828582938140828c82858286829481408289828e81408294828882898293",
+        "82968289828c828c8281828782858142",
+        "8267828f8297814082818282828f8295829481408297828581408288828582818284",
+        "8294828f81408294828882858140828e82858298829481408294828f8297828e8148"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

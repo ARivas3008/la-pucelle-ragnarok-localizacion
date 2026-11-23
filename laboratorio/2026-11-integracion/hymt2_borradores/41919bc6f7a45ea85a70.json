@@ -1,0 +1,39 @@
+{
+  "original": "Her eyes were clear and bright。。。 Like yours。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nBut that girl。。。 Prier。。。\nHer eyes were different from those of the humans who killed you。。。\nMother。。。Do you remember what you told me just before you died?\nYou said that there were good and bad demons、 just as there were good and bad humans。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nBut that girl。。。 Prier。。。\nHer eyes were different from those of the humans who killed you。。。\nMother。。。Do you remember what you told me just before you died?\nYou said that there were good and bad demons、 just as there were good and bad humans。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nHer eyes were clear and bright。。。 Like yours。。。",
+  "respuesta": "Sus ojos eran claros y brillantes… Como los tuyos.",
+  "fin": "stop",
+  "segundos": 1.77,
+  "uso": {
+    "completion_tokens": 15,
+    "prompt_tokens": 360,
+    "total_tokens": 375,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "41919bc6f7a45ea85a70",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk12_jp.dat",
+      "offset": 108744,
+      "entry_id": 1201,
+      "original_hex": [
+        "826782858292814082858299828582938140829782858292828581408283828c828582818292",
+        "8281828e82848140828282928289828782888294814281428142",
+        "826b8289828b828581408299828f829582928293814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "But that girl。。。 Prier。。。",
+        "Her eyes were different from those of the humans who killed you。。。",
+        "Mother。。。Do you remember what you told me just before you died?",
+        "You said that there were good and bad demons、 just as there were good and bad humans。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "original": "Do not let your strength go to your head、 right? I know、 I know。 I never let it go to my head in the first place!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI am perfectly fine、 thank you! I am just saying that、 as long as I am here、 these demons will be a piece of cake!\nRestrain yourself a bit、 Sister Prier! Have you forgotten what Father Salade said already?\nKnock it off with the snotty attitude、 Prier。 Everyone is worried about you、 and this is how you act?\nI never asked for anyone to worry about me、 thank you very much! More importantly、 we need to get on with this job!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI am perfectly fine、 thank you! I am just saying that、 as long as I am here、 these demons will be a piece of cake!\nRestrain yourself a bit、 Sister Prier! Have you forgotten what Father Salade said already?\nKnock it off with the snotty attitude、 Prier。 Everyone is worried about you、 and this is how you act?\nI never asked for anyone to worry about me、 thank you very much! More importantly、 we need to get on with this job!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nDo not let your strength go to your head、 right? I know、 I know。 I never let it go to my head in the first place!",
+  "respuesta": "No dejes que tu fuerza te domine, ¿verdad? Lo sé, lo sé. De todas formas, nunca dejo que eso me domine. ¡Estos demonios serán un juego de niños, siempre y cuando yo esté aquí!  \nPor favor, contén tu ira, hermana Prier. ¿Acaso has olvidado lo que dijo el padre Salade?  \nDeja de actuar con arrogancia, Prier. Todos están preocupados por ti, ¿y así es como te comportas?  \nNunca pedí que nadie se preocupara por mí, gracias. Lo más importante es que debemos seguir con esta tarea.",
+  "fin": "stop",
+  "segundos": 11.64,
+  "uso": {
+    "completion_tokens": 156,
+    "prompt_tokens": 430,
+    "total_tokens": 586,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "bd1168056afd258415ae",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 78869,
+      "entry_id": 1503,
+      "original_hex": [
+        "8263828f8140828e828f82948140828c8285829481408299828f8295829281408293829482928285828e828782948288",
+        "8287828f81408294828f81408299828f829582928140828882858281828481418140829282898287828882948148",
+        "82688140828b828e828f82978141814082688140828b828e828f82978142",
+        "82688140828e82858296828582928140828c8285829481408289829481408287828f81408294828f8140828d8299",
+        "828882858281828481408289828e814082948288828581408286828982928293829481408290828c8281828382858149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I am perfectly fine、 thank you! I am just saying that、 as long as I am here、 these demons will be a piece of cake!",
+        "Restrain yourself a bit、 Sister Prier! Have you forgotten what Father Salade said already?",
+        "Knock it off with the snotty attitude、 Prier。 Everyone is worried about you、 and this is how you act?",
+        "I never asked for anyone to worry about me、 thank you very much! More importantly、 we need to get on with this job!"
+      ]
+    }
+  ]
+}

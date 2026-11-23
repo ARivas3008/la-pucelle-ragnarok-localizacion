@@ -1,0 +1,3536 @@
+{
+  "estados": {
+    "REUBICACION_ESTRUCTURAL": 503,
+    "EXCLUIDO_NOW_LOADING": 1
+  },
+  "reporte": [
+    {
+      "unit_id": "1741",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 881921
+    },
+    {
+      "unit_id": "1742",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 881944
+    },
+    {
+      "unit_id": "1743",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 881973
+    },
+    {
+      "unit_id": "1744",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "EXCLUIDO_NOW_LOADING",
+      "motivo": "Conservado a solicitud del usuario",
+      "offset": 882022
+    },
+    {
+      "unit_id": "1745",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 882043
+    },
+    {
+      "unit_id": "1746",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 882343
+    },
+    {
+      "unit_id": "1747",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 886819
+    },
+    {
+      "unit_id": "1748",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 896633
+    },
+    {
+      "unit_id": "1749",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 896663
+    },
+    {
+      "unit_id": "1750",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 896739
+    },
+    {
+      "unit_id": "1751",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 896777
+    },
+    {
+      "unit_id": "1752",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 896869
+    },
+    {
+      "unit_id": "1753",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 896909
+    },
+    {
+      "unit_id": "1754",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 897261
+    },
+    {
+      "unit_id": "1755",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 897315
+    },
+    {
+      "unit_id": "1756",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 901033
+    },
+    {
+      "unit_id": "1757",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 901182
+    },
+    {
+      "unit_id": "1758",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 901236
+    },
+    {
+      "unit_id": "1759",
+      "recurso": "DLC_00/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 901428
+    },
+    {
+      "unit_id": "3797",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3103
+    },
+    {
+      "unit_id": "3798",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3124
+    },
+    {
+      "unit_id": "3799",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3210
+    },
+    {
+      "unit_id": "3800",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3255
+    },
+    {
+      "unit_id": "3801",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3298
+    },
+    {
+      "unit_id": "3802",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3345
+    },
+    {
+      "unit_id": "3803",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3462
+    },
+    {
+      "unit_id": "3804",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3505
+    },
+    {
+      "unit_id": "3805",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3596
+    },
+    {
+      "unit_id": "3806",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3641
+    },
+    {
+      "unit_id": "3807",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3710
+    },
+    {
+      "unit_id": "3808",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3753
+    },
+    {
+      "unit_id": "3809",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3848
+    },
+    {
+      "unit_id": "3810",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3889
+    },
+    {
+      "unit_id": "3811",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3993
+    },
+    {
+      "unit_id": "3812",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4042
+    },
+    {
+      "unit_id": "3813",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4075
+    },
+    {
+      "unit_id": "3814",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 21807
+    },
+    {
+      "unit_id": "3815",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27014
+    },
+    {
+      "unit_id": "3816",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27047
+    },
+    {
+      "unit_id": "3817",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27081
+    },
+    {
+      "unit_id": "3818",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27120
+    },
+    {
+      "unit_id": "3819",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27162
+    },
+    {
+      "unit_id": "3820",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27197
+    },
+    {
+      "unit_id": "3821",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27215
+    },
+    {
+      "unit_id": "3822",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27286
+    },
+    {
+      "unit_id": "3823",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27321
+    },
+    {
+      "unit_id": "3824",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27365
+    },
+    {
+      "unit_id": "3825",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27395
+    },
+    {
+      "unit_id": "3826",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27423
+    },
+    {
+      "unit_id": "3827",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27461
+    },
+    {
+      "unit_id": "3828",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27485
+    },
+    {
+      "unit_id": "3829",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27525
+    },
+    {
+      "unit_id": "3830",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27549
+    },
+    {
+      "unit_id": "3831",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27636
+    },
+    {
+      "unit_id": "3832",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27671
+    },
+    {
+      "unit_id": "3833",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27720
+    },
+    {
+      "unit_id": "3834",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27759
+    },
+    {
+      "unit_id": "3835",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27803
+    },
+    {
+      "unit_id": "3836",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27836
+    },
+    {
+      "unit_id": "3837",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27873
+    },
+    {
+      "unit_id": "3838",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27922
+    },
+    {
+      "unit_id": "3839",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27959
+    },
+    {
+      "unit_id": "3840",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28052
+    },
+    {
+      "unit_id": "3841",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28087
+    },
+    {
+      "unit_id": "3842",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28116
+    },
+    {
+      "unit_id": "3843",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28140
+    },
+    {
+      "unit_id": "3844",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28186
+    },
+    {
+      "unit_id": "3845",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28214
+    },
+    {
+      "unit_id": "3846",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28246
+    },
+    {
+      "unit_id": "3847",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28285
+    },
+    {
+      "unit_id": "3848",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28317
+    },
+    {
+      "unit_id": "3849",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28347
+    },
+    {
+      "unit_id": "3850",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28390
+    },
+    {
+      "unit_id": "3851",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28410
+    },
+    {
+      "unit_id": "3852",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28434
+    },
+    {
+      "unit_id": "3853",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 32861
+    },
+    {
+      "unit_id": "3854",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4166
+    },
+    {
+      "unit_id": "3855",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4240
+    },
+    {
+      "unit_id": "3856",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4275
+    },
+    {
+      "unit_id": "3857",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4308
+    },
+    {
+      "unit_id": "3858",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4339
+    },
+    {
+      "unit_id": "3859",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4754
+    },
+    {
+      "unit_id": "3860",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4769
+    },
+    {
+      "unit_id": "3861",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4841
+    },
+    {
+      "unit_id": "3862",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4876
+    },
+    {
+      "unit_id": "3863",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5612
+    },
+    {
+      "unit_id": "3864",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5659
+    },
+    {
+      "unit_id": "3865",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5741
+    },
+    {
+      "unit_id": "3866",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5782
+    },
+    {
+      "unit_id": "3867",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5872
+    },
+    {
+      "unit_id": "3868",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5983
+    },
+    {
+      "unit_id": "3869",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6059
+    },
+    {
+      "unit_id": "3870",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6096
+    },
+    {
+      "unit_id": "3871",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6689
+    },
+    {
+      "unit_id": "3872",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6720
+    },
+    {
+      "unit_id": "3873",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6749
+    },
+    {
+      "unit_id": "3874",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8004
+    },
+    {
+      "unit_id": "3875",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8082
+    },
+    {
+      "unit_id": "3876",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8151
+    },
+    {
+      "unit_id": "3877",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8190
+    },
+    {
+      "unit_id": "3878",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8259
+    },
+    {
+      "unit_id": "3879",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8286
+    },
+    {
+      "unit_id": "3880",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8323
+    },
+    {
+      "unit_id": "3881",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8396
+    },
+    {
+      "unit_id": "3882",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8433
+    },
+    {
+      "unit_id": "3883",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8468
+    },
+    {
+      "unit_id": "3884",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8541
+    },
+    {
+      "unit_id": "3885",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8580
+    },
+    {
+      "unit_id": "3886",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8659
+    },
+    {
+      "unit_id": "3887",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8686
+    },
+    {
+      "unit_id": "3888",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8727
+    },
+    {
+      "unit_id": "3889",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8770
+    },
+    {
+      "unit_id": "3890",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8845
+    },
+    {
+      "unit_id": "3891",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8872
+    },
+    {
+      "unit_id": "3892",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8967
+    },
+    {
+      "unit_id": "3893",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 10680
+    },
+    {
+      "unit_id": "3894",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 10702
+    },
+    {
+      "unit_id": "3895",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 10757
+    },
+    {
+      "unit_id": "3896",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 10785
+    },
+    {
+      "unit_id": "3897",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 23689
+    },
+    {
+      "unit_id": "3898",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 23747
+    },
+    {
+      "unit_id": "3899",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 23856
+    },
+    {
+      "unit_id": "3900",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 23903
+    },
+    {
+      "unit_id": "3901",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 23975
+    },
+    {
+      "unit_id": "3902",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 24012
+    },
+    {
+      "unit_id": "3903",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 24070
+    },
+    {
+      "unit_id": "3904",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 24117
+    },
+    {
+      "unit_id": "3905",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 24144
+    },
+    {
+      "unit_id": "3906",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 24234
+    },
+    {
+      "unit_id": "3907",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 24285
+    },
+    {
+      "unit_id": "3908",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 7753
+    },
+    {
+      "unit_id": "3909",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 7824
+    },
+    {
+      "unit_id": "3910",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 7857
+    },
+    {
+      "unit_id": "3911",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 7952
+    },
+    {
+      "unit_id": "3912",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 7975
+    },
+    {
+      "unit_id": "3913",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 7998
+    },
+    {
+      "unit_id": "3914",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 9088
+    },
+    {
+      "unit_id": "3915",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 9181
+    },
+    {
+      "unit_id": "3916",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 9220
+    },
+    {
+      "unit_id": "3917",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 9241
+    },
+    {
+      "unit_id": "3918",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 9272
+    },
+    {
+      "unit_id": "3919",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 9367
+    },
+    {
+      "unit_id": "3920",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 9400
+    },
+    {
+      "unit_id": "3921",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 9431
+    },
+    {
+      "unit_id": "3922",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script04.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38288
+    },
+    {
+      "unit_id": "3923",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script04.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38358
+    },
+    {
+      "unit_id": "3924",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script04.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38378
+    },
+    {
+      "unit_id": "3925",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5856
+    },
+    {
+      "unit_id": "3926",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5927
+    },
+    {
+      "unit_id": "3927",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5977
+    },
+    {
+      "unit_id": "3928",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6053
+    },
+    {
+      "unit_id": "3929",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6097
+    },
+    {
+      "unit_id": "3930",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6173
+    },
+    {
+      "unit_id": "3931",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6215
+    },
+    {
+      "unit_id": "3932",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6301
+    },
+    {
+      "unit_id": "3933",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6349
+    },
+    {
+      "unit_id": "3934",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6399
+    },
+    {
+      "unit_id": "3935",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 18611
+    },
+    {
+      "unit_id": "3936",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 18627
+    },
+    {
+      "unit_id": "3937",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 18724
+    },
+    {
+      "unit_id": "3938",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 18768
+    },
+    {
+      "unit_id": "3939",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 18899
+    },
+    {
+      "unit_id": "3940",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 22888
+    },
+    {
+      "unit_id": "3941",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 22985
+    },
+    {
+      "unit_id": "3942",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 23029
+    },
+    {
+      "unit_id": "3943",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 23160
+    },
+    {
+      "unit_id": "3944",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27402
+    },
+    {
+      "unit_id": "3945",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27499
+    },
+    {
+      "unit_id": "3946",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27543
+    },
+    {
+      "unit_id": "3947",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27674
+    },
+    {
+      "unit_id": "3948",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 8049
+    },
+    {
+      "unit_id": "3949",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27960
+    },
+    {
+      "unit_id": "3950",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27998
+    },
+    {
+      "unit_id": "3951",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28034
+    },
+    {
+      "unit_id": "3952",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28119
+    },
+    {
+      "unit_id": "3953",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28226
+    },
+    {
+      "unit_id": "3954",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28264
+    },
+    {
+      "unit_id": "3955",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28302
+    },
+    {
+      "unit_id": "3956",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28393
+    },
+    {
+      "unit_id": "3957",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28433
+    },
+    {
+      "unit_id": "3958",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28516
+    },
+    {
+      "unit_id": "3959",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28552
+    },
+    {
+      "unit_id": "3960",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28659
+    },
+    {
+      "unit_id": "3961",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28695
+    },
+    {
+      "unit_id": "3962",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28797
+    },
+    {
+      "unit_id": "3963",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28837
+    },
+    {
+      "unit_id": "3964",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28922
+    },
+    {
+      "unit_id": "3965",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28954
+    },
+    {
+      "unit_id": "3966",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28989
+    },
+    {
+      "unit_id": "3967",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29031
+    },
+    {
+      "unit_id": "3968",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29114
+    },
+    {
+      "unit_id": "3969",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29166
+    },
+    {
+      "unit_id": "3970",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29267
+    },
+    {
+      "unit_id": "3971",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29315
+    },
+    {
+      "unit_id": "3972",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29359
+    },
+    {
+      "unit_id": "3973",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29475
+    },
+    {
+      "unit_id": "3974",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29500
+    },
+    {
+      "unit_id": "3975",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29593
+    },
+    {
+      "unit_id": "3976",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29615
+    },
+    {
+      "unit_id": "3977",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29716
+    },
+    {
+      "unit_id": "3978",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29751
+    },
+    {
+      "unit_id": "3979",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 33575
+    },
+    {
+      "unit_id": "3980",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script07.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 1755
+    },
+    {
+      "unit_id": "3981",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script07.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 2038
+    },
+    {
+      "unit_id": "3982",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script07.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 2104
+    },
+    {
+      "unit_id": "3983",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script07.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 2188
+    },
+    {
+      "unit_id": "3984",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3563
+    },
+    {
+      "unit_id": "3985",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3641
+    },
+    {
+      "unit_id": "3986",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3715
+    },
+    {
+      "unit_id": "3987",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3815
+    },
+    {
+      "unit_id": "3988",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3848
+    },
+    {
+      "unit_id": "3989",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3930
+    },
+    {
+      "unit_id": "3990",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 3977
+    },
+    {
+      "unit_id": "3991",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4073
+    },
+    {
+      "unit_id": "3992",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4110
+    },
+    {
+      "unit_id": "3993",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4739
+    },
+    {
+      "unit_id": "3994",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4825
+    },
+    {
+      "unit_id": "3995",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4862
+    },
+    {
+      "unit_id": "3996",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4946
+    },
+    {
+      "unit_id": "3997",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4979
+    },
+    {
+      "unit_id": "3998",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5071
+    },
+    {
+      "unit_id": "3999",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5092
+    },
+    {
+      "unit_id": "4000",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5170
+    },
+    {
+      "unit_id": "4001",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5189
+    },
+    {
+      "unit_id": "4002",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5222
+    },
+    {
+      "unit_id": "4003",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19652
+    },
+    {
+      "unit_id": "4004",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19675
+    },
+    {
+      "unit_id": "4005",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19759
+    },
+    {
+      "unit_id": "4006",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19845
+    },
+    {
+      "unit_id": "4007",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19874
+    },
+    {
+      "unit_id": "4008",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27217
+    },
+    {
+      "unit_id": "4009",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39584
+    },
+    {
+      "unit_id": "4010",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39674
+    },
+    {
+      "unit_id": "4011",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39754
+    },
+    {
+      "unit_id": "4012",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39834
+    },
+    {
+      "unit_id": "4013",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39870
+    },
+    {
+      "unit_id": "4014",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39908
+    },
+    {
+      "unit_id": "4015",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script11.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6835
+    },
+    {
+      "unit_id": "4016",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26335
+    },
+    {
+      "unit_id": "4017",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26384
+    },
+    {
+      "unit_id": "4018",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26464
+    },
+    {
+      "unit_id": "4019",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26493
+    },
+    {
+      "unit_id": "4020",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26589
+    },
+    {
+      "unit_id": "4021",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26614
+    },
+    {
+      "unit_id": "4022",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26645
+    },
+    {
+      "unit_id": "4023",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26743
+    },
+    {
+      "unit_id": "4024",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26768
+    },
+    {
+      "unit_id": "4025",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26805
+    },
+    {
+      "unit_id": "4026",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26877
+    },
+    {
+      "unit_id": "4027",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26910
+    },
+    {
+      "unit_id": "4028",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 26988
+    },
+    {
+      "unit_id": "4029",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27017
+    },
+    {
+      "unit_id": "4030",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27144
+    },
+    {
+      "unit_id": "4031",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27183
+    },
+    {
+      "unit_id": "4032",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27281
+    },
+    {
+      "unit_id": "4033",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27322
+    },
+    {
+      "unit_id": "4034",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27418
+    },
+    {
+      "unit_id": "4035",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27461
+    },
+    {
+      "unit_id": "4036",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27500
+    },
+    {
+      "unit_id": "4037",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27578
+    },
+    {
+      "unit_id": "4038",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27607
+    },
+    {
+      "unit_id": "4039",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27654
+    },
+    {
+      "unit_id": "4040",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27739
+    },
+    {
+      "unit_id": "4041",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27752
+    },
+    {
+      "unit_id": "4042",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27795
+    },
+    {
+      "unit_id": "4043",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27881
+    },
+    {
+      "unit_id": "4044",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27922
+    },
+    {
+      "unit_id": "4045",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27953
+    },
+    {
+      "unit_id": "4046",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 27980
+    },
+    {
+      "unit_id": "4047",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28064
+    },
+    {
+      "unit_id": "4048",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28107
+    },
+    {
+      "unit_id": "4049",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28187
+    },
+    {
+      "unit_id": "4050",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28218
+    },
+    {
+      "unit_id": "4051",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28251
+    },
+    {
+      "unit_id": "4052",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28341
+    },
+    {
+      "unit_id": "4053",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28366
+    },
+    {
+      "unit_id": "4054",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28573
+    },
+    {
+      "unit_id": "4055",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28590
+    },
+    {
+      "unit_id": "4056",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28680
+    },
+    {
+      "unit_id": "4057",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28709
+    },
+    {
+      "unit_id": "4058",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28815
+    },
+    {
+      "unit_id": "4059",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28926
+    },
+    {
+      "unit_id": "4060",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 28959
+    },
+    {
+      "unit_id": "4061",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29000
+    },
+    {
+      "unit_id": "4062",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29100
+    },
+    {
+      "unit_id": "4063",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29311
+    },
+    {
+      "unit_id": "4064",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29360
+    },
+    {
+      "unit_id": "4065",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29464
+    },
+    {
+      "unit_id": "4066",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 29499
+    },
+    {
+      "unit_id": "4067",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 35082
+    },
+    {
+      "unit_id": "4068",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 2838
+    },
+    {
+      "unit_id": "4069",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 2921
+    },
+    {
+      "unit_id": "4070",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 2956
+    },
+    {
+      "unit_id": "4071",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5412
+    },
+    {
+      "unit_id": "4072",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5439
+    },
+    {
+      "unit_id": "4073",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5514
+    },
+    {
+      "unit_id": "4074",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5549
+    },
+    {
+      "unit_id": "4075",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5640
+    },
+    {
+      "unit_id": "4076",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5677
+    },
+    {
+      "unit_id": "4077",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6028
+    },
+    {
+      "unit_id": "4078",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6079
+    },
+    {
+      "unit_id": "4079",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6142
+    },
+    {
+      "unit_id": "4080",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6699
+    },
+    {
+      "unit_id": "4081",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6722
+    },
+    {
+      "unit_id": "4082",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6838
+    },
+    {
+      "unit_id": "4083",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6915
+    },
+    {
+      "unit_id": "4084",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 18311
+    },
+    {
+      "unit_id": "4085",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 18338
+    },
+    {
+      "unit_id": "4086",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4739
+    },
+    {
+      "unit_id": "4087",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4770
+    },
+    {
+      "unit_id": "4088",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4837
+    },
+    {
+      "unit_id": "4089",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4874
+    },
+    {
+      "unit_id": "4090",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4901
+    },
+    {
+      "unit_id": "4091",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 4980
+    },
+    {
+      "unit_id": "4092",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5011
+    },
+    {
+      "unit_id": "4093",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5098
+    },
+    {
+      "unit_id": "4094",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5135
+    },
+    {
+      "unit_id": "4095",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5180
+    },
+    {
+      "unit_id": "4096",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5247
+    },
+    {
+      "unit_id": "4097",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5268
+    },
+    {
+      "unit_id": "4098",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5309
+    },
+    {
+      "unit_id": "4099",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5386
+    },
+    {
+      "unit_id": "4100",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 5469
+    },
+    {
+      "unit_id": "4101",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19516
+    },
+    {
+      "unit_id": "4102",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19549
+    },
+    {
+      "unit_id": "4103",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19624
+    },
+    {
+      "unit_id": "4104",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19655
+    },
+    {
+      "unit_id": "4105",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19684
+    },
+    {
+      "unit_id": "4106",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19769
+    },
+    {
+      "unit_id": "4107",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 19810
+    },
+    {
+      "unit_id": "4108",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script17.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 6100
+    },
+    {
+      "unit_id": "4109",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 37338
+    },
+    {
+      "unit_id": "4110",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 37367
+    },
+    {
+      "unit_id": "4111",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38472
+    },
+    {
+      "unit_id": "4112",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38543
+    },
+    {
+      "unit_id": "4113",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38616
+    },
+    {
+      "unit_id": "4114",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38653
+    },
+    {
+      "unit_id": "4115",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38682
+    },
+    {
+      "unit_id": "4116",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38761
+    },
+    {
+      "unit_id": "4117",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38790
+    },
+    {
+      "unit_id": "4118",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38875
+    },
+    {
+      "unit_id": "4119",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38900
+    },
+    {
+      "unit_id": "4120",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 38921
+    },
+    {
+      "unit_id": "4121",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39369
+    },
+    {
+      "unit_id": "4122",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39382
+    },
+    {
+      "unit_id": "4123",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39405
+    },
+    {
+      "unit_id": "4124",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39486
+    },
+    {
+      "unit_id": "4125",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39529
+    },
+    {
+      "unit_id": "4126",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39612
+    },
+    {
+      "unit_id": "4127",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39659
+    },
+    {
+      "unit_id": "4128",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 39995
+    },
+    {
+      "unit_id": "4129",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40040
+    },
+    {
+      "unit_id": "4130",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40081
+    },
+    {
+      "unit_id": "4131",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40148
+    },
+    {
+      "unit_id": "4132",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40183
+    },
+    {
+      "unit_id": "4133",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40270
+    },
+    {
+      "unit_id": "4134",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40303
+    },
+    {
+      "unit_id": "4135",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40340
+    },
+    {
+      "unit_id": "4136",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40532
+    },
+    {
+      "unit_id": "4137",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40567
+    },
+    {
+      "unit_id": "4138",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40630
+    },
+    {
+      "unit_id": "4139",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 40728
+    },
+    {
+      "unit_id": "4140",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 41482
+    },
+    {
+      "unit_id": "4141",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 41523
+    },
+    {
+      "unit_id": "4142",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 41536
+    },
+    {
+      "unit_id": "4143",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 41621
+    },
+    {
+      "unit_id": "4144",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 41664
+    },
+    {
+      "unit_id": "4145",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 41705
+    },
+    {
+      "unit_id": "4146",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 42810
+    },
+    {
+      "unit_id": "4147",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 42855
+    },
+    {
+      "unit_id": "4148",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 42878
+    },
+    {
+      "unit_id": "4149",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 42963
+    },
+    {
+      "unit_id": "4150",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 42992
+    },
+    {
+      "unit_id": "4151",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43077
+    },
+    {
+      "unit_id": "4152",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43124
+    },
+    {
+      "unit_id": "4153",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43155
+    },
+    {
+      "unit_id": "4154",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43232
+    },
+    {
+      "unit_id": "4155",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43269
+    },
+    {
+      "unit_id": "4156",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43292
+    },
+    {
+      "unit_id": "4157",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43361
+    },
+    {
+      "unit_id": "4158",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43408
+    },
+    {
+      "unit_id": "4159",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43485
+    },
+    {
+      "unit_id": "4160",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43518
+    },
+    {
+      "unit_id": "4161",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 43601
+    },
+    {
+      "unit_id": "4162",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44088
+    },
+    {
+      "unit_id": "4163",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44115
+    },
+    {
+      "unit_id": "4164",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44136
+    },
+    {
+      "unit_id": "4165",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44215
+    },
+    {
+      "unit_id": "4166",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44262
+    },
+    {
+      "unit_id": "4167",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44598
+    },
+    {
+      "unit_id": "4168",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44643
+    },
+    {
+      "unit_id": "4169",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44668
+    },
+    {
+      "unit_id": "4170",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44751
+    },
+    {
+      "unit_id": "4171",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44786
+    },
+    {
+      "unit_id": "4172",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44827
+    },
+    {
+      "unit_id": "4173",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44906
+    },
+    {
+      "unit_id": "4174",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 44947
+    },
+    {
+      "unit_id": "4175",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45030
+    },
+    {
+      "unit_id": "4176",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45061
+    },
+    {
+      "unit_id": "4177",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45098
+    },
+    {
+      "unit_id": "4178",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45314
+    },
+    {
+      "unit_id": "4179",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45345
+    },
+    {
+      "unit_id": "4180",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45430
+    },
+    {
+      "unit_id": "4181",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45473
+    },
+    {
+      "unit_id": "4182",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45506
+    },
+    {
+      "unit_id": "4183",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45565
+    },
+    {
+      "unit_id": "4184",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45594
+    },
+    {
+      "unit_id": "4185",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45814
+    },
+    {
+      "unit_id": "4186",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45843
+    },
+    {
+      "unit_id": "4187",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45866
+    },
+    {
+      "unit_id": "4188",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 45929
+    },
+    {
+      "unit_id": "4189",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 47312
+    },
+    {
+      "unit_id": "4190",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 47355
+    },
+    {
+      "unit_id": "4191",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 47396
+    },
+    {
+      "unit_id": "4192",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 48832
+    },
+    {
+      "unit_id": "4193",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 48879
+    },
+    {
+      "unit_id": "4194",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 48924
+    },
+    {
+      "unit_id": "4195",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 48993
+    },
+    {
+      "unit_id": "4196",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49036
+    },
+    {
+      "unit_id": "4197",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49067
+    },
+    {
+      "unit_id": "4198",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49146
+    },
+    {
+      "unit_id": "4199",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49163
+    },
+    {
+      "unit_id": "4200",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49250
+    },
+    {
+      "unit_id": "4201",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49293
+    },
+    {
+      "unit_id": "4202",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49360
+    },
+    {
+      "unit_id": "4203",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49395
+    },
+    {
+      "unit_id": "4204",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49436
+    },
+    {
+      "unit_id": "4205",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49497
+    },
+    {
+      "unit_id": "4206",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49576
+    },
+    {
+      "unit_id": "4207",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49615
+    },
+    {
+      "unit_id": "4208",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49682
+    },
+    {
+      "unit_id": "4209",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49719
+    },
+    {
+      "unit_id": "4210",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49756
+    },
+    {
+      "unit_id": "4211",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49819
+    },
+    {
+      "unit_id": "4212",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49856
+    },
+    {
+      "unit_id": "4213",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49899
+    },
+    {
+      "unit_id": "4214",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 49978
+    },
+    {
+      "unit_id": "4215",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 50019
+    },
+    {
+      "unit_id": "4216",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 50102
+    },
+    {
+      "unit_id": "4217",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 50129
+    },
+    {
+      "unit_id": "4218",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 50158
+    },
+    {
+      "unit_id": "4219",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 50261
+    },
+    {
+      "unit_id": "4220",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 50288
+    },
+    {
+      "unit_id": "4221",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 50325
+    },
+    {
+      "unit_id": "4222",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 50732
+    },
+    {
+      "unit_id": "4223",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 50937
+    },
+    {
+      "unit_id": "4224",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 50970
+    },
+    {
+      "unit_id": "4225",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 51039
+    },
+    {
+      "unit_id": "4226",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 51070
+    },
+    {
+      "unit_id": "4227",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 51326
+    },
+    {
+      "unit_id": "4228",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 51373
+    },
+    {
+      "unit_id": "4229",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 51436
+    },
+    {
+      "unit_id": "4230",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52395
+    },
+    {
+      "unit_id": "4231",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52426
+    },
+    {
+      "unit_id": "4232",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52463
+    },
+    {
+      "unit_id": "4233",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52540
+    },
+    {
+      "unit_id": "4234",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52565
+    },
+    {
+      "unit_id": "4235",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52610
+    },
+    {
+      "unit_id": "4236",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52691
+    },
+    {
+      "unit_id": "4237",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52734
+    },
+    {
+      "unit_id": "4238",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52811
+    },
+    {
+      "unit_id": "4239",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52894
+    },
+    {
+      "unit_id": "4240",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52923
+    },
+    {
+      "unit_id": "4241",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 52946
+    },
+    {
+      "unit_id": "4242",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53011
+    },
+    {
+      "unit_id": "4243",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53080
+    },
+    {
+      "unit_id": "4244",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53099
+    },
+    {
+      "unit_id": "4245",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53130
+    },
+    {
+      "unit_id": "4246",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53259
+    },
+    {
+      "unit_id": "4247",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53292
+    },
+    {
+      "unit_id": "4248",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53379
+    },
+    {
+      "unit_id": "4249",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53394
+    },
+    {
+      "unit_id": "4250",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53475
+    },
+    {
+      "unit_id": "4251",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53494
+    },
+    {
+      "unit_id": "4252",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53575
+    },
+    {
+      "unit_id": "4253",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53608
+    },
+    {
+      "unit_id": "4254",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53655
+    },
+    {
+      "unit_id": "4255",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 53974
+    },
+    {
+      "unit_id": "4256",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54021
+    },
+    {
+      "unit_id": "4257",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54068
+    },
+    {
+      "unit_id": "4258",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54151
+    },
+    {
+      "unit_id": "4259",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54188
+    },
+    {
+      "unit_id": "4260",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54219
+    },
+    {
+      "unit_id": "4261",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54282
+    },
+    {
+      "unit_id": "4262",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54323
+    },
+    {
+      "unit_id": "4263",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54370
+    },
+    {
+      "unit_id": "4264",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54437
+    },
+    {
+      "unit_id": "4265",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54482
+    },
+    {
+      "unit_id": "4266",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54521
+    },
+    {
+      "unit_id": "4267",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54891
+    },
+    {
+      "unit_id": "4268",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54918
+    },
+    {
+      "unit_id": "4269",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 54991
+    },
+    {
+      "unit_id": "4270",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 55022
+    },
+    {
+      "unit_id": "4271",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 55260
+    },
+    {
+      "unit_id": "4272",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 55303
+    },
+    {
+      "unit_id": "4273",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 55334
+    },
+    {
+      "unit_id": "4274",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 55580
+    },
+    {
+      "unit_id": "4275",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 55597
+    },
+    {
+      "unit_id": "4276",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 55634
+    },
+    {
+      "unit_id": "4277",
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 55697
+    },
+    {
+      "unit_id": "24062",
+      "recurso": "ISO_START/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 896336
+    },
+    {
+      "unit_id": "24063",
+      "recurso": "ISO_START/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 896448
+    },
+    {
+      "unit_id": "24064",
+      "recurso": "ISO_START/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 896986
+    },
+    {
+      "unit_id": "24065",
+      "recurso": "ISO_START/script00.dat",
+      "estado": "REUBICACION_ESTRUCTURAL",
+      "motivo": "Probada ida/vuelta, NO verificada en PPSSPP",
+      "offset": 900704
+    }
+  ]
+}

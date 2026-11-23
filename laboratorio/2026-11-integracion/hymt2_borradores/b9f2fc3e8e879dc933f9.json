@@ -1,0 +1,70 @@
+{
+  "original": "わたしは、どんなお客さまでも、 わけへだてなく、平等に、 商品をお売りさせていただきますギャー。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nこんにちは。 わたしはエリー。 この お店の店長ですギャー。\nどんなお客さまでも、って......。 どういう意味なのかしら!?\n落ち着きなよ、姉さん! 傷口が広がるだけだよ!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nこんにちは。 わたしはエリー。 この お店の店長ですギャー。\nどんなお客さまでも、って......。 どういう意味なのかしら!?\n落ち着きなよ、姉さん! 傷口が広がるだけだよ!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nわたしは、どんなお客さまでも、 わけへだてなく、平等に、 商品をお売りさせていただきますギャー。",
+  "respuesta": "Yo, sin importar quién sea el cliente, le vendo los productos de manera igualitaria y sin discriminación alguna. ¡Gracias!",
+  "fin": "stop",
+  "segundos": 5.08,
+  "uso": {
+    "completion_tokens": 35,
+    "prompt_tokens": 406,
+    "total_tokens": 441,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "b9f2fc3e8e879dc933f9",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 38438,
+      "entry_id": 255010,
+      "original_hex": [
+        "82ed82bd82b582cd814182c782f182c882a88b7182b382dc82c582e08141",
+        "82ed82af82d682be82c482c882ad814195bd939982c98141",
+        "8fa4956982f082a8948482e882b382b982c482a282bd82be82ab82dc82b7834d8383815b8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "こんにちは。 わたしはエリー。 この お店の店長ですギャー。",
+        "どんなお客さまでも、って......。 どういう意味なのかしら!?",
+        "落ち着きなよ、姉さん! 傷口が広がるだけだよ!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 32383,
+      "entry_id": 255010,
+      "original_hex": [
+        "82ed82bd82b582cd814182c782f182c882a88b7182b382dc82c582e08141",
+        "82ed82af82d682be82c482c882ad814195bd939982c98141",
+        "8fa4956982f082a8948482e882b382b982c482a282bd82be82ab82dc82b7834d8383815b8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "こんにちは。 わたしはエリー。 この お店の店長ですギャー。",
+        "どんなお客さまでも、って......。 どういう意味なのかしら!?",
+        "落ち着きなよ、姉さん! 傷口が広がるだけだよ!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 39071,
+      "entry_id": 255010,
+      "original_hex": [
+        "82ed82bd82b582cd814182c782f182c882a88b7182b382dc82c582e08141",
+        "82ed82af82d682be82c482c882ad814195bd939982c98141",
+        "8fa4956982f082a8948482e882b382b982c482a282bd82be82ab82dc82b7834d8383815b8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "こんにちは。 わたしはエリー。 この お店の店長ですギャー。",
+        "どんなお客さまでも、って......。 どういう意味なのかしら!?",
+        "落ち着きなよ、姉さん! 傷口が広がるだけだよ!"
+      ]
+    }
+  ]
+}

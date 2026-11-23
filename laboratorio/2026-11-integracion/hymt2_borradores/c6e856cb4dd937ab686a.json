@@ -1,0 +1,37 @@
+{
+  "original": "You can often go on to the next map without defeating all of the enemies on the map。 Remember sometimes it is smarter to run away。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou can often go on to the next map without defeating all of the enemies on the map。 Remember sometimes it is smarter to run away。",
+  "respuesta": "A menudo, se puede pasar al mapa siguiente sin derrotar a todos los enemigos que hay en él. Recuerde que, a veces, es más sensato huir.",
+  "fin": "stop",
+  "segundos": 2.67,
+  "uso": {
+    "completion_tokens": 42,
+    "prompt_tokens": 323,
+    "total_tokens": 365,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "c6e856cb4dd937ab686a",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 37636,
+      "entry_id": 202204,
+      "original_hex": [
+        "8278828f8295814082838281828e8140828f828682948285828e81408287828f8140828f828e",
+        "8294828f81408294828882858140828e8285829882948140828d8281829081408297828982948288828f82958294",
+        "8284828582868285828182948289828e828781408281828c828c8140828f82868140829482888285",
+        "8285828e8285828d8289828582938140828f828e81408294828882858140828d828182908142",
+        "82718285828d8285828d82828285829281408293828f828d828582948289828d82858293814082898294",
+        "8289829381408293828d8281829282948285829281408294828f814082928295828e814082818297828182998142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

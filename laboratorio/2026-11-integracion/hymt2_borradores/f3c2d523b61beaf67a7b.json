@@ -1,0 +1,40 @@
+{
+  "original": "I。。。think I know this village? I might have been here before I lost my memories。。。 There is something about this place that is on the tip of my tongue。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI。。。think I know this village? I might have been here before I lost my memories。。。 There is something about this place that is on the tip of my tongue。。。",
+  "respuesta": "Creo que conozco este pueblo. Quizás estuve aquí antes de perder mis recuerdos… Hay algo en este lugar que me viene a la mente constantemente…",
+  "fin": "stop",
+  "segundos": 3.29,
+  "uso": {
+    "completion_tokens": 42,
+    "prompt_tokens": 329,
+    "total_tokens": 371,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f3c2d523b61beaf67a7b",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 101944,
+      "entry_id": 278301,
+      "original_hex": [
+        "8268814281428142829482888289828e828b814082688140828b828e828f829781408294828882898293",
+        "82968289828c828c8281828782858148",
+        "82688140828d8289828782888294814082888281829682858140828282858285828e81408288828582928285",
+        "828282858286828f82928285814082688140828c828f829382948140828d8299",
+        "828d8285828d828f8292828982858293814281428142",
+        "8273828882858292828581408289829381408293828f828d8285829482888289828e8287",
+        "82818282828f829582948140829482888289829381408290828c828182838285",
+        "82948288828182948140828982938140828f828e814082948288828581408294828982908140828f8286",
+        "828d829981408294828f828e828782958285814281428142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

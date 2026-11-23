@@ -1,0 +1,39 @@
+{
+  "original": "T-thats just the way I am。 I do things without thinking。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYou taught me a valuable lesson。\nThe teachings of the Goddess are not everything。 Sometimes you have to follow  your own path。。。\nAnd I always say what I feel。 But I know that I am not always right。\nI just have to follow my gut so I do not  regret it later。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYou taught me a valuable lesson。\nThe teachings of the Goddess are not everything。 Sometimes you have to follow  your own path。。。\nAnd I always say what I feel。 But I know that I am not always right。\nI just have to follow my gut so I do not  regret it later。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nT-thats just the way I am。 I do things without thinking。。。",
+  "respuesta": "Eso es simplemente cómo soy yo. Hago las cosas sin pensar…",
+  "fin": "stop",
+  "segundos": 2.31,
+  "uso": {
+    "completion_tokens": 21,
+    "prompt_tokens": 371,
+    "total_tokens": 392,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "cebd0b456dd2294f953c",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+      "offset": 135349,
+      "entry_id": 313,
+      "original_hex": [
+        "8273817c829482888281829482938140828a82958293829481408294828882858140829782818299",
+        "826881408281828d81428140826881408284828f8140829482888289828e82878293",
+        "8297828982948288828f829582948140829482888289828e828b8289828e8287814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "You taught me a valuable lesson。",
+        "The teachings of the Goddess are not everything。 Sometimes you have to follow  your own path。。。",
+        "And I always say what I feel。 But I know that I am not always right。",
+        "I just have to follow my gut so I do not  regret it later。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "original": "敵ユニットに攻撃を仕掛けるときは できるだけ、側面か後方から 攻撃するようにしな。 正面から攻撃するより 効果的にダメージを与えることができるぜ。 敵ユニットから攻撃されるときも同じだ。 受けるダメージを少なくしたければ、 敵に対して正面を向くクセをつけることだな。 ちなみに、ユニットの向きを変更するには コマンドの『向き変更』か、 ユニットにカーソルをあわせて□ボタンだ。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\n敵ユニットに攻撃を仕掛けるときは できるだけ、側面か後方から 攻撃するようにしな。 正面から攻撃するより 効果的にダメージを与えることができるぜ。 敵ユニットから攻撃されるときも同じだ。 受けるダメージを少なくしたければ、 敵に対して正面を向くクセをつけることだな。 ちなみに、ユニットの向きを変更するには コマンドの『向き変更』か、 ユニットにカーソルをあわせて□ボタンだ。",
+  "respuesta": "Cuando se ataca a las unidades enemigas, es importante hacerlo desde los flancos o desde la parte trasera. De esta manera, se puede causar más daño que si se ataca directamente desde el frente. Lo mismo ocurre cuando se es atacado por las unidades enemigas. Para reducir el daño que recibe, es necesario evitar dirigirse directamente hacia el enemigo. Por cierto, para cambiar la dirección de una unidad, se puede utilizar el comando “Cambiar dirección” o bien, hacer clic en el botón □ sobre la unidad.",
+  "fin": "stop",
+  "segundos": 11.55,
+  "uso": {
+    "completion_tokens": 140,
+    "prompt_tokens": 445,
+    "total_tokens": 585,
+    "prompt_tokens_details": {
+      "cached_tokens": 268
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "d858eb30b66662212806",
+  "apariciones": [
+    {
+      "recurso": "DLC_00/talk00.dat",
+      "offset": 22791,
+      "entry_id": 201722,
+      "original_hex": [
+        "93478386836a8362836782c98d558c8282f08e648a7c82af82e982c682ab82cd",
+        "82c582ab82e982be82af814191a496ca82a98ce395fb82a982e7",
+        "8d558c8282b782e982e682a482c982b582c88142",
+        "90b396ca82a982e78d558c8282b782e982e682e8",
+        "8cf889ca934982c9835f8381815b835782f0975e82a682e982b182c682aa82c582ab82e982ba8142",
+        "93478386836a8362836782a982e78d558c8282b382ea82e982c682ab82e093af82b682be8142",
+        "8ef382af82e9835f8381815b835782f08fad82c882ad82b582bd82af82ea82ce8141",
+        "934782c991ce82b582c490b396ca82f08cfc82ad834e835a82f082c282af82e982b182c682be82c88142",
+        "82bf82c882dd82c981418386836a8362836782cc8cfc82ab82f095cf8d5882b782e982c982cd",
+        "8352837d8393836882cc81778cfc82ab95cf8d58817882a98141",
+        "8386836a8362836782c9834a815b835c838b82f082a082ed82b982c481a0837b835e839382be8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_01/talk00.dat",
+      "offset": 22759,
+      "entry_id": 201722,
+      "original_hex": [
+        "93478386836a8362836782c98d558c8282f08e648a7c82af82e982c682ab82cd",
+        "82c582ab82e982be82af814191a496ca82a98ce395fb82a982e7",
+        "8d558c8282b782e982e682a482c982b582c88142",
+        "90b396ca82a982e78d558c8282b782e982e682e8",
+        "8cf889ca934982c9835f8381815b835782f0975e82a682e982b182c682aa82c582ab82e982ba8142",
+        "93478386836a8362836782a982e78d558c8282b382ea82e982c682ab82e093af82b682be8142",
+        "8ef382af82e9835f8381815b835782f08fad82c882ad82b582bd82af82ea82ce8141",
+        "934782c991ce82b582c490b396ca82f08cfc82ad834e835a82f082c282af82e982b182c682be82c88142",
+        "82bf82c882dd82c981418386836a8362836782cc8cfc82ab82f095cf8d5882b782e982c982cd",
+        "8352837d8393836882cc81778cfc82ab95cf8d58817882a98141",
+        "8386836a8362836782c9834a815b835c838b82f082a082ed82b982c481a0837b835e839382be8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_02/talk00.dat",
+      "offset": 22983,
+      "entry_id": 201722,
+      "original_hex": [
+        "93478386836a8362836782c98d558c8282f08e648a7c82af82e982c682ab82cd",
+        "82c582ab82e982be82af814191a496ca82a98ce395fb82a982e7",
+        "8d558c8282b782e982e682a482c982b582c88142",
+        "90b396ca82a982e78d558c8282b782e982e682e8",
+        "8cf889ca934982c9835f8381815b835782f0975e82a682e982b182c682aa82c582ab82e982ba8142",
+        "93478386836a8362836782a982e78d558c8282b382ea82e982c682ab82e093af82b682be8142",
+        "8ef382af82e9835f8381815b835782f08fad82c882ad82b582bd82af82ea82ce8141",
+        "934782c991ce82b582c490b396ca82f08cfc82ad834e835a82f082c282af82e982b182c682be82c88142",
+        "82bf82c882dd82c981418386836a8362836782cc8cfc82ab82f095cf8d5882b782e982c982cd",
+        "8352837d8393836882cc81778cfc82ab95cf8d58817882a98141",
+        "8386836a8362836782c9834a815b835c838b82f082a082ed82b982c481a0837b835e839382be8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "DLC_03/talk00.dat",
+      "offset": 22951,
+      "entry_id": 201722,
+      "original_hex": [
+        "93478386836a8362836782c98d558c8282f08e648a7c82af82e982c682ab82cd",
+        "82c582ab82e982be82af814191a496ca82a98ce395fb82a982e7",
+        "8d558c8282b782e982e682a482c982b582c88142",
+        "90b396ca82a982e78d558c8282b782e982e682e8",
+        "8cf889ca934982c9835f8381815b835782f0975e82a682e982b182c682aa82c582ab82e982ba8142",
+        "93478386836a8362836782a982e78d558c8282b382ea82e982c682ab82e093af82b682be8142",
+        "8ef382af82e9835f8381815b835782f08fad82c882ad82b582bd82af82ea82ce8141",
+        "934782c991ce82b582c490b396ca82f08cfc82ad834e835a82f082c282af82e982b182c682be82c88142",
+        "82bf82c882dd82c981418386836a8362836782cc8cfc82ab82f095cf8d5882b782e982c982cd",
+        "8352837d8393836882cc81778cfc82ab95cf8d58817882a98141",
+        "8386836a8362836782c9834a815b835c838b82f082a082ed82b982c481a0837b835e839382be8142"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

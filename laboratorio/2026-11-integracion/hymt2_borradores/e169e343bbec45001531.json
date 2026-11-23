@@ -1,0 +1,42 @@
+{
+  "original": "A little bit ago、 a member of the Church of the Divine Mother was here trying to convert me! They said if I joined right away、 I would get a genuine faux pearl necklace。。。 I almost joined right then!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nA little bit ago、 a member of the Church of the Divine Mother was here trying to convert me! They said if I joined right away、 I would get a genuine faux pearl necklace。。。 I almost joined right then!",
+  "respuesta": "Hace un poco, un miembro de la Iglesia de la Divina Madre estuvo aquí tratando de convencerme de que me uniera a ellos. Dijeron que si me unía de inmediato, recibiría un collar de perlas falsas de verdad… Casi me uní en ese momento.",
+  "fin": "stop",
+  "segundos": 4.89,
+  "uso": {
+    "completion_tokens": 76,
+    "prompt_tokens": 340,
+    "total_tokens": 416,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "e169e343bbec45001531",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 33543,
+      "entry_id": 201103,
+      "original_hex": [
+        "82608140828c828982948294828c82858140828282898294814082818287828f814181408281",
+        "828d8285828d8282828582928140828f8286814082948288828581408262828882958292828382888140828f8286",
+        "82948288828581408263828982968289828e82858140826c828f82948288828582928140829782818293",
+        "828882858292828581408294829282998289828e828781408294828f81408283828f828e8296828582928294",
+        "828d82858149",
+        "827382888285829981408293828182898284814082898286814082688140828a828f8289828e82858284",
+        "829282898287828882948140828182978281829981418140826881408297828f8295828c82848140828782858294",
+        "8281814082878285828e82958289828e82858140828682818295829881408290828582818292828c",
+        "828e82858283828b828c828182838285814281428142",
+        "826881408281828c828d828f829382948140828a828f8289828e82858284814082928289828782888294",
+        "829482888285828e8149"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

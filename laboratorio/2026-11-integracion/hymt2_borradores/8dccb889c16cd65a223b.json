@@ -1,0 +1,41 @@
+{
+  "original": "Your current look is proof that your heart has succumbed to darkness。 You must accept it。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI look like this right now。。。\nIt seems that I realized your existence a little too late。\nBut that does not have to be the end of it。。。!\nI see。。。 I did search out for you、 after all。。。 Now that it has come to this。。。!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI look like this right now。。。\nIt seems that I realized your existence a little too late。\nBut that does not have to be the end of it。。。!\nI see。。。 I did search out for you、 after all。。。 Now that it has come to this。。。!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYour current look is proof that your heart has succumbed to darkness。 You must accept it。",
+  "respuesta": "Tu aspecto actual es prueba de que tu corazón ha sucumbido a la oscuridad. Debes aceptarlo.",
+  "fin": "stop",
+  "segundos": 4.39,
+  "uso": {
+    "completion_tokens": 31,
+    "prompt_tokens": 369,
+    "total_tokens": 400,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8dccb889c16cd65a223b",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 88254,
+      "entry_id": 1808,
+      "original_hex": [
+        "8278828f82958292814082838295829282928285828e82948140828c828f828f828b814082898293",
+        "82908292828f828f82868140829482888281829481408299828f82958292814082888285828182928294",
+        "828882818293814082938295828382838295828d82828285828481408294828f",
+        "828482818292828b828e8285829382938142",
+        "8278828f82958140828d82958293829481408281828382838285829082948140828982948142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I look like this right now。。。",
+        "It seems that I realized your existence a little too late。",
+        "But that does not have to be the end of it。。。!",
+        "I see。。。 I did search out for you、 after all。。。 Now that it has come to this。。。!"
+      ]
+    }
+  ]
+}

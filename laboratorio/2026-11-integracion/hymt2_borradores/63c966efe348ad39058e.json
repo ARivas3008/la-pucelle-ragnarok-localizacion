@@ -1,0 +1,40 @@
+{
+  "original": "We are servants of the church、 remember? We cannot describe lost souls as wimps。 ",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n(Zombies、 huh。。。I can defeat these wimps with my eyes closed。。。)\n(Oh、 that reminds me、 I am not supposed to be saying the word wimps。。。)\n(Man、 this is annoying。 Wimps are wimps。。。) (I am aiming to become the Maiden of Light!) (What is wrong with wanting to defeat strong demons!?)\nBut Demon Lord suits you way more than the Maiden of Light。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n(Zombies、 huh。。。I can defeat these wimps with my eyes closed。。。)\n(Oh、 that reminds me、 I am not supposed to be saying the word wimps。。。)\n(Man、 this is annoying。 Wimps are wimps。。。) (I am aiming to become the Maiden of Light!) (What is wrong with wanting to defeat strong demons!?)\nBut Demon Lord suits you way more than the Maiden of Light。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWe are servants of the church、 remember? We cannot describe lost souls as wimps。 ",
+  "respuesta": "Somos sirvientes de la iglesia, ¿recuerdas? No podemos llamar a las almas perdidas “tontos”.",
+  "fin": "stop",
+  "segundos": 5.03,
+  "uso": {
+    "completion_tokens": 35,
+    "prompt_tokens": 406,
+    "total_tokens": 441,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "63c966efe348ad39058e",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 68887,
+      "entry_id": 1601,
+      "original_hex": [
+        "827682858140828182928285814082938285829282968281828e829482938140828f82868140829482888285",
+        "8283828882958292828382888141814082928285828d8285828d8282828582928148",
+        "82768285814082838281828e828e828f8294814082848285829382838292828982828285",
+        "828c828f8293829481408293828f8295828c8293814082818293814082978289828d8290829381428140"
+      ],
+      "opcion": false,
+      "contexto": [
+        "(Zombies、 huh。。。I can defeat these wimps with my eyes closed。。。)",
+        "(Oh、 that reminds me、 I am not supposed to be saying the word wimps。。。)",
+        "(Man、 this is annoying。 Wimps are wimps。。。) (I am aiming to become the Maiden of Light!) (What is wrong with wanting to defeat strong demons!?)",
+        "But Demon Lord suits you way more than the Maiden of Light。。。"
+      ]
+    }
+  ]
+}

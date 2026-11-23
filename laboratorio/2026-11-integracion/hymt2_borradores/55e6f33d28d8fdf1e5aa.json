@@ -1,0 +1,58 @@
+{
+  "original": "おいらたちが見たオバケの子供は、 プリエ姉ちゃんの、光の心じゃないかって、 サラド神父が言ってたぜェ!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nおいらたちが見たオバケの子供は、 プリエ姉ちゃんの、光の心じゃないかって、 サラド神父が言ってたぜェ!",
+  "respuesta": "El niño fantasma que vimos, según dijo el padre Salade, era, sin duda, el corazón de la Luz, la hermana Prier.",
+  "fin": "stop",
+  "segundos": 2.91,
+  "uso": {
+    "completion_tokens": 39,
+    "prompt_tokens": 344,
+    "total_tokens": 383,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "55e6f33d28d8fdf1e5aa",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 46763,
+      "entry_id": 256140,
+      "original_hex": [
+        "82a882a282e782bd82bf82aa8ca982bd8349836f835082cc8e718b9f82cd8141",
+        "8376838a83478e6f82bf82e182f182cc81418cf582cc905382b682e182c882a282a982c182c48141",
+        "835483898368905f958382aa8cbe82c182c482bd82ba83468149"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 46861,
+      "entry_id": 256140,
+      "original_hex": [
+        "82a882a282e782bd82bf82aa8ca982bd8349836f835082cc8e718b9f82cd8141",
+        "8376838a83478e6f82bf82e182f182cc81418cf582cc905382b682e182c882a282a982c182c48141",
+        "835483898368905f958382aa8cbe82c182c482bd82ba83468149"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 39005,
+      "entry_id": 256140,
+      "original_hex": [
+        "82a882a282e782bd82bf82aa8ca982bd8349836f835082cc8e718b9f82cd8141",
+        "8376838a83478e6f82bf82e182f182cc81418cf582cc905382b682e182c882a282a982c182c48141",
+        "835483898368905f958382aa8cbe82c182c482bd82ba83468149"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "original": "Sister Prier。 Continually getting the wrong impression is quite the bad habit、 you know。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI could not become the Holy Maiden of Light、 but with this power、 I can become the Demon Lord。。。!\nNo、 the ONLY thing I can become is the Demon Lord! I will become the Demon Lord!!! So just leave me alone!!!!!\nUgh、 geez。 Enough already! Even I realize how pathetic she is acting! There is no way we will lose!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI could not become the Holy Maiden of Light、 but with this power、 I can become the Demon Lord。。。!\nNo、 the ONLY thing I can become is the Demon Lord! I will become the Demon Lord!!! So just leave me alone!!!!!\nUgh、 geez。 Enough already! Even I realize how pathetic she is acting! There is no way we will lose!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nSister Prier。 Continually getting the wrong impression is quite the bad habit、 you know。",
+  "respuesta": "Hermana Prier. Tener constantemente una mala impresión es una mala costumbre, ¿sabes?",
+  "fin": "stop",
+  "segundos": 3.61,
+  "uso": {
+    "completion_tokens": 30,
+    "prompt_tokens": 396,
+    "total_tokens": 426,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "e515df362b0a053ccdd9",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 77861,
+      "entry_id": 1706,
+      "original_hex": [
+        "8272828982938294828582928140826f82928289828582928142",
+        "8262828f828e82948289828e82958281828c828c8299814082878285829482948289828e82878140829482888285",
+        "82978292828f828e828781408289828d829082928285829382938289828f828e814082898293",
+        "82918295828982948285814082948288828581408282828182848140828882818282828982948141",
+        "8299828f82958140828b828e828f82978142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I could not become the Holy Maiden of Light、 but with this power、 I can become the Demon Lord。。。!",
+        "No、 the ONLY thing I can become is the Demon Lord! I will become the Demon Lord!!! So just leave me alone!!!!!",
+        "Ugh、 geez。 Enough already! Even I realize how pathetic she is acting! There is no way we will lose!"
+      ]
+    }
+  ]
+}

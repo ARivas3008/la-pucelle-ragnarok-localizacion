@@ -1,0 +1,35 @@
+{
+  "original": "Please, Croix! Return back to normal!!!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nArghhhhhhh!!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nArghhhhhhh!!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nPlease, Croix! Return back to normal!!!",
+  "respuesta": "Por favor, Croix: ¡Vuelve a la normalidad!!!",
+  "fin": "stop",
+  "segundos": 1.55,
+  "uso": {
+    "completion_tokens": 16,
+    "prompt_tokens": 311,
+    "total_tokens": 327,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "c4df19bf6cbfbaedb230",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 87303,
+      "entry_id": 4679,
+      "original_hex": [
+        "826f828c82858281829382858143814082628292828f828982988149",
+        "82718285829482958292828e8140828282818283828b81408294828f8140828e828f8292828d8281828c814981498149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Arghhhhhhh!!!"
+      ]
+    }
+  ]
+}

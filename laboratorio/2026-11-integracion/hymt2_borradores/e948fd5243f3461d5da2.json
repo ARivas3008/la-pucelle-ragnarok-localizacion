@@ -1,0 +1,42 @@
+{
+  "original": "I appreciate you looking out for me、 but could you quit it with the tasteless jokes? I am not in the mood today。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWhy are you sighing all of the sudden、 Prier? Moping around is not your style、 ya know。\nI realize the opponents today were zombies。 Were you unsatisfied because they were simply too weak for you?\nGeez、 I know that。 She is acting scary。\nSigh。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWhy are you sighing all of the sudden、 Prier? Moping around is not your style、 ya know。\nI realize the opponents today were zombies。 Were you unsatisfied because they were simply too weak for you?\nGeez、 I know that。 She is acting scary。\nSigh。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI appreciate you looking out for me、 but could you quit it with the tasteless jokes? I am not in the mood today。",
+  "respuesta": "Agradezco que te preocupes por mí, pero ¿podrías dejar de hacer esos chistes sin gracia? Hoy no estoy de humor.",
+  "fin": "stop",
+  "segundos": 4.75,
+  "uso": {
+    "completion_tokens": 38,
+    "prompt_tokens": 384,
+    "total_tokens": 422,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "e948fd5243f3461d5da2",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 71132,
+      "entry_id": 1602,
+      "original_hex": [
+        "82688140828182908290829282858283828982818294828581408299828f82958140828c828f828f828b8289828e8287",
+        "828f8295829481408286828f82928140828d82858141814082828295829481408283828f8295828c8284",
+        "8299828f829581408291829582898294814082898294814082978289829482888140829482888285",
+        "82948281829382948285828c8285829382938140828a828f828b828582938148",
+        "826881408281828d8140828e828f829481408289828e81408294828882858140828d828f828f8284",
+        "8294828f8284828182998142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Why are you sighing all of the sudden、 Prier? Moping around is not your style、 ya know。",
+        "I realize the opponents today were zombies。 Were you unsatisfied because they were simply too weak for you?",
+        "Geez、 I know that。 She is acting scary。",
+        "Sigh。。。"
+      ]
+    }
+  ]
+}

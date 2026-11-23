@@ -1,0 +1,41 @@
+{
+  "original": "I just wanted to test how strong you are、 Big Sister Prier。 You really are strong! Super strong!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAvenged? Ahh、 you mean that thing from earlier? That was all just a big、 fat lie。\nW。。。What did you just say。。。?\nThis girl is acting strange! What happened to her?\nSo。。。 She is not just some random little girl、 after all。。。!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAvenged? Ahh、 you mean that thing from earlier? That was all just a big、 fat lie。\nW。。。What did you just say。。。?\nThis girl is acting strange! What happened to her?\nSo。。。 She is not just some random little girl、 after all。。。!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI just wanted to test how strong you are、 Big Sister Prier。 You really are strong! Super strong!",
+  "respuesta": "Solo quería probar cuán fuerte eres, Hermana Prier. ¡Eres realmente fuerte! Super fuerte.",
+  "fin": "stop",
+  "segundos": 4.19,
+  "uso": {
+    "completion_tokens": 31,
+    "prompt_tokens": 376,
+    "total_tokens": 407,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "605ecc2c78ebab31297e",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 91553,
+      "entry_id": 1507,
+      "original_hex": [
+        "82688140828a829582938294814082978281828e82948285828481408294828f81408294828582938294",
+        "8288828f82978140829382948292828f828e828781408299828f829581408281829282858141",
+        "82618289828781408272828982938294828582928140826f82928289828582928142",
+        "8278828f82958140829282858281828c828c829981408281829282858140829382948292828f828e82878149",
+        "827282958290828582928140829382948292828f828e82878149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Avenged? Ahh、 you mean that thing from earlier? That was all just a big、 fat lie。",
+        "W。。。What did you just say。。。?",
+        "This girl is acting strange! What happened to her?",
+        "So。。。 She is not just some random little girl、 after all。。。!"
+      ]
+    }
+  ]
+}

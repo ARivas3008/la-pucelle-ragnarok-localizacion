@@ -1,0 +1,40 @@
+{
+  "original": "On top of that。。。 Prier was driven to become the Demon Lord。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI am so sorry、 Croix。。。 I。。。!\nThese filthy humans。。。 who stole Angelique from me。。。 Continue to remain in。。。 this world。。。\nI。。。 I failed to protect。。。\nThe one I love again。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI am so sorry、 Croix。。。 I。。。!\nThese filthy humans。。。 who stole Angelique from me。。。 Continue to remain in。。。 this world。。。\nI。。。 I failed to protect。。。\nThe one I love again。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nOn top of that。。。 Prier was driven to become the Demon Lord。。。",
+  "respuesta": "Además de eso… Prier fue forzado a convertirse en el Señor Demonio.",
+  "fin": "stop",
+  "segundos": 3.16,
+  "uso": {
+    "completion_tokens": 24,
+    "prompt_tokens": 358,
+    "total_tokens": 382,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "2700fbd39f306451615f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 84494,
+      "entry_id": 1807,
+      "original_hex": [
+        "826e828e81408294828f82908140828f828681408294828882818294814281428142",
+        "826f82928289828582928140829782818293814082848292828982968285828e81408294828f",
+        "828282858283828f828d82858140829482888285814082638285828d828f828e",
+        "826b828f82928284814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I am so sorry、 Croix。。。 I。。。!",
+        "These filthy humans。。。 who stole Angelique from me。。。 Continue to remain in。。。 this world。。。",
+        "I。。。 I failed to protect。。。",
+        "The one I love again。。。"
+      ]
+    }
+  ]
+}

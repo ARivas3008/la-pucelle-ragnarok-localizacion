@@ -1,0 +1,40 @@
+{
+  "original": "You are the Sister who turned into a demon! The one everyone calls Demon Sister、  right!? The Church of the Holy Maiden really is frightening。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nQuit giving me weird names!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nQuit giving me weird names!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou are the Sister who turned into a demon! The one everyone calls Demon Sister、  right!? The Church of the Holy Maiden really is frightening。。。",
+  "respuesta": "Eres la hermana que se convirtió en un demonio. La misma que todos llaman “Hermana Demonio”, ¿verdad? La Iglesia de la Virgen Sagrada realmente es aterradora…",
+  "fin": "stop",
+  "segundos": 4.04,
+  "uso": {
+    "completion_tokens": 52,
+    "prompt_tokens": 334,
+    "total_tokens": 386,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8d4d29374b5134b1d3b0",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 21191,
+      "entry_id": 250340,
+      "original_hex": [
+        "8278828f8295814082818292828581408294828882858140827282898293829482858292814082978288828f",
+        "829482958292828e8285828481408289828e8294828f81408281814082848285828d828f828e8149",
+        "8273828882858140828f828e8285814082858296828582928299828f828e8285814082838281828c828c8293",
+        "82638285828d828f828e81408272828982938294828582928141814081408292828982878288829481498148",
+        "82738288828581408262828882958292828382888140828f8286814082948288828581408267828f828c8299",
+        "826c8281828982848285828e8140829282858281828c828c8299814082898293",
+        "8286829282898287828882948285828e8289828e8287814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Quit giving me weird names!"
+      ]
+    }
+  ]
+}

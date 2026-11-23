@@ -1,0 +1,94 @@
+{
+  "original": "In the name of the Holy Maiden! Goddess Poitreene、 heal this creatures wounds!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYou think so、 too?\nHe is wounded。\nThat should do it。。。\nHey、 you cannot follow us!You live in the forest、 remember?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYou think so、 too?\nHe is wounded。\nThat should do it。。。\nHey、 you cannot follow us!You live in the forest、 remember?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIn the name of the Holy Maiden! Goddess Poitreene、 heal this creatures wounds!",
+  "respuesta": "¡En nombre de la Sagrada Doncella! Diosa Poitreene, sana las heridas de estas criaturas.",
+  "fin": "stop",
+  "segundos": 2.79,
+  "uso": {
+    "completion_tokens": 29,
+    "prompt_tokens": 345,
+    "total_tokens": 374,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "0088118945bce87a5e4b",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat",
+      "offset": 146775,
+      "entry_id": 0,
+      "original_hex": [
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "8267828f828c82998140826c8281828982848285828e8149",
+        "8266828f828482848285829382938140826f828f82898294829282858285828e828581418140828882858281828c",
+        "8294828882898293814082838292828582818294829582928285829381408297828f8295828e828482938149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "You think so、 too?",
+        "He is wounded。",
+        "That should do it。。。",
+        "Hey、 you cannot follow us!You live in the forest、 remember?"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 139192,
+      "entry_id": 0,
+      "original_hex": [
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "8267828f828c82998140826c8281828982848285828e8149",
+        "8266828f828482848285829382938140826f828f82898294829282858285828e828581418140828882858281828c",
+        "8294828882898293814082838292828582818294829582928285829381408297828f8295828e828482938149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "You think so、 too?",
+        "He is wounded。",
+        "That should do it。。。",
+        "Hey、 you cannot follow us!You live in the forest、 remember?"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 149968,
+      "entry_id": 0,
+      "original_hex": [
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "8267828f828c82998140826c8281828982848285828e8149",
+        "8266828f828482848285829382938140826f828f82898294829282858285828e828581418140828882858281828c",
+        "8294828882898293814082838292828582818294829582928285829381408297828f8295828e828482938149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "You think so、 too?",
+        "He is wounded。",
+        "That should do it。。。",
+        "Hey、 you cannot follow us!You live in the forest、 remember?"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 139950,
+      "entry_id": 0,
+      "original_hex": [
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "8267828f828c82998140826c8281828982848285828e8149",
+        "8266828f828482848285829382938140826f828f82898294829282858285828e828581418140828882858281828c",
+        "8294828882898293814082838292828582818294829582928285829381408297828f8295828e828482938149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "You think so、 too?",
+        "He is wounded。",
+        "That should do it。。。",
+        "Hey、 you cannot follow us!You live in the forest、 remember?"
+      ]
+    }
+  ]
+}

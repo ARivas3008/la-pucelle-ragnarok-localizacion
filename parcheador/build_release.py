@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """Build reproducible GUI patcher from repository source (no game assets)."""
 from __future__ import annotations
-import argparse, io, os, subprocess, shutil, tarfile, gzip, hashlib
+import argparse, io, os, subprocess, shutil, tarfile, gzip, hashlib, json
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parent
 MASTER=ROOT.parent/'data'/'maestros'/'04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv'
-VERSION='0.13.0'
+VERSION='0.19.0-integracion'
 
 
 def make_resources(manifest:Path, packer:Path, dest:Path):
@@ -21,7 +21,31 @@ def make_resources(manifest:Path, packer:Path, dest:Path):
         if rel.startswith('tests/') or rel in ('datos/mapa_26258_unidades.csv','scripts/nis_lzs_pack','scripts/nis_lzs_pack.exe'):
             continue
         entries[rel]=path.read_bytes()
+    # v0.16 incorpora el motor de eventos sin romper la CLI histórica v0.13.
+    # La estructura relativa es necesaria para los imports de v0.14.
+    # El reubicador importa construir_parche.py desde app/scripts; este
+    # importa segmentacion, atlas_ui_es, subtitulos_script e integracion_v013.
+    # Empaquetar SOLO cuatro módulos impedía ejecutar v0.16 en Windows.
+    # Duplicamos el conjunto completo de scripts bajo app/scripts.
+    for old_rel in sorted(k for k in entries if k.startswith('scripts/') and k.endswith('.py')):
+        entries['app/'+old_rel]=entries[old_rel]
+    for rel in ('investigacion/v0.10/contenedores.py',
+                'investigacion/v0.10/iso_reubicar.py',
+                'investigacion/v0.12/reubicador_anclas_v012.py',
+                'investigacion/v0.14/integrar_scripts_v014.py'):
+        entries[rel]=(ROOT/rel).read_bytes()
+    # Informe editorial de 4507 unidades, sin binarios comerciales.
+    entries['datos/estado_unificado_66.csv']=(ROOT/'informes/estado_unificado_66.csv').read_bytes()
     entries['datos/mapa_26258_unidades.csv']=manifest.read_bytes()
+    editorial = {}
+    for n in range(1,16):
+        rel=f'corpus/{n:02d}/revision.csv'
+        payload=(ROOT.parent/rel).read_bytes()
+        entries[rel]=payload
+        editorial[rel]=hashlib.sha256(payload).hexdigest()
+    entries['datos/fuentes_editoriales.json']=json.dumps({
+        'version':VERSION, 'snapshot_main':'e614ad1be6d450a93689a0eb264750b4c77a2b75',
+        'sha256':editorial},ensure_ascii=False,sort_keys=True,indent=2).encode('utf-8')
     entries['scripts/nis_lzs_pack.exe']=packer.read_bytes()
     with dest.open('wb') as outf:
         # Buffered compression is deterministic: fixed timestamps and names.

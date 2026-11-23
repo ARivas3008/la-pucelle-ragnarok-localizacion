@@ -1,0 +1,38 @@
+{
+  "original": "Concentrate、 Sister Prier!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nIt is true that I will disappear after this。 But never forget。。。 It was you who created me。。。\nWh!?\n。。。Tsk!\nYour strong will of acknowledging pure strength will always remain deep within your heart。。。 Never disappearing。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nIt is true that I will disappear after this。 But never forget。。。 It was you who created me。。。\nWh!?\n。。。Tsk!\nYour strong will of acknowledging pure strength will always remain deep within your heart。。。 Never disappearing。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nConcentrate、 Sister Prier!",
+  "respuesta": "Concéntrate, hermana Prier.",
+  "fin": "stop",
+  "segundos": 2.18,
+  "uso": {
+    "completion_tokens": 12,
+    "prompt_tokens": 351,
+    "total_tokens": 363,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "f5cb5bacaf81822b9acb",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 100597,
+      "entry_id": 1608,
+      "original_hex": [
+        "8262828f828e82838285828e8294829282818294828581418140827282898293829482858292",
+        "826f82928289828582928149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "It is true that I will disappear after this。 But never forget。。。 It was you who created me。。。",
+        "Wh!?",
+        "。。。Tsk!",
+        "Your strong will of acknowledging pure strength will always remain deep within your heart。。。 Never disappearing。。。"
+      ]
+    }
+  ]
+}

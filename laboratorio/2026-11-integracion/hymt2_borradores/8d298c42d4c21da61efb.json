@@ -1,0 +1,39 @@
+{
+  "original": "In the name of the Maiden of Light。。。 May the Goddess Poitreene look over everyone。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nAlso、 as soon as you are done evacuating everyone、 please find a safe spot to rest。\nUnderstood、 Sister Alouette。 Please be careful、 everyone。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nAlso、 as soon as you are done evacuating everyone、 please find a safe spot to rest。\nUnderstood、 Sister Alouette。 Please be careful、 everyone。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nIn the name of the Maiden of Light。。。 May the Goddess Poitreene look over everyone。",
+  "respuesta": "En nombre de la Doncella de la Luz… Que la Diosa Poitreene cuide de todos.",
+  "fin": "stop",
+  "segundos": 2.49,
+  "uso": {
+    "completion_tokens": 24,
+    "prompt_tokens": 349,
+    "total_tokens": 373,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8d298c42d4c21da61efb",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 80144,
+      "entry_id": 1503,
+      "original_hex": [
+        "8268828e81408294828882858140828e8281828d82858140828f82868140829482888285",
+        "826c8281828982848285828e8140828f82868140826b8289828782888294814281428142",
+        "826c82818299814082948288828581408266828f82848284828582938293",
+        "826f828f82898294829282858285828e82858140828c828f828f828b8140828f829682858292",
+        "82858296828582928299828f828e82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Also、 as soon as you are done evacuating everyone、 please find a safe spot to rest。",
+        "Understood、 Sister Alouette。 Please be careful、 everyone。"
+      ]
+    }
+  ]
+}

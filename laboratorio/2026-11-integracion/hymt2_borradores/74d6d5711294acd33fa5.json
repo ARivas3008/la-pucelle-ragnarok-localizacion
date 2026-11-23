@@ -1,0 +1,78 @@
+{
+  "original": "このあいだ聖母神教会の教主ノワールさまに お会いしたの。 ちょっぴり影があってぇ~、 そこが またステキなのよ~!! キャ~、うれしはずかし~¥",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nこのあいだ聖母神教会の教主ノワールさまに お会いしたの。 ちょっぴり影があってぇ~、 そこが またステキなのよ~!! キャ~、うれしはずかし~¥",
+  "respuesta": "Hace poco me encontré con la líder de la Iglesia de la Diosa Santa, Nuwar. Tiene un poco de sombra en su rostro… Pero eso es precisamente lo que la hace tan hermosa. ¡Ay, qué feliz y avergonzada estoy!",
+  "fin": "stop",
+  "segundos": 5.19,
+  "uso": {
+    "completion_tokens": 65,
+    "prompt_tokens": 361,
+    "total_tokens": 426,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "74d6d5711294acd33fa5",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat",
+      "offset": 39368,
+      "entry_id": 201602,
+      "original_hex": [
+        "82b182cc82a082a282be90b995ea905f8bb389ef82cc8bb38ee5836d838f815b838b82b382dc82c9",
+        "82a889ef82a282b582bd82cc8142",
+        "82bf82e582c182d282e8896582aa82a082c182c482a581608141",
+        "82bb82b182aa814082dc82bd83588365834c82c882cc82e6816081498149",
+        "834c83838160814182a482ea82b582cd82b882a982b58160818f"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat",
+      "offset": 39528,
+      "entry_id": 201602,
+      "original_hex": [
+        "82b182cc82a082a282be90b995ea905f8bb389ef82cc8bb38ee5836d838f815b838b82b382dc82c9",
+        "82a889ef82a282b582bd82cc8142",
+        "82bf82e582c182d282e8896582aa82a082c182c482a581608141",
+        "82bb82b182aa814082dc82bd83588365834c82c882cc82e6816081498149",
+        "834c83838160814182a482ea82b582cd82b882a982b58160818f"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 39368,
+      "entry_id": 201602,
+      "original_hex": [
+        "82b182cc82a082a282be90b995ea905f8bb389ef82cc8bb38ee5836d838f815b838b82b382dc82c9",
+        "82a889ef82a282b582bd82cc8142",
+        "82bf82e582c182d282e8896582aa82a082c182c482a581608141",
+        "82bb82b182aa814082dc82bd83588365834c82c882cc82e6816081498149",
+        "834c83838160814182a482ea82b582cd82b882a982b58160818f"
+      ],
+      "opcion": false,
+      "contexto": []
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+      "offset": 39752,
+      "entry_id": 201602,
+      "original_hex": [
+        "82b182cc82a082a282be90b995ea905f8bb389ef82cc8bb38ee5836d838f815b838b82b382dc82c9",
+        "82a889ef82a282b582bd82cc8142",
+        "82bf82e582c182d282e8896582aa82a082c182c482a581608141",
+        "82bb82b182aa814082dc82bd83588365834c82c882cc82e6816081498149",
+        "834c83838160814182a482ea82b582cd82b882a982b58160818f"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

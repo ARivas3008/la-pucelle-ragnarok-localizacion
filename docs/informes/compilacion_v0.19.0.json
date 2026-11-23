@@ -1,0 +1,11 @@
+{
+  "fecha_publicacion": "2026-11-23",
+  "ejecutable": "LaPucelle_Parcheador_ES_GUI_v0.19.0-integracion.exe",
+  "sha256": "7fe6f99e4c7e80c0a7d4709b32d50b112c72d5abaf5e5c04c9ce69453c6368bc",
+  "bytes": 10915328,
+  "go": "go1.27.4 windows/amd64",
+  "python": "3.15",
+  "resources_sha256": "f094c6dbaf258105efba762e894c4cb239f4062ce394ddcd591b70c72c1467ee",
+  "prueba_worker": "ISO + cuatro DLC; código 0; verificación binaria",
+  "validacion_visual": "Pendiente para v0.19.0"
+}

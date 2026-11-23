@@ -1,0 +1,39 @@
+{
+  "original": "We are going to have to find some shelter from the storm。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nShe is burning with fever! We need to do something!\nThe first thing we need to do is get her out of the rain before she dies。\nI am not sure we can stay airborne in this storm! Meow!!\nEnough with your meowing!! Shut up and find the Captain!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nShe is burning with fever! We need to do something!\nThe first thing we need to do is get her out of the rain before she dies。\nI am not sure we can stay airborne in this storm! Meow!!\nEnough with your meowing!! Shut up and find the Captain!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWe are going to have to find some shelter from the storm。",
+  "respuesta": "Tendremos que encontrar algún lugar donde refugiarnos de la tormenta.",
+  "fin": "stop",
+  "segundos": 2.96,
+  "uso": {
+    "completion_tokens": 21,
+    "prompt_tokens": 368,
+    "total_tokens": 389,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "52ee60ad275c35d6fe9a",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 98782,
+      "entry_id": 1101,
+      "original_hex": [
+        "82768285814082818292828581408287828f8289828e828781408294828f81408288828182968285",
+        "8294828f814082868289828e828481408293828f828d82858140829382888285828c829482858292",
+        "82868292828f828d8140829482888285814082938294828f8292828d8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "She is burning with fever! We need to do something!",
+        "The first thing we need to do is get her out of the rain before she dies。",
+        "I am not sure we can stay airborne in this storm! Meow!!",
+        "Enough with your meowing!! Shut up and find the Captain!!"
+      ]
+    }
+  ]
+}

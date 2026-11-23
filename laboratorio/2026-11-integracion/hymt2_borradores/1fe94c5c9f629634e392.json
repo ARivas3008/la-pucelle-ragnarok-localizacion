@@ -1,0 +1,41 @@
+{
+  "original": "We have been separated into light and dark halves、 but we are really part of the same person。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWhat?!\nWe are like sisters。。。 We are twins!\nI understood that for the first time just now when we fought。\n。。。。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWhat?!\nWe are like sisters。。。 We are twins!\nI understood that for the first time just now when we fought。\n。。。。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWe have been separated into light and dark halves、 but we are really part of the same person。",
+  "respuesta": "Hemos sido divididos en dos grupos: los de la luz y los de la oscuridad. Pero en realidad, formamos parte de la misma persona.",
+  "fin": "stop",
+  "segundos": 3.04,
+  "uso": {
+    "completion_tokens": 37,
+    "prompt_tokens": 343,
+    "total_tokens": 380,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "1fe94c5c9f629634e392",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 124991,
+      "entry_id": 1104,
+      "original_hex": [
+        "82768285814082888281829682858140828282858285828e8140829382858290828182928281829482858284",
+        "8289828e8294828f8140828c828982878288829481408281828e82848140828482818292828b",
+        "82888281828c829682858293814181408282829582948140829782858140828182928285",
+        "829282858281828c828c8299814082908281829282948140828f82868140829482888285814082938281828d8285",
+        "8290828582928293828f828e8142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "What?!",
+        "We are like sisters。。。 We are twins!",
+        "I understood that for the first time just now when we fought。",
+        "。。。。。。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "original": "This is all my fault as the Father of the church! I will take care of you myself! For my name is Salade the Demon Killer!!!!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWHAT IS GOING ON HERE!!?\nPRIER! Have you finally been consumed by the darkness。。。?\nWait、 Father! I may look like the Demon Lord、 but my heart has not fallen into darkness!\nI still plan on doing my best to become the Maiden of Light、 just like Sister Alouette!!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWHAT IS GOING ON HERE!!?\nPRIER! Have you finally been consumed by the darkness。。。?\nWait、 Father! I may look like the Demon Lord、 but my heart has not fallen into darkness!\nI still plan on doing my best to become the Maiden of Light、 just like Sister Alouette!!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThis is all my fault as the Father of the church! I will take care of you myself! For my name is Salade the Demon Killer!!!!",
+  "respuesta": "Todo esto es culpa mía, como padre de la iglesia. ¡Yo mismo me encargaré de cuidar de ustedes! Porque mi nombre es Salade, el Asesino de Demonios!!!!",
+  "fin": "stop",
+  "segundos": 6.02,
+  "uso": {
+    "completion_tokens": 49,
+    "prompt_tokens": 392,
+    "total_tokens": 441,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "400470981a6aaafa8af1",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 92854,
+      "entry_id": 1809,
+      "original_hex": [
+        "827382888289829381408289829381408281828c828c8140828d82998140828682818295828c8294",
+        "82818293814082948288828581408265828182948288828582928140828f82868140829482888285",
+        "8283828882958292828382888149",
+        "8268814082978289828c828c814082948281828b8285814082838281829282858140828f828681408299828f8295",
+        "828d829982938285828c82868149",
+        "8265828f82928140828d82998140828e8281828d8285814082898293814082728281828c828182848285",
+        "829482888285814082638285828d828f828e8140826a8289828c828c828582928149814981498149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "WHAT IS GOING ON HERE!!?",
+        "PRIER! Have you finally been consumed by the darkness。。。?",
+        "Wait、 Father! I may look like the Demon Lord、 but my heart has not fallen into darkness!",
+        "I still plan on doing my best to become the Maiden of Light、 just like Sister Alouette!!!"
+      ]
+    }
+  ]
+}

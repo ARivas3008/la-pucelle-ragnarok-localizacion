@@ -59,13 +59,23 @@ def reconstruir_dat(data,cambios):
     rows=entradas_dat(data)
     if not set(cambios).issubset({x[0] for x in rows}):raise FormatoError('Miembros DAT desconocidos')
     base=16+32*len(rows)
+    # Los DAT del juego incluyen relleno en el tamaño del miembro y todos
+    # sus extremos están alineados a 16. Conservar esa invariante al crecer:
+    # una textura idéntica ubicada en una dirección no alineada no es segura.
+    alignment=16 if all(start%16==0 and end%16==0 for _,start,end,_ in rows) else 1
+    expected={}
     out=bytearray(data[:base])
     for name,start,end,loc in rows:
         blob=cambios.get(name,data[start:end])
         if not isinstance(blob,bytes):raise FormatoError('DAT miembro no es bytes')
+        if alignment==16:
+            blob+=b'\x00'*((-len(blob))%16)
+        expected[name]=blob
         out+=blob
         struct.pack_into('<I',out,loc,len(out)-base)
     new_rows=entradas_dat(out)
-    if any(out[s:e]!=cambios.get(name,data[rows[i][1]:rows[i][2]]) for i,(name,s,e,loc) in enumerate(new_rows)):
+    if any(out[s:e]!=expected[name] for name,s,e,loc in new_rows):
         raise FormatoError('Validación DAT falló')
+    if alignment==16 and any(s%16 or e%16 for _,s,e,_ in new_rows):
+        raise FormatoError('Reconstrucción perdió alineación DAT de 16 bytes')
     return bytes(out)

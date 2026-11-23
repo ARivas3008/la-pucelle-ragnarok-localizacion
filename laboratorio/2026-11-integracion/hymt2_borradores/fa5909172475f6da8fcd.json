@@ -1,0 +1,40 @@
+{
+  "original": "What can I do to return Croix back to normal。。。? Tell me、 Goddess Poitreene。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nTo think that Croix is supposed to destroy humanity。。。 What am I supposed to do。。。?\nStand up、 Sister Prier。。。\nCould this be。。。 Goddess Poitreene。。。!?",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nTo think that Croix is supposed to destroy humanity。。。 What am I supposed to do。。。?\nStand up、 Sister Prier。。。\nCould this be。。。 Goddess Poitreene。。。!?\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhat can I do to return Croix back to normal。。。? Tell me、 Goddess Poitreene。。。",
+  "respuesta": "¿Qué puedo hacer para devolver a Croix a su estado normal? Dígame, diosa Poitreene…",
+  "fin": "stop",
+  "segundos": 3.16,
+  "uso": {
+    "completion_tokens": 27,
+    "prompt_tokens": 354,
+    "total_tokens": 381,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "fa5909172475f6da8fcd",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 60068,
+      "entry_id": 1702,
+      "original_hex": [
+        "8276828882818294814082838281828e8140826881408284828f81408294828f",
+        "82928285829482958292828e814082628292828f828982988140828282818283828b81408294828f",
+        "828e828f8292828d8281828c8142814281428148",
+        "82738285828c828c8140828d8285814181408266828f82848284828582938293",
+        "826f828f82898294829282858285828e8285814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "To think that Croix is supposed to destroy humanity。。。 What am I supposed to do。。。?",
+        "Stand up、 Sister Prier。。。",
+        "Could this be。。。 Goddess Poitreene。。。!?"
+      ]
+    }
+  ]
+}

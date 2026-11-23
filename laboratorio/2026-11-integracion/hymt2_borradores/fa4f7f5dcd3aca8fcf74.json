@@ -1,0 +1,41 @@
+{
+  "original": "Remember、 we remain on mission until we return from Pot au Feu。 Be sure to remain on alert until we arrive home。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nEh? Ah、 yes! Sorry! Thank you!\n(Man。。。Sister Alouette is just so kind。。。)\nRoger that!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nEh? Ah、 yes! Sorry! Thank you!\n(Man。。。Sister Alouette is just so kind。。。)\nRoger that!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nRemember、 we remain on mission until we return from Pot au Feu。 Be sure to remain on alert until we arrive home。",
+  "respuesta": "Recuerden que seguimos en misión hasta que regresemos de Pot au Feu. Por favor, manténganse alertas hasta que lleguemos a casa.",
+  "fin": "stop",
+  "segundos": 3.93,
+  "uso": {
+    "completion_tokens": 39,
+    "prompt_tokens": 351,
+    "total_tokens": 390,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "fa4f7f5dcd3aca8fcf74",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 72899,
+      "entry_id": 1602,
+      "original_hex": [
+        "82718285828d8285828d8282828582928141814082978285814082928285828d82818289828e",
+        "828f828e8140828d8289829382938289828f828e81408295828e82948289828c814082978285",
+        "82928285829482958292828e814082868292828f828d8140826f828f829481408281829581408265828582958142",
+        "826182858140829382958292828581408294828f814082928285828d82818289828e8140828f828e",
+        "8281828c82858292829481408295828e82948289828c8140829782858140828182928292828982968285",
+        "8288828f828d82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Eh? Ah、 yes! Sorry! Thank you!",
+        "(Man。。。Sister Alouette is just so kind。。。)",
+        "Roger that!"
+      ]
+    }
+  ]
+}

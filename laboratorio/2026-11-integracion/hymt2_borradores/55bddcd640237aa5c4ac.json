@@ -1,0 +1,43 @@
+{
+  "original": "No、 the ONLY thing I can become is the Demon Lord! I will become the Demon Lord!!! So just leave me alone!!!!!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nBut there are demons that recognize my power。。。!\nI could not become the Holy Maiden of Light、 but with this power、 I can become the Demon Lord。。。!\nSister Prier。 Continually getting the wrong impression is quite the bad habit、 you know。\nUgh、 geez。 Enough already! Even I realize how pathetic she is acting! There is no way we will lose!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nBut there are demons that recognize my power。。。!\nI could not become the Holy Maiden of Light、 but with this power、 I can become the Demon Lord。。。!\nSister Prier。 Continually getting the wrong impression is quite the bad habit、 you know。\nUgh、 geez。 Enough already! Even I realize how pathetic she is acting! There is no way we will lose!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nNo、 the ONLY thing I can become is the Demon Lord! I will become the Demon Lord!!! So just leave me alone!!!!!",
+  "respuesta": "No, la ÚNICA cosa que puedo ser es el Señor de los Demonios. ¡Me convertiré en el Señor de los Demonios!!! Así que déjenme en paz, por favor!!!!",
+  "fin": "stop",
+  "segundos": 5.13,
+  "uso": {
+    "completion_tokens": 52,
+    "prompt_tokens": 406,
+    "total_tokens": 458,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "55bddcd640237aa5c4ac",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 77623,
+      "entry_id": 1706,
+      "original_hex": [
+        "826d828f814181408294828882858140826e826d826b82788140829482888289828e8287",
+        "8268814082838281828e8140828282858283828f828d82858140828982938140829482888285",
+        "82638285828d828f828e8140826b828f829282848149",
+        "8268814082978289828c828c8140828282858283828f828d82858140829482888285",
+        "82638285828d828f828e8140826b828f82928284814981498149",
+        "8272828f8140828a8295829382948140828c82858281829682858140828d8285",
+        "8281828c828f828e828581498149814981498149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "But there are demons that recognize my power。。。!",
+        "I could not become the Holy Maiden of Light、 but with this power、 I can become the Demon Lord。。。!",
+        "Sister Prier。 Continually getting the wrong impression is quite the bad habit、 you know。",
+        "Ugh、 geez。 Enough already! Even I realize how pathetic she is acting! There is no way we will lose!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "original": "You expect me to just sit back and let you get away with what you are saying!? I am gonna become the Maiden of Light!!!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nNo need to worry about it、 Culotte。 I understand that you were just joking around、 after all。。。\nMore importantly、 I can never forgive myself for having the darkness in my heart hurt you。。。!\nWell said、 Sister Prier。 It is true that this is the darkness in your heart。 And it is up to you to face her head on。。。\nHowever、 remember that you also have a heart of light。 As long as you keep that sentiment within you、 you will never become a Demon Lord!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nNo need to worry about it、 Culotte。 I understand that you were just joking around、 after all。。。\nMore importantly、 I can never forgive myself for having the darkness in my heart hurt you。。。!\nWell said、 Sister Prier。 It is true that this is the darkness in your heart。 And it is up to you to face her head on。。。\nHowever、 remember that you also have a heart of light。 As long as you keep that sentiment within you、 you will never become a Demon Lord!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYou expect me to just sit back and let you get away with what you are saying!? I am gonna become the Maiden of Light!!!",
+  "respuesta": "¿Esperas que me quede de brazos cruzados y te deje hacer lo que quieras? ¡No lo permitiré! ¡Voy a convertirme en la Doncella de la Luz!!!",
+  "fin": "stop",
+  "segundos": 5.71,
+  "uso": {
+    "completion_tokens": 49,
+    "prompt_tokens": 430,
+    "total_tokens": 479,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "e9b591a044ce4efdee9f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 97239,
+      "entry_id": 1607,
+      "original_hex": [
+        "8278828f829581408285829882908285828382948140828d828581408294828f8140828a829582938294",
+        "8293828982948140828282818283828b81408281828e82848140828c8285829481408299828f8295",
+        "82878285829481408281829782818299814082978289829482888140829782888281829481408299828f8295",
+        "82818292828581408293828182998289828e828781498148",
+        "826881408281828d81408287828f828e828e82818140828282858283828f828d8285",
+        "8294828882858140826c8281828982848285828e8140828f82868140826b8289828782888294814981498149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "No need to worry about it、 Culotte。 I understand that you were just joking around、 after all。。。",
+        "More importantly、 I can never forgive myself for having the darkness in my heart hurt you。。。!",
+        "Well said、 Sister Prier。 It is true that this is the darkness in your heart。 And it is up to you to face her head on。。。",
+        "However、 remember that you also have a heart of light。 As long as you keep that sentiment within you、 you will never become a Demon Lord!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "original": "That cannot be。。。 To think that I have to fight Croix。。。 I simply cannot do it!!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nCorrect。 If Sister Alouette should lose her life、 the seal will be unbroken、 and Croix will turn into the true Dark Prince。\nWhat you must now set out to do is to protect Sister Alouette and to battle against Croix。\nBesides、 what am I even supposed to do。。。\nMy dream was to become the Holy Maiden of Light、 but I started to realize something。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nCorrect。 If Sister Alouette should lose her life、 the seal will be unbroken、 and Croix will turn into the true Dark Prince。\nWhat you must now set out to do is to protect Sister Alouette and to battle against Croix。\nBesides、 what am I even supposed to do。。。\nMy dream was to become the Holy Maiden of Light、 but I started to realize something。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThat cannot be。。。 To think that I have to fight Croix。。。 I simply cannot do it!!",
+  "respuesta": "Eso no puede ser… Pensar que tengo que luchar contra Croix… Simplemente no puedo hacerlo.",
+  "fin": "stop",
+  "segundos": 3.33,
+  "uso": {
+    "completion_tokens": 29,
+    "prompt_tokens": 398,
+    "total_tokens": 427,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "569ba06796c53441f88f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 62001,
+      "entry_id": 1702,
+      "original_hex": [
+        "8273828882818294814082838281828e828e828f8294814082828285814281428142",
+        "8273828f8140829482888289828e828b814082948288828182948140826881408288828182968285",
+        "8294828f814082868289828782888294814082628292828f82898298814281428142",
+        "8268814082938289828d8290828c8299814082838281828e828e828f829481408284828f81408289829481498149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Correct。 If Sister Alouette should lose her life、 the seal will be unbroken、 and Croix will turn into the true Dark Prince。",
+        "What you must now set out to do is to protect Sister Alouette and to battle against Croix。",
+        "Besides、 what am I even supposed to do。。。",
+        "My dream was to become the Holy Maiden of Light、 but I started to realize something。。。"
+      ]
+    }
+  ]
+}

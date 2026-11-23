@@ -1,0 +1,38 @@
+{
+  "original": "The Maiden。。。 of Light。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWhy you。。。 Quit listening to what she is saying!\nThat is right、 Prier! Your goal has never been to become the Demon Lord! It has always been to become the Maiden of Light、 remember!?\nThat is quite a line coming from you、 Culotte! You were the one who said it first、 after all。。。\nYou said that me becoming a Demon Lord was more fitting than becoming the Maiden of Light!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWhy you。。。 Quit listening to what she is saying!\nThat is right、 Prier! Your goal has never been to become the Demon Lord! It has always been to become the Maiden of Light、 remember!?\nThat is quite a line coming from you、 Culotte! You were the one who said it first、 after all。。。\nYou said that me becoming a Demon Lord was more fitting than becoming the Maiden of Light!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThe Maiden。。。 of Light。。。",
+  "respuesta": "La Doncella de la Luz…",
+  "fin": "stop",
+  "segundos": 2.56,
+  "uso": {
+    "completion_tokens": 9,
+    "prompt_tokens": 392,
+    "total_tokens": 401,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "4ac8be04712644b60d27",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 94476,
+      "entry_id": 1607,
+      "original_hex": [
+        "8273828882858140826c8281828982848285828e814281428142",
+        "828f82868140826b8289828782888294814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Why you。。。 Quit listening to what she is saying!",
+        "That is right、 Prier! Your goal has never been to become the Demon Lord! It has always been to become the Maiden of Light、 remember!?",
+        "That is quite a line coming from you、 Culotte! You were the one who said it first、 after all。。。",
+        "You said that me becoming a Demon Lord was more fitting than becoming the Maiden of Light!!"
+      ]
+    }
+  ]
+}

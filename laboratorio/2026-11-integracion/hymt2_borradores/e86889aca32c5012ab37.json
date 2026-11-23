@@ -1,0 +1,78 @@
+{
+  "original": "Pure and innocent、 huh。。。 Well、 whatever。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYeah。 We need to hurry up and do something before my pure and innocent image is destroyed!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYeah。 We need to hurry up and do something before my pure and innocent image is destroyed!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nPure and innocent、 huh。。。 Well、 whatever。",
+  "respuesta": "Pura e inocente… Bueno, no importa.",
+  "fin": "stop",
+  "segundos": 1.91,
+  "uso": {
+    "completion_tokens": 14,
+    "prompt_tokens": 325,
+    "total_tokens": 339,
+    "prompt_tokens_details": {
+      "cached_tokens": 278
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "e86889aca32c5012ab37",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 59101,
+      "entry_id": 282902,
+      "original_hex": [
+        "826f82958292828581408281828e828481408289828e828e828f82838285828e82948141",
+        "828882958288814281428142",
+        "82768285828c828c81418140829782888281829482858296828582928142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yeah。 We need to hurry up and do something before my pure and innocent image is destroyed!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 59766,
+      "entry_id": 282902,
+      "original_hex": [
+        "826f82958292828581408281828e828481408289828e828e828f82838285828e82948141",
+        "828882958288814281428142",
+        "82768285828c828c81418140829782888281829482858296828582928142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yeah。 We need to hurry up and do something before my pure and innocent image is destroyed!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 50401,
+      "entry_id": 282902,
+      "original_hex": [
+        "826f82958292828581408281828e828481408289828e828e828f82838285828e82948141",
+        "828882958288814281428142",
+        "82768285828c828c81418140829782888281829482858296828582928142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yeah。 We need to hurry up and do something before my pure and innocent image is destroyed!"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 60886,
+      "entry_id": 282902,
+      "original_hex": [
+        "826f82958292828581408281828e828481408289828e828e828f82838285828e82948141",
+        "828882958288814281428142",
+        "82768285828c828c81418140829782888281829482858296828582928142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yeah。 We need to hurry up and do something before my pure and innocent image is destroyed!"
+      ]
+    }
+  ]
+}

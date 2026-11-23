@@ -1,0 +1,41 @@
+{
+  "original": "What is with that cold reaction!? Did you forget our hot and passionate time that we spent together!?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYo! We meet again!\nOh、 just Homard、 huh。。。\nWh!? W w w w。。。 What happened between you two、 Prier!?\nThere is barely anything to remember。 The only thing we ever did together was when you showed us where to find some Kinoko Jiru。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYo! We meet again!\nOh、 just Homard、 huh。。。\nWh!? W w w w。。。 What happened between you two、 Prier!?\nThere is barely anything to remember。 The only thing we ever did together was when you showed us where to find some Kinoko Jiru。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWhat is with that cold reaction!? Did you forget our hot and passionate time that we spent together!?",
+  "respuesta": "¿Qué pasa con esa reacción fría? ¿Has olvidado los momentos cálidos y apasionados que pasamos juntos?",
+  "fin": "stop",
+  "segundos": 4.85,
+  "uso": {
+    "completion_tokens": 34,
+    "prompt_tokens": 380,
+    "total_tokens": 414,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "3bbb3619a9f9e8a3d31f",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 73679,
+      "entry_id": 1603,
+      "original_hex": [
+        "8276828882818294814082898293814082978289829482888140829482888281829481408283828f828c8284",
+        "829282858281828382948289828f828e81498148",
+        "82638289828481408299828f829581408286828f82928287828582948140828f8295829281408288828f8294",
+        "8281828e8284814082908281829382938289828f828e828182948285814082948289828d8285",
+        "82948288828182948140829782858140829382908285828e829481408294828f82878285829482888285829281498148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Yo! We meet again!",
+        "Oh、 just Homard、 huh。。。",
+        "Wh!? W w w w。。。 What happened between you two、 Prier!?",
+        "There is barely anything to remember。 The only thing we ever did together was when you showed us where to find some Kinoko Jiru。"
+      ]
+    }
+  ]
+}

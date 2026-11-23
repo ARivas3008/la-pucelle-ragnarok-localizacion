@@ -1,0 +1,37 @@
+{
+  "original": "Yeah。 We have been nothing but a burden in the past、 so it is our time to help out and save Homard!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\n",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\n\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nYeah。 We have been nothing but a burden in the past、 so it is our time to help out and save Homard!",
+  "respuesta": "Sí. En el pasado, siempre hemos sido una carga para los demás. Ahora es nuestro turno de ayudar y salvar a Homard.",
+  "fin": "stop",
+  "segundos": 3.25,
+  "uso": {
+    "completion_tokens": 39,
+    "prompt_tokens": 321,
+    "total_tokens": 360,
+    "prompt_tokens_details": {
+      "cached_tokens": 294
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "a33e4419c62054aee6e5",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+      "offset": 92556,
+      "entry_id": 281902,
+      "original_hex": [
+        "82788285828182888142",
+        "82768285814082888281829682858140828282858285828e8140828e828f829482888289828e8287",
+        "82828295829481408281814082828295829282848285828e81408289828e8140829482888285",
+        "8290828182938294814181408293828f8140828982948140828982938140828f82958292814082948289828d8285",
+        "8294828f814082888285828c82908140828f8295829481408281828e828481408293828182968285",
+        "8267828f828d8281829282848149"
+      ],
+      "opcion": false,
+      "contexto": []
+    }
+  ]
+}

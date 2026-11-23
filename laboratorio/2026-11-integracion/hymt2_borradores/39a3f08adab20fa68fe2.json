@@ -1,0 +1,41 @@
+{
+  "original": "But if you think about it、 you would make a much better Demon Lord than a Maiden of Light。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nNot at all、 Master。\nThis has gotta be some kind of mistake!!\nShut up!\nI have had enough of this nonsense。 Lets get out of here!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nNot at all、 Master。\nThis has gotta be some kind of mistake!!\nShut up!\nI have had enough of this nonsense。 Lets get out of here!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nBut if you think about it、 you would make a much better Demon Lord than a Maiden of Light。。。",
+  "respuesta": "Pero si lo piensas bien, serías un mejor Señor Demonio que una Doncella de la Luz…",
+  "fin": "stop",
+  "segundos": 3.11,
+  "uso": {
+    "completion_tokens": 28,
+    "prompt_tokens": 351,
+    "total_tokens": 379,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "39a3f08adab20fa68fe2",
+  "apariciones": [
+    {
+      "recurso": "ISO_START/talk00.dat",
+      "offset": 105041,
+      "entry_id": 1301,
+      "original_hex": [
+        "82618295829481408289828681408299828f82958140829482888289828e828b814082818282828f82958294",
+        "82898294814181408299828f829581408297828f8295828c82848140828d8281828b828581408281",
+        "828d8295828382888140828282858294829482858292814082638285828d828f828e",
+        "826b828f829282848140829482888281828e814082818140826c8281828982848285828e",
+        "828f82868140826b8289828782888294814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Not at all、 Master。",
+        "This has gotta be some kind of mistake!!",
+        "Shut up!",
+        "I have had enough of this nonsense。 Lets get out of here!"
+      ]
+    }
+  ]
+}

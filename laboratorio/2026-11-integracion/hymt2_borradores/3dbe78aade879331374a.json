@@ -1,0 +1,35 @@
+{
+  "original": "Just leave her be。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI am done for。。。!!\nShe seriously seems to be misunderstanding something。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI am done for。。。!!\nShe seriously seems to be misunderstanding something。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nJust leave her be。",
+  "respuesta": "Deja que se quede sola.",
+  "fin": "stop",
+  "segundos": 1.37,
+  "uso": {
+    "completion_tokens": 10,
+    "prompt_tokens": 315,
+    "total_tokens": 325,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "3dbe78aade879331374a",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 42737,
+      "entry_id": 255320,
+      "original_hex": [
+        "82698295829382948140828c828582818296828581408288828582928140828282858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I am done for。。。!!",
+        "She seriously seems to be misunderstanding something。。。"
+      ]
+    }
+  ]
+}

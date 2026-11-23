@@ -62,7 +62,8 @@ def _solapa(intervalos, inicio, fin):
 
 
 def aplicar(propuestas, manifest, resultados, source_buffers, eboot, patch_offsets,
-            packs, matching, reviews=None, *, fuentes_activas=True, incluir_no_aprobadas=False):
+            packs, matching, reviews=None, *, fuentes_activas=True, incluir_no_aprobadas=False,
+            conservar_eboot=False):
     """Aplicación determinista, fail-closed, con una entrada de informe por unidad.
 
     El motor primero aplica las traducciones v0.8. Aquí solo se intentan
@@ -141,6 +142,8 @@ def aplicar(propuestas, manifest, resultados, source_buffers, eboot, patch_offse
                 patch_offsets[resource].append((off, fin))
                 etiqueta = 'APLICADO_REDUCCION_ESTRUCTURAL'
             elif p['tipo'] == 'EBOOT':
+                if conservar_eboot:
+                    raise IntegracionError('EBOOT protegido por aislamiento gráfico')
                 if eboot is None or resource != 'ISO/PSP_GAME/SYSDIR/EBOOT.BIN':
                     raise IntegracionError('EBOOT no seleccionado')
                 antiguo = m['original'].encode('ascii')

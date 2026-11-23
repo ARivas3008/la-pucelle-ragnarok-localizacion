@@ -1,0 +1,42 @@
+{
+  "original": "This cannot be。。。! This is simply not possible。。。 Something this ridiculous cannot be happening。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nThank goodness。。。! You have been released from the darkness。。。!!\nYeah、 it seems so。\nHowever、 this is most likely only temporary。。。 You already know that it is only a matter of time before the darkness consumes me and I try to destroy all of humanity again。\nSo、 Prier。。。 While I am still my normal self、 you should kill me with your own hands。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nThank goodness。。。! You have been released from the darkness。。。!!\nYeah、 it seems so。\nHowever、 this is most likely only temporary。。。 You already know that it is only a matter of time before the darkness consumes me and I try to destroy all of humanity again。\nSo、 Prier。。。 While I am still my normal self、 you should kill me with your own hands。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nThis cannot be。。。! This is simply not possible。。。 Something this ridiculous cannot be happening。。。",
+  "respuesta": "Esto no puede ser… ¡Es simplemente imposible! Algo tan absurdo no puede suceder en realidad.",
+  "fin": "stop",
+  "segundos": 4.05,
+  "uso": {
+    "completion_tokens": 31,
+    "prompt_tokens": 389,
+    "total_tokens": 420,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "94aa8d3056478d7f78b8",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 109880,
+      "entry_id": 1812,
+      "original_hex": [
+        "8273828882898293814082838281828e828e828f82948140828282858142814281428149",
+        "8273828882898293814082898293814082938289828d8290828c82998140828e828f8294",
+        "8290828f8293829382898282828c8285814281428142",
+        "8272828f828d8285829482888289828e828781408294828882898293",
+        "829282898284828982838295828c828f82958293814082838281828e828e828f8294814082828285",
+        "82888281829082908285828e8289828e8287814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Thank goodness。。。! You have been released from the darkness。。。!!",
+        "Yeah、 it seems so。",
+        "However、 this is most likely only temporary。。。 You already know that it is only a matter of time before the darkness consumes me and I try to destroy all of humanity again。",
+        "So、 Prier。。。 While I am still my normal self、 you should kill me with your own hands。"
+      ]
+    }
+  ]
+}

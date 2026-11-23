@@ -1,0 +1,42 @@
+{
+  "original": "But you are basically saying that、 in order to cleanse Prier、 you first need to cleanse yourself。。。 。。。right、 Eclair?",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nI。。。\nI have no clue what is going on here at the moment。。。\nYes! Sounds about right!\nSo there is only one thing left to do!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nI。。。\nI have no clue what is going on here at the moment。。。\nYes! Sounds about right!\nSo there is only one thing left to do!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nBut you are basically saying that、 in order to cleanse Prier、 you first need to cleanse yourself。。。 。。。right、 Eclair?",
+  "respuesta": "Pero en realidad, lo que estás diciendo es que, para poder purificar a Prier, primero hay que purificarse uno mismo… ¿verdad, Éclair?",
+  "fin": "stop",
+  "segundos": 4.09,
+  "uso": {
+    "completion_tokens": 42,
+    "prompt_tokens": 356,
+    "total_tokens": 398,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "8841b7491404ab6aed7b",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 70247,
+      "entry_id": 1703,
+      "original_hex": [
+        "82618295829481408299828f829581408281829282858140828282818293828982838281828c828c8299",
+        "8293828182998289828e828781408294828882818294814181408289828e8140828f8292828482858292",
+        "8294828f81408283828c82858281828e829382858140826f8292828982858292814181408299828f8295",
+        "828682898292829382948140828e82858285828481408294828f81408283828c82858281828e82938285",
+        "8299828f8295829282938285828c8286814281428142",
+        "814281428142829282898287828882948141814082648283828c8281828982928148"
+      ],
+      "opcion": false,
+      "contexto": [
+        "I。。。",
+        "I have no clue what is going on here at the moment。。。",
+        "Yes! Sounds about right!",
+        "So there is only one thing left to do!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "original": "I followed him as far as Mt。 Tarte but then he got the best of me。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nFather Salade ordered me to follow a murder suspect who was ripping peoples hearts out。\nThe shape changing demon?\nI have failed in my mission。。。\nAnd there is still so much work to be done for La Pucelle。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nFather Salade ordered me to follow a murder suspect who was ripping peoples hearts out。\nThe shape changing demon?\nI have failed in my mission。。。\nAnd there is still so much work to be done for La Pucelle。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nI followed him as far as Mt。 Tarte but then he got the best of me。",
+  "respuesta": "Lo seguí hasta el Monte Tarte, pero luego él logró ganar la batalla.",
+  "fin": "stop",
+  "segundos": 2.92,
+  "uso": {
+    "completion_tokens": 22,
+    "prompt_tokens": 362,
+    "total_tokens": 384,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "3851032e8df042fba516",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat",
+      "offset": 149733,
+      "entry_id": 213,
+      "original_hex": [
+        "826881408286828f828c828c828f829782858284814082888289828d8140828182938140828682818292",
+        "828182938140826c8294814281408273828182928294828581408282829582948140829482888285828e",
+        "8288828581408287828f82948140829482888285814082828285829382948140828f82868140828d82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Father Salade ordered me to follow a murder suspect who was ripping peoples hearts out。",
+        "The shape changing demon?",
+        "I have failed in my mission。。。",
+        "And there is still so much work to be done for La Pucelle。。。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat",
+      "offset": 136287,
+      "entry_id": 213,
+      "original_hex": [
+        "826881408286828f828c828c828f829782858284814082888289828d8140828182938140828682818292",
+        "828182938140826c8294814281408273828182928294828581408282829582948140829482888285828e",
+        "8288828581408287828f82948140829482888285814082828285829382948140828f82868140828d82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Father Salade ordered me to follow a murder suspect who was ripping peoples hearts out。",
+        "The shape changing demon?",
+        "I have failed in my mission。。。",
+        "And there is still so much work to be done for La Pucelle。。。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat",
+      "offset": 147063,
+      "entry_id": 213,
+      "original_hex": [
+        "826881408286828f828c828c828f829782858284814082888289828d8140828182938140828682818292",
+        "828182938140826c8294814281408273828182928294828581408282829582948140829482888285828e",
+        "8288828581408287828f82948140829482888285814082828285829382948140828f82868140828d82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Father Salade ordered me to follow a murder suspect who was ripping peoples hearts out。",
+        "The shape changing demon?",
+        "I have failed in my mission。。。",
+        "And there is still so much work to be done for La Pucelle。。。"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat",
+      "offset": 137045,
+      "entry_id": 213,
+      "original_hex": [
+        "826881408286828f828c828c828f829782858284814082888289828d8140828182938140828682818292",
+        "828182938140826c8294814281408273828182928294828581408282829582948140829482888285828e",
+        "8288828581408287828f82948140829482888285814082828285829382948140828f82868140828d82858142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Father Salade ordered me to follow a murder suspect who was ripping peoples hearts out。",
+        "The shape changing demon?",
+        "I have failed in my mission。。。",
+        "And there is still so much work to be done for La Pucelle。。。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1277 @@
+{
+  "cambios": {
+    "3538": [
+      "Main Street",
+      "Calle Mayor",
+      708432
+    ],
+    "3539": [
+      "Orphanage",
+      "Orfanato",
+      708455
+    ],
+    "3540": [
+      "Church",
+      "Igles.",
+      708478
+    ],
+    "3541": [
+      "Udon Shop",
+      "Udon",
+      708501
+    ],
+    "3542": [
+      "Rosenqueen Store",
+      "Rosenqueen",
+      708524
+    ],
+    "3543": [
+      "World Map",
+      "Mapa",
+      708547
+    ],
+    "3544": [
+      "Pot au Feu City",
+      "Pot au Feu",
+      763742
+    ],
+    "3545": [
+      "Port Mayonnaise",
+      "Puerto Mayonesa",
+      763782
+    ],
+    "3546": [
+      "Devils Stomach",
+      "Panza diabla",
+      763822
+    ],
+    "3547": [
+      "Montblanc Castle",
+      "Cast. Montblanc",
+      763862
+    ],
+    "3548": [
+      "Minka Place",
+      "Plaza Minka",
+      763942
+    ],
+    "3549": [
+      "Meuniere Forest",
+      "B. Meunière",
+      763982
+    ],
+    "3550": [
+      "Eringa Valley",
+      "Valle Eringa",
+      764022
+    ],
+    "3551": [
+      "Mt. Champignon",
+      "Monte Champignon",
+      764062
+    ],
+    "3552": [
+      "Watercress Castle",
+      "Castillo Berro",
+      764102
+    ],
+    "3553": [
+      "Jungle",
+      "Selva",
+      764142
+    ],
+    "3554": [
+      "Cave of Ruins",
+      "Ruinas",
+      764182
+    ],
+    "3555": [
+      "Couscous Village",
+      "Villa Cuscús",
+      764222
+    ],
+    "3556": [
+      "Ghost Village",
+      "Villa fantas.",
+      764262
+    ],
+    "3557": [
+      "Choux Fleurs Hill",
+      "Col. Choux Fleurs",
+      764302
+    ],
+    "3558": [
+      "Angel Gate",
+      "P. ángel",
+      764342
+    ],
+    "3559": [
+      "Crash Site",
+      "Impacto",
+      764382
+    ],
+    "3560": [
+      "Royal Library",
+      "Bibliot. real",
+      764422
+    ],
+    "3561": [
+      "House of Angelica",
+      "Casa de Angélica",
+      764462
+    ],
+    "3562": [
+      "Cave of Trials",
+      "Cueva de retos",
+      764502
+    ],
+    "3563": [
+      "Angel Gate Top",
+      "Cima P. ángel",
+      764542
+    ],
+    "3564": [
+      "Dark Shrine",
+      "Altar negro",
+      764582
+    ],
+    "3565": [
+      "Castle Bar",
+      "Bar cast.",
+      764622
+    ],
+    "3566": [
+      "New Castle Bar",
+      "Nuevo Bar cast",
+      764662
+    ],
+    "3567": [
+      "Shin Castle Bar",
+      "Bar cast. Shin",
+      764702
+    ],
+    "3568": [
+      "Croquette Village",
+      "Aldea Croqueta",
+      764742
+    ],
+    "3569": [
+      "Cave of Vinaigrette",
+      "Cueva Vinagreta",
+      764782
+    ],
+    "3570": [
+      "Massive Darkness",
+      "Gran oscuridad",
+      764862
+    ],
+    "3571": [
+      "Secret Island",
+      "Isla Secreta",
+      764942
+    ],
+    "3572": [
+      "Demon",
+      "Diab.",
+      765792
+    ],
+    "3573": [
+      "High Demon",
+      "Diab. alto",
+      765804
+    ],
+    "3574": [
+      "Great Demon",
+      "Gran diab.",
+      765816
+    ],
+    "3575": [
+      "Demon Lord",
+      "Rey diab.",
+      765828
+    ],
+    "3576": [
+      "Overlord",
+      "Soberano",
+      765840
+    ],
+    "3577": [
+      "Bone",
+      "Hues",
+      767000
+    ],
+    "3578": [
+      "Tiny",
+      "Mini",
+      767020
+    ],
+    "3579": [
+      "Bat",
+      "Mur",
+      767040
+    ],
+    "3580": [
+      "Bear",
+      "Oso",
+      767060
+    ],
+    "3581": [
+      "Hippo",
+      "Hipo",
+      767080
+    ],
+    "3582": [
+      "Plant",
+      "Flora",
+      767100
+    ],
+    "3583": [
+      "Whale",
+      "Ball.",
+      767120
+    ],
+    "3584": [
+      "Wisp",
+      "Fatu",
+      767140
+    ],
+    "3585": [
+      "Furry",
+      "Pelo",
+      767160
+    ],
+    "3586": [
+      "Pumpkin",
+      "Calabaz",
+      767180
+    ],
+    "3587": [
+      "Box",
+      "Cof",
+      767200
+    ],
+    "3588": [
+      "Ghost",
+      "Fant.",
+      767220
+    ],
+    "3589": [
+      "Shroom",
+      "Hongo",
+      767240
+    ],
+    "3590": [
+      "Runt",
+      "Enan",
+      767260
+    ],
+    "3591": [
+      "Mermaid",
+      "Sirena",
+      767280
+    ],
+    "3593": [
+      "Princess",
+      "Princesa",
+      767620
+    ],
+    "3594": [
+      "Dark Eclair",
+      "Éclair o.",
+      767640
+    ],
+    "3595": [
+      "Priest",
+      "Cura",
+      767660
+    ],
+    "3596": [
+      "Demon Hunter",
+      "Cazademonios",
+      767680
+    ],
+    "3597": [
+      "Escargot Crew",
+      "Grupo Caracol",
+      767700
+    ],
+    "3598": [
+      "Our Lady of God",
+      "Virgen divina",
+      767720
+    ],
+    "3599": [
+      "Holy Mother Church",
+      "Igl. Santa Madre",
+      767740
+    ],
+    "3600": [
+      "Fallen Angel",
+      "Angel caido",
+      767820
+    ],
+    "3602": [
+      "Transformation has been learned by Prier",
+      "Prier ha aprendido Transformar",
+      768408
+    ],
+    "3603": [
+      "All characters first story",
+      "Todos del relato inicial",
+      768452
+    ],
+    "3604": [
+      "Now available",
+      "Disponible",
+      768488
+    ],
+    "3605": [
+      "Devil",
+      "Diab.",
+      768548
+    ],
+    "3606": [
+      "Start",
+      "Jugar",
+      769040
+    ],
+    "3607": [
+      "Continue",
+      "Seguir",
+      769052
+    ],
+    "3608": [
+      "Settings",
+      "Opciones",
+      769064
+    ],
+    "3609": [
+      "Yes",
+      "Sí",
+      769144
+    ],
+    "3611": [
+      "Cancel Saving",
+      "No guardar",
+      769160
+    ],
+    "3612": [
+      "Menu",
+      "Men.",
+      769216
+    ],
+    "3613": [
+      "Items",
+      "Objetos",
+      769228
+    ],
+    "3614": [
+      "Equip",
+      "Poner",
+      769240
+    ],
+    "3615": [
+      "Status",
+      "Estado",
+      769248
+    ],
+    "3616": [
+      "Training",
+      "Entrenar",
+      769260
+    ],
+    "3617": [
+      "Arrange",
+      "Ordenar",
+      769276
+    ],
+    "3618": [
+      "Quit",
+      "Fin",
+      769300
+    ],
+    "3619": [
+      "Save",
+      "Guardar",
+      769312
+    ],
+    "3620": [
+      "Time",
+      "Tiempo",
+      769320
+    ],
+    "3622": [
+      "Level",
+      "Nivel",
+      769340
+    ],
+    "3623": [
+      "Human",
+      "Hum.",
+      769348
+    ],
+    "3624": [
+      "Monsters",
+      "Monstruos",
+      769356
+    ],
+    "3625": [
+      "Attack",
+      "Atacar",
+      769376
+    ],
+    "3626": [
+      "Magic",
+      "Magia",
+      769388
+    ],
+    "3627": [
+      "Add",
+      "+",
+      769402
+    ],
+    "3628": [
+      "Replace",
+      "Cambiar",
+      769410
+    ],
+    "3629": [
+      "Manual Sort",
+      "Orden libre",
+      769420
+    ],
+    "3630": [
+      "Sort By Level",
+      "Por nivel",
+      769448
+    ],
+    "3631": [
+      "Sort By Human",
+      "Por humanos",
+      769476
+    ],
+    "3632": [
+      "Sort By Monsters",
+      "Por monstruos",
+      769508
+    ],
+    "3633": [
+      "Sort By HP",
+      "Por PV",
+      769532
+    ],
+    "3634": [
+      "Sort By Attack Power",
+      "Por ataque",
+      769556
+    ],
+    "3635": [
+      "Sort By Magic Power",
+      "Por magia",
+      769588
+    ],
+    "3636": [
+      "Inventory",
+      "Invent.",
+      769680
+    ],
+    "3637": [
+      "Skills",
+      "Dotes",
+      769726
+    ],
+    "3638": [
+      "Special",
+      "Extra",
+      769738
+    ],
+    "3639": [
+      "None",
+      "Nada",
+      769748
+    ],
+    "3640": [
+      "I do not remember any skills",
+      "Sin habilidades aprendidas",
+      769760
+    ],
+    "3641": [
+      "Organize",
+      "Ordenar",
+      769810
+    ],
+    "3642": [
+      "Sort",
+      "Ord.",
+      769826
+    ],
+    "3643": [
+      "I do not remember",
+      "No lo recuerdo",
+      769832
+    ],
+    "3644": [
+      "Remove",
+      "Quitar",
+      769890
+    ],
+    "3645": [
+      "Order",
+      "Orden",
+      769934
+    ],
+    "3646": [
+      "Drop",
+      "Tira",
+      769942
+    ],
+    "3647": [
+      "I do not have that item",
+      "No tengo ese objeto",
+      769952
+    ],
+    "3648": [
+      "Mood Deg. %d",
+      "Humor %d",
+      770024
+    ],
+    "3649": [
+      "Please enter name",
+      "Escribe nombre",
+      782824
+    ],
+    "3650": [
+      "Switch",
+      "Cambio",
+      782904
+    ],
+    "3651": [
+      "Deadly",
+      "Letal",
+      782976
+    ],
+    "3652": [
+      "SP Use Reduced",
+      "Menos uso PE",
+      782992
+    ],
+    "3653": [
+      "Damage Reduced",
+      "Menos daño",
+      783024
+    ],
+    "3654": [
+      "Sleep",
+      "Duer.",
+      783264
+    ],
+    "3656": [
+      "Sick",
+      "Mal",
+      783328
+    ],
+    "3657": [
+      "Effects",
+      "Efectos",
+      783438
+    ],
+    "3658": [
+      "Property",
+      "Atributo",
+      783480
+    ],
+    "3659": [
+      "You can buy normal items",
+      "Compra objetos comunes",
+      783700
+    ],
+    "3660": [
+      "You can purchase sucpicious dark items",
+      "Compra objetos oscuros sospechosos",
+      783740
+    ],
+    "3661": [
+      "No Stock",
+      "Agotado",
+      783792
+    ],
+    "3662": [
+      "Sell items you no longer need",
+      "Vende lo que ya no necesites",
+      783804
+    ],
+    "3663": [
+      "We ask customers buying items to do a survey",
+      "Pedimos una encuesta a nuestros clientes",
+      783844
+    ],
+    "3664": [
+      "In the future I will consider it",
+      "Lo tendré en cuenta",
+      783900
+    ],
+    "3665": [
+      "I will refrain from asking too many questions",
+      "Evitaré hacer demasiadas preguntas",
+      783944
+    ],
+    "3666": [
+      "Rosenqueen Shop",
+      "Rosenqueen",
+      784000
+    ],
+    "3667": [
+      "Buy",
+      "Comprar",
+      784024
+    ],
+    "3668": [
+      "Sell",
+      "Vender",
+      784040
+    ],
+    "3669": [
+      "Inventory is Full",
+      "Inventario lleno",
+      784068
+    ],
+    "3670": [
+      "Cannot be equipped",
+      "No puedes equipar",
+      784092
+    ],
+    "3671": [
+      "Try",
+      "Ver",
+      784130
+    ],
+    "3672": [
+      "Fit",
+      "Eq.",
+      784136
+    ],
+    "3673": [
+      "Rotate",
+      "Girar",
+      784180
+    ],
+    "3674": [
+      "Send Monster",
+      "Env. bestia",
+      784308
+    ],
+    "3675": [
+      "Check on Monster",
+      "Revisar bestia",
+      784332
+    ],
+    "3676": [
+      "Monster Training",
+      "Entrenar bestias",
+      784352
+    ],
+    "3677": [
+      "Explain Dark World",
+      "Sobre inframundo",
+      784372
+    ],
+    "3678": [
+      "Monster introduced did not come back",
+      "La bestia enviada no ha vuelto",
+      784416
+    ],
+    "3679": [
+      "Inventory Full",
+      "Bolsa llena",
+      784460
+    ],
+    "3680": [
+      "It was taken to Dark World",
+      "Fue al inframundo",
+      784520
+    ],
+    "3681": [
+      "Sending creature is useless",
+      "No sirve enviar esa bestia",
+      784548
+    ],
+    "3682": [
+      "There is no point in sending that creature",
+      "No tiene sentido enviar a esa criatura",
+      784592
+    ],
+    "3683": [
+      "There is no point since item level is too low",
+      "No sirve: el objeto tiene poco nivel",
+      784644
+    ],
+    "3684": [
+      "Item power down due to weak monster",
+      "Bestia débil: objeto debilitado",
+      784732
+    ],
+    "3685": [
+      "Armor",
+      "Armad",
+      785048
+    ],
+    "3686": [
+      "Glasses",
+      "Gafas",
+      785056
+    ],
+    "3687": [
+      "Boots",
+      "Botas",
+      785068
+    ],
+    "3688": [
+      "Prize",
+      "Prem.",
+      785076
+    ],
+    "3689": [
+      "Grow",
+      "Crec",
+      785084
+    ],
+    "3690": [
+      "Using",
+      "Uso",
+      785092
+    ],
+    "3691": [
+      "Weapon",
+      "Arma",
+      785100
+    ],
+    "3692": [
+      "Other",
+      "Otros",
+      785116
+    ],
+    "3693": [
+      "All Items",
+      "Todo obj.",
+      785124
+    ],
+    "3694": [
+      "Record",
+      "Datos",
+      785176
+    ],
+    "3695": [
+      "Play Time",
+      "Tiempo",
+      785188
+    ],
+    "3696": [
+      "Weeks",
+      "Ciclo",
+      785220
+    ],
+    "3697": [
+      "Maximum Damage",
+      "Daño máximo",
+      785232
+    ],
+    "3698": [
+      "Maximum Total Damage",
+      "Daño total máximo",
+      785252
+    ],
+    "3699": [
+      "Purify Number",
+      "N.º purif.",
+      785276
+    ],
+    "3700": [
+      "Ally Kills",
+      "Bajas ali.",
+      785296
+    ],
+    "3701": [
+      "Enemy Kills",
+      "Bajas enem",
+      785320
+    ],
+    "3702": [
+      "Item Rate",
+      "Objetos",
+      785348
+    ],
+    "3703": [
+      "Demon World",
+      "Inframundo",
+      785372
+    ],
+    "3704": [
+      "Demon Number",
+      "N.º diablos",
+      785388
+    ],
+    "3705": [
+      "Button",
+      "Botón",
+      785634
+    ],
+    "3706": [
+      "Dark Gate",
+      "P. oscuro",
+      788416
+    ],
+    "3707": [
+      "Base Panel",
+      "Panel base",
+      788428
+    ],
+    "3708": [
+      "Battle",
+      "Lucha",
+      788444
+    ],
+    "3709": [
+      "Cannot join Battle",
+      "No puede combatir",
+      788452
+    ],
+    "3710": [
+      "Forced to join team",
+      "Miembro obligatorio",
+      788520
+    ],
+    "3711": [
+      "More characters can still act",
+      "Aún quedan turnos",
+      788684
+    ],
+    "3712": [
+      "Purify",
+      "Purif.",
+      788744
+    ],
+    "3713": [
+      "Miracle up",
+      "Milagro +",
+      788751
+    ],
+    "3714": [
+      "Purify it",
+      "Purificar",
+      788768
+    ],
+    "3715": [
+      "Increase miracle ability by consuming reservoir",
+      "Consume reservas para potenciar el milagro",
+      788784
+    ],
+    "3716": [
+      "Please select range type",
+      "Elige el tipo de alcance",
+      788840
+    ],
+    "3717": [
+      "Increase purification power and reduce points",
+      "Más poder purificador a cambio de puntos",
+      788868
+    ],
+    "3718": [
+      "Increase purification range",
+      "Aumenta alcance purif.",
+      788916
+    ],
+    "3719": [
+      "Increase purifaction to a wider range",
+      "Purifica un área mayor",
+      788956
+    ],
+    "3720": [
+      "I do not know any skills",
+      "No sé habilidades",
+      789040
+    ],
+    "3721": [
+      "Use",
+      "Uso",
+      789072
+    ],
+    "3722": [
+      "Consume items",
+      "Usar objetos",
+      789096
+    ],
+    "3723": [
+      "Equip item",
+      "Equipar",
+      789124
+    ],
+    "3724": [
+      "Throw item away",
+      "Desechar objeto",
+      789148
+    ],
+    "3725": [
+      "Remodel item",
+      "Mejorar obj.",
+      789176
+    ],
+    "3726": [
+      "Low range",
+      "Poco alc.",
+      789212
+    ],
+    "3727": [
+      "Direction",
+      "Rumbo",
+      789226
+    ],
+    "3728": [
+      "Place Change Up here?",
+      "¿Cambiar aquí?",
+      789240
+    ],
+    "3729": [
+      "A new enemy emerged",
+      "Un nuevo enemigo",
+      789380
+    ],
+    "3730": [
+      "Spirit",
+      "Ánima",
+      790308
+    ],
+    "3731": [
+      "End Turn",
+      "Fin",
+      790412
+    ],
+    "3732": [
+      "Fight",
+      "Luchar",
+      790424
+    ],
+    "3733": [
+      "Options",
+      "Opciones",
+      790436
+    ],
+    "3734": [
+      "Quit Game",
+      "Salir",
+      790448
+    ],
+    "3735": [
+      "All units will attack all at once",
+      "Todos atacan al mismo tiempo",
+      790508
+    ],
+    "3736": [
+      "Various settings",
+      "Ajustes varios",
+      790556
+    ],
+    "3737": [
+      "Return to title menu and data will be lost",
+      "Volver al título: perderás el progreso",
+      790576
+    ],
+    "3738": [
+      "Move the unit",
+      "Mover unidad",
+      790632
+    ],
+    "3739": [
+      "Attack an enemy unit",
+      "Ataca a un enemigo",
+      790656
+    ],
+    "3740": [
+      "Use special skills",
+      "Usa habilidades",
+      790692
+    ],
+    "3741": [
+      "Purify the land of darkness",
+      "Purificar la tierra oscura",
+      790712
+    ],
+    "3742": [
+      "Look at status",
+      "Ver estado",
+      790792
+    ],
+    "3743": [
+      "Turn the unit around",
+      "Girar la unidad",
+      790812
+    ],
+    "3744": [
+      "Cancel action",
+      "Anular acto",
+      790840
+    ],
+    "3745": [
+      "Move",
+      "Ir",
+      790864
+    ],
+    "3746": [
+      "Undo",
+      "Deshacer",
+      790916
+    ],
+    "3747": [
+      "Please select a character to battle",
+      "Elige un personaje para combatir",
+      791028
+    ],
+    "3748": [
+      "Previous",
+      "Anterior",
+      791068
+    ],
+    "3749": [
+      "Previous List",
+      "Lista previa",
+      791144
+    ],
+    "3750": [
+      "Sort by level",
+      "Por nivel",
+      791176
+    ],
+    "3751": [
+      "Sort by human",
+      "Por humanos",
+      791204
+    ],
+    "3752": [
+      "Sort by monster",
+      "Por monstruo",
+      791236
+    ],
+    "3753": [
+      "Sort by HP",
+      "Por PV",
+      791260
+    ],
+    "3754": [
+      "Sort by attack power",
+      "Por ataque",
+      791284
+    ],
+    "3755": [
+      "Sort by magic power",
+      "Por magia",
+      791316
+    ],
+    "3756": [
+      "Rotate effect",
+      "Girar efecto",
+      791358
+    ],
+    "3757": [
+      "Power %5d",
+      "Poder %5d",
+      791376
+    ],
+    "3758": [
+      "Choose direction",
+      "Elige rumbo",
+      791388
+    ],
+    "3759": [
+      "Decide",
+      "Elegir",
+      791412
+    ],
+    "3760": [
+      "Complete Purify %9d",
+      "Purif. total %9d",
+      791596
+    ],
+    "3761": [
+      "Resetting will result in",
+      "Reiniciar provocará",
+      791688
+    ],
+    "3762": [
+      "BGM",
+      "Mus",
+      791876
+    ],
+    "3763": [
+      "Voice Vol",
+      "Vol. voz",
+      791884
+    ],
+    "3764": [
+      "Battle Vol",
+      "Vol. lucha",
+      791896
+    ],
+    "3765": [
+      "SE Vol",
+      "Vol.EF",
+      791908
+    ],
+    "3766": [
+      "Ally Effect  On",
+      "Ef. ali. Sí",
+      791916
+    ],
+    "3767": [
+      "Ally Effect  Off",
+      "Ef. ali. No",
+      791940
+    ],
+    "3768": [
+      "Enemy Effect  On",
+      "Ef. enem. Sí",
+      791964
+    ],
+    "3769": [
+      "Enemy Effect  Off",
+      "Ef. enem. No",
+      791988
+    ],
+    "3770": [
+      "System Speed Normal",
+      "Velocidad normal",
+      792012
+    ],
+    "3771": [
+      "System Speed Fast",
+      "Sistema veloz",
+      792036
+    ],
+    "3772": [
+      "Move Speed  Normal",
+      "Paso normal",
+      792060
+    ],
+    "3773": [
+      "Move Speed  Fast",
+      "Paso veloz",
+      792084
+    ],
+    "3774": [
+      "Move Speed  Blitz",
+      "Paso veloz",
+      792108
+    ],
+    "3775": [
+      "Text Speed  Slow",
+      "Texto lento",
+      792132
+    ],
+    "3776": [
+      "Text Speed  Normal",
+      "Texto normal",
+      792156
+    ],
+    "3777": [
+      "Text Speed  Fast",
+      "Texto veloz",
+      792180
+    ],
+    "3778": [
+      "Text Speed  Blitz",
+      "Texto veloz",
+      792204
+    ],
+    "3779": [
+      "Clear data is not saved",
+      "Final sin guardar",
+      792472
+    ],
+    "3780": [
+      "As Overlord Prier",
+      "Prier soberana",
+      792576
+    ],
+    "3781": [
+      "As Prier",
+      "Prier",
+      792596
+    ],
+    "3782": [
+      "God Trial",
+      "Reto div.",
+      792948
+    ],
+    "3783": [
+      "Go to Bridge",
+      "Ir al puente",
+      793080
+    ],
+    "3784": [
+      "Heart of Prier",
+      "Alma de Prier",
+      793104
+    ],
+    "3785": [
+      "Go to God Trial",
+      "Ir al reto div.",
+      793128
+    ],
+    "3786": [
+      "Times Cleared",
+      "Veces ganado",
+      793152
+    ],
+    "3787": [
+      "Monster",
+      "Bestia",
+      793180
+    ],
+    "3788": [
+      "Dark Energy Index",
+      "Índice oscuro",
+      793224
+    ],
+    "3789": [
+      "Good Ending",
+      "Final bueno",
+      793260
+    ],
+    "3790": [
+      "Normal Ending",
+      "Final normal",
+      793284
+    ],
+    "3791": [
+      "Bad Ending",
+      "Final malo",
+      793308
+    ],
+    "3792": [
+      "Special Ending",
+      "Final especial",
+      793332
+    ],
+    "3793": [
+      "Clear Bonus",
+      "Bono final",
+      794300
+    ],
+    "3794": [
+      "Inventory full",
+      "Bolsa llena",
+      794364
+    ],
+    "3795": [
+      "It was not earned",
+      "No se obtuvo",
+      794388
+    ],
+    "3796": [
+      "Reward items",
+      "Recompensas",
+      794412
+    ]
+  },
+  "rechazos": {},
+  "sha256_eboot": "d61b0ddb874d409a42c0c2c709da94b6c9f124e32bb56623a3cbfc33f1516e43",
+  "fuera_de_textos_identico": true
+}

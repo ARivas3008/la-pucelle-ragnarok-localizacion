@@ -1,0 +1,43 @@
+{
+  "original": "We were planning on confirming the report、 but we had our hands full with these strong demons and were not able to advance at all。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWhat is the current status so far、 Sister Olive?\nMost of the villagers have finished evacuating、 but we have received information that someone heard the voice of a child deep within the forest。\nSo you are saying that someone may have been left behind。\nYes。 I am so terribly sorry。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWhat is the current status so far、 Sister Olive?\nMost of the villagers have finished evacuating、 but we have received information that someone heard the voice of a child deep within the forest。\nSo you are saying that someone may have been left behind。\nYes。 I am so terribly sorry。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nWe were planning on confirming the report、 but we had our hands full with these strong demons and were not able to advance at all。。。",
+  "respuesta": "Planíamos confirmar el informe, pero estábamos muy ocupados con esos demonios poderosos y no pudimos avanzar en absoluto…",
+  "fin": "stop",
+  "segundos": 4.52,
+  "uso": {
+    "completion_tokens": 36,
+    "prompt_tokens": 381,
+    "total_tokens": 417,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "0bde3557c67d14565ff5",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 76980,
+      "entry_id": 1503,
+      "original_hex": [
+        "827682858140829782858292828581408290828c8281828e828e8289828e82878140828f828e",
+        "8283828f828e828682898292828d8289828e828781408294828882858140829282858290828f829282948141",
+        "82828295829481408297828581408288828182848140828f82958292814082888281828e82848293",
+        "82868295828c828c814082978289829482888140829482888285829382858140829382948292828f828e8287",
+        "82848285828d828f828e829381408281828e8284814082978285829282858140828e828f8294",
+        "82818282828c828581408294828f81408281828482968281828e82838285814082818294",
+        "8281828c828c814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "What is the current status so far、 Sister Olive?",
+        "Most of the villagers have finished evacuating、 but we have received information that someone heard the voice of a child deep within the forest。",
+        "So you are saying that someone may have been left behind。",
+        "Yes。 I am so terribly sorry。。。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "original": "Come on、 we need to get out of here、 Croix! Er、 I mean、 Dark Hero!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nWe can become the Dark Duo that saves countless lost souls across the globe together!!!\nThe Dark Duo。。。\nHey! You idiot! Quit calling me that! It is embarrassing!!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nWe can become the Dark Duo that saves countless lost souls across the globe together!!!\nThe Dark Duo。。。\nHey! You idiot! Quit calling me that! It is embarrassing!!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nCome on、 we need to get out of here、 Croix! Er、 I mean、 Dark Hero!",
+  "respuesta": "Vamos, tenemos que salir de aquí, Croix. Eh… quiero decir, Héroe Oscuro.",
+  "fin": "stop",
+  "segundos": 3.22,
+  "uso": {
+    "completion_tokens": 29,
+    "prompt_tokens": 354,
+    "total_tokens": 383,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "0c0ba2f88df93f6fa034",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat",
+      "offset": 117111,
+      "entry_id": 1812,
+      "original_hex": [
+        "8262828f828d82858140828f828e81418140829782858140828e82858285828481408294828f",
+        "8287828582948140828f829582948140828f8286814082888285829282858141814082628292828f828982988149",
+        "826482928141814082688140828d82858281828e81418140826382818292828b8140826782858292828f8149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "We can become the Dark Duo that saves countless lost souls across the globe together!!!",
+        "The Dark Duo。。。",
+        "Hey! You idiot! Quit calling me that! It is embarrassing!!!"
+      ]
+    }
+  ]
+}

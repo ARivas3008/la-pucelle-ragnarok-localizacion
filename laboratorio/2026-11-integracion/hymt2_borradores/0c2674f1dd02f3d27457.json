@@ -1,0 +1,38 @@
+{
+  "original": "So the girl they are talking about really is。。。",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nRumor has it、 the girl who has terrible luck with men and keeps appearing over at Rosenqueen is apparently a demon as well!\nWhat was that!? Next time she appears、 someone should get rid of her!\nNo doubt about it、 huh。。。",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nRumor has it、 the girl who has terrible luck with men and keeps appearing over at Rosenqueen is apparently a demon as well!\nWhat was that!? Next time she appears、 someone should get rid of her!\nNo doubt about it、 huh。。。\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nSo the girl they are talking about really is。。。",
+  "respuesta": "Así que la chica de quien hablan realmente es…",
+  "fin": "stop",
+  "segundos": 2.68,
+  "uso": {
+    "completion_tokens": 15,
+    "prompt_tokens": 359,
+    "total_tokens": 374,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "0c2674f1dd02f3d27457",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 18735,
+      "entry_id": 250220,
+      "original_hex": [
+        "8272828f81408294828882858140828782898292828c814082948288828582998140828182928285",
+        "82948281828c828b8289828e8287814082818282828f829582948140829282858281828c828c8299",
+        "82898293814281428142"
+      ],
+      "opcion": false,
+      "contexto": [
+        "Rumor has it、 the girl who has terrible luck with men and keeps appearing over at Rosenqueen is apparently a demon as well!",
+        "What was that!? Next time she appears、 someone should get rid of her!",
+        "No doubt about it、 huh。。。"
+      ]
+    }
+  ]
+}

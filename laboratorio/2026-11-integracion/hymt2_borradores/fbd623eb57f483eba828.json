@@ -1,0 +1,38 @@
+{
+  "original": "Big Sister Prier is gonna become a Demon Lord!",
+  "contexto": "Dialogue. Adjacent lines in the same event:\nYou absolutely adore fighting! No matter how much you try to deny it、 deep down、 you believe that power is everything!\nWho are you to say what I feel!? Be quiet。。。!\nShuuuut uppppp!!!!!",
+  "prompt": "Background information:\nThis is dialogue or a menu from La Pucelle Ragnarok, a humorous fantasy tactical RPG. Translate into natural Spanish suitable for a game. Use tú for companions and usted when a character respectfully addresses the priest. Do not add explanations, notes, speaker names or events absent from the source.\nGlossary: プリエ = Prier; キュロット = Culotte; アルエット = Alouette; エクレール = Éclair; オマール = Homard; クロワ = Croix; サラド = Salade; Father Salade = padre Salade; 悪魔の胃袋 = Panza del Diablo; ローゼンクイーン = Rosenqueen; プリカ = prica; 光の聖女 = Doncella de la Luz; 闇の王子 = Príncipe Oscuro; 油を売る / 油売って = perder el tiempo (idiom). Preserve character names and variable markers such as A1, A2, %s and %d exactly. Keep unfinished sentences unfinished; do not invent their ending. Use Spanish opening question and exclamation marks.\nScene context (do not translate this section):\nDialogue. Adjacent lines in the same event:\nYou absolutely adore fighting! No matter how much you try to deny it、 deep down、 you believe that power is everything!\nWho are you to say what I feel!? Be quiet。。。!\nShuuuut uppppp!!!!!\n\nTranslate the following segment into Spanish, without any additional explanation.\n\nSource text:\nBig Sister Prier is gonna become a Demon Lord!",
+  "respuesta": "La hermana Prier va a convertirse en un Señor Demonio.",
+  "fin": "stop",
+  "segundos": 3.17,
+  "uso": {
+    "completion_tokens": 19,
+    "prompt_tokens": 356,
+    "total_tokens": 375,
+    "prompt_tokens_details": {
+      "cached_tokens": 279
+    }
+  },
+  "modelo": "Hy-MT2-1.8B-Q8_0",
+  "revision": "a0c709d9fac510f2c807aa3af52872340dc37a4a",
+  "estado": "pendiente_revision",
+  "id": "fbd623eb57f483eba828",
+  "apariciones": [
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 70481,
+      "entry_id": 1601,
+      "original_hex": [
+        "82618289828781408272828982938294828582928140826f8292828982858292814082898293",
+        "8287828f828e828e82818140828282858283828f828d828581408281",
+        "82638285828d828f828e8140826b828f829282848149"
+      ],
+      "opcion": false,
+      "contexto": [
+        "You absolutely adore fighting! No matter how much you try to deny it、 deep down、 you believe that power is everything!",
+        "Who are you to say what I feel!? Be quiet。。。!",
+        "Shuuuut uppppp!!!!!"
+      ]
+    }
+  ]
+}
