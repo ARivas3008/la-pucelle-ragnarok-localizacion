@@ -7,6 +7,7 @@ on:
       - '.github/workflows/qa_seguimiento.yml'
       - 'parcheador/app/tests/test_magic_prefijos_v020.py'
       - 'parcheador/app/scripts/campos_revisados.py'
+      - 'parcheador/app/tests/test_talk_opciones_seguras_v020.py'
   pull_request:
     paths:
       - 'docs/seguimiento/**'
@@ -14,6 +15,7 @@ on:
       - '.github/workflows/qa_seguimiento.yml'
       - 'parcheador/app/tests/test_magic_prefijos_v020.py'
       - 'parcheador/app/scripts/campos_revisados.py'
+      - 'parcheador/app/tests/test_talk_opciones_seguras_v020.py'
 permissions:
   contents: read
 jobs:
@@ -28,3 +30,5 @@ jobs:
         run: python scripts/validar_seguimiento.py
       - name: Probar conservación de marcadores magic.dat (fixtures sintéticos)
         run: python -m unittest discover -s parcheador/app/tests -p 'test_magic_prefijos_v020.py' -v
+      - name: Probar selector talk 14/FD, rechazo parcial y reversibilidad (sintético)
+        run: python -m unittest discover -s parcheador/app/tests -p 'test_talk_opciones_seguras_v020.py' -v

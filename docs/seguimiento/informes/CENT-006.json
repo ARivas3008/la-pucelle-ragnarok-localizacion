@@ -1,0 +1,432 @@
+{
+  "id": "CENT-006",
+  "fecha": "2026-11-23",
+  "base_main": "fcad7b4bb6e8a2448e3a53dcb2ebf7d551d90bf6",
+  "tipo": "revisión editorial documentada y QA estructural sintético",
+  "origen": "manifiesto original aportado en ZIP LaPucelle_Proyecto_15_Corpus_GitHub_ChatGPT.zip (edición del 14-11-2026); grupos concretos cotejados con contexto japonés del tutorial DLC_00/talk00.dat",
+  "aprobados_editorial": [
+    {
+      "grupo_id": 1931,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1932,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1933,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1935,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1936,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1938,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1939,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1941,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1942,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1943,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1944,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1945,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1946,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1948,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1950,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1954,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1955,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1956,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1957,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1958,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1959,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1960,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1961,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1963,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1964,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1965,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1975,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1976,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1977,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1978,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1979,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1980,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1983,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1984,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1993,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1994,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 1996,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 2000,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 2001,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    },
+    {
+      "grupo_id": 2002,
+      "archivo": "data/preexistentes/509_revision_central.csv",
+      "fuente_original": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "recurso": "DLC_00/talk00.dat",
+      "estado": "revisado",
+      "insercion_fisica": "no_revisada",
+      "ppsspp": "no_ejecutado"
+    }
+  ],
+  "problemas_conservados": [
+    {
+      "grupos": [
+        611,
+        731,
+        951
+      ],
+      "descripcion": "Prefijos del campo magic.dat sin EDAT DLC original. No asumir símbolo frente a control; proteger en tests sintéticos."
+    },
+    {
+      "grupos": [
+        1843,
+        1845,
+        1848,
+        1849,
+        1850,
+        1851,
+        1852,
+        1853
+      ],
+      "descripcion": "Opciones de menú y bloques talk de varios strings; no unir ni aprobar sin reconstruir selector y controles sobre EDAT auténtico."
+    },
+    {
+      "grupos": [
+        1372,
+        1373,
+        1375,
+        1377
+      ],
+      "descripcion": "Muestras del generador de nombres: traducción literal no permite concatenación idiomática sin algoritmo real; conservar investigación del corpus/02."
+    }
+  ],
+  "iso_original": {
+    "sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "tamano_bytes": 858937344,
+    "comprobacion": "SHA-256 calculado en el entorno sobre ISO extraída de 7z, sin modificar original; no prueba parche"
+  },
+  "betatesting": {
+    "casos_antes": 31,
+    "casos_nuevos": 24,
+    "casos_total": 55,
+    "ejecutados_v019": 0,
+    "nota": "Requisitos de prueba, no evidencias de emulador"
+  },
+  "romhacking": {
+    "test_nuevo": "parcheador/app/tests/test_talk_opciones_seguras_v020.py",
+    "estado": "fixtures sintéticos sobre parser y reversibilidad; sin EDAT original"
+  },
+  "estado_despues": {
+    "centrales_revisados": 88,
+    "centrales_pendientes": 421,
+    "editoriales_conocidos_revisados": 14815,
+    "editoriales_conocidos_pendientes": 710
+  },
+  "fuentes_no_disponibles": [
+    "DL_JP_00.EDAT",
+    "DL_JP_01.EDAT",
+    "DL_JP_02.EDAT",
+    "DL_JP_03.EDAT",
+    "PPSSPP ejecutable"
+  ],
+  "relevo_siguiente": "docs/seguimiento/prompts/SIGUIENTE_RELEVO.md",
+  "exclusion": "HY-MT2 adicionales pendientes EXCLUIDOS del trabajo obligatorio y de las métricas"
+}

@@ -85,6 +85,18 @@
       "tipo": "candidata-reproducible",
       "estado": "pendiente_prueba",
       "evidencia": null
+    },
+    {
+      "id": "ROM-014",
+      "tipo": "talk-selector-14-FD-regresion-sintetica",
+      "estado": "test_automatizado_en_CI_pendiente_evidencia_real_DLC",
+      "evidencia": "parcheador/app/tests/test_talk_opciones_seguras_v020.py"
+    },
+    {
+      "id": "ROM-015",
+      "tipo": "magic-dlc-prefijos-①②③",
+      "estado": "solo_sinteticos_faltan_EDAT",
+      "evidencia": "parcheador/app/tests/test_magic_prefijos_v020.py"
     }
   ]
 }
