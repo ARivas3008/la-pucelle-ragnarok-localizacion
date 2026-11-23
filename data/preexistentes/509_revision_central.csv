@@ -98,48 +98,48 @@
 1926,"Cuantas más veces lo purifiques, más posibilidades habrá de que se una a tu equipo.",revisado,"Original japonés cotejado en manifiesto por grupo 1926 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1926|glosario:terminos_investigados.csv
 1927,"Si quieres reclutar a un enemigo, purifícalo varias veces antes de derrotarlo.",revisado,"Original japonés cotejado en manifiesto por grupo 1927 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1927|glosario:terminos_investigados.csv
 1928,"Si ya tienes aliados de esa especie, será más difícil reclutar a otros. Tendrás que insistir con la purificación.",revisado,"Original japonés cotejado en manifiesto por grupo 1928 y contexto del tutorial talk00; terminología de glosario. Dictamen editorial; distribución en opcodes talk, inserción física y PPSSPP no verificadas.",manifiesto:grupo_1928|glosario:terminos_investigados.csv
-1931,,pendiente,,
-1932,,pendiente,,
-1933,,pendiente,,
-1935,,pendiente,,
-1936,,pendiente,,
-1938,,pendiente,,
-1939,,pendiente,,
-1941,,pendiente,,
-1942,,pendiente,,
-1943,,pendiente,,
-1944,,pendiente,,
-1945,,pendiente,,
-1946,,pendiente,,
-1948,,pendiente,,
-1950,,pendiente,,
-1954,,pendiente,,
-1955,,pendiente,,
-1956,,pendiente,,
-1957,,pendiente,,
-1958,,pendiente,,
-1959,,pendiente,,
-1960,,pendiente,,
-1961,,pendiente,,
-1963,,pendiente,,
-1964,,pendiente,,
-1965,,pendiente,,
+1931,"Si haces que una corriente de energía oscura recorra un circuito de al menos 15 casillas y purificas el portal oscuro de origen, desencadenarás un Gran Milagro.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Gran Milagro; condición de circuito de 15 casillas y purificación del portal de origen. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1931|glosario:terminos_investigados.csv
+1932,Inflige un gran daño tanto a los enemigos que estén sobre la corriente como a los que queden dentro del circuito.,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Dos zonas de impacto distintas: sobre la corriente y dentro del circuito. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1932|glosario:terminos_investigados.csv
+1933,"Ojo: salvo la corriente celeste, que cura y purifica, el efecto no se activará si no hay enemigos dentro del circuito.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Condición de activación excluye corriente celeste de curación. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1933|glosario:terminos_investigados.csv
+1935,"¡Si no haces esto, te estás perdiendo lo mejor de La Pucelle!",revisado,"Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Hipérbole coloquial, no objetivo técnico. Inserción física y límites de cuadro aún sin certificar.",manifiesto:grupo_1935|glosario:terminos_investigados.csv
+1936,"El único inconveniente es que, hasta que le cojas el truco, cuesta cerrar el circuito y tus unidades no ganan experiencia.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. 二つのデメリット; circuito difícil y cero experiencia para las unidades. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1936|glosario:terminos_investigados.csv
+1938,Equipa con objetos a un aliado que ya no necesites y habla con aquel hombre.,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. El original exige equipar al aliado antes de hablar con el hombre sospechoso. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1938|glosario:terminos_investigados.csv
+1939,Usará el poder del Mundo Oscuro para fusionar los objetos.,revisado,"Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. 魔界: Mundo Oscuro, glosario. Inserción física y límites de cuadro aún sin certificar.",manifiesto:grupo_1939|glosario:terminos_investigados.csv
+1941,¿Has visto el «Índice de energía oscura» en la pantalla de selección de mapas?,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. 魔界化指数 según glosario. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1941|glosario:terminos_investigados.csv
+1942,"Si terminas un mapa sin purificar los portales oscuros ni las corrientes de energía oscura, aumentará el Índice de energía oscura.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Causa y efecto: ignorar portales/corrientes sube índice. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1942|glosario:terminos_investigados.csv
+1943,Significa que el mapa se está corrompiendo.,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Efecto del índice; lenguaje natural. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1943|glosario:terminos_investigados.csv
+1944,"Cuando el Índice de energía oscura alcanza cierto valor, se abre la «Puerta al Mundo Oscuro».",revisado,"Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Distinguir índice y puerta, nomenclatura glosario. Inserción física y límites de cuadro aún sin certificar.",manifiesto:grupo_1944|glosario:terminos_investigados.csv
+1945,"Se dice que el Mundo Oscuro alberga demonios poderosos y objetos raros según el índice, pero necesitarás mucha fuerza para regresar con vida.",revisado,"Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Advertencia de supervivencia y escala del índice, no garantía de botín. Inserción física y límites de cuadro aún sin certificar.",manifiesto:grupo_1945|glosario:terminos_investigados.csv
+1946,Muchos se dejaron tentar por el Mundo Oscuro y acabaron muriendo...,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Mantener el tono admonitorio. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1946|glosario:terminos_investigados.csv
+1948,"Prueba a colocar aliados delante, detrás o a los lados de quien vaya a atacar...",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Ubicación relativa de aliados alrededor del atacante. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1948|glosario:terminos_investigados.csv
+1950,Así podrás darle una buena paliza al enemigo entre varios.,revisado,"Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. フクロだたき: ataque entre varios, tono coloquial. Inserción física y límites de cuadro aún sin certificar.",manifiesto:grupo_1950|glosario:terminos_investigados.csv
+1954,"Pero cuando usas «Especial», no recibes el efecto de apoyo.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. 「とくしゅ」: etiqueta de menú; requiere comprobación visual de rotulación. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1954|glosario:terminos_investigados.csv
+1955,Y ten cuidado: los enemigos también pueden aprovechar el efecto de apoyo.,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Regla simétrica aliados/enemigos. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1955|glosario:terminos_investigados.csv
+1956,"Si te lanzas solo entre un grupo de enemigos, acabarán dándote una paliza entre todos.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Aviso coloquial de rodeo enemigo. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1956|glosario:terminos_investigados.csv
+1957,La clave del efecto de apoyo es la posición de tus unidades.,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. 配置 como colocación. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1957|glosario:terminos_investigados.csv
+1958,"Coloca a tus aliados pensando también en lo que harán después, ¿entendido?",revisado,"Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Tono de instructor, planificación de siguiente acción. Inserción física y límites de cuadro aún sin certificar.",manifiesto:grupo_1958|glosario:terminos_investigados.csv
+1959,Ordena a varios aliados atacar a un mismo enemigo y luego elige «Iniciar combate» o «Terminar turno»...,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Ambos nombres de orden del sistema deben cotejarse en pantalla antes de inserción. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1959|glosario:terminos_investigados.csv
+1960,"Entonces, todos esos aliados atacarán a la vez. Eso es un ataque simultáneo.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. 同時攻撃 mecánica distinta de apoyo. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1960|glosario:terminos_investigados.csv
+1961,"A primera vista se parece al efecto de apoyo, pero en aquel los aliados solo prestan apoyo...",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Diferenciar apoyo frente a ataque simultáneo. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1961|glosario:terminos_investigados.csv
+1963,"Según la situación, tendrás que decidir entre el efecto de apoyo y el ataque simultáneo.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Alternancia táctica de dos mecánicas. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1963|glosario:terminos_investigados.csv
+1964,"Por ejemplo, rodea a un enemigo con cuatro aliados y selecciona «Atacar»...",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Cuatro lados del objetivo; comando «Atacar» sujeto a cotejo visual. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1964|glosario:terminos_investigados.csv
+1965,"Si además colocas más aliados alrededor de esos cuatro, podrás atacar a un solo enemigo con un gran grupo.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Describe ampliar la formación alrededor de cuatro aliados. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1965|glosario:terminos_investigados.csv
 1970,,pendiente,,
 1972,,pendiente,,
-1975,,pendiente,,
-1976,,pendiente,,
-1977,,pendiente,,
-1978,,pendiente,,
-1979,,pendiente,,
-1980,,pendiente,,
-1983,,pendiente,,
-1984,,pendiente,,
-1993,,pendiente,,
-1994,,pendiente,,
-1996,,pendiente,,
-2000,,pendiente,,
-2001,,pendiente,,
-2002,,pendiente,,
+1975,La Re-Action de purificación también afecta a las unidades situadas sobre la corriente que se está purificando.,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. «Re-Action de purificación» conservado del glosario. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1975|glosario:terminos_investigados.csv
+1976,"Si esas unidades ya habían terminado su acción sobre la corriente, también podrán actuar de nuevo.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Acción renovada solamente si habían terminado la anterior. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1976|glosario:terminos_investigados.csv
+1977,"Si la aprovechas bien, podrás aumentar muchísimo las acciones disponibles para tus unidades.",revisado,"Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Resultado mecánico, no garantía de acciones infinitas. Inserción física y límites de cuadro aún sin certificar.",manifiesto:grupo_1977|glosario:terminos_investigados.csv
+1978,Observa los portales oscuros y las corrientes del mapa antes de recurrir a la Re-Action de purificación.,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Instrucción de lectura de campo. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1978|glosario:terminos_investigados.csv
+1979,"Durante un Gran Milagro, todas las unidades rodeadas por la corriente oscura pueden recibir el efecto de Re-Action de purificación.",revisado,"Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Efecto de área de Gran Milagro, conservar terminología glosario. Inserción física y límites de cuadro aún sin certificar.",manifiesto:grupo_1979|glosario:terminos_investigados.csv
+1980,La Re-Action de Gran Milagro permite que muchas unidades vuelvan a actuar a la vez y puede cambiar el curso de la batalla.,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. 大奇跡リアクション: Re-Action de Gran Milagro; uso táctico. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1980|glosario:terminos_investigados.csv
+1983,"Si se entromete por simple curiosidad, podría perder la vida...",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Tratamiento formal del interlocutor; amenaza velada. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1983|glosario:terminos_investigados.csv
+1984,"Por el momento, no se han producido cambios importantes en el Mundo Oscuro.",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Registro formal y glosario. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1984|glosario:terminos_investigados.csv
+1993,No muestra la menor intención de trabajar.,revisado,"Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Emisario de registro formal, crítica del recluta. Inserción física y límites de cuadro aún sin certificar.",manifiesto:grupo_1993|glosario:terminos_investigados.csv
+1994,"Como mañana recogen la basura orgánica, nos desharemos de él...",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. 生ゴミ: basura orgánica; mantener humor negro del informe. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1994|glosario:terminos_investigados.csv
+1996,Nos encargaremos de deshacernos de él. Esperamos que lo comprenda...,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. 丁寧語: eufemismo cortés y amenazante. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_1996|glosario:terminos_investigados.csv
+2000,"Para la próxima, nos ayudaría que nos presentara a alguien un poco más competente...",revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Sugerencia sarcástica con tratamiento formal. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_2000|glosario:terminos_investigados.csv
+2001,Parece que le guarda bastante rencor.,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Respeta referente al interlocutor y registro formal. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_2001|glosario:terminos_investigados.csv
+2002,Probablemente crea que usted lo abandonó...,revisado,Cotejo editorial de original japonés en manifiesto histórico y contexto de tutorial. Se distingue la atribución del subordinado a su abandono. Inserción física y límites de cuadro aún sin certificar.,manifiesto:grupo_2002|glosario:terminos_investigados.csv
 2011,,pendiente,,
 2012,,pendiente,,
 2014,,pendiente,,
