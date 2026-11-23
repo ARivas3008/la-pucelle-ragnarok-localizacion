@@ -8,6 +8,8 @@ on:
       - 'parcheador/app/tests/test_magic_prefijos_v020.py'
       - 'parcheador/app/scripts/campos_revisados.py'
       - 'parcheador/app/tests/test_talk_opciones_seguras_v020.py'
+      - 'scripts/auditar_bgpack_original.py'
+      - 'scripts/test_bgpack_auditoria.py'
   pull_request:
     paths:
       - 'docs/seguimiento/**'
@@ -16,6 +18,8 @@ on:
       - 'parcheador/app/tests/test_magic_prefijos_v020.py'
       - 'parcheador/app/scripts/campos_revisados.py'
       - 'parcheador/app/tests/test_talk_opciones_seguras_v020.py'
+      - 'scripts/auditar_bgpack_original.py'
+      - 'scripts/test_bgpack_auditoria.py'
 permissions:
   contents: read
 jobs:
@@ -32,3 +36,5 @@ jobs:
         run: python -m unittest discover -s parcheador/app/tests -p 'test_magic_prefijos_v020.py' -v
       - name: Probar selector talk 14/FD, rechazo parcial y reversibilidad (sintético)
         run: python -m unittest discover -s parcheador/app/tests -p 'test_talk_opciones_seguras_v020.py' -v
+      - name: Auditar estructura BGPACK sintética (sin originales)
+        run: python -m unittest discover -s scripts -p 'test_bgpack_auditoria.py' -v
