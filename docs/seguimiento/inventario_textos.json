@@ -15173,24 +15173,16 @@
   "nota": "Los datos fuente, idioma, destino, escena y texto revisado permanecen en los archivos de origen vinculados; no se atribuyen campos no comprobados. Revisado no significa insertado ni certificado en pantalla.",
   "centrales": {
     "fuente": "data/preexistentes/509_revision_central.csv",
-    "sha_revision": "930eaaf0c1bba4376e1e7c203f3e089be9092f79",
+    "sha_revision": "3a90a4e2cf9ce8e34c594cb501e40f05d0f7520d",
     "total": 509,
     "estados": {
-      "pendiente": 489,
-      "revisado": 20
+      "pendiente": 481,
+      "revisado": 28
     },
     "grupo_ids_pendientes": [
-      588,
-      590,
-      592,
-      594,
-      596,
       598,
-      600,
-      607,
       611,
       731,
-      834,
       951,
       1843,
       1845,
@@ -15691,7 +15683,15 @@
       564,
       565,
       566,
-      567
+      567,
+      588,
+      590,
+      592,
+      594,
+      596,
+      600,
+      607,
+      834
     ]
   },
   "resumen_editorial_ampliado": {
@@ -15699,10 +15699,10 @@
     "revisados_del_reparto": 14727,
     "requieren_investigacion_del_reparto": 289,
     "centrales_pendientes": 509,
-    "pendientes_minimos_conocidos": 778,
+    "pendientes_minimos_conocidos": 770,
     "alcance_aun_no_exhaustivo": true,
-    "pendientes_centrales": 489,
-    "revisados_centrales": 20,
-    "revisados_editoriales_conocidos": 14747
+    "pendientes_centrales": 481,
+    "revisados_centrales": 28,
+    "revisados_editoriales_conocidos": 14755
   }
 }

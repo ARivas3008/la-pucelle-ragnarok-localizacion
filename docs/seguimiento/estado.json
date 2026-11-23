@@ -44,11 +44,11 @@
     "PPSSPP no disponible",
     "clon Windows no montado"
   ],
-  "siguiente_tarea": "CENT-003",
+  "siguiente_tarea": "CENT-004",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 489,
-    "revisados": 20,
+    "pendientes": 481,
+    "revisados": 28,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": true
   },
@@ -56,11 +56,11 @@
     "total_grupos_conocidos": 15525,
     "revisados_en_reparto": 14727,
     "pendientes_en_reparto": 289,
-    "pendientes_centrales": 489,
-    "pendientes_minimos": 778,
+    "pendientes_centrales": 481,
+    "pendientes_minimos": 770,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 20,
-    "revisados_editoriales_conocidos": 14747
+    "revisados_centrales": 28,
+    "revisados_editoriales_conocidos": 14755
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
@@ -68,9 +68,10 @@
   ],
   "criterio_siguiente": "Los 509 grupos centrales están todos pendientes; iniciar lote verificable de 20 con terminología documentada.",
   "revisiones_nuevas_en_esta_rama": {
-    "editoriales_centrales": 20,
+    "editoriales_centrales": 8,
     "insertadas_fisicamente": 0,
     "validacion_visual": 0,
-    "fuente": "data/preexistentes/509_revision_central.csv"
+    "fuente": "data/preexistentes/509_revision_central.csv",
+    "lote": "CENT-003"
   }
 }

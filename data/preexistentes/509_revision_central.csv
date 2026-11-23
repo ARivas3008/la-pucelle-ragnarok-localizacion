@@ -19,17 +19,17 @@
 565,Aumento de VEL,revisado,SPDアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
 566,Aumento de PREC,revisado,HITアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
 567,Aumento de RES,revisado,RESアガール: aumento del atributo según glosario; no confundir con ソダーツ. No se declara insertada.,glosario:アガール
-588,,pendiente,,
-590,,pendiente,,
-592,,pendiente,,
-594,,pendiente,,
-596,,pendiente,,
+588,Aumenta el atributo rojo.,revisado,赤属性UP: descripción de mejora del atributo rojo. Sin certificación del campo o selección.,maestro:588
+590,Aumenta el atributo verde.,revisado,緑属性UP: mejora del atributo verde. Sin inserción.,maestro:590
+592,Aumenta el atributo amarillo.,revisado,黄属性UP: mejora del atributo amarillo. Sin inserción.,maestro:592
+594,Aumenta el atributo azul.,revisado,青属性UP: mejora del atributo azul. Sin inserción.,maestro:594
+596,Aumenta el atributo morado.,revisado,紫属性UP: mejora del atributo morado. Sin inserción.,maestro:596
 598,,pendiente,,
-600,,pendiente,,
-607,,pendiente,,
+600,Aumenta el atributo blanco.,revisado,白属性UP: mejora del atributo blanco. Sin inserción.,maestro:600
+607,Te teletransporta al lugar del mapa que elijas.,revisado,MAP上の好きな場所にワープします: descripción de teletransporte libre en mapa. No confundir con nombre corto de habilidad 606.,maestro:607
 611,,pendiente,,
 731,,pendiente,,
-834,,pendiente,,
+834,Consume todos los PE para infligir gran daño a quienes estén en el área.,revisado,"全SPと引き換えに範囲内にいる者に大ダメージ: consumo íntegro de SP (PE), daño de área a todos los presentes, no limitar a enemigos. Sin comprobación de capacidad.",maestro:834
 951,,pendiente,,
 1843,,pendiente,,
 1845,,pendiente,,
