@@ -80,7 +80,7 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-016",
+  "siguiente_tarea": "RELEVO-017",
   "grupos_centrales": {
     "total": 509,
     "pendientes": 22,
@@ -102,7 +102,7 @@
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Construir ISO solo base autenticada con fallback ROM-011 y obtener cobertura_iso_sola.json; contrastar cada incremento físico. Sin cuatro EDAT no incrementar el numerador integral 21805 ni declarar 98,85%. Aportar EDAT para auditar cobertura integral y superar el gate ROM-012.",
+  "criterio_siguiente": "Recrear candidata ISO parcial con fuentes y datos actuales, ejecutar ROM-013 sobre ISO original y auditar ISO parcial con ROM-010. Cerrar falsos negativos del auditor central. No aumentar 21805/26258 hasta candidata completa ISO + cuatro EDAT autenticados. Meta 25956, faltan 4151.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -245,7 +245,7 @@
     "scanner_iso_talk_20083_originales_coincidentes": true,
     "habilitada_auditoria_iso_sola": true,
     "nuevas_unidades_certificadas": 0,
-    "ci": "pendiente"
+    "ci": "success en ejecución anterior, consultar nuevo HEAD"
   },
   "rom011": {
     "informe": "docs/seguimiento/informes/ROM-011_subbloques_estrictos.json",
@@ -253,7 +253,7 @@
     "candidatas_teoricas_ISO_sin_filtrado_de_fuentes": 705,
     "anclas_unicas_teoricas_en_593_runs": true,
     "insertadas_en_candidata_real": 0,
-    "ci": "pendiente"
+    "ci": "success en flujo QA de motor reciente, consultar HEAD"
   },
   "rom012": {
     "herramienta": "scripts/umbral_rom012.py",
@@ -262,5 +262,25 @@
     "pendientes_por_certificar": 4151,
     "superada": false,
     "requiere": "ISO original autenticada, cuatro EDAT originales, diarios reales y auditoría integral"
+  },
+  "rom013": {
+    "informe": "docs/seguimiento/informes/ROM-013_iso_talk_censo_real.json",
+    "auditor_reproducible": "scripts/rom013_auditar_talk_original.py",
+    "fuente_autentica_iso": true,
+    "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "recursos_talk_auditados": 17,
+    "unidades_japones_original_cotejadas": 20083,
+    "errores_origen_detectados": 0,
+    "strings_talk_originales": 44751,
+    "runs_mixtos_originales": 1442,
+    "runs_de_una_mapeada_y_una_no_mapeada": 376,
+    "cadenas_fisicas_sin_id_de_manifesto": 24668,
+    "original_START_LZS_referencias_solapadas": 0,
+    "original_START_LZS_referencias": 696038,
+    "auditor_integral_revisiones_centrales": true,
+    "revisiones_centrales_que_ahora_relee": 509,
+    "grupos_centrales_mapeados_en_manifiesto_unidades": 1053,
+    "unidades_nuevas_insertadas_y_cotejadas": 0,
+    "ppsspp": false
   }
 }
