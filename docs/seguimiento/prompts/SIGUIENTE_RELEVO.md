@@ -1,4 +1,4 @@
-# LA PUCELLE: RAGNAROK — RELEVO-016 QUÍNTUPLE: ROM-013 CANDIDATA ISO Y UMBRAL 98,85 %
+# LA PUCELLE: RAGNAROK — RELEVO-017 QUÍNTUPLE: ROM-013 CANDIDATA ISO Y UMBRAL 98,85 %
 
 **Corte:** 23/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo015-rom010-auditoria-iso-20261123`. HEAD del relevo anterior: `654cdbfb6dfcc7ee7b1f711887546afa8855d56a`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.
 
@@ -170,6 +170,8 @@ Actúa como especialista sénior japonés/inglés→español, PSP MIPS, CP932, N
 | Betatesting | 85 casos catalogados, 0 ejecutados en PPSSPP v0.19.0 |
 
 El inventario no es exhaustivo; excluir propuestas HY-MT2 adicionales pendientes y conservar aprobadas. No sumar imágenes piloto a certificados, ni 109 segmentos históricos a nuevas traducciones físicas. No publicar ISO, EDAT ni texturas comerciales.
+
+**ACTUALIZACIÓN ROM-013 (24/11/2026):** PR #42 draft, confirmar HEAD y CI reales. Se extrajo y verificó en este relevo la ISO auténtica del paquete 7z, SHA256 `4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5`; 20.083 unidades talk ISO contrastadas, 44.751 cadenas físicas, **17.273 runs reales según algoritmo canónico** que ignora cuatro cadenas vacías, 6.084 runs íntegramente mapeados, **1.439 mixtos** y 9.750 sin mapeo. `scripts/rom013_auditar_talk_original.py` puede reproducir el censo con ISO legítima local (informe `docs/seguimiento/informes/ROM-013_iso_talk_censo_real.json`). En ROM-013 el auditor `scripts/auditar_entrega.py` ahora carga **15.016 revisiones de corpus + 509 revisiones centrales** mediante `revisiones_coordinadas.merge_central` y reconoce el único LZS válido de cada EDAT por cabecera, no por nombre. Tres pruebas de catálogo y seis pruebas ROM-010; las regresiones anteriores siguen. El START_JP.LZS original cuenta 696.038 referencias LZS y **cero copias solapadas** en escaneo auténtico. La cobertura integral continúa **21.805/26.258**; meta 98,85 % exacto editorial: **25.956/26.258**, faltan **4.151 unidades** verificadas en una candidata ISO+DLC. Los cuatro EDAT originales no están disponibles aquí, tampoco PPSSPP ni un checkout completo en el entorno local; NO incrementar cobertura por cambios de código ni por censo del origen. Priorizar candidata ISO sola auditada, corregir informes de rechazos y, con DLC legítimos, candidata integral certificada; la sección 0 y la sección 14 deben conservarse literalmente.
 
 ## 2. Lecturas y archivos
 
