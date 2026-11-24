@@ -5,8 +5,8 @@
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
-    "revisados": 14814,
-    "requieren_investigacion": 202
+    "revisados": 14842,
+    "requieren_investigacion": 174
   },
   "unidades": {
     "total": 26258,
@@ -87,13 +87,13 @@
   },
   "editorial_catalogo": {
     "total_grupos_conocidos": 15525,
-    "revisados_en_reparto": 14814,
-    "pendientes_en_reparto": 202,
+    "revisados_en_reparto": 14842,
+    "pendientes_en_reparto": 174,
     "pendientes_centrales": 58,
-    "pendientes_minimos": 260,
+    "pendientes_minimos": 232,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
     "revisados_centrales": 451,
-    "revisados_editoriales_conocidos": 15265
+    "revisados_editoriales_conocidos": 15293
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
@@ -209,12 +209,14 @@
     "candidata_nueva": false,
     "ppsspp": false
   },
-  "centr014": {
+  "cent014": {
     "grupos_iso_pendientes_cotejados": 118,
     "unidades_en_iso_referenciadas": 440,
-    "grupos_revisados_nuevos": 3,
-    "segmentos_talk_anclados": 6,
-    "fuente": "ISO auténtica SHA 4360707b...",
+    "grupo_runs_auditados": 208,
+    "discrepancias_de_origen": 0,
+    "grupos_revisados_nuevos": 31,
+    "segmentos_talk_anclados": 58,
+    "fuente": "ISO original autenticada 4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
     "qa_nuevo": "pendiente_ci",
     "ppsspp": false,
     "informe": "docs/seguimiento/informes/CENT-014_origen_recuperado.json"
