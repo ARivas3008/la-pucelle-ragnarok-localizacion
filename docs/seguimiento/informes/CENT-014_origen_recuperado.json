@@ -102,5 +102,24 @@
   },
   "qa_ppsspp": 0,
   "certificacion_100": false,
-  "ci": "por verificar"
+  "ci": "Pruebas iniciales detectaron 6 discrepancias de traducciones aprobadas; anclas y CSV reconciliados; reevaluación CI pendiente",
+  "segmentos_fisicos_nuevos_en_registro": 85,
+  "segmentos_fisicos_nuevos_independientes": 79,
+  "segmentos_históricos_recuperados_sin_sobrescribir": 6,
+  "legado_preservado": {
+    "grupos": [
+      9062,
+      9063,
+      9076
+    ],
+    "offsets": [
+      124891,
+      125046,
+      125218,
+      125367,
+      126245,
+      126400
+    ],
+    "criterio": "Preservación estricta del español aprobado en segmentos_hymt2_aprobados.json; las seis anclas corresponden a registros anteriores y no se suman como nuevas traducciones físicas."
+  }
 }
