@@ -83,8 +83,8 @@
   "siguiente_tarea": "RELEVO-018",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 4,
-    "revisados": 505,
+    "pendientes": 3,
+    "revisados": 506,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": false
   },
@@ -92,17 +92,17 @@
     "total_grupos_conocidos": 15525,
     "revisados_en_reparto": 14956,
     "pendientes_en_reparto": 60,
-    "pendientes_centrales": 4,
-    "pendientes_minimos": 64,
+    "pendientes_centrales": 3,
+    "pendientes_minimos": 63,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 505,
-    "revisados_editoriales_conocidos": 15461
+    "revisados_centrales": 506,
+    "revisados_editoriales_conocidos": 15462
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Cierre editorial pendiente 64: investigar algoritmo y combinaciones de name.dat jap/ing 58, profecía original fragmentada 7952, tres prefijos magic.dat reales vía EDAT, menú DLC_00 1843, excluir técnicamente el falso positivo ritem 1630 conservando bytes. No aprobar por cuota ni declarar 100% sin pruebas de esas condiciones.",
+  "criterio_siguiente": "Cerrar 63 bloqueos editoriales: 58 fragmentos de nombres generados (27 DLC japoneses, 31 ISO ingleses; confirmar combinatoria de 3 tipos de registro), 3 descripciones magic.dat con prefijos CP932 desconocidos, 1 profecía truncada, y 1 falso positivo ritem excluido ya técnicamente. No inventar resolución; conservar traducciones aprobadas.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -310,16 +310,16 @@
     "corpus09_revisados_nuevos": 14,
     "corpus11_revisados_nuevos": 55,
     "corpus02_dlc_tutorial_revisados_nuevos": 28,
-    "centrales_japones_revisados_nuevos": 18,
-    "total_editoriales_nuevos": 115,
+    "centrales_japones_revisados_nuevos": 19,
+    "total_editoriales_nuevos": 116,
     "pendientes_antes": 179,
-    "pendientes_ahora": 64,
+    "pendientes_ahora": 63,
     "pendientes_por_clase": {
       "generador_name.dat_japones": 27,
       "generador_name.dat_ingles": 31,
       "profecia_fragmentada_ISO": 1,
       "falso_positivo_no_textual_ritem": 1,
-      "centrales_indecidibles": 4
+      "centrales_indecidibles": 3
     },
     "fuentes": [
       "ISO original auténtica y SCRIPTPACK talk06/10/11/15/16/17",
