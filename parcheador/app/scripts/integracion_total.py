@@ -17,9 +17,22 @@ from correcciones_tablas_qa import aplicar as etiquetas
 from campos_revisados import aplicar as campos
 from revisiones_coordinadas import merge_central
 VERSION='0.19.0-integracion'
+# ISO base auténtica, comprobada en la auditoría de recursos originales.
+ISO_BASE_SHA256='4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5'
+def verificar_iso_base(ruta):
+ if not ruta.is_file():raise ValueError('No existe la ISO original: '+str(ruta))
+ digest=c.sha_file(ruta)
+ if digest.lower()!=ISO_BASE_SHA256:raise ValueError('SHA-256 de ISO original no reconocido: '+digest)
+ return digest
+
 def dump(path,data):path.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf8')
 def run(args):
- out=args.salida.resolve();out.mkdir(parents=True,exist_ok=True)
+ # Preflight antes de crear directorios o escribir una candidata parcial.
+ if args.iso:verificar_iso_base(args.iso)
+ out=args.salida.resolve()
+ if args.iso and (out==args.iso.resolve() or args.iso.resolve().is_relative_to(out)):
+  raise ValueError('La salida no puede contener ni sobrescribir la ISO original')
+ out.mkdir(parents=True,exist_ok=True)
  final=out/'JUEGO_PARA_PPSSPP'
  if final.exists():raise ValueError('La salida ya contiene una entrega; elige una carpeta vacía')
  stage=out/'construccion';stage.mkdir(exist_ok=False)
