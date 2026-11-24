@@ -46,6 +46,48 @@ def verificar_destinos(iso,dlc_directorio,salida):
   if any(out.iterdir()):raise ValueError('La salida debe estar vacía para evitar mezclas y sobrescrituras')
  return out
 
+def aplicar_capitulos_gfx008(iso_original,iso_destino,fuente):
+ """Aplica 16 deltas TXP autenticados sobre candidata textual, sin reubicar BGPACK."""
+ import importlib.util
+ ruta=ROOT/'scripts/gfx007_editar_capitulos.py'
+ spec=importlib.util.spec_from_file_location('gfx007_editar_capitulos',ruta)
+ mod=importlib.util.module_from_spec(spec);spec.loader.exec_module(mod)
+ ref=json.loads((ROOT/'docs/seguimiento/informes/GFX-007_capitulos_piloto.json').read_text(encoding='utf8'))
+ if c.sha_file(iso_original)!=ref['iso_original_sha256']:
+  raise ValueError('GFX-008: ISO original no autenticada')
+ original=c.Image(iso_original)
+ destino=c.Image(iso_destino)
+ a={p:(o,n) for p,o,n,_ in original.records()}
+ b={p:(o,n) for p,o,n,_ in destino.records()}
+ key='/PSP_GAME/USRDIR/BGPACK.DAT'
+ if key not in a or key not in b or a[key]!=b[key]:
+  raise ValueError('GFX-008: BGPACK reubicado; no se permite escritura directa')
+ bg=original.read(*a[key])
+ if c.sh(bg)!=ref['BGPACK_original_sha256']:
+  raise ValueError('GFX-008: BGPACK original distinto')
+ patched=bytearray(bg);report={}
+ for i in range(struct.unpack_from('<I',bg,12)[0]):
+  name,offset,size,_=struct.unpack_from('<32sIII',bg,16+44*i)
+  name=name.partition(b'\\x00')[0].decode('cp932')
+  if name not in ref['assets']:continue
+  old=bg[offset:offset+size]
+  if c.sh(old)!=ref['assets'][name]['original_sha256']:
+   raise ValueError('GFX-008: TXP original distinto: '+name)
+  new,proof=mod.edit(old,int(name[2:4]),fuente)
+  if proof['nuevo_sha256']!=ref['assets'][name]['nuevo_sha256']:
+   raise ValueError('GFX-008: edición no reproducible: '+name)
+  patched[offset:offset+size]=new;report[name]=proof
+ if set(report)!=set(ref['assets']) or c.sh(patched)!=ref['BGPACK_piloto_sha256']:
+  raise ValueError('GFX-008: BGPACK reconstruido no reproducible')
+ if destino.read(*b[key])!=bg:
+  raise ValueError('GFX-008: candidata textual ya alteró BGPACK')
+ with iso_destino.open('r+b') as stream:
+  stream.seek(b[key][0]);stream.write(patched)
+ reread=c.Image(iso_destino)
+ if reread.read(*b[key])!=patched:raise ValueError('GFX-008: escritura no verificable')
+ return dict(assets=report,BGPACK_original_sha256=c.sh(bg),
+             BGPACK_piloto_sha256=c.sh(patched),ppsspp=False)
+
 def dump(path,data):path.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf8')
 def run(args):
  # Preflight de originales y rutas antes de crear directorios o escribir una candidata.
@@ -145,6 +187,9 @@ def run(args):
   assert reread.read(*rr['/PSP_GAME/SYSDIR/EBOOT.BIN'])==new
   assert reread.read(*rr['/PSP_GAME/USRDIR/START_JP.LZS'])==rebuilt['ISO_START']
   assert reread.read(*rr['/PSP_GAME/USRDIR/SCRIPTPACK.DAT'])==spnew
+  if args.fuente_capitulos:
+   proof['GFX_008']=aplicar_capitulos_gfx008(args.iso,dest,args.fuente_capitulos)
+   dump(reports/'GFX-008_capitulos_integrados.json',proof['GFX_008'])
   for path,pair in rec.items():
    if path not in ('/PSP_GAME/SYSDIR/EBOOT.BIN','/PSP_GAME/USRDIR/START_JP.LZS','/PSP_GAME/USRDIR/SCRIPTPACK.DAT'):assert rr[path]==pair
   first.unlink()
@@ -162,8 +207,10 @@ def run(args):
  stage.rename(final)
  print('Entrega generada:',final,flush=True)
 def main():
- p=argparse.ArgumentParser();p.add_argument('--iso',type=Path);p.add_argument('--dlc-directorio',type=Path);p.add_argument('--repo-directorio',type=Path,required=True);p.add_argument('--salida',type=Path,required=True)
+ p=argparse.ArgumentParser();p.add_argument('--iso',type=Path);p.add_argument('--dlc-directorio',type=Path);p.add_argument('--repo-directorio',type=Path,required=True);p.add_argument('--salida',type=Path,required=True);p.add_argument('--fuente-capitulos',type=Path,help='Fuente local para integrar los 16 TXP de GFX-007 en la candidata textual')
  a=p.parse_args()
  if not(a.iso or a.dlc_directorio):p.error('Selecciona ISO, DLC o ambos')
+ if a.fuente_capitulos and not a.iso:p.error('--fuente-capitulos requiere --iso')
+ if a.fuente_capitulos and not a.fuente_capitulos.is_file():p.error('No existe la fuente de capítulos')
  run(a)
 if __name__=='__main__':main()
