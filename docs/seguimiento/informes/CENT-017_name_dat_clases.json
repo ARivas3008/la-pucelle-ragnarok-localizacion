@@ -43,7 +43,34 @@
     "cadenas_exportadas": false,
     "gameplay_PPSSPP": false
   },
-  "dictamen": "Tres clases de registros demostradas por bytes, pero no se ha deducido todavía el orden ni algoritmo combinatorio; el contador de cabecera 293 difiere de los 307 slots físicamente decodificables. No inventar conjugación/género/orden de los fragmentos al traducir. Las 58 entradas siguen pendientes; 17 slots fuera de manifest requieren censo complementario.",
+  "dictamen": "El algoritmo de nombre generado de la ISO está identificado por análisis MIPS: clase 1 sufijo, clase 2 prefijo, clase 3 orden al azar y máximo 16 bytes totales; falta validar combinaciones españolas y no hay EDAT auténticos para extrapolar los 27 componentes japoneses.",
   "aprobaciones_nuevas_por_estructura": 0,
-  "nota": "Original auténtico = evidencia A de datos, NO evidencia C de combinaciones visuales. Un listado consecutivo no prueba que dos fragmentos formen frase."
+  "nota": "Original auténtico = evidencia A de datos, NO evidencia C de combinaciones visuales. Un listado consecutivo no prueba que dos fragmentos formen frase.",
+  "evidencia_ensamblador_MIPS": {
+    "origen": "PSP_GAME/SYSDIR/EBOOT.BIN autenticado dentro de ISO original v1.1.2",
+    "sha256_ELF_descomprimido": "2b9a1a9864f3b236e83a2848f839023e92dcb7a5272bcb430cef527eafb563f6",
+    "herramienta": "llvm-objdump disassemble mipsel ELF32",
+    "direcciones_MIPS": {
+      "recurso_cargado": "0x088aaeb4–0x088aaec0",
+      "seleccion_random_del_slot": "0x0882ec80–0x0882eca8",
+      "leer_clase_slot3": "0x0882ece0",
+      "resolver_clase3_aleatoriamente": "0x0882ecf0–0x0882ed08",
+      "clase1_copiar_base_luego_concatenar_sufijo": "0x0882ed14–0x0882ed2c",
+      "clase2_copiar_fragmento_luego_concatenar_base": "0x0882ed34–0x0882ed48",
+      "strlen_y_rechazo_longitud": "0x0882ed4c–0x0882ed58",
+      "copiar_resultado_en_nombre": "0x0882ed60–0x0882ed68",
+      "funcion_strcpy": "0x0880d350",
+      "funcion_strcat": "0x0880d240",
+      "funcion_strlen": "0x0880d3d8"
+    },
+    "reglas": [
+      "clase 1 = base + fragmento",
+      "clase 2 = fragmento + base",
+      "clase 3 = dirección elegida aleatoriamente (0–49: clase 1, 50–99: clase 2)",
+      "concatenación de C strings terminadas en NUL, sin espacio adicional",
+      "strlen produce bytes, y `sltiu < 0x11` permite como máximo 16 bytes de salida; mayor se descarta y se sortea otro nombre"
+    ],
+    "comentario": "Reglas derivadas directamente de instrucciones y ramas MIPS, no de captura PPSSPP. El nombre resultante carece de delimitador extra entre segmentos."
+  },
+  "proxima_tarea": "Simular composición con todos los nombres y revisar morfología/longitud CP932 y comportamiento visual en PPSSPP; no aprobar nombres solo por descubrir clases."
 }
