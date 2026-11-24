@@ -15167,17 +15167,16 @@
   "nota": "Los datos fuente, idioma, destino, escena y texto revisado permanecen en los archivos de origen vinculados; no se atribuyen campos no comprobados. Revisado no significa insertado ni certificado en pantalla.",
   "centrales": {
     "fuente": "data/preexistentes/509_revision_central.csv",
-    "sha_revision": "e2a60d7160f68494bb74fc847e75b2b55aa8a9db",
+    "sha_revision": "7baf9aefcafcdbd620eb44ea7f744f0d9f934267",
     "total": 509,
     "estados": {
-      "revisado": 505,
-      "pendiente": 4
+      "revisado": 506,
+      "pendiente": 3
     },
     "grupo_ids_pendientes": [
       611,
       731,
-      951,
-      1843
+      951
     ],
     "nota": "CENT-012: 60 grupos editoriales, 124 unidades originales exactas tras NFKC en ISO; sin inserción. CENT-015: 36 traducciones editoriales de tutorial/DLC a partir del manifiesto japonés aportado; no son inserciones certificadas.",
     "grupo_ids_revisados": [
@@ -15210,6 +15209,7 @@
       600,
       607,
       834,
+      1843,
       1845,
       1848,
       1849,
@@ -15692,11 +15692,11 @@
     "total_grupos_catalogo": 15525,
     "revisados_del_reparto": 14956,
     "requieren_investigacion_del_reparto": 60,
-    "centrales_pendientes": 4,
-    "pendientes_minimos_conocidos": 64,
+    "centrales_pendientes": 3,
+    "pendientes_minimos_conocidos": 63,
     "alcance_aun_no_exhaustivo": true,
-    "pendientes_centrales": 4,
-    "revisados_centrales": 505,
-    "revisados_editoriales_conocidos": 15461
+    "pendientes_centrales": 3,
+    "revisados_centrales": 506,
+    "revisados_editoriales_conocidos": 15462
   }
 }
