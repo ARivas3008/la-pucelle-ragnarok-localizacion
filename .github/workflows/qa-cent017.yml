@@ -1,0 +1,24 @@
+name: QA CENT-017 generador de nombres
+on:
+  push:
+    paths:
+      - 'scripts/cent017_auditar_nombre.py'
+      - 'tests/test_cent017_nombre.py'
+      - '.github/workflows/qa-cent017.yml'
+  pull_request:
+    paths:
+      - 'scripts/cent017_auditar_nombre.py'
+      - 'tests/test_cent017_nombre.py'
+      - '.github/workflows/qa-cent017.yml'
+jobs:
+  estructura:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validar estructura name.dat sin archivos comerciales
+        run: |
+          python -m py_compile scripts/cent017_auditar_nombre.py
+          python -m unittest discover -s tests -p 'test_cent017_nombre.py' -v
