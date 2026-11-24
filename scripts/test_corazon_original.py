@@ -12,7 +12,8 @@ class TestSimboloCorazon(unittest.TestCase):
     def test_cp932_no_confundir_yen_ascii(self):
         self.assertEqual(MARKER.encode("cp932"),b"\x81\x8f")
         self.assertEqual(CODE.decode("cp932"),MARKER)
-        self.assertNotEqual("¥".encode("cp932"),CODE)
+        with self.assertRaises(UnicodeEncodeError):
+            "¥".encode("cp932")
         self.assertEqual(index_sjis(CODE),175)
         self.assertEqual(encode_es("eri￥"),b"eri\x81\x8f")
     def test_verificacion_DAT_sintetico(self):
