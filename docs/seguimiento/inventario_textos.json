@@ -15165,17 +15165,13 @@
   "nota": "Los datos fuente, idioma, destino, escena y texto revisado permanecen en los archivos de origen vinculados; no se atribuyen campos no comprobados. Revisado no significa insertado ni certificado en pantalla.",
   "centrales": {
     "fuente": "data/preexistentes/509_revision_central.csv",
-    "sha_revision": "7baf9aefcafcdbd620eb44ea7f744f0d9f934267",
+    "sha_revision": "dd01f8481024307c842786b09d705dfe10a2b1fc",
     "total": 509,
     "estados": {
-      "revisado": 506,
-      "pendiente": 3
+      "revisado": 509,
+      "pendiente": 0
     },
-    "grupo_ids_pendientes": [
-      611,
-      731,
-      951
-    ],
+    "grupo_ids_pendientes": [],
     "nota": "CENT-012: 60 grupos editoriales, 124 unidades originales exactas tras NFKC en ISO; sin inserción. CENT-015: 36 traducciones editoriales de tutorial/DLC a partir del manifiesto japonés aportado; no son inserciones certificadas.",
     "grupo_ids_revisados": [
       16,
@@ -15206,7 +15202,10 @@
       598,
       600,
       607,
+      611,
+      731,
       834,
+      951,
       1843,
       1845,
       1848,
@@ -15690,11 +15689,25 @@
     "total_grupos_catalogo": 15525,
     "revisados_del_reparto": 15015,
     "requieren_investigacion_del_reparto": 1,
-    "centrales_pendientes": 3,
-    "pendientes_minimos_conocidos": 4,
+    "centrales_pendientes": 0,
+    "pendientes_minimos_conocidos": 1,
     "alcance_aun_no_exhaustivo": true,
-    "pendientes_centrales": 3,
-    "revisados_centrales": 506,
-    "revisados_editoriales_conocidos": 15521
+    "pendientes_centrales": 0,
+    "revisados_centrales": 509,
+    "revisados_editoriales_conocidos": 15524
+  },
+  "exclusiones_editoriales": {
+    "aplicables": "data/control/EXCLUSIONES_TECNICAS_VERIFICADAS.md",
+    "grupos_excluidos_no_textuales": [
+      1630
+    ],
+    "motivo": "Bytes 20 AA 44 en DLC_00/ritem.dat no constituyen cadena traducible; se conserva fila original como requiere_investigacion según validador, sin marcarla revisada.",
+    "grupos_editoriales_textuales_conocidos": 15524,
+    "grupos_editoriales_textuales_revisados": 15524,
+    "pendientes_textuales_conocidos": 0,
+    "porcentaje_editorial_textos_conocidos": 100,
+    "alcance_global_del_juego_no_cerrado": true,
+    "textos_adicionales_de_name_dat_fuera_manifiesto_lexicales": 10,
+    "aprobados_en_sidecar_name_dat": 10
   }
 }
