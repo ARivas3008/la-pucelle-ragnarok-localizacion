@@ -1,12 +1,12 @@
 {
   "esquema": "estado_v1",
   "fecha": "2026-11-23",
-  "base_main": "9fa5208a14b82c8430e00d6ea51c5a8167b470a3",
+  "base_main": "01cf421ed46351dd829cbb35e8922b7895454cfd",
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
-    "revisados": 14727,
-    "requieren_investigacion": 289
+    "revisados": 14811,
+    "requieren_investigacion": 205
   },
   "unidades": {
     "total": 26258,
@@ -70,36 +70,39 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-010",
+  "siguiente_tarea": "RELEVO-011",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 115,
-    "revisados": 394,
+    "pendientes": 58,
+    "revisados": 451,
     "fuente": "data/preexistentes/509_revision_central.csv",
-    "leido_directamente_de_main": true
+    "leido_directamente_de_main": false
   },
   "editorial_catalogo": {
     "total_grupos_conocidos": 15525,
-    "revisados_en_reparto": 14727,
-    "pendientes_en_reparto": 289,
-    "pendientes_centrales": 115,
-    "pendientes_minimos": 404,
+    "revisados_en_reparto": 14811,
+    "pendientes_en_reparto": 205,
+    "pendientes_centrales": 58,
+    "pendientes_minimos": 263,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 394,
-    "revisados_editoriales_conocidos": 15121
+    "revisados_centrales": 451,
+    "revisados_editoriales_conocidos": 15262
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "CENT-013: reconstruir grupos incompletos restantes desde bytecode y fuentes de ISO; revisar corpus/02 con contexto. ROM-007: conseguir candidata reconstruida, comprobar diferencias en regiones añadidas y PVD; aplicar QA de layout fijo solo si procede. GFX-007: resolver los 16 títulos de 170 filas y 3 TXP multibanco; comparar con atlas de referencia y PPSSPP.",
+  "criterio_siguiente": "Verificar anclas con originales, compilar candidata ISO base y validar antes de incrementar cobertura; revisar restantes grupos y gráficos, y ejecutar PPSSPP.",
   "revisiones_nuevas_en_esta_rama": {
-    "lote": "CENT-012",
-    "editoriales_centrales": 60,
-    "unidades_originales_cotejadas": 124,
+    "lote": "CENT-013",
+    "editoriales_centrales": 57,
+    "editoriales_distribuidas": 84,
+    "bloques_anclados": 165,
+    "aprobaciones_historicas_conservadas": 109,
+    "bloques_nuevos": 56,
     "insertadas_fisicamente": 0,
     "validacion_visual": 0,
-    "informe": "docs/seguimiento/informes/CENT-012.json"
+    "informe": "docs/seguimiento/informes/CENT-013.json"
   },
   "exclusiones_del_alcance": {
     "hymt2_pendientes": "excluido",
@@ -173,5 +176,11 @@
     "qa_seguimiento": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789",
     "resultado": "success, success",
     "alcance": "B: pruebas sintéticas e inventarios; sin candidata real ni PPSSPP"
+  },
+  "romhacking_relevo010": {
+    "informe": "docs/seguimiento/informes/ROM-007_integracion_central.json",
+    "motor": "Carga coordinada de CSV central, empaquetado, anclas SHA por bloque y destino",
+    "candidata_completa": false,
+    "prueba_nueva": false
   }
 }
