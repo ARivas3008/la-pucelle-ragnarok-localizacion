@@ -1,0 +1,88 @@
+{
+  "fecha": "2026-11-23",
+  "id": "CENT-014",
+  "fuente_iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "recursos": "talkXX_jp.dat del SCRIPTPACK.DAT original autenticado",
+  "evidencia": "A bytes originales y 0 discrepancias de líneas mapeadas; B preparación de segmentos y validación QA; C pendiente",
+  "grupos_distribuidos_iso_investigados": 118,
+  "unidades_referenciadas_verificadas": 440,
+  "correspondencias_originales_incorrectas": 0,
+  "apariciones_grupo_bloque": 208,
+  "bloques_fisicos_distintos": 203,
+  "cadenas_fisicas_distintas_en_bloques": 776,
+  "cadenas_fisicas_sin_unit_id_en_bloques": 164,
+  "grupos_aprobados_nuevos": 31,
+  "grupos_aprobados_ids": [
+    9062,
+    9063,
+    9076,
+    9175,
+    9177,
+    9179,
+    9180,
+    9183,
+    9205,
+    9209,
+    9238,
+    9260,
+    9299,
+    9348,
+    9451,
+    9550,
+    9755,
+    9757,
+    9760,
+    9767,
+    9780,
+    9791,
+    9803,
+    9811,
+    9835,
+    9836,
+    9859,
+    10034,
+    10042,
+    10070,
+    10101
+  ],
+  "segmentos_fisicos_nuevos": 58,
+  "segmentos_antes": 165,
+  "segmentos_despues": 223,
+  "archivos_modificados": [
+    "corpus/09/revision.csv",
+    "parcheador/app/datos/segmentos_centrales_anclados.json",
+    "docs/seguimiento/inventario_textos.json",
+    "docs/seguimiento/estado.json"
+  ],
+  "pendientes_minimos_conocidos_despues": 232,
+  "observaciones": [
+    "Todos los grupos nuevos se vinculan a runs completos y SHA de cadenas CP932 originales",
+    "Los 31 casos mantienen marcadores editoriales de dos voces separados en strings de inserción independientes",
+    "El cotejo de ISO actual no acredita que 232 grupos restantes estén solucionados ni la visualización en PPSSPP",
+    "Los 86 grupos investigables de corpus/02 requieren DLC/generador; otros 58 centrales y los corpus 08,09,11,15 siguen pendientes"
+  ],
+  "grupo_9062": {
+    "recuperado": "villagers",
+    "offsets": [
+      124891,
+      125046
+    ]
+  },
+  "grupo_9063": {
+    "recuperado": "you",
+    "offsets": [
+      125218,
+      125367
+    ]
+  },
+  "grupo_9076": {
+    "recuperado": "everything",
+    "offsets": [
+      126245,
+      126400
+    ]
+  },
+  "qa_ppsspp": 0,
+  "certificacion_100": false,
+  "ci": "por verificar"
+}
