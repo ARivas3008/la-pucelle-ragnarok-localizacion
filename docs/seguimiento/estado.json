@@ -72,7 +72,7 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-012",
+  "siguiente_tarea": "RELEVO-013",
   "grupos_centrales": {
     "total": 509,
     "pendientes": 58,
@@ -196,5 +196,12 @@
     "iso_candidata_nueva": false,
     "ppsspp": false,
     "ci_nuevo_pendiente": true
+  },
+  "rom009": {
+    "informe": "docs/seguimiento/informes/ROM-009_preflight_destinos.json",
+    "pruebas_unitarias_definidas": 12,
+    "ci": "pendiente",
+    "candidata_nueva": false,
+    "ppsspp": false
   }
 }

@@ -1,6 +1,6 @@
-# LA PUCELLE: RAGNAROK — RELEVO-012 QUÍNTUPLE: CENT-014, ROM-008, GFX-008 Y QA
+# LA PUCELLE: RAGNAROK — RELEVO-013 QUÍNTUPLE: CENT-014, ROM-008, GFX-008 Y QA
 
-**Corte:** 23/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo011-rom008-preflight-20261123`. HEAD del relevo anterior: `654cdbfb6dfcc7ee7b1f711887546afa8855d56a`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.
+**Corte:** 23/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo012-cierre-integridad-20261123`. HEAD del relevo anterior: `654cdbfb6dfcc7ee7b1f711887546afa8855d56a`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.
 
 ## 0. RÉGIMEN QUÍNTUPLE OBLIGATORIO — MULTIPLICADOR ×5
 
@@ -36,6 +36,8 @@ Solo tras carga sustancial verificable, agotamiento de tareas ejecutables, lími
 Conservar íntegramente esta sección 0 y la sección 14 de obligación recursiva en todos los relevos. Multiplicador ×5 permanente sobre el régimen original, nunca ×25. **EJECUTAR CINCO VECES MÁS TRABAJO OBJETIVO CON AUTENTICIDAD E INTEGRIDAD.**
 
 **Resultado RELEVO-011 verificado:** ROM-008 añadió autenticación SHA-256 de ISO base antes de generar salida y protección contra sobrescritura del original, en `parcheador/app/scripts/integracion_total.py`; informe `docs/seguimiento/informes/ROM-008_preflight_iso.json`. No se construyó ISO ni se ejecutó PPSSPP en este relevo. CI del nuevo PR pendiente de comprobar. Mantener 15.262/15.525, 21.805/26.258 históricos, 16 pilotos gráficos, 0 certificaciones C. Próxima acción: probar preflight con ISO auténtica, ejecutar QA completo, integrar delta BGPACK en candidata conjunta y revisar 263 grupos restantes. No alterar los numeradores sin pruebas.
+
+**Resultado nuevo ROM-009:** `parcheador/app/scripts/integracion_total.py` valida cuatro EDAT, bloquea salidas que pisan originales y exige directorio vacío; `tests/test_rom009_preflight.py` define 12 pruebas, `.github/workflows/qa-rom009.yml` las ejecuta. Informe `docs/seguimiento/informes/ROM-009_preflight_destinos.json`. Consultar CI y corregir fallos antes de fusionar. El 100 % de traducción, gráficos, romhacking y betatesting sigue abierto; no afirmar cierre sin cobertura y ejecución real. Prioridad: candidata conjunta con BGPACK, completar 263 grupos, DLC auténticos, PPSSPP y 85 casos C.
 
 ## 1. Estado verificado y misión
 

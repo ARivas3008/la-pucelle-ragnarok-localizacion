@@ -25,16 +25,34 @@ def verificar_iso_base(ruta):
  if digest.lower()!=ISO_BASE_SHA256:raise ValueError('SHA-256 de ISO original no reconocido: '+digest)
  return digest
 
+def verificar_destinos(iso,dlc_directorio,salida):
+ """Rechaza salidas peligrosas antes de crear cualquier fichero."""
+ out=salida.resolve()
+ entradas=[]
+ if iso:entradas.append(iso.resolve())
+ if dlc_directorio:
+  carpeta=dlc_directorio.resolve()
+  if not carpeta.is_dir():raise ValueError('No existe la carpeta DLC original')
+  entradas.append(carpeta)
+  for n in range(4):
+   archivo=carpeta/f'DL_JP_{n:02d}.EDAT'
+   if not archivo.is_file():raise ValueError('Falta DLC original: '+archivo.name)
+   entradas.append(archivo.resolve())
+ for src in entradas:
+  if out==src or src.is_relative_to(out) or out.is_relative_to(src):
+   raise ValueError('La salida no puede contener ni sobrescribir recursos originales: '+str(src))
+ if out.exists():
+  if not out.is_dir():raise ValueError('La salida existe y no es un directorio')
+  if any(out.iterdir()):raise ValueError('La salida debe estar vacía para evitar mezclas y sobrescrituras')
+ return out
+
 def dump(path,data):path.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf8')
 def run(args):
- # Preflight antes de crear directorios o escribir una candidata parcial.
+ # Preflight de originales y rutas antes de crear directorios o escribir una candidata.
  if args.iso:verificar_iso_base(args.iso)
- out=args.salida.resolve()
- if args.iso and (out==args.iso.resolve() or args.iso.resolve().is_relative_to(out)):
-  raise ValueError('La salida no puede contener ni sobrescribir la ISO original')
+ out=verificar_destinos(args.iso,args.dlc_directorio,args.salida)
  out.mkdir(parents=True,exist_ok=True)
  final=out/'JUEGO_PARA_PPSSPP'
- if final.exists():raise ValueError('La salida ya contiene una entrega; elige una carpeta vacía')
  stage=out/'construccion';stage.mkdir(exist_ok=False)
  reports=out/'informes';reports.mkdir(exist_ok=True)
  manifest=list(csv.DictReader(c.DATA.open(encoding='utf-8-sig',newline='')))
