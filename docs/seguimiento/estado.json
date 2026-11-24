@@ -80,7 +80,7 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-015",
+  "siguiente_tarea": "RELEVO-016",
   "grupos_centrales": {
     "total": 509,
     "pendientes": 22,
@@ -102,7 +102,7 @@
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Priorizar cierre editorial 179 pendientes, tratamiento World Map GFX-011, corrección de composición en 4 capítulos, ISO conjunta y C/PPSSPP; no declarar 100% sin ello.",
+  "criterio_siguiente": "Construir ISO solo base autenticada con fallback ROM-011 y obtener cobertura_iso_sola.json; contrastar cada incremento físico. Sin cuatro EDAT no incrementar el numerador integral 21805 ni declarar 98,85%. Aportar EDAT para auditar cobertura integral y superar el gate ROM-012.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -236,5 +236,31 @@
     ],
     "ppsspp": false,
     "candidata_reconstruida": false
+  },
+  "rom010": {
+    "informe": "docs/seguimiento/informes/ROM-010_censo_iso_original_real.json",
+    "recurso_original_iso_autenticado": true,
+    "iso_unidades_alcanzables": 22721,
+    "dlc_unidades_sin_original_en_entorno": 3537,
+    "scanner_iso_talk_20083_originales_coincidentes": true,
+    "habilitada_auditoria_iso_sola": true,
+    "nuevas_unidades_certificadas": 0,
+    "ci": "pendiente"
+  },
+  "rom011": {
+    "informe": "docs/seguimiento/informes/ROM-011_subbloques_estrictos.json",
+    "modo_parcial_estricto": true,
+    "candidatas_teoricas_ISO_sin_filtrado_de_fuentes": 705,
+    "anclas_unicas_teoricas_en_593_runs": true,
+    "insertadas_en_candidata_real": 0,
+    "ci": "pendiente"
+  },
+  "rom012": {
+    "herramienta": "scripts/umbral_rom012.py",
+    "meta_unidades": 25956,
+    "meta_porcentaje_redondeado": 98.85,
+    "pendientes_por_certificar": 4151,
+    "superada": false,
+    "requiere": "ISO original autenticada, cuatro EDAT originales, diarios reales y auditoría integral"
   }
 }
