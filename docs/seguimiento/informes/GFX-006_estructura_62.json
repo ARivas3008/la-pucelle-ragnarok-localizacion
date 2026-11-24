@@ -356,5 +356,12 @@
   "dictamen": "Preservar wbg00 y wmap originales; falta equivalencia lingüística y PPSSPP. No contabilizar candidatas extra ni confundir estructura con edición.",
   "certificados_v019": 0,
   "modificados": 0,
-  "script": "scripts/auditar_graficos_manifiesto.py"
+  "script": "scripts/auditar_graficos_manifiesto.py",
+  "ci": {
+    "commit_evaluado": "54d95e30e2bd9951b00a40f21842a2ea02cc3068",
+    "qa_corpus": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178890",
+    "qa_seguimiento": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789",
+    "resultado": "success, success",
+    "alcance": "B: pruebas sintéticas e inventarios; sin candidata real ni PPSSPP"
+  }
 }

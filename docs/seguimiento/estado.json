@@ -165,6 +165,13 @@
     "sectores_fisicos": 419403,
     "delta_sectores": 39283,
     "verificacion_candidata_real": false,
-    "nota": "A original autenticado: PVD no refleja longitud física; preservar la diferencia, no modificar sin evidencia. B: verificador estricto de distribución fija, CI pendiente. No sustituye auditoría de recursos reubicados."
+    "nota": "A: PVD original y longitud física cotejados; B: verificador estricto de distribución fija y regresiones CI aprobadas; sin candidata ni PPSSPP. No sustituye auditoría de recursos reubicados."
+  },
+  "ci_relevo009": {
+    "commit_evaluado": "54d95e30e2bd9951b00a40f21842a2ea02cc3068",
+    "qa_corpus": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178890",
+    "qa_seguimiento": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789",
+    "resultado": "success, success",
+    "alcance": "B: pruebas sintéticas e inventarios; sin candidata real ni PPSSPP"
   }
 }

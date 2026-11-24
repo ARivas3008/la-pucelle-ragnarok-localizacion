@@ -164,8 +164,9 @@
     {
       "id": "ROM-026",
       "tipo": "Layout fijo, PVD y bytes fuera de recursos",
-      "estado": "B_pruebas_pendientes_CI",
-      "evidencia": "scripts/test_verificar_iso_layout_fijo.py"
+      "estado": "B_pruebas_sinteticas_aprobadas_CI_sin_C",
+      "evidencia": "scripts/test_verificar_iso_layout_fijo.py",
+      "ci": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789"
     },
     {
       "id": "ROM-027",
@@ -176,8 +177,9 @@
     {
       "id": "ROM-028",
       "tipo": "TXP altura parcial y CLUT multibanco",
-      "estado": "B_pruebas_pendientes_CI",
-      "evidencia": "scripts/test_auditar_graficos_manifiesto.py"
+      "estado": "B_pruebas_sinteticas_aprobadas_CI_sin_C",
+      "evidencia": "scripts/test_auditar_graficos_manifiesto.py",
+      "ci": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789"
     }
   ]
 }

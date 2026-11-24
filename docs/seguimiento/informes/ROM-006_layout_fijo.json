@@ -16,11 +16,18 @@
   "nuevas_inserciones": 0,
   "script": "scripts/verificar_iso_layout_fijo.py",
   "tests": "scripts/test_verificar_iso_layout_fijo.py",
-  "pruebas_B_estado": "pendiente CI",
+  "pruebas_B_estado": "success CI PR #36",
   "limitaciones": [
     "Modo fijo exige tamaño, mapa de archivos y directorios idénticos; no admite reconstrucción por anexado o reubicación.",
     "Coteja todo byte fuera de los archivos autorizados, incluidas regiones no indexadas y PVD. Complementa, no sustituye, verificador diferencial de archivos ni inspección interna.",
     "No declara comparación real original/candidata ni prueba PPSSPP."
   ],
-  "siguiente": "ROM-007: auditar append y regiones permitidas en candidata real; conservar metadata original no autorizada."
+  "siguiente": "ROM-007: auditar append y regiones permitidas en candidata real; conservar metadata original no autorizada.",
+  "ci": {
+    "commit_evaluado": "54d95e30e2bd9951b00a40f21842a2ea02cc3068",
+    "qa_corpus": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178890",
+    "qa_seguimiento": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789",
+    "resultado": "success, success",
+    "alcance": "B: pruebas sintéticas e inventarios; sin candidata real ni PPSSPP"
+  }
 }
