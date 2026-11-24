@@ -49,10 +49,11 @@ def verificar_destinos(iso,dlc_directorio,salida):
 def aplicar_capitulos_gfx008(iso_original,iso_destino,fuente):
  """Aplica 16 deltas TXP autenticados sobre candidata textual, sin reubicar BGPACK."""
  import importlib.util
- ruta=ROOT/'scripts/gfx007_editar_capitulos.py'
+ ruta=c.ROOT.parents[1]/'scripts/gfx007_editar_capitulos.py'
+ if not ruta.is_file():raise ValueError('GFX-008: falta el editor TXP del repositorio')
  spec=importlib.util.spec_from_file_location('gfx007_editar_capitulos',ruta)
  mod=importlib.util.module_from_spec(spec);spec.loader.exec_module(mod)
- ref=json.loads((ROOT/'docs/seguimiento/informes/GFX-007_capitulos_piloto.json').read_text(encoding='utf8'))
+ ref=json.loads((c.ROOT.parents[1]/'docs/seguimiento/informes/GFX-007_capitulos_piloto.json').read_text(encoding='utf8'))
  if c.sha_file(iso_original)!=ref['iso_original_sha256']:
   raise ValueError('GFX-008: ISO original no autenticada')
  original=c.Image(iso_original)
@@ -68,7 +69,7 @@ def aplicar_capitulos_gfx008(iso_original,iso_destino,fuente):
  patched=bytearray(bg);report={}
  for i in range(struct.unpack_from('<I',bg,12)[0]):
   name,offset,size,_=struct.unpack_from('<32sIII',bg,16+44*i)
-  name=name.partition(b'\\x00')[0].decode('cp932')
+  name=name.partition(bytes([0]))[0].decode('cp932')
   if name not in ref['assets']:continue
   old=bg[offset:offset+size]
   if c.sh(old)!=ref['assets'][name]['original_sha256']:
