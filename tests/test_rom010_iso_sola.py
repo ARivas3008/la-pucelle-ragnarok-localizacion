@@ -12,7 +12,7 @@ def nispack(data):
  if data==b"SCRIPTPACK":return [dict(name="talk01_jp.dat",content=b"test")]
  if data==b"BGPACK":return [dict(name="at01.txp",content=b"png")]
  if data==b"DLCVALID":return [dict(name="START_JP.LZS",content=b"start")]
- if data==b"INVALID":return [dict(name="unknown",content=b"start")]
+ if data==b"INVALID":return [dict(name="unknown",content=b"not-LZS")]
  raise ValueError("Objeto desconocido")
 class FakeImage:
  def __init__(self,path):self.path=path
@@ -25,7 +25,11 @@ class FakeImage:
  def read(self,i,n):
   return [b"start",b"SCRIPTPACK",b"BGPACK",b"EBOOT"][i]
 fake=types.SimpleNamespace(Image=FakeImage,members_from_dat=lambda raw:{"talk00.dat":b"src"})
-ns=dict(c=fake,nispack=nispack,lzs_decompress=lambda blob,allow_overlap:blob)
+def validate_lzs(blob):
+ if blob!=b"start":raise ValueError("bad LZS")
+ return dict(raw_size=3)
+ns=dict(c=fake,nispack=nispack,lzs_decompress=lambda blob,allow_overlap:blob,
+        lzs_header=validate_lzs)
 exec(compile(ast.Module(body=[load],type_ignores=[]),str(SOURCE),"exec"),ns)
 run=ns["load"]
 class ROM010(unittest.TestCase):
