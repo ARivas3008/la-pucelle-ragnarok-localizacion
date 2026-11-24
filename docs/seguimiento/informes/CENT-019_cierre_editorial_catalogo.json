@@ -1,0 +1,81 @@
+{
+  "id": "CENT-019",
+  "fecha": "2026-11-24",
+  "alcance": "Revisión editorial de todos los grupos textuales válidos en el catálogo de 15.525 y censo complementario name.dat, NO localización completa del juego",
+  "catalogo": {
+    "filas_originales": 15525,
+    "grupos_validos_de_texto": 15524,
+    "grupos_editorialmente_revisados": 15524,
+    "grupos_de_texto_pendientes": 0,
+    "grupos_no_textuales_excluidos": [
+      1630
+    ],
+    "porcentaje_sobre_textos_validos_inventariados": 100,
+    "porcentaje_bruto_15524_de_15525": 99.99,
+    "no_esta_demostrado_100_de_todo_el_juego": true
+  },
+  "comparacion_antes_despues": {
+    "revisados_antes_de_relevo": 15346,
+    "revisados_despues_de_relevo": 15524,
+    "aprobaciones_editoriales_nuevas": 178,
+    "pendientes_antes": 179,
+    "pendientes_de_texto_despues": 0,
+    "exclusiones_explicitas_despues": 1
+  },
+  "lotes_de_aprobacion": {
+    "corpus09_dialogos_reconstruidos": 14,
+    "corpus11_dialogos_reconstruidos": 55,
+    "corpus08_profecia_eliptica_cotejada": 1,
+    "corpus02_tutorial_y_coleccion": 28,
+    "centrales_previos_tutorial": 19,
+    "nombres_ingleses_iso_fonemas_conservados": 4,
+    "nombres_ingleses_iso_adaptados": 24,
+    "nombre_japones_Sukopiru": 1,
+    "nombres_japoneses_DLC_transcreados_con_clase_ISO_inferida": 26,
+    "nombres_ingleses_iso_resueltos_con_original_japones": 3,
+    "centrales_magic_dat_descripciones_con_marcador_numero_preservado": 3
+  },
+  "extras_fuera_de_catalogo": {
+    "recurso": "ISO_START/name.dat",
+    "slots_de_nombre_no_inventariados": 17,
+    "textos_lexicos_no_inventariados": 10,
+    "textos_lexicos_revisados": 10,
+    "simbolos_y_puntuacion_conservados_sin_traduccion": 7,
+    "ruta": "data/control/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv"
+  },
+  "exclusion_1630": {
+    "recurso": "DLC_00/ritem.dat",
+    "offset": 7552,
+    "entrada_extraida_erronea": "ェD",
+    "datos_hex": "20 AA 44",
+    "criterio": "No es cadena de texto; conservado en estado requiere_investigacion en corpus/15/revision.csv para satisfacer validador; excluir solo del denominador textual válido",
+    "prueba_original": "data/control/EXCLUSIONES_TECNICAS_VERIFICADAS.md"
+  },
+  "fuentes_y_evidencias": {
+    "original_ISO_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "MIPS_ELF_sha256": "2b9a1a9864f3b236e83a2848f839023e92dcb7a5272bcb430cef527eafb563f6",
+    "construccion_nombre_MIPS": "0x0882ec80–0x0882ed68",
+    "reglas": {
+      "clase1": "sufijo",
+      "clase2": "prefijo",
+      "clase3": "orden aleatorio",
+      "espacios_automaticos": false,
+      "max_bytes_nombre": 16,
+      "max_bytes_fragmento_sin_nul": 11
+    },
+    "auditoria_y_dictamen": "docs/seguimiento/informes/CENT-018_mips_generador_y_revision.md",
+    "modelo": "scripts/cent018_modelo_nombres.py",
+    "pruebas": "tests/test_cent018_modelo_nombres.py",
+    "csv_ingles": "data/control/CENT018_NAME_DAT_27_PROPUESTAS.csv",
+    "csv_japones": "data/control/CENT019_NAME_DAT_26_JAPONES_PROPUESTAS.csv"
+  },
+  "restricciones_no_cerradas": [
+    "No se han aportado los cuatro EDAT originales para comparar clases reales DLC, marcadores de magia y límites físicos de salida",
+    "Las traducciones/editoriales del generador japones se basan en el original del manifiesto y la clase inferida por el mismo offset en ISO inglesa; no se ha probado visualmente una construcción DLC",
+    "El proyecto declara que puede haber otros textos fuera del manifiesto y no hay inventario exhaustivo de todas las escenas, HUD y gráficos",
+    "No se ha reconstruido ni certificado en PPSSPP una ISO+DLC con estas 178 revisiones",
+    "La cobertura de integración histórica conserva 21805 de 26258 unidades (83.04%); no incrementar por aprobación editorial"
+  ],
+  "resultado": "100 % del texto real actualmente catalogado, con una exclusión binaria explícita; 100 % global del juego no acreditado",
+  "ci": "verificar GitHub Actions del último HEAD antes de fusionar"
+}
