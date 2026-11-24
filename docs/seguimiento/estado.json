@@ -102,7 +102,7 @@
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Primero ISO sola autenticada y nueva auditoría de candidata real; luego cuatro DLC EDAT auténticos y candidato integral, auditar con ROM-010/013/014 y umbral ROM-012. No tocar el numerador 21805 sin prueba real.",
+  "criterio_siguiente": "Se autenticaron 22659 cadenas de origen ISO, NO inserciones; reconstruir y releer candidata española real, medir pendientes y resolver 4 DLC originales antes de publicar >=25956/26258. Ejecutar ROM-010/012/013/015 y pruebas PPSSPP cuando estén disponibles.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -292,5 +292,18 @@
     "regresiones_definidas": 3,
     "ci": "pendiente de verificación en nuevo HEAD",
     "unidades_nuevas_cotejadas": 0
+  },
+  "rom015": {
+    "informe": "docs/seguimiento/informes/ROM-015_campos_y_scripts_iso_real.json",
+    "script": "scripts/rom015_auditar_campos_y_scripts_iso.py",
+    "iso_original_autenticada": true,
+    "campos_originales_comprobados": 2091,
+    "scripts_originales_comprobados": 485,
+    "dialogos_originales_comprobados": 20083,
+    "total_textos_iso_originales_comprobados": 22659,
+    "errores_de_origen_iso_en_esos_textos": 0,
+    "unidades_graficas_fuera_del_cotejo_textual": 62,
+    "unidades_nuevas_insertadas_y_cotejadas": 0,
+    "ppsspp": false
   }
 }
