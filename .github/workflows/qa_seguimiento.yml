@@ -12,6 +12,8 @@ on:
       - 'scripts/test_bgpack_auditoria.py'
       - 'scripts/inspeccionar_txp_bgpack.py'
       - 'scripts/test_txp_bgpack.py'
+      - 'scripts/auditar_corazon_original.py'
+      - 'scripts/test_corazon_original.py'
   pull_request:
     paths:
       - 'docs/seguimiento/**'
@@ -24,6 +26,8 @@ on:
       - 'scripts/test_bgpack_auditoria.py'
       - 'scripts/inspeccionar_txp_bgpack.py'
       - 'scripts/test_txp_bgpack.py'
+      - 'scripts/auditar_corazon_original.py'
+      - 'scripts/test_corazon_original.py'
 permissions:
   contents: read
 jobs:
@@ -44,3 +48,5 @@ jobs:
         run: python -m unittest discover -s scripts -p 'test_bgpack_auditoria.py' -v
       - name: Pruebas sintéticas de TXP 4 y 8 bpp, swizzle y CLUT
         run: python -m unittest discover -s scripts -p 'test_txp_bgpack.py' -v
+      - name: Validar CP932 del glifo de corazón y tablas sintéticas
+        run: python -m unittest discover -s scripts -p 'test_corazon_original.py' -v
