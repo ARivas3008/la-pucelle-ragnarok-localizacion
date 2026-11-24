@@ -987,7 +987,10 @@
         "dictamen": "escritura_ficticia_amerita_criterio_localizacion",
         "paleta_y_swizzle": "RGBA8888 CP932 no aplica a texturas; orden PSP reversible 16 bytes × 8 filas",
         "clase_evidencia": "A: descodificado y visto desde ISO original; C: sin emulador",
-        "certificado_v019": false
+        "certificado_v019": false,
+        "estado_gfx003": "inscripcion_ambiental_no_equivalente_a_texto_UI_confirmado",
+        "criterio": "preservar original hasta mapeo inequívoco contra topónimos y PPSSPP",
+        "es_texto_traducible_confirmado": false
       }
     },
     {
@@ -1082,7 +1085,10 @@
         "dictamen": "escritura_ficticia_amerita_criterio_localizacion",
         "paleta_y_swizzle": "RGBA8888 CP932 no aplica a texturas; orden PSP reversible 16 bytes × 8 filas",
         "clase_evidencia": "A: descodificado y visto desde ISO original; C: sin emulador",
-        "certificado_v019": false
+        "certificado_v019": false,
+        "estado_gfx003": "inscripcion_ambiental_no_equivalente_a_texto_UI_confirmado",
+        "criterio": "preservar original hasta mapeo inequívoco contra topónimos y PPSSPP",
+        "es_texto_traducible_confirmado": false
       }
     },
     {
@@ -1113,5 +1119,15 @@
     "certificados_en_v019": 0,
     "tecnica": "TXP 4/8bpp + CLUT RGBA8888 PSP swizzle 16x8; reversibilidad original comprobada",
     "prohibicion": "No sumar automáticamente estos ocho a 62; no certifica ninguna textura parcheada"
+  },
+  "auditoria_gfx003": {
+    "informe": "docs/seguimiento/informes/GFX-003_inscripciones.json",
+    "candidatos_por_decidir": [
+      "wbg00.txp",
+      "wmap.txp"
+    ],
+    "nuevos_textos_confirmados": 0,
+    "certificados_visual_v019": 0,
+    "nota": "Inscripciones de ambientación sin equivalencia lingüística demostrada: preservar originales."
   }
 }

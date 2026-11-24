@@ -3,7 +3,7 @@
   "fecha": "2026-11-23",
   "exhaustivo_por_escena": false,
   "aprobados_v019": 0,
-  "nota": "63 casos catalogados, ninguno ejecutado en v0.19.0. Ocho casos nuevos vigilan TXP y su escena real. Matriz no exhaustiva.",
+  "nota": "66 casos catalogados; 3 nuevos para corazón 4268, lengua eringa y mapas con inscripciones; 0 ejecutados en v0.19.0, matriz no exhaustiva.",
   "casos": [
     {
       "id": "BT-BOOT",
@@ -884,6 +884,48 @@
       "hashes": null,
       "partida": null,
       "resultado_esperado": "Textura sin modificación no autorizada, CLUT/anclajes intactos; si hay inscripciones, criterios de traducción coherentes",
+      "resultado_observado": null,
+      "evidencia": []
+    },
+    {
+      "id": "BT-CHAR-HEART-01",
+      "escena": "Diálogo Eringa grupo 4268",
+      "pasos": "Entrar a escena Eringa y mostrar el texto final 'eri' seguido del símbolo; comparar original y candidata",
+      "resultado_esperado": "Glifo corazón como en fontB original, sin símbolo monetario ni bloque vacío",
+      "estado": "sin_ejecutar_v019",
+      "version_ppsspp": null,
+      "configuracion": null,
+      "commit": null,
+      "hashes": null,
+      "partida": null,
+      "resultado_observado": null,
+      "evidencia": []
+    },
+    {
+      "id": "BT-ERIN-LANG-01",
+      "escena": "Cursos de eringués grupos 4250–4255",
+      "pasos": "Abrir las tres lecciones del anciano; verificar encabezados, palabras inventadas, paginación y posibles retratos",
+      "resultado_esperado": "Neologismos transliterados, orden y diálogos legibles sin recortes",
+      "estado": "sin_ejecutar_v019",
+      "version_ppsspp": null,
+      "configuracion": null,
+      "commit": null,
+      "hashes": null,
+      "partida": null,
+      "resultado_observado": null,
+      "evidencia": []
+    },
+    {
+      "id": "BT-GFX-INSCRIPT-01",
+      "escena": "Mapa de mundo wmap / wbg00",
+      "pasos": "Mostrar fondos en transiciones y mapa mundial; comprobar correspondencia de inscripciones con interfaz y ausencia de arte accidentalmente cambiado",
+      "resultado_esperado": "Inscripciones originales y CLUT intactas hasta aprobación de localización; ninguna distorsión por texto",
+      "estado": "sin_ejecutar_v019",
+      "version_ppsspp": null,
+      "configuracion": null,
+      "commit": null,
+      "hashes": null,
+      "partida": null,
       "resultado_observado": null,
       "evidencia": []
     }
