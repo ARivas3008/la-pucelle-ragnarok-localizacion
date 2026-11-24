@@ -102,7 +102,10 @@ verified=sum(counts[s] for s in ('TALK_BLOQUE_INSERTADO','SCRIPT_INSERTADO','CAM
 sin_dlc=not bool(args.dlc_original)
 alcance=len(result)-counts['NO_EVALUADO_DLC_AUSENTE']
 if alcance<=0:raise ValueError('Auditoría sin unidades aplicables')
+originales_autenticados=dict(iso_sha256=c.sha_file(args.iso_original),
+ dlc_sha256={f'DL_JP_{n:02d}.EDAT':c.sha_file(args.dlc_original/f'DL_JP_{n:02d}.EDAT') for n in range(4)} if args.dlc_original else {})
 summary=dict(fecha=datetime.date.today().isoformat(),iso=str(dest),sha256=c.sha_file(dest),
+ originales_autenticados=originales_autenticados,
  alcance='ISO_SOLA' if sin_dlc else 'ISO_Y_CUATRO_DLC',unidades_total=len(result),
  unidades_alcance_auditado=alcance,unidades_no_evaluadas_por_ausencia_dlc=counts['NO_EVALUADO_DLC_AUSENTE'],
  unidades_insertadas_verificadas=verified,porcentaje_unidades_tecnicas=round(100*verified/alcance,2),
