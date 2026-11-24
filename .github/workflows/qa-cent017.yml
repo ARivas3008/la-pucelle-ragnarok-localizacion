@@ -6,6 +6,7 @@ on:
       - 'tests/test_cent017_nombre.py'
       - 'scripts/cent018_modelo_nombres.py'
       - 'tests/test_cent018_modelo_nombres.py'
+      - 'data/control/CENT018_NAME_DAT_27_PROPUESTAS.csv'
       - '.github/workflows/qa-cent017.yml'
   pull_request:
     paths:
@@ -13,6 +14,7 @@ on:
       - 'tests/test_cent017_nombre.py'
       - 'scripts/cent018_modelo_nombres.py'
       - 'tests/test_cent018_modelo_nombres.py'
+      - 'data/control/CENT018_NAME_DAT_27_PROPUESTAS.csv'
       - '.github/workflows/qa-cent017.yml'
 jobs:
   estructura:
@@ -26,3 +28,4 @@ jobs:
         run: |
           python -m py_compile scripts/cent017_auditar_nombre.py scripts/cent018_modelo_nombres.py
           python -m unittest discover -s tests -p 'test_cent01*_*.py' -v
+          python scripts/cent018_modelo_nombres.py --propuestas data/control/CENT018_NAME_DAT_27_PROPUESTAS.csv --bases Prier Croix Alouette Culotte Poitreene --informe /tmp/cent018_simulacion.json
