@@ -5,8 +5,8 @@
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
-    "revisados": 14961,
-    "requieren_investigacion": 55
+    "revisados": 14986,
+    "requieren_investigacion": 30
   },
   "unidades": {
     "total": 26258,
@@ -90,19 +90,19 @@
   },
   "editorial_catalogo": {
     "total_grupos_conocidos": 15525,
-    "revisados_en_reparto": 14961,
-    "pendientes_en_reparto": 55,
+    "revisados_en_reparto": 14986,
+    "pendientes_en_reparto": 30,
     "pendientes_centrales": 3,
-    "pendientes_minimos": 58,
+    "pendientes_minimos": 33,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
     "revisados_centrales": 506,
-    "revisados_editoriales_conocidos": 15467
+    "revisados_editoriales_conocidos": 15492
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Traducción 15467/15525 (99,63%); faltan 58 registros: 54 fragmentos de generador, 3 magic.dat DLC, 1 falso positivo ritem documentado. MIPS confirma clase1 sufijo, 2 prefijo, 3 orden aleatorio, nombre máximo 16 bytes, slot máximo11 bytes texto. Validar 27 fragmentos ISO contra nombres compuestos simulados y 27 DLC con originales antes de aprobar. También hay 10 cadenas léxicas de ISO name.dat fuera del manifiesto.",
+  "criterio_siguiente": "Traducción del catálogo 15492/15525 = 99,79%; 33 pendientes (26 morfemas de name.dat DLC japoneses sin EDAT, 3 fragmentos ISO de interpretación incierta, 3 prefijos magic.dat sin EDAT, 1 falso positivo no textual 1630 documentado). Además existen 10 entradas léxicas name.dat ISO fuera del manifiesto. Cotejar función generadora MIPS y reglas de 16 bytes, ejecutar PPSSPP y examinar DLC antes de certificar 100%.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -359,14 +359,30 @@
       14062,
       14105,
       14115,
-      14180
+      14180,
+      1378
     ],
     "informe": "docs/seguimiento/informes/CENT-017_name_dat_clases.json",
     "simulador": "scripts/cent018_modelo_nombres.py",
     "pruebas": "tests/test_cent018_modelo_nombres.py",
-    "pendientes_del_catalogo": 58,
-    "pendientes_del_generador": 54,
+    "pendientes_del_catalogo": 33,
+    "pendientes_del_generador": 29,
     "edat_original_para_27_fragmentos_japoneses": false,
-    "ppsspp": false
+    "ppsspp": false,
+    "nombre_iso_fragmentos_adaptados_nuevos": 24,
+    "generador_aprobaciones_editoriales_nuevas": 29,
+    "edat_original_para_26_fragmentos_japoneses": false,
+    "candidatos_iso_pendientes": [
+      14093,
+      14106,
+      14150
+    ],
+    "pendientes_tres_prefijos_magic_dat": [
+      611,
+      731,
+      951
+    ],
+    "falso_positivo_tecnico_excluido": 1630,
+    "extra_textos_fuera_manifiesto": 10
   }
 }
