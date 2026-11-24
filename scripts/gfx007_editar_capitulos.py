@@ -83,7 +83,7 @@ def main():
  if hashlib.sha256(original).hexdigest()!=ref['BGPACK_original_sha256']:raise ValueError('BGPACK distinto')
  patched=bytearray(original);result={}
  for i in range(struct.unpack_from('<I',original,12)[0]):
-  n,o,sz,u=struct.unpack_from('<32sIII',original,16+44*i);n=n.split(b'\\0')[0].decode('cp932')
+  n,o,sz,u=struct.unpack_from('<32sIII',original,16+44*i);n=n.partition(bytes(1))[0].decode('cp932')
   if n not in ref['assets']:continue
   raw=original[o:o+sz]
   if hashlib.sha256(raw).hexdigest()!=ref['assets'][n]['original_sha256']:raise ValueError('TXP original distinto: '+n)
