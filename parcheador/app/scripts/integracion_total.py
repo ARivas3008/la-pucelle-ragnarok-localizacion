@@ -39,7 +39,7 @@ def verificar_destinos(iso,dlc_directorio,salida):
    if not archivo.is_file():raise ValueError('Falta DLC original: '+archivo.name)
    entradas.append(archivo.resolve())
  for src in entradas:
-  if out==src or src.is_relative_to(out) or out.is_relative_to(src) and src.is_file():
+  if out==src or src.is_relative_to(out) or out.is_relative_to(src):
    raise ValueError('La salida no puede contener ni sobrescribir recursos originales: '+str(src))
  if out.exists():
   if not out.is_dir():raise ValueError('La salida existe y no es un directorio')
