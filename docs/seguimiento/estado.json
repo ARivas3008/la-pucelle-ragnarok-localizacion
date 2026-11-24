@@ -45,7 +45,10 @@
     "capitulos_altura_parcial": 16,
     "txp_clut_multibanco": 3,
     "pilotos_editados_insertados_iso_parcial_relevo010": 16,
-    "informe_gfx007": "docs/seguimiento/informes/GFX-007_capitulos_piloto.json"
+    "informe_gfx007": "docs/seguimiento/informes/GFX-007_capitulos_piloto.json",
+    "informe_gfx008": "docs/seguimiento/informes/GFX-008_integracion_candidata.json",
+    "integracion_opcional_en_motor": true,
+    "candidata_conjunta_ejecutada": false
   },
   "betatesting": {
     "certificacion_v019": false,
@@ -72,7 +75,7 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-013",
+  "siguiente_tarea": "RELEVO-014",
   "grupos_centrales": {
     "total": 509,
     "pendientes": 58,
