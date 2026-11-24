@@ -14,6 +14,8 @@ on:
       - 'scripts/test_txp_bgpack.py'
       - 'scripts/auditar_corazon_original.py'
       - 'scripts/test_corazon_original.py'
+      - 'scripts/verificar_bgpack_parche.py'
+      - 'scripts/test_verificar_bgpack_parche.py'
   pull_request:
     paths:
       - 'docs/seguimiento/**'
@@ -28,6 +30,8 @@ on:
       - 'scripts/test_txp_bgpack.py'
       - 'scripts/auditar_corazon_original.py'
       - 'scripts/test_corazon_original.py'
+      - 'scripts/verificar_bgpack_parche.py'
+      - 'scripts/test_verificar_bgpack_parche.py'
 permissions:
   contents: read
 jobs:
@@ -50,3 +54,5 @@ jobs:
         run: python -m unittest discover -s scripts -p 'test_txp_bgpack.py' -v
       - name: Validar CP932 del glifo de corazón y tablas sintéticas
         run: python -m unittest discover -s scripts -p 'test_corazon_original.py' -v
+      - name: Rechazar cambios gráficos BGPACK fuera de regiones autorizadas
+        run: python -m unittest discover -s scripts -p 'test_verificar_bgpack_parche.py' -v

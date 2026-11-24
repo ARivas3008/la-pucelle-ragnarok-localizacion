@@ -1129,5 +1129,17 @@
     "nuevos_textos_confirmados": 0,
     "certificados_visual_v019": 0,
     "nota": "Inscripciones de ambientación sin equivalencia lingüística demostrada: preservar originales."
+  },
+  "auditoria_gfx004": {
+    "estado": "sin_equivalencia_linguistica_demostrada",
+    "texturas_preservadas": [
+      "wbg00.txp",
+      "wmap.txp"
+    ],
+    "certificadas_v019": 0,
+    "nuevos_textos_confirmados": 0,
+    "informe": "docs/seguimiento/informes/GFX-004_dictamen_inscripciones.json",
+    "prueba_integridad": "scripts/verificar_bgpack_parche.py",
+    "nota": "No forzar una traducción para caligrafía ornamental no identificada."
   }
 }

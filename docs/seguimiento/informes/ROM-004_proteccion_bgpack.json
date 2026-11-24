@@ -1,0 +1,35 @@
+{
+  "id": "ROM-004",
+  "fecha": "2026-11-23",
+  "rama": "relevo/relevo007-cent010-rom004-20261123",
+  "tipo": "Defensa de integridad binaria para BGPACK NISPACK",
+  "evidencia_A": {
+    "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "tamano_bytes": 858937344,
+    "estado": "hash de ISO original revalidado localmente; no comparación ISO original contra parcheada"
+  },
+  "evidencia_B": {
+    "script": "scripts/verificar_bgpack_parche.py",
+    "tests": "scripts/test_verificar_bgpack_parche.py",
+    "estado": "APROBADO en CI #45296899915, pruebas B sintéticas",
+    "protecciones": [
+      "Rechaza cualquier cambio si no hay autorización TXP explícita",
+      "SHA-256 del TXP de origen obligatorio para permitir su alteración",
+      "Solo región de índices de píxeles editable, cabecera y CLUT preservadas",
+      "Nombre, orden, offsets, tamaños, metadata y relleno de BGPACK intactos",
+      "No permite cambios de recursos .dat, KM2 ni otras texturas"
+    ],
+    "prohibicion": "CI B no acredita juego PPSSPP ni recurso comercial realmente parcheado",
+    "ci_run": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45296899915"
+  },
+  "evidencia_C": {
+    "ppsspp_v019": "no ejecutado",
+    "capturas": [],
+    "iso_candidata_hash": null
+  },
+  "bloqueos": [
+    "Faltan cuatro EDAT originales para probar rutas DLC",
+    "No se dispone de ejecutable PPSSPP ni candidata reciente validada para la ISO"
+  ],
+  "resultado": "Implementación de barrera preventiva sin aumento de unidades técnicas insertadas; mantener histórico 21.805 / 26.258"
+}
