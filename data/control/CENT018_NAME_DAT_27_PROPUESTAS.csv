@@ -1,0 +1,28 @@
+grupo_id,recurso,offset,clase_mips,original,es_propuesta,estado,fundamento_editorial,maximo_bytes_slot,origen_sha256
+14082,ISO_START/name.dat,924,1,Set,Lote,candidato_para_qa,"Set puede designar conjunto, lote o set; en nombres aleatorios se usa «Lote»",11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14093,ISO_START/name.dat,1132,1,Such?,Tal?,candidato_para_qa,"Interrogativo nominal absurdo, preservar ? de origen sin inventar sujeto",11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14095,ISO_START/name.dat,1164,1,Must,Debe,candidato_para_qa,Auxiliar de necesidad como fragmento humorístico,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14096,ISO_START/name.dat,1180,1,Was,Era,candidato_para_qa,"Forma pretérita no terminada, conscientemente nominal",11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14099,ISO_START/name.dat,1228,1,Was not,NoEra,candidato_para_qa,Conservar negación de fragmento compuesto sin separadores,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14100,ISO_START/name.dat,1244,1,Wonder,Asombro,candidato_para_qa,Lectura nominal del sustantivo en nombre ficticio,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14102,ISO_START/name.dat,1276,1,Where,Donde,candidato_para_qa,"Conector relativo dentro de nombre ficticio, sin signo interrogativo",11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14106,ISO_START/name.dat,1340,1,Out to be,PorSer,candidato_para_qa,Aproximación a intención; fuente inglesa anómala,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14116,ISO_START/name.dat,1500,1,Blat!?,Blat!?,candidato_para_qa,Onomatopeya/nombre inventado; conservar literal,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14118,ISO_START/name.dat,1532,1,Like,Como,candidato_para_qa,Valor comparativo en apelativo compuesto,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14122,ISO_START/name.dat,1660,1,Room,Sala,candidato_para_qa,Sustantivo breve de recinto,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14140,ISO_START/name.dat,1964,1,Extremity,Extremo,candidato_para_qa,Lectura nominal de extremo; componente ficticio,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14150,ISO_START/name.dat,2124,1,Vistor,Vistor,candidato_para_qa,Fuente parece neologismo o errata; conservar como nombre inventado,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14151,ISO_START/name.dat,2140,1,Off,Fuera,candidato_para_qa,Partícula de alejamiento,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14153,ISO_START/name.dat,2172,1,Ray,Rayo,candidato_para_qa,Lectura física de rayo como nombre ficticio,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14160,ISO_START/name.dat,2300,1,Chase,Caza,candidato_para_qa,Acción de perseguir abreviada,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14164,ISO_START/name.dat,2364,1,Kind,Tipo,candidato_para_qa,Clase o tipo en nombre ficticio,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14167,ISO_START/name.dat,2428,1,Holiday,Fiesta,candidato_para_qa,Sustantivo festivo dentro de nombre aleatorio,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14168,ISO_START/name.dat,2444,1,Rush,Prisa,candidato_para_qa,Sustantivo de urgencia,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14209,ISO_START/name.dat,3132,1,Chick,Pollito,candidato_para_qa,Sustantivo de cría de ave,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14214,ISO_START/name.dat,3212,1,Hate,Odio,candidato_para_qa,Sustantivo de emoción,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14221,ISO_START/name.dat,3324,1,Nuke,Nuclear,candidato_para_qa,Atributo tecnológico del nombre ficticio,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14234,ISO_START/name.dat,3548,1,Mean,Cruel,candidato_para_qa,Adjetivo calificativo como epíteto,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14240,ISO_START/name.dat,3644,1,It is what,EsLoQue,candidato_para_qa,"Fragmento sintáctico comprimido sin separador, como el original",11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14241,ISO_START/name.dat,3660,1,Come,Ven,candidato_para_qa,Imperativo dentro de nombre compuesto absurdo,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14283,ISO_START/name.dat,4380,2,What I,LoQueYo,candidato_para_qa,Fragmento sintáctico de prefijo,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+14308,ISO_START/name.dat,4796,2,Pass,Pase,candidato_para_qa,Sustantivo o verbo del componente prefijo,11,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
