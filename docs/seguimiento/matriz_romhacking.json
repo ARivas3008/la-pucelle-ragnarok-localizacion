@@ -151,8 +151,9 @@
     {
       "id": "ROM-024",
       "tipo": "Auditor ISO9660 diferencial reubicación LBA y autorizaciones por hash (7 tests sintéticos)",
-      "estado": "B_SINTETICOS_LOCALES_OK_CI_PENDIENTE",
-      "evidencia": "scripts/verificar_iso_aislamiento.py | scripts/test_verificar_iso_aislamiento.py"
+      "estado": "B_SINTETICOS_PASS_CI_PR_NO_CANDIDATA_REAL",
+      "evidencia": "scripts/verificar_iso_aislamiento.py | scripts/test_verificar_iso_aislamiento.py",
+      "ci": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021805"
     }
   ]
 }

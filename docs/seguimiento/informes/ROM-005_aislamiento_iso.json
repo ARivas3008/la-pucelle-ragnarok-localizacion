@@ -25,7 +25,12 @@
       "rechazo archivo fuera de rango",
       "rechazo PVD corrupto"
     ],
-    "ci": "Por comprobar en GitHub Actions del PR"
+    "ci": {
+      "tipo": "pull_request",
+      "commit": "0d2c1927ef6c806715e2fa7faaf49bae5fd590c1",
+      "url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021805",
+      "resultado": "success"
+    }
   },
   "rutas": {
     "auditor": "scripts/verificar_iso_aislamiento.py",
@@ -48,5 +53,10 @@
     "Ejecutar diff original-candidata con autorizaciones por SHA autenticado",
     "Comprobar cambios de estructura interior del miembro permitido y sectores extras",
     "Prueba en PPSSPP real de retratos/tilemaps/HUD/mapa y todos los DLC"
-  ]
+  ],
+  "ci_corpus": {
+    "tipo": "pull_request",
+    "url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021812",
+    "resultado": "success"
+  }
 }

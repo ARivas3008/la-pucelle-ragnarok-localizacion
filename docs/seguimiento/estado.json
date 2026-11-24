@@ -142,8 +142,15 @@
   },
   "romhacking_relevo008": {
     "informe": "docs/seguimiento/informes/ROM-005_aislamiento_iso.json",
-    "tipo": "A original contra sí mismo: 23/23 recursos idénticos; B: 7 tests sintéticos aprobados localmente, CI pendiente al generar el informe",
+    "tipo": "A: ISO original vs sí misma 23/23; B: 7 pruebas sintéticas correctas localmente y GitHub Actions PR; C: no disponible. ISO candidata traducida aún ausente.",
     "verificacion_candidata_real": false,
     "regla": "Los recursos no autorizados deben permanecer iguales por contenido incluso si cambian LBAs; los permitidos requieren SHA-256 del original; validar interior y PPSSPP aparte"
+  },
+  "ci_relevo008": {
+    "commit_evaluado": "0d2c1927ef6c806715e2fa7faaf49bae5fd590c1",
+    "qa_corpus": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021812",
+    "qa_seguimiento_rom005": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021805",
+    "resultado": "success, success",
+    "evidencia": "B: tests sintéticos e inventarios, NO PPSSPP ni ISO candidata real"
   }
 }
