@@ -5,8 +5,8 @@
   "alcance": "indice_de_los_15016_grupos_actuales_no_censo_completo_del_juego",
   "resumen_corpus": {
     "total": 15016,
-    "revisados": 14957,
-    "requieren_investigacion": 59
+    "revisados": 14961,
+    "requieren_investigacion": 55
   },
   "corpus": [
     {
@@ -1021,7 +1021,7 @@
     {
       "numero": "02",
       "ruta_revision": "corpus/02/revision.csv",
-      "sha": "24350d15bc8970d7eb86e7c46b840f236be7538f",
+      "sha": "32344b65695e945d963d1b291d24728375fab973",
       "revisados": [
         1347,
         1348,
@@ -1796,6 +1796,7 @@
         14059,
         14060,
         14061,
+        14062,
         14063,
         14064,
         14065,
@@ -1831,6 +1832,7 @@
         14101,
         14103,
         14104,
+        14105,
         14107,
         14108,
         14109,
@@ -1839,6 +1841,7 @@
         14112,
         14113,
         14114,
+        14115,
         14117,
         14119,
         14120,
@@ -1892,6 +1895,7 @@
         14177,
         14178,
         14179,
+        14180,
         14181,
         14182,
         14183,
@@ -2052,7 +2056,6 @@
         1440,
         1450,
         1451,
-        14062,
         14082,
         14093,
         14095,
@@ -2060,9 +2063,7 @@
         14099,
         14100,
         14102,
-        14105,
         14106,
-        14115,
         14116,
         14118,
         14122,
@@ -2074,7 +2075,6 @@
         14164,
         14167,
         14168,
-        14180,
         14209,
         14214,
         14221,
@@ -15689,13 +15689,13 @@
   },
   "resumen_editorial_ampliado": {
     "total_grupos_catalogo": 15525,
-    "revisados_del_reparto": 14957,
-    "requieren_investigacion_del_reparto": 59,
+    "revisados_del_reparto": 14961,
+    "requieren_investigacion_del_reparto": 55,
     "centrales_pendientes": 3,
-    "pendientes_minimos_conocidos": 62,
+    "pendientes_minimos_conocidos": 58,
     "alcance_aun_no_exhaustivo": true,
     "pendientes_centrales": 3,
     "revisados_centrales": 506,
-    "revisados_editoriales_conocidos": 15463
+    "revisados_editoriales_conocidos": 15467
   }
 }
