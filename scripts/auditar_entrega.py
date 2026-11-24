@@ -7,6 +7,8 @@ import construir_parche as c
 from nis_formats import nispack,lzs_decompress
 from fuentes_es import decode_es
 from recompilar_talk import canon
+from revisiones_coordinadas import merge_central
+from nis_formats import lzs_header
 def load(iso,dlc=None):
  im=c.Image(iso);rec={p:(o,n) for p,o,n,_ in im.records()};buf={}
  packs=[('ISO_START',im.read(*rec['/PSP_GAME/USRDIR/START_JP.LZS']))]
@@ -15,9 +17,15 @@ def load(iso,dlc=None):
    path=dlc/f'DL_JP_{n:02d}.EDAT'
    if not path.is_file():raise FileNotFoundError('Falta DLC original: '+str(path))
    parts=nispack(path.read_bytes())
-   if len(parts)!=1 or parts[0]['name'].lower()!='start_jp.lzs':
-    raise ValueError('DLC original incompatible: '+str(path))
-   packs.append((f'DLC_{n:02d}',parts[0]['content']))
+   if not parts:
+    raise ValueError('DLC sin recurso LZS: '+str(path))
+   candidates=[]
+   for part in parts:
+    try:lzs_header(part['content']);candidates.append(part)
+    except ValueError:pass
+   if len(candidates)!=1:
+    raise ValueError('DLC sin un único LZS validado: '+str(path))
+   packs.append((f'DLC_{n:02d}',candidates[0]['content']))
  for key,blob in packs:
   for name,data in c.members_from_dat(lzs_decompress(blob,allow_overlap=False)).items():buf[key+'/'+name]=bytes(data)
  for pack in ('SCRIPTPACK.DAT','BGPACK.DAT'):
@@ -33,7 +41,9 @@ if not dest.is_file():raise FileNotFoundError('No existe la ISO candidata: '+str
 actual=load(dest,dest.parent/'ULJS00244' if args.dlc_original else None)
 original=load(args.iso_original,args.dlc_original)
 manifest=list(csv.DictReader(c.DATA.open(encoding='utf-8-sig',newline='')))
-reviews,_,_=c.read_reviews(R,False)
+reviews,_,review_states=c.read_reviews(R,False)
+reviews,_,_=merge_central(R,reviews,manifest,[],review_states,expected=509)
+if len(reviews)!=15525:raise ValueError('Faltan revisiones del catálogo central')
 intervals={};script_units=set();proof=[]
 for folder in ('dialogos_compilados','scripts_compilados'):
  suffix='.talk.json' if folder=='dialogos_compilados' else '.script.json'
