@@ -223,5 +223,20 @@
   },
   "fuente_tipografica": "Liberation Serif Bold local, no distribuida",
   "dictamen": "La distribución swizzle por bloques 16 bytes x 8 filas usa bloque final de 2 filas sin padding. 16 roundtrips y 16 reencodificaciones reales. Títulos traducidos según corpus/01/revision.csv IDs 3282–3297. Comparación de índices fuera de rectángulo y CLUT intacta. Restauración aproximada de fondo bajo tinta; contraste de ruta demoníaca pendiente. La ISO piloto solo altera BGPACK, no incorpora motor de texto. No se publica la ISO ni texturas.",
-  "multibanco": "Vistas privadas de bancos 0,1,15 de item/sys3/sys5; se confirma distinta representación, no se conoce selector runtime. No se modificaron."
+  "multibanco": "Vistas privadas de bancos 0,1,15 de item/sys3/sys5; se confirma distinta representación, no se conoce selector runtime. No se modificaron.",
+  "entorno": {
+    "opencv": "4.13.0",
+    "numpy": "2.3.5",
+    "pillow": "12.3.0",
+    "fuente_sha256": "443a4dbd694b6e4689925947b456e0532e10b19c90fa32eb39ea6c2cd9db9ebd"
+  },
+  "auditoria_iso": {
+    "archivos_comparados": 23,
+    "identicos": 22,
+    "modificados": [
+      "PSP_GAME/USRDIR/BGPACK.DAT"
+    ],
+    "directorio_igual": true,
+    "estado": "AISLAMIENTO_RECURSOS_APROBADO_NO_PPSSPP"
+  }
 }

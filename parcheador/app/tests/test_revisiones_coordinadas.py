@@ -68,4 +68,32 @@ class TestCoordinacion(unittest.TestCase):
         candidates=trie["Hello"]["world"][None]
         self.assertEqual(len(candidates),2)
         self.assertTrue(any(c["solo_origen"] for c in candidates))
+    def test_checkout_catalogue_and_legacy_anchors(self):
+        root=Path(__file__).resolve().parents[3]
+        with (root/"data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv").open(encoding="utf-8-sig",newline="") as f:
+            manifest=list(csv.DictReader(f))
+        reviews={}
+        for n in range(1,16):
+            with (root/f"corpus/{n:02d}/revision.csv").open(encoding="utf-8-sig",newline="") as f:
+                for row in csv.DictReader(f):
+                    self.assertNotIn(row["grupo_id"],reviews)
+                    reviews[row["grupo_id"]]=row
+        merged,proof,counters=merge_central(root,reviews,manifest,[],Counter(r["estado"] for r in reviews.values()))
+        self.assertEqual(len(merged),15525)
+        data=root/"parcheador/app/datos"
+        scoped=json.loads((data/"segmentos_centrales_anclados.json").read_text(encoding="utf8"))
+        self.assertGreaterEqual(len(scoped["segmentos"]),165)
+        existing={}
+        for name in ("segmentos_talk_revisados.json","segmentos_hymt2_aprobados.json"):
+            for item in json.loads((data/name).read_text(encoding="utf8")):
+                existing.setdefault((item["recurso"],item["offset"]),[]).append(item)
+        matched=0
+        for item in scoped["segmentos"]:
+            for gid in item["grupos"]:
+                self.assertEqual(merged[gid]["estado"],"revisado")
+            for prior in existing.get((item["recurso"],item["offset"]),[]):
+                self.assertEqual(item["es"],prior["es"])
+                self.assertEqual(item["sha256_lineas"],lines_sha([{"raw":bytes.fromhex(h)} for h in prior["original_hex"]]))
+                matched+=1
+        self.assertGreaterEqual(matched,109)
 if __name__=="__main__":unittest.main()

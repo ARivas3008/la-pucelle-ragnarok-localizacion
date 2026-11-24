@@ -49,7 +49,7 @@
   },
   "betatesting": {
     "certificacion_v019": false,
-    "casos_catalogados": 82,
+    "casos_catalogados": 85,
     "casos_ejecutados_v019": 0
   },
   "iso_original": {
@@ -185,6 +185,8 @@
     "candidata_completa": false,
     "prueba_nueva": false,
     "candidata_grafica_parcial_sha256": "b0f4521223bbeadd0665f2f821659b595049807bbfa0869a5a4fb35965ec2642",
-    "prueba_estatica_grafica": true
+    "prueba_estatica_grafica": true,
+    "bloques_legados_sha_y_texto_coinciden": 109,
+    "verificador_aislamiento_archivos_iso": 23
   }
 }
