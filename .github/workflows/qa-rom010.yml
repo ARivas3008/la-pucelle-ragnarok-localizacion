@@ -6,6 +6,9 @@ on:
       - 'tests/test_rom010_iso_sola.py'
       - 'scripts/umbral_rom012.py'
       - 'tests/test_rom012_umbral.py'
+      - 'scripts/rom013_auditar_talk_original.py'
+      - 'tests/test_rom013_centrales.py'
+      - 'tests/test_rom014_original_sha.py'
       - '.github/workflows/qa-rom010.yml'
   pull_request:
     paths:
@@ -13,6 +16,9 @@ on:
       - 'tests/test_rom010_iso_sola.py'
       - 'scripts/umbral_rom012.py'
       - 'tests/test_rom012_umbral.py'
+      - 'scripts/rom013_auditar_talk_original.py'
+      - 'tests/test_rom013_centrales.py'
+      - 'tests/test_rom014_original_sha.py'
       - '.github/workflows/qa-rom010.yml'
 jobs:
   alcance:
@@ -24,5 +30,5 @@ jobs:
           python-version: '3.11'
       - name: Validar sintaxis y regresiones ISO/DLC
         run: |
-          python -m py_compile scripts/auditar_entrega.py scripts/umbral_rom012.py
+          python -m py_compile scripts/auditar_entrega.py scripts/umbral_rom012.py scripts/rom013_auditar_talk_original.py
           python -m unittest discover -s tests -p 'test_rom01*.py' -v
