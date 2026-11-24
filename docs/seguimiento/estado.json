@@ -5,8 +5,8 @@
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
-    "revisados": 14956,
-    "requieren_investigacion": 60
+    "revisados": 14957,
+    "requieren_investigacion": 59
   },
   "unidades": {
     "total": 26258,
@@ -90,19 +90,19 @@
   },
   "editorial_catalogo": {
     "total_grupos_conocidos": 15525,
-    "revisados_en_reparto": 14956,
-    "pendientes_en_reparto": 60,
+    "revisados_en_reparto": 14957,
+    "pendientes_en_reparto": 59,
     "pendientes_centrales": 3,
-    "pendientes_minimos": 63,
+    "pendientes_minimos": 62,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
     "revisados_centrales": 506,
-    "revisados_editoriales_conocidos": 15462
+    "revisados_editoriales_conocidos": 15463
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Cerrar 63 bloqueos editoriales: 58 fragmentos de nombres generados (27 DLC japoneses, 31 ISO ingleses; confirmar combinatoria de 3 tipos de registro), 3 descripciones magic.dat con prefijos CP932 desconocidos, 1 profecía truncada, y 1 falso positivo ritem excluido ya técnicamente. No inventar resolución; conservar traducciones aprobadas.",
+  "criterio_siguiente": "Traducción editorial catalogada 15463/15525=99,60%; no 100%. Falta identificar algoritmo y combinaciones de 27 fragmentos japoneses DLC y 31 ingleses ISO de name.dat (ISO tiene 307 slots, 3 clases, 17 no manifiestos); original EDAT para 3 prefijos magic.dat; registro 1630 es falso positivo binario validado, no texto. Cerrar brechas antes de afirmar cobertura editorial total, no confundir revisión con inserción.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -311,13 +311,13 @@
     "corpus11_revisados_nuevos": 55,
     "corpus02_dlc_tutorial_revisados_nuevos": 28,
     "centrales_japones_revisados_nuevos": 19,
-    "total_editoriales_nuevos": 116,
+    "total_editoriales_nuevos": 117,
     "pendientes_antes": 179,
-    "pendientes_ahora": 63,
+    "pendientes_ahora": 62,
     "pendientes_por_clase": {
       "generador_name.dat_japones": 27,
       "generador_name.dat_ingles": 31,
-      "profecia_fragmentada_ISO": 1,
+      "profecia_fragmentada_ISO": 0,
       "falso_positivo_no_textual_ritem": 1,
       "centrales_indecidibles": 3
     },
@@ -327,6 +327,19 @@
       "corpus/02/entrada.csv y los contextos japonés"
     ],
     "nota": "Los 115 están lingüísticamente revisados; no insertados ni probados con DLC ni PPSSPP. Los 58 fragmentos generados siguen pendientes de conocer combinatoria/gramática; hay 1 falso positivo fuera del alcance traductible.",
-    "reporte": "docs/seguimiento/informes/CENT-016_cierre_parcial_y_bloqueos.json"
+    "reporte": "docs/seguimiento/informes/CENT-016_cierre_parcial_y_bloqueos.json",
+    "corpus08_profecia_revisada_nueva": 1
+  },
+  "cent017": {
+    "informe": "docs/seguimiento/informes/CENT-017_name_dat_clases.json",
+    "script": "scripts/cent017_auditar_nombre.py",
+    "copia_iso_autentica_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "generador_nombre_tipo_clases": 3,
+    "slots_fisicos_name_dat_iso": 307,
+    "slots_name_dat_en_manifiesto": 290,
+    "slots_no_manifestados": 17,
+    "fragmentos_generador_pendientes_para_traduccion": 58,
+    "frases_de_generador_ejecutadas_en_ppsspp": 0,
+    "aprobaciones_generador_nuevas": 0
   }
 }
