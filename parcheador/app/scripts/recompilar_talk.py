@@ -109,7 +109,7 @@ def _partial_singletons(res,raw,run,trie,font):
   try:
    if len(wrap(phrase))!=1:continue
    if missing_render_glyphs(to_full(phrase),font):continue
-   new=b'\\x01'+encode(phrase)+b'\\x00'
+   new=bytes([1])+encode(phrase)+bytes([0])
    a=item['offset']-1;b=item['end']+1
    if a<0 or bytes(raw[a:b])==new:continue
    edits.append((a,b,new))
