@@ -193,12 +193,12 @@
 2096,"Esta es Pot-au-Feu, la ciudad del castillo.",revisado,Comparación con japonés del maestro original (grupo 2096: 城下街ポトフです。). 城下街: ciudad a los pies del castillo; nombre propio Pot-au-Feu. Revisión editorial únicamente; límites físicos/fragmentación talk y visualización aún no probados.,data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_2096|glosario/terminos_investigados.csv
 2873,,pendiente,,
 2875,,pendiente,,
-4250,,pendiente,,
-4251,,pendiente,,
-4252,,pendiente,,
-4253,,pendiente,,
-4254,,pendiente,,
-4255,,pendiente,,
+4250,"Curso de eringués del anciano, lección 2: «Adiós», eri.",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 4250: 『長のエリンギャー語講座 その2 / 「さようなら」』ですエリ。. Se conserva la naturaleza de lección ficticia y el tic eri. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4250
+4251,"En eringués, «adiós» se dice «Asafeianvaoraemoeri», eri.",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 4251: エリンギャー語で「さようなら」は、 / 「アサフェイアンヴァオラエモエリ」ですエリ。. Transliteración fonética conservadora del neologismo, no traducción semántica. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4251
+4252,"Curso de eringués del anciano, lección 3: «Lo siento», eri.",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 4252: 『長のエリンギャー語講座 その3 / 「ごめんなさい」』ですエリ。. Tratamiento coherente con la lección 2. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4252
+4253,"En eringués, «lo siento» se dice «Akorueoangaoweiaeri», eri.",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 4253: エリンギャー語で「ごめんなさい」は、 / 「アコルエオアンガオウェイアエリ」ですエリ。. Conservar neologismo en transliteración, sin atribuirle significado externo. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4253
+4254,"Curso de eringués del anciano, última lección: «Gracias», eri.",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 4254: 『長のエリンギャー語講座 最終回 / 「ありがとう」』ですエリ。. Última lección del curso, preservar registro cómico. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4254
+4255,"En eringués, «gracias» se dice «Weonoaeugagehaoeri», eri.",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 4255: エリンギャー語で「ありがとう」は、 / 「ウェオノアエウガゲハオエリ」ですエリ。. Transliteración del habla ficticia, evitar traducción léxica inventada. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4255
 4256,"Más adelante empieza el territorio del Dragón Champiñón: el Camino de los Hongos, eri.",revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4256; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4256|glosario:エリ,エリンギャー,キノコじる"
 4257,"El Dragón Champiñón es terriblemente fuerte, eri.",revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4257; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4257|glosario:エリ,エリンギャー,キノコじる"
 4258,"Ni se te ocurra enfrentarte a él, eri.",revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4258; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4258|glosario:エリ,エリンギャー,キノコじる"
@@ -211,7 +211,7 @@
 4265,"Pero eso no significa que haya dejado de ser peligroso, eri.",revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4265; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4265|glosario:エリ,エリンギャー,キノコじる"
 4266,"Es mejor evitar enfrentarse a él, eri.",revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4266; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4266|glosario:エリ,エリンギャー,キノコじる"
 4267,"Todos los Eringa terminamos las frases con «eri», aunque también sabemos hablar sin hacerlo, eri.",revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4267; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4267|glosario:エリ,エリンギャー,キノコじる"
-4268,,pendiente,,
+4268,"Añadimos «eri» a propósito porque así sonamos más adorables, eri￥",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 4268: わざわざ『エリ』をつけるのは、 / そのほうがキュートだからエリ￥. ISO auténtica SCRIPTPACK.DAT/talk01_jp.dat offset 66462: 81 8F CP932 fullwidth yen; se conserva ￥ literal; fontB.fnt original índice SJIS 175 → GID 99, cuyo atlas original dibuja un corazón 14x14. Falta verificarlo dentro de la versión parcheada en PPSSPP. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",ISO original SCRIPTPACK talk01 offset 66462 bytes 81 8F|data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4268
 4269,"Soy el anciano de Grand Champignon, eri…",revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4269; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4269|glosario:エリ,エリンギャー,キノコじる"
 4270,"Ya no podemos hacer nada por nuestra cuenta, eri.",revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4270; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4270|glosario:エリ,エリンギャー,キノコじる"
 4271,"Tal vez los cielos los hayan guiado hasta aquí, eri.",revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4271; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4271|glosario:エリ,エリンギャー,キノコじる"
@@ -245,34 +245,34 @@
 4299,Eso dice.,revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4299; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4299|glosario:エリ,エリンギャー,キノコじる"
 4300,"Díselo, Prier.",revisado,"Cotejo editorial del original japonés de la escena Eringa / Grand Champignon, unidad maestra grupo 4300; se conservan el tic «eri» y los nombres del glosario. No equivale a segmentación binaria ni a prueba de PPSSPP. ","data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_4300|glosario:エリ,エリンギャー,キノコじる"
 4390,,pendiente,,
-6040,,pendiente,,
-6041,,pendiente,,
-6042,,pendiente,,
-6043,,pendiente,,
-6044,,pendiente,,
-6045,,pendiente,,
-6046,,pendiente,,
-6047,,pendiente,,
-6048,,pendiente,,
-6049,,pendiente,,
-6050,,pendiente,,
-6051,,pendiente,,
-6052,,pendiente,,
-6053,,pendiente,,
-6054,,pendiente,,
-6055,,pendiente,,
-6056,,pendiente,,
-6057,,pendiente,,
-6058,,pendiente,,
-6059,,pendiente,,
-6060,,pendiente,,
-6061,,pendiente,,
-6062,,pendiente,,
-6063,,pendiente,,
-6064,,pendiente,,
-6065,,pendiente,,
-6066,,pendiente,,
-6067,,pendiente,,
+6040,Y no solo por fuera. Tenía un corazón tan hermoso y puro como el río Riviere.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6040: And not just on the / outside。 She had a heart / as beautiful and pure / as the river Riviere。. El nombre Riviere se conserva como en original inglés. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6040
+6041,"Pero siempre fue de salud delicada y, poco después de casarnos...",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6041: But she was always / sickly、 and shortly / after we married。。。. La frase se interrumpe deliberadamente. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6041
+6042,¡Perderla me destrozó por dentro!,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6042: Losing her tore me / apart inside!!. Monólogo doliente; no cambiar persona. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6042
+6043,¡Maldije la enfermedad que se la llevó y hasta a la Diosa!,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6043: I cursed the sickness / that took her、 and / I cursed the Goddess!. Goddess = Diosa, entidad religiosa. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6043
+6044,Aquel hombre apareció tres días después de la muerte de Palmier.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6044: That man appeared three / days after Palmier died。. Mantener Palmier y tres días. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6044
+6045,Dijo que venía de la Iglesia de la Madre Divina y que sabía cómo devolverla a la vida.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6045: He said he was from / the Church of the Divine / Mother、 / and that he knew / how to bring her back。. Conservar el nombre de institución como traducción de fuente inglesa. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6045
+6046,Pero para hacerlo necesitaba un corazón humano.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6046: But I needed a human / heart to do it。. La persona que relata necesitaba el corazón; no atribuirlo al hombre. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6046
+6047,"Si encontraba un corazón exactamente igual al suyo, podría devolverla a la vida.",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6047: If I found a heart that / was exactly like hers、 / I could bring / her back to life。. Condición hipotética preservada. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6047
+6048,Eso fue lo que me dijo.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6048: That is what he said。. Retoma la promesa del desconocido. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6048
+6049,Qué necio he sido.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6049: I have been such / a fool。. Autorreproche. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6049
+6050,No existen dos corazones exactamente iguales.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6050: Two hearts could never / be exactly the same。. Contrasta con promesa imposible del grupo 6047. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6050
+6051,¡Pero le creí!,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6051: But I believed him!. Mantener exclamación. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6051
+6052,¡Necesitaba creerle!,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6052: I had to believe him!. No repetir exactamente grupo 6051. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6052
+6053,"Si no hubiera creído su historia, no habría podido seguir viviendo ni un solo día más...",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6053: If I had not believed / his story、 I could not / have gone on living / even one more day。。。. Condicional contrafáctico. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6053
+6054,Le vendí mi alma a aquel hombre a cambio de este cuerpo demoníaco.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6054: I sold my soul to the / man、 in exchange / for this demons body。. Conservar identidad del desconocido y cuerpo demoníaco. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6054
+6055,Me hacía pasar por familiares de otras personas... y después les robaba el corazón.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6055: And I posed as / members of peoples / families and then / stole their hearts。。。. Se convierte en relato confesional en plural de víctimas, narrador singular. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6055
+6056,Los muertos no vuelven a la vida.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6056: The dead do not / come back to life。. Declaración categórica. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6056
+6057,Aquellas palabras me hirieron profundamente... como un puñal en el corazón...,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6057: Those words hit me / hard。。。 Like a knife / in my heart。。。. Metáfora conservada. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6057
+6058,¿Cómo no me di cuenta de algo tan sencillo?,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6058: Why did I not realize / such a simple thing?. Arrepentimiento. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6058
+6059,¡Lo hiciste porque amabas muchísimo a tu esposa...!,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6059: You only did it because / you loved your wife / so much。。。!. Cambio a segunda persona respetado. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6059
+6060,La amabas tanto que no podías aceptar su muerte.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6060: You loved her so much / that you could not / accept her death。. Sigue la intervención de consuelo. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6060
+6061,Pero mis crímenes son demasiado graves.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6061: But my crimes are / too great。. Regreso al narrador arrepentido. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6061
+6062,Ahora jamás podré reunirme con mi esposa en el cielo.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6062: Now I will never / be reunited with / my wife in heaven。. Conservar consecuencia moral. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6062
+6063,Pero me ayudaste a recuperar mi humanidad.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6063: But you helped me take / back my humanity。. Segunda persona sin presuponer plural. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6063
+6064,Y por eso te doy las gracias...,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6064: And for that I / thank you。。。. Continúa agradecimiento anterior. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6064
+6065,Por favor...,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6065: Please。。。. No inventar destinatario. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6065
+6066,¡Al menos déjenlo descansar en paz!,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6066: At least allow him to / rest in peace!!. Tercera persona, ruego al grupo. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6066
+6067,Y que no siga siendo una carga para ti.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 6067: And not always be / a burden to you。. Continuación de la petición anterior; pronombre de la fuente. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_6067
 6068,,pendiente,,
 6069,,pendiente,,
 6070,,pendiente,,
@@ -318,15 +318,15 @@
 6110,,pendiente,,
 7581,,pendiente,,
 7853,,pendiente,,
-9630,,pendiente,,
-9631,,pendiente,,
-9632,,pendiente,,
+9630,¿Y si está enfermo?,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 9630: You do not suppose he / is sick?. Sigue conversación sobre el señor Noir en el grupo 9629. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_9630
+9631,Uf.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 9631: Ugh。. Interjección breve. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_9631
+9632,¡Aaagh...!,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 9632: Ugggghhh。。。。. Quejido expresivo sin atribuir causa. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_9632
 9633,,pendiente,,
-9634,,pendiente,,
-9635,,pendiente,,
-9636,,pendiente,,
-9637,,pendiente,,
-9638,,pendiente,,
+9634,¡Madre mía!,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 9634: My goodness!. Interjección espontánea. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_9634
+9635,¡Cuánto tiempo sin verte!,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 9635: I have not seen you for / the longest time。. Saludo familiar. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_9635
+9636,¿Dónde te habías metido?,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 9636: Where have you been?. Conversación informal. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_9636
+9637,No pongas esa cara tan seria.,revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 9637: Do not look so serious。. Tono de ánimo. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_9637
+9638,"¡Sonríe, sonríe!",revisado,"Cotejo contextual de fuente íntegra por unidades del manifiesto de grupo 9638: Smile! Smile!. Imperativo repetido como en fuente. Estado editorial; segmentación física, longitud y PPSSPP pendientes de validar.",data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv:grupo_9638
 9639,,pendiente,,
 9640,,pendiente,,
 9641,,pendiente,,

@@ -1,0 +1,187 @@
+{
+  "id": "CENT-009",
+  "fecha": "2026-11-23",
+  "rama": "relevo/relevo006-cent009-gfx003-20261123",
+  "base_main": "0fa1c34c24b1d78cbc2694804c08733d820e0a5e",
+  "tipo": "revisión_editorial_original_japonés_e_inglés",
+  "archivo": "data/preexistentes/509_revision_central.csv",
+  "grupos_aprobados_editorial": [
+    4250,
+    4251,
+    4252,
+    4253,
+    4254,
+    4255,
+    4268,
+    6040,
+    6041,
+    6042,
+    6043,
+    6044,
+    6045,
+    6046,
+    6047,
+    6048,
+    6049,
+    6050,
+    6051,
+    6052,
+    6053,
+    6054,
+    6055,
+    6056,
+    6057,
+    6058,
+    6059,
+    6060,
+    6061,
+    6062,
+    6063,
+    6064,
+    6065,
+    6066,
+    6067,
+    9630,
+    9631,
+    9632,
+    9634,
+    9635,
+    9636,
+    9637,
+    9638
+  ],
+  "por_escena": {
+    "eringues": [
+      4250,
+      4251,
+      4252,
+      4253,
+      4254,
+      4255,
+      4268
+    ],
+    "palmier_y_perdida": [
+      6040,
+      6041,
+      6042,
+      6043,
+      6044,
+      6045,
+      6046,
+      6047,
+      6048,
+      6049,
+      6050,
+      6051,
+      6052,
+      6053,
+      6054,
+      6055,
+      6056,
+      6057,
+      6058,
+      6059,
+      6060,
+      6061,
+      6062,
+      6063,
+      6064,
+      6065,
+      6066,
+      6067
+    ],
+    "charlas_noir": [
+      9630,
+      9631,
+      9632,
+      9634,
+      9635,
+      9636,
+      9637,
+      9638
+    ]
+  },
+  "fuente": "manifiesto original aportado: data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv, unidades completas cotejadas en cada grupo; ISO auténtica para 4268",
+  "criterios": [
+    "mantener tic 'eri' y nombres glosario",
+    "conservar las tres palabras inventadas en transliteración conservadora sin inventar definición",
+    "reconstruir frases agrupando sus apariciones físicas de la misma unidad/grupo, no fusionando entre IDs",
+    "respetar tratamiento y hablante en secuencias confesionales Palmier",
+    "preservar marcador gráfico 81 8F de final de diálogo (fontB índice 175/GID 99)"
+  ],
+  "marcador_4268": {
+    "ruta_original": "PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat",
+    "offset": 66462,
+    "raw_texto_ultimo_codificacion": "81 8F",
+    "decoded_cp932": "￥",
+    "funcion_grafica": "corazón en fuente FontB0000.txp original",
+    "atlas_fnt_indice": 175,
+    "gid": 99,
+    "filas_ocupacion": [
+      8,
+      12,
+      14,
+      14,
+      14,
+      12,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2,
+      0,
+      0
+    ],
+    "explicacion": "U+FFE5 encode CP932=818F; no normalizar al U+00A5 que no se codifica cp932. La representación en build v0.19.0 aún requiere PPSSPP.",
+    "evidencia": "A original auténtico"
+  },
+  "bloqueos": [
+    {
+      "grupos": [
+        2048,
+        2049
+      ],
+      "motivo": "Un único enunciado con tres unidades en DLC_00/talk00.dat. Requiere EDAT y parser de bytecode reales."
+    },
+    {
+      "grupos": [
+        611,
+        731,
+        951,
+        1843,
+        1845,
+        1848,
+        1849,
+        1850,
+        1851,
+        1852,
+        1853
+      ],
+      "motivo": "DLC_00 autentico ausente, sin ensayo de campo ni control."
+    },
+    {
+      "grupos": [
+        6068,
+        6069,
+        6070,
+        9633,
+        9639,
+        9640
+      ],
+      "motivo": "Frases segmentadas/truncadas de escenas; no aprobar sin reconstruir continuidad."
+    }
+  ],
+  "cobertura": {
+    "revisados_centrales": 223,
+    "pendientes_centrales": 286,
+    "revisados_catalogo_conocido": 14950,
+    "pendientes_catalogo_conocido": 575
+  },
+  "validacion": {
+    "editorial": 43,
+    "nueva_insercion": 0,
+    "ppsspp_v019": 0
+  },
+  "relevo": "RELEVO-007"
+}

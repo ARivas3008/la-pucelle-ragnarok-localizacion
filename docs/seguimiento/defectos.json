@@ -36,6 +36,14 @@
       "estado": "abierto_para_validacion",
       "fuente": "docs/ERRORES_CONOCIDOS.md",
       "prueba_ppsspp_v019": null
+    },
+    {
+      "id": "DEF-006",
+      "titulo": "Corazón U+FFE5 / CP932 818F en habla eringa",
+      "estado": "abierto_para_validacion_en_ppsspp_v019",
+      "fuente": "docs/seguimiento/informes/CENT-009.json",
+      "prueba_ppsspp_v019": null,
+      "criterio": "Debe dibujarse corazón fontB GID99, no yen o glifo vacío; preservar offset/token de fuente"
     }
   ]
 }
