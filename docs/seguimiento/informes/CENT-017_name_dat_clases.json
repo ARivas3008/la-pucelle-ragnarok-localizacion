@@ -1,0 +1,49 @@
+{
+  "id": "CENT-017",
+  "fecha": "2026-11-24",
+  "fuente": "ISO v1.1.2 original autenticada; recurso ISO_START/name.dat",
+  "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "name_dat_original_sha256": "6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c",
+  "recurso_bytes": 4928,
+  "cabecera_cuentas": [
+    293,
+    293
+  ],
+  "estructura": {
+    "offset_primer_registro": 8,
+    "bytes_por_slot": 16,
+    "bytes_de_cabecera_por_slot": 4,
+    "bytes_maximos_texto_por_slot": 12,
+    "slots_decodificables_con_CP932": 307,
+    "slots_adicionales_respecto_cabecera": 14,
+    "bytes_cola_nulos": 8,
+    "clases": {
+      "1": 198,
+      "2": 66,
+      "3": 43
+    },
+    "unidades_name_dat_en_manifiesto": 290,
+    "slots_fuera_de_manifiesto": 17
+  },
+  "pendientes_editoriales_procedurales": {
+    "total": 58,
+    "del_recurso_iso_ingles": 31,
+    "del_dlc_japones": 27,
+    "clases_de_los_31_iso": {
+      "1": 28,
+      "2": 2,
+      "3": 1
+    }
+  },
+  "pruebas": {
+    "herramienta": "scripts/cent017_auditar_nombre.py",
+    "regresiones": "tests/test_cent017_nombre.py",
+    "workflow": ".github/workflows/qa-cent017.yml",
+    "clases_probadas_en_ORIGINAL": true,
+    "cadenas_exportadas": false,
+    "gameplay_PPSSPP": false
+  },
+  "dictamen": "Tres clases de registros demostradas por bytes, pero no se ha deducido todavía el orden ni algoritmo combinatorio; el contador de cabecera 293 difiere de los 307 slots físicamente decodificables. No inventar conjugación/género/orden de los fragmentos al traducir. Las 58 entradas siguen pendientes; 17 slots fuera de manifest requieren censo complementario.",
+  "aprobaciones_nuevas_por_estructura": 0,
+  "nota": "Original auténtico = evidencia A de datos, NO evidencia C de combinaciones visuales. Un listado consecutivo no prueba que dos fragmentos formen frase."
+}
