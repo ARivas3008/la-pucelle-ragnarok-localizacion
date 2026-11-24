@@ -22,6 +22,13 @@ on:
       - 'scripts/test_verificar_iso_layout_fijo.py'
       - 'scripts/auditar_graficos_manifiesto.py'
       - 'scripts/test_auditar_graficos_manifiesto.py'
+      - 'parcheador/app/scripts/revisiones_coordinadas.py'
+      - 'parcheador/app/scripts/recompilar_talk.py'
+      - 'parcheador/app/scripts/integracion_total.py'
+      - 'parcheador/app/datos/segmentos_centrales_anclados.json'
+      - 'parcheador/app/tests/test_revisiones_coordinadas.py'
+      - 'parcheador/build_release.py'
+      - 'parcheador/main.go'
   pull_request:
     paths:
       - 'docs/seguimiento/**'
@@ -44,6 +51,13 @@ on:
       - 'scripts/test_verificar_iso_layout_fijo.py'
       - 'scripts/auditar_graficos_manifiesto.py'
       - 'scripts/test_auditar_graficos_manifiesto.py'
+      - 'parcheador/app/scripts/revisiones_coordinadas.py'
+      - 'parcheador/app/scripts/recompilar_talk.py'
+      - 'parcheador/app/scripts/integracion_total.py'
+      - 'parcheador/app/datos/segmentos_centrales_anclados.json'
+      - 'parcheador/app/tests/test_revisiones_coordinadas.py'
+      - 'parcheador/build_release.py'
+      - 'parcheador/main.go'
 permissions:
   contents: read
 jobs:
@@ -74,3 +88,5 @@ jobs:
         run: python -m unittest discover -s scripts -p 'test_verificar_iso_layout_fijo.py' -v
       - name: Probar metadatos TXP con alturas parciales y CLUT multibanco
         run: python -m unittest discover -s scripts -p 'test_auditar_graficos_manifiesto.py' -v
+      - name: Integrar revisión central y preservar anclas de diálogos recuperados
+        run: python -m unittest discover -s parcheador/app/tests -p 'test_revisiones_coordinadas.py' -v

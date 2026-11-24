@@ -1970,5 +1970,12 @@
     "alturas_parciales": 16,
     "multibanco": 3,
     "certificadas_ppsspp": 0
+  },
+  "auditoria_gfx007": {
+    "informe": "docs/seguimiento/informes/GFX-007_capitulos_piloto.json",
+    "capitulos_editados_e_insertados_piloto": 16,
+    "certificados_ppsspp": 0,
+    "otros_miembros_bgpack_identicos": 269,
+    "iso_piloto_sha256": "b0f4521223bbeadd0665f2f821659b595049807bbfa0869a5a4fb35965ec2642"
   }
 }

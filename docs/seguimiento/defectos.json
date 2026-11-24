@@ -58,6 +58,20 @@
       "estado": "caracteristica_original_confirmada_no_corregir_a_ciegas",
       "fuente": "docs/seguimiento/informes/ROM-006_layout_fijo.json",
       "prueba_ppsspp_v019": null
+    },
+    {
+      "id": "DEF-009",
+      "titulo": "CSV central omitido por motor y empaquetado",
+      "estado": "corregido_codigo_pendiente_candidata",
+      "fuente": "docs/seguimiento/informes/ROM-007_integracion_central.json",
+      "prueba_ppsspp_v019": null
+    },
+    {
+      "id": "DEF-010",
+      "titulo": "Contraste y restos potenciales de tinta en los cuatro títulos demoníacos",
+      "estado": "piloto_pendiente_revision_visual",
+      "fuente": "docs/seguimiento/informes/GFX-007_capitulos_piloto.json",
+      "prueba_ppsspp_v019": null
     }
   ]
 }

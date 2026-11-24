@@ -15,6 +15,7 @@ from recompilar_talk import catalog,compile_one
 from menus_adicionales import aplicar as menus_extra
 from correcciones_tablas_qa import aplicar as etiquetas
 from campos_revisados import aplicar as campos
+from revisiones_coordinadas import merge_central
 VERSION='0.19.0-integracion'
 def dump(path,data):path.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf8')
 def run(args):
@@ -25,6 +26,7 @@ def run(args):
  reports=out/'informes';reports.mkdir(exist_ok=True)
  manifest=list(csv.DictReader(c.DATA.open(encoding='utf-8-sig',newline='')))
  reviews,checks,states=c.read_reviews(args.repo_directorio,False)
+ reviews,checks,states=merge_central(args.repo_directorio,reviews,manifest,checks,states)
  packs={};sources={};buffers={};rec={};iso=None;sp=None
  if args.iso:
   iso=c.Image(args.iso);rec={p:(o,n) for p,o,n,_ in iso.records()}
@@ -63,7 +65,8 @@ def run(args):
  extra=c.ROOT/'datos/segmentos_hymt2_aprobados.json'
  if extra.is_file():segments+=json.loads(extra.read_text(encoding='utf8'))
  segments=[s for s in segments if s['recurso'] in buffers]
- trie,rejected=catalog(manifest,reviews,buffers,metas,segments=segments)
+ scopes=json.loads((c.ROOT/'datos/segmentos_centrales_anclados.json').read_text(encoding='utf8'))
+ trie,rejected=catalog(manifest,reviews,buffers,metas,segments=segments,scoped=scopes)
  talks={};applied=[];pending=[];preserved=[]
  for res,raw in buffers.items():
   font=packs['ISO_START' if res.startswith('ISO/') else res.split('/')[0]]['members']
@@ -76,7 +79,7 @@ def run(args):
   print(res,len(ok),'bloques insertados;',len(bad),'pendientes',flush=True)
  index=c.ROOT/'datos/estado_unificado_66.csv'
  if not index.exists():index=ROOT/'informes/estado_unificado_66.csv'
- rows=load_rows(c.DATA,index,args.repo_directorio)
+ rows=load_rows(c.DATA,index,reviews=reviews)
  rows={k:v for k,v in rows.items() if k in sources}
  scripts,script_report,script_stats=plan(rows,sources,'conservador')
  for res,obj in scripts.items():

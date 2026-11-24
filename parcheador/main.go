@@ -518,7 +518,7 @@ func selfTest() error {
 	if e := extractEmbedded(base); e != nil {
 		return e
 	}
-	for _, p := range []string{"scripts/integracion_total.py", "scripts/recompilar_talk.py", "datos/tablas_base_deltas.json.z", "datos/segmentos_hymt2_aprobados.json", "scripts/construir_parche.py", "scripts/subtitulos_script.py", "scripts/fuentes_es.py", "scripts/segmentacion.py", "scripts/nis_lzs_pack.exe", "datos/mapa_26258_unidades.csv", "datos/propuestas_reduccion_v012.csv", "datos/ajustes_reducciones_v013.csv", "scripts/integracion_v013.py", "investigacion/v0.14/integrar_scripts_v014.py", "investigacion/v0.12/reubicador_anclas_v012.py", "datos/estado_unificado_66.csv", "datos/fuentes_editoriales.json", "corpus/01/revision.csv", "corpus/15/revision.csv"} {
+	for _, p := range []string{"scripts/integracion_total.py", "scripts/recompilar_talk.py", "datos/tablas_base_deltas.json.z", "datos/segmentos_hymt2_aprobados.json", "scripts/construir_parche.py", "scripts/subtitulos_script.py", "scripts/fuentes_es.py", "scripts/segmentacion.py", "scripts/nis_lzs_pack.exe", "datos/mapa_26258_unidades.csv", "datos/propuestas_reduccion_v012.csv", "datos/ajustes_reducciones_v013.csv", "scripts/integracion_v013.py", "investigacion/v0.14/integrar_scripts_v014.py", "investigacion/v0.12/reubicador_anclas_v012.py", "datos/estado_unificado_66.csv", "datos/fuentes_editoriales.json", "corpus/01/revision.csv", "corpus/15/revision.csv", "data/preexistentes/509_revision_central.csv", "scripts/revisiones_coordinadas.py", "datos/segmentos_centrales_anclados.json"} {
 		if !isFile(filepath.Join(base, p)) {
 			return fmt.Errorf("falta el recurso %s", p)
 		}
@@ -543,11 +543,14 @@ func selfTest() error {
 	if err := json.Unmarshal(metadata, &snapshot); err != nil {
 		return err
 	}
-	if len(snapshot.SHA256) != 15 {
+	if len(snapshot.SHA256) != 16 {
 		return errors.New("snapshot editorial incompleto")
 	}
+	revisions := []string{"data/preexistentes/509_revision_central.csv"}
 	for n := 1; n <= 15; n++ {
-		rel := fmt.Sprintf("corpus/%02d/revision.csv", n)
+		revisions = append(revisions, fmt.Sprintf("corpus/%02d/revision.csv", n))
+	}
+	for _, rel := range revisions {
 		data, err := os.ReadFile(filepath.Join(base, filepath.FromSlash(rel)))
 		if err != nil {
 			return err
@@ -557,7 +560,7 @@ func selfTest() error {
 			return fmt.Errorf("revisión alterada: %s", rel)
 		}
 	}
-	fmt.Println("Autotest OK, 15 revisiones íntegras; SHA256 manifiesto:", hex.EncodeToString(h.Sum(nil)))
+	fmt.Println("Autotest OK, 15 corpus y revisión central íntegros; SHA256 manifiesto:", hex.EncodeToString(h.Sum(nil)))
 	return nil
 }
 

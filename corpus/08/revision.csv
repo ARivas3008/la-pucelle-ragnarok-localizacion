@@ -607,7 +607,7 @@
 8549,También supe que seguiría a ese hombre hasta el fin de mis días.,revisado,,
 8550,"Ese hombre era nuestro valeroso líder, el capitán Homard.",revisado,,
 8551,Ojalá pudiera echarles una mano.,revisado,,
-8552,"Quizá no sea el mejor momento, pero ¿les gustaría comprar…?",requiere_investigacion,"TRADUCCIÓN LITERAL DEL FRAGMENTO DISPONIBLE (13269–13271, talk07_jp.dat, offset 73641). Se conserva la oferta interrogativa «would you like to buy» sin inventar el artículo. Plural neutral por tratarse de la expedición; requiere cotejar objeto y tratamiento en la unidad completa antes de inserción.",
+8552,"Puede que no sea el mejor momento, pero ¿te gustaría comprar algo?",revisado,"CENT-013: cotejo de cadenas CP932 completas, separadas por opcodes; traducción del bloque físico en segmentos_centrales_anclados.json. El texto editorial puede mostrar el contexto recuperado y no es una intervención genérica. Mantener cada ancla exacta, sin certificación PPSSPP.",ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat@73641
 8553,El jefe nació en el seno de una familia de la alta aristocracia.,revisado,,
 8554,"Cuesta creerlo, ¿verdad?",revisado,,
 8555,Potemkin es nuestro jefe.,revisado,,
@@ -791,7 +791,7 @@
 8733,"Vaya, esos gatos sí que son de fiar.",revisado,,
 8734,Deja de llamarlos gatos… ¡Son hombres!,revisado,,
 8735,(O sea… ¿gatos machos?),revisado,"Juego humorístico entre «gatos», «hombres» y «gatos machos».",
-8736,"De verdad espero que estas ruinas nos lleven a… —Tal como dijo Homard, ¿eh?",requiere_investigacion,"TRADUCCIÓN LITERAL DEL FRAGMENTO DISPONIBLE (13639–13642, talk08_jp.dat, offset 100539). «I really hope ... lead us to» queda abierto porque falta el destino; «Just like Homard said, eh?» es la segunda intervención, separada por raya. Falta cotejar la primera voz y la segmentación del cambio de hablante (entre 13640 y 13641).",
+8736,"Espero de verdad que estas ruinas nos lleven a Fátima. / Como dijo Homard, ¿verdad?",revisado,"CENT-013: cotejo de cadenas CP932 completas, separadas por opcodes; traducción del bloque físico en segmentos_centrales_anclados.json. El texto editorial puede mostrar el contexto recuperado y no es una intervención genérica. Mantener cada ancla exacta, sin certificación PPSSPP.",ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat@100539; ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat@100669
 8737,Esto me preocupa un poco.,revisado,,
 8738,"Si esas ruinas son de los habitantes de Fátima, ¿cómo pudieron destruirla en una sola noche?",revisado,"Fatimans se refiere a habitantes del mundo ficticio Fátima, no a los fatimíes históricos.",
 8739,¡No paran de hablar de cosas que se me escapan!,revisado,,
@@ -806,7 +806,7 @@
 8748,"¿Qué te pasa, Éclair?",revisado,,
 8749,¿Ha ocurrido algo entre Homard y tú?,revisado,,
 8750,¡No ha pasado nada de nada!,revisado,,
-8751,Esas ruinas deben de haber…,requiere_investigacion,"TRADUCCIÓN LITERAL DEL FRAGMENTO DISPONIBLE (13676, talk08_jp.dat, offset 102213). «Those ruins must have» es una cláusula inglesa incompleta: «have» podría ser auxiliar o verbo posesivo. Se opta por «deben de haber…» solo como correspondencia literal provisional, sin inventar predicado ni complemento. Recuperar original antes de cerrar la incidencia.",
+8751,¡Esas ruinas deben tener algo que ver con Fátima! ¡Confíen en mi experiencia y en mi intuición!,revisado,"CENT-013: cotejo de cadenas CP932 completas, separadas por opcodes; traducción del bloque físico en segmentos_centrales_anclados.json. El texto editorial puede mostrar el contexto recuperado y no es una intervención genérica. Mantener cada ancla exacta, sin certificación PPSSPP.",ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat@102213
 8752,¡Confíen en mi experiencia y mi intuición!,revisado,,
 8753,¿Y de dónde sacas tanta seguridad?,revisado,,
 8754,¿Están todos bien?,revisado,,
@@ -966,7 +966,7 @@
 8908,Bienvenidos a la aldea Cuscús.,revisado,,
 8909,"Bueno, parece que podemos entendernos con ellos.",revisado,,
 8910,Su pronunciación y su acento se parecen mucho a los del antiguo idioma de Paprica.,revisado,«Ancient Paprican» nombra la lengua antigua de Paprica; el borrador «papiro» es un error.,
-8911,"Quizá las raíces de Paprica estén aquí, en…",requiere_investigacion,"TRADUCCIÓN LITERAL DEL FRAGMENTO DISPONIBLE (14001–14002, talk09_jp.dat, offset 76303). «Maybe the roots of Paprica lie here in» exige un topónimo que la extracción no conserva. Se mantiene la preposición final «en…» en vez de inventar «Fátima»; Paprica se respeta como nombre propio.",
+8911,"Su pronunciación y su acento se parecen mucho al papricano antiguo. Quizá los orígenes de Paprica estén aquí, en Fátima...",revisado,"CENT-013: cotejo de cadenas CP932 completas, separadas por opcodes; traducción del bloque físico en segmentos_centrales_anclados.json. El texto editorial puede mostrar el contexto recuperado y no es una intervención genérica. Mantener cada ancla exacta, sin certificación PPSSPP.",ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat@76166
 8912,Sí. Fátima fue destruida hace doscientos años.,revisado,,
 8913,Los supervivientes de aquella catástrofe son nuestros antepasados.,revisado,,
 8914,"Por aquí, los lagartos de roca y las langostas de arena son auténticos manjares.",revisado,,
@@ -986,7 +986,7 @@
 8928,¿Eso no es robar…?,revisado,,
 8929,Me pregunto adónde habrán ido sus antiguos habitantes.,revisado,,
 8930,Espero que esta aldea nos dé alguna pista sobre el sueño que me envió la diosa.,revisado,,
-8931,"¡…algo, ahora que hemos llegado tan lejos!",requiere_investigacion,"TRADUCCIÓN LITERAL DEL FRAGMENTO DISPONIBLE (14044–14045, talk09_jp.dat, offset 101356). «something now that we have come this far!» es solo la cola de una oración; «algo» se mantiene sin introducir un verbo, sujeto ni acción no documentados. La elipsis inicial indica el texto faltante, no una pausa intencional confirmada.",
+8931,"¡Ahora que hemos llegado tan lejos, seguro que encontramos algo!",revisado,"CENT-013: cotejo de cadenas CP932 completas, separadas por opcodes; traducción del bloque físico en segmentos_centrales_anclados.json. El texto editorial puede mostrar el contexto recuperado y no es una intervención genérica. Mantener cada ancla exacta, sin certificación PPSSPP.",ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat@101310
 8932,"Sí, yo también lo creo.",revisado,,
 8933,"¿Qué quiere mostrarnos la diosa al traernos aquí? —Como ya dije, ¡los sueños de Alouette sobre la diosa y sus recuerdos perdidos deben de estar relacionados!",revisado,"Se cotejan 8 unidades: 14047–14049 son una pregunta y 14050–14054 la respuesta de otro hablante. La pregunta termina con coma dañada, pero la sintaxis y la segmentación confirman el límite. No se confunden voces ni se cambian los IDs.",
 8934,Ya está bien…,revisado,,
