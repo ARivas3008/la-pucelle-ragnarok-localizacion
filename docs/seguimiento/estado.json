@@ -43,7 +43,9 @@
     "unidades_estructura_original_cotejada": 62,
     "txp_distintos_estructura_original_cotejada": 26,
     "capitulos_altura_parcial": 16,
-    "txp_clut_multibanco": 3
+    "txp_clut_multibanco": 3,
+    "pilotos_editados_insertados_iso_parcial_relevo010": 16,
+    "informe_gfx007": "docs/seguimiento/informes/GFX-007_capitulos_piloto.json"
   },
   "betatesting": {
     "certificacion_v019": false,
@@ -181,6 +183,8 @@
     "informe": "docs/seguimiento/informes/ROM-007_integracion_central.json",
     "motor": "Carga coordinada de CSV central, empaquetado, anclas SHA por bloque y destino",
     "candidata_completa": false,
-    "prueba_nueva": false
+    "prueba_nueva": false,
+    "candidata_grafica_parcial_sha256": "b0f4521223bbeadd0665f2f821659b595049807bbfa0869a5a4fb35965ec2642",
+    "prueba_estatica_grafica": true
   }
 }

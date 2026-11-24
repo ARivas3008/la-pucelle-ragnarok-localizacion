@@ -1,0 +1,227 @@
+{
+  "fecha": "2026-11-23",
+  "tipo": "A original autenticado + B edición e inserción piloto estática; NO C",
+  "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "iso_piloto_sha256": "b0f4521223bbeadd0665f2f821659b595049807bbfa0869a5a4fb35965ec2642",
+  "bytes": 858937344,
+  "BGPACK_original_sha256": "56e26744c01ad34ac79b4170746ccb6157eb6c5585b09e0340e3dbaef8f42e78",
+  "BGPACK_piloto_sha256": "f50e26515b2f8f26ea58213627cceffd9afef8484fab996bceb32d1253890193",
+  "miembros": 285,
+  "miembros_modificados": 16,
+  "miembros_restantes_identicos": 269,
+  "bytes_exteriores_BGPACK_identicos": true,
+  "PVD_y_directorio_identicos": true,
+  "assets": {
+    "at01.txp": {
+      "original_sha256": "a5e2e605b20a086a269aa2d49381d23c1f136ced625892f0bec4def6fd116fe3",
+      "nuevo_sha256": "43621f7778c01ac211cab7bd193be0d7f821e69a1b0f1b375fc4c4b39dce4d8b",
+      "pixeles_modificados": 4849,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at02.txp": {
+      "original_sha256": "f8ea685b590ede4eade1c8e96b26502c50727b44ec234585e7cd6f64678f22f7",
+      "nuevo_sha256": "2545d80341fd0ff4b523a0aef0282368b1ec9435db223c16e365b702fe26ecac",
+      "pixeles_modificados": 4954,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at03.txp": {
+      "original_sha256": "444158bffaa3a44c62c189d30ae041dccd08d04912882a1b0260e9fa50cd9d82",
+      "nuevo_sha256": "748bd6d3af41d09eb7812c57c8535f9a35eba722696ae2d3b82de009d87fe3ff",
+      "pixeles_modificados": 4251,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at04.txp": {
+      "original_sha256": "781d2f7480b8a435c031da9289f58845c97716b8953872d3513a9e4a677dc185",
+      "nuevo_sha256": "78701a207c6269eaed4efc79ee0c97f2391c73f67914e97b894d82a60b2abbac",
+      "pixeles_modificados": 5138,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at05.txp": {
+      "original_sha256": "518cfc21fa17946307788cbbdbdb2f87308fcabbec53eeabed1eca4547188c6d",
+      "nuevo_sha256": "816b6dd8422be80d1bf58ccf12d1ac60d5630cf3b55f8dedd1314fd5f54d2c95",
+      "pixeles_modificados": 4655,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at06.txp": {
+      "original_sha256": "b3574aadbeaed93338f8e5e350afd76f87c9db25a7010bdb62be24a899c830e4",
+      "nuevo_sha256": "9dd28ebdda0304706537da06aa14460ee13b95af47b76bffdf73af49b56a6cae",
+      "pixeles_modificados": 3358,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at07.txp": {
+      "original_sha256": "63cdf087153cc81700130ee04fc8334ee011ff64462a0da3d98e4d424f906def",
+      "nuevo_sha256": "aa5721e257b2bb03f709425956bd0144eeadb39cafd2695397f027ae8a5b11ef",
+      "pixeles_modificados": 4421,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at08.txp": {
+      "original_sha256": "772abf5da82f149fe5ecb969adee768e3510d504e414a56129826b905b401770",
+      "nuevo_sha256": "9a29b5c8a0ea2507c2837c9f9a30830705e5beb360fd93c0230c9f924b3d999e",
+      "pixeles_modificados": 5940,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at09.txp": {
+      "original_sha256": "662e56da07f082527783a0aa7989db669239daaf225c2f469e33bf43aa652490",
+      "nuevo_sha256": "9498f0d57aa06e4ef52bd21909639ac5e8b1c7014642a0669e42b66325f13c58",
+      "pixeles_modificados": 4672,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at10.txp": {
+      "original_sha256": "dfb2283d9e28c0e025e156e36f845005e5201f54edff28881275d73e557ad588",
+      "nuevo_sha256": "552d62acf5f045b7eb1bb2d3f4f2655578b5c7e6192de05b040fbd4cc7c90d57",
+      "pixeles_modificados": 5714,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at11.txp": {
+      "original_sha256": "4dbf6290b7ad379b530aa661d84a38086d3db049d6f363457ebe81e15237ff56",
+      "nuevo_sha256": "1e052f23448601de6dcf55be1e20fc0f7d3368a3ceb9d466fc899e5227026378",
+      "pixeles_modificados": 4687,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at12.txp": {
+      "original_sha256": "c52bb641915aaced546fc982bd2af89cadaef113fb0c0ed30f3b07e63740b6b0",
+      "nuevo_sha256": "25fcfa2d7351984f0086699148b45c3ad414ea11d60af1875ec885ec0eeb9696",
+      "pixeles_modificados": 4547,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar en juego"
+    },
+    "at15.txp": {
+      "original_sha256": "1a1629d9a3368d87bdc4059765ceefd7e72c4a0151b6d6ce4413cc73952348d9",
+      "nuevo_sha256": "8ddd867910326695b622346a61601395b3cc97db965152a43d093cba7baa6d33",
+      "pixeles_modificados": 5051,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar contraste y restauración"
+    },
+    "at16.txp": {
+      "original_sha256": "fe3fd31e6f320a570d2685a4ff80a2ede71d9a794d5948ebd89f03f5c3d57ae1",
+      "nuevo_sha256": "7ef771e98097c0cd3f40910fcd6f2a59aafb6151ce5da2f93f8c8e00e07be2b0",
+      "pixeles_modificados": 4476,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar contraste y restauración"
+    },
+    "at17.txp": {
+      "original_sha256": "c51b29a1ed1ae27f15956070649217f5bcb80167889dfd6c3e63243fa682556c",
+      "nuevo_sha256": "a81a4d54f76d0073102ff58df73b8b7b709e1af4e8df9492d5e6d2c799ef3cc6",
+      "pixeles_modificados": 6068,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar contraste y restauración"
+    },
+    "at18.txp": {
+      "original_sha256": "b37e16c76eb69e2dfca48f2b2dc923ad513058da967cfff92f48fd73bc5e7dc6",
+      "nuevo_sha256": "62e95891458088580c6ee78bdd605ee94c0a0e7a7d36be48b2641d5aedc5726c",
+      "pixeles_modificados": 5366,
+      "rectangulo_autorizado": [
+        50,
+        35,
+        430,
+        116
+      ],
+      "estado": "piloto_local_no_certificado_ppsspp",
+      "observacion": "Revisar contraste y restauración"
+    }
+  },
+  "fuente_tipografica": "Liberation Serif Bold local, no distribuida",
+  "dictamen": "La distribución swizzle por bloques 16 bytes x 8 filas usa bloque final de 2 filas sin padding. 16 roundtrips y 16 reencodificaciones reales. Títulos traducidos según corpus/01/revision.csv IDs 3282–3297. Comparación de índices fuera de rectángulo y CLUT intacta. Restauración aproximada de fondo bajo tinta; contraste de ruta demoníaca pendiente. La ISO piloto solo altera BGPACK, no incorpora motor de texto. No se publica la ISO ni texturas.",
+  "multibanco": "Vistas privadas de bancos 0,1,15 de item/sys3/sys5; se confirma distinta representación, no se conoce selector runtime. No se modificaron."
+}
