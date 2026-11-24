@@ -1,0 +1,22 @@
+name: QA GFX-008 integracion
+on:
+  push:
+    paths:
+      - 'parcheador/app/scripts/integracion_total.py'
+      - 'tests/test_gfx008_integracion.py'
+      - '.github/workflows/qa-gfx008.yml'
+  pull_request:
+    paths:
+      - 'parcheador/app/scripts/integracion_total.py'
+      - 'tests/test_gfx008_integracion.py'
+      - '.github/workflows/qa-gfx008.yml'
+jobs:
+  isolation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Comprobar seis regresiones GFX-008 sin contenido de juego
+        run: python -m unittest discover -s tests -p test_gfx008_integracion.py -v

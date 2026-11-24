@@ -14,7 +14,8 @@
     "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat": "2db5d0fe260914cf70ccc12ae0f3798ed971c559f20a0fc42ce7273a067cd1e8",
     "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat": "022ad014df7e4082c9a1a8cdce8feadac542b51ff0d1bd157766dbe6f861ffcf",
     "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat": "46d3f550ad22e91f29c804cd8abb4a86d8ba3830f4622110693f9ff3fd4c278a",
-    "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat": "0a5e954b964301a4a87f29c6336a32b9108b1c152be3e2118ff247e934b6b671"
+    "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat": "0a5e954b964301a4a87f29c6336a32b9108b1c152be3e2118ff247e934b6b671",
+    "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat": "aec93cdd4c8d706ce429635b4002fc9253917f27c797190d106be8e4312a6bbc"
   },
   "segmentos": [
     {
@@ -2072,6 +2073,1026 @@
       "grupos": [
         "11098",
         "11099"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 124891,
+      "sha256_lineas": "bd041d84627288f60b806e68beafbfa89b8f6757377b35beb6cf79d9c0a134f0",
+      "es": "Oh, diosa Poitreene, protégenos a nosotros y a estos aldeanos inocentes.",
+      "grupos_objetivo": [
+        "9062"
+      ],
+      "grupos": [
+        "9062"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 125046,
+      "sha256_lineas": "da434bbfe277743ef75cfdb45bcf1f017c5719a743750ed9193ba0a305216255",
+      "es": "¡Esto promete! Tú y tus queridos aldeanos gritarán de agonía.",
+      "grupos_objetivo": [
+        "9062"
+      ],
+      "grupos": [
+        "9062"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 125218,
+      "sha256_lineas": "89295086988e8c20ae316cd65d485c07377f09bfa98feb7924d2e5e809ce0630",
+      "es": "Y entonces verás cuán poco puede hacer tu diosa por ti.",
+      "grupos_objetivo": [
+        "9063"
+      ],
+      "grupos": [
+        "9063"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 125367,
+      "sha256_lineas": "6228f8a04725e89ab108cd5c3358bd4460ced8062ef6283f735a2729b274d202",
+      "es": "¡¡¿Un Señor Demonio?!!",
+      "grupos_objetivo": [
+        "9063"
+      ],
+      "grupos": [
+        "9063"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 126245,
+      "sha256_lineas": "066ea842b11095d291d0c399adc20bf8ab08691ec9d4c67102dea26024eff1eb",
+      "es": "¡Idiota! ¡Casi lo habíamos derrotado y lo has estropeado todo!",
+      "grupos_objetivo": [
+        "9076"
+      ],
+      "grupos": [
+        "9076"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 126400,
+      "sha256_lineas": "54a09e36ff8d528062a26c4e4152b980cbd0b68b75e2e09e88d1a5f565785c24",
+      "es": "¡Pues perdona! ¡Deja de quejarte y bájame de aquí! ¡Ahora mismo!",
+      "grupos_objetivo": [
+        "9076"
+      ],
+      "grupos": [
+        "9076"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 102525,
+      "sha256_lineas": "528001759fca479c19c96d311fda26f1fbe6b457408e89caea3675ed308d8061",
+      "es": "No voy a hacerme ilusiones.",
+      "grupos_objetivo": [
+        "9175"
+      ],
+      "grupos": [
+        "9175"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 102889,
+      "sha256_lineas": "4d0733fae1aa3607a6ad29b646158682a6f5060e0bd2d52cef157045c8b59e76",
+      "es": "Es culpa nuestra que el pueblo haya acabado así... Lo siento mucho... Hermana...",
+      "grupos_objetivo": [
+        "9177"
+      ],
+      "grupos": [
+        "9177"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 103222,
+      "sha256_lineas": "f2ad673365f36ad1f7ce0575b08fa3f8e76a3c5b70d7fa7ccfac5e5488a19cf1",
+      "es": "¡Esa es la actitud, hermana!",
+      "grupos_objetivo": [
+        "9179"
+      ],
+      "grupos": [
+        "9179"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 103305,
+      "sha256_lineas": "7588421979ebed31d98143838f0723e6333968c7ef659bc8ab83d777b8d4e7aa",
+      "es": "¿De verdad estás bien con todo este lío del compromiso?",
+      "grupos_objetivo": [
+        "9179"
+      ],
+      "grupos": [
+        "9179"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 103644,
+      "sha256_lineas": "54bb6d14d7dbc1ff4bbe52b6292b4d2a7fdbfc9cb62f002e29a6fa9e1388a962",
+      "es": "El chico con el que hablamos antes sobre la colina parecía ocultar algo... Deberíamos investigarlo.",
+      "grupos_objetivo": [
+        "9180"
+      ],
+      "grupos": [
+        "9180"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 104263,
+      "sha256_lineas": "f80a10e561962d665a79628964813f79731a91391bd72eb5468352e8fbdc7985",
+      "es": "Si descubrimos el origen de esta oscuridad, deberíamos poder hacer algo.",
+      "grupos_objetivo": [
+        "9183"
+      ],
+      "grupos": [
+        "9183"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 104435,
+      "sha256_lineas": "78de85b8b2d352a7d0762a1ab7eb64759d319bd5d3d8c2e95272281acb014ba8",
+      "es": "Esta es la colina donde nació el Príncipe de las Tinieblas...",
+      "grupos_objetivo": [
+        "9183"
+      ],
+      "grupos": [
+        "9183"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 106890,
+      "sha256_lineas": "558ed4d93f336ff5483dddef772d64052f82e0be74bc19e73604ffb7a8973dca",
+      "es": "¿Qué pasa, hermana? ¡Por favor, cálmate!",
+      "grupos_objetivo": [
+        "9205"
+      ],
+      "grupos": [
+        "9205"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 107353,
+      "sha256_lineas": "508a3c59ff57a14df850517d1de49aa7b9a6cc284c45e4db7ed3c0bdcc0dfdf0",
+      "es": "¿¡Qué quieres decir con eso!?",
+      "grupos_objetivo": [
+        "9209"
+      ],
+      "grupos": [
+        "9209"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 117737,
+      "sha256_lineas": "37511c688945821c4ef975e831a6c0378a19deb87df10583d6c441cc73571922",
+      "es": "Vamos, tenemos que irnos.",
+      "grupos_objetivo": [
+        "9238"
+      ],
+      "grupos": [
+        "9238"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 117792,
+      "sha256_lineas": "199f85a98dc23488053420610802e135a8b05f8445de7b9674eb58f45868bdac",
+      "es": "Nos aguarda un trabajo importante.",
+      "grupos_objetivo": [
+        "9238"
+      ],
+      "grupos": [
+        "9238"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 120046,
+      "sha256_lineas": "393ff401fa1037475238c2a1dae076f73b910668219ff879850cab7428b0734c",
+      "es": "No me olvides, Culotte...",
+      "grupos_objetivo": [
+        "9260"
+      ],
+      "grupos": [
+        "9260"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 120118,
+      "sha256_lineas": "4f111fb21adbfd10fe098c7ec9bceb934760d065867eec80862c0944cd1fd919",
+      "es": "Supongo que será mejor que nos vayamos.",
+      "grupos_objetivo": [
+        "9260"
+      ],
+      "grupos": [
+        "9260"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 123626,
+      "sha256_lineas": "2e0b65511c5093b51f6837dae3da09c21ad5d590adf0ca78ce67a8848e55f860",
+      "es": "Te estaba esperando.",
+      "grupos_objetivo": [
+        "9299"
+      ],
+      "grupos": [
+        "9299"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 123698,
+      "sha256_lineas": "b979070070853ebb6f0524f879a12973360494c5f23576ffd647983a2b832147",
+      "es": "Oye, ¿tú no eres...?",
+      "grupos_objetivo": [
+        "9299"
+      ],
+      "grupos": [
+        "9299"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 128343,
+      "sha256_lineas": "9315951056cd93288c9c9f8470fa967370b4d0f196b95f94c25ebdaef855abd9",
+      "es": "La energía oscura debe de haberse debilitado.",
+      "grupos_objetivo": [
+        "9348"
+      ],
+      "grupos": [
+        "9348"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 128433,
+      "sha256_lineas": "e5f6cc14e8a0e82c10148584871a127b5ddaf2d732ba1dcfc5da17aa8570aa92",
+      "es": "¡Este árbol...!",
+      "grupos_objetivo": [
+        "9348"
+      ],
+      "grupos": [
+        "9348"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 136794,
+      "sha256_lineas": "2dc02a7f8175764f4e876a017177e3ba3efdf07e25d36ca0ca6f4d16737c7691",
+      "es": "Parece que estás preocupado por él.",
+      "grupos_objetivo": [
+        "9451"
+      ],
+      "grupos": [
+        "9451"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 136864,
+      "sha256_lineas": "03ef9c3be6bbf059a0840fc6de5a3801e6424c964eeec9c7c1e0e38a7ad8e4f7",
+      "es": "Sí... La noche no le sienta bien...",
+      "grupos_objetivo": [
+        "9451"
+      ],
+      "grupos": [
+        "9451"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 147233,
+      "sha256_lineas": "c40e0703b58110a72131f378f36254fdbdaaca11716cb30b35c3f4622c22f3ee",
+      "es": "¿¡Qué está pasando aquí!?",
+      "grupos_objetivo": [
+        "9550"
+      ],
+      "grupos": [
+        "9550"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 147295,
+      "sha256_lineas": "05e9a5d8d5f0906584c1f4adb1e9286a96567a5f09a89d9c27c8da23b82a3f54",
+      "es": "¡Estos tipos son seguidores de Poitreene!",
+      "grupos_objetivo": [
+        "9550"
+      ],
+      "grupos": [
+        "9550"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 101560,
+      "sha256_lineas": "fc64ab6534df51231f8a289ed75f87b74fa48284fe1e4ad55bf6b4fb3aff4100",
+      "es": "¡Te destruiré, como destruí a todas las Doncellas de la Luz antes que a ti!",
+      "grupos_objetivo": [
+        "9755"
+      ],
+      "grupos": [
+        "9755"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 101725,
+      "sha256_lineas": "9dbba9e9b799e0d6eeb990912acd08dd5819bc5ffd3d56d504f52e3472423cb9",
+      "es": "¡Doncella!",
+      "grupos_objetivo": [
+        "9755"
+      ],
+      "grupos": [
+        "9755"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 101938,
+      "sha256_lineas": "33fd798445a23dd72f9d99a798fd26ac5d2f02926255aae1826fa0973e14cdd6",
+      "es": "Estábamos preocupados por ti...",
+      "grupos_objetivo": [
+        "9757"
+      ],
+      "grupos": [
+        "9757"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 102010,
+      "sha256_lineas": "6c7cdaa4a945c15430b336d62e9a240f56de4347e6fb0832f32ca8b88548f7be",
+      "es": "Escucha con atención...",
+      "grupos_objetivo": [
+        "9757"
+      ],
+      "grupos": [
+        "9757"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 102267,
+      "sha256_lineas": "5e0fd8a533d0b568f4f53c5f964ea2dad998f68fce5326bee49319e03fc9d72d",
+      "es": "Solo me queda poder suficiente para sellar al Príncipe de las Tinieblas.",
+      "grupos_objetivo": [
+        "9760"
+      ],
+      "grupos": [
+        "9760"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 102387,
+      "sha256_lineas": "64a4fac7d94673deefde9e8c4a5daa779312fec534eb558712be0e2eff387cc0",
+      "es": "¿Sellarlo?",
+      "grupos_objetivo": [
+        "9760"
+      ],
+      "grupos": [
+        "9760"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 103272,
+      "sha256_lineas": "66cc431e6682139fa18248994cb460bf96977308fb88c48ed09bb7cb8908e83e",
+      "es": "La llama de mi vida parpadeará hasta apagarse.",
+      "grupos_objetivo": [
+        "9767"
+      ],
+      "grupos": [
+        "9767"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 103384,
+      "sha256_lineas": "ce67e491ca799eea3965eb3ed403a66a935f77381f76ca4c84b057f074d5d132",
+      "es": "¿Quieres decir que... morirás?",
+      "grupos_objetivo": [
+        "9767"
+      ],
+      "grupos": [
+        "9767"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 105015,
+      "sha256_lineas": "d812cb31cbfc3ffdae643b381619df37d6b96a09b99381631fdec297980f94c4",
+      "es": "Pero si luchaste contra el Príncipe de las Tinieblas hace cincuenta años, eso significa que tú...",
+      "grupos_objetivo": [
+        "9780"
+      ],
+      "grupos": [
+        "9780"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 105172,
+      "sha256_lineas": "91e4b58d6ae03738f4c9ae032153e654c33603e03d0440b2fa26d40d4070c381",
+      "es": "Significa que podría ser tu abuela.",
+      "grupos_objetivo": [
+        "9780"
+      ],
+      "grupos": [
+        "9780"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 106621,
+      "sha256_lineas": "ff466005dbe384682c874f9759514af08549df235fcf860a709da55095a51e19",
+      "es": "Y derrotar al Príncipe de las Tinieblas significa matar a Croix...",
+      "grupos_objetivo": [
+        "9791"
+      ],
+      "grupos": [
+        "9791"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 106741,
+      "sha256_lineas": "aac53158268cd87a3efbd7f4dcc0da6981879d0336651907b7799ded86b9b4d2",
+      "es": "No sé si ella podrá soportarlo...",
+      "grupos_objetivo": [
+        "9791"
+      ],
+      "grupos": [
+        "9791"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 108025,
+      "sha256_lineas": "0f6fec2de2f5ab929187fb909c1527ea3ea4a245f6fef846fdea94fa394922c2",
+      "es": "¿Qué sucede, hermana Alouette?",
+      "grupos_objetivo": [
+        "9803"
+      ],
+      "grupos": [
+        "9803"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 108103,
+      "sha256_lineas": "13c5c2512e5215ff6687e5c695ab777bef747afeecd7077cf0432a3a1a206adc",
+      "es": "Lo siento muchísimo, pero no puedo ir.",
+      "grupos_objetivo": [
+        "9803"
+      ],
+      "grupos": [
+        "9803"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 108860,
+      "sha256_lineas": "5026e57f7a7e49d5147918881ab1be0da0bb98b9d292899eeec793f32d3c3410",
+      "es": "¡No puedes morir, hermana Alouette!",
+      "grupos_objetivo": [
+        "9811"
+      ],
+      "grupos": [
+        "9811"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 108942,
+      "sha256_lineas": "095f2404d7160f147f7d88c61e2a0e031181cf4365f72c6bb067cb46f17c23da",
+      "es": "Eso explica cómo te has comportado últimamente.",
+      "grupos_objetivo": [
+        "9811"
+      ],
+      "grupos": [
+        "9811"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 109055,
+      "sha256_lineas": "5f23b3bc1d640d3650a4380b5909c99a1df5b5111cde7d01635175262df849e6",
+      "es": "Nos has estado metiendo prisa porque sabías que ibas a morir pronto...",
+      "grupos_objetivo": [
+        "9811"
+      ],
+      "grupos": [
+        "9811"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 112248,
+      "sha256_lineas": "5bde42a5f767cfe7bcf6db9ef7f8d14d042391523928d9fda9fd28ba43ccf333",
+      "es": "Soy yo. Hermes, del castillo de Cresson.",
+      "grupos_objetivo": [
+        "9835"
+      ],
+      "grupos": [
+        "9835"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 112338,
+      "sha256_lineas": "8d277e1d5edd663b113cbd0ca2fd0afcd8aef161763785044f211791f0ca08e1",
+      "es": "¿¡Hermes!?",
+      "grupos_objetivo": [
+        "9835"
+      ],
+      "grupos": [
+        "9835"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 112370,
+      "sha256_lineas": "ede0c3c4ceee168e1774acc1acff67ac70295ec3b824e08734487237db7c8dbc",
+      "es": "Exacto. Así que te acuerdas de mí, ¿eh?",
+      "grupos_objetivo": [
+        "9836"
+      ],
+      "grupos": [
+        "9836"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 112464,
+      "sha256_lineas": "dac0feab7f57b4914967ed876828ca2a47d46d1b4b5f58d41baf656203705374",
+      "es": "¿Q-quién es, Culotte?",
+      "grupos_objetivo": [
+        "9836"
+      ],
+      "grupos": [
+        "9836"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 114399,
+      "sha256_lineas": "b2c4927dc5f42bc5b86b473f0f88e10a6453b369938c5fc8726cd474e9d62688",
+      "es": "¿Qué hacemos, Culotte?",
+      "grupos_objetivo": [
+        "9859"
+      ],
+      "grupos": [
+        "9859"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 114467,
+      "sha256_lineas": "8d19f046c829f716709bf3f6bfb97b9de5bab379dc014e3d5c0ebf95549bb4f8",
+      "es": "No hay tiempo que perder. ¡Date prisa!",
+      "grupos_objetivo": [
+        "9859"
+      ],
+      "grupos": [
+        "9859"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 131641,
+      "sha256_lineas": "fb2c4e64a6a87f1596eaf94e57e4d4e90caac1ad55264111061deed0c8e02ad5",
+      "es": "Así dejaré de ser una carga para ti.",
+      "grupos_objetivo": [
+        "10034"
+      ],
+      "grupos": [
+        "10034"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 131741,
+      "sha256_lineas": "e465f9c086deca1b69870708316fe895296ce59474e0a7a37571bb5ba2420904",
+      "es": "¿Tu otro yo?",
+      "grupos_objetivo": [
+        "10034"
+      ],
+      "grupos": [
+        "10034"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 132598,
+      "sha256_lineas": "bdd6bc89b5dbee3ec329d872337067fc8d86442e0acb47ce566b8cb68631faaf",
+      "es": "Ya me parecías guapa antes, pero ahora estás deslumbrante.",
+      "grupos_objetivo": [
+        "10042"
+      ],
+      "grupos": [
+        "10042"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 132753,
+      "sha256_lineas": "3def017bca9488a1ec32293473be00b7c6ceccf59031ed1cb206607689f6b082",
+      "es": "¿¡Hola!? ¡Estamos en plena batalla!",
+      "grupos_objetivo": [
+        "10042"
+      ],
+      "grupos": [
+        "10042"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 135364,
+      "sha256_lineas": "55a458b689779aeea8b4e05eb01bc216ac68c555872e0842084259dd6a79761e",
+      "es": "Pero si Alouette muere, su hechizo se romperá y él volverá a convertirse en el Príncipe de las Tinieblas.",
+      "grupos_objetivo": [
+        "10070"
+      ],
+      "grupos": [
+        "10070"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 135575,
+      "sha256_lineas": "1327e59f14236ec77e34875c72175e6b0f21edb2fc4c15337a70bf31e52603d9",
+      "es": "¡Entonces los demonios querrán matar a la hermana Alouette!",
+      "grupos_objetivo": [
+        "10070"
+      ],
+      "grupos": [
+        "10070"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 138975,
+      "sha256_lineas": "087f4f8fc87ce8a67536df2e14dcfabdd01ffee36754c0584064bb2d32741e6a",
+      "es": "Has renunciado a toda tu vida para ayudarme...",
+      "grupos_objetivo": [
+        "10101"
+      ],
+      "grupos": [
+        "10101"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+      "offset": 139093,
+      "sha256_lineas": "49ad0aaa8e60a41768bfcf77c1d3969cb43717a268aad0f201f0c6a9e4da812f",
+      "es": "No he renunciado a nada. No podría estar más a gusto con la vida que he llevado.",
+      "grupos_objetivo": [
+        "10101"
+      ],
+      "grupos": [
+        "10101"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 76677,
+      "sha256_lineas": "d162eaa1ecf6f1a771902fc056cb4e649f056ae1623cb538a855d44a48a8abdf",
+      "es": "La mayoría de los aldeanos ya ha evacuado, pero nos han informado de que alguien oyó la voz de un niño en lo profundo del bosque.",
+      "grupos_objetivo": [
+        "11236"
+      ],
+      "grupos": [
+        "11236"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 76980,
+      "sha256_lineas": "12a16bec7317294212c154830bfefe0fc80983c82493f55c68581e3429a3bca0",
+      "es": "Íbamos a comprobarlo, pero esos demonios tan poderosos nos mantuvieron ocupados y no pudimos avanzar...",
+      "grupos_objetivo": [
+        "11236"
+      ],
+      "grupos": [
+        "11236"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 77262,
+      "sha256_lineas": "5c38813f00c2860118adc14f4ce5dc8672ac178961aae414788fa171e62ca147",
+      "es": "Entonces, ¿dices que alguien podría haberse quedado atrás?",
+      "grupos_objetivo": [
+        "11236"
+      ],
+      "grupos": [
+        "11236"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 83072,
+      "sha256_lineas": "285489d5501ebacbad5fabb3c0178d517742e9dadda10ca751fc242a54b955df",
+      "es": "¡Tampoco hace falta que te rías!",
+      "grupos_objetivo": [
+        "11296"
+      ],
+      "grupos": [
+        "11296"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 90453,
+      "sha256_lineas": "d76a3f81e22f90ca59141ebbbad3d73f4d52c9e7387f17900e284669ac787d19",
+      "es": "¡Bien! Parece que ese era el último demonio de la zona.",
+      "grupos_objetivo": [
+        "11374"
+      ],
+      "grupos": [
+        "11374"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 90604,
+      "sha256_lineas": "a0bdaf717781e27fc20f60371a592ff132df9c43a19248333cfac90b0ad81911",
+      "es": "Hemos purificado a muchos demonios. Espero que, gracias a ello, algunas almas se hayan salvado...",
+      "grupos_objetivo": [
+        "11374"
+      ],
+      "grupos": [
+        "11374"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat",
+      "offset": 94780,
+      "sha256_lineas": "6a33a911d72bb7b77c21a894c1c1614c7c3a3f9e968c89bd405acdf3c728791d",
+      "es": "¿¡Qué está pasando aquí!?",
+      "grupos_objetivo": [
+        "11413"
+      ],
+      "grupos": [
+        "11413"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 18735,
+      "sha256_lineas": "88163bfbe99c51be906e402a8985422e593baddbe51dd50f6ff618b528aeb21d",
+      "es": "Así que la chica de la que hablan es realmente...",
+      "grupos_objetivo": [
+        "11426"
+      ],
+      "grupos": [
+        "11426"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 18835,
+      "sha256_lineas": "7efea55f5ce634a2776f70b21b27d1aa296fff7271957886d97425a329213230",
+      "es": "No cabe duda, ¿eh...?",
+      "grupos_objetivo": [
+        "11426"
+      ],
+      "grupos": [
+        "11426"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 24578,
+      "sha256_lineas": "3fcbd7d410a0494e4fa74617683041b6bcf6cb62a90c58b8b6fa3e1ab1fc215b",
+      "es": "¡Qué buena idea, hermana Alouette!",
+      "grupos_objetivo": [
+        "11460"
+      ],
+      "grupos": [
+        "11460"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 24648,
+      "sha256_lineas": "17d3ce4099e0c885a48c7cc32a0a952d684749360fd7fa526af7e5b08a3e732c",
+      "es": "Madre mía, me está dando mucho miedo...",
+      "grupos_objetivo": [
+        "11460"
+      ],
+      "grupos": [
+        "11460"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 42621,
+      "sha256_lineas": "0c7329edb231443aacfba544f7f00c4af0c397f5d2ab5cc74acff14bfa34b2b5",
+      "es": "Parece que se ha hecho una idea muy equivocada...",
+      "grupos_objetivo": [
+        "11555"
+      ],
+      "grupos": [
+        "11555"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 42737,
+      "sha256_lineas": "8f640831a1d776ae57d0d2ed7bbad944170a773fee54c3019dfb5645ec9ad7e3",
+      "es": "Déjala en paz.",
+      "grupos_objetivo": [
+        "11555"
+      ],
+      "grupos": [
+        "11555"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 44192,
+      "sha256_lineas": "cec5cb7d3220887886ef5f6a3e246a89783006ef2a7ee099fa998e5dcb0dd742",
+      "es": "Seguramente sea solo Prier...",
+      "grupos_objetivo": [
+        "11567"
+      ],
+      "grupos": [
+        "11567"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 51807,
+      "sha256_lineas": "764c45525a2f326ed2333147ad24b7ee03c95597f8a16bc58e6b843b07322b0a",
+      "es": "Estás haciendo algo maravilloso por todos. Pero no dejes que se te suba a la cabeza.",
+      "grupos_objetivo": [
+        "11609"
+      ],
+      "grupos": [
+        "11609"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 70481,
+      "sha256_lineas": "047bec815b093b642860d1b30614b4cbf9da24f685ef8798f414cdc4a01f16c3",
+      "es": "¡La hermana Prier va a convertirse en Señora Demonio!",
+      "grupos_objetivo": [
+        "11636"
+      ],
+      "grupos": [
+        "11636"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 70589,
+      "sha256_lineas": "33688e6f219f28b2927880f3c138ef9fa006f73a1b3d0a98f65365cd0fe47012",
+      "es": "¡¡¡Cállateeeee!!!",
+      "grupos_objetivo": [
+        "11636"
+      ],
+      "grupos": [
+        "11636"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 76958,
+      "sha256_lineas": "8929aa79801df2e2a6cb78b17288993414b39579dbae99c463a430d20bba1944",
+      "es": "La información viene de un cazador de demonios independiente. Al parecer, hace poco apareció un portal mágico en una cueva cerca de Vinaigrette.",
+      "grupos_objetivo": [
+        "11687"
+      ],
+      "grupos": [
+        "11687"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 77237,
+      "sha256_lineas": "73e9f89cdc92d1a9b6274a0789d6fe06c4ed45e87f5d1a92b2f4a59a8ef898da",
+      "es": "Pensó que podría ganar algo de dinero con aquello y fue a investigar. Por lo visto, al llegar se encontró con una escena tremenda.",
+      "grupos_objetivo": [
+        "11687"
+      ],
+      "grupos": [
+        "11687"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 79538,
+      "sha256_lineas": "ddb3333a6f86188c748b0963dac3aadfad7b747bda14fab04cec4cf99fc84681",
+      "es": "No quiero que las demás hermanas se enteren de este asunto relacionado con Prier, la Señora Demonio... Muy bien. Diríjanse a Vinaigrette.",
+      "grupos_objetivo": [
+        "11704"
+      ],
+      "grupos": [
+        "11704"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 100597,
+      "sha256_lineas": "d773db20d7ad2ca4ec56c2027a58c26f8365a5e9a92b95cb4ce815f6bda9a95e",
+      "es": "¡Concéntrate, hermana Prier!",
+      "grupos_objetivo": [
+        "11898"
+      ],
+      "grupos": [
+        "11898"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat",
+      "offset": 100665,
+      "sha256_lineas": "81095145befaf59aab1f3d56a19fd1c35c21a28863d32f31f2f597e49b433eb6",
+      "es": "…¡Tsk!",
+      "grupos_objetivo": [
+        "11898"
+      ],
+      "grupos": [
+        "11898"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 70125,
+      "sha256_lineas": "a3a61a4ad8b527378b1a4dfefaffe8b5db93c8447a6badff9f838040fe63741e",
+      "es": "Ahora mismo no entiendo nada de lo que está pasando...",
+      "grupos_objetivo": [
+        "12033"
+      ],
+      "grupos": [
+        "12033"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 71533,
+      "sha256_lineas": "ee5d3e7edc02a8f34d623e699e15906e317bb056120a3429abc73be57633a018",
+      "es": "En pocas palabras, hay muchas partes de mí que ansían el poder de la Señora Demonio. Bien, entonces te estaré esperando...",
+      "grupos_objetivo": [
+        "12049"
+      ],
+      "grupos": [
+        "12049"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 75367,
+      "sha256_lineas": "f6a629ecb48f389140f2494dcdd116533384404e5e8e7e97549013106aafb4b6",
+      "es": "Así que esta parte de mi corazón se debilitó tanto que solo ansiaba poder y terminó cediendo al deseo de convertirse en Señora Demonio. Qué vergüenza...",
+      "grupos_objetivo": [
+        "12080"
+      ],
+      "grupos": [
+        "12080"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 79056,
+      "sha256_lineas": "80e3eae87b2415bfab9ce7b04c70e3879e6b0bfe340a3bb5cac35a738717b513",
+      "es": "No te olvides de mí...",
+      "grupos_objetivo": [
+        "12113"
+      ],
+      "grupos": [
+        "12113"
+      ]
+    },
+    {
+      "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat",
+      "offset": 79122,
+      "sha256_lineas": "3c1bb7d223cb4a022d8fa3cdf80fc936e376ef6f89a07f37fce1090860bfc460",
+      "es": "¿Ella no forma parte de la oscuridad de mi corazón...?",
+      "grupos_objetivo": [
+        "12113"
+      ],
+      "grupos": [
+        "12113"
       ]
     }
   ]

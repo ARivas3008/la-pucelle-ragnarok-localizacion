@@ -5,8 +5,8 @@
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
-    "revisados": 14811,
-    "requieren_investigacion": 205
+    "revisados": 14859,
+    "requieren_investigacion": 157
   },
   "unidades": {
     "total": 26258,
@@ -48,7 +48,12 @@
     "informe_gfx007": "docs/seguimiento/informes/GFX-007_capitulos_piloto.json",
     "informe_gfx008": "docs/seguimiento/informes/GFX-008_integracion_candidata.json",
     "integracion_opcional_en_motor": true,
-    "candidata_conjunta_ejecutada": false
+    "candidata_conjunta_ejecutada": false,
+    "informe_gfx010": "docs/seguimiento/informes/GFX-010_iso_original_reproducida.json",
+    "piloto_gfx007_reproducido_en_iso_autentica": true,
+    "informe_gfx011": "docs/seguimiento/informes/GFX-011_otros_bgpack_original.json",
+    "recursos_adicionales_gfx011_inspeccionados": 6,
+    "recurso_ingles_world_map_pendiente": "wmap_03.txp"
   },
   "betatesting": {
     "certificacion_v019": false,
@@ -75,29 +80,29 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-014",
+  "siguiente_tarea": "RELEVO-015",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 58,
-    "revisados": 451,
+    "pendientes": 22,
+    "revisados": 487,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": false
   },
   "editorial_catalogo": {
     "total_grupos_conocidos": 15525,
-    "revisados_en_reparto": 14811,
-    "pendientes_en_reparto": 205,
-    "pendientes_centrales": 58,
-    "pendientes_minimos": 263,
+    "revisados_en_reparto": 14859,
+    "pendientes_en_reparto": 157,
+    "pendientes_centrales": 22,
+    "pendientes_minimos": 179,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 451,
-    "revisados_editoriales_conocidos": 15262
+    "revisados_centrales": 487,
+    "revisados_editoriales_conocidos": 15346
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Probar preflight ISO auténtica, integrar BGPACK gráfico autorizado en candidata textual y ejecutar QA; mantener los 263 grupos pendientes y el régimen ×5.",
+  "criterio_siguiente": "Priorizar cierre editorial 179 pendientes, tratamiento World Map GFX-011, corrección de composición en 4 capítulos, ISO conjunta y C/PPSSPP; no declarar 100% sin ello.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -206,5 +211,30 @@
     "ci": "pendiente",
     "candidata_nueva": false,
     "ppsspp": false
+  },
+  "cent014": {
+    "grupos_iso_pendientes_cotejados": 118,
+    "unidades_en_iso_referenciadas": 440,
+    "grupo_runs_auditados": 208,
+    "discrepancias_de_origen": 0,
+    "grupos_revisados_nuevos": 48,
+    "segmentos_talk_anclados": 85,
+    "fuente": "ISO original autenticada 4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "qa_nuevo": "pendiente_ci",
+    "ppsspp": false,
+    "informe": "docs/seguimiento/informes/CENT-014_origen_recuperado.json",
+    "grupos_corpus_09": 31,
+    "grupos_corpus_11": 17
+  },
+  "centr015": {
+    "grupos_editoriales_centrales_revisados": 36,
+    "grupos_centrales_pendientes": 22,
+    "evidencia": "B: manifiesto japonés original aportado y contexto contiguo; falta EDAT auténtico para cotejo físico",
+    "rutas": [
+      "data/preexistentes/509_revision_central.csv",
+      "docs/seguimiento/informes/CENT-015_japones_tutorial.json"
+    ],
+    "ppsspp": false,
+    "candidata_reconstruida": false
   }
 }

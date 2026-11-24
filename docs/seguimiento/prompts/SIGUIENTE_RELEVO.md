@@ -1,45 +1,159 @@
-# LA PUCELLE: RAGNAROK — RELEVO-014 QUÍNTUPLE: CENT-014, ROM-008, GFX-008 Y QA
+# LA PUCELLE: RAGNAROK — RELEVO-015 QUÍNTUPLE: CENT-016, GFX-011, INTEGRACIÓN Y QA
 
-**Corte:** 23/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo013-gfx008-integracion-20261123`. HEAD del relevo anterior: `654cdbfb6dfcc7ee7b1f711887546afa8855d56a`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.
+**Corte:** 23/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo014-gfx010-auditoria-original-20261123`. HEAD del relevo anterior: `654cdbfb6dfcc7ee7b1f711887546afa8855d56a`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.
 
-## 0. RÉGIMEN QUÍNTUPLE OBLIGATORIO — MULTIPLICADOR ×5
+## 0. RÉGIMEN DE EJECUCIÓN QUÍNTUPLE OBLIGATORIA — MULTIPLICADOR ×5
 
-En cada relevo, ejecutar cinco veces el trabajo objetivo del régimen extendido original, sin multiplicación acumulativa ni espera artificial. Los objetivos son condicionales a tareas y recursos auténticos; no se inventan aprobaciones, pruebas ni commits.
+A partir del RELEVO-011, todas las ejecuciones deberán adoptar un régimen de productividad quíntuple, aumentando cinco veces la cantidad objetivo de trabajo útil respecto a los relevos extendidos anteriores.
+
+La duración no determina la finalización. Se priorizará la ejecución técnica, la corrección de defectos reales, la integración y la verificación de resultados.
 
 ### 0.1. Metas cuantitativas
-- Traducción: 600–900 grupos investigados/revisados, o todos los pendientes auténticos si son menos.
-- Gráficos: 50–100 recursos investigados, editados o integrados, diferenciando cada estado.
-- Romhacking: 15–25 intervenciones sustanciales.
-- Pruebas técnicas: 75–150 comprobaciones significativas.
-- Betatesting: 50–100 casos auténticos en PPSSPP cuando sea posible.
-- Integración: hasta cinco ciclos completos de construcción, auditoría, corrección y reconstrucción.
-- Documentación: cinco consolidaciones, sin reemplazar implementación.
-- GitHub: publicar todos los cambios verificables, sin commits artificiales.
 
-### 0.2. Cinco macrolotes intensivos
-**A — Auditoría:** verificar HEAD, PR, CI, inventarios, originales, dependencias, defectos, pendientes, criterios de aceptación y entorno.
-**B — Traducción:** investigar grupos consecutivos, reconstruir opcodes y hablantes, contrastar japonés/inglés, corregir estilo y términos, preservar controles y actualizar CSV.
-**C — Gráficos y romhacking:** investigar TXP/CLUT, editar y reconstruir recursos, integrar solo deltas autorizados, corregir motor, generar candidatas y auditar aislamiento.
-**D — QA y betatesting:** comprobar integridad, glifos, controles y reconstrucciones; investigar fallos, corregirlos, repetir pruebas y registrar evidencia A/B/C.
-**E — Consolidación:** actualizar matrices, defectos, inventarios, indicadores, pruebas, PR/CI y siguiente relevo.
+Siempre que existan suficientes tareas, recursos y condiciones técnicas, cada ejecución intentará completar:
 
-### 0.3. Redistribución obligatoria
-Si faltan DLC, continuar ISO base; si falta PPSSPP, continuar QA estático e integración; si faltan diálogos contextualizados, continuar gráficos y romhacking; si un gráfico está bloqueado, estudiar otro. No cerrar por completar un único lote cuando quedan tareas independientes.
+- Traducción: 600–900 grupos investigados, reconstruidos y revisados.
+- Gráficos: 50–100 recursos investigados, editados, reconstruidos o integrados.
+- Romhacking: 15–25 intervenciones técnicas sustanciales.
+- Pruebas técnicas: 75–150 verificaciones significativas.
+- Betatesting: 50–100 casos funcionales ejecutados en PPSSPP auténtico.
+- Integración: hasta cinco ciclos de construcción, auditoría, corrección y reconstrucción de candidatas.
+- Documentación: cinco consolidaciones de resultados, evidencias, defectos e indicadores.
+- GitHub: publicación de todos los cambios verificables de los cinco macrolotes, sin crear commits artificiales.
 
-### 0.4. Calidad
-Cada avance identificará recurso, ID, antes/después, prueba, evidencia, defectos y commit/PR si existen. Distinguir investigación, edición, integración y certificación. No duplicar registros ni multiplicar porcentajes históricos.
+Los objetivos cuantitativos nunca justificarán inventar resultados, duplicar registros, aprobar textos ambiguos ni presentar pruebas sintéticas como pruebas reales.
 
-### 0.5. Finalización
-Solo tras carga sustancial verificable, agotamiento de tareas ejecutables, límite real del entorno o 100 % certificado en las cuatro áreas. Nunca esperar artificialmente.
+Si el trabajo pendiente es inferior al objetivo, se agotará el trabajo aplicable y se redistribuirá el esfuerzo hacia las demás áreas.
+
+### 0.2. Cinco macrolotes de ejecución intensiva
+
+MACROLOTE A — Auditoría exhaustiva
+
+1. Recuperar el estado auténtico de GitHub.
+2. Comprobar HEAD, ramas, PR y CI.
+3. Verificar los inventarios completos.
+4. Localizar recursos originales disponibles.
+5. Identificar dependencias y bloqueos.
+6. Determinar el trabajo pendiente por apartado.
+7. Detectar defectos no resueltos.
+8. Seleccionar tareas independientes.
+9. Establecer pruebas de aceptación.
+10. Preparar el entorno de ejecución.
+
+MACROLOTE B — Traducción quíntuple
+
+1. Procesar lotes consecutivos de hasta 100–150 grupos.
+2. Investigar hasta 600–900 grupos cuando existan.
+3. Reconstruir diálogos completos.
+4. Contrastar japonés e inglés.
+5. Revisar personajes y hablantes.
+6. Comprobar coherencia narrativa.
+7. Corregir terminología.
+8. Preservar variables y controles.
+9. Registrar aprobaciones auténticas.
+10. Actualizar CSV e inventarios.
+
+Los grupos bloqueados se conservarán como pendientes. Nunca se aprobarán por cumplir una cuota.
+
+MACROLOTE C — Gráficos y romhacking quíntuple
+
+1. Investigar hasta 100 unidades gráficas.
+2. Ejecutar hasta 25 intervenciones técnicas.
+3. Analizar formatos y estructuras.
+4. Editar recursos traducibles.
+5. Reconstruir texturas.
+6. Preservar CLUT, dimensiones y controles.
+7. Integrar recursos autorizados.
+8. Corregir fallos del parcheador.
+9. Construir candidatas cuando sea posible.
+10. Comprobar integridad y aislamiento.
+
+Priorizar siempre defectos reales sobre herramientas auxiliares redundantes.
+
+MACROLOTE D — QA y betatesting quíntuple
+
+1. Ejecutar hasta 150 comprobaciones técnicas.
+2. Ejecutar hasta 100 casos funcionales auténticos.
+3. Comprobar integridad de archivos.
+4. Verificar codificación y glifos.
+5. Validar reconstrucciones.
+6. Investigar rechazos.
+7. Corregir defectos.
+8. Repetir las pruebas afectadas.
+9. Registrar capturas auténticas cuando proceda.
+10. Separar evidencias A, B y C.
+
+No considerar una comprobación estática equivalente a una ejecución auténtica en PPSSPP.
+
+MACROLOTE E — Consolidación y continuidad
+
+1. Consolidar todos los cambios comprobados.
+2. Actualizar inventarios.
+3. Actualizar matrices.
+4. Actualizar defectos.
+5. Actualizar métricas.
+6. Ejecutar validaciones.
+7. Publicar cambios verificables.
+8. Comprobar CI y PR.
+9. Preparar el siguiente relevo.
+10. Heredar íntegramente el régimen quíntuple.
+
+### 0.3. Redistribución obligatoria del trabajo
+
+Cuando un apartado no disponga de suficientes tareas ejecutables, trasladar el esfuerzo restante a los otros apartados.
+
+Si no existe DLC, trabajar sobre la ISO base.
+
+Si PPSSPP no está disponible, continuar con integración estática, traducción y gráficos.
+
+Si no quedan grupos traducibles con contexto suficiente, priorizar integración y romhacking.
+
+Si un recurso gráfico está bloqueado, investigar otros recursos.
+
+No finalizar una ejecución después de una única corrección si existen tareas independientes realizables.
+
+### 0.4. Condiciones de calidad
+
+Cada avance deberá incluir, según corresponda:
+
+- Archivo o recurso afectado.
+- Identificador verificable.
+- Estado anterior.
+- Modificación realizada.
+- Resultado posterior.
+- Prueba ejecutada.
+- Evidencia disponible.
+- Defectos pendientes.
+- Commit y PR auténticos cuando se publiquen.
+
+Las operaciones de investigación, edición, integración y certificación se contabilizarán separadamente.
+
+No multiplicar porcentajes, aprobaciones históricas ni elementos ya completados.
+
+### 0.5. Condiciones de finalización
+
+La ejecución terminará cuando:
+
+1. Se haya realizado una carga sustancial de trabajo verificable.
+2. Se hayan agotado las tareas ejecutables con los recursos disponibles.
+3. Existan límites efectivos que impidan continuar.
+4. Los cuatro apartados alcancen el 100 % certificado.
+
+No esperar artificialmente para cumplir una duración.
 
 ### 0.6. Herencia permanente
-Conservar íntegramente esta sección 0 y la sección 14 de obligación recursiva en todos los relevos. Multiplicador ×5 permanente sobre el régimen original, nunca ×25. **EJECUTAR CINCO VECES MÁS TRABAJO OBJETIVO CON AUTENTICIDAD E INTEGRIDAD.**
 
-**Resultado RELEVO-011 verificado:** ROM-008 añadió autenticación SHA-256 de ISO base antes de generar salida y protección contra sobrescritura del original, en `parcheador/app/scripts/integracion_total.py`; informe `docs/seguimiento/informes/ROM-008_preflight_iso.json`. No se construyó ISO ni se ejecutó PPSSPP en este relevo. CI del nuevo PR pendiente de comprobar. Mantener 15.262/15.525, 21.805/26.258 históricos, 16 pilotos gráficos, 0 certificaciones C. Próxima acción: probar preflight con ISO auténtica, ejecutar QA completo, integrar delta BGPACK en candidata conjunta y revisar 263 grupos restantes. No alterar los numeradores sin pruebas.
+Todos los relevos posteriores deberán conservar íntegramente esta sección 0 y la sección 14 de obligación recursiva.
 
-**Resultado nuevo ROM-009:** `parcheador/app/scripts/integracion_total.py` valida cuatro EDAT, bloquea salidas que pisan originales y exige directorio vacío; `tests/test_rom009_preflight.py` define 12 pruebas, `.github/workflows/qa-rom009.yml` las ejecuta. Informe `docs/seguimiento/informes/ROM-009_preflight_destinos.json`. Consultar CI y corregir fallos antes de fusionar. El 100 % de traducción, gráficos, romhacking y betatesting sigue abierto; no afirmar cierre sin cobertura y ejecución real. Prioridad: candidata conjunta con BGPACK, completar 263 grupos, DLC auténticos, PPSSPP y 85 casos C.
+El siguiente prompt deberá mantener el multiplicador ×5 sobre los objetivos originales del régimen extendido, sin volver a multiplicar por cinco las cantidades ya multiplicadas.
 
-**Resultado nuevo GFX-008:** motor `parcheador/app/scripts/integracion_total.py` admite `--fuente-capitulos` y añade 16 TXP de capítulos al construir la candidata textual, con verificación de SHA-256 original, 16 SHA de salida, hash BGPACK y aislamiento de offset/tamaño. Informe `docs/seguimiento/informes/GFX-008_integracion_candidata.json`. Falta ejecutar con ISO original, confirmar CI y PPSSPP. Prioridad estricta del relevo siguiente: **traducción editorial y gráficos al 100 % real**. Cotejar y cerrar los 263 grupos pendientes con contexto, corregir textos de los 16 títulos, inventariar el resto de texturas, probar candidata conjunta y certificar visualmente. No inventar aprobaciones ni elevar 0 certificados sin C.
+No reducir las metas salvo por insuficiencia real de tareas, dependencias técnicas, recursos o límites del entorno.
+
+ORDEN PERMANENTE: EJECUTAR CINCO VECES MÁS TRABAJO OBJETIVO, CONSERVANDO LA MISMA EXIGENCIA DE AUTENTICIDAD, INTEGRIDAD Y CALIDAD.
+
+**Estado verificado al relevar:** PR #41 sobre rama relevo014; consultar SHA y CI de HEAD, no fiarse de cifras antiguas. CENT-014/CENT-015 suman **84 revisiones editoriales nuevas** (48 grupos originales ISO/CP932 y 36 grupos japonés DLC desde manifiesto), **15.346/15.525 revisados, 179 pendientes**: 157 distribuidos y 22 centrales. No incrementar cobertura técnica 21.805/26.258 por esto. Se recuperaron 440 líneas ISO correspondientes a 118 grupos inicialmente pendientes; 48 grupos revisados, 85 anclas registradas, de las cuales **79 inéditas y seis reconciliadas sin sobrescribir HY-MT2 aprobado**. GFX-010 verificó ISO auténtica 4360707b..., piloto BGPACK 16 TXP SHA f50e265..., 269 miembros intactos y 790.107.120 bytes externos idénticos. GFX-008 corrigió ruta de repositorio y lectura NUL, añadió seis regresiones con CI. Siguen sin demostrarse 100%: hay 179 grupos no aprobados, cuatro títulos demoníacos con arte superpuesto, 0 gráficos certificados en PPSSPP, 0 candidata conjunta ejecutada, DLC EDAT ausentes. ISO original auténtica existe solo en el entorno donde se aportó (no publicar). **Priorizar** cierre de grupos con fuentes íntegras, examinar generador DLC/name.dat sin autoaprobar fragmentos, remaquetar títulos demoníacos sin destruir ilustración, ejecutar candidata conjunta en PPSSPP auténtico y corregir hallazgos; certificar antes de subir numeradores.
+
+**Hallazgo gráfico GFX-011 posterior al corte:** seis TXP de BGPACK original inspeccionados; `wmap_03.txp` contiene la inscripción inglesa auténtica «World Map», aún sin adaptación «Mapa del mundo» ni validación en PSP. `title_mj.txp` es logotipo oficial, conservar. Detalles y SHA individuales en `docs/seguimiento/informes/GFX-011_otros_bgpack_original.json`. No declarar gráficos terminados por los 16 títulos piloto: hay más recursos traducibles.
 
 ## 1. Estado verificado y misión
 
