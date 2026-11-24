@@ -154,6 +154,32 @@
       "estado": "B_SINTETICOS_PASS_CI_PR_NO_CANDIDATA_REAL",
       "evidencia": "scripts/verificar_iso_aislamiento.py | scripts/test_verificar_iso_aislamiento.py",
       "ci": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021805"
+    },
+    {
+      "id": "ROM-025",
+      "tipo": "ISO original PVD y longitud física no coinciden",
+      "estado": "A_confirmado_original_no_modificado",
+      "evidencia": "docs/seguimiento/informes/ROM-006_layout_fijo.json"
+    },
+    {
+      "id": "ROM-026",
+      "tipo": "Layout fijo, PVD y bytes fuera de recursos",
+      "estado": "B_pruebas_sinteticas_aprobadas_CI_sin_C",
+      "evidencia": "scripts/test_verificar_iso_layout_fijo.py",
+      "ci": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789"
+    },
+    {
+      "id": "ROM-027",
+      "tipo": "TXP estructura original 62 unidades/26 archivos",
+      "estado": "A_metadatos_originales_sin_edicion_ni_C",
+      "evidencia": "docs/seguimiento/informes/GFX-006_estructura_62.json"
+    },
+    {
+      "id": "ROM-028",
+      "tipo": "TXP altura parcial y CLUT multibanco",
+      "estado": "B_pruebas_sinteticas_aprobadas_CI_sin_C",
+      "evidencia": "scripts/test_auditar_graficos_manifiesto.py",
+      "ci": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789"
     }
   ]
 }

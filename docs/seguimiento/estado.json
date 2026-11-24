@@ -1,7 +1,7 @@
 {
   "esquema": "estado_v1",
   "fecha": "2026-11-23",
-  "base_main": "a8b5900d4cd8b95c3e7e800528c9e0dda9af52bc",
+  "base_main": "9fa5208a14b82c8430e00d6ea51c5a8167b470a3",
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
@@ -38,17 +38,22 @@
     ],
     "informe_gfx005": "docs/seguimiento/informes/GFX-005_cartografia_original.json",
     "nuevas_texturas_confirmadas": 0,
-    "texturas_modificadas_en_relevo008": 0
+    "texturas_modificadas_en_relevo008": 0,
+    "informe_gfx006": "docs/seguimiento/informes/GFX-006_estructura_62.json",
+    "unidades_estructura_original_cotejada": 62,
+    "txp_distintos_estructura_original_cotejada": 26,
+    "capitulos_altura_parcial": 16,
+    "txp_clut_multibanco": 3
   },
   "betatesting": {
     "certificacion_v019": false,
-    "casos_catalogados": 76,
+    "casos_catalogados": 82,
     "casos_ejecutados_v019": 0
   },
   "iso_original": {
     "sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
     "comprobado": true,
-    "comprobado_en_relevo": "RELEVO-008",
+    "comprobado_en_relevo": "RELEVO-009",
     "archivo": "la_pucelle_original_relevo005.iso",
     "bytes": 858937344
   },
@@ -65,11 +70,11 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-009",
+  "siguiente_tarea": "RELEVO-010",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 175,
-    "revisados": 334,
+    "pendientes": 115,
+    "revisados": 394,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": true
   },
@@ -77,23 +82,24 @@
     "total_grupos_conocidos": 15525,
     "revisados_en_reparto": 14727,
     "pendientes_en_reparto": 289,
-    "pendientes_centrales": 175,
-    "pendientes_minimos": 464,
+    "pendientes_centrales": 115,
+    "pendientes_minimos": 404,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 334,
-    "revisados_editoriales_conocidos": 15061
+    "revisados_centrales": 394,
+    "revisados_editoriales_conocidos": 15121
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "CENT-012: revisar con reconstrucción de hablantes 15158–15210, 9639–9668 y 6072–6109; no aprobar fragmentos truncados. ROM-006: ejecutar diff de recursos y BGPACK sobre ISO realmente traducida, verificar sectores no asignados, PVD y DLC auténticos. GFX-006: decidir inscripción decorativa wbg00/wmap solo con nomenclatura de escenas reales. QA: 76 casos C v0.19.0 aún pendientes.",
+  "criterio_siguiente": "CENT-013: reconstruir grupos incompletos restantes desde bytecode y fuentes de ISO; revisar corpus/02 con contexto. ROM-007: conseguir candidata reconstruida, comprobar diferencias en regiones añadidas y PVD; aplicar QA de layout fijo solo si procede. GFX-007: resolver los 16 títulos de 170 filas y 3 TXP multibanco; comparar con atlas de referencia y PPSSPP.",
   "revisiones_nuevas_en_esta_rama": {
-    "lote": "CENT-011",
-    "editoriales_centrales": 58,
+    "lote": "CENT-012",
+    "editoriales_centrales": 60,
+    "unidades_originales_cotejadas": 124,
     "insertadas_fisicamente": 0,
     "validacion_visual": 0,
-    "informe": "docs/seguimiento/informes/CENT-011.json"
+    "informe": "docs/seguimiento/informes/CENT-012.json"
   },
   "exclusiones_del_alcance": {
     "hymt2_pendientes": "excluido",
@@ -152,5 +158,20 @@
     "qa_seguimiento_rom005": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021805",
     "resultado": "success, success",
     "evidencia": "B: tests sintéticos e inventarios, NO PPSSPP ni ISO candidata real"
+  },
+  "romhacking_relevo009": {
+    "informe": "docs/seguimiento/informes/ROM-006_layout_fijo.json",
+    "pvd_sectores_declarados": 380120,
+    "sectores_fisicos": 419403,
+    "delta_sectores": 39283,
+    "verificacion_candidata_real": false,
+    "nota": "A: PVD original y longitud física cotejados; B: verificador estricto de distribución fija y regresiones CI aprobadas; sin candidata ni PPSSPP. No sustituye auditoría de recursos reubicados."
+  },
+  "ci_relevo009": {
+    "commit_evaluado": "54d95e30e2bd9951b00a40f21842a2ea02cc3068",
+    "qa_corpus": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178890",
+    "qa_seguimiento": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789",
+    "resultado": "success, success",
+    "alcance": "B: pruebas sintéticas e inventarios; sin candidata real ni PPSSPP"
   }
 }

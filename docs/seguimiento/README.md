@@ -34,3 +34,7 @@ Se revisaron editorialmente [53 grupos de diálogo](informes/CENT-010.json), ele
 ## RELEVO-008 — CENT-011, ROM-005 y GFX-005
 
 Se aprobaron **58 grupos editoriales adicionales**; siguen 464 pendientes conocidos y el inventario no es exhaustivo. [CENT-011](informes/CENT-011.json) documenta las escenas Homard/Yattanya/Éclair. [ROM-005](informes/ROM-005_aislamiento_iso.json) añade el verificador `scripts/verificar_iso_aislamiento.py` de archivos ISO9660 contra una candidata, sensible a hashes de contenido y permisos; 7 pruebas sintéticas pasaron localmente y el original se auto-comparó (23/23 recursos). Esto no certifica ISO parcheada. [GFX-005](informes/GFX-005_cartografia_original.json) deja sin cambio `wbg00.txp` y `wmap.txp` hasta demostrar nomenclatura. Se añadieron 6 casos QA, ninguno C v0.19.0. [RELEVO-009](prompts/SIGUIENTE_RELEVO.md) conserva el mandato recursivo completo.
+
+## RELEVO-009 — CENT-012, ROM-006, GFX-006
+
+60 revisiones y 124/124 unidades originales cotejadas. [CENT-012](informes/CENT-012.json). 62 unidades gráficas/26 TXP con metadatos originales: 16 títulos de altura parcial y 3 texturas de 16 bancos CLUT. [GFX-006](informes/GFX-006_estructura_62.json). [ROM-006](informes/ROM-006_layout_fijo.json) documenta PVD original y verificador estricto de layout fijo. 82 casos QA sin ejecución v0.19.0. [RELEVO-010](prompts/SIGUIENTE_RELEVO.md).
