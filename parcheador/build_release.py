@@ -43,8 +43,12 @@ def make_resources(manifest:Path, packer:Path, dest:Path):
         payload=(ROOT.parent/rel).read_bytes()
         entries[rel]=payload
         editorial[rel]=hashlib.sha256(payload).hexdigest()
+    rel='data/preexistentes/509_revision_central.csv'
+    payload=(ROOT.parent/rel).read_bytes()
+    entries[rel]=payload
+    editorial[rel]=hashlib.sha256(payload).hexdigest()
     entries['datos/fuentes_editoriales.json']=json.dumps({
-        'version':VERSION, 'snapshot_main':'e614ad1be6d450a93689a0eb264750b4c77a2b75',
+        'version':VERSION, 'snapshot_main':None,
         'sha256':editorial},ensure_ascii=False,sort_keys=True,indent=2).encode('utf-8')
     entries['scripts/nis_lzs_pack.exe']=packer.read_bytes()
     with dest.open('wb') as outf:

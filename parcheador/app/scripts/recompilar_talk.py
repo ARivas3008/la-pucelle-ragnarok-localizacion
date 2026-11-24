@@ -5,6 +5,7 @@ from functools import lru_cache
 from formato_talk import inspect,replace,TalkError
 from fuentes_es import encode_es,missing_render_glyphs
 from construir_parche import to_full
+from revisiones_coordinadas import scoped_segments
 
 def canon(text):
  text=unicodedata.normalize('NFKC',text).replace('、',',').replace('。','.')
@@ -42,12 +43,15 @@ def runs(raw,meta):
   result.append([item])
  return result
 
-def catalog(manifest,reviews,buffers,metas,include_pending=False,segments=()):
+def catalog(manifest,reviews,buffers,metas,include_pending=False,segments=(),scoped=None):
+ exact,scoped_gids=scoped_segments(scoped,manifest,reviews,buffers,metas,runs,segments)
+ segments=list(segments)+exact
  groups=defaultdict(list)
  for row in manifest:
   if row['recurso'] in buffers:groups[row['grupo_id']].append(row)
  patterns=defaultdict(list);rejected={}
  for gid,items in groups.items():
+  if gid in scoped_gids:continue # no reutilizar fragmentos reconstruidos fuera de su ancla
   rev=reviews.get(gid)
   if not rev or not rev.get('es_revisado','').strip():rejected[gid]='Sin traducción';continue
   if rev['estado']!='revisado' and not include_pending:rejected[gid]='Revisión pendiente';continue
@@ -75,7 +79,8 @@ def catalog(manifest,reviews,buffers,metas,include_pending=False,segments=()):
   entry_id=struct.unpack_from('<I',raw,12+32*run[0]['entry'])[0]
   key=tuple(canon(t['raw'].decode('cp932')) for t in run)
   patterns[key].append(dict(gid=segment['grupo_id'],es=segment['es'],estado='revisado',res=res,
-   offset=offset,entry_id=entry_id,segmento=True,
+   offset=offset,entry_id=entry_id,segmento=True,solo_origen=segment.get('solo_origen',False),
+   grupos=segment.get('grupos',[segment['grupo_id']]),
    unit_ids=[unit_lookup[(res,t['offset'])] for t in run if (res,t['offset']) in unit_lookup]))
  trie={}
  for key,candidates in patterns.items():
@@ -97,8 +102,10 @@ def compile_one(res,raw,meta,trie,font):
     node=node.get(keys[end])
     if node is None:break
     for c in node.get(None,[]):
+     if c.get('solo_origen') and (c['res']!=res or c['offset']!=run[i]['offset']):continue
      score=1000 if c['res']==res and c['offset']==run[i]['offset'] else 100 if c['entry_id']==entry_id else 0
      if c.get('segmento'):score+=10
+     if c.get('solo_origen'):score+=100
      choices.append((score,end+1,c))
    choices.sort(key=lambda x:(x[0],x[1]),reverse=True)
    for score,end,c in choices:
@@ -130,7 +137,7 @@ def compile_one(res,raw,meta,trie,font):
     new+=b'\1'+encode(line)+b'\0'
    a=run[0]['offset']-1;b=run[-1]['end']+1
    edits.append((a,b,bytes(new)))
-   applied.append(dict(recurso=res,offset=a,entry_id=entry_id,grupos=[c['gid'] for c in selected],
+   applied.append(dict(recurso=res,offset=a,entry_id=entry_id,grupos=list(dict.fromkeys(g for c in selected for g in c.get('grupos',[c['gid']]))),
     unidades_origen=[u for c in selected for u in c['unit_ids']],lineas_originales=len(run),
     lineas_nuevas=len(lines),original=source,es=phrase))
   except (TalkError,ValueError,UnicodeError) as exc:

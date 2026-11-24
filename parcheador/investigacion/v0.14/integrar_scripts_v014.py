@@ -40,12 +40,12 @@ def match(raw,offset,expected):
  canon=lambda s:unicodedata.normalize('NFKC',s).strip()
  return b if canon(got)==canon(expected) else None
 
-def load_rows(manifest,report,repo_dir=None):
+def load_rows(manifest,report,repo_dir=None,*,reviews=None):
  with Path(manifest).open(encoding='utf-8-sig',newline='') as f:
   idx={row['unit_id']:row for row in csv.DictReader(f)}
  with Path(report).open(encoding='utf-8-sig',newline='') as f:
   report_rows=list(csv.DictReader(f))
- reviews=None
+ if repo_dir is not None and reviews is not None:raise Peligro('Usar una sola fuente de revisión')
  if repo_dir is not None:
   from construir_parche import read_reviews
   reviews,_,_=read_reviews(repo_dir,False)
