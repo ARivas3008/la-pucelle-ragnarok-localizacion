@@ -54,7 +54,7 @@ class ROM010(unittest.TestCase):
   with tempfile.TemporaryDirectory() as t:
    p=Path(t)
    for i in range(4):(p/f"DL_JP_{i:02d}.EDAT").write_bytes(b"INVALID")
-   with self.assertRaisesRegex(ValueError,"incompatible"):run(Path("original.iso"),p)
+   with self.assertRaisesRegex(ValueError,"único LZS validado"):run(Path("original.iso"),p)
  def test_auditor_exige_estado_no_evaluado(self):
   src=SOURCE.read_text(encoding="utf-8")
   self.assertIn("NO_EVALUADO_DLC_AUSENTE",src)
