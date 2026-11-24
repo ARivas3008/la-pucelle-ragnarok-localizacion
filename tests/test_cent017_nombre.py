@@ -17,7 +17,7 @@ class NameSlots(unittest.TestCase):
   self.assertEqual([r['clase'] for r in rows],[1,2])
  def test_cabeceras_distintas_rechazadas(self):
   b=bytearray(fixture());struct.pack_into('<I',b,4,3)
-  with self.assertRaisesRegex(ValueError,'cantidades'):scan(b)
+  with self.assertRaisesRegex(ValueError,'cantidad incoherentes'):scan(b)
  def test_clase_fuera_de_rango_rechazada(self):
   with self.assertRaisesRegex(ValueError,'tipo'):scan(fixture(4))
  def test_slot_sin_nul_rechazado(self):
