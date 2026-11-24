@@ -7,9 +7,18 @@ import construir_parche as c
 from nis_formats import nispack,lzs_decompress
 from fuentes_es import decode_es
 from recompilar_talk import canon
-def load(iso,dlc):
+from revisiones_coordinadas import merge_central
+def load(iso,dlc=None):
  im=c.Image(iso);rec={p:(o,n) for p,o,n,_ in im.records()};buf={}
- for key,blob in [('ISO_START',im.read(*rec['/PSP_GAME/USRDIR/START_JP.LZS']))]+[(f'DLC_{n:02d}',nispack((dlc/f'DL_JP_{n:02d}.EDAT').read_bytes())[0]['content']) for n in range(4)]:
+ packs=[('ISO_START',im.read(*rec['/PSP_GAME/USRDIR/START_JP.LZS']))]
+ if dlc is not None:
+  for n in range(4):
+   path=dlc/f'DL_JP_{n:02d}.EDAT'
+   parts=nispack(path.read_bytes())
+   if len(parts)!=1 or parts[0]['name'].lower()!='start_jp.lzs':
+    raise ValueError('DLC desconocido: '+str(path))
+   packs.append((f'DLC_{n:02d}',parts[0]['content']))
+ for key,blob in packs:
   for name,data in c.members_from_dat(lzs_decompress(blob,allow_overlap=False)).items():buf[key+'/'+name]=bytes(data)
  for pack in ('SCRIPTPACK.DAT','BGPACK.DAT'):
   path='/PSP_GAME/USRDIR/'+pack
@@ -17,13 +26,20 @@ def load(iso,dlc):
    for item in nispack(im.read(*rec[path])):buf['ISO'+path+'/'+item['name']]=item['content']
  buf['ISO/PSP_GAME/SYSDIR/EBOOT.BIN']=im.read(*rec['/PSP_GAME/SYSDIR/EBOOT.BIN'])
  return buf
-ap=argparse.ArgumentParser();ap.add_argument('--entrega',type=Path,required=True);ap.add_argument('--iso-original',type=Path,required=True);ap.add_argument('--dlc-original',type=Path,required=True);args=ap.parse_args()
+ap=argparse.ArgumentParser();ap.add_argument('--entrega',type=Path,required=True);ap.add_argument('--iso-original',type=Path,required=True);ap.add_argument('--dlc-original',type=Path);args=ap.parse_args()
 reportdir=args.entrega/'informes' if args.entrega else B/'informes'
 dest=args.entrega/'JUEGO_PARA_PPSSPP/La_Pucelle_Ragnarok_ES.iso' if args.entrega else B/'prueba_correcciones/La_Pucelle_Ragnarok_ES_PRELIMINAR.iso'
-actual=load(dest,dest.parent/'ULJS00244')
+dlc_dest=dest.parent/'ULJS00244'
+if args.dlc_original is None and dlc_dest.exists():
+ ap.error('La candidata contiene DLC: aporta --dlc-original para cotejarlos')
+if args.dlc_original is not None and not dlc_dest.is_dir():
+ ap.error('Se aportaron DLC originales pero faltan los DLC de la candidata')
+actual=load(dest,dlc_dest if args.dlc_original is not None else None)
 original=load(args.iso_original,args.dlc_original)
+if actual.keys()!=original.keys():raise ValueError('Inventario de recursos original/candidata distinto')
 manifest=list(csv.DictReader(c.DATA.open(encoding='utf-8-sig',newline='')))
-reviews,_,_=c.read_reviews(R,False)
+reviews,checks,states=c.read_reviews(R,False)
+reviews,checks,states=merge_central(R,reviews,manifest,checks,states)
 intervals={};script_units=set();proof=[]
 for folder in ('dialogos_compilados','scripts_compilados'):
  suffix='.talk.json' if folder=='dialogos_compilados' else '.script.json'
@@ -64,8 +80,11 @@ def cstring(b,off):
 result=[]
 for row in manifest:
  res=row['recurso'];off=int(row['offset']) if row['offset'].isdigit() else -1;uid=row['unit_id'];name=res.split('/')[-1]
- state='SIN_VERIFICAR';text='';rev=reviews.get(row['grupo_id'],{}).get('es_revisado','')
- if res in intervals:
+ review=reviews.get(row['grupo_id'],{})
+ state='SIN_VERIFICAR';text='';rev=review.get('es_revisado','') if review.get('estado')=='revisado' else ''
+ if args.dlc_original is None and res.startswith('DLC_'):
+  state='DLC_NO_APORTADO'
+ elif res in intervals:
   ints=intervals[res];i=bisect.bisect_right(ints,(off,10**12))-1
   state='TALK_BLOQUE_INSERTADO' if i>=0 and ints[i][0]<=off<ints[i][1] else 'TALK_PENDIENTE'
  elif uid in script_units:state='SCRIPT_INSERTADO'
@@ -81,8 +100,9 @@ for row in manifest:
  result.append(dict(unit_id=uid,grupo_id=row['grupo_id'],recurso=res,offset=row['offset'],estado=state,original=row['original'],es_revision=rev,texto_actual_campo=text))
 counts=collections.Counter(r['estado'] for r in result)
 verified=sum(counts[s] for s in ('TALK_BLOQUE_INSERTADO','SCRIPT_INSERTADO','CAMPO_COINCIDE_REVISION'))
-summary=dict(fecha=datetime.date.today().isoformat(),iso=str(dest),sha256=c.sha_file(dest),unidades_total=len(result),unidades_insertadas_verificadas=verified,porcentaje_unidades_tecnicas=round(100*verified/len(result),2),estados=dict(counts),recursos_compilados_releidos=proof,
- advertencias=['Porcentaje de unidades técnicas del manifiesto, no porcentaje del juego ni calidad editorial.','Los bloques talk incluyen unidades físicas de destino; no se cuentan los IDs de los catálogos reutilizados.','Campos modificados con reducciones requieren cotejo antes de sumarlos.','Texturas pendientes de revisión visual; textos fuera del manifiesto se contabilizan aparte.','Esta comprobación binaria no sustituye la prueba en PPSSPP.'])
+scope_total=len(result)-counts['DLC_NO_APORTADO']
+summary=dict(fecha=datetime.date.today().isoformat(),iso=str(dest),sha256=c.sha_file(dest),alcance='ISO_Y_DLC' if args.dlc_original is not None else 'SOLO_ISO_BASE',unidades_en_alcance=scope_total,unidades_dlc_no_aportado=counts['DLC_NO_APORTADO'],porcentaje_en_alcance=round(100*verified/scope_total,2) if scope_total else None,fuentes_editoriales_sha256=checks,unidades_total=len(result),unidades_insertadas_verificadas=verified,porcentaje_unidades_tecnicas=round(100*verified/len(result),2),estados=dict(counts),recursos_compilados_releidos=proof,
+ advertencias=['Porcentaje de unidades técnicas del manifiesto, no porcentaje del juego ni calidad editorial.','Los bloques talk incluyen unidades físicas de destino; no se cuentan los IDs de los catálogos reutilizados.','Campos modificados con reducciones requieren cotejo antes de sumarlos.','Texturas pendientes de revisión visual; textos fuera del manifiesto se contabilizan aparte.','Esta comprobación binaria no sustituye la prueba en PPSSPP.','En modo SOLO_ISO_BASE, DLC_NO_APORTADO no cuenta como insertado; el porcentaje global conserva el denominador completo.'])
 (reportdir/'cobertura_insercion_real.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2),encoding='utf8')
 with (reportdir/'cobertura_insercion_real.csv').open('w',encoding='utf-8-sig',newline='') as f:
  w=csv.DictWriter(f,fieldnames=list(result[0]));w.writeheader();w.writerows(result)
