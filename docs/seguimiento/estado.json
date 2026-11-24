@@ -102,7 +102,7 @@
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Recrear candidata ISO parcial con fuentes y datos actuales, ejecutar ROM-013 sobre ISO original y auditar ISO parcial con ROM-010. Cerrar falsos negativos del auditor central. No aumentar 21805/26258 hasta candidata completa ISO + cuatro EDAT autenticados. Meta 25956, faltan 4151.",
+  "criterio_siguiente": "Primero ISO sola autenticada y nueva auditoría de candidata real; luego cuatro DLC EDAT auténticos y candidato integral, auditar con ROM-010/013/014 y umbral ROM-012. No tocar el numerador 21805 sin prueba real.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -284,5 +284,13 @@
     "ppsspp": false,
     "runs_originales_canonicos": 17273,
     "cadenas_vacias_descartadas_de_runs": 4
+  },
+  "rom014": {
+    "informe": "docs/seguimiento/informes/ROM-014_autenticacion_origen.json",
+    "autenticacion_iso_obligatoria_en_auditor": true,
+    "hash_iso_esperado": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "regresiones_definidas": 3,
+    "ci": "pendiente de verificación en nuevo HEAD",
+    "unidades_nuevas_cotejadas": 0
   }
 }
