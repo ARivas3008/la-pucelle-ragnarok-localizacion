@@ -50,7 +50,10 @@
     "integracion_opcional_en_motor": true,
     "candidata_conjunta_ejecutada": false,
     "informe_gfx010": "docs/seguimiento/informes/GFX-010_iso_original_reproducida.json",
-    "piloto_gfx007_reproducido_en_iso_autentica": true
+    "piloto_gfx007_reproducido_en_iso_autentica": true,
+    "informe_gfx011": "docs/seguimiento/informes/GFX-011_otros_bgpack_original.json",
+    "recursos_adicionales_gfx011_inspeccionados": 6,
+    "recurso_ingles_world_map_pendiente": "wmap_03.txp"
   },
   "betatesting": {
     "certificacion_v019": false,
@@ -99,7 +102,7 @@
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Probar preflight ISO auténtica, integrar BGPACK gráfico autorizado en candidata textual y ejecutar QA; mantener los 263 grupos pendientes y el régimen ×5.",
+  "criterio_siguiente": "Priorizar cierre editorial 179 pendientes, tratamiento World Map GFX-011, corrección de composición en 4 capítulos, ISO conjunta y C/PPSSPP; no declarar 100% sin ello.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
