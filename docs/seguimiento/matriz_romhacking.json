@@ -128,6 +128,18 @@
       "tipo": "Regresión U+FFE5→CP932 y parser DAT/atlas",
       "estado": "B_test_sintetico_pendiente_qa",
       "evidencia": "scripts/test_corazon_original.py"
+    },
+    {
+      "id": "ROM-021",
+      "tipo": "BGPACK: rechazo total fuera de píxeles TXP autorizados con SHA fuente",
+      "estado": "test_B_pendiente_CI",
+      "evidencia": "scripts/verificar_bgpack_parche.py | scripts/test_verificar_bgpack_parche.py"
+    },
+    {
+      "id": "ROM-022",
+      "tipo": "BGPACK: cobertura de NISPACK y CLUT; no altera mapa y recursos no-textuales",
+      "estado": "sin_evidencia_C_ppsspp",
+      "evidencia": "docs/seguimiento/informes/ROM-004_proteccion_bgpack.json"
     }
   ]
 }

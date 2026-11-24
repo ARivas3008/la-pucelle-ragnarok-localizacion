@@ -26,3 +26,7 @@ Se revisaron 44 grupos editoriales del episodio Eringa y se clasificaron visualm
 ## RELEVO-006 — CENT-009, GFX-003, ROM-003
 
 Se aprobaron 43 grupos editoriales independientes en [CENT-009](informes/CENT-009.json), elevando lo conocido a 14.950/15.525. Un original real permitió identificar que el cierre `￥` del grupo 4268 codifica un **corazón**: CP932 `81 8F`, fnt índice 175 → GID99, atlas original; su visualización en la build parcheada sigue pendiente. [GFX-003](informes/GFX-003_inscripciones.json) mantiene sin cambiar dos texturas con inscripciones ambiguas. Matriz QA ampliada a 66 casos; ninguno ejecutado para v0.19.0. [RELEVO-007](prompts/SIGUIENTE_RELEVO.md) preserva el mandato recursivo.
+
+## RELEVO-007 (CENT-010 / ROM-004 / GFX-004)
+
+Se revisaron editorialmente [53 grupos de diálogo](informes/CENT-010.json), elevando el catálogo conocido a **15.003 / 15.525** (522 pendientes). Se añadió un [control preventivo de BGPACK](informes/ROM-004_proteccion_bgpack.json) para rechazar cambios ajenos a píxeles TXP expresamente autorizados con SHA fuente y preservar CLUT, offsets y contenedor. Se mantienen [inscripciones ambiguas de mapas](informes/GFX-004_dictamen_inscripciones.json) sin editar. La matriz tiene 70 casos, todos sin probar para v0.19.0. El relevo recursivo está en [SIGUIENTE_RELEVO.md](prompts/SIGUIENTE_RELEVO.md).
