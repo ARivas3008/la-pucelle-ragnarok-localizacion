@@ -5,8 +5,8 @@
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
-    "revisados": 14859,
-    "requieren_investigacion": 157
+    "revisados": 14956,
+    "requieren_investigacion": 60
   },
   "unidades": {
     "total": 26258,
@@ -80,29 +80,29 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-017",
+  "siguiente_tarea": "RELEVO-018",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 22,
-    "revisados": 487,
+    "pendientes": 4,
+    "revisados": 505,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": false
   },
   "editorial_catalogo": {
     "total_grupos_conocidos": 15525,
-    "revisados_en_reparto": 14859,
-    "pendientes_en_reparto": 157,
-    "pendientes_centrales": 22,
-    "pendientes_minimos": 179,
+    "revisados_en_reparto": 14956,
+    "pendientes_en_reparto": 60,
+    "pendientes_centrales": 4,
+    "pendientes_minimos": 64,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 487,
-    "revisados_editoriales_conocidos": 15346
+    "revisados_centrales": 505,
+    "revisados_editoriales_conocidos": 15461
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Se autenticaron 22659 cadenas de origen ISO, NO inserciones; reconstruir y releer candidata española real, medir pendientes y resolver 4 DLC originales antes de publicar >=25956/26258. Ejecutar ROM-010/012/013/015 y pruebas PPSSPP cuando estén disponibles.",
+  "criterio_siguiente": "Cierre editorial pendiente 64: investigar algoritmo y combinaciones de name.dat jap/ing 58, profecía original fragmentada 7952, tres prefijos magic.dat reales vía EDAT, menú DLC_00 1843, excluir técnicamente el falso positivo ritem 1630 conservando bytes. No aprobar por cuota ni declarar 100% sin pruebas de esas condiciones.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -305,5 +305,28 @@
     "unidades_graficas_fuera_del_cotejo_textual": 62,
     "unidades_nuevas_insertadas_y_cotejadas": 0,
     "ppsspp": false
+  },
+  "cent016": {
+    "corpus09_revisados_nuevos": 14,
+    "corpus11_revisados_nuevos": 55,
+    "corpus02_dlc_tutorial_revisados_nuevos": 28,
+    "centrales_japones_revisados_nuevos": 18,
+    "total_editoriales_nuevos": 115,
+    "pendientes_antes": 179,
+    "pendientes_ahora": 64,
+    "pendientes_por_clase": {
+      "generador_name.dat_japones": 27,
+      "generador_name.dat_ingles": 31,
+      "profecia_fragmentada_ISO": 1,
+      "falso_positivo_no_textual_ritem": 1,
+      "centrales_indecidibles": 4
+    },
+    "fuentes": [
+      "ISO original auténtica y SCRIPTPACK talk06/10/11/15/16/17",
+      "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "corpus/02/entrada.csv y los contextos japonés"
+    ],
+    "nota": "Los 115 están lingüísticamente revisados; no insertados ni probados con DLC ni PPSSPP. Los 58 fragmentos generados siguen pendientes de conocer combinatoria/gramática; hay 1 falso positivo fuera del alcance traductible.",
+    "reporte": "docs/seguimiento/informes/CENT-016_cierre_parcial_y_bloqueos.json"
   }
 }
