@@ -1,138 +1,41 @@
-# LA PUCELLE: RAGNAROK — RELEVO-011 EXTENDIDO: CENT-014, ROM-008, GFX-008 Y QA
+# LA PUCELLE: RAGNAROK — RELEVO-012 QUÍNTUPLE: CENT-014, ROM-008, GFX-008 Y QA
 
-**Corte:** 23/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo010-extendido-cent013-rom007-20261123`. HEAD previo al cierre documental: `20667bdd134cba8409ece01dce6934ee58675e23`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.
+**Corte:** 23/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo011-rom008-preflight-20261123`. HEAD del relevo anterior: `654cdbfb6dfcc7ee7b1f711887546afa8855d56a`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.
 
-## 0. NUEVO RÉGIMEN DE EJECUCIÓN EXTENDIDA OBLIGATORIA
+## 0. RÉGIMEN QUÍNTUPLE OBLIGATORIO — MULTIPLICADOR ×5
 
-A partir de este relevo, debes ejecutar sesiones de trabajo intensivo, con una carga de trabajo orientativa equivalente a aproximadamente 20 minutos de procesamiento activo, en lugar de los relevos breves anteriores de aproximadamente seis minutos.
+En cada relevo, ejecutar cinco veces el trabajo objetivo del régimen extendido original, sin multiplicación acumulativa ni espera artificial. Los objetivos son condicionales a tareas y recursos auténticos; no se inventan aprobaciones, pruebas ni commits.
 
-La duración es una referencia de planificación y no sustituye los objetivos técnicos. No esperes artificialmente, no desperdicies recursos y no inventes avances para satisfacer una duración.
+### 0.1. Metas cuantitativas
+- Traducción: 600–900 grupos investigados/revisados, o todos los pendientes auténticos si son menos.
+- Gráficos: 50–100 recursos investigados, editados o integrados, diferenciando cada estado.
+- Romhacking: 15–25 intervenciones sustanciales.
+- Pruebas técnicas: 75–150 comprobaciones significativas.
+- Betatesting: 50–100 casos auténticos en PPSSPP cuando sea posible.
+- Integración: hasta cinco ciclos completos de construcción, auditoría, corrección y reconstrucción.
+- Documentación: cinco consolidaciones, sin reemplazar implementación.
+- GitHub: publicar todos los cambios verificables, sin commits artificiales.
 
-**El objetivo es multiplicar aproximadamente por tres la cantidad de trabajo útil realizado en cada ejecución.**
+### 0.2. Cinco macrolotes intensivos
+**A — Auditoría:** verificar HEAD, PR, CI, inventarios, originales, dependencias, defectos, pendientes, criterios de aceptación y entorno.
+**B — Traducción:** investigar grupos consecutivos, reconstruir opcodes y hablantes, contrastar japonés/inglés, corregir estilo y términos, preservar controles y actualizar CSV.
+**C — Gráficos y romhacking:** investigar TXP/CLUT, editar y reconstruir recursos, integrar solo deltas autorizados, corregir motor, generar candidatas y auditar aislamiento.
+**D — QA y betatesting:** comprobar integridad, glifos, controles y reconstrucciones; investigar fallos, corregirlos, repetir pruebas y registrar evidencia A/B/C.
+**E — Consolidación:** actualizar matrices, defectos, inventarios, indicadores, pruebas, PR/CI y siguiente relevo.
 
-### 0.1. Cantidad de trabajo por ejecución
+### 0.3. Redistribución obligatoria
+Si faltan DLC, continuar ISO base; si falta PPSSPP, continuar QA estático e integración; si faltan diálogos contextualizados, continuar gráficos y romhacking; si un gráfico está bloqueado, estudiar otro. No cerrar por completar un único lote cuando quedan tareas independientes.
 
-Siempre que existan recursos y tareas aplicables, cada relevo deberá intentar completar:
+### 0.4. Calidad
+Cada avance identificará recurso, ID, antes/después, prueba, evidencia, defectos y commit/PR si existen. Distinguir investigación, edición, integración y certificación. No duplicar registros ni multiplicar porcentajes históricos.
 
-| Área | Carga de trabajo objetivo |
-|---|---|
-| Traducción | 120–180 grupos investigados y revisados |
-| Edición gráfica | 10–20 unidades gráficas investigadas o intervenidas |
-| Romhacking | 3–5 mejoras, experimentos o correcciones técnicas sustanciales |
-| Pruebas técnicas | 15–30 comprobaciones significativas, según aplicabilidad |
-| Betatesting | 10–20 casos funcionales ejecutados cuando exista candidata y emulador |
-| Integración | Construcción y auditoría de una candidata cuando sea posible |
-| Documentación | Consolidación completa de las evidencias obtenidas |
-| GitHub | Publicación de todos los avances verificables |
+### 0.5. Finalización
+Solo tras carga sustancial verificable, agotamiento de tareas ejecutables, límite real del entorno o 100 % certificado en las cuatro áreas. Nunca esperar artificialmente.
 
-Estos valores son objetivos de productividad, no cuotas de aprobación. Si una tarea necesita investigación extensa, dedica el esfuerzo necesario aunque produzca menos elementos aprobados.
+### 0.6. Herencia permanente
+Conservar íntegramente esta sección 0 y la sección 14 de obligación recursiva en todos los relevos. Multiplicador ×5 permanente sobre el régimen original, nunca ×25. **EJECUTAR CINCO VECES MÁS TRABAJO OBJETIVO CON AUTENTICIDAD E INTEGRIDAD.**
 
-No apruebes traducciones incompletas, no inventes gráficos ni declares pruebas inexistentes para alcanzar las cifras.
-
-### 0.2. Ejecución mediante macrolotes
-
-Divide internamente cada relevo en cinco macrolotes de trabajo.
-
-**Macrolote A — Auditoría y recuperación del estado**
-
-- Consultar GitHub.
-- Verificar HEAD, PR, commits y CI.
-- Identificar todos los grupos pendientes.
-- Comprobar disponibilidad de originales, candidata y herramientas.
-- Determinar tareas independientes y dependencias.
-
-**Macrolote B — Traducción intensiva**
-
-- Revisar varios lotes consecutivos de 40–60 grupos.
-- Reconstruir diálogos fragmentados.
-- Consultar originales japoneses e ingleses.
-- Investigar términos y controles.
-- Corregir problemas narrativos y terminológicos.
-- Registrar los resultados en los CSV correspondientes.
-
-**Macrolote C — Implementación gráfica y romhacking**
-
-- Ejecutar varios experimentos técnicos.
-- Modificar herramientas y código.
-- Resolver formatos pendientes.
-- Probar extracción, edición, reconstrucción y reinserción.
-- Construir una candidata cuando sea posible.
-- Verificar que no se alteren recursos ajenos a la traducción.
-
-**Macrolote D — Validación y corrección**
-
-- Ejecutar las pruebas disponibles.
-- Investigar los fallos.
-- Corregir los defectos encontrados.
-- Volver a ejecutar las pruebas.
-- Verificar la candidata en PPSSPP cuando exista un entorno real disponible.
-
-**Macrolote E — Consolidación**
-
-- Actualizar los indicadores.
-- Registrar evidencias.
-- Consolidar cambios.
-- Crear PR.
-- Comprobar GitHub Actions.
-- Fusionar únicamente después de aprobar las validaciones.
-- Generar el siguiente relevo.
-
-### 0.3. Prohibición de finalizar prematuramente
-
-No debes finalizar una ejecución únicamente porque:
-
-- Terminaste un lote de traducción.
-- Creaste una herramienta de auditoría.
-- Añadiste pruebas sintéticas.
-- Actualizaste documentación.
-- Encontraste un bloqueo.
-- Publicaste un commit.
-- GitHub Actions terminó correctamente.
-- Completaste una de las cuatro áreas.
-
-Después de completar cada macrolote, consulta nuevamente las tareas pendientes y continúa con otra tarea independiente que pueda ejecutarse.
-
-Si la ausencia de DLC impide una tarea, continúa con la ISO base.
-
-Si PPSSPP no está disponible, continúa con traducción, edición gráfica y construcción estática.
-
-Si no puedes aprobar un diálogo fragmentado, investiga otro grupo.
-
-Si una investigación gráfica está bloqueada, trabaja con otras texturas.
-
-**No dediques el relevo entero a documentar reiteradamente bloqueos que ya están identificados.**
-
-### 0.4. Prioridad a la implementación real
-
-Orden de prioridad:
-
-1. Resolver defectos reales del parche.
-2. Completar traducciones auténticas pendientes.
-3. Integrar traducciones aprobadas.
-4. Editar e integrar gráficos traducibles.
-5. Construir candidatas funcionales.
-6. Ejecutar pruebas reales.
-7. Crear pruebas de regresión.
-8. Documentar los resultados.
-
-La documentación es obligatoria, pero no puede sustituir el trabajo de implementación.
-
-No generar auditores redundantes cuando ya existe una herramienta suficiente. Utilizar las herramientas existentes sobre recursos reales y mejorar su funcionamiento cuando se detecten limitaciones concretas.
-
-### 0.5. Condiciones para finalizar una sesión
-
-Finaliza únicamente cuando se cumpla alguna de estas condiciones:
-
-- Se haya completado una carga de trabajo extensa y sustancial.
-- Se hayan agotado las tareas ejecutables con los recursos disponibles.
-- Existan límites efectivos del entorno que impidan continuar.
-- Los cuatro apartados hayan alcanzado el 100 % verificado.
-
-En caso de limitaciones, entregar todo el trabajo efectivamente realizado, sin prometer ejecución futura ni trabajo en segundo plano.
-
-**La sección 0 completa deberá heredarse obligatoriamente en todos los relevos posteriores.**
-
----
+**Resultado RELEVO-011 verificado:** ROM-008 añadió autenticación SHA-256 de ISO base antes de generar salida y protección contra sobrescritura del original, en `parcheador/app/scripts/integracion_total.py`; informe `docs/seguimiento/informes/ROM-008_preflight_iso.json`. No se construyó ISO ni se ejecutó PPSSPP en este relevo. CI del nuevo PR pendiente de comprobar. Mantener 15.262/15.525, 21.805/26.258 históricos, 16 pilotos gráficos, 0 certificaciones C. Próxima acción: probar preflight con ISO auténtica, ejecutar QA completo, integrar delta BGPACK en candidata conjunta y revisar 263 grupos restantes. No alterar los numeradores sin pruebas.
 
 ## 1. Estado verificado y misión
 

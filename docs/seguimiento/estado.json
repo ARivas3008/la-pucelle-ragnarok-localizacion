@@ -72,7 +72,7 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-011",
+  "siguiente_tarea": "RELEVO-012",
   "grupos_centrales": {
     "total": 509,
     "pendientes": 58,
@@ -94,7 +94,7 @@
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Verificar anclas con originales, compilar candidata ISO base y validar antes de incrementar cobertura; revisar restantes grupos y gráficos, y ejecutar PPSSPP.",
+  "criterio_siguiente": "Probar preflight ISO auténtica, integrar BGPACK gráfico autorizado en candidata textual y ejecutar QA; mantener los 263 grupos pendientes y el régimen ×5.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -188,5 +188,13 @@
     "prueba_estatica_grafica": true,
     "bloques_legados_sha_y_texto_coinciden": 109,
     "verificador_aislamiento_archivos_iso": 23
+  },
+  "rom008_preflight": {
+    "codigo_commit": "4f79ca62c37193b66c2b9f7c2e110c9978e4b1bb",
+    "informe": "docs/seguimiento/informes/ROM-008_preflight_iso.json",
+    "iso_base_sha_obligatorio": true,
+    "iso_candidata_nueva": false,
+    "ppsspp": false,
+    "ci_nuevo_pendiente": true
   }
 }
