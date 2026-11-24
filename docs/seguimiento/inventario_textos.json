@@ -5,8 +5,8 @@
   "alcance": "indice_de_los_15016_grupos_actuales_no_censo_completo_del_juego",
   "resumen_corpus": {
     "total": 15016,
-    "revisados": 14956,
-    "requieren_investigacion": 60
+    "revisados": 14957,
+    "requieren_investigacion": 59
   },
   "corpus": [
     {
@@ -7016,7 +7016,7 @@
     {
       "numero": "08",
       "ruta_revision": "corpus/08/revision.csv",
-      "sha": "4e9b80b9ed2bcd05122987790cadd41a0d7488a4",
+      "sha": "d80a7772656def40b2916aea3f4b49f8114fe01f",
       "revisados": [
         7944,
         7945,
@@ -7026,6 +7026,7 @@
         7949,
         7950,
         7951,
+        7952,
         7953,
         7954,
         7955,
@@ -8024,9 +8025,7 @@
         8948,
         8949
       ],
-      "requieren_investigacion": [
-        7952
-      ]
+      "requieren_investigacion": []
     },
     {
       "numero": "09",
@@ -15690,13 +15689,13 @@
   },
   "resumen_editorial_ampliado": {
     "total_grupos_catalogo": 15525,
-    "revisados_del_reparto": 14956,
-    "requieren_investigacion_del_reparto": 60,
+    "revisados_del_reparto": 14957,
+    "requieren_investigacion_del_reparto": 59,
     "centrales_pendientes": 3,
-    "pendientes_minimos_conocidos": 63,
+    "pendientes_minimos_conocidos": 62,
     "alcance_aun_no_exhaustivo": true,
     "pendientes_centrales": 3,
     "revisados_centrales": 506,
-    "revisados_editoriales_conocidos": 15462
+    "revisados_editoriales_conocidos": 15463
   }
 }
