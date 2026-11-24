@@ -5,8 +5,8 @@
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
-    "revisados": 14811,
-    "requieren_investigacion": 205
+    "revisados": 14814,
+    "requieren_investigacion": 202
   },
   "unidades": {
     "total": 26258,
@@ -48,7 +48,9 @@
     "informe_gfx007": "docs/seguimiento/informes/GFX-007_capitulos_piloto.json",
     "informe_gfx008": "docs/seguimiento/informes/GFX-008_integracion_candidata.json",
     "integracion_opcional_en_motor": true,
-    "candidata_conjunta_ejecutada": false
+    "candidata_conjunta_ejecutada": false,
+    "informe_gfx010": "docs/seguimiento/informes/GFX-010_iso_original_reproducida.json",
+    "piloto_gfx007_reproducido_en_iso_autentica": true
   },
   "betatesting": {
     "certificacion_v019": false,
@@ -75,7 +77,7 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-014",
+  "siguiente_tarea": "RELEVO-015",
   "grupos_centrales": {
     "total": 509,
     "pendientes": 58,
@@ -85,13 +87,13 @@
   },
   "editorial_catalogo": {
     "total_grupos_conocidos": 15525,
-    "revisados_en_reparto": 14811,
-    "pendientes_en_reparto": 205,
+    "revisados_en_reparto": 14814,
+    "pendientes_en_reparto": 202,
     "pendientes_centrales": 58,
-    "pendientes_minimos": 263,
+    "pendientes_minimos": 260,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
     "revisados_centrales": 451,
-    "revisados_editoriales_conocidos": 15262
+    "revisados_editoriales_conocidos": 15265
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
@@ -206,5 +208,15 @@
     "ci": "pendiente",
     "candidata_nueva": false,
     "ppsspp": false
+  },
+  "centr014": {
+    "grupos_iso_pendientes_cotejados": 118,
+    "unidades_en_iso_referenciadas": 440,
+    "grupos_revisados_nuevos": 3,
+    "segmentos_talk_anclados": 6,
+    "fuente": "ISO auténtica SHA 4360707b...",
+    "qa_nuevo": "pendiente_ci",
+    "ppsspp": false,
+    "informe": "docs/seguimiento/informes/CENT-014_origen_recuperado.json"
   }
 }
