@@ -5,8 +5,8 @@
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
-    "revisados": 14957,
-    "requieren_investigacion": 59
+    "revisados": 14961,
+    "requieren_investigacion": 55
   },
   "unidades": {
     "total": 26258,
@@ -90,19 +90,19 @@
   },
   "editorial_catalogo": {
     "total_grupos_conocidos": 15525,
-    "revisados_en_reparto": 14957,
-    "pendientes_en_reparto": 59,
+    "revisados_en_reparto": 14961,
+    "pendientes_en_reparto": 55,
     "pendientes_centrales": 3,
-    "pendientes_minimos": 62,
+    "pendientes_minimos": 58,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
     "revisados_centrales": 506,
-    "revisados_editoriales_conocidos": 15463
+    "revisados_editoriales_conocidos": 15467
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Traducción editorial catalogada 15463/15525=99,60%; no 100%. Falta identificar algoritmo y combinaciones de 27 fragmentos japoneses DLC y 31 ingleses ISO de name.dat (ISO tiene 307 slots, 3 clases, 17 no manifiestos); original EDAT para 3 prefijos magic.dat; registro 1630 es falso positivo binario validado, no texto. Cerrar brechas antes de afirmar cobertura editorial total, no confundir revisión con inserción.",
+  "criterio_siguiente": "Traducción 15467/15525 (99,63%); faltan 58 registros: 54 fragmentos de generador, 3 magic.dat DLC, 1 falso positivo ritem documentado. MIPS confirma clase1 sufijo, 2 prefijo, 3 orden aleatorio, nombre máximo 16 bytes, slot máximo11 bytes texto. Validar 27 fragmentos ISO contra nombres compuestos simulados y 27 DLC con originales antes de aprobar. También hay 10 cadenas léxicas de ISO name.dat fuera del manifiesto.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -341,5 +341,32 @@
     "fragmentos_generador_pendientes_para_traduccion": 58,
     "frases_de_generador_ejecutadas_en_ppsspp": 0,
     "aprobaciones_generador_nuevas": 0
+  },
+  "cent018": {
+    "mips_inspeccion": {
+      "ELF_sha256": "2b9a1a9864f3b236e83a2848f839023e92dcb7a5272bcb430cef527eafb563f6",
+      "routine": "0x0882ec80-0x0882ed68",
+      "classes": {
+        "1": "sufijo",
+        "2": "prefijo",
+        "3": "aleatorio_ambos"
+      },
+      "concat_sin_espacio": true,
+      "max_bytes": 16,
+      "name_dat_slot_max_bytes": 11
+    },
+    "fonemas_originales_preservados_y_revisados": [
+      14062,
+      14105,
+      14115,
+      14180
+    ],
+    "informe": "docs/seguimiento/informes/CENT-017_name_dat_clases.json",
+    "simulador": "scripts/cent018_modelo_nombres.py",
+    "pruebas": "tests/test_cent018_modelo_nombres.py",
+    "pendientes_del_catalogo": 58,
+    "pendientes_del_generador": 54,
+    "edat_original_para_27_fragmentos_japoneses": false,
+    "ppsspp": false
   }
 }
