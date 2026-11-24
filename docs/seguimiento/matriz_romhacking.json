@@ -132,8 +132,9 @@
     {
       "id": "ROM-021",
       "tipo": "BGPACK: rechazo total fuera de píxeles TXP autorizados con SHA fuente",
-      "estado": "test_B_pendiente_CI",
-      "evidencia": "scripts/verificar_bgpack_parche.py | scripts/test_verificar_bgpack_parche.py"
+      "estado": "B_pruebas_sinteticas_aprobadas_sin_iso_parcheada_ni_ppsspp",
+      "evidencia": "scripts/verificar_bgpack_parche.py | scripts/test_verificar_bgpack_parche.py",
+      "ci": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45296899915"
     },
     {
       "id": "ROM-022",

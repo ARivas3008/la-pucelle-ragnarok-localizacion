@@ -127,5 +127,14 @@
     "certificacion_de_candidata_v019": false,
     "comprobacion_de_riesgo": "Permitir únicamente píxeles de TXP con SHA fuente explícito; los demás bytes del NISPACK no pueden cambiar",
     "informe": "docs/seguimiento/informes/ROM-004_proteccion_bgpack.json"
+  },
+  "ci_relevo007": {
+    "commit_evaluado": "76b9ae83b400cb1524fb213742674c7508b5e3e4",
+    "qa_corpus_run": 45296899753,
+    "qa_inventarios_rom_run": 45296899915,
+    "qa_corpus_url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45296899753",
+    "qa_inventarios_url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45296899915",
+    "resultado": "success_ambos",
+    "tipo": "B: validadores y tests sintéticos; NO C de PPSSPP"
   }
 }
