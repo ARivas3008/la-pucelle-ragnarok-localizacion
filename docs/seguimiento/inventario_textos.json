@@ -1,7 +1,7 @@
 {
   "esquema": "seguimiento_textos_1",
   "fecha": "2026-11-23",
-  "commit_fuente": "7c37c973004a6ac8aad135038944a3c323c22c03",
+  "commit_fuente": "469f49ca3b2151baed6e50633ae78159d3d55b81",
   "alcance": "indice_de_los_15016_grupos_actuales_no_censo_completo_del_juego",
   "resumen_corpus": {
     "total": 15016,
@@ -8031,7 +8031,7 @@
     {
       "numero": "09",
       "ruta_revision": "corpus/09/revision.csv",
-      "sha": "5e1d74f5c3ad36a4181c52a83849dfb4b9c67507",
+      "sha": "3aa2e9d542a6efdbd06a00200a55626be260da72",
       "revisados": [
         8950,
         8951,
