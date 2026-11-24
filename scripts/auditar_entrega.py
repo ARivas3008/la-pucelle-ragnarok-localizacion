@@ -34,6 +34,15 @@ def load(iso,dlc=None):
    for item in nispack(im.read(*rec[path])):buf['ISO'+path+'/'+item['name']]=item['content']
  buf['ISO/PSP_GAME/SYSDIR/EBOOT.BIN']=im.read(*rec['/PSP_GAME/SYSDIR/EBOOT.BIN'])
  return buf
+def revisiones_completas(repo,manifest):
+ """Combina 15016 revisiones distribuidas y 509 centrales sin inventar
+ aprobaciones. Fallo cerrado si un ID falta, está duplicado o no es válido.
+ """
+ base,_,states=c.read_reviews(repo,False)
+ merged,_,_=merge_central(repo,base,manifest,[],states,expected=509)
+ if len(merged)!=15525:raise ValueError('Catálogo editorial incompleto para auditoría')
+ return merged
+
 ap=argparse.ArgumentParser();ap.add_argument('--entrega',type=Path,required=True);ap.add_argument('--iso-original',type=Path,required=True);ap.add_argument('--dlc-original',type=Path,help='Cuatro EDAT originales; omitir para auditoría ISO exclusivamente');args=ap.parse_args()
 reportdir=args.entrega/'informes' if args.entrega else B/'informes'
 dest=args.entrega/'JUEGO_PARA_PPSSPP/La_Pucelle_Ragnarok_ES.iso' if args.entrega else B/'prueba_correcciones/La_Pucelle_Ragnarok_ES_PRELIMINAR.iso'
@@ -41,9 +50,7 @@ if not dest.is_file():raise FileNotFoundError('No existe la ISO candidata: '+str
 actual=load(dest,dest.parent/'ULJS00244' if args.dlc_original else None)
 original=load(args.iso_original,args.dlc_original)
 manifest=list(csv.DictReader(c.DATA.open(encoding='utf-8-sig',newline='')))
-reviews,_,review_states=c.read_reviews(R,False)
-reviews,_,_=merge_central(R,reviews,manifest,[],review_states,expected=509)
-if len(reviews)!=15525:raise ValueError('Faltan revisiones del catálogo central')
+reviews=revisiones_completas(R,manifest)
 intervals={};script_units=set();proof=[]
 for folder in ('dialogos_compilados','scripts_compilados'):
  suffix='.talk.json' if folder=='dialogos_compilados' else '.script.json'
