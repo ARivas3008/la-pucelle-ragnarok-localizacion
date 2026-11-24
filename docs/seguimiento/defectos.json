@@ -44,6 +44,20 @@
       "fuente": "docs/seguimiento/informes/CENT-009.json",
       "prueba_ppsspp_v019": null,
       "criterio": "Debe dibujarse corazón fontB GID99, no yen o glifo vacío; preservar offset/token de fuente"
+    },
+    {
+      "id": "DEF-007",
+      "titulo": "Riesgo de decodificación: 16 títulos 480×170 y 3 TXP multibanco",
+      "estado": "riesgo_tecnico_abierto_no_defecto_visual_demostrado",
+      "fuente": "docs/seguimiento/informes/GFX-006_estructura_62.json",
+      "prueba_ppsspp_v019": null
+    },
+    {
+      "id": "DEF-008",
+      "titulo": "PVD original declara menos sectores que el archivo físico",
+      "estado": "caracteristica_original_confirmada_no_corregir_a_ciegas",
+      "fuente": "docs/seguimiento/informes/ROM-006_layout_fijo.json",
+      "prueba_ppsspp_v019": null
     }
   ]
 }

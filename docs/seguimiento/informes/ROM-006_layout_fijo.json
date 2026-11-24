@@ -1,0 +1,26 @@
+{
+  "id": "ROM-006",
+  "fecha": "2026-11-23",
+  "tipo": "A original: análisis PVD; B: verificador layout fijo y fixtures",
+  "iso_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "original": {
+    "bytes": 858937344,
+    "archivos": 23,
+    "sectores_fisicos": 419403,
+    "sectores_declarados_pvd": 380120,
+    "diferencia_sectores": 39283,
+    "volumen_declarado_bytes": 778485760,
+    "nota": "PVD dual endian coincide; el original contiene recursos físicos más allá de la longitud declarada. No corregir automáticamente ni presumir corrupción."
+  },
+  "candidata_real_disponible": false,
+  "nuevas_inserciones": 0,
+  "script": "scripts/verificar_iso_layout_fijo.py",
+  "tests": "scripts/test_verificar_iso_layout_fijo.py",
+  "pruebas_B_estado": "pendiente CI",
+  "limitaciones": [
+    "Modo fijo exige tamaño, mapa de archivos y directorios idénticos; no admite reconstrucción por anexado o reubicación.",
+    "Coteja todo byte fuera de los archivos autorizados, incluidas regiones no indexadas y PVD. Complementa, no sustituye, verificador diferencial de archivos ni inspección interna.",
+    "No declara comparación real original/candidata ni prueba PPSSPP."
+  ],
+  "siguiente": "ROM-007: auditar append y regiones permitidas en candidata real; conservar metadata original no autorizada."
+}
