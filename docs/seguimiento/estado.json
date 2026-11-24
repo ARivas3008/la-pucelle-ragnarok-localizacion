@@ -272,7 +272,7 @@
     "unidades_japones_original_cotejadas": 20083,
     "errores_origen_detectados": 0,
     "strings_talk_originales": 44751,
-    "runs_mixtos_originales": 1442,
+    "runs_mixtos_originales": 1439,
     "runs_de_una_mapeada_y_una_no_mapeada": 376,
     "cadenas_fisicas_sin_id_de_manifesto": 24668,
     "original_START_LZS_referencias_solapadas": 0,
@@ -281,6 +281,8 @@
     "revisiones_centrales_que_ahora_relee": 509,
     "grupos_centrales_mapeados_en_manifiesto_unidades": 1053,
     "unidades_nuevas_insertadas_y_cotejadas": 0,
-    "ppsspp": false
+    "ppsspp": false,
+    "runs_originales_canonicos": 17273,
+    "cadenas_vacias_descartadas_de_runs": 4
   }
 }
