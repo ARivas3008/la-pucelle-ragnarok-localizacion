@@ -9,6 +9,13 @@ from fuentes_es import decode_es
 from recompilar_talk import canon
 from revisiones_coordinadas import merge_central
 from nis_formats import lzs_header
+ISO_BASE_SHA256='4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5'
+def autenticar_iso_original(iso):
+ if not iso.is_file():raise ValueError('ISO original inexistente: '+str(iso))
+ digest=c.sha_file(iso)
+ if digest!=ISO_BASE_SHA256:
+  raise ValueError('ISO original de versión o procedencia no reconocida: '+digest)
+ return digest
 def load(iso,dlc=None):
  im=c.Image(iso);rec={p:(o,n) for p,o,n,_ in im.records()};buf={}
  packs=[('ISO_START',im.read(*rec['/PSP_GAME/USRDIR/START_JP.LZS']))]
@@ -46,6 +53,7 @@ def revisiones_completas(repo,manifest):
 ap=argparse.ArgumentParser();ap.add_argument('--entrega',type=Path,required=True);ap.add_argument('--iso-original',type=Path,required=True);ap.add_argument('--dlc-original',type=Path,help='Cuatro EDAT originales; omitir para auditoría ISO exclusivamente');args=ap.parse_args()
 reportdir=args.entrega/'informes' if args.entrega else B/'informes'
 dest=args.entrega/'JUEGO_PARA_PPSSPP/La_Pucelle_Ragnarok_ES.iso' if args.entrega else B/'prueba_correcciones/La_Pucelle_Ragnarok_ES_PRELIMINAR.iso'
+autenticar_iso_original(args.iso_original)
 if not dest.is_file():raise FileNotFoundError('No existe la ISO candidata: '+str(dest))
 actual=load(dest,dest.parent/'ULJS00244' if args.dlc_original else None)
 original=load(args.iso_original,args.dlc_original)
