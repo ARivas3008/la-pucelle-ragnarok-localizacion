@@ -45,7 +45,8 @@ def scoped_segments(doc,manifest,reviews,buffers,metas,runs,legacy=()):
     if not doc:return [],set()
     if doc.get("schema")!=1:raise RevisionError("Esquema de segmentos anclados inválido")
     sources=doc["recursos"];selected=[];blocked=set();seen=set()
-    existing={(s["recurso"],s["offset"]) for s in legacy}
+    existing={}
+    for s in legacy:existing.setdefault((s["recurso"],s["offset"]),[]).append(s)
     index={(r["recurso"],int(r["offset"])):r for r in manifest if r["recurso"] in buffers}
     byres={}
     for row in doc["segmentos"]:
@@ -56,7 +57,7 @@ def scoped_segments(doc,manifest,reviews,buffers,metas,runs,legacy=()):
                 raise RevisionError("SHA de recurso original distinto: "+res)
             byres[res]={r[0]["offset"]:r for r in runs(buffers[res],metas[res])}
         key=(res,off)
-        if key in seen or key in existing:raise RevisionError("Segmento duplicado o solapado con aprobación previa: "+str(key))
+        if key in seen:raise RevisionError("Segmento anclado duplicado: "+str(key))
         seen.add(key);run=byres[res].get(off)
         if not run or lines_sha(run)!=row["sha256_lineas"]:
             raise RevisionError("Cadenas originales no coinciden: "+str(key))
@@ -67,6 +68,10 @@ def scoped_segments(doc,manifest,reviews,buffers,metas,runs,legacy=()):
             raise RevisionError("Relación grupo/unidad no coincide: "+str(key))
         if any(reviews.get(g,{}).get("estado")!="revisado" for g in gids):
             raise RevisionError("Segmento con grupo sin revisión: "+str(key))
+        if key in existing:
+            for previous in existing[key]:
+                if previous.get("original_hex")!=[x["raw"].hex() for x in run] or previous.get("es")!=row["es"]:
+                    raise RevisionError("Conflicto con aprobación previa: "+str(key))
         if not isinstance(row["es"],str) or not row["es"].strip():
             raise RevisionError("Segmento vacío: "+str(key))
         blocked.update(targets)

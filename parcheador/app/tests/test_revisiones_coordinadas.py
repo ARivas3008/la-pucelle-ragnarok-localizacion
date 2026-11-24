@@ -59,4 +59,13 @@ class TestCoordinacion(unittest.TestCase):
     def test_no_legacy_override(self):
         res,raw,meta,manifest,rev,doc=self.fixture()
         with self.assertRaises(RevisionError):catalog(manifest,rev,{res:raw},{res:meta},segments=[dict(recurso=res,offset=doc["segmentos"][0]["offset"])],scoped=doc)
+    def test_preserve_preexisting_approved_segment(self):
+        res,raw,meta,manifest,rev,doc=self.fixture()
+        row=doc["segmentos"][0]
+        run=runs(raw,meta)[0]
+        prior=dict(recurso=res,offset=row["offset"],grupo_id="legacy",original_hex=[x["raw"].hex() for x in run],es=row["es"])
+        trie,_=catalog(manifest,rev,{res:raw},{res:meta},segments=[prior],scoped=doc)
+        candidates=trie["Hello"]["world"][None]
+        self.assertEqual(len(candidates),2)
+        self.assertTrue(any(c["solo_origen"] for c in candidates))
 if __name__=="__main__":unittest.main()
