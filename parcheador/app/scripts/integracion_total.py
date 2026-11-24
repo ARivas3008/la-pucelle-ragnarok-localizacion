@@ -8,7 +8,8 @@ from nis_formats import nispack,lzs_decompress
 from contenedores import reconstruir_dat,reconstruir_nispack
 from iso_reubicar import anexar_recurso
 from integrar_scripts_v014 import load_rows,plan
-from fuentes_es import add_spanish_fonts
+from fuentes_es import add_spanish_fonts,missing_render_glyphs
+from nombres_fuera_manifiesto import aplicar as nombres_extra
 from atlas_ui_es import apply as atlas
 from formato_talk import inspect
 from recompilar_talk import catalog,compile_one
@@ -134,6 +135,10 @@ def run(args):
     if c.sh(members[name])!=d['nuevo_sha256']:raise ValueError('Delta de tabla incorrecto')
   proof[key]=dict(fuentes=add_spanish_fonts(members),atlas=atlas(members),etiquetas=etiquetas(key,original,members,manifest,reviews))
   proof[key]['campos']=campos(key,original,members,manifest,reviews)
+  if key=='ISO_START':
+   sidecar=c.ROOT/'datos/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv'
+   if not sidecar.is_file():sidecar=Path(args.repo_directorio)/'data/control/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv'
+   proof[key]['nombres_fuera_manifiesto']=nombres_extra(original,members,manifest,sidecar,missing_render_glyphs)
  metas={res:inspect(raw) for res,raw in buffers.items()}
  segments=json.loads((c.ROOT/'datos/segmentos_talk_revisados.json').read_text(encoding='utf8'))
  extra=c.ROOT/'datos/segmentos_hymt2_aprobados.json'

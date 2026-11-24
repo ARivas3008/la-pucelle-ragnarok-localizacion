@@ -37,6 +37,7 @@ def make_resources(manifest:Path, packer:Path, dest:Path):
     # Informe editorial de 4507 unidades, sin binarios comerciales.
     entries['datos/estado_unificado_66.csv']=(ROOT/'informes/estado_unificado_66.csv').read_bytes()
     entries['datos/mapa_26258_unidades.csv']=manifest.read_bytes()
+    entries['datos/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv']=(ROOT.parent/'data/control/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv').read_bytes()
     editorial = {}
     for n in range(1,16):
         rel=f'corpus/{n:02d}/revision.csv'
