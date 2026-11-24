@@ -24,5 +24,37 @@
   "script_local_nombre": "rom013_iso_talk_audit.py",
   "nuevas_unidades_insertadas_certificadas": 0,
   "objetivo_minimo_integral": 25956,
-  "certificacion_integral_alcanzada": false
+  "certificacion_integral_alcanzada": false,
+  "bloques_mixtos_por_forma": {
+    "una_cadena_catalogada_una_omitada": 376,
+    "dos_catalogadas_una_omitada": 305,
+    "tres_catalogadas_una_omitada": 177,
+    "cuatro_catalogadas_una_omitada": 158,
+    "cinco_catalogadas_una_omitada": 88,
+    "una_catalogada_dos_omitidas": 61,
+    "otros": 277
+  },
+  "top_recursos_mixtos": [
+    [
+      "talk18_jp.dat",
+      163
+    ],
+    [
+      "ISO_START/talk00.dat",
+      149
+    ],
+    [
+      "talk16_jp.dat",
+      124
+    ],
+    [
+      "talk11_jp.dat",
+      121
+    ],
+    [
+      "talk15_jp.dat",
+      119
+    ]
+  ],
+  "analisis_rom011": "En 376 bloques hay una cadena catalogada y otra sin ID; un reemplazo autorizado debe afectar únicamente el opcode y cadena de esa primera unidad, preservando la segunda. Cantidad de líneas revisadas/aplicables debe cotejarse con CSV actual y glifos; NO equivale a 376 inserciones."
 }
