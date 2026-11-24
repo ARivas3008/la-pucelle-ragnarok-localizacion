@@ -1,6 +1,6 @@
-# LA PUCELLE: RAGNAROK — RELEVO-015 QUÍNTUPLE: CENT-016, GFX-011, INTEGRACIÓN Y QA
+# LA PUCELLE: RAGNAROK — RELEVO-016 QUÍNTUPLE: ROM-013 CANDIDATA ISO Y UMBRAL 98,85 %
 
-**Corte:** 23/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo014-gfx010-auditoria-original-20261123`. HEAD del relevo anterior: `654cdbfb6dfcc7ee7b1f711887546afa8855d56a`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.
+**Corte:** 23/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo015-rom010-auditoria-iso-20261123`. HEAD del relevo anterior: `654cdbfb6dfcc7ee7b1f711887546afa8855d56a`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.
 
 ## 0. RÉGIMEN DE EJECUCIÓN QUÍNTUPLE OBLIGATORIA — MULTIPLICADOR ×5
 
@@ -155,7 +155,10 @@ ORDEN PERMANENTE: EJECUTAR CINCO VECES MÁS TRABAJO OBJETIVO, CONSERVANDO LA MIS
 
 **Hallazgo gráfico GFX-011 posterior al corte:** seis TXP de BGPACK original inspeccionados; `wmap_03.txp` contiene la inscripción inglesa auténtica «World Map», aún sin adaptación «Mapa del mundo» ni validación en PSP. `title_mj.txp` es logotipo oficial, conservar. Detalles y SHA individuales en `docs/seguimiento/informes/GFX-011_otros_bgpack_original.json`. No declarar gráficos terminados por los 16 títulos piloto: hay más recursos traducibles.
 
-## 1. Estado verificado y misión
+## 1.
+
+**RELEVO-015 ROM-010/011/012 — meta de integración:** el último PR #42 draft contiene auditoría ISO-sola, inserción conservadora de líneas unitarias dentro de runs mixtos y gate de objetivo. La revisión editorial conocida es **15.346/15.525 (98,85 %)**. La cobertura histórica integral **continúa 21.805/26.258 (83,04 %)**; no subirla sin candidata ISO+DLC nueva auditada. Meta matemática **25.956/26.258**, faltan **4.151 verificaciones adicionales**. ISO original 4360707b... autenticada, 17 talk, 44.751 cadenas, 17.273 runs, 20.083 unidades talk ISO fieles al manifiesto. Alcance **22.721 ISO / 3.537 DLC**, sin cuatro EDAT originales en el entorno. Herramienta ROM-010 `scripts/auditar_entrega.py` acepta solo ISO y genera `cobertura_iso_sola.json` sobre 22.721 unidades sin contar DLC. ROM-011 `recompilar_talk.py` conserva controles de voz y subbloques no aprobados; 705 candidatos unitarios potenciales en 593 runs se computaron sobre el original, sin descontar ya integrados ni restricciones tipográficas, NO son nuevas unidades verificadas. ROM-012 `scripts/umbral_rom012.py` rechaza el 98,85 % sin candidata integral, hashes de cuatro EDAT y diario de cotejo. **Acción inmediata:** consultar HEAD y CI reales, compilar una ISO candidata con checkout vigente + original autenticado (`python parcheador/app/scripts/integracion_total.py --iso ORIGINAL.iso --repo-directorio . --salida SALIDA_VACIA`); auditar (`python scripts/auditar_entrega.py --entrega SALIDA_VACIA --iso-original ORIGINAL.iso`), corregir errores; al disponer de los cuatro EDAT auténticos, repetir construcción/auditoría ISO+DLC y superar el gate ROM-012. Conservar históricas hasta nueva auditoría, no publicar ISO, no certificar PPSSPP sin ejecutarlo. Informes `docs/seguimiento/informes/ROM-010_censo_iso_original_real.json`, `ROM-011_subbloques_estrictos.json` y seguimiento JSON. Obligatorio continuar y conservar las secciones 0 y 14 completas.
+ Estado verificado y misión
 
 Actúa como especialista sénior japonés/inglés→español, PSP MIPS, CP932, NISPACK/LZS, ISO9660, gráficos TXP/CLUT y QA PPSSPP. Ejecuta trabajo real; A = originales auténticos, B = cambios/ensayos estáticos y CI, C = ejecución auténtica de candidata en PPSSPP.
 
