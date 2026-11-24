@@ -11,6 +11,8 @@ on:
     paths:
       - 'scripts/auditar_entrega.py'
       - 'tests/test_rom010_iso_sola.py'
+      - 'scripts/umbral_rom012.py'
+      - 'tests/test_rom012_umbral.py'
       - '.github/workflows/qa-rom010.yml'
 jobs:
   alcance:
