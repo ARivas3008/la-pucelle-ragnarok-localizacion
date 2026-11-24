@@ -74,9 +74,13 @@ def main():
  a=p.parse_args()
  with a.propuestas.open(encoding='utf-8-sig',newline='') as f:
   r=csv.DictReader(f)
-  if not {'id','clase','es_propuesta'}.issubset(r.fieldnames or []):
-   p.error('Faltan columnas id/clase/es_propuesta')
-  inp=[(row['id'],int(row['clase']),row['es_propuesta']) for row in r if row['es_propuesta'].strip()]
+  cols=set(r.fieldnames or [])
+  if {'grupo_id','clase_mips','es_propuesta'}.issubset(cols):
+   idkey='grupo_id';classkey='clase_mips'
+  elif {'id','clase','es_propuesta'}.issubset(cols):
+   idkey='id';classkey='clase'
+  else:p.error('Faltan columnas id/clase o grupo_id/clase_mips y es_propuesta')
+  inp=[(row[idkey],int(row[classkey]),row['es_propuesta']) for row in r if row['es_propuesta'].strip()]
  result={'evidencia':'B: simulación con algoritmo MIPS auténtico; no PPSSPP',
          'limite_slot_bytes_con_nul':SLOT_TEXT_BYTES,'limite_nombre_bytes':MAX_NAME_BYTES,
          'bases_de_prueba':a.bases,'conteo_propuestas':len(inp),
