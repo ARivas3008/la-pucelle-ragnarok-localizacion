@@ -5,8 +5,8 @@
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
-    "revisados": 14986,
-    "requieren_investigacion": 30
+    "revisados": 15015,
+    "requieren_investigacion": 1
   },
   "unidades": {
     "total": 26258,
@@ -83,26 +83,35 @@
   "siguiente_tarea": "RELEVO-018",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 3,
-    "revisados": 506,
+    "pendientes": 0,
+    "revisados": 509,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": false
   },
   "editorial_catalogo": {
     "total_grupos_conocidos": 15525,
-    "revisados_en_reparto": 14986,
-    "pendientes_en_reparto": 30,
-    "pendientes_centrales": 3,
-    "pendientes_minimos": 33,
+    "revisados_en_reparto": 15015,
+    "pendientes_en_reparto": 1,
+    "pendientes_centrales": 0,
+    "pendientes_minimos": 1,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 506,
-    "revisados_editoriales_conocidos": 15492
+    "revisados_centrales": 509,
+    "revisados_editoriales_conocidos": 15524,
+    "grupos_no_textuales_excluidos": [
+      1630
+    ],
+    "total_grupos_textuales_del_catalogo": 15524,
+    "grupos_textuales_del_catalogo_revisados": 15524,
+    "porcentaje_editorial_textual_ajustado": 100,
+    "exclusiones_tecnicas_documentadas": 1,
+    "hallazgos_lexicales_fuera_de_manifiesto_resueltos": 10,
+    "revision_catalogo_100_sin_equivalencia_integracion": true
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Traducción del catálogo 15492/15525 = 99,79%; 33 pendientes (26 morfemas de name.dat DLC japoneses sin EDAT, 3 fragmentos ISO de interpretación incierta, 3 prefijos magic.dat sin EDAT, 1 falso positivo no textual 1630 documentado). Además existen 10 entradas léxicas name.dat ISO fuera del manifiesto. Cotejar función generadora MIPS y reglas de 16 bytes, ejecutar PPSSPP y examinar DLC antes de certificar 100%.",
+  "criterio_siguiente": "Revisión editorial del texto auténtico actualmente catalogado finalizada 15524/15524 (100%): 15524 estados revisado + 1 falso positivo 1630 excluido y sin modificar. También 10 fragmentos lexicales name.dat fuera del maestro recibieron revisión sidecar. No implica todo juego 100% (alcance fuera de catálogo no exhaustivo), ni integración ISO+DLC, ni PPSSPP. Priorizar auditoría de glifos, formato, slots y juego real, inventario de nuevo texto fuera del manifiesto y perfeccionar transcreaciones de 26 fragmentos japoneses tras EDAT auténticos.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -384,5 +393,27 @@
     ],
     "falso_positivo_tecnico_excluido": 1630,
     "extra_textos_fuera_manifiesto": 10
+  },
+  "cent019": {
+    "japones_DLC_name_26_revisados_editorialmente": 26,
+    "ingles_ISO_name_3_cotejados_con_japones": 3,
+    "central_magic_con_marcador_preservado": 3,
+    "name_dat_lexicales_fuera_manifiesto_revisados": 10,
+    "editorial_catalogo_textual_revisado": 15524,
+    "editorial_catalogo_textual_total": 15524,
+    "exclusion_no_textual": [
+      1630
+    ],
+    "revision_catalogo_textual_completa": true,
+    "certificacion_PPSSPP": false,
+    "certificacion_insercion_DLC": false,
+    "manifiesto_original_no_mutado": true,
+    "rutas": [
+      "data/control/CENT019_NAME_DAT_26_JAPONES_PROPUESTAS.csv",
+      "data/control/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv",
+      "data/preexistentes/509_revision_central.csv",
+      "data/control/EXCLUSIONES_TECNICAS_VERIFICADAS.md"
+    ],
+    "informe": "docs/seguimiento/informes/CENT-019_cierre_editorial_catalogo.json"
   }
 }
