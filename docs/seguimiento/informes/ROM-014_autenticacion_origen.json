@@ -1,0 +1,20 @@
+{
+  "fecha": "2026-11-24",
+  "id": "ROM-014",
+  "tipo_evidencia": "B: protección añadida al auditor y regresiones sintéticas; ISO A auténtica disponible y SHA coincidente, ninguna candidata nueva",
+  "archivo": "scripts/auditar_entrega.py",
+  "cambio": "El auditor rechaza versiones de ISO original cuya huella SHA-256 sea distinta de la autenticada, antes de cotejar recursos y producir métricas.",
+  "iso_sha256_esperado": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "pruebas_definidas": [
+    "ISO presente con SHA exacto aceptada",
+    "ISO con SHA extraño rechazada",
+    "ISO original inexistente rechazada antes de leerla"
+  ],
+  "workflow": ".github/workflows/qa-rom010.yml",
+  "resultado_candidato_iso": "no ejecutado en este relevo",
+  "unidades_nuevas_cotejadas": 0,
+  "objetivo_integracion": 25956,
+  "denominador": 26258,
+  "integracion_historica_mantenida": 21805,
+  "restriccion": "Falta candidata ISO+DLC legítima nueva y PPSSPP; CI de sintéticos no reemplaza lectura inversa de original comercial"
+}
