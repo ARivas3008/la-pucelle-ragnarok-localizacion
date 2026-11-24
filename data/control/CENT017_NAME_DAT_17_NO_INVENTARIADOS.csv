@@ -1,0 +1,18 @@
+id,recurso,offset,clase,original,es_propuesta,estado,razon,sha256_recurso
+GNAME-ISO-220,ISO_START/name.dat,220,1,＃２,＃２,conservar_simbolo,Identificador numerado original,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-1020,ISO_START/name.dat,1020,1,（♂）,（♂）,conservar_simbolo,Marcador de género original,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-1036,ISO_START/name.dat,1036,1,（♀）,（♀）,conservar_simbolo,Marcador de género original,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-1580,ISO_START/name.dat,1580,1,…。,…。,conservar_simbolo,Puntuación y pausa del original,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-1596,ISO_START/name.dat,1596,1,？,？,conservar_simbolo,Signo de pregunta; sin texto léxico,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-1612,ISO_START/name.dat,1612,1,！,！,conservar_simbolo,Signo de exclamación; sin texto léxico,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-1628,ISO_START/name.dat,1628,1,！？,！？,conservar_simbolo,Signos de exclamación/interrogación; conservar hasta prueba de glifo,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-1788,ISO_START/name.dat,1788,1,Wonder,Maravilla,propuesta_no_aprobada,Sustantivo o verbo; falta combinación,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-2188,ISO_START/name.dat,2188,1,Mother,Madre,propuesta_no_aprobada,Nombre común o tratamiento; falta salida,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-2380,ISO_START/name.dat,2380,1,Love,Amor,propuesta_no_aprobada,Sustantivo o verbo; falta clase gramatical,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-2668,ISO_START/name.dat,2668,3,Head,Cabeza,propuesta_no_aprobada,Sustantivo o verbo; clase 3 identificada sin función,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-2684,ISO_START/name.dat,2684,3,Mask,Máscara,propuesta_no_aprobada,Sustantivo o verbo; clase 3 identificada sin función,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-3356,ISO_START/name.dat,3356,1,Onlｙ,Solo,propuesta_no_aprobada,Forma inglesa mixta por CP932; uso gramatical no comprobado,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-4060,ISO_START/name.dat,4060,2,It looks,Parece...,propuesta_no_aprobada,Fragmento incompleto; clase 2 sin función verificada,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-4220,ISO_START/name.dat,4220,2,Still,Todavía,propuesta_no_aprobada,"Adverbio, conjunción o adjetivo; contexto insuficiente",6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-4348,ISO_START/name.dat,4348,2,Again,De nuevo,propuesta_no_aprobada,Función temporal no comprobada,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
+GNAME-ISO-4700,ISO_START/name.dat,4700,2,When some,,bloqueado_contexto,Fragmento gramatical sin referente ni continuación verificada,6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c
