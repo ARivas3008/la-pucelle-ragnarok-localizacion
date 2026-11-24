@@ -5,20 +5,21 @@
   "iso_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
   "manifiesto": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
   "tipo_evidencia": "A: archivo original, estructura ISO9660/NISPACK/LZS/talk, offsets y cadenas CP932; NO candidata traducida y NO PPSSPP",
-  "metodo": "ISO9660 a SCRIPTPACK y START_JP.LZS; descompresión sin solapamiento; decodificación talk, agrupación por opcódigo, y cotejo de originales normalizados NFKC por recurso y desplazamiento; conteos excluyen DLC",
+  "metodo": "ISO9660 a SCRIPTPACK y START_JP.LZS; descompresión sin solapamiento; decodificación talk, agrupación por opcódigo, y cotejo de originales normalizados NFKC por recurso y desplazamiento; conteos excluyen DLC El censo de runs descarta las cuatro cadenas físicas vacías, igual que recompilar_talk.runs.",
   "resultados": {
     "recursos_talk_iso": 17,
     "cadenas_talk_en_iso": 44751,
-    "grupos_runs_por_parser_independiente": 17271,
+    "grupos_runs_por_parser_independiente": 17273,
     "unidades_talk_iso_del_manifiesto": 20083,
     "unidades_origen_coincidentes": 20083,
     "discordancias": 0,
     "cadenas_fisicas_sin_unit_id_manifestado": 24668,
-    "bloques_talk_con_unidades_mapeadas_y_no_mapeadas": 1442,
-    "bloques_talk_todo_mapeado": 6079,
-    "bloques_talk_no_mapeados": 9750
+    "bloques_talk_con_unidades_mapeadas_y_no_mapeadas": 1439,
+    "bloques_talk_todo_mapeado": 6084,
+    "bloques_talk_no_mapeados": 9750,
+    "cadenas_vacias_omitidas_de_runs": 4
   },
-  "nota_discrepancia": "Conteo de runs 17271 de parser independiente; informe anterior indicó 17273. La pequeña diferencia requiere reconciliar tratamientos de cadenas vacías y opciones, no afecta SHA/origen/mapeo de unidades.",
+  "nota_discrepancia": "RESUELTA: el lector inicial contaba cuatro cadenas vacías como elementos de runs. recompilar_talk.runs omite cadenas vacías y arroja 17.273 runs; clasificación canónica: 6.084 mapeados + 1.439 mixtos + 9.750 sin mapa.",
   "oportunidad": "ROM-011 debe apuntar a 1442 bloques mixtos pero solo insertar unidades singulares revisadas, con glifos y límites comprobados. No contar 1442 como unidades insertadas.",
   "codigo_local_de_evidencia_sha256": "1d499d187bcda53060277a0c312806d3d168f5d256070244455e0f7fda9b77cf",
   "script_local_nombre": "rom013_iso_talk_audit.py",
@@ -28,11 +29,11 @@
   "bloques_mixtos_por_forma": {
     "una_cadena_catalogada_una_omitada": 376,
     "dos_catalogadas_una_omitada": 305,
-    "tres_catalogadas_una_omitada": 177,
-    "cuatro_catalogadas_una_omitada": 158,
+    "tres_catalogadas_una_omitada": 175,
+    "cuatro_catalogadas_una_omitada": 159,
     "cinco_catalogadas_una_omitada": 88,
     "una_catalogada_dos_omitidas": 61,
-    "otros": 277
+    "otros": 275
   },
   "top_recursos_mixtos": [
     [
@@ -56,5 +57,5 @@
       119
     ]
   ],
-  "analisis_rom011": "En 376 bloques hay una cadena catalogada y otra sin ID; un reemplazo autorizado debe afectar únicamente el opcode y cadena de esa primera unidad, preservando la segunda. Cantidad de líneas revisadas/aplicables debe cotejarse con CSV actual y glifos; NO equivale a 376 inserciones."
+  "analisis_rom011": "En 376 bloques hay una cadena catalogada y otra sin ID; solo se modifica la primera si la revisión está aprobada y el token cumple espacio/bytecode. 1.439 bloques mixtos no equivalen a 1.439 inserciones."
 }
