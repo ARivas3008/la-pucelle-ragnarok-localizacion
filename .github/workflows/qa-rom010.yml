@@ -1,0 +1,24 @@
+name: QA ROM-010 ISO sola
+on:
+  push:
+    paths:
+      - 'scripts/auditar_entrega.py'
+      - 'tests/test_rom010_iso_sola.py'
+      - '.github/workflows/qa-rom010.yml'
+  pull_request:
+    paths:
+      - 'scripts/auditar_entrega.py'
+      - 'tests/test_rom010_iso_sola.py'
+      - '.github/workflows/qa-rom010.yml'
+jobs:
+  alcance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validar sintaxis y regresiones ISO/DLC
+        run: |
+          python -m py_compile scripts/auditar_entrega.py
+          python -m unittest discover -s tests -p test_rom010_iso_sola.py -v
