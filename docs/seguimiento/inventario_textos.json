@@ -5,8 +5,8 @@
   "alcance": "indice_de_los_15016_grupos_actuales_no_censo_completo_del_juego",
   "resumen_corpus": {
     "total": 15016,
-    "revisados": 14985,
-    "requieren_investigacion": 31
+    "revisados": 14986,
+    "requieren_investigacion": 30
   },
   "corpus": [
     {
@@ -1021,7 +1021,7 @@
     {
       "numero": "02",
       "ruta_revision": "corpus/02/revision.csv",
-      "sha": "dbd3da86b723db10870ff24bdce9cdcb87b921ef",
+      "sha": "dfafbc3890c54b72b4eb49c8eedd34c58f16c992",
       "revisados": [
         1347,
         1348,
@@ -1050,6 +1050,7 @@
         1371,
         1374,
         1376,
+        1378,
         1383,
         1384,
         1386,
@@ -2057,7 +2058,6 @@
         1373,
         1375,
         1377,
-        1378,
         1379,
         1380,
         1381,
@@ -15689,13 +15689,13 @@
   },
   "resumen_editorial_ampliado": {
     "total_grupos_catalogo": 15525,
-    "revisados_del_reparto": 14985,
-    "requieren_investigacion_del_reparto": 31,
+    "revisados_del_reparto": 14986,
+    "requieren_investigacion_del_reparto": 30,
     "centrales_pendientes": 3,
-    "pendientes_minimos_conocidos": 34,
+    "pendientes_minimos_conocidos": 33,
     "alcance_aun_no_exhaustivo": true,
     "pendientes_centrales": 3,
     "revisados_centrales": 506,
-    "revisados_editoriales_conocidos": 15491
+    "revisados_editoriales_conocidos": 15492
   }
 }
