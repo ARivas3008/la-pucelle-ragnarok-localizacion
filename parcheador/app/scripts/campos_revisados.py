@@ -19,9 +19,10 @@ def variante_nominal(row,text,raw,cap,variants):
  if any(str(row[k])!=str(v[k]) for k in ('unit_id','grupo_id','recurso','offset','original')) or text!=v['revision']:return None
  if hashlib.sha256(raw).hexdigest()!='6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c':return None
  compact=v['compacto']
- if not compact or not compact.isascii() or any(ord(x)<32 for x in compact):return None
- data=encode_script_text(compact)
- if len(data)>=cap:return None
+ if not compact or any(unicodedata.category(x).startswith('C') for x in compact):return None
+ try:data=encode_script_text(compact)
+ except FontError:return None
+ if not data or b'\0' in data or len(data)>=cap:return None
  return compact,data
 
 def aplicar(key,original,current,manifest,reviews):
