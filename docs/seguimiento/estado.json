@@ -80,8 +80,8 @@
   "siguiente_tarea": "RELEVO-015",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 58,
-    "revisados": 451,
+    "pendientes": 22,
+    "revisados": 487,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": false
   },
@@ -89,11 +89,11 @@
     "total_grupos_conocidos": 15525,
     "revisados_en_reparto": 14859,
     "pendientes_en_reparto": 157,
-    "pendientes_centrales": 58,
-    "pendientes_minimos": 215,
+    "pendientes_centrales": 22,
+    "pendientes_minimos": 179,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 451,
-    "revisados_editoriales_conocidos": 15310
+    "revisados_centrales": 487,
+    "revisados_editoriales_conocidos": 15346
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
@@ -222,5 +222,16 @@
     "informe": "docs/seguimiento/informes/CENT-014_origen_recuperado.json",
     "grupos_corpus_09": 31,
     "grupos_corpus_11": 17
+  },
+  "centr015": {
+    "grupos_editoriales_centrales_revisados": 36,
+    "grupos_centrales_pendientes": 22,
+    "evidencia": "B: manifiesto japonés original aportado y contexto contiguo; falta EDAT auténtico para cotejo físico",
+    "rutas": [
+      "data/preexistentes/509_revision_central.csv",
+      "docs/seguimiento/informes/CENT-015_japones_tutorial.json"
+    ],
+    "ppsspp": false,
+    "candidata_reconstruida": false
   }
 }
