@@ -2079,7 +2079,7 @@
       "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
       "offset": 124891,
       "sha256_lineas": "bd041d84627288f60b806e68beafbfa89b8f6757377b35beb6cf79d9c0a134f0",
-      "es": "¡Oh, diosa Poitreene, por favor, protégenos a nosotros y a estos aldeanos inocentes!",
+      "es": "Oh, diosa Poitreene, protégenos a nosotros y a estos aldeanos inocentes.",
       "grupos_objetivo": [
         "9062"
       ],
@@ -2091,7 +2091,7 @@
       "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
       "offset": 125046,
       "sha256_lineas": "da434bbfe277743ef75cfdb45bcf1f017c5719a743750ed9193ba0a305216255",
-      "es": "¡Esto será interesante! ¡Tú y tus preciados aldeanos gritarán de agonía!",
+      "es": "¡Esto promete! Tú y tus queridos aldeanos gritarán de agonía.",
       "grupos_objetivo": [
         "9062"
       ],
@@ -2103,7 +2103,7 @@
       "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
       "offset": 125218,
       "sha256_lineas": "89295086988e8c20ae316cd65d485c07377f09bfa98feb7924d2e5e809ce0630",
-      "es": "¡Y entonces verás lo poco que tu Diosa puede hacer por ti!",
+      "es": "Y entonces verás cuán poco puede hacer tu diosa por ti.",
       "grupos_objetivo": [
         "9063"
       ],
@@ -2115,7 +2115,7 @@
       "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
       "offset": 125367,
       "sha256_lineas": "6228f8a04725e89ab108cd5c3358bd4460ced8062ef6283f735a2729b274d202",
-      "es": "¡¿Un señor demonio?!",
+      "es": "¡¡¿Un Señor Demonio?!!",
       "grupos_objetivo": [
         "9063"
       ],
@@ -2127,7 +2127,7 @@
       "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
       "offset": 126245,
       "sha256_lineas": "066ea842b11095d291d0c399adc20bf8ab08691ec9d4c67102dea26024eff1eb",
-      "es": "¡Necio! ¡Casi lo habíamos derrotado y ahora lo has echado todo a perder!",
+      "es": "¡Idiota! ¡Casi lo habíamos derrotado y lo has estropeado todo!",
       "grupos_objetivo": [
         "9076"
       ],
@@ -2139,7 +2139,7 @@
       "recurso": "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
       "offset": 126400,
       "sha256_lineas": "54a09e36ff8d528062a26c4e4152b980cbd0b68b75e2e09e88d1a5f565785c24",
-      "es": "¡Pues perdona! ¡Deja de quejarte y bájame de aquí! ¡Rápido!",
+      "es": "¡Pues perdona! ¡Deja de quejarte y bájame de aquí! ¡Ahora mismo!",
       "grupos_objetivo": [
         "9076"
       ],
