@@ -19,9 +19,9 @@
     "bloques_talk_no_mapeados": 9750,
     "cadenas_vacias_omitidas_de_runs": 4
   },
-  "nota_discrepancia": "RESUELTA: el lector inicial contaba cuatro cadenas vacías como elementos de runs. recompilar_talk.runs omite cadenas vacías y arroja 17.273 runs; clasificación canónica: 6.084 mapeados + 1.439 mixtos + 9.750 sin mapa.",
+  "nota_discrepancia": "RESUELTA: cuatro cadenas vacías se excluyen de runs conforme a recompilar_talk.runs; 17.273 runs = 6.084 mapeados + 1.439 mixtos + 9.750 sin mapeo.",
   "oportunidad": "ROM-011 debe apuntar a 1442 bloques mixtos pero solo insertar unidades singulares revisadas, con glifos y límites comprobados. No contar 1442 como unidades insertadas.",
-  "codigo_local_de_evidencia_sha256": "1d499d187bcda53060277a0c312806d3d168f5d256070244455e0f7fda9b77cf",
+  "codigo_local_de_evidencia_sha256": "98ff6342ea5d22ad922613dd60ed1cad0be437c921c4a4b6e23cd1f6cace8dc3",
   "script_local_nombre": "rom013_iso_talk_audit.py",
   "nuevas_unidades_insertadas_certificadas": 0,
   "objetivo_minimo_integral": 25956,
@@ -57,5 +57,6 @@
       119
     ]
   ],
-  "analisis_rom011": "En 376 bloques hay una cadena catalogada y otra sin ID; solo se modifica la primera si la revisión está aprobada y el token cumple espacio/bytecode. 1.439 bloques mixtos no equivalen a 1.439 inserciones."
+  "analisis_rom011": "En 376 bloques hay una cadena catalogada y otra sin ID; solo se modifica la primera si la revisión está aprobada y el token cumple espacio/bytecode. 1.439 bloques mixtos no equivalen a 1.439 inserciones.",
+  "informe_local_resultante_sha256": "9eb4486b21ed4f4eef8a17b20aab66ffc806a8e8769d8e023a850630e4219586"
 }
