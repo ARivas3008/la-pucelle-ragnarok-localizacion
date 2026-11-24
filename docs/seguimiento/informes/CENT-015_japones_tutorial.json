@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-11-23",
+  "id": "CENT-015",
+  "alcance": "Revisión editorial de japonés original en tutoriales DLC, no certificación técnica",
+  "fuente": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv en el ZIP aportado por usuario",
+  "ruta_revision": "data/preexistentes/509_revision_central.csv",
+  "sha_revision_blob": "d359ca25a0428f48b49c656954fe4196c5d17c7b",
+  "grupos_revisados_nuevos": 36,
+  "ids": [
+    1848,
+    1849,
+    1850,
+    1851,
+    1853,
+    1857,
+    1863,
+    1864,
+    1870,
+    1871,
+    1873,
+    1874,
+    1876,
+    1878,
+    1879,
+    1880,
+    1881,
+    1882,
+    1883,
+    1889,
+    1890,
+    1891,
+    1896,
+    1898,
+    1899,
+    1900,
+    1901,
+    1902,
+    1903,
+    1904,
+    1910,
+    1920,
+    1970,
+    2049,
+    2873,
+    2875
+  ],
+  "grupos_centrales_antes": {
+    "revisados": 451,
+    "pendientes": 58
+  },
+  "grupos_centrales_despues": {
+    "revisados": 487,
+    "pendientes": 22
+  },
+  "catalogo_despues": {
+    "revisados": 15346,
+    "pendientes": 179,
+    "total": 15525
+  },
+  "evidencia": "B: texto fuente japonés del manifiesto y contexto adyacente; DLC físico auténtico no comprobado",
+  "controles": [
+    "IDs, offsets, unidades y orden de manifiesto inmutables",
+    "Sólo se modificó la tabla editorial central, no el master",
+    "Se conservaron 22 grupos fragmentarios o con ambigüedad como pendientes",
+    "Los 36 nuevos no se contabilizan como integrados ni PPSSPP"
+  ],
+  "bloqueos": [
+    "EDAT originales de DLC_00 y DLC_02 no aportados",
+    "Fragmentos de frases/menús y prefijos numéricos de magic.dat sin contexto funcional",
+    "Sin prueba de reinserción ni glifos en juego"
+  ],
+  "ppsspp": false,
+  "insercion_certificada": false,
+  "nota": "No declarar 100% editorial ni gráfico."
+}
