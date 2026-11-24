@@ -1,0 +1,128 @@
+[
+  {
+    "unit_id": "23581",
+    "grupo_id": "14049",
+    "recurso": "ISO_START/name.dat",
+    "offset": 396,
+    "original": "Private",
+    "revision": "Soldado raso",
+    "compacto": "Sold. raso"
+  },
+  {
+    "unit_id": "23588",
+    "grupo_id": "14056",
+    "recurso": "ISO_START/name.dat",
+    "offset": 508,
+    "original": "Lt Colonel",
+    "revision": "Tte. coronel",
+    "compacto": "Tte.coronel"
+  },
+  {
+    "unit_id": "23591",
+    "grupo_id": "14059",
+    "recurso": "ISO_START/name.dat",
+    "offset": 556,
+    "original": "Lt General",
+    "revision": "Tte. general",
+    "compacto": "Tte.general"
+  },
+  {
+    "unit_id": "23618",
+    "grupo_id": "14086",
+    "recurso": "ISO_START/name.dat",
+    "offset": 988,
+    "original": "Mindless",
+    "revision": "Descerebrado",
+    "compacto": "Sin seso"
+  },
+  {
+    "unit_id": "23630",
+    "grupo_id": "14098",
+    "recurso": "ISO_START/name.dat",
+    "offset": 1212,
+    "original": "Become",
+    "revision": "Convertirse en",
+    "compacto": "Volverse"
+  },
+  {
+    "unit_id": "23757",
+    "grupo_id": "14225",
+    "recurso": "ISO_START/name.dat",
+    "offset": 3404,
+    "original": "The habit",
+    "revision": "La costumbre",
+    "compacto": "Costumbre"
+  },
+  {
+    "unit_id": "23779",
+    "grupo_id": "14247",
+    "recurso": "ISO_START/name.dat",
+    "offset": 3756,
+    "original": "Full tilt",
+    "revision": "A toda velocidad",
+    "compacto": "A todo gas"
+  },
+  {
+    "unit_id": "23780",
+    "grupo_id": "14248",
+    "recurso": "ISO_START/name.dat",
+    "offset": 3772,
+    "original": "Deep Blue",
+    "revision": "Azul intenso",
+    "compacto": "Azul vivo"
+  },
+  {
+    "unit_id": "23788",
+    "grupo_id": "14256",
+    "recurso": "ISO_START/name.dat",
+    "offset": 3900,
+    "original": "Gorgeous",
+    "revision": "Deslumbrante",
+    "compacto": "Radiante"
+  },
+  {
+    "unit_id": "23802",
+    "grupo_id": "14270",
+    "recurso": "ISO_START/name.dat",
+    "offset": 4140,
+    "original": "Once",
+    "revision": "De vez en cuando",
+    "compacto": "A ratos"
+  },
+  {
+    "unit_id": "23804",
+    "grupo_id": "14272",
+    "recurso": "ISO_START/name.dat",
+    "offset": 4172,
+    "original": "Shortly",
+    "revision": "Dentro de poco",
+    "compacto": "En breve"
+  },
+  {
+    "unit_id": "23827",
+    "grupo_id": "14295",
+    "recurso": "ISO_START/name.dat",
+    "offset": 4572,
+    "original": "Probably",
+    "revision": "Probablemente",
+    "compacto": "Es probable"
+  },
+  {
+    "unit_id": "23830",
+    "grupo_id": "14298",
+    "recurso": "ISO_START/name.dat",
+    "offset": 4620,
+    "original": "Stealithly",
+    "revision": "Sigilosamente",
+    "compacto": "Con sigilo"
+  },
+  {
+    "unit_id": "23847",
+    "grupo_id": "14315",
+    "recurso": "ISO_START/name.dat",
+    "offset": 4908,
+    "original": "Secretly",
+    "revision": "A escondidas",
+    "compacto": "En secreto"
+  }
+]
