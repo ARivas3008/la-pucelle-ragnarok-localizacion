@@ -1,12 +1,12 @@
 {
   "esquema": "seguimiento_textos_1",
   "fecha": "2026-11-23",
-  "commit_fuente": "d2f3b0ced36173c8535c1ef3fcfb0124aacb1cf0",
+  "commit_fuente": "8ec4977063c08f470d50925089dbc676cf376461",
   "alcance": "indice_de_los_15016_grupos_actuales_no_censo_completo_del_juego",
   "resumen_corpus": {
     "total": 15016,
-    "revisados": 14811,
-    "requieren_investigacion": 205
+    "revisados": 14814,
+    "requieren_investigacion": 202
   },
   "corpus": [
     {
@@ -8031,7 +8031,7 @@
     {
       "numero": "09",
       "ruta_revision": "corpus/09/revision.csv",
-      "sha": "1231e9c799efad36f29d0969b8bf1858b433f681",
+      "sha": "84d1a4da291746973464f9965216599be80dbf02",
       "revisados": [
         8950,
         8951,
@@ -8145,6 +8145,8 @@
         9059,
         9060,
         9061,
+        9062,
+        9063,
         9064,
         9065,
         9066,
@@ -8157,6 +8159,7 @@
         9073,
         9074,
         9075,
+        9076,
         9077,
         9078,
         9079,
@@ -9048,9 +9051,6 @@
         10119
       ],
       "requieren_investigacion": [
-        9062,
-        9063,
-        9076,
         9136,
         9167,
         9173,
@@ -15692,13 +15692,13 @@
   },
   "resumen_editorial_ampliado": {
     "total_grupos_catalogo": 15525,
-    "revisados_del_reparto": 14811,
-    "requieren_investigacion_del_reparto": 205,
+    "revisados_del_reparto": 14814,
+    "requieren_investigacion_del_reparto": 202,
     "centrales_pendientes": 58,
-    "pendientes_minimos_conocidos": 263,
+    "pendientes_minimos_conocidos": 260,
     "alcance_aun_no_exhaustivo": true,
     "pendientes_centrales": 58,
     "revisados_centrales": 451,
-    "revisados_editoriales_conocidos": 15262
+    "revisados_editoriales_conocidos": 15265
   }
 }
