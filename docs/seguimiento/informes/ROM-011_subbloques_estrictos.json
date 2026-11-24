@@ -1,0 +1,30 @@
+{
+  "id": "ROM-011",
+  "fecha": "2026-11-23",
+  "evidencia": "A: ISO original auténtica 4360707b... y 20083 unidades talk cotejadas; B: proyección estática del modo parcial, pruebas sintéticas CI; C: PPSSPP no ejecutado",
+  "cambio": "Permitir sustituir una sola cadena original del mismo recurso y offset únicamente cuando existe revisión aprobada unitaria, entrada de voz inequívoca, traducción en una línea, glyphs disponibles y token 01/NUL completo; nunca marcar las cadenas restantes como traducidas.",
+  "archivos": [
+    "parcheador/app/scripts/recompilar_talk.py",
+    "parcheador/app/tests/test_rom011_parciales.py"
+  ],
+  "proyeccion": {
+    "unidades_talk_iso_con_grupo_editorial_unico_y_revisado": 4177,
+    "candidatas_singulares_en_runs_con_huecos_o_pendientes": 705,
+    "runs_distintos_con_candidatas": 593,
+    "metodo": "Contar grupos unitarios revisados desde inventario de 15525 y sus unidades contra talk auténticos, sin verificar glifos, ancho, estado histórico previo ni candidata.",
+    "advertencia": "Las 705 son máximo teórico bruto, NO 705 inserciones nuevas y pueden incluir destinos ya integrados históricamente."
+  },
+  "estado_validacion": {
+    "pruebas_nuevas_definidas": 7,
+    "ci": "pendiente_revalidar",
+    "candidata_iso_nueva": false,
+    "unidades_adicionales_efectivamente_cotejadas": 0,
+    "ppsspp": false
+  },
+  "faltantes_objetivo_98_85": 4151,
+  "fuentes": [
+    "docs/seguimiento/informes/ROM-010_censo_iso_original_real.json",
+    "docs/seguimiento/inventario_textos.json"
+  ],
+  "nota": "No elevar 21805 hasta ejecutar y auditar ISO/DLC actualizados."
+}

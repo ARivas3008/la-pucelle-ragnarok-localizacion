@@ -89,6 +89,40 @@ def catalog(manifest,reviews,buffers,metas,include_pending=False,segments=(),sco
   node[None]=candidates
  return trie,rejected
 
+def _partial_singletons(res,raw,run,trie,font):
+ """Inserta solo cadenas singulares de origen exacto cuando un bloque completo
+ contiene también líneas sin aprobación. No resegmenta hablantes ni toca controles.
+ Cada edición es un token 01 completo con una sola línea de <=28 glifos.
+ """
+ edits=[];applied=[]
+ for item in run:
+  if not item['raw'] or not any(c.isalnum() for c in item['raw'].decode('cp932')):
+   continue
+  key=canon(item['raw'].decode('cp932'))
+  options=trie.get(key,{}).get(None,[])
+  exact=[p for p in options if p['res']==res and p['offset']==item['offset']
+         and p['estado']=='revisado' and len(p['unit_ids'])==1]
+  # Diferencias editoriales o reutilizaciones ambiguas: fallo cerrado.
+  if not exact or len({p['es'] for p in exact})!=1:
+   continue
+  candidate=exact[0];phrase=candidate['es']
+  try:
+   if len(wrap(phrase))!=1:continue
+   if missing_render_glyphs(to_full(phrase),font):continue
+   new=bytes([1])+encode(phrase)+bytes([0])
+   a=item['offset']-1;b=item['end']+1
+   if a<0 or bytes(raw[a:b])==new:continue
+   edits.append((a,b,new))
+   applied.append(dict(recurso=res,offset=a,
+     entry_id=struct.unpack_from('<I',raw,12+32*item['entry'])[0],
+     grupos=list(candidate.get('grupos',[candidate['gid']])),
+     unidades_origen=list(candidate['unit_ids']),lineas_originales=1,
+     lineas_nuevas=1,original=[item['raw'].decode('cp932')],
+     es=phrase,modo='SUBBLOQUE_EXACTO_SIN_CAMBIAR_CONTROLES'))
+  except (TalkError,ValueError,UnicodeError):
+   continue
+ return edits,applied
+
 def compile_one(res,raw,meta,trie,font):
  edits=[];applied=[];pending=[]
  for run in runs(raw,meta):
@@ -141,6 +175,15 @@ def compile_one(res,raw,meta,trie,font):
     unidades_origen=[u for c in selected for u in c['unit_ids']],lineas_originales=len(run),
     lineas_nuevas=len(lines),original=source,es=phrase))
   except (TalkError,ValueError,UnicodeError) as exc:
-   pending.append(dict(recurso=res,offset=run[0]['offset'],entry_id=entry_id,original=source,motivo=str(exc)))
+   # Cuando una sola línea no aprobada bloquea todo un run, permitir
+   # únicamente reemplazos singulares, inequívocos y en la misma posición.
+   # Las unidades restantes siguen pendientes; no se cuenta el run completo.
+   if selected is None and str(exc)=='Falta traducción completa o hay variantes ambiguas':
+    extra,items=_partial_singletons(res,raw,run,trie,font)
+    edits.extend(extra);applied.extend(items)
+    motivo=('Inserción parcial: '+str(len(items))+' cadena(s) exactas; resto pendiente'
+             if items else str(exc))
+   else:motivo=str(exc)
+   pending.append(dict(recurso=res,offset=run[0]['offset'],entry_id=entry_id,original=source,motivo=motivo))
  out,journal=replace(raw,edits)
  return out,applied,pending,journal

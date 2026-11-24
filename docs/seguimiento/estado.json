@@ -5,8 +5,8 @@
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
-    "revisados": 14859,
-    "requieren_investigacion": 157
+    "revisados": 15015,
+    "requieren_investigacion": 1
   },
   "unidades": {
     "total": 26258,
@@ -80,29 +80,38 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-015",
+  "siguiente_tarea": "RELEVO-018",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 22,
-    "revisados": 487,
+    "pendientes": 0,
+    "revisados": 509,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": false
   },
   "editorial_catalogo": {
     "total_grupos_conocidos": 15525,
-    "revisados_en_reparto": 14859,
-    "pendientes_en_reparto": 157,
-    "pendientes_centrales": 22,
-    "pendientes_minimos": 179,
+    "revisados_en_reparto": 15015,
+    "pendientes_en_reparto": 1,
+    "pendientes_centrales": 0,
+    "pendientes_minimos": 1,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 487,
-    "revisados_editoriales_conocidos": 15346
+    "revisados_centrales": 509,
+    "revisados_editoriales_conocidos": 15524,
+    "grupos_no_textuales_excluidos": [
+      1630
+    ],
+    "total_grupos_textuales_del_catalogo": 15524,
+    "grupos_textuales_del_catalogo_revisados": 15524,
+    "porcentaje_editorial_textual_ajustado": 100,
+    "exclusiones_tecnicas_documentadas": 1,
+    "hallazgos_lexicales_fuera_de_manifiesto_resueltos": 10,
+    "revision_catalogo_100_sin_equivalencia_integracion": true
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Priorizar cierre editorial 179 pendientes, tratamiento World Map GFX-011, corrección de composición en 4 capítulos, ISO conjunta y C/PPSSPP; no declarar 100% sin ello.",
+  "criterio_siguiente": "Revisión editorial del texto auténtico actualmente catalogado finalizada 15524/15524 (100%): 15524 estados revisado + 1 falso positivo 1630 excluido y sin modificar. También 10 fragmentos lexicales name.dat fuera del maestro recibieron revisión sidecar. No implica todo juego 100% (alcance fuera de catálogo no exhaustivo), ni integración ISO+DLC, ni PPSSPP. Priorizar auditoría de glifos, formato, slots y juego real, inventario de nuevo texto fuera del manifiesto y perfeccionar transcreaciones de 26 fragmentos japoneses tras EDAT auténticos.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -236,5 +245,175 @@
     ],
     "ppsspp": false,
     "candidata_reconstruida": false
+  },
+  "rom010": {
+    "informe": "docs/seguimiento/informes/ROM-010_censo_iso_original_real.json",
+    "recurso_original_iso_autenticado": true,
+    "iso_unidades_alcanzables": 22721,
+    "dlc_unidades_sin_original_en_entorno": 3537,
+    "scanner_iso_talk_20083_originales_coincidentes": true,
+    "habilitada_auditoria_iso_sola": true,
+    "nuevas_unidades_certificadas": 0,
+    "ci": "success en ejecución anterior, consultar nuevo HEAD"
+  },
+  "rom011": {
+    "informe": "docs/seguimiento/informes/ROM-011_subbloques_estrictos.json",
+    "modo_parcial_estricto": true,
+    "candidatas_teoricas_ISO_sin_filtrado_de_fuentes": 705,
+    "anclas_unicas_teoricas_en_593_runs": true,
+    "insertadas_en_candidata_real": 0,
+    "ci": "success en flujo QA de motor reciente, consultar HEAD"
+  },
+  "rom012": {
+    "herramienta": "scripts/umbral_rom012.py",
+    "meta_unidades": 25956,
+    "meta_porcentaje_redondeado": 98.85,
+    "pendientes_por_certificar": 4151,
+    "superada": false,
+    "requiere": "ISO original autenticada, cuatro EDAT originales, diarios reales y auditoría integral"
+  },
+  "rom013": {
+    "informe": "docs/seguimiento/informes/ROM-013_iso_talk_censo_real.json",
+    "auditor_reproducible": "scripts/rom013_auditar_talk_original.py",
+    "fuente_autentica_iso": true,
+    "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "recursos_talk_auditados": 17,
+    "unidades_japones_original_cotejadas": 20083,
+    "errores_origen_detectados": 0,
+    "strings_talk_originales": 44751,
+    "runs_mixtos_originales": 1439,
+    "runs_de_una_mapeada_y_una_no_mapeada": 376,
+    "cadenas_fisicas_sin_id_de_manifesto": 24668,
+    "original_START_LZS_referencias_solapadas": 0,
+    "original_START_LZS_referencias": 696038,
+    "auditor_integral_revisiones_centrales": true,
+    "revisiones_centrales_que_ahora_relee": 509,
+    "grupos_centrales_mapeados_en_manifiesto_unidades": 1053,
+    "unidades_nuevas_insertadas_y_cotejadas": 0,
+    "ppsspp": false,
+    "runs_originales_canonicos": 17273,
+    "cadenas_vacias_descartadas_de_runs": 4
+  },
+  "rom014": {
+    "informe": "docs/seguimiento/informes/ROM-014_autenticacion_origen.json",
+    "autenticacion_iso_obligatoria_en_auditor": true,
+    "hash_iso_esperado": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "regresiones_definidas": 3,
+    "ci": "pendiente de verificación en nuevo HEAD",
+    "unidades_nuevas_cotejadas": 0
+  },
+  "rom015": {
+    "informe": "docs/seguimiento/informes/ROM-015_campos_y_scripts_iso_real.json",
+    "script": "scripts/rom015_auditar_campos_y_scripts_iso.py",
+    "iso_original_autenticada": true,
+    "campos_originales_comprobados": 2091,
+    "scripts_originales_comprobados": 485,
+    "dialogos_originales_comprobados": 20083,
+    "total_textos_iso_originales_comprobados": 22659,
+    "errores_de_origen_iso_en_esos_textos": 0,
+    "unidades_graficas_fuera_del_cotejo_textual": 62,
+    "unidades_nuevas_insertadas_y_cotejadas": 0,
+    "ppsspp": false
+  },
+  "cent016": {
+    "corpus09_revisados_nuevos": 14,
+    "corpus11_revisados_nuevos": 55,
+    "corpus02_dlc_tutorial_revisados_nuevos": 28,
+    "centrales_japones_revisados_nuevos": 19,
+    "total_editoriales_nuevos": 117,
+    "pendientes_antes": 179,
+    "pendientes_ahora": 62,
+    "pendientes_por_clase": {
+      "generador_name.dat_japones": 27,
+      "generador_name.dat_ingles": 31,
+      "profecia_fragmentada_ISO": 0,
+      "falso_positivo_no_textual_ritem": 1,
+      "centrales_indecidibles": 3
+    },
+    "fuentes": [
+      "ISO original auténtica y SCRIPTPACK talk06/10/11/15/16/17",
+      "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+      "corpus/02/entrada.csv y los contextos japonés"
+    ],
+    "nota": "Los 115 están lingüísticamente revisados; no insertados ni probados con DLC ni PPSSPP. Los 58 fragmentos generados siguen pendientes de conocer combinatoria/gramática; hay 1 falso positivo fuera del alcance traductible.",
+    "reporte": "docs/seguimiento/informes/CENT-016_cierre_parcial_y_bloqueos.json",
+    "corpus08_profecia_revisada_nueva": 1
+  },
+  "cent017": {
+    "informe": "docs/seguimiento/informes/CENT-017_name_dat_clases.json",
+    "script": "scripts/cent017_auditar_nombre.py",
+    "copia_iso_autentica_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "generador_nombre_tipo_clases": 3,
+    "slots_fisicos_name_dat_iso": 307,
+    "slots_name_dat_en_manifiesto": 290,
+    "slots_no_manifestados": 17,
+    "fragmentos_generador_pendientes_para_traduccion": 58,
+    "frases_de_generador_ejecutadas_en_ppsspp": 0,
+    "aprobaciones_generador_nuevas": 0
+  },
+  "cent018": {
+    "mips_inspeccion": {
+      "ELF_sha256": "2b9a1a9864f3b236e83a2848f839023e92dcb7a5272bcb430cef527eafb563f6",
+      "routine": "0x0882ec80-0x0882ed68",
+      "classes": {
+        "1": "sufijo",
+        "2": "prefijo",
+        "3": "aleatorio_ambos"
+      },
+      "concat_sin_espacio": true,
+      "max_bytes": 16,
+      "name_dat_slot_max_bytes": 11
+    },
+    "fonemas_originales_preservados_y_revisados": [
+      14062,
+      14105,
+      14115,
+      14180,
+      1378
+    ],
+    "informe": "docs/seguimiento/informes/CENT-017_name_dat_clases.json",
+    "simulador": "scripts/cent018_modelo_nombres.py",
+    "pruebas": "tests/test_cent018_modelo_nombres.py",
+    "pendientes_del_catalogo": 33,
+    "pendientes_del_generador": 29,
+    "edat_original_para_27_fragmentos_japoneses": false,
+    "ppsspp": false,
+    "nombre_iso_fragmentos_adaptados_nuevos": 24,
+    "generador_aprobaciones_editoriales_nuevas": 29,
+    "edat_original_para_26_fragmentos_japoneses": false,
+    "candidatos_iso_pendientes": [
+      14093,
+      14106,
+      14150
+    ],
+    "pendientes_tres_prefijos_magic_dat": [
+      611,
+      731,
+      951
+    ],
+    "falso_positivo_tecnico_excluido": 1630,
+    "extra_textos_fuera_manifiesto": 10
+  },
+  "cent019": {
+    "japones_DLC_name_26_revisados_editorialmente": 26,
+    "ingles_ISO_name_3_cotejados_con_japones": 3,
+    "central_magic_con_marcador_preservado": 3,
+    "name_dat_lexicales_fuera_manifiesto_revisados": 10,
+    "editorial_catalogo_textual_revisado": 15524,
+    "editorial_catalogo_textual_total": 15524,
+    "exclusion_no_textual": [
+      1630
+    ],
+    "revision_catalogo_textual_completa": true,
+    "certificacion_PPSSPP": false,
+    "certificacion_insercion_DLC": false,
+    "manifiesto_original_no_mutado": true,
+    "rutas": [
+      "data/control/CENT019_NAME_DAT_26_JAPONES_PROPUESTAS.csv",
+      "data/control/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv",
+      "data/preexistentes/509_revision_central.csv",
+      "data/control/EXCLUSIONES_TECNICAS_VERIFICADAS.md"
+    ],
+    "informe": "docs/seguimiento/informes/CENT-019_cierre_editorial_catalogo.json"
   }
 }

@@ -1,0 +1,50 @@
+{
+  "id": "ROM-015",
+  "fecha": "2026-11-24",
+  "fuente": "ISO PSP legítima facilitada por usuario (extraída de La_Pucelle_Ragnarok_v1.1.2.7z)",
+  "iso_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "manifiesto": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+  "evidencia": "A: bytes originales y cotejo CP932/NFKC por recurso+offset; no texto insertado, no emulador",
+  "campos": {
+    "total": 2091,
+    "coincidencias_cp932_nfkc": 2091,
+    "discrepancias": 0,
+    "por_recurso": {
+      "ISO_START/magic.dat": 538,
+      "ISO_START/name.dat": 290,
+      "ISO_START/kis.dat": 277,
+      "ISO/PSP_GAME/SYSDIR/EBOOT.BIN": 259,
+      "ISO_START/ritem.dat": 214,
+      "ISO_START/char.dat": 152,
+      "ISO_START/com.dat": 148,
+      "ISO_START/skill.dat": 113,
+      "ISO_START/mapinfo.dat": 100
+    }
+  },
+  "scripts": {
+    "total": 485,
+    "coincidencias_cp932_nfkc": 485,
+    "discrepancias": 0
+  },
+  "talks": {
+    "fuente": "docs/seguimiento/informes/ROM-013_iso_talk_censo_real.json",
+    "total": 20083,
+    "coincidencias_originales": 20083,
+    "discrepancias": 0
+  },
+  "integridad_iso_catalogada": {
+    "unidades_textuales_verificadas_como_original": 22659,
+    "recursos_graficos_pendientes_de_cotejo_por_píxeles": 62,
+    "total_unidades_iso": 22721,
+    "unidades_dlc_sin_edat_en_entorno": 3537
+  },
+  "herramienta_reproducible": "scripts/rom015_auditar_campos_y_scripts_iso.py",
+  "regresiones_sinteticas": "tests/test_rom015_cadenas_iso.py",
+  "unidades_nuevas_insertadas_y_cotejadas": 0,
+  "porcentaje_integral_certificado_heredado": 83.04,
+  "notas": [
+    "Cotejar el texto japonés original con el manifiesto no equivale a verificar una traducción española insertada.",
+    "El auditor de candidata ahora incorpora las 509 revisiones centrales y falla cerrado ante ISO de procedencia ajena.",
+    "No cambiar 21.805/26.258 sin candidata completa actual verificada con cuatro EDAT originales."
+  ]
+}
