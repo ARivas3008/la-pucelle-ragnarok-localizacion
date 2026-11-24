@@ -1,0 +1,62 @@
+{
+  "id": "ROM-005",
+  "fecha": "2026-11-23",
+  "rama": "relevo/relevo008-cent011-rom005-20261123",
+  "objetivo": "Aislamiento de todos los archivos ISO9660 por hash, incluso si cambia el LBA",
+  "fuente_A": {
+    "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "iso_original_bytes": 858937344,
+    "ensayo": "mismo archivo ISO auténtico empleado como ambos argumentos, NO candidata traducida",
+    "registros_iso9660": 23,
+    "registros_idénticos": 23,
+    "registros_modificados": 0,
+    "resultado": "PASS_ORIGINAL_CONTRA_ORIGINAL_SIN_BUILD_PARCHEADA"
+  },
+  "pruebas_B": {
+    "total": 7,
+    "resultado_local": "PASS",
+    "ruta": "scripts/test_verificar_iso_aislamiento.py",
+    "temas": [
+      "ISO idéntica",
+      "reubicación sectorial sin pérdida de datos",
+      "rechazo de alteración no autorizada",
+      "autorización solo con SHA original",
+      "rechazo de modificación colateral",
+      "rechazo archivo fuera de rango",
+      "rechazo PVD corrupto"
+    ],
+    "ci": {
+      "tipo": "pull_request",
+      "commit": "0d2c1927ef6c806715e2fa7faaf49bae5fd590c1",
+      "url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021805",
+      "resultado": "success"
+    }
+  },
+  "rutas": {
+    "auditor": "scripts/verificar_iso_aislamiento.py",
+    "pruebas": "scripts/test_verificar_iso_aislamiento.py",
+    "complementarios": [
+      "scripts/verificar_bgpack_parche.py",
+      "parcheador/investigacion/v0.17/qa_integridad_graficos.py"
+    ]
+  },
+  "normas": [
+    "Conjunto de archivos y directorios del original y candidata deben coincidir",
+    "Archivos no autorizados conservan contenido SHA256 aunque su LBA cambie",
+    "Archivos autorizados exigen SHA256 fuente original fijado; no certifica su contenido interno",
+    "La herramienta no inspecciona sectores fuera de entradas ISO ni todos los metadatos de volumen",
+    "Conservar evaluación de BGPACK NISPACK/CLUT, EBOOT y fontB por herramientas especializadas",
+    "La prueba real exige ISO traducida, EDAT, PPSSPP y capturas"
+  ],
+  "pendientes": [
+    "Conseguir candidata ISO del motor v0.19.0 en entorno autorizado",
+    "Ejecutar diff original-candidata con autorizaciones por SHA autenticado",
+    "Comprobar cambios de estructura interior del miembro permitido y sectores extras",
+    "Prueba en PPSSPP real de retratos/tilemaps/HUD/mapa y todos los DLC"
+  ],
+  "ci_corpus": {
+    "tipo": "pull_request",
+    "url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021812",
+    "resultado": "success"
+  }
+}

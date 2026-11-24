@@ -16,6 +16,8 @@ on:
       - 'scripts/test_corazon_original.py'
       - 'scripts/verificar_bgpack_parche.py'
       - 'scripts/test_verificar_bgpack_parche.py'
+      - 'scripts/verificar_iso_aislamiento.py'
+      - 'scripts/test_verificar_iso_aislamiento.py'
   pull_request:
     paths:
       - 'docs/seguimiento/**'
@@ -32,6 +34,8 @@ on:
       - 'scripts/test_corazon_original.py'
       - 'scripts/verificar_bgpack_parche.py'
       - 'scripts/test_verificar_bgpack_parche.py'
+      - 'scripts/verificar_iso_aislamiento.py'
+      - 'scripts/test_verificar_iso_aislamiento.py'
 permissions:
   contents: read
 jobs:
@@ -56,3 +60,5 @@ jobs:
         run: python -m unittest discover -s scripts -p 'test_corazon_original.py' -v
       - name: Rechazar cambios gráficos BGPACK fuera de regiones autorizadas
         run: python -m unittest discover -s scripts -p 'test_verificar_bgpack_parche.py' -v
+      - name: Verificar aislamiento ISO9660 con reubicación y permisos de cambios (sintético)
+        run: python -m unittest discover -s scripts -p 'test_verificar_iso_aislamiento.py' -v

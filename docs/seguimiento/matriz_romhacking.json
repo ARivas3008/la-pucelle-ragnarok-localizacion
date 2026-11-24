@@ -141,6 +141,19 @@
       "tipo": "BGPACK: cobertura de NISPACK y CLUT; no altera mapa y recursos no-textuales",
       "estado": "sin_evidencia_C_ppsspp",
       "evidencia": "docs/seguimiento/informes/ROM-004_proteccion_bgpack.json"
+    },
+    {
+      "id": "ROM-023",
+      "tipo": "Aislamiento de 23 recursos originales ISO9660 con comparación exacta a sí mismos (A)",
+      "estado": "A_ORIGINAL_23_23_SIN_CANDIDATA",
+      "evidencia": "docs/seguimiento/informes/ROM-005_aislamiento_iso.json"
+    },
+    {
+      "id": "ROM-024",
+      "tipo": "Auditor ISO9660 diferencial reubicación LBA y autorizaciones por hash (7 tests sintéticos)",
+      "estado": "B_SINTETICOS_PASS_CI_PR_NO_CANDIDATA_REAL",
+      "evidencia": "scripts/verificar_iso_aislamiento.py | scripts/test_verificar_iso_aislamiento.py",
+      "ci": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021805"
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "id": "GFX-005",
+  "fecha": "2026-11-23",
+  "clase_evidencia": "A: ISO auténtica decodificada localmente; B: salvaguardas, C: no disponible",
+  "fuente": {
+    "iso_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+    "bgpack_sha256": "56e26744c01ad34ac79b4170746ccb6157eb6c5585b09e0340e3dbaef8f42e78"
+  },
+  "procedimiento": "Decodificar BGPACK NISPACK, deswizzle PSP 16 bytes x 8 líneas, paletas RGBA8888; observar PNG SOLO en entorno privado local; no subir assets comerciales",
+  "candidatos": [
+    {
+      "nombre": "wbg00.txp",
+      "ancho": 320,
+      "alto": 224,
+      "bpp": 4,
+      "sha256": "788220675566d5b112f4d4ef03458d8a22a9dc286ff14295496b7e5a67231e36",
+      "observacion": "Fondo en sepia: inscripciones estilizadas en zonas de tierra separadas por río; no se demuestra equivalencia literal con UI.",
+      "dictamen": "Conservar arte original; candidato decorativo por verificar en juego"
+    },
+    {
+      "nombre": "wmap.txp",
+      "ancho": 512,
+      "alto": 512,
+      "bpp": 8,
+      "sha256": "4cae81a1cedfbbaea3218ee9611db076d15e87c70409fccb35881555ed8e0f92",
+      "observacion": "Cartografía coloreada con inscripciones en múltiples regiones y aguas, posiblemente ambientación; no hay un diccionario confiable de grafemas ficticios ni equivalencias de nombres.",
+      "dictamen": "Conservar arte original; candidato decorativo por verificar en juego"
+    }
+  ],
+  "resultados": {
+    "textos_nuevos_demostrados": 0,
+    "graficos_editados": 0,
+    "graficos_certificados_v019": 0,
+    "unidades_ya_conocidas": 62,
+    "candidatos_en_bgpack": 8
+  },
+  "aceptacion_para_traducir": [
+    "Demostrar lectura concreta del término y correspondencia con mapa/UI",
+    "Identificar posición y límites del texto con referencia de escena",
+    "Reconstruir paleta/índices/reversibilidad y comprobar la candidata frente al original",
+    "Validación C en PPSSPP real"
+  ],
+  "proximo": "GFX-006"
+}

@@ -30,3 +30,7 @@ Se aprobaron 43 grupos editoriales independientes en [CENT-009](informes/CENT-00
 ## RELEVO-007 (CENT-010 / ROM-004 / GFX-004)
 
 Se revisaron editorialmente [53 grupos de diálogo](informes/CENT-010.json), elevando el catálogo conocido a **15.003 / 15.525** (522 pendientes). Se añadió un [control preventivo de BGPACK](informes/ROM-004_proteccion_bgpack.json) para rechazar cambios ajenos a píxeles TXP expresamente autorizados con SHA fuente y preservar CLUT, offsets y contenedor. Se mantienen [inscripciones ambiguas de mapas](informes/GFX-004_dictamen_inscripciones.json) sin editar. La matriz tiene 70 casos, todos sin probar para v0.19.0. El relevo recursivo está en [SIGUIENTE_RELEVO.md](prompts/SIGUIENTE_RELEVO.md).
+
+## RELEVO-008 — CENT-011, ROM-005 y GFX-005
+
+Se aprobaron **58 grupos editoriales adicionales**; siguen 464 pendientes conocidos y el inventario no es exhaustivo. [CENT-011](informes/CENT-011.json) documenta las escenas Homard/Yattanya/Éclair. [ROM-005](informes/ROM-005_aislamiento_iso.json) añade el verificador `scripts/verificar_iso_aislamiento.py` de archivos ISO9660 contra una candidata, sensible a hashes de contenido y permisos; 7 pruebas sintéticas pasaron localmente y el original se auto-comparó (23/23 recursos). Esto no certifica ISO parcheada. [GFX-005](informes/GFX-005_cartografia_original.json) deja sin cambio `wbg00.txp` y `wmap.txp` hasta demostrar nomenclatura. Se añadieron 6 casos QA, ninguno C v0.19.0. [RELEVO-009](prompts/SIGUIENTE_RELEVO.md) conserva el mandato recursivo completo.

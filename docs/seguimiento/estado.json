@@ -1,7 +1,7 @@
 {
   "esquema": "estado_v1",
   "fecha": "2026-11-23",
-  "base_main": "5019159c98f10a1d2475954dc63752644f018941",
+  "base_main": "a8b5900d4cd8b95c3e7e800528c9e0dda9af52bc",
   "version": "v0.19.0-integracion",
   "revision_corpus": {
     "total": 15016,
@@ -35,17 +35,20 @@
     "escritura_ambientacion_no_confirmada": [
       "wbg00.txp",
       "wmap.txp"
-    ]
+    ],
+    "informe_gfx005": "docs/seguimiento/informes/GFX-005_cartografia_original.json",
+    "nuevas_texturas_confirmadas": 0,
+    "texturas_modificadas_en_relevo008": 0
   },
   "betatesting": {
     "certificacion_v019": false,
-    "casos_catalogados": 70,
+    "casos_catalogados": 76,
     "casos_ejecutados_v019": 0
   },
   "iso_original": {
     "sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
     "comprobado": true,
-    "comprobado_en_relevo": "RELEVO-007",
+    "comprobado_en_relevo": "RELEVO-008",
     "archivo": "la_pucelle_original_relevo005.iso",
     "bytes": 858937344
   },
@@ -62,11 +65,11 @@
     "PPSSPP no disponible en el entorno",
     "Clon Windows no montado"
   ],
-  "siguiente_tarea": "RELEVO-008",
+  "siguiente_tarea": "RELEVO-009",
   "grupos_centrales": {
     "total": 509,
-    "pendientes": 233,
-    "revisados": 276,
+    "pendientes": 175,
+    "revisados": 334,
     "fuente": "data/preexistentes/509_revision_central.csv",
     "leido_directamente_de_main": true
   },
@@ -74,23 +77,23 @@
     "total_grupos_conocidos": 15525,
     "revisados_en_reparto": 14727,
     "pendientes_en_reparto": 289,
-    "pendientes_centrales": 233,
-    "pendientes_minimos": 522,
+    "pendientes_centrales": 175,
+    "pendientes_minimos": 464,
     "nota": "Denominadores de grupos separados de las 26258 unidades técnicas; quedan fuentes fuera de inventario.",
-    "revisados_centrales": 276,
-    "revisados_editoriales_conocidos": 15003
+    "revisados_centrales": 334,
+    "revisados_editoriales_conocidos": 15061
   },
   "tareas_independientes": [
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "CENT-011: continuar análisis contextual de 9639–9740 y 15135–15210, excluyendo los grupos con oraciones truncadas; investigar 6072–6074/6077–6078/6100/6102/6109 y generador corpus 02. ROM-005: probar BGPACK original vs ISO candidata sin cambios no autorizados, no distribuir arte ni ISO. DLC y PPSSPP necesarios para 11 grupos bloqueados y QA C.",
+  "criterio_siguiente": "CENT-012: revisar con reconstrucción de hablantes 15158–15210, 9639–9668 y 6072–6109; no aprobar fragmentos truncados. ROM-006: ejecutar diff de recursos y BGPACK sobre ISO realmente traducida, verificar sectores no asignados, PVD y DLC auténticos. GFX-006: decidir inscripción decorativa wbg00/wmap solo con nomenclatura de escenas reales. QA: 76 casos C v0.19.0 aún pendientes.",
   "revisiones_nuevas_en_esta_rama": {
-    "editoriales_centrales": 53,
+    "lote": "CENT-011",
+    "editoriales_centrales": 58,
     "insertadas_fisicamente": 0,
     "validacion_visual": 0,
-    "lote": "CENT-010",
-    "informe": "docs/seguimiento/informes/CENT-010.json"
+    "informe": "docs/seguimiento/informes/CENT-011.json"
   },
   "exclusiones_del_alcance": {
     "hymt2_pendientes": "excluido",
@@ -136,5 +139,18 @@
     "qa_inventarios_url": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45296899915",
     "resultado": "success_ambos",
     "tipo": "B: validadores y tests sintéticos; NO C de PPSSPP"
+  },
+  "romhacking_relevo008": {
+    "informe": "docs/seguimiento/informes/ROM-005_aislamiento_iso.json",
+    "tipo": "A: ISO original vs sí misma 23/23; B: 7 pruebas sintéticas correctas localmente y GitHub Actions PR; C: no disponible. ISO candidata traducida aún ausente.",
+    "verificacion_candidata_real": false,
+    "regla": "Los recursos no autorizados deben permanecer iguales por contenido incluso si cambian LBAs; los permitidos requieren SHA-256 del original; validar interior y PPSSPP aparte"
+  },
+  "ci_relevo008": {
+    "commit_evaluado": "0d2c1927ef6c806715e2fa7faaf49bae5fd590c1",
+    "qa_corpus": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021812",
+    "qa_seguimiento_rom005": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45300021805",
+    "resultado": "success, success",
+    "evidencia": "B: tests sintéticos e inventarios, NO PPSSPP ni ISO candidata real"
   }
 }

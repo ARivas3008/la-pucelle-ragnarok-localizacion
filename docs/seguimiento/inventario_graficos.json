@@ -990,7 +990,8 @@
         "certificado_v019": false,
         "estado_gfx003": "inscripcion_ambiental_no_equivalente_a_texto_UI_confirmado",
         "criterio": "preservar original hasta mapeo inequívoco contra topónimos y PPSSPP",
-        "es_texto_traducible_confirmado": false
+        "es_texto_traducible_confirmado": false,
+        "dictamen_gfx005": "Inscripciones en mapas y ríos, sin demostración de una traducción exacta por topónimo; conservar sin modificar, validar en PPSSPP."
       }
     },
     {
@@ -1088,7 +1089,8 @@
         "certificado_v019": false,
         "estado_gfx003": "inscripcion_ambiental_no_equivalente_a_texto_UI_confirmado",
         "criterio": "preservar original hasta mapeo inequívoco contra topónimos y PPSSPP",
-        "es_texto_traducible_confirmado": false
+        "es_texto_traducible_confirmado": false,
+        "dictamen_gfx005": "Inscripciones en mapas y ríos, sin demostración de una traducción exacta por topónimo; conservar sin modificar, validar en PPSSPP."
       }
     },
     {
@@ -1141,5 +1143,18 @@
     "informe": "docs/seguimiento/informes/GFX-004_dictamen_inscripciones.json",
     "prueba_integridad": "scripts/verificar_bgpack_parche.py",
     "nota": "No forzar una traducción para caligrafía ornamental no identificada."
+  },
+  "auditoria_gfx005": {
+    "id": "GFX-005",
+    "informe": "docs/seguimiento/informes/GFX-005_cartografia_original.json",
+    "fuente": "ISO original auténtica SHA 4360707b...; BGPACK SHA 56e26744...",
+    "cartografia": [
+      "wbg00.txp",
+      "wmap.txp"
+    ],
+    "dictamen": "inscripciones estilizadas de ambientación; equivalencia con interfaz no demostrada; preservar originals",
+    "nuevos_textos_confirmados": 0,
+    "imagenes_modificadas": 0,
+    "certificados_visual_v019": 0
   }
 }
