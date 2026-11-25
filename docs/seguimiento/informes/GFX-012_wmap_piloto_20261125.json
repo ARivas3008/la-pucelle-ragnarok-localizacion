@@ -1,0 +1,82 @@
+{
+  "id": "GFX-012",
+  "fecha": "2026-11-25",
+  "base": "integracion/romhacking-conservadora-20261125",
+  "evidencia": "A: ISO autentica; B: edicion de indices y auditoria sobre copia real; C: no ejecutada",
+  "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "iso_piloto_sha256": "89b08ba325f77b77ff9c2751d16fd2a0446f6229efe721b704920ef95d4e4e01",
+  "iso_bytes": 858937344,
+  "asset": {
+    "id": "GFX-U26214",
+    "nombre": "wmap_03.txp",
+    "texto_original": "World Map",
+    "texto_candidato": "Mapa del mundo",
+    "offset_iso": 858736640,
+    "bytes": 132112,
+    "ancho": 512,
+    "alto": 256,
+    "bpp": 8,
+    "clut_bancos": 1,
+    "rectangulo_xyxy": [
+      68,
+      153,
+      225,
+      191
+    ],
+    "sha_original": "e1bbff94bdb7cea95e401bb51671cecea25870912527be36072493e98e1ccc50",
+    "sha_candidato": "2cd0ddfdea9e2e307c5317fb83597767b7cf0add00bcc5876158cca663bfcfbc",
+    "indices_modificados": 4523,
+    "cabecera_clut_identicas": true,
+    "roundtrip_original": true,
+    "delta_reconstruido": true
+  },
+  "bgpack": {
+    "miembros": 285,
+    "intactos": 284,
+    "modificados": [
+      "wmap_03.txp"
+    ],
+    "sha_original": "56e26744c01ad34ac79b4170746ccb6157eb6c5585b09e0340e3dbaef8f42e78",
+    "sha_piloto": "9410bccedfea2e3d4a5fe07bdc762d41732b80097be8044875aa959a2fc793ab",
+    "bytes_fuera_textura_identicos": 858805232,
+    "tabla_miembros_identica": true
+  },
+  "qa_negativa": {
+    "hash_destino": "rechazado",
+    "cabecera": "rechazado",
+    "fuera_rectangulo": "rechazado",
+    "duplicado": "rechazado"
+  },
+  "defectos": [
+    {
+      "id": "GFX-TITULO-ORIG-017",
+      "recurso": "at17.txp",
+      "texto_observado": "Appearance Of Despair",
+      "texto_manifiesto": "Emperor Of Despair",
+      "revision_actual": "El emperador de la desesperación",
+      "estado": "requiere cotejo japonés y contexto; no se alteró"
+    },
+    {
+      "id": "GFX-TITULO-ORIG-018",
+      "recurso": "at18.txp",
+      "texto_observado": "Sister Of Darkness",
+      "texto_manifiesto": "Spirit Of Darkness",
+      "revision_actual": "El espíritu de las tinieblas",
+      "estado": "requiere cotejo japonés y contexto; no se alteró"
+    }
+  ],
+  "decision_artistica": "Reconstrucción aproximada localizada del fondo, texto serif dorado de contorno oscuro, paleta original intacta. Revisar semejanza tipográfica y arte en pantalla.",
+  "beta": {
+    "casos_preexistentes": 85,
+    "casos_ppsspp_ejecutados": 0,
+    "preflight_binario": "aprobado para piloto aislado",
+    "bloqueo": "PPSSPP no instalado; descarga AppImage falló. Clon directo sin DNS.",
+    "siguientes": [
+      "BT-BOOT",
+      "BT-WMAP",
+      "BT-ROM-BGPACK-01",
+      "BT-GFX007-02"
+    ]
+  },
+  "limites": "El piloto contiene solo el delta de wmap_03, no la ISO acumulada. No se ha integrado en motor ni certificado visualmente. Artefacto de delta y aplicador entregado por separado al usuario; no se suben ISO ni texturas. Rama conservadora intacta."
+}
