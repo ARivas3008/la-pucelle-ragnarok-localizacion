@@ -98,6 +98,33 @@ def variante_tabla_rom020(row,text,raw,cap,variants):
  if not data or b'\0' in data or len(data)>=cap:return None
  return compact,data,cap
 
+
+def variante_tabla_rom021(row,text,raw,cap,variants):
+ """Compacidad de objetos/modificadores con anclas, reserva y SHA exactos."""
+ v=variants.get(row['unit_id'])
+ if not v or v['tipo']!='compacto' or text!=v['revision']:return None
+ if any(str(row[k])!=str(v[k]) for k in ('unit_id','grupo_id','recurso','offset','original')):return None
+ resource=row['recurso']
+ profiles={
+  'ISO_START/kis.dat':('4bfbd0175f7d8a8feb7bbe8b94379b3cbe10c893c0768430ef9fd80731a135d3',(21,57)),
+  'ISO_START/ritem.dat':('3abb44d07f3e07f39626536f0320147776b6913108c6190aca186c108642abbb',(13,43)),
+ }
+ profile=profiles.get(resource)
+ if not profile:return None
+ expected,caps=profile
+ if cap not in caps or v['capacidad']!=cap or v['sha256_recurso']!=expected or hashlib.sha256(raw).hexdigest()!=expected:return None
+ try:
+  if len(encode_script_text(text))<cap:return None
+ except FontError:return None
+ compact=v['compacto']
+ if not compact or any(unicodedata.category(c).startswith('C') for c in compact):return None
+ # El botón cuadrado es un símbolo funcional, no puntuación decorativa.
+ if text.count('□')!=compact.count('□'):return None
+ try:data=encode_script_text(compact)
+ except FontError:return None
+ if not data or b'\0' in data or len(data)>=cap:return None
+ return compact,data,cap
+
 def aplicar(key,original,current,manifest,reviews):
  extra=ROOT/'datos/campos_revisados_adicionales.json'
  overrides={r['unit_id']:r for r in json.loads(extra.read_text(encoding='utf8'))} if extra.exists() else {}
@@ -107,6 +134,8 @@ def aplicar(key,original,current,manifest,reviews):
  table_variants={r['unit_id']:r for r in json.loads(table_path.read_text(encoding='utf8'))} if table_path.exists() else {}
  rom020_path=ROOT/'datos/campos_compactos_rom020.json'
  rom020_variants={r['unit_id']:r for r in json.loads(rom020_path.read_text(encoding='utf8'))} if rom020_path.exists() else {}
+ rom021_path=ROOT/'datos/campos_compactos_rom021.json'
+ rom021_variants={r['unit_id']:r for r in json.loads(rom021_path.read_text(encoding='utf8'))} if rom021_path.exists() else {}
  journal=[];pending=[]
  for row in manifest:
   res=row['recurso'];name=res.split('/')[-1]
@@ -136,6 +165,9 @@ def aplicar(key,original,current,manifest,reviews):
   if cap is None or len(data)>=cap:
    fallback20=variante_tabla_rom020(row,text,raw,cap,rom020_variants)
    if fallback20 is not None:text,data,cap=fallback20
+  if cap is None or len(data)>=cap:
+   fallback21=variante_tabla_rom021(row,text,raw,cap,rom021_variants)
+   if fallback21 is not None:text,data,cap=fallback21
   if cap is None or len(data)>=cap:
    pending.append(dict(unit_id=uid,motivo='No cabe en reserva verificada',capacidad=cap,bytes=len(data),es=text));continue
   missing=missing_render_glyphs(decode_es(data),current)
