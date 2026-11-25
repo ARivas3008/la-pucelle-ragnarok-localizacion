@@ -76,12 +76,12 @@
     "escenas y cuatro DLC exhaustivos"
   ],
   "bloqueos": [
-    "Acceso a ejecución local falló; ISO comprimida original de 332791211 bytes supera límite de materialización.",
-    "Candidata única ISO+DLC sin reconstruir ni releer; recetas privadas ROM029 deben incorporarse en entorno local.",
-    "PPSSPP no ejecutado.",
-    "3006 unidades ISO TALK, 2 rótulos EBOOT y 62 gráficos pendientes según auditoría agregada."
+    "Candidata única ISO+DLC aún sin reconstruir: ROM033 contiene solo el lote nuevo de 3006 IDs, no las 17077 unidades históricas ni las tablas/DLC anteriores.",
+    "SCRIPTPACK reubicado al final de ISO piloto (LBA 419403); requiere PPSSPP.",
+    "2 rótulos EBOOT corregidos y 62 unidades gráficas pendientes de certificación; no se cuentan como resueltas.",
+    "No se han certificado apariciones físicas fuera de manifiesto ni juego real."
   ],
-  "siguiente_tarea": "ROM-033 — reconstrucción conjunta y cotejo de 3070 pendientes",
+  "siguiente_tarea": "ROM-034 — integrar todos los pilotos desde anclas originales y resolver 2 EBOOT + 62 gráficos",
   "grupos_centrales": {
     "total": 509,
     "pendientes": 0,
@@ -451,5 +451,18 @@
     "iso_scripts_documentados": 485,
     "candidata_integral": false,
     "ppsspp": false
+  },
+  "rom033": {
+    "informe": "docs/seguimiento/informes/ROM-033_iso_talk_cierre.json",
+    "iso_talk_historicos": 17077,
+    "iso_talk_nuevos": 3006,
+    "iso_talk_total": 20083,
+    "iso_talk_pendientes": 0,
+    "agregada": 26193,
+    "validas": 26257,
+    "pendientes": 64,
+    "candidata_integral": false,
+    "ppsspp": false,
+    "iso_piloto_sha256": "383b5ce789489d0104df3dbe9931789eea5dfb8cfbaca68ffc6338d06382d86b"
   }
 }

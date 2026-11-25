@@ -1,3 +1,9 @@
+# ROM-034 — Cierre integral desde ROM-033
+
+Consultar HEAD de `relevo/rom033-iso-talk-cierre-20261125` y PR, leer informe ROM-033_iso_talk_cierre.md/.json y estado.json. 20.083/20.083 diálogos ISO agregados, 3.006 nuevos sobre piloto privado, 26.193/26.257 agregadas. Pendientes 2 EBOOT y 62 gráficos; reconstrucción única y PPSSPP pendientes. Reproducir ROM033 desde paquete privado de fuentes SHA d716f2d8309c81cab186503dc5434e70b3e2a948bf2afe879da95f92abf3f49e; no sustituir candidato integral por ISO piloto parcial. Unir anclas y diarios previos, verificar no solapamiento, controles y hashes, certificar única candidata. Mantener instrucciones recursivas anteriores como contexto y no retroceder de rama.
+
+---
+
 # ROM-033 — Continuación desde la rama conservadora ROM-032
 
 Consultar HEAD real de `integracion/romhacking-conservadora-20261125` y su PR directo a main; no repetir los relevos ROM016–031. Último HEAD verificado anterior a78e9e8d21580bd11a2751d1780a40914c99f64d. Leer docs/seguimiento/informes/ROM-032_consolidacion_conservadora.md y .json, estado.json y el auditor scripts/auditar_rom032_consolidacion.py. Reproducir primero la candidata integral ISO+DLC en entorno con acceso a originales y ZIP privado ROM029; mantener el original SHA autenticado. No sumar pilotos duplicados. Pendientes agregados: 3006 TALK ISO, 2 EBOOT, 62 gráficos; 23187/26257 agregados incluyendo adaptaciones históricas, 21805/26258 integral histórica. Traducción catalogada completa, gráficos y betatesting no certificados. Si la ejecución sigue bloqueada, registrar el bloqueo y continuar con trabajo verificable. Los criterios y obligación recursiva siguientes se mantienen; los identificadores históricos del relevo anterior sirven solo como contexto, no como base de trabajo actual.

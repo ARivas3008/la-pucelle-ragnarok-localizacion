@@ -99,3 +99,6 @@ jobs:
 
       - name: Verificar evidencias y contabilidad de la rama conservadora ROM-032
         run: python scripts/auditar_rom032_consolidacion.py
+
+      - name: Conciliar inventario y revisiones ROM-033 (sin binarios comerciales)
+        run: python scripts/auditar_rom033_iso_talk.py
