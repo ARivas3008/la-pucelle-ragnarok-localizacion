@@ -1,0 +1,76 @@
+{
+  "id": "BETA-016",
+  "fecha": "2026-11-25",
+  "base": "BETA-015 / GFX-014",
+  "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "iso_candidata_sha256": "446023f72d5e1aa84a57d518bb19c60cb712d419996b54292a4f53b85425d31c",
+  "evidencia": "A/B estática; sin ejecución de PPSSPP",
+  "casos": {
+    "GFX014-BOOT": {
+      "estado": "preflight_estatico_parcial_aprobado",
+      "disc_id": "ULJS00244",
+      "bootable": 1,
+      "eboot_sha256": "2b9a1a9864f3b236e83a2848f839023e92dcb7a5272bcb430cef527eafb563f6",
+      "elf": "ELF32 LE MIPS",
+      "entrada": "0x08867b50",
+      "offset_entrada": 408484,
+      "bytes_entrada": "e0ffbd27",
+      "bibliotecas": 21,
+      "secciones": 24,
+      "segmentos": 1,
+      "recursos_arranque_intactos": 6,
+      "start_miembros": 36,
+      "start_intactos": 31,
+      "pvd_sectores": 380120,
+      "sectores_fisicos": 419403,
+      "nota": "Diferencia de PVD preexistente, idéntica al original."
+    },
+    "GFX014-SAVE": {
+      "estado": "preflight_estatico_parcial_aprobado",
+      "disc_id": "ULJS00244",
+      "eboot_intacto": true,
+      "nids_sceUtility": {
+        "sceUtilitySavedataInitStart": "0x50c4cd57",
+        "sceUtilitySavedataShutdownStart": "0x9790b33c",
+        "sceUtilitySavedataUpdate": "0xd4b95ffb",
+        "sceUtilitySavedataGetStatus": "0x8874dbe0"
+      },
+      "iconos_png_intactos": [
+        "NSAVEICON.PNG",
+        "SAVE000.PNG",
+        "SAVE001.PNG"
+      ],
+      "dimensiones": [
+        144,
+        80
+      ],
+      "nota": "Sin creación/carga de partidas reales."
+    }
+  },
+  "controles_negativos": {
+    "rechazados": 4,
+    "total": 4,
+    "casos": [
+      "Entrada ELF inválida",
+      "Tabla ELF fuera de rango",
+      "Tabla SFO fuera de rango",
+      "NID de guardado ausente"
+    ]
+  },
+  "matriz": {
+    "casos": 28,
+    "preflight_parcial_anterior": 26,
+    "preflight_parcial_actual": 28,
+    "cobertura_parcial_pct": 100,
+    "ejecutados_ppsspp": 0,
+    "aprobados_ppsspp": 0,
+    "bloqueados_ppsspp": 28
+  },
+  "limites": [
+    "100% solo cobertura de preflight parcial de la matriz GFX-014, no aprobación visual ni funcional",
+    "Tres riesgos gráficos BETA-015 continúan abiertos",
+    "ISO gráfica aislada: EBOOT y SCRIPTPACK no contienen integración textual acumulada",
+    "No se modificaron ISO, DLC ni rama conservadora",
+    "ZIP con script, matriz y logs entregado localmente; no publicado en GitHub"
+  ]
+}
