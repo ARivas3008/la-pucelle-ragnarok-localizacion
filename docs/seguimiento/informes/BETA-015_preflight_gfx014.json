@@ -1,0 +1,58 @@
+{
+  "id": "BETA-015",
+  "fecha": "2026-11-25",
+  "base": "GFX-014",
+  "iso_sha256": "446023f72d5e1aa84a57d518bb19c60cb712d419996b54292a4f53b85425d31c",
+  "evidencia": "A/B: lectura independiente de ISO original y candidata; C no ejecutada",
+  "regresiones": {
+    "ejecutadas": 7,
+    "aprobadas": 7
+  },
+  "auditoria": {
+    "archivos_iso": 23,
+    "intactos": 20,
+    "modificados": [
+      "BGPACK.DAT",
+      "MAPPACK.DAT",
+      "START_JP.LZS"
+    ],
+    "bytes_exteriores_identicos": 745987193,
+    "txp": 22,
+    "bancos_rgba": 67,
+    "slots_editados": 57,
+    "miembros_intactos": 442,
+    "referencias_lzs_no_solapadas": 667622,
+    "diferencias_bytes_cartel": 2544,
+    "directorio_pvd_identicos": true
+  },
+  "matriz": {
+    "casos": 28,
+    "ejecutados_ppsspp": 0,
+    "aprobados_ppsspp": 0,
+    "bloqueados": 28,
+    "preflight_estatico_parcial": 26
+  },
+  "hallazgos": [
+    {
+      "id": "BETA015-VIS-01",
+      "recurso": "at15–at18",
+      "estado": "riesgo visual abierto: contraste sobre ornamentos"
+    },
+    {
+      "id": "BETA015-VIS-02",
+      "recurso": "mp03205.mpp",
+      "estado": "fragmentos de letras en cartel superpuesto; ubicación cueva no confirmada"
+    },
+    {
+      "id": "BETA015-VIS-03",
+      "recurso": "sys5.txp",
+      "estado": "riesgo de legibilidad de ¡Impacto! comprimido horizontalmente"
+    }
+  ],
+  "bloqueos": [
+    "PPSSPP no instalado; curl (6) Could not resolve host: github.com",
+    "Candidata aislada conserva EBOOT.BIN y SCRIPTPACK.DAT originales; no prueba traducción ni DLC"
+  ],
+  "entrega": "LaPucelle_BETA015_QA.zip: auditor independiente, informes, logs, matriz y vistas CLUT. ZIP entregado localmente, no publicado en GitHub.",
+  "certificacion": false
+}
