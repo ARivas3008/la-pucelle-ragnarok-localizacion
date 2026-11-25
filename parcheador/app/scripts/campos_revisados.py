@@ -161,6 +161,30 @@ def variante_tabla_rom022(row,text,raw,cap,variants):
  if not data or b'\0' in data or len(data)>=cap:return None
  return compact,data,cap
 
+
+def variante_tabla_rom024(row,text,raw,cap,variants):
+ """Campos compactos DLC comprobados sobre EDAT del usuario (ROM-024)."""
+ v=variants.get(row['unit_id'])
+ if not v or text!=v['revision']:return None
+ if any(str(row[k])!=str(v[k]) for k in ('unit_id','grupo_id','recurso','offset','original')):return None
+ hashes={"DLC_00/char.dat":"da1774a05b102521f090389e398efea151fe1ecd363b6f748985e1a81cb0cbe7","DLC_01/magic.dat":"ddfde78010ef46b77e6a5aa33939b645bb54f0961f25e300181e472232c71b8e","DLC_02/magic.dat":"3170e64b3d8d5d8e0d47e05c0ca9a6fafcd0af9a2a0f42d25cd3998ef75af3db","DLC_03/magic.dat":"85cd657833ea5b6b8757ded2d3ec8979a770b3cbf7b24e1e935c8449e09d5a52"}
+ expected=hashes.get(row['recurso'])
+ if not expected or v['sha256_recurso']!=expected or hashlib.sha256(raw).hexdigest()!=expected:return None
+ caps=(24,) if row['recurso'].endswith('/char.dat') else (23,57)
+ if cap not in caps or cap!=v['capacidad']:return None
+ compact=v['compacto']
+ if not compact or any(unicodedata.category(c).startswith('C') for c in compact):return None
+ icons='①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳'
+ if [c for c in text if c in icons]!=[c for c in compact if c in icons]:return None
+ if text[0] in icons and compact[0]!=text[0]:return None
+ if text.count('□')!=compact.count('□'):return None
+ try:
+  if len(encode_script_text(text))<cap:return None
+  data=encode_script_text(compact)
+ except FontError:return None
+ if not data or b'\0' in data or len(data)>=cap:return None
+ return compact,data,cap
+
 def aplicar(key,original,current,manifest,reviews):
  extra=ROOT/'datos/campos_revisados_adicionales.json'
  overrides={r['unit_id']:r for r in json.loads(extra.read_text(encoding='utf8'))} if extra.exists() else {}
@@ -174,6 +198,8 @@ def aplicar(key,original,current,manifest,reviews):
  rom021_variants={r['unit_id']:r for r in json.loads(rom021_path.read_text(encoding='utf8'))} if rom021_path.exists() else {}
  rom022_path=ROOT/'datos/campos_compactos_rom022.json'
  rom022_variants={r['unit_id']:r for r in json.loads(rom022_path.read_text(encoding='utf8'))} if rom022_path.exists() else {}
+ rom024_path=ROOT/'datos/campos_compactos_rom024.json'
+ rom024_variants={r['unit_id']:r for r in json.loads(rom024_path.read_text(encoding='utf8'))} if rom024_path.exists() else {}
  journal=[];pending=[]
  for row in manifest:
   res=row['recurso'];name=res.split('/')[-1]
@@ -209,6 +235,9 @@ def aplicar(key,original,current,manifest,reviews):
   if cap is None or len(data)>=cap:
    fallback22=variante_tabla_rom022(row,text,raw,cap,rom022_variants)
    if fallback22 is not None:text,data,cap=fallback22
+  if cap is None or len(data)>=cap:
+   fallback24=variante_tabla_rom024(row,text,raw,cap,rom024_variants)
+   if fallback24 is not None:text,data,cap=fallback24
   if cap is None or len(data)>=cap:
    pending.append(dict(unit_id=uid,motivo='No cabe en reserva verificada',capacidad=cap,bytes=len(data),es=text));continue
   missing=missing_render_glyphs(decode_es(data),current)

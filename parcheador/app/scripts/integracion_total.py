@@ -17,6 +17,7 @@ from menus_adicionales import aplicar as menus_extra
 from correcciones_tablas_qa import aplicar as etiquetas
 from campos_revisados import aplicar as campos
 from revisiones_coordinadas import merge_central
+from dlc_originales import verificar_dlc_originales
 VERSION='0.19.0-integracion'
 # ISO base auténtica, comprobada en la auditoría de recursos originales.
 ISO_BASE_SHA256='4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5'
@@ -95,6 +96,7 @@ def run(args):
  # Preflight de originales y rutas antes de crear directorios o escribir una candidata.
  if args.iso:verificar_iso_base(args.iso)
  out=verificar_destinos(args.iso,args.dlc_directorio,args.salida)
+ dlc_originales=verificar_dlc_originales(args.dlc_directorio) if args.dlc_directorio else {}
  out.mkdir(parents=True,exist_ok=True)
  final=out/'JUEGO_PARA_PPSSPP'
  stage=out/'construccion';stage.mkdir(exist_ok=False)
@@ -208,7 +210,7 @@ def run(args):
  dump(reports/'signos_originales_conservados.json',preserved)
  dump(reports/'scripts.json',script_report);dump(reports/'grupos_no_catalogados.json',rejected)
  hashes={str(p.relative_to(stage)):c.sha_file(p) for p in stage.rglob('*') if p.is_file()}
- summary=dict(version=VERSION,bloques_talk_insertados=len(applied),bloques_talk_pendientes=len(pending),bloques_signos_originales=len(preserved),scripts=dict(script_stats),hashes=hashes,componentes=proof,corpus_sha256=checks,estado_editorial=dict(states),validacion_visual='PENDIENTE: no certifica PPSSPP ni traducción completa')
+ summary=dict(version=VERSION,dlc_originales=dlc_originales,bloques_talk_insertados=len(applied),bloques_talk_pendientes=len(pending),bloques_signos_originales=len(preserved),scripts=dict(script_stats),hashes=hashes,componentes=proof,corpus_sha256=checks,estado_editorial=dict(states),validacion_visual='PENDIENTE: no certifica PPSSPP ni traducción completa')
  dump(reports/'construccion.json',summary)
  stage.rename(final)
  print('Entrega generada:',final,flush=True)

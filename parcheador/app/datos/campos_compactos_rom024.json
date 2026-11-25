@@ -1,0 +1,145 @@
+[
+  {
+    "unit_id": "75",
+    "grupo_id": "75",
+    "recurso": "DLC_00/char.dat",
+    "offset": "17008",
+    "original": "ヌシの子",
+    "revision": "Cría del señor del bosque",
+    "compacto": "Cría del Señor Bosque",
+    "capacidad": 24,
+    "sha256_recurso": "da1774a05b102521f090389e398efea151fe1ecd363b6f748985e1a81cb0cbe7"
+  },
+  {
+    "unit_id": "83",
+    "grupo_id": "83",
+    "recurso": "DLC_00/char.dat",
+    "offset": "18608",
+    "original": "魔界の使者",
+    "revision": "Emisario del Mundo Oscuro",
+    "compacto": "Emisario Mundo Oscuro",
+    "capacidad": 24,
+    "sha256_recurso": "da1774a05b102521f090389e398efea151fe1ecd363b6f748985e1a81cb0cbe7"
+  },
+  {
+    "unit_id": "88",
+    "grupo_id": "88",
+    "recurso": "DLC_00/char.dat",
+    "offset": "19608",
+    "original": "国王派兵士隊長",
+    "revision": "Capitán de las tropas reales",
+    "compacto": "Capitán de tropa real",
+    "capacidad": 24,
+    "sha256_recurso": "da1774a05b102521f090389e398efea151fe1ecd363b6f748985e1a81cb0cbe7"
+  },
+  {
+    "unit_id": "124",
+    "grupo_id": "124",
+    "recurso": "DLC_00/char.dat",
+    "offset": "27008",
+    "original": "闇の王子",
+    "revision": "Príncipe de las tinieblas",
+    "compacto": "Príncipe de tinieblas",
+    "capacidad": 24,
+    "sha256_recurso": "da1774a05b102521f090389e398efea151fe1ecd363b6f748985e1a81cb0cbe7"
+  },
+  {
+    "unit_id": "125",
+    "grupo_id": "125",
+    "recurso": "DLC_00/char.dat",
+    "offset": "27208",
+    "original": "未知の巨大生物",
+    "revision": "Criatura gigantesca desconocida",
+    "compacto": "Criatura gigante ignota",
+    "capacidad": 24,
+    "sha256_recurso": "da1774a05b102521f090389e398efea151fe1ecd363b6f748985e1a81cb0cbe7"
+  },
+  {
+    "unit_id": "135",
+    "grupo_id": "135",
+    "recurso": "DLC_00/char.dat",
+    "offset": "29408",
+    "original": "聖女会病棟",
+    "revision": "Enfermería de la Santa Doncella",
+    "compacto": "Enfermería Doncella",
+    "capacidad": 24,
+    "sha256_recurso": "da1774a05b102521f090389e398efea151fe1ecd363b6f748985e1a81cb0cbe7"
+  },
+  {
+    "unit_id": "3269",
+    "grupo_id": "2805",
+    "recurso": "DLC_01/magic.dat",
+    "offset": "1905",
+    "original": "2□ボタンを連打しても連射はできないッス!!",
+    "revision": "②¡Por mucho que pulses el botón □, no conseguirás disparar en ráfaga, tío!",
+    "compacto": "②¡Pulsa □ cuanto quieras: no habrá ráfaga, tío!",
+    "capacidad": 57,
+    "sha256_recurso": "ddfde78010ef46b77e6a5aa33939b645bb54f0961f25e300181e472232c71b8e"
+  },
+  {
+    "unit_id": "3356",
+    "grupo_id": "2871",
+    "recurso": "DLC_02/magic.dat",
+    "offset": "1998",
+    "original": "戦女神のラッパ",
+    "revision": "Trompeta de la diosa guerrera",
+    "compacto": "Trompeta diosa bélica",
+    "capacidad": 23,
+    "sha256_recurso": "3170e64b3d8d5d8e0d47e05c0ca9a6fafcd0af9a2a0f42d25cd3998ef75af3db"
+  },
+  {
+    "unit_id": "3362",
+    "grupo_id": "2877",
+    "recurso": "DLC_02/magic.dat",
+    "offset": "34710",
+    "original": "ラズベリル特殊1",
+    "revision": "Especial 1 de Raspberyl",
+    "compacto": "Especial 1 Raspberyl",
+    "capacidad": 23,
+    "sha256_recurso": "3170e64b3d8d5d8e0d47e05c0ca9a6fafcd0af9a2a0f42d25cd3998ef75af3db"
+  },
+  {
+    "unit_id": "3364",
+    "grupo_id": "2879",
+    "recurso": "DLC_02/magic.dat",
+    "offset": "34826",
+    "original": "ラズベリル特殊2",
+    "revision": "Especial 2 de Raspberyl",
+    "compacto": "Especial 2 Raspberyl",
+    "capacidad": 23,
+    "sha256_recurso": "3170e64b3d8d5d8e0d47e05c0ca9a6fafcd0af9a2a0f42d25cd3998ef75af3db"
+  },
+  {
+    "unit_id": "3455",
+    "grupo_id": "2955",
+    "recurso": "DLC_03/magic.dat",
+    "offset": "16962",
+    "original": "狂い咲き乱射花",
+    "revision": "Flor de ráfagas desatadas",
+    "compacto": "Flor de ráfagas",
+    "capacidad": 23,
+    "sha256_recurso": "85cd657833ea5b6b8757ded2d3ec8979a770b3cbf7b24e1e935c8449e09d5a52"
+  },
+  {
+    "unit_id": "3456",
+    "grupo_id": "2956",
+    "recurso": "DLC_03/magic.dat",
+    "offset": "16985",
+    "original": "2時には美しく、時には激しく乱れ咲く一輪の花",
+    "revision": "②Una flor que unas veces florece hermosa y otras, salvajemente.",
+    "compacto": "②Una flor que florece hermosa o salvajemente.",
+    "capacidad": 57,
+    "sha256_recurso": "85cd657833ea5b6b8757ded2d3ec8979a770b3cbf7b24e1e935c8449e09d5a52"
+  },
+  {
+    "unit_id": "3458",
+    "grupo_id": "2958",
+    "recurso": "DLC_03/magic.dat",
+    "offset": "17101",
+    "original": "3眠れる力が目覚めし刻、大地に血の花を散らす",
+    "revision": "③Cuando despierte su poder oculto, la tierra quedará salpicada de flores de sangre.",
+    "compacto": "③Al despertar, su poder siembra flores de sangre.",
+    "capacidad": 57,
+    "sha256_recurso": "85cd657833ea5b6b8757ded2d3ec8979a770b3cbf7b24e1e935c8449e09d5a52"
+  }
+]
