@@ -1,0 +1,12 @@
+# ROM-029 — 100% de reinserción agregada de textos DLC válidos
+
+25/11/2026 Lima. Base ROM-028 8232644893b0d8dc93aed11900f1c118a5f39487. QA corpus e inventarios de esa base aprobados (45615666519 y 45615666533). Se reextrajeron los cuatro EDAT aportados y autenticaron contra SHA ROM-024. Se reprodujo ROM-028 con igualdad exacta de su evidencia JSON y se reconstruyó ROM-029 sobre los originales. Verificador comparativo local ejecutado, cuatro PASS.
+
+## Unidad 1744
+DLC_00/script00.dat, offset 882022, opcode 0x32, longitud original 19 incluido NUL, fuente 現在読み込み中......, revisión aprobada Cargando... en corpus/02/revision.csv. Se levanta solo esta exclusión por solicitud de cierre de todos los textos DLC. Texto destino 11 bytes + NUL, sin punteros interiores ni glifos ausentes. Reubicación conservadora reversible de 19 rótulos, 2152 índices e identificadores conservados. SHA del script nuevo 193071a2c199156ab9b76ee906d9856eab700af718225f7a177140569fa788a2; el comparador recompila los 18 rótulos antiguos y obtiene exactamente el script ROM-028. Solo cambia script00.dat del DLC00 frente a ROM-028; los restantes tres EDAT son idénticos. El guard del motor limita la excepción a recurso, ID, offset, revisión aprobada, SHA original y bytes del opcode completos. No se elimina la política general Now Loading. Pruebas sintéticas nuevas pendientes de CI.
+
+## Unidad 1630
+DLC_00/ritem.dat, offset 7552 = 8+82*92; encabezado del registro, bytes 20 AA 44 00, uint32 LE 4500000. Los verdaderos campos están en +4 (7556, ID1631) y +17 (7569, ID1632), ya contabilizados. La interpretación CP932 de bytes numéricos es un falso positivo. Se confirma que los cuatro bytes permanecen idénticos en original, ROM028 y ROM029. No se modifica ni se renumera el manifiesto de 26258 unidades.
+
+## Contabilidad y alcance
+2733 IDs de ROM027 + 803 IDs independientes de ROM029, disjuntos = 3536/3536 textos válidos (100%). 3536/3537 filas históricas = 99,9717%; 1 no-texto clasificado, cero textos pendientes en inventario directo. 1849/1849 campos válidos, 1668/1668 TALK, 19/19 scripts. 2746541 referencias LZS sin solapamiento en los cuatro EDAT ROM029. El lote nuevo conserva todas las 802 unidades ROM028. Se entrega el paquete actualizado de código y evidencia por separado en el chat. No publica recursos comerciales. No se ha ejecutado la candidata única acumulada ni PPSSPP ni se certifican apariciones físicas reutilizadas. Esta métrica no se suma a la histórica integral de 26258.

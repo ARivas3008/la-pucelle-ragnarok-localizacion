@@ -1,0 +1,62 @@
+{
+  "base_commit": "8232644893b0d8dc93aed11900f1c118a5f39487",
+  "previous_pilot_reproduced": true,
+  "extra_id": 1744,
+  "source_revision": "Cargando...",
+  "source_sha256": "539dcc66c6233471a0814bad296bce709602fbbfa9b566faac5be0337d059eae",
+  "rom028_script_sha256": "f62a2dac90d22e5a452d06af02743d8eb54ae3bd4fe3e61231ab960d9e285d32",
+  "rom029_script_sha256": "193071a2c199156ab9b76ee906d9856eab700af718225f7a177140569fa788a2",
+  "source_offset": 882022,
+  "destination_offset": 882042,
+  "original_bytes": 18,
+  "destination_bytes": 11,
+  "script_indices": 2152,
+  "interior_pointers": 0,
+  "unassigned_glyphs": 0,
+  "previous_ids": 2733,
+  "new_ids": 803,
+  "new_ids_sha256": "cf024c75debb243602420546830c81570d2d6301c31c7f2fd10e4911eb241795",
+  "aggregated": 3536,
+  "valid_texts": 3536,
+  "manifest_rows": 3537,
+  "non_text": {
+    "unit_id": 1630,
+    "resource": "DLC_00/ritem.dat",
+    "offset": 7552,
+    "bytes_hex": "20aa4400",
+    "u32_le": 4500000,
+    "preserved": true,
+    "real_fields": [
+      {
+        "unit_id": 1631,
+        "offset": 7556
+      },
+      {
+        "unit_id": 1632,
+        "offset": 7569
+      }
+    ]
+  },
+  "packs": {
+    "DLC_00": {
+      "edat_sha256": "da91d94b585f96bb05ec2b30abc80f473670d42f8e3e5e2978888f7c5f0a3f07",
+      "dat_sha256": "42de6fe5c86428c174469526208e5a571c45b50ee15fdd805cb1f41c5d145021",
+      "bytes": 5247761,
+      "refs": 672359
+    },
+    "DLC_01": {
+      "edat_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+      "refs": 682662
+    },
+    "DLC_02": {
+      "edat_sha256": "29994e11cfea595974354ce6aec41a792d796ce2083e52c4a4f50bb35162bc2a",
+      "refs": 690607
+    },
+    "DLC_03": {
+      "edat_sha256": "93683cb856f79b98a7c1a1d98f78bb1dce021ef6f8f208faa953ccba82183bdf",
+      "refs": 700913
+    }
+  },
+  "aggregate_single_candidate": false,
+  "ppsspp": false
+}
