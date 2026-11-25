@@ -1,0 +1,110 @@
+{
+  "id": "GFX-013",
+  "fecha": "2026-11-25",
+  "evidencia": "A original autentico + B piloto grafico acumulado estatico; C no ejecutada",
+  "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "iso_candidata_sha256": "94ac544bb986e32fc08c2e1463dd9e9c01e876ca443cc4dd42b553386ba7f332",
+  "bytes_iso": 858937344,
+  "archivos_iso": 23,
+  "archivos_modificados": 2,
+  "layout_y_pvd_identicos": true,
+  "bytes_exteriores_identicos": 784930395,
+  "start_jp_lzs_bytes": 5176725,
+  "start_jp_lzs_sha256": "d2f3e0ee39bc18fb58bed022eaa429a73ce06dacdee316a185806c1463e5a363",
+  "start_dat_sha256": "c37a3ee93b6eec2a6d2765e87c50b67bfc9fa927cd38b7f056972c9dcecde01c",
+  "referencias_lzs_sin_solapamiento": 646317,
+  "start": {
+    "miembros": 36,
+    "modificados": [
+      "item.txp",
+      "sys3.txp",
+      "sys4.txp",
+      "sys5.txp",
+      "sys6.txp"
+    ],
+    "intactos": 31
+  },
+  "bgpack": {
+    "sha256": "126c9dff22e2c17f653e010390618fed0279752a2c9a7f42b5bb4fb6f5fbfdbf",
+    "miembros": 285,
+    "modificados": [
+      "at01.txp",
+      "at02.txp",
+      "at03.txp",
+      "at04.txp",
+      "at05.txp",
+      "at06.txp",
+      "at07.txp",
+      "at08.txp",
+      "at09.txp",
+      "at10.txp",
+      "at11.txp",
+      "at12.txp",
+      "at15.txp",
+      "at16.txp",
+      "at17.txp",
+      "at18.txp",
+      "wmap_03.txp"
+    ],
+    "intactos": 268
+  },
+  "inventario": {
+    "conocidos": 62,
+    "editados": 54,
+    "preservados": {
+      "26213": "Marca oficial",
+      "26215": "Copyright",
+      "26241": "Portal",
+      "26249": "DEF",
+      "26250": "INT",
+      "26254": "SELECT",
+      "26255": "START",
+      "26258": "Re-Action!!"
+    },
+    "extras": [
+      "HUD-PV-extra",
+      "ITEM-PV-extra",
+      "ITEM-PE-extra"
+    ],
+    "certificados_visualmente": 0,
+    "exhaustivo": false
+  },
+  "qa_negativa": [
+    {
+      "prueba": "hash fuente",
+      "resultado": "rechazado"
+    },
+    {
+      "prueba": "hash destino",
+      "resultado": "rechazado"
+    },
+    {
+      "prueba": "cabecera",
+      "resultado": "rechazado"
+    },
+    {
+      "prueba": "offset duplicado",
+      "resultado": "rechazado"
+    },
+    {
+      "prueba": "pixel fuera de slot",
+      "resultado": "rechazado"
+    }
+  ],
+  "beta": {
+    "casos_piloto_nuevos": 25,
+    "ppsspp_ejecutados": 0
+  },
+  "decisiones_provisionales": [
+    "at17 Aparición de la desesperación y at18 Hermana de las tinieblas desde rótulos ingleses visibles; discrepancia con maestro sin cotejo japonés",
+    "HUD: Alc. flujo:, Cas., Turnos p/ aparecer para ajustar espacio",
+    "Restauración aproximada de fondos, revisar contraste y bancos CLUT",
+    "sys3/sys4 alternativas experimentales, no sustituyen deltas oficiales sin regresión"
+  ],
+  "bloqueos": [
+    "PPSSPP no instalado y DNS de github.com falló",
+    "ISO acumulada con traducción y DLC no construida",
+    "Cartel de cueva y otros posibles recursos fuera de manifiesto no cerrados"
+  ],
+  "entrega": "ZIP local con deltas, aplicador, compresor, QA y matriz; no se han subido deltas ni ISO a GitHub. No fusionar esta rama sin revisar."
+}
