@@ -4,6 +4,8 @@ on:
     paths:
       - 'docs/seguimiento/**'
       - 'scripts/validar_seguimiento.py'
+      - 'scripts/auditar_rom032_consolidacion.py'
+      - 'scripts/auditar_rom030_agregado.py'
       - '.github/workflows/qa_seguimiento.yml'
       - 'parcheador/app/tests/test_magic_prefijos_v020.py'
       - 'parcheador/app/scripts/campos_revisados.py'
@@ -33,6 +35,8 @@ on:
     paths:
       - 'docs/seguimiento/**'
       - 'scripts/validar_seguimiento.py'
+      - 'scripts/auditar_rom032_consolidacion.py'
+      - 'scripts/auditar_rom030_agregado.py'
       - '.github/workflows/qa_seguimiento.yml'
       - 'parcheador/app/tests/test_magic_prefijos_v020.py'
       - 'parcheador/app/scripts/campos_revisados.py'
@@ -92,3 +96,6 @@ jobs:
         run: python -m unittest discover -s parcheador/app/tests -p 'test_revisiones_coordinadas.py' -v
       - name: Conciliar inventarios ROM-030 por ID y adaptaciones EBOOT
         run: python scripts/auditar_rom030_agregado.py
+
+      - name: Verificar evidencias y contabilidad de la rama conservadora ROM-032
+        run: python scripts/auditar_rom032_consolidacion.py

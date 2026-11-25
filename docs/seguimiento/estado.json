@@ -76,13 +76,12 @@
     "escenas y cuatro DLC exhaustivos"
   ],
   "bloqueos": [
-    "Acceso a entorno de ejecución local falló; la ISO original de 332791211 bytes comprimida supera el límite de materialización",
-    "Candidata única ISO+DLC sin reconstruir ni releer",
-    "PPSSPP no ejecutado",
-    "3006 unidades ISO TALK requieren nueva compilación y cotejo",
-    "62 unidades gráficas sin certificación visual"
+    "Acceso a ejecución local falló; ISO comprimida original de 332791211 bytes supera límite de materialización.",
+    "Candidata única ISO+DLC sin reconstruir ni releer; recetas privadas ROM029 deben incorporarse en entorno local.",
+    "PPSSPP no ejecutado.",
+    "3006 unidades ISO TALK, 2 rótulos EBOOT y 62 gráficos pendientes según auditoría agregada."
   ],
-  "siguiente_tarea": "RELEVO-018",
+  "siguiente_tarea": "ROM-033 — reconstrucción conjunta y cotejo de 3070 pendientes",
   "grupos_centrales": {
     "total": 509,
     "pendientes": 0,
@@ -430,6 +429,26 @@
     "iso_scripts": 485,
     "iso_talk_pendientes_historicos": 3006,
     "eboot_pendientes_relectura": 192,
+    "candidata_integral": false,
+    "ppsspp": false
+  },
+  "rom032": {
+    "informe": "docs/seguimiento/informes/ROM-032_consolidacion_conservadora.json",
+    "rama": "integracion/romhacking-conservadora-20261125",
+    "head_base": "a78e9e8d21580bd11a2751d1780a40914c99f64d",
+    "ancestros_verificados": 12,
+    "artefactos_versionados_cotejados": 30,
+    "ci_base": "4/4 success",
+    "integral_historica": 21805,
+    "filas_historicas": 26258,
+    "validas": 26257,
+    "agregada_sin_190_eboot": 22997,
+    "agregada_con_190_eboot": 23187,
+    "pendientes": 3070,
+    "dlc_textos_validos": 3536,
+    "dlc_resueltos_entre_pilotos": 3536,
+    "iso_tablas_pilotos": 1832,
+    "iso_scripts_documentados": 485,
     "candidata_integral": false,
     "ppsspp": false
   }

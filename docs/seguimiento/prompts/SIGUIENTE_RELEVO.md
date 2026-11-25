@@ -1,3 +1,9 @@
+# ROM-033 — Continuación desde la rama conservadora ROM-032
+
+Consultar HEAD real de `integracion/romhacking-conservadora-20261125` y su PR directo a main; no repetir los relevos ROM016–031. Último HEAD verificado anterior a78e9e8d21580bd11a2751d1780a40914c99f64d. Leer docs/seguimiento/informes/ROM-032_consolidacion_conservadora.md y .json, estado.json y el auditor scripts/auditar_rom032_consolidacion.py. Reproducir primero la candidata integral ISO+DLC en entorno con acceso a originales y ZIP privado ROM029; mantener el original SHA autenticado. No sumar pilotos duplicados. Pendientes agregados: 3006 TALK ISO, 2 EBOOT, 62 gráficos; 23187/26257 agregados incluyendo adaptaciones históricas, 21805/26258 integral histórica. Traducción catalogada completa, gráficos y betatesting no certificados. Si la ejecución sigue bloqueada, registrar el bloqueo y continuar con trabajo verificable. Los criterios y obligación recursiva siguientes se mantienen; los identificadores históricos del relevo anterior sirven solo como contexto, no como base de trabajo actual.
+
+---
+
 # LA PUCELLE: RAGNAROK — RELEVO-019 QUÍNTUPLE: EXPANSIÓN DE INVENTARIO, INSERCIÓN Y QA
 
 **Corte:** 24/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo015-rom010-auditoria-iso-20261123`. HEAD del relevo anterior: `654cdbfb6dfcc7ee7b1f711887546afa8855d56a`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.

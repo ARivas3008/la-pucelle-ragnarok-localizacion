@@ -1,0 +1,173 @@
+{
+  "esquema": 1,
+  "fecha": "2026-11-25",
+  "head_anterior": "a78e9e8d21580bd11a2751d1780a40914c99f64d",
+  "rama": "integracion/romhacking-conservadora-20261125",
+  "ancestros_verificados": [
+    "01cf421ed46351dd829cbb35e8922b7895454cfd",
+    "2c46e55e41e0d23b236bf32570b93fa2f3999570",
+    "17c46b6689a3216d39720f2f21eab29ff3a3319c",
+    "4a930712db26ef047a355aa242a9054fa1ace3f8",
+    "3729e8623c1e2fcfa552a61c613613ccdf789b83",
+    "79762f2c0e07c68d3edb3412af96342d41323c53",
+    "3511d585ec9bd78065e90806f398e3365ce78b18",
+    "f091b85d2104729c25a7c23264554d98d159fdbc",
+    "16a02cc59efab713a36cc7eeeec04afd133bf6cc",
+    "8232644893b0d8dc93aed11900f1c118a5f39487",
+    "9a61ea6c6b698abd561003a2258ce4a5aa3e270e",
+    "ae7cfc294451743f0e6572e83e7bff77cbca3254"
+  ],
+  "ci_base": [
+    45658486576,
+    45658486548,
+    45658486426,
+    45658486399
+  ],
+  "blobs_evidencias": [
+    {
+      "ruta": "docs/seguimiento/informes/ROM-016_piloto_nombres.md",
+      "blob": "d5b6b070276a68ba3d2939aad373de2177334d97"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-017_reservas_name_dat.md",
+      "blob": "df850c12baea451b0992f08dd20aa556befec967"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-018_fuente_nombres.md",
+      "blob": "8c49491b31fdc0bca38218d484bd35f38d6f3fb6"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-019_personajes_mapas.md",
+      "blob": "3955598515cdb87aa145973438f33d65eb0154db"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-020_acciones_habilidades.md",
+      "blob": "3056eefb694e439e21d4bcd74894aa132c5e411e"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-021_objetos_modificadores.md",
+      "blob": "0408f283142d38623d2bc99b233c790257fdd924"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-022_magia.md",
+      "blob": "4c375cc394a7fb42aa1db5447cc6a3a7359184ec"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-023_cierre_tablas.md",
+      "blob": "c38ae77dd6ba33de6b7f87df8809250c49083614"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-024_dlc_originales.md",
+      "blob": "8e283c639aea8dd739b21da4d60758b384e10cf3"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-025_censo_talk_dlc.md",
+      "blob": "d42fdcd27e7dfe88dbf4aa9ec0e375bbadc451d5"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-026_dlc_40.md",
+      "blob": "bf4d405bc1c96e2399027a6daef69a03d6e5324d"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-026_dlc_piloto.json",
+      "blob": "c9234da7917b72f185ed583dbf90b55911c7cc91"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-027_dlc_75.md",
+      "blob": "66c0b6536bfd5bdaaa7df8469f94462597d9c628"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-027_dlc_piloto.json",
+      "blob": "3858f37a971034f214b9b2fadbf945bb93c17ea6"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-028_cierre_dlc.md",
+      "blob": "cd0e42c01c949ef71b28c815e6f9d70bd33c88e2"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-028_dlc_piloto.json",
+      "blob": "dd39a34280c0bb89d125c8f04e1e51c695d45f5b"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-029_cierre_traducibles_dlc.md",
+      "blob": "d688ef927ede335a9bba33c52bc2e011041b8f95"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-029_dlc_piloto.json",
+      "blob": "b8d7233744e629d1d7b29bdacc5204a7563423fd"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-030_consolidacion.json",
+      "blob": "d71bc47614dbf44b04b8e6322e936b0a7c41f9eb"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-030_consolidacion.md",
+      "blob": "488ff6ba5dfc9d9d3bbcd7d989eb0617addb18cb"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-030_eboot_cotejo.json",
+      "blob": "14b14d86736795e48a69fb912222e67555d43ebc"
+    },
+    {
+      "ruta": "docs/seguimiento/informes/ROM-031_subgrupos_talk.md",
+      "blob": "c0a28fea35bd034b0744f354190dc1fc03a6c58c"
+    },
+    {
+      "ruta": "parcheador/app/datos/campos_compactos_rom019.json",
+      "blob": "7151d8a81364a4b7bebc06db95e4f988d0d46a84"
+    },
+    {
+      "ruta": "parcheador/app/datos/campos_compactos_rom020.json",
+      "blob": "d1de7b7787e34b0669f389fa1c9a71ea1fb69576"
+    },
+    {
+      "ruta": "parcheador/app/datos/campos_compactos_rom021.json",
+      "blob": "64a07d31c9bcffa97fc096b84bdc43cef0db3def"
+    },
+    {
+      "ruta": "parcheador/app/datos/campos_compactos_rom022.json",
+      "blob": "154f8ed732a25e5e67a4458ab4d435928b79499a"
+    },
+    {
+      "ruta": "parcheador/app/datos/campos_compactos_rom024.json",
+      "blob": "a50b4f2026c0f942a983b299e4b3d2843c58c235"
+    },
+    {
+      "ruta": "parcheador/app/datos/nombres_compactos_rom017.json",
+      "blob": "0709b4af3c3416fed80278130bd9971433aff3ca"
+    },
+    {
+      "ruta": "scripts/verificar_piloto_dlc_rom026.py",
+      "blob": "c13e1970adfdb3773f9f985ace5f4e4629458e80"
+    },
+    {
+      "ruta": "scripts/verificar_piloto_dlc_rom027.py",
+      "blob": "8cc253f9e1baa42b70153126b6e73ad46acce87d"
+    }
+  ],
+  "contabilidad": {
+    "integral_historica": 21805,
+    "filas_historicas": 26258,
+    "validas": 26257,
+    "agregada_sin_190_eboot": 22997,
+    "agregada_con_190_eboot": 23187,
+    "pendientes": 3070,
+    "dlc_textos_validos": 3536,
+    "dlc_resueltos_entre_pilotos": 3536,
+    "iso_tablas_pilotos": 1832,
+    "iso_scripts_documentados": 485
+  },
+  "pendientes": {
+    "iso_talk": 3006,
+    "eboot": 2,
+    "graficos": 62
+  },
+  "exclusion_no_textual": 1630,
+  "candidata_integral": false,
+  "ppsspp": false,
+  "notas": [
+    "Rama conserva los commits previos, sin duplicarlos ni aplicar merges superfluos.",
+    "Evidencia documental y código reunidos; no sustituye reconstrucción de binarios.",
+    "El paquete privado ROM029, con recetas de los lotes independientes ROM028/029, no está íntegramente incorporado al repositorio; se requiere para reproducir la unión de pilotos."
+  ]
+}
