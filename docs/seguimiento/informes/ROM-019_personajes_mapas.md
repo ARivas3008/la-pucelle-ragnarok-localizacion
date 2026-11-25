@@ -3,7 +3,7 @@
 Base: PR #45, HEAD 2c46e55e41e0d23b236bf32570b93fa2f3999570. Fecha: 24/11/2026 (Lima).
 ISO original facilitada, SHA256 4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5.
 Revisión corpus01 blob 47e59c28dc4108108e016855dbe94a994aa055ef; 252 estados revisado; FNV32 2113225157 sobre grupo_id + tab + revisión + LF, orden numérico (coincide con lectura local).
-Manifiesto ZIP local blob 58adab40237467ea49827321421b2faafb9008a7; distinto del blob remoto 9563007adf8bd030b7ec04714e687525b7f81e0d. Los 252 originales del ZIP cotejaron CP932/NFKC contra bytes de ISO; queda cotejo exacto de las anclas del maestro remoto. El motor exige ancla y revisión exactas, además de SHA del recurso.
+Manifiesto ZIP local: blob Git 58adab40237467ea49827321421b2faafb9008a7 (CRLF). Tras normalizar exclusivamente los 26259 CRLF a LF, sus 11889863 bytes generan exactamente el blob Git remoto 9563007adf8bd030b7ec04714e687525b7f81e0d. Por tanto las 252 anclas del maestro vigente son idénticas; sus originales cotejaron CP932/NFKC contra bytes de ISO. El motor exige ancla y revisión exactas, además de SHA del recurso.
 
 ## Evidencia A/B local, no emulador
 | Tabla | Total | Sustitución completa | Compacta | Coincide |
