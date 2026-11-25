@@ -1,3 +1,9 @@
+# ROM-035 — Continuar desde ROM-034
+
+Leer `docs/seguimiento/informes/ROM-034_eboot_piloto.json` y `.md`. Dos rótulos releídos en piloto físico; 26195/26257 agregado, 62 gráficos sin certificar. Reproducir desde originales, unir fontB y fuentes privadas ROM029/ROM033 sin perder cambios; no sustituir candidata integral por el piloto. Resolver 62 unidades gráficas y recursos fuera de manifiesto, ejecutar aislamiento y PPSSPP. Mantener la obligación recursiva y criterios previos.
+
+---
+
 # ROM-034 — Cierre integral desde ROM-033
 
 Consultar HEAD de `relevo/rom033-iso-talk-cierre-20261125` y PR, leer informe ROM-033_iso_talk_cierre.md/.json y estado.json. 20.083/20.083 diálogos ISO agregados, 3.006 nuevos sobre piloto privado, 26.193/26.257 agregadas. Pendientes 2 EBOOT y 62 gráficos; reconstrucción única y PPSSPP pendientes. Reproducir ROM033 desde paquete privado de fuentes SHA d716f2d8309c81cab186503dc5434e70b3e2a948bf2afe879da95f92abf3f49e; no sustituir candidato integral por ISO piloto parcial. Unir anclas y diarios previos, verificar no solapamiento, controles y hashes, certificar única candidata. Mantener instrucciones recursivas anteriores como contexto y no retroceder de rama.

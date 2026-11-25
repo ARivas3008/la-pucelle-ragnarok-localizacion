@@ -78,10 +78,11 @@
   "bloqueos": [
     "Candidata única ISO+DLC aún sin reconstruir: ROM033 contiene solo el lote nuevo de 3006 IDs, no las 17077 unidades históricas ni las tablas/DLC anteriores.",
     "SCRIPTPACK reubicado al final de ISO piloto (LBA 419403); requiere PPSSPP.",
-    "2 rótulos EBOOT corregidos y 62 unidades gráficas pendientes de certificación; no se cuentan como resueltas.",
-    "No se han certificado apariciones físicas fuera de manifiesto ni juego real."
+    "2 rótulos EBOOT releídos en piloto aislado ROM034; requieren integración con fontB; 62 unidades gráficas pendientes de certificación.",
+    "No se han certificado apariciones físicas fuera de manifiesto ni juego real.",
+    "ZIP privados ROM029/ROM033 no recuperados en este entorno; no se reconstruyó candidata integral."
   ],
-  "siguiente_tarea": "ROM-034 — integrar todos los pilotos desde anclas originales y resolver 2 EBOOT + 62 gráficos",
+  "siguiente_tarea": "ROM-035 — resolver e integrar 62 gráficos; recuperar fuentes privadas ROM029/033 y construir candidata única con fontB.",
   "grupos_centrales": {
     "total": 509,
     "pendientes": 0,
@@ -464,5 +465,22 @@
     "candidata_integral": false,
     "ppsspp": false,
     "iso_piloto_sha256": "383b5ce789489d0104df3dbe9931789eea5dfb8cfbaca68ffc6338d06382d86b"
+  },
+  "rom034": {
+    "informe": "docs/seguimiento/informes/ROM-034_eboot_piloto.json",
+    "script": "scripts/rom034_eboot_piloto.py",
+    "eboot_nuevos_piloto": 2,
+    "eboot_ids": [
+      3774,
+      3778
+    ],
+    "agregada": 26195,
+    "validas": 26257,
+    "pendientes": 62,
+    "graficos_pendientes": 62,
+    "porcentaje_agregado": 99.76387249114522,
+    "candidata_integral": false,
+    "ppsspp": false,
+    "nota": "EBOOT piloto releído en ISO original; no contiene fontB extendida ni pilotos anteriores. No sustituye auditoría integral. Los cuatro EDAT aportados se extrajeron y hashearon; aún no cotejados con la lista de origen."
   }
 }

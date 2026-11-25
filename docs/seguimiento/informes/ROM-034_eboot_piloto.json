@@ -1,0 +1,59 @@
+{
+  "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "iso_piloto_sha256": "4c07a141106b39b8e10368833dc93b3dad94d260c548091d665024865a2ceebc",
+  "eboot_original_sha256": "2b9a1a9864f3b236e83a2848f839023e92dcb7a5272bcb430cef527eafb563f6",
+  "eboot_piloto_sha256": "58697f60562cadf0f3ae77e5ca4a5d277e7cbc7d9f90f844b9839e9e900811ae",
+  "cambios": [
+    {
+      "unit_id": 3774,
+      "offset": 792108,
+      "original": "Move Speed  Blitz",
+      "traduccion": "Paso máximo",
+      "antes_hex": "4d6f76652053706565642020426c69747a",
+      "despues_hex": "5061736f206df04078696d6f2020202020",
+      "terminador_conservado": true
+    },
+    {
+      "unit_id": 3778,
+      "offset": 792204,
+      "original": "Text Speed  Blitz",
+      "traduccion": "Texto máximo",
+      "antes_hex": "546578742053706565642020426c69747a",
+      "despues_hex": "546578746f206df04078696d6f20202020",
+      "terminador_conservado": true
+    }
+  ],
+  "ppsspp": false,
+  "candidata_integral": false,
+  "advertencia": "Piloto de dos rótulos: requiere fontB y fusión desde originales.",
+  "originales_dlc_disponibles": [
+    {
+      "name": "DL_JP_00.EDAT",
+      "size": 5127190,
+      "sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00"
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "size": 5203970,
+      "sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d"
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "size": 5267964,
+      "sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e"
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "size": 5348846,
+      "sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e"
+    }
+  ],
+  "bytes_fuera_dos_intervalos_identicos": 858937310,
+  "iso_original_bytes": 858937344,
+  "directorio_iso_identico": true,
+  "rom033_previo": 26193,
+  "cobertura_agregada_con_piloto_eboot": 26195,
+  "denominador": 26257,
+  "graficos_pendientes": 62,
+  "paquetes_privados_rom029_rom033_disponibles": false
+}
