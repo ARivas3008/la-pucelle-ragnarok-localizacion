@@ -1,31 +1,229 @@
-# LA PUCELLE: RAGNAROK — RELEVO-010 AUTÓNOMO: CENT-013, ROM-007, GFX-007 Y QA
+# ROM-035 — Continuar desde ROM-034
 
-**Corte:** 23/11/2026. **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama principal `main`. HEAD antes de RELEVO-009: `9fa5208a14b82c8430e00d6ea51c5a8167b470a3`. Rama del relevo anterior: `relevo/relevo009-cent012-rom006-20261123`. Commit editorial CENT-012: `a5db146a094eb6d9c1564ce2c753b30cabe7bc49`. Consultar el HEAD fusionado, PR y Actions reales al empezar. No sobrescribir avances.
+Leer `docs/seguimiento/informes/ROM-034_eboot_piloto.json` y `.md`. Dos rótulos releídos en piloto físico; 26195/26257 agregado, 62 gráficos sin certificar. Reproducir desde originales, unir fontB y fuentes privadas ROM029/ROM033 sin perder cambios; no sustituir candidata integral por el piloto. Resolver 62 unidades gráficas y recursos fuera de manifiesto, ejecutar aislamiento y PPSSPP. Mantener la obligación recursiva y criterios previos.
 
-## Misión y pruebas
+---
 
-Actúa como traductor sénior japonés/inglés→español, ingeniero PSP CP932/NISPACK/LZS/ISO9660/talk, editor de TXP/CLUT y tester PPSSPP. Ejecuta cambios reales, QA y PR; no inventes resultados. Evidencia A = originales auténticos; B = tests sintéticos y CI; C = candidata en PPSSPP real. No confundir metadatos originales, revisión editorial o compilación con evidencia C. No trabajar en segundo plano.
+# ROM-034 — Cierre integral desde ROM-033
 
-**CI real de RELEVO-009 (PR #36, commit `54d95e30e2bd9951b00a40f21842a2ea02cc3068`):** [QA corpus](https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178890) y [QA seguimiento, ROM-006 y GFX-006](https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789) aprobaron. Las nuevas cinco pruebas de layout fijo y cuatro de estructura TXP son evidencia B; no certifican la candidata. Reconfirmar CI del commit de registro posterior.
+Consultar HEAD de `relevo/rom033-iso-talk-cierre-20261125` y PR, leer informe ROM-033_iso_talk_cierre.md/.json y estado.json. 20.083/20.083 diálogos ISO agregados, 3.006 nuevos sobre piloto privado, 26.193/26.257 agregadas. Pendientes 2 EBOOT y 62 gráficos; reconstrucción única y PPSSPP pendientes. Reproducir ROM033 desde paquete privado de fuentes SHA d716f2d8309c81cab186503dc5434e70b3e2a948bf2afe879da95f92abf3f49e; no sustituir candidato integral por ISO piloto parcial. Unir anclas y diarios previos, verificar no solapamiento, controles y hashes, certificar única candidata. Mantener instrucciones recursivas anteriores como contexto y no retroceder de rama.
 
-## Estado verificado de partida
+---
 
-- **Traducción:** 15.121/15.525 grupos editoriales conocidos (97,40 % del catálogo provisional), **404 pendientes** (289 distribuidos y 115 centrales). Catálogo no exhaustivo. CENT-012 añadió 60 grupos: `9641, 9642, 9643, 9644, 9645, 9646, 9647, 9648, 9649, 9650, 9651, 9652, 9653, 9654, 9657, 9658, 15158, 15160, 15161, 15162, 15163, 15165, 15166, 15167, 15169, 15171, 15172, 15173, 15174, 15175, 15176, 15179, 15180, 15181, 15182, 15183, 15184, 15185, 15187, 15188, 15189, 15190, 15191, 15193, 15194, 15195, 15197, 15198, 15199, 15200, 15201, 15202, 15203, 15204, 15205, 15206, 15207, 15208, 15209, 15210`. Se cotejaron **124/124 unidades** mediante lectura CP932 desde offsets auténticos hasta NUL, NFKC solo para comparar, de `SCRIPTPACK.DAT/talk11_jp.dat` y `ISO_START/talk00.dat`. Ninguna inserción nueva, ninguna prueba de pantalla. Informe `docs/seguimiento/informes/CENT-012.json`.
-- **Gráficos:** 62 unidades conocidas, 26 TXP distintos (19 en BGPACK, 7 en START_JP), metadatos y SHA256 de original cotejados para las 62. **16 títulos at01–at12 y at15–at18 de 480×170, 8bpp, 1 CLUT, 82640 bytes: altura parcial no compatible con decoder de bloques 16×8 completos.** `item.txp`, `sys3.txp`, `sys5.txp` tienen 16 bancos CLUT de 16 colores. No usar decoder monobanco en ellos. Cero texturas nuevas editadas y 0 certificadas PPSSPP v0.19.0. `wbg00.txp` y `wmap.txp` se preservan sin equivalencia demostrada de inscripciones; ocho candidatos adicionales no se suman. Informe `docs/seguimiento/informes/GFX-006_estructura_62.json`; herramienta `scripts/auditar_graficos_manifiesto.py`.
-- **Romhacking:** `v0.19.0-integracion` histórico 21.805/26.258 unidades técnicas (83,04 %), 0 nuevas inserciones en este relevo. Original físico 419403 sectores; PVD declara 380120 sectores (diferencia 39283 sectores), endian coincide. NO corregir la diferencia a ciegas; original auténtico tiene recursos más allá del volumen declarado. `scripts/verificar_iso_layout_fijo.py` exige distribución y tamaño idénticos y protege todas las regiones no autorizadas incluidas PVD, rellenos y bytes sin entrada; no admite reubicación. Complementa `scripts/verificar_iso_aislamiento.py` que coteja hashes por archivo incluso si cambia LBA, y `scripts/verificar_bgpack_parche.py` para TXP. No se dispone de candidata real ni prueba física nueva. Informe `docs/seguimiento/informes/ROM-006_layout_fijo.json`.
-- **Betatesting:** 82 casos catalogados, 0 ejecutados en PPSSPP v0.19.0, matriz no exhaustiva.
-- **ISO original aportada:** 858.937.344 bytes, SHA256 `4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5`; BGPACK SHA256 `56e26744c01ad34ac79b4170746ccb6157eb6c5585b09e0340e3dbaef8f42e78`. No modificada. No se encontraron candidata, cuatro EDAT originales `DL_JP_00.EDAT`–`DL_JP_03.EDAT` ni PPSSPP. Corazón 4268 U+FFE5 `￥` = CP932 81 8F, GID99 en fontB original; conservar y comprobar en pantalla.
-- **HY-MT2:** propuestas adicionales pendientes excluidas de métricas; preservar aprobadas.
+# ROM-033 — Continuación desde la rama conservadora ROM-032
 
-## Tareas ejecutables
+Consultar HEAD real de `integracion/romhacking-conservadora-20261125` y su PR directo a main; no repetir los relevos ROM016–031. Último HEAD verificado anterior a78e9e8d21580bd11a2751d1780a40914c99f64d. Leer docs/seguimiento/informes/ROM-032_consolidacion_conservadora.md y .json, estado.json y el auditor scripts/auditar_rom032_consolidacion.py. Reproducir primero la candidata integral ISO+DLC en entorno con acceso a originales y ZIP privado ROM029; mantener el original SHA autenticado. No sumar pilotos duplicados. Pendientes agregados: 3006 TALK ISO, 2 EBOOT, 62 gráficos; 23187/26257 agregados incluyendo adaptaciones históricas, 21805/26258 integral histórica. Traducción catalogada completa, gráficos y betatesting no certificados. Si la ejecución sigue bloqueada, registrar el bloqueo y continuar con trabajo verificable. Los criterios y obligación recursiva siguientes se mantienen; los identificadores históricos del relevo anterior sirven solo como contexto, no como base de trabajo actual.
 
-1. Verificar HEAD y PR, leer `README.md`, `AGENTS.md`, `CONTRIBUTING.md`, `docs/{COBERTURA,INTEGRACION,DESARROLLO,ERRORES_CONOCIDOS}.md`, `docs/seguimiento/{estado.json,inventario_textos.json,inventario_graficos.json,matriz_romhacking.json,matriz_betatesting.json,defectos.json}`, informes `CENT-012.json`, `GFX-006_estructura_62.json`, `ROM-006_layout_fijo.json`, glosario y maestro, CSV central y `docs/seguimiento/prompts/REV-002.md`.
-2. **CENT-013:** revisar 9660,9662,9665–9668 (cadenas completas ya cotejadas físicamente, pero sin aprobar), grupos 9633, 9639–9640, 9655–9656, 9659, 9661, 9663–9664, 9701,9703–9708,9718, 6072–6074,6077–6078,6100,6102,6109,15135,15140–15141,15144,15151,15153,15159,15164,15168,15170,15177–15178,15186,15192,15196. Reconstruir hablantes/bytecode y buscar textos contiguos en ISO auténtica, no inventar fragmentos. Solo aprobar grupos con contexto suficiente. En paralelo investigar los 289 pendientes de corpus, empezando `corpus/02` y REV-002, sin alterar partículas del generador sin comprender composición. DLC 2048–2049, 611/731/951, 1843/1845/1848–1853: exigir EDAT original para controles y segmentación; separar revisión editorial de inserción.
-3. **ROM-007:** conseguir candidata real producida por `parcheador/app/scripts/integracion_total.py` (ver docs/DESARROLLO.md). Verificar ISO+SHA y recursos externos. Si layout fijo, ejecutar `verificar_iso_layout_fijo.py`; si motor anexa/reubica archivos, usar `verificar_iso_aislamiento.py` y diseñar auditoría de extents anteriores/nuevos, PVD y huecos; nunca exigir igualdad de PVD si el cambio está demostrado necesario y aprobado. Autorizaciones JSON mapa ruta ISO→SHA256 fuente calculada. Auditar BGPACK, EBOOT, START_JP, SCRIPTPACK y sus miembros internos. No publicar ISO/EDAT/arte; no inventar candidata ni evidencia.
-4. **GFX-007:** resolver de manera verificable la distribución de las últimas dos filas de atXX.txp y bancos CLUT de item/sys3/sys5 comparando original, código `parcheador/app/scripts/atlas_ui_es.py`, `parcheador/investigacion/v0.11/txp_verify.py` y QA; no rellenar filas ni bancos sin demostrar formato. Diseñar fixture con payload parcial y roundtrip; localizar rectángulos de los 62 rótulos, cotejar anclajes y variantes. No editar mapas ornamentales sin evidencia. Certificación solo tras comparación visual real de candidata.
-5. **QA:** ejecutar PPSSPP real con candidata y DLC aportados. Registrar versión, SHA, partida, configuración, pasos, capturas y defectos; priorizar 16 capítulos, HUD multibanco, corazón, rutas y escenas finales; ampliar matriz de 82 hacia exhaustividad. Separar pruebas sintéticas de pruebas ejecutadas.
+---
 
-## Comandos reproducibles
+# LA PUCELLE: RAGNAROK — RELEVO-019 QUÍNTUPLE: EXPANSIÓN DE INVENTARIO, INSERCIÓN Y QA
+
+**Corte:** 24/11/2026 (Lima). **Repositorio:** https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion. Rama de trabajo del relevo anterior: `relevo/relevo015-rom010-auditoria-iso-20261123`. HEAD del relevo anterior: `654cdbfb6dfcc7ee7b1f711887546afa8855d56a`. Base previa: `01cf421ed46351dd829cbb35e8922b7895454cfd`. Consultar el PR de esta rama, su fusión y HEAD real antes de modificar nada. Versión histórica `v0.19.0-integracion`; no se ha publicado una versión final.
+
+## 0. RÉGIMEN DE EJECUCIÓN QUÍNTUPLE OBLIGATORIA — MULTIPLICADOR ×5
+
+A partir del RELEVO-011, todas las ejecuciones deberán adoptar un régimen de productividad quíntuple, aumentando cinco veces la cantidad objetivo de trabajo útil respecto a los relevos extendidos anteriores.
+
+La duración no determina la finalización. Se priorizará la ejecución técnica, la corrección de defectos reales, la integración y la verificación de resultados.
+
+### 0.1. Metas cuantitativas
+
+Siempre que existan suficientes tareas, recursos y condiciones técnicas, cada ejecución intentará completar:
+
+- Traducción: 600–900 grupos investigados, reconstruidos y revisados.
+- Gráficos: 50–100 recursos investigados, editados, reconstruidos o integrados.
+- Romhacking: 15–25 intervenciones técnicas sustanciales.
+- Pruebas técnicas: 75–150 verificaciones significativas.
+- Betatesting: 50–100 casos funcionales ejecutados en PPSSPP auténtico.
+- Integración: hasta cinco ciclos de construcción, auditoría, corrección y reconstrucción de candidatas.
+- Documentación: cinco consolidaciones de resultados, evidencias, defectos e indicadores.
+- GitHub: publicación de todos los cambios verificables de los cinco macrolotes, sin crear commits artificiales.
+
+Los objetivos cuantitativos nunca justificarán inventar resultados, duplicar registros, aprobar textos ambiguos ni presentar pruebas sintéticas como pruebas reales.
+
+Si el trabajo pendiente es inferior al objetivo, se agotará el trabajo aplicable y se redistribuirá el esfuerzo hacia las demás áreas.
+
+### 0.2. Cinco macrolotes de ejecución intensiva
+
+MACROLOTE A — Auditoría exhaustiva
+
+1. Recuperar el estado auténtico de GitHub.
+2. Comprobar HEAD, ramas, PR y CI.
+3. Verificar los inventarios completos.
+4. Localizar recursos originales disponibles.
+5. Identificar dependencias y bloqueos.
+6. Determinar el trabajo pendiente por apartado.
+7. Detectar defectos no resueltos.
+8. Seleccionar tareas independientes.
+9. Establecer pruebas de aceptación.
+10. Preparar el entorno de ejecución.
+
+MACROLOTE B — Traducción quíntuple
+
+1. Procesar lotes consecutivos de hasta 100–150 grupos.
+2. Investigar hasta 600–900 grupos cuando existan.
+3. Reconstruir diálogos completos.
+4. Contrastar japonés e inglés.
+5. Revisar personajes y hablantes.
+6. Comprobar coherencia narrativa.
+7. Corregir terminología.
+8. Preservar variables y controles.
+9. Registrar aprobaciones auténticas.
+10. Actualizar CSV e inventarios.
+
+Los grupos bloqueados se conservarán como pendientes. Nunca se aprobarán por cumplir una cuota.
+
+MACROLOTE C — Gráficos y romhacking quíntuple
+
+1. Investigar hasta 100 unidades gráficas.
+2. Ejecutar hasta 25 intervenciones técnicas.
+3. Analizar formatos y estructuras.
+4. Editar recursos traducibles.
+5. Reconstruir texturas.
+6. Preservar CLUT, dimensiones y controles.
+7. Integrar recursos autorizados.
+8. Corregir fallos del parcheador.
+9. Construir candidatas cuando sea posible.
+10. Comprobar integridad y aislamiento.
+
+Priorizar siempre defectos reales sobre herramientas auxiliares redundantes.
+
+MACROLOTE D — QA y betatesting quíntuple
+
+1. Ejecutar hasta 150 comprobaciones técnicas.
+2. Ejecutar hasta 100 casos funcionales auténticos.
+3. Comprobar integridad de archivos.
+4. Verificar codificación y glifos.
+5. Validar reconstrucciones.
+6. Investigar rechazos.
+7. Corregir defectos.
+8. Repetir las pruebas afectadas.
+9. Registrar capturas auténticas cuando proceda.
+10. Separar evidencias A, B y C.
+
+No considerar una comprobación estática equivalente a una ejecución auténtica en PPSSPP.
+
+MACROLOTE E — Consolidación y continuidad
+
+1. Consolidar todos los cambios comprobados.
+2. Actualizar inventarios.
+3. Actualizar matrices.
+4. Actualizar defectos.
+5. Actualizar métricas.
+6. Ejecutar validaciones.
+7. Publicar cambios verificables.
+8. Comprobar CI y PR.
+9. Preparar el siguiente relevo.
+10. Heredar íntegramente el régimen quíntuple.
+
+### 0.3. Redistribución obligatoria del trabajo
+
+Cuando un apartado no disponga de suficientes tareas ejecutables, trasladar el esfuerzo restante a los otros apartados.
+
+Si no existe DLC, trabajar sobre la ISO base.
+
+Si PPSSPP no está disponible, continuar con integración estática, traducción y gráficos.
+
+Si no quedan grupos traducibles con contexto suficiente, priorizar integración y romhacking.
+
+Si un recurso gráfico está bloqueado, investigar otros recursos.
+
+No finalizar una ejecución después de una única corrección si existen tareas independientes realizables.
+
+### 0.4. Condiciones de calidad
+
+Cada avance deberá incluir, según corresponda:
+
+- Archivo o recurso afectado.
+- Identificador verificable.
+- Estado anterior.
+- Modificación realizada.
+- Resultado posterior.
+- Prueba ejecutada.
+- Evidencia disponible.
+- Defectos pendientes.
+- Commit y PR auténticos cuando se publiquen.
+
+Las operaciones de investigación, edición, integración y certificación se contabilizarán separadamente.
+
+No multiplicar porcentajes, aprobaciones históricas ni elementos ya completados.
+
+### 0.5. Condiciones de finalización
+
+La ejecución terminará cuando:
+
+1. Se haya realizado una carga sustancial de trabajo verificable.
+2. Se hayan agotado las tareas ejecutables con los recursos disponibles.
+3. Existan límites efectivos que impidan continuar.
+4. Los cuatro apartados alcancen el 100 % certificado.
+
+No esperar artificialmente para cumplir una duración.
+
+### 0.6. Herencia permanente
+
+Todos los relevos posteriores deberán conservar íntegramente esta sección 0 y la sección 14 de obligación recursiva.
+
+El siguiente prompt deberá mantener el multiplicador ×5 sobre los objetivos originales del régimen extendido, sin volver a multiplicar por cinco las cantidades ya multiplicadas.
+
+No reducir las metas salvo por insuficiencia real de tareas, dependencias técnicas, recursos o límites del entorno.
+
+ORDEN PERMANENTE: EJECUTAR CINCO VECES MÁS TRABAJO OBJETIVO, CONSERVANDO LA MISMA EXIGENCIA DE AUTENTICIDAD, INTEGRIDAD Y CALIDAD.
+
+**Estado verificado al relevar:** PR #41 sobre rama relevo014; consultar SHA y CI de HEAD, no fiarse de cifras antiguas. CENT-014/CENT-015 suman **84 revisiones editoriales nuevas** (48 grupos originales ISO/CP932 y 36 grupos japonés DLC desde manifiesto), **15.346/15.525 revisados, 179 pendientes**: 157 distribuidos y 22 centrales. No incrementar cobertura técnica 21.805/26.258 por esto. Se recuperaron 440 líneas ISO correspondientes a 118 grupos inicialmente pendientes; 48 grupos revisados, 85 anclas registradas, de las cuales **79 inéditas y seis reconciliadas sin sobrescribir HY-MT2 aprobado**. GFX-010 verificó ISO auténtica 4360707b..., piloto BGPACK 16 TXP SHA f50e265..., 269 miembros intactos y 790.107.120 bytes externos idénticos. GFX-008 corrigió ruta de repositorio y lectura NUL, añadió seis regresiones con CI. Siguen sin demostrarse 100%: hay 179 grupos no aprobados, cuatro títulos demoníacos con arte superpuesto, 0 gráficos certificados en PPSSPP, 0 candidata conjunta ejecutada, DLC EDAT ausentes. ISO original auténtica existe solo en el entorno donde se aportó (no publicar). **Priorizar** cierre de grupos con fuentes íntegras, examinar generador DLC/name.dat sin autoaprobar fragmentos, remaquetar títulos demoníacos sin destruir ilustración, ejecutar candidata conjunta en PPSSPP auténtico y corregir hallazgos; certificar antes de subir numeradores.
+
+**Hallazgo gráfico GFX-011 posterior al corte:** seis TXP de BGPACK original inspeccionados; `wmap_03.txp` contiene la inscripción inglesa auténtica «World Map», aún sin adaptación «Mapa del mundo» ni validación en PSP. `title_mj.txp` es logotipo oficial, conservar. Detalles y SHA individuales en `docs/seguimiento/informes/GFX-011_otros_bgpack_original.json`. No declarar gráficos terminados por los 16 títulos piloto: hay más recursos traducibles.
+
+## 1.
+
+**RELEVO-015 ROM-010/011/012 — meta de integración:** el último PR #42 draft contiene auditoría ISO-sola, inserción conservadora de líneas unitarias dentro de runs mixtos y gate de objetivo. La revisión editorial conocida es **15.346/15.525 (98,85 %)**. La cobertura histórica integral **continúa 21.805/26.258 (83,04 %)**; no subirla sin candidata ISO+DLC nueva auditada. Meta matemática **25.956/26.258**, faltan **4.151 verificaciones adicionales**. ISO original 4360707b... autenticada, 17 talk, 44.751 cadenas, 17.273 runs, 20.083 unidades talk ISO fieles al manifiesto. Alcance **22.721 ISO / 3.537 DLC**, sin cuatro EDAT originales en el entorno. Herramienta ROM-010 `scripts/auditar_entrega.py` acepta solo ISO y genera `cobertura_iso_sola.json` sobre 22.721 unidades sin contar DLC. ROM-011 `recompilar_talk.py` conserva controles de voz y subbloques no aprobados; 705 candidatos unitarios potenciales en 593 runs se computaron sobre el original, sin descontar ya integrados ni restricciones tipográficas, NO son nuevas unidades verificadas. ROM-012 `scripts/umbral_rom012.py` rechaza el 98,85 % sin candidata integral, hashes de cuatro EDAT y diario de cotejo. **Acción inmediata:** consultar HEAD y CI reales, compilar una ISO candidata con checkout vigente + original autenticado (`python parcheador/app/scripts/integracion_total.py --iso ORIGINAL.iso --repo-directorio . --salida SALIDA_VACIA`); auditar (`python scripts/auditar_entrega.py --entrega SALIDA_VACIA --iso-original ORIGINAL.iso`), corregir errores; al disponer de los cuatro EDAT auténticos, repetir construcción/auditoría ISO+DLC y superar el gate ROM-012. Conservar históricas hasta nueva auditoría, no publicar ISO, no certificar PPSSPP sin ejecutarlo. Informes `docs/seguimiento/informes/ROM-010_censo_iso_original_real.json`, `ROM-011_subbloques_estrictos.json` y seguimiento JSON. Obligatorio continuar y conservar las secciones 0 y 14 completas.
+ Estado verificado y misión
+
+Actúa como especialista sénior japonés/inglés→español, PSP MIPS, CP932, NISPACK/LZS, ISO9660, gráficos TXP/CLUT y QA PPSSPP. Ejecuta trabajo real; A = originales auténticos, B = cambios/ensayos estáticos y CI, C = ejecución auténtica de candidata en PPSSPP.
+
+| Apartado | Estado conocido |
+|---|---|
+| Traducción editorial | 15.262/15.525 (98,31 % provisional); 263 pendientes (58 centrales, 205 distribuidos) |
+| Gráficos | 62 unidades conocidas/26 TXP, 16 títulos piloto editados e insertados en una ISO gráfica local; 0 certificados C |
+| Romhacking | 21.805/26.258 histórico, sin nuevo numerador de textos insertados; motor corregido y una ISO piloto gráfica parcial verificada |
+| Betatesting | 85 casos catalogados, 0 ejecutados en PPSSPP v0.19.0 |
+
+El inventario no es exhaustivo; excluir propuestas HY-MT2 adicionales pendientes y conservar aprobadas. No sumar imágenes piloto a certificados, ni 109 segmentos históricos a nuevas traducciones físicas. No publicar ISO, EDAT ni texturas comerciales.
+
+**ACTUALIZACIÓN ROM-013 (24/11/2026):** PR #42 draft, confirmar HEAD y CI reales. Se extrajo y verificó en este relevo la ISO auténtica del paquete 7z, SHA256 `4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5`; 20.083 unidades talk ISO contrastadas, 44.751 cadenas físicas, **17.273 runs reales según algoritmo canónico** que ignora cuatro cadenas vacías, 6.084 runs íntegramente mapeados, **1.439 mixtos** y 9.750 sin mapeo. `scripts/rom013_auditar_talk_original.py` puede reproducir el censo con ISO legítima local (informe `docs/seguimiento/informes/ROM-013_iso_talk_censo_real.json`). En ROM-013 el auditor `scripts/auditar_entrega.py` ahora carga **15.016 revisiones de corpus + 509 revisiones centrales** mediante `revisiones_coordinadas.merge_central` y reconoce el único LZS válido de cada EDAT por cabecera, no por nombre. Tres pruebas de catálogo y seis pruebas ROM-010; las regresiones anteriores siguen. El START_JP.LZS original cuenta 696.038 referencias LZS y **cero copias solapadas** en escaneo auténtico. La cobertura integral continúa **21.805/26.258**; meta 98,85 % exacto editorial: **25.956/26.258**, faltan **4.151 unidades** verificadas en una candidata ISO+DLC. Los cuatro EDAT originales no están disponibles aquí, tampoco PPSSPP ni un checkout completo en el entorno local; NO incrementar cobertura por cambios de código ni por censo del origen. Priorizar candidata ISO sola auditada, corregir informes de rechazos y, con DLC legítimos, candidata integral certificada; la sección 0 y la sección 14 deben conservarse literalmente.
+
+**ROM-014/015 — nuevo avance en el RELEVO-016:** el auditor de `scripts/auditar_entrega.py` ahora rechaza SHA ISO original distinto al autenticado antes de medir cobertura, incorpora las 509 revisiones centrales y reconoce LZS de EDAT por cabecera. ROM-015 `scripts/rom015_auditar_campos_y_scripts_iso.py` usa los recursos originales extraídos del ISO auténtico y contrasta **2.091 campos** y **485 unidades de script** CP932/NFKC; en combinación con los **20.083 talk** del ROM-013 son **22.659 unidades textuales ISO originales** con coincidencia física y **cero discrepancias**; quedan 62 unidades gráficas fuera del censo de cadenas y 3.537 unidades DLC sin EDAT. El recuento canónico de ROM-013 se corrigió excluyendo cuatro strings vacíos: **17.273 runs, 1.439 mixtos**, no 17.271/1.442. Fuentes y trazabilidad en `docs/seguimiento/informes/ROM-013_iso_talk_censo_real.json`, `ROM-014_autenticacion_origen.json`, `ROM-015_campos_y_scripts_iso_real.json`. **NUNCA** confundir 22.659 originales cotejados con 22.659 traducciones integradas; cobertura integral histórica sigue 21.805/26.258 (83,04 %), meta 25.956 y deuda 4.151. Rehacer el build real de ISO antes de certificar cada nueva unidad; con cuatro EDAT auténticos, reconstruir y auditar candidata integral. Verificar HEAD y todos los CI antes de fusionar. La ausencia actual de repositorio checkout pleno, DLC y PPSSPP impide ejecutar/certificar la candidata completa.
+
+**CAMBIO DE PRIORIDAD RELEVO-018 — objetivo 100 % editorial:** La revisión del catálogo `15.525` ya está en **15.492 revisados / 33 pendientes = 99,79 %**; **146 aprobaciones nuevas** respecto a 15.346/15.525 del relevo previo. Lotes: 14 corpus09, 55 corpus11, 1 profecía elíptica corpus08, 28 corpus02 tutorial, 19 centrales, 4 fonemas ISO (Ma, Ni, Na, Co), 24 adaptaciones nominales ISO por MIPS y 1 japonés Sukopiru. Los 33 pendientes son: **26 morfemas japoneses de DLC_00/name.dat sin originales EDAT para verificar clase/longitud y combinaciones**, **3 English ISO name.dat ambiguos (`14093 Such?`, `14106 Out to be`, `14150 Vistor`)**, **3 prefijos magic.dat DLC (`611`,`731`,`951`)** y **1 exclusión técnica no textual `1630`** (no traducir: bytes `20 AA 44`, ver `data/control/EXCLUSIONES_TECNICAS_VERIFICADAS.md`). El alcance ADEMÁS incluye **10 cadenas inglesas genuinas de ISO_START/name.dat no presentes en el manifiesto de 15.525**, documentadas en `data/control/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv`; por tanto **99,79 % se refiere al catálogo editorial conocido, NO todo el juego**. En `docs/seguimiento/informes/CENT-018_mips_generador_y_revision.md` existe ingeniería inversa auténtica: `EBOOT.BIN` MIPS ELF SHA `2b9a1a...`, rutina `0x0882ec80-0x0882ed68`; clase 1 = base+sufijo, clase 2 = prefijo+base, clase 3 = ambas direcciones aleatoriamente, sin espacios, longitud final `<=16 bytes`, slot de fragmento máximo 11 bytes útiles + NUL. Herramientas `scripts/cent017_auditar_nombre.py` y `scripts/cent018_modelo_nombres.py`, CI y tests de 20 casos, propuestas `data/control/CENT018_NAME_DAT_27_PROPUESTAS.csv` (24 revisadas, 3 bloqueadas). **NO** dar por buenos nombres por caber en bytes; comprobar género, función nominal, acentos/glifos, combinatoria real en PPSSPP, y traducir además 10 slots léxicos fuera del corpus. Obtener EDAT legítimos del usuario en entorno seguro y no redistribuirlos. Releer `corpus/02/revision.csv`, `data/preexistentes/509_revision_central.csv`, `docs/seguimiento/estado.json` actuales antes de nuevas modificaciones. Prohibido forzar el 100 % aprobando los 33 en ausencia de soporte; proseguir con trabajo paralelo útil y actualizar métricas solo tras cambios reales. **Preservar íntegros §§0 y 14 en siguiente relevo**.
+
+**CENT-019 — CIERRE EDITORIAL DE CATÁLOGO CON EXCLUSIÓN LEGÍTIMA (24/11/2026):** El corpus distribuido conserva **15.015 revisados + un falso positivo técnico ID 1630** (`ェD` = bytes `20 AA 44`, original documentado en `data/control/EXCLUSIONES_TECNICAS_VERIFICADAS.md`) y 509/509 grupos centrales revisados. Total bruto **15.524/15.525 (99,99 % sin alterar la fila excluida)**; denominador de TEXTO AUTÉNTICO catalogado **15.524/15.524 = 100 % editorial** con **178 aprobaciones nuevas** sobre punto de partida 15.346. Adicionalmente, 10/10 fragmentos léxicos de `ISO_START/name.dat` hallados fuera del manifiesto fueron revisados en el sidecar `data/control/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv` (7 signos/contenidos no léxicos conservados). El resumen auténtico está en `docs/seguimiento/informes/CENT-019_cierre_editorial_catalogo.json` y los CSV actuales `corpus/02,08,09,11/revision.csv` y `data/preexistentes/509_revision_central.csv`. **NO equivale al 100 % del juego**: inventario textual completo de escenas, gráficos, DLC y recursos no catalogados sigue abierto. Las 26 transcreaciones japonesas del generador `DLC_00/name.dat` se aprobaron editorialmente por japonés del maestro y clase INFERIDA del slot equivalente ISO; necesitan EDAT legítimo para cotejo de clase/budget y PPSSPP para comprobar nombres de pantalla. Tres morfemas ingleses (`Such?`, `Out to be`, `Vistor`) fueron resueltos por japonés original a mismo offset (`なの?`, `で~す`, `来訪者`) con propuestas `Es?`, `Eees`, `Visitante`. Los grupos `magic.dat` 611/731/951 incluyen numeral original 1/2 preservado editorialmente; `campos_revisados.conservar_icono` restaurará glifo numerado auténtico solo si aparece en origen y las comprobaciones de `match_source`/capacidad pasan (SIN EDAT físicamente probado). **No tocar porcentajes de integración 21.805/26.258 (83,04 %), ni certificar PPSSPP, ni fusionar sin CI nuevo**. El siguiente relevo debe expandir inventario exhaustivo fuera del maestro, contrastar datos legítimos del usuario DLC, reconstruir ISO+DLC, auditar todas las inserciones y betatestear conforme al resto del prompt. §0 y §14 se preservan sin modificaciones.
+
+## 2. Lecturas y archivos
+
+Leer README.md, AGENTS.md, CONTRIBUTING.md, CHATGPT_PROJECT_INSTRUCCIONES.md, docs/COBERTURA.md, docs/INTEGRACION.md, docs/DESARROLLO.md, docs/ERRORES_CONOCIDOS.md, docs/seguimiento/{estado.json,inventario_textos.json,inventario_graficos.json,matriz_romhacking.json,matriz_betatesting.json,defectos.json}, glosario/terminos_investigados.csv, data/preexistentes/509_revision_central.csv, data/maestros/03_TODOS_LOS_GRUPOS_15525.csv y 04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv, los 15 corpus NN/entrada.csv, lectura.txt, revision.csv y LEEME.md. Informes nuevos: docs/seguimiento/informes/CENT-013.json, ROM-007_integracion_central.json, GFX-007_capitulos_piloto.json y GFX-007_README.md. Leer docs/seguimiento/prompts/REV-002.md.
+
+## 3. CENT-014 y sucesivos
+
+El CENT-013 revisó 141 grupos (57 centrales, 84 distribuidos), recuperó 165 bloques y comprobó 109 coincidencias exactas de SHA de líneas y texto histórico aprobado. Otros 56 bloques tienen nueva reconstrucción. Sus anclas están en `parcheador/app/datos/segmentos_centrales_anclados.json`, con SHA de recurso, SHA de cadenas CP932 enmarcadas por longitud, recurso, offset y grupos_objetivo/grupos. NO convertir sus textos de contexto CSV en sustituciones genéricas. Mantener las traducciones aprobadas y sus claves.
+
+Consultar IDs pendientes directamente en inventario_textos.json; revisar primero los restantes de ISO base, reconstruyendo todo el bloque desde opcodes, sin mezclar hablantes, y estudiar 7952 (profecía aún incompleta). Investigar corpus/02 y el generador de nombres en forma estructural. No aprobar partículas ambiguas; excluir 1630 (pseudo texto binario) del alcance textual conforme a criterio técnico existente, sin alterar estado por mera cuota. Grupos DLC 2048,2049,611,731,951,1843,1845,1848–1853 requieren EDAT auténticos. Objetivo 120–180 investigados si hay contexto; si escasean, trasladar esfuerzo a integración y QA.
+
+## 4. ROM-008: candidata real completa de ISO base
+
+Se detectó que el motor no leía los 509 registros centrales y el EXE no los empaquetaba. Se corrigieron `parcheador/app/scripts/revisiones_coordinadas.py`, `integracion_total.py`, `recompilar_talk.py`, `parcheador/investigacion/v0.14/integrar_scripts_v014.py`, `parcheador/build_release.py` y `parcheador/main.go`. La carga exige unión exacta de 15.525 IDs y registra 16 fuentes editoriales (15+central). CI previa verde: corpus 45303682036, seguimiento 45303682117, motor 45303682121 en `4dbbc4de765396ac87f2667d939bcbdca2a6014f`. Verificar CI del último HEAD/PR.
+
+Prioridad: conseguir checkout completo vigente en entorno local que pueda acceder a ISO auténtica y ejecutar `python parcheador/app/scripts/integracion_total.py --help`. Compilar compresor NIS LZS para plataforma local según docs/DESARROLLO.md. Ejecutar `python parcheador/app/scripts/integracion_total.py --iso ORIGINAL.iso --repo-directorio REPO --salida SALIDA_PRIVADA`. No exigir DLC para prueba de ISO base. Auditar que los 165 bloques lleguen al catálogo, comparar hashes y revisar rechazos concretos de glifos, menús EBOOT y campos fijos; no desactivar controles ni declarar éxito de build sin terminar. Investigar EBOOT si las nuevas aprobaciones centrales exceden reservas: conservar bytes originales para los no aplicables y documentar cada rechazo, no rebajar QA. Verificar reubicaciones, integridad de miembros de NISPACK/DAT y BGPACK; no forzar layout fijo si el motor anexa. El PVD auténtico declara 380120 sectores y el físico 419403; no modificar sin prueba. Preservar corazón grupo 4268 U+FFE5 / CP932 81 8F (fontB GID99), tildes, ñ, ¿¡, variables y controles. Registrar todos los hashes y cobertura real por unidad sin contar segmentos históricos dos veces.
+
+## 5. GFX-008: integrar los capítulos al motor y avanzar con HUD
+
+La ISO original SHA256 `4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5` (858937344 bytes) contiene BGPACK SHA `56e26744c01ad34ac79b4170746ccb6157eb6c5585b09e0340e3dbaef8f42e78`. GFX-007 demostró swizzle parcial 16 bytes × 8 filas, últimas dos filas sin relleno. Se editaron at01–at12 y at15–at18 a partir de las aprobaciones 3282–3297, con fuente Liberation Serif Bold local; los 16 roundtrips y reencodificaciones mantienen 82640 bytes, CLUT y fuera de rectángulo [50,35,430,116] intactos. Restauración debajo de la tinta aproximada. ISO piloto gráfica local SHA `b0f4521223bbeadd0665f2f821659b595049807bbfa0869a5a4fb35965ec2642`, BGPACK nuevo SHA `f50e26515b2f8f26ea58213627cceffd9afef8484fab996bceb32d1253890193`. 16 miembros cambiados, 269 idénticos, 22 archivos ISO restantes idénticos de 23 y todos los bytes externos BGPACK idénticos. No es candidata de texto ni certificada PPSSPP. Herramienta `scripts/gfx007_editar_capitulos.py` e informe GFX-007. Reproducir en entorno con numpy 2.3.5, Pillow 12.3.0, OpenCV 4.13.0 y fuente local SHA `443a4dbd694b6e4689925947b456e0532e10b19c90fa32eb39ea6c2cd9db9ebd`; no distribuir fuente.
+
+Ejecutar: `python scripts/gfx007_editar_capitulos.py --iso-original ORIGINAL.iso --salida PILOTO.iso --fuente FUENTE_LOCAL.ttf --informe piloto.json`. Revisar los cuatro capítulos demoníacos por contraste y posibles restos ingleses; preparar edición final sin degradar ornamentos. Integrar únicamente deltas autorizados y reproducibles del BGPACK al motor, preservando archivos ajenos; comprobar atlas de sys3/sys4, item/sys5 con 16 bancos CLUT, sys2/sys6/sys7, title2/title_mj/wmap_03. Revisar posición de rótulos y controles de bancos; las vistas privadas de bancos 0,1,15 no prueban selector en juego. No traducir inscripciones ornamentales de wbg00/wmap sin significado demostrado. Objetivo 10–20 recursos, sin declarar certificado antes de C.
+
+## 6. QA
+
+Ejecutar PPSSPP oficial disponible, probar primero candidata ISO base y después DLC aportados. Documentar versión, renderer, configuración, hash candidato, partida, captura auténtica y resultado de cada caso. Priorizar los 165 bloques, rutas normales y demoníacas, 16 títulos, World Map, menú configuración, corazón, fuentes y HUD multibanco. Corregir fallos y repetir pruebas en la misma sesión. No sumar más casos sin justificación; no fingir PPSSPP instalado. Los cuatro DL_JP_00.EDAT–DL_JP_03.EDAT siguen ausentes. El entorno anterior no tenía checkout completo accesible localmente ni PPSSPP; GitHub connector permitió publicar código. Reconfirmar recursos y buscar alternativas legítimas, no subir originales.
+
+## 7. Validaciones y entrega
 
 ```bash
 python scripts/validar.py
@@ -33,11 +231,13 @@ python scripts/validar_seguimiento.py
 python -m unittest discover -s scripts -p 'test_*.py'
 python -m unittest discover -s metodologia/tests -p 'test_*.py'
 python -m unittest discover -s parcheador/app/tests -p 'test_*.py'
-python scripts/auditar_graficos_manifiesto.py --iso /ruta/original.iso --manifiesto data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv --sha-iso 4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5 --out /ruta/privada/gfx.json
-python scripts/verificar_iso_layout_fijo.py --iso-original /ruta/original.iso --iso-candidata /ruta/candidata.iso --hash-original-iso 4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5 --allow-json /ruta/privada/permisos.json --out /ruta/privada/layout.json
+python parcheador/app/scripts/integracion_total.py --help
+python scripts/verificar_iso_aislamiento.py --iso-original ORIGINAL.iso --iso-candidata CANDIDATA.iso --hash-original-iso 4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5 --allow-json AUTORIZACIONES_SHA.json --out aislamiento.json
 ```
 
-Solo usar el segundo comando de auditoría de layout para candidatas con tamaño/distribución fija. No publicar recursos comerciales. Ejecutar QA de código, corregir fallos antes de fusionar y actualizar matrices. **Generar RELEVO-011 completo** en `docs/seguimiento/prompts/SIGUIENTE_RELEVO.md`, con sección 14 íntegra y copia completa en respuesta. No declarar 100 % por promedios.
+Utilizar verificar_iso_layout_fijo.py solo si aplica; verificar_bgpack_parche.py con recursos autorizados y hashes auténticos. Actualizar CSV, inventarios, matrices, defectos, informes, estado y PR. Distinguir 141 grupos nuevos aprobados de 165 bloques, 109 previamente aprobados, 56 nuevos y cero inserciones de texto verificadas en candidata completa. Registrar la comparación antes/después de los cuatro apartados, incluidos textos insertados, gráficos editados/insertados/certificados, defectos, tests y PPSSPP, sin cuotas ficticias. Preparar RELEVO-012 EXTENDIDO con secciones 0 y 14 íntegras. No cerrar temprano si quedan tareas independientes ejecutables; no esperar artificialmente.
+
+---
 
 ## 14. OBLIGACIÓN RECURSIVA INNEGOCIABLE — GENERAR EL SIGUIENTE RELEVO HASTA EL 100 %
 
@@ -191,3 +391,5 @@ En ese caso, ya no será obligatorio generar otro prompt de continuación, porqu
 Repite este ciclo en todas las ejecuciones posteriores mientras cualquiera de los cuatro apartados permanezca incompleto.
 
 **NO TERMINES UNA EJECUCIÓN SIN ENTREGAR EL SIGUIENTE PROMPT, SALVO QUE LOS CUATRO APARTADOS HAYAN ALCANZADO EL 100 % CON EVIDENCIAS.**
+
+**ORDEN ADICIONAL PERMANENTE: MANTENER EL RÉGIMEN EXTENDIDO DE LA SECCIÓN 0 EN TODOS LOS RELEVOS POSTERIORES, PRIORIZANDO LA IMPLEMENTACIÓN REAL Y UNA CARGA DE TRABAJO APROXIMADAMENTE TRES VECES SUPERIOR A LOS RELEVOS BREVES ANTERIORES.**

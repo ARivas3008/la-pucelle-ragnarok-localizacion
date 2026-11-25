@@ -1,0 +1,20 @@
+{
+  "fecha": "2026-11-23",
+  "id": "GFX-008",
+  "alcance": "Integración optativa de los 16 títulos de capítulos GFX-007 en ISO candidata textual",
+  "codigo": "parcheador/app/scripts/integracion_total.py",
+  "opcion": "--fuente-capitulos /ruta/LiberationSerif-Bold.ttf",
+  "originales": "ISO base SHA-256 validado y BGPACK SHA-256 comprobado",
+  "controles": [
+    "16 TXP hashes originales exactos",
+    "16 hashes de salida exactos",
+    "BGPACK final hash exacto",
+    "offset y tamaño BGPACK sin reubicación",
+    "BGPACK candidata no alterado previamente",
+    "lectura de comprobación después de escritura"
+  ],
+  "resultado": "código publicado, ejecución con ISO original pendiente",
+  "pruebas_ppsspp": 0,
+  "recursos_certificados": 0,
+  "nota": "No se publica ISO ni texturas; no equivale a certificación visual."
+}

@@ -1,0 +1,68 @@
+{
+  "fecha": "2026-11-23",
+  "id": "GFX-011",
+  "fuente": "BGPACK.DAT extraído en lectura de ISO autenticada",
+  "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "bgpack_sha256": "56e26744c01ad34ac79b4170746ccb6157eb6c5585b09e0340e3dbaef8f42e78",
+  "evidencia": "A: bytes, encabezado, dimensiones y paleta extraídos del original; B: inspección visual estática; C: sin PPSSPP",
+  "recursos_examinados": [
+    {
+      "name": "title1.txp",
+      "off": 67903488,
+      "size": 132112,
+      "sha": "7933d764ef0ebf6320b7f27027e52c7125dbca1204c9b05d7243cedf89e2f850",
+      "estado": "ilustración de presentación sin texto visible"
+    },
+    {
+      "name": "title2.txp",
+      "off": 68036608,
+      "size": 2128,
+      "sha": "d987fe11b76a93f8339f2bee03bb2894dd21b8361c6329b80ba52c576c7a7562",
+      "estado": "atlas de caracteres/símbolos: patrón translúcido, no traducir sin asociación a cadenas y glifos"
+    },
+    {
+      "name": "title_mj.txp",
+      "off": 68040704,
+      "size": 66576,
+      "sha": "70510aff38a3e600fab2c808ad378881c750fa4ba625bd4b8916617200c14beb",
+      "estado": "logotipo oficial La Pucelle Ragnarok y katakana, conservar marca"
+    },
+    {
+      "name": "wmap.txp",
+      "off": 68366336,
+      "size": 263184,
+      "sha": "4cae81a1cedfbbaea3218ee9611db076d15e87c70409fccb35881555ed8e0f92",
+      "estado": "mapa ilustrativo sin texto inequívoco en los fragmentos visualizados"
+    },
+    {
+      "name": "wmap_03.txp",
+      "off": 68630528,
+      "size": 132112,
+      "sha": "e1bbff94bdb7cea95e401bb51671cecea25870912527be36072493e98e1ccc50",
+      "estado": "TEXTO TRADUCIBLE CONFIRMADO: 'World Map' -> 'Mapa del mundo', pendiente de reconstrucción artística fiel e integración"
+    },
+    {
+      "name": "wmap_04.txp",
+      "off": 68763648,
+      "size": 66576,
+      "sha": "62883729f387626f38ec6aa94451f60c6d3cd962e3af2e1e2c106f1a422e59cd",
+      "estado": "ornamentos dorados sin texto"
+    }
+  ],
+  "visible_traduccion_confirmada": [
+    "wmap_03.txp"
+  ],
+  "originales_modificados": 0,
+  "objetivo_siguiente": "Reconstruir únicamente los píxeles de la inscripción World Map preservando el arte, la CLUT, el swizzle y las zonas no textuales. Ensayar 'Mapa del mundo' y validar visualmente en PPSSPP antes de contar edición terminada.",
+  "excluidos_provisionalmente": [
+    "title1.txp",
+    "title_mj.txp",
+    "wmap_04.txp"
+  ],
+  "bloqueos": [
+    "Desconocido uso en juego de atlas title2.txp",
+    "No hay PPSSPP real instalado",
+    "Inscripción ornamental World Map requiere tratamiento gráfico, no pegado de texto genérico"
+  ],
+  "certificados_ppsspp": 0
+}

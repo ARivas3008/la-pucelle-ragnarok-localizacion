@@ -40,12 +40,12 @@ def match(raw,offset,expected):
  canon=lambda s:unicodedata.normalize('NFKC',s).strip()
  return b if canon(got)==canon(expected) else None
 
-def load_rows(manifest,report,repo_dir=None):
+def load_rows(manifest,report,repo_dir=None,*,reviews=None):
  with Path(manifest).open(encoding='utf-8-sig',newline='') as f:
   idx={row['unit_id']:row for row in csv.DictReader(f)}
  with Path(report).open(encoding='utf-8-sig',newline='') as f:
   report_rows=list(csv.DictReader(f))
- reviews=None
+ if repo_dir is not None and reviews is not None:raise Peligro('Usar una sola fuente de revisión')
  if repo_dir is not None:
   from construir_parche import read_reviews
   reviews,_,_=read_reviews(repo_dir,False)
@@ -118,6 +118,17 @@ def contains_unverified_interior_reference(raw,offset,old):
  begin=offset-table.body
  return any(begin<ptr<begin+len(old) for ptr in table.pointers)
 
+
+def carga_dlc_rom029(res,row,raw):
+ """Excepción estricta para el único rótulo DLC solicitado en ROM-029."""
+ return (res=='DLC_00/script00.dat' and row.get('unit_id')=='1744'
+         and int(row.get('offset',-1))==882022
+         and row.get('original')=='現在読み込み中......'
+         and row.get('es_revisado')=='Cargando...'
+         and row.get('estado_editorial')=='revisado'
+         and sha(raw)=='539dcc66c6233471a0814bad296bce709602fbbfa9b566faac5be0337d059eae'
+         and raw[882020:882041]==bytes.fromhex('32138cbb8ddd93c782dd8d9e82dd92868163816300'))
+
 def plan(byres,sources,mode='conservador',allow_unapproved=False):
  """Planifica por unidad. Un ancla mala nunca invalida otras 489 ediciones.
 
@@ -135,7 +146,7 @@ def plan(byres,sources,mode='conservador',allow_unapproved=False):
   for r in sorted(rows,key=lambda x:x['offset']):
    uid=r['unit_id'];status='';reason='';new=None
    original=r['original'];spanish=r.get('es_revisado','');state=r.get('estado_editorial','')
-   if '読み込み中' in original or 'Now Loading' in original or 'Now Loading' in spanish:
+   if ('読み込み中' in original or 'Now Loading' in original or 'Now Loading' in spanish) and not carga_dlc_rom029(res,r,raw):
     status='EXCLUIDO_NOW_LOADING';reason='Conservado a solicitud del usuario'
    elif state!='revisado' and not allow_unapproved:
     status='PENDIENTE_EDITORIAL';reason=state or 'Sin revisión'

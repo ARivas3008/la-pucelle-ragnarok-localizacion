@@ -1,0 +1,12 @@
+{
+  "fecha": "2026-11-23",
+  "rama": "relevo/relevo011-rom008-preflight-20261123",
+  "commit_codigo": "4f79ca62c37193b66c2b9f7c2e110c9978e4b1bb",
+  "tipo": "B: modificación de código, pendiente CI; no equivale a ISO construida",
+  "cambio": "Preflight SHA-256 ISO base y protección de salida antes de crear directorios",
+  "sha_iso_esperado": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "pruebas_locales_ejecutadas": 0,
+  "candidata_textual_completa": false,
+  "ppsspp": false,
+  "nota": "La validación del preflight queda pendiente de CI y ejecución con ISO auténtica. No aumentar unidades insertadas."
+}

@@ -2,7 +2,8 @@
 import sys,struct,unittest
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
-from integrar_scripts_v014 import match, plan, Peligro, contains_unsafe_reference
+from integrar_scripts_v014 import match, plan, Peligro, contains_unsafe_reference, carga_dlc_rom029
+from unittest.mock import patch
 
 class TestScripts(unittest.TestCase):
     def build(self, raw,ptrs):
@@ -53,5 +54,23 @@ class TestScripts(unittest.TestCase):
         ch,rs,counts=plan(rows,{'ISO_START/script00.dat':raw})
         self.assertEqual(ch,{})
         self.assertEqual(counts['NO_COINCIDE_ORIGINAL'],1)
+
+
+    def test_rom029_excepcion_delimitada(self):
+        raw=bytearray(882041)
+        raw[882020:882041]=bytes.fromhex('32138cbb8ddd93c782dd8d9e82dd92868163816300')
+        r=dict(unit_id='1744',offset=882022,original='現在読み込み中......',
+               es_revisado='Cargando...',estado_editorial='revisado')
+        res='DLC_00/script00.dat'
+        self.assertFalse(carga_dlc_rom029(res,r,raw))
+        with patch('integrar_scripts_v014.sha',return_value='539dcc66c6233471a0814bad296bce709602fbbfa9b566faac5be0337d059eae'):
+            self.assertTrue(carga_dlc_rom029(res,r,raw))
+            self.assertFalse(carga_dlc_rom029('ISO_START/script00.dat',r,raw))
+            for changed in (dict(r,unit_id='1745'),dict(r,offset=882023),
+                            dict(r,original='Now Loading'),dict(r,es_revisado='Cargando'),
+                            dict(r,estado_editorial='pendiente')):
+                self.assertFalse(carga_dlc_rom029(res,changed,raw))
+            raw[882021]=0
+            self.assertFalse(carga_dlc_rom029(res,r,raw))
 
 if __name__=='__main__':unittest.main()

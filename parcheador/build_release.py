@@ -37,14 +37,19 @@ def make_resources(manifest:Path, packer:Path, dest:Path):
     # Informe editorial de 4507 unidades, sin binarios comerciales.
     entries['datos/estado_unificado_66.csv']=(ROOT/'informes/estado_unificado_66.csv').read_bytes()
     entries['datos/mapa_26258_unidades.csv']=manifest.read_bytes()
+    entries['datos/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv']=(ROOT.parent/'data/control/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv').read_bytes()
     editorial = {}
     for n in range(1,16):
         rel=f'corpus/{n:02d}/revision.csv'
         payload=(ROOT.parent/rel).read_bytes()
         entries[rel]=payload
         editorial[rel]=hashlib.sha256(payload).hexdigest()
+    rel='data/preexistentes/509_revision_central.csv'
+    payload=(ROOT.parent/rel).read_bytes()
+    entries[rel]=payload
+    editorial[rel]=hashlib.sha256(payload).hexdigest()
     entries['datos/fuentes_editoriales.json']=json.dumps({
-        'version':VERSION, 'snapshot_main':'e614ad1be6d450a93689a0eb264750b4c77a2b75',
+        'version':VERSION, 'snapshot_main':None,
         'sha256':editorial},ensure_ascii=False,sort_keys=True,indent=2).encode('utf-8')
     entries['scripts/nis_lzs_pack.exe']=packer.read_bytes()
     with dest.open('wb') as outf:

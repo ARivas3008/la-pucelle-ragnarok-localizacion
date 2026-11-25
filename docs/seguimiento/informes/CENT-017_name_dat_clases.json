@@ -1,0 +1,76 @@
+{
+  "id": "CENT-017",
+  "fecha": "2026-11-24",
+  "fuente": "ISO v1.1.2 original autenticada; recurso ISO_START/name.dat",
+  "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "name_dat_original_sha256": "6af6d7de4b001fc7bafce586f88ba0c971b9d0c39388e4ff6b10b227b1e8b27c",
+  "recurso_bytes": 4928,
+  "cabecera_cuentas": [
+    293,
+    293
+  ],
+  "estructura": {
+    "offset_primer_registro": 8,
+    "bytes_por_slot": 16,
+    "bytes_de_cabecera_por_slot": 4,
+    "bytes_maximos_texto_por_slot": 12,
+    "slots_decodificables_con_CP932": 307,
+    "slots_adicionales_respecto_cabecera": 14,
+    "bytes_cola_nulos": 8,
+    "clases": {
+      "1": 198,
+      "2": 66,
+      "3": 43
+    },
+    "unidades_name_dat_en_manifiesto": 290,
+    "slots_fuera_de_manifiesto": 17
+  },
+  "pendientes_editoriales_procedurales": {
+    "total": 58,
+    "del_recurso_iso_ingles": 31,
+    "del_dlc_japones": 27,
+    "clases_de_los_31_iso": {
+      "1": 28,
+      "2": 2,
+      "3": 1
+    }
+  },
+  "pruebas": {
+    "herramienta": "scripts/cent017_auditar_nombre.py",
+    "regresiones": "tests/test_cent017_nombre.py",
+    "workflow": ".github/workflows/qa-cent017.yml",
+    "clases_probadas_en_ORIGINAL": true,
+    "cadenas_exportadas": false,
+    "gameplay_PPSSPP": false
+  },
+  "dictamen": "El algoritmo de nombre generado de la ISO está identificado por análisis MIPS: clase 1 sufijo, clase 2 prefijo, clase 3 orden al azar y máximo 16 bytes totales; falta validar combinaciones españolas y no hay EDAT auténticos para extrapolar los 27 componentes japoneses.",
+  "aprobaciones_nuevas_por_estructura": 0,
+  "nota": "Original auténtico = evidencia A de datos, NO evidencia C de combinaciones visuales. Un listado consecutivo no prueba que dos fragmentos formen frase.",
+  "evidencia_ensamblador_MIPS": {
+    "origen": "PSP_GAME/SYSDIR/EBOOT.BIN autenticado dentro de ISO original v1.1.2",
+    "sha256_ELF_descomprimido": "2b9a1a9864f3b236e83a2848f839023e92dcb7a5272bcb430cef527eafb563f6",
+    "herramienta": "llvm-objdump disassemble mipsel ELF32",
+    "direcciones_MIPS": {
+      "recurso_cargado": "0x088aaeb4–0x088aaec0",
+      "seleccion_random_del_slot": "0x0882ec80–0x0882eca8",
+      "leer_clase_slot3": "0x0882ece0",
+      "resolver_clase3_aleatoriamente": "0x0882ecf0–0x0882ed08",
+      "clase1_copiar_base_luego_concatenar_sufijo": "0x0882ed14–0x0882ed2c",
+      "clase2_copiar_fragmento_luego_concatenar_base": "0x0882ed34–0x0882ed48",
+      "strlen_y_rechazo_longitud": "0x0882ed4c–0x0882ed58",
+      "copiar_resultado_en_nombre": "0x0882ed60–0x0882ed68",
+      "funcion_strcpy": "0x0880d350",
+      "funcion_strcat": "0x0880d240",
+      "funcion_strlen": "0x0880d3d8"
+    },
+    "reglas": [
+      "clase 1 = base + fragmento",
+      "clase 2 = fragmento + base",
+      "clase 3 = dirección elegida aleatoriamente (0–49: clase 1, 50–99: clase 2)",
+      "concatenación de C strings terminadas en NUL, sin espacio adicional",
+      "strlen produce bytes, y `sltiu < 0x11` permite como máximo 16 bytes de salida; mayor se descarta y se sortea otro nombre"
+    ],
+    "comentario": "Reglas derivadas directamente de instrucciones y ramas MIPS, no de captura PPSSPP. El nombre resultante carece de delimitador extra entre segmentos."
+  },
+  "proxima_tarea": "Simular composición con todos los nombres y revisar morfología/longitud CP932 y comportamiento visual en PPSSPP; no aprobar nombres solo por descubrir clases."
+}

@@ -1152,6 +1152,48 @@
       "partida": null,
       "resultado_observado": null,
       "evidencia": []
+    },
+    {
+      "id": "BT-CENT013-01",
+      "escena": "Bloques reconstruidos de Prier, Culotte y Alouette",
+      "pasos": "Comprobar las cajas reconstruidas, elecciones y 165 anclas; cotejar informes de inserción",
+      "resultado_esperado": "Sin duplicaciones ni pérdida de continuación",
+      "estado": "sin_ejecutar_v019",
+      "version_ppsspp": null,
+      "configuracion": null,
+      "commit": null,
+      "hashes": null,
+      "partida": null,
+      "resultado_observado": null,
+      "evidencia": []
+    },
+    {
+      "id": "BT-GFX007-01",
+      "escena": "Capítulos 1–12",
+      "pasos": "Abrir los títulos en PPSSPP desde una candidata que incorpore el piloto",
+      "resultado_esperado": "Español centrado, sin tinta inglesa residual ni deterioro del marco",
+      "estado": "sin_ejecutar_v019",
+      "version_ppsspp": null,
+      "configuracion": null,
+      "commit": null,
+      "hashes": null,
+      "partida": null,
+      "resultado_observado": null,
+      "evidencia": []
+    },
+    {
+      "id": "BT-GFX007-02",
+      "escena": "Ruta demoníaca at15–at18",
+      "pasos": "Comprobar contraste, fondo y legibilidad en pantalla real",
+      "resultado_esperado": "Sin restos ingleses, títulos legibles y CLUT intacta",
+      "estado": "sin_ejecutar_v019",
+      "version_ppsspp": null,
+      "configuracion": null,
+      "commit": null,
+      "hashes": null,
+      "partida": null,
+      "resultado_observado": null,
+      "evidencia": []
     }
   ]
 }

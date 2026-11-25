@@ -180,6 +180,24 @@
       "estado": "B_pruebas_sinteticas_aprobadas_CI_sin_C",
       "evidencia": "scripts/test_auditar_graficos_manifiesto.py",
       "ci": "https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/actions/runs/45301178789"
+    },
+    {
+      "id": "ROM-029",
+      "tipo": "Motor de revisión central y empaquetado de los 509 registros; anclas exactas",
+      "estado": "B_IMPLEMENTACION_Y_CI_SIN_C",
+      "evidencia": "docs/seguimiento/informes/ROM-007_integracion_central.json"
+    },
+    {
+      "id": "ROM-030",
+      "tipo": "109 bloques históricos conservados, SHA256 líneas y texto exacto",
+      "estado": "A_Y_B_109_COINCIDEN",
+      "evidencia": "docs/seguimiento/informes/CENT-013.json"
+    },
+    {
+      "id": "ROM-031",
+      "tipo": "ISO piloto gráfica: 16 TXP modificados, 269 miembros intactos, 22 archivos ISO idénticos",
+      "estado": "B_CANDIDATA_PARCIAL_REAL_C_NO_DISPONIBLE",
+      "evidencia": "docs/seguimiento/informes/GFX-007_capitulos_piloto.json"
     }
   ]
 }

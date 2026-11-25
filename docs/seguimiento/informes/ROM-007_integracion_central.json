@@ -1,0 +1,25 @@
+{
+  "evidencia": "A: líneas recuperadas de ISO original; B: código y CI, 109 coincidencias de hash y traducción; C no disponible",
+  "ficheros": [
+    "parcheador/app/scripts/revisiones_coordinadas.py",
+    "parcheador/app/scripts/integracion_total.py",
+    "parcheador/app/scripts/recompilar_talk.py",
+    "parcheador/build_release.py",
+    "parcheador/main.go"
+  ],
+  "revisiones_centrales": 451,
+  "anclas": 165,
+  "candidata_completa": false,
+  "ppsspp": false,
+  "nota": "No incrementar numerador histórico sin una candidata auditada; conservar traducciones históricas y validar cada SHA de origen.",
+  "legacy_comprobados": 109,
+  "legacy_discrepancias": 0,
+  "nuevos_bloques": 56,
+  "ci_previa": {
+    "commit": "4dbbc4de765396ac87f2667d939bcbdca2a6014f",
+    "corpus": 45303682036,
+    "seguimiento": 45303682117,
+    "motor": 45303682121,
+    "resultado": "success"
+  }
+}

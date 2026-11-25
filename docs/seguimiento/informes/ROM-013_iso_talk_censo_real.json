@@ -1,0 +1,62 @@
+{
+  "id": "ROM-013",
+  "fecha": "2026-11-24",
+  "origen": "La_Pucelle_Ragnarok_v1.1.2.iso extraída de 7z aportado por usuario; solo lectura",
+  "iso_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "manifiesto": "data/maestros/04_MANIFIESTO_INSERCION_26258_CON_DIVISION.csv",
+  "tipo_evidencia": "A: archivo original, estructura ISO9660/NISPACK/LZS/talk, offsets y cadenas CP932; NO candidata traducida y NO PPSSPP",
+  "metodo": "ISO9660 a SCRIPTPACK y START_JP.LZS; descompresión sin solapamiento; decodificación talk, agrupación por opcódigo, y cotejo de originales normalizados NFKC por recurso y desplazamiento; conteos excluyen DLC El censo de runs descarta las cuatro cadenas físicas vacías, igual que recompilar_talk.runs.",
+  "resultados": {
+    "recursos_talk_iso": 17,
+    "cadenas_talk_en_iso": 44751,
+    "grupos_runs_por_parser_independiente": 17273,
+    "unidades_talk_iso_del_manifiesto": 20083,
+    "unidades_origen_coincidentes": 20083,
+    "discordancias": 0,
+    "cadenas_fisicas_sin_unit_id_manifestado": 24668,
+    "bloques_talk_con_unidades_mapeadas_y_no_mapeadas": 1439,
+    "bloques_talk_todo_mapeado": 6084,
+    "bloques_talk_no_mapeados": 9750,
+    "cadenas_vacias_omitidas_de_runs": 4
+  },
+  "nota_discrepancia": "RESUELTA: cuatro cadenas vacías se excluyen de runs conforme a recompilar_talk.runs; 17.273 runs = 6.084 mapeados + 1.439 mixtos + 9.750 sin mapeo.",
+  "oportunidad": "ROM-011 debe apuntar a 1442 bloques mixtos pero solo insertar unidades singulares revisadas, con glifos y límites comprobados. No contar 1442 como unidades insertadas.",
+  "codigo_local_de_evidencia_sha256": "98ff6342ea5d22ad922613dd60ed1cad0be437c921c4a4b6e23cd1f6cace8dc3",
+  "script_local_nombre": "rom013_iso_talk_audit.py",
+  "nuevas_unidades_insertadas_certificadas": 0,
+  "objetivo_minimo_integral": 25956,
+  "certificacion_integral_alcanzada": false,
+  "bloques_mixtos_por_forma": {
+    "una_cadena_catalogada_una_omitada": 376,
+    "dos_catalogadas_una_omitada": 305,
+    "tres_catalogadas_una_omitada": 175,
+    "cuatro_catalogadas_una_omitada": 159,
+    "cinco_catalogadas_una_omitada": 88,
+    "una_catalogada_dos_omitidas": 61,
+    "otros": 275
+  },
+  "top_recursos_mixtos": [
+    [
+      "talk18_jp.dat",
+      163
+    ],
+    [
+      "ISO_START/talk00.dat",
+      149
+    ],
+    [
+      "talk16_jp.dat",
+      124
+    ],
+    [
+      "talk11_jp.dat",
+      121
+    ],
+    [
+      "talk15_jp.dat",
+      119
+    ]
+  ],
+  "analisis_rom011": "En 376 bloques hay una cadena catalogada y otra sin ID; solo se modifica la primera si la revisión está aprobada y el token cumple espacio/bytecode. 1.439 bloques mixtos no equivalen a 1.439 inserciones.",
+  "informe_local_resultante_sha256": "9eb4486b21ed4f4eef8a17b20aab66ffc806a8e8769d8e023a850630e4219586"
+}

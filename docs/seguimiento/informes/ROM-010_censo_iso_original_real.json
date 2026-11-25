@@ -1,0 +1,53 @@
+{
+  "id": "ROM-010-A",
+  "fecha": "2026-11-23",
+  "tipo_evidencia": "A: lectura y hash de ISO original autenticada; B: cálculo de alcance del manifiesto, sin candidata recompilada",
+  "fuente_iso": "La_Pucelle_Ragnarok_v1.1.2.iso de archivo 7z facilitado por usuario",
+  "iso_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "iso_bytes": 858937344,
+  "START_JP_LZS_sha256": "22be383708fe5520cf9da7efa302a2502a9fca82727874b644ab64ad2d72620a",
+  "SCRIPTPACK_DAT_sha256": "fac60737190894141b79e2ed07fae908947469d536872746e4b5fe72e908f5cb",
+  "inventario": {
+    "unidades_total": 26258,
+    "iso_sola": 22721,
+    "dlc_00_a_03_sin_original_actual": 3537,
+    "iso_dialogo_unidades": 20083,
+    "recursos_talk_originales": 17,
+    "cadenas_talk_originales": 44751,
+    "bloques_runs_originales": 17273,
+    "unidades_ISO_dialogo_con_original_coincidente_normalizado": 20083,
+    "unidades_ISO_dialogo_con_mismatch": 0
+  },
+  "v019_historico": {
+    "unidades_verificadas": 21805,
+    "porcentaje": 83.04
+  },
+  "objetivo_editorial": {
+    "grupos_revisados": 15346,
+    "grupos_total": 15525,
+    "porcentaje_redondeado": 98.85
+  },
+  "objetivo_integracion": {
+    "minimo_unidades_para_98_85_redondeado": 25956,
+    "unidades_adicionales_necesarias": 4151,
+    "maximo_pendientes_en_meta": 302
+  },
+  "pendientes_historicos_por_estado": {
+    "TALK_PENDIENTE": 3527,
+    "CAMPO_SIN_TRADUCIR": 419,
+    "CAMPO_MODIFICADO_COTEJO_PENDIENTE": 335,
+    "SCRIPT_PENDIENTE": 1,
+    "GRAFICO_PENDIENTE_REVISION_VISUAL": 62,
+    "SIN_CAMBIO_COINCIDE_REVISION": 109
+  },
+  "limitaciones": [
+    "Sin EDAT original no se puede ejecutar auditoría de ISO+DLC reconstruida en este entorno.",
+    "La integridad de los originales no certifica ninguna unidad insertada en candidata nueva.",
+    "No hay PPSSPP ejecutado para la candidata de este relevo.",
+    "Para alcanzar 98,85% también es necesario resolver campos y gráficos, no solo talk."
+  ],
+  "candidato_nuevo_generado": false,
+  "unidades_nuevas_certificadas": 0,
+  "ci_rom010": "pendiente",
+  "notas": "No mover el numerador histórico 21.805 por cambios de código, por el censo de originales ni por pruebas sintéticas."
+}

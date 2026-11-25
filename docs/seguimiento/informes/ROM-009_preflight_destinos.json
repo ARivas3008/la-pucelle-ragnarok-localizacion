@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-23",
+  "lote": "ROM-009",
+  "rama": "relevo/relevo012-cierre-integridad-20261123",
+  "cambios": [
+    "Preflight de ruta de ISO original y DLC antes de escribir",
+    "Comprobación de cuatro EDAT presentes",
+    "Rechazo de salida no vacía y rutas que pisan o contienen originales",
+    "12 regresiones unitarias sin material protegido",
+    "Workflow independiente QA ROM-009"
+  ],
+  "evidencia": "B: código y pruebas sintéticas; CI por confirmar",
+  "pruebas_de_juego": 0,
+  "iso_generada": false,
+  "dlc_procesados": false,
+  "graficos_certificados": 0,
+  "grupos_editoriales_nuevos": 0,
+  "nota": "No incrementar porcentajes hasta ejecutar y certificar con originales y PPSSPP."
+}
