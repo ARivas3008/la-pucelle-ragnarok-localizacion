@@ -125,6 +125,42 @@ def variante_tabla_rom021(row,text,raw,cap,variants):
  if not data or b'\0' in data or len(data)>=cap:return None
  return compact,data,cap
 
+
+def variante_tabla_rom022(row,text,raw,cap,variants):
+ """Solo magic.dat ISO auténtica; conservar prefijos funcionales y metadatos."""
+ v=variants.get(row['unit_id'])
+ if not v or text!=v['revision'] or row['recurso']!='ISO_START/magic.dat':return None
+ if any(str(row[k])!=str(v[k]) for k in ('unit_id','grupo_id','recurso','offset','original')):return None
+ expected='9018e9c5ea277ad1acd5f9a2a9d10120c3d5864a1ee45d8fe789166b8a138fe3'
+ if v['sha256_recurso']!=expected or hashlib.sha256(raw).hexdigest()!=expected:return None
+ typ=v['tipo']
+ if typ in ('reserva_original','reserva_original_compacta'):
+  special={
+   '23133':(14178,13,'427574742041747461636b2000',b'\x09','reserva_original_compacta'),
+   '23302':(24964,25,'426f7865732047616c6f726500000000000000000000000000',b'\x87\x41','reserva_original'),
+  }.get(row['unit_id'])
+  if cap is not None or not special:return None
+  off,c,source_hex,tail,expected_typ=special
+  if int(row['offset'])!=off or v['capacidad']!=c or typ!=expected_typ or v['fuente_hex']!=source_hex:return None
+  if bytes(raw[off:off+c])!=bytes.fromhex(source_hex) or bytes(raw[off+c:off+c+len(tail)])!=tail:return None
+  cap=c
+  if typ=='reserva_original' and v['compacto']!=text:return None
+ elif typ=='compacto':
+  if cap not in (23,57) or v['capacidad']!=cap:return None
+ else:return None
+ try:
+  if typ!='reserva_original' and len(encode_script_text(text))<cap:return None
+ except FontError:return None
+ compact=v['compacto']
+ if not compact or any(unicodedata.category(c).startswith('C') for c in compact):return None
+ icons='①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳'
+ if [c for c in compact if c in icons]!=[c for c in text if c in icons]:return None
+ if text[0] in icons and compact[0]!=text[0]:return None
+ try:data=encode_script_text(compact)
+ except FontError:return None
+ if not data or b'\0' in data or len(data)>=cap:return None
+ return compact,data,cap
+
 def aplicar(key,original,current,manifest,reviews):
  extra=ROOT/'datos/campos_revisados_adicionales.json'
  overrides={r['unit_id']:r for r in json.loads(extra.read_text(encoding='utf8'))} if extra.exists() else {}
@@ -136,6 +172,8 @@ def aplicar(key,original,current,manifest,reviews):
  rom020_variants={r['unit_id']:r for r in json.loads(rom020_path.read_text(encoding='utf8'))} if rom020_path.exists() else {}
  rom021_path=ROOT/'datos/campos_compactos_rom021.json'
  rom021_variants={r['unit_id']:r for r in json.loads(rom021_path.read_text(encoding='utf8'))} if rom021_path.exists() else {}
+ rom022_path=ROOT/'datos/campos_compactos_rom022.json'
+ rom022_variants={r['unit_id']:r for r in json.loads(rom022_path.read_text(encoding='utf8'))} if rom022_path.exists() else {}
  journal=[];pending=[]
  for row in manifest:
   res=row['recurso'];name=res.split('/')[-1]
@@ -168,6 +206,9 @@ def aplicar(key,original,current,manifest,reviews):
   if cap is None or len(data)>=cap:
    fallback21=variante_tabla_rom021(row,text,raw,cap,rom021_variants)
    if fallback21 is not None:text,data,cap=fallback21
+  if cap is None or len(data)>=cap:
+   fallback22=variante_tabla_rom022(row,text,raw,cap,rom022_variants)
+   if fallback22 is not None:text,data,cap=fallback22
   if cap is None or len(data)>=cap:
    pending.append(dict(unit_id=uid,motivo='No cabe en reserva verificada',capacidad=cap,bytes=len(data),es=text));continue
   missing=missing_render_glyphs(decode_es(data),current)

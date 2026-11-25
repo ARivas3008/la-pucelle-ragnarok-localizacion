@@ -250,5 +250,14 @@
     "original": "Shut up",
     "revision": "¡Cállate!",
     "compacto": "¡Calla!"
+  },
+  {
+    "unit_id": "23831",
+    "grupo_id": "14299",
+    "recurso": "ISO_START/name.dat",
+    "offset": 4636,
+    "original": "Look good",
+    "revision": "Se mire como se mire",
+    "compacto": "Sin duda "
   }
 ]
