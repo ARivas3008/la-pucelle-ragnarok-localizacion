@@ -62,6 +62,42 @@ def variante_tabla_rom019(row,text,raw,cap,variants):
  if not data or b'\0' in data or len(data)>=cap:return None
  return compact,data,cap
 
+
+def variante_tabla_rom020(row,text,raw,cap,variants):
+ """Reservas exactas del piloto ROM-020; no se generalizan offsets atípicos."""
+ v=variants.get(row['unit_id'])
+ if not v or text!=v['revision']:return None
+ if any(str(row[k])!=str(v[k]) for k in ('unit_id','grupo_id','recurso','offset','original')):return None
+ resource=row['recurso']
+ hashes={
+  'ISO_START/com.dat':'817f8759328aa448aa9124a33a6c4dbe4ca16d6327028ed0fe6793707760b7be',
+  'ISO_START/skill.dat':'8df0acaff462429663138dc75773a709e1548d5d751ad0649a5283a9c8fc8944',
+ }
+ expected=hashes.get(resource)
+ if not expected or v['sha256_recurso']!=expected or hashlib.sha256(raw).hexdigest()!=expected:return None
+ if v['tipo']=='reserva_original':
+  special={
+   '24106':(3219,'4d616769632042617272696572000000000000000000'),
+   '24111':(3689,'2848656176656e204261727269657200000000000000'),
+  }.get(row['unit_id'])
+  if resource!='ISO_START/skill.dat' or cap is not None or v['capacidad']!=22 or not special:return None
+  off,source_hex=special
+  if int(row['offset'])!=off or v['fuente_hex']!=source_hex or bytes(raw[off:off+22])!=bytes.fromhex(source_hex):return None
+  cap=22
+  if v['compacto']!=text:return None
+ elif v['tipo']=='compacto':
+  if cap not in ((23,49) if resource=='ISO_START/com.dat' else (21,57)) or v['capacidad']!=cap:return None
+  try:
+   if len(encode_script_text(text))<cap:return None
+  except FontError:return None
+ else:return None
+ compact=v['compacto']
+ if not compact or any(unicodedata.category(c).startswith('C') for c in compact):return None
+ try:data=encode_script_text(compact)
+ except FontError:return None
+ if not data or b'\0' in data or len(data)>=cap:return None
+ return compact,data,cap
+
 def aplicar(key,original,current,manifest,reviews):
  extra=ROOT/'datos/campos_revisados_adicionales.json'
  overrides={r['unit_id']:r for r in json.loads(extra.read_text(encoding='utf8'))} if extra.exists() else {}
@@ -69,6 +105,8 @@ def aplicar(key,original,current,manifest,reviews):
  variants={r['unit_id']:r for r in json.loads(compact_path.read_text(encoding='utf8'))} if compact_path.exists() else {}
  table_path=ROOT/'datos/campos_compactos_rom019.json'
  table_variants={r['unit_id']:r for r in json.loads(table_path.read_text(encoding='utf8'))} if table_path.exists() else {}
+ rom020_path=ROOT/'datos/campos_compactos_rom020.json'
+ rom020_variants={r['unit_id']:r for r in json.loads(rom020_path.read_text(encoding='utf8'))} if rom020_path.exists() else {}
  journal=[];pending=[]
  for row in manifest:
   res=row['recurso'];name=res.split('/')[-1]
@@ -95,6 +133,9 @@ def aplicar(key,original,current,manifest,reviews):
   if cap is None or len(data)>=cap:
    table_fallback=variante_tabla_rom019(row,text,raw,cap,table_variants)
    if table_fallback is not None:text,data,cap=table_fallback
+  if cap is None or len(data)>=cap:
+   fallback20=variante_tabla_rom020(row,text,raw,cap,rom020_variants)
+   if fallback20 is not None:text,data,cap=fallback20
   if cap is None or len(data)>=cap:
    pending.append(dict(unit_id=uid,motivo='No cabe en reserva verificada',capacidad=cap,bytes=len(data),es=text));continue
   missing=missing_render_glyphs(decode_es(data),current)
