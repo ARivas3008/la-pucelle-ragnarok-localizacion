@@ -90,3 +90,5 @@ jobs:
         run: python -m unittest discover -s scripts -p 'test_auditar_graficos_manifiesto.py' -v
       - name: Integrar revisión central y preservar anclas de diálogos recuperados
         run: python -m unittest discover -s parcheador/app/tests -p 'test_revisiones_coordinadas.py' -v
+      - name: Conciliar inventarios ROM-030 por ID y adaptaciones EBOOT
+        run: python scripts/auditar_rom030_agregado.py

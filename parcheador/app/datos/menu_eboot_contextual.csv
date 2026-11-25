@@ -75,10 +75,10 @@ System Speed Fast,Sistema veloz,Ajustes; reducción HUD v0.7
 Text Speed  Slow,Texto lento,Ajustes
 Text Speed  Normal,Texto normal,Ajustes
 Text Speed  Fast,Texto veloz,Ajustes; reducción HUD v0.7
-Text Speed  Blitz,Texto veloz,Ajustes
+Text Speed  Blitz,Texto máximo,Ajustes
 Move Speed  Normal,Paso normal,Ajustes
 Move Speed  Fast,Paso veloz,Ajustes; reducción HUD v0.7
-Move Speed  Blitz,Paso veloz,Ajustes
+Move Speed  Blitz,Paso máximo,Ajustes
 Good Ending,Final bueno,Historia
 Normal Ending,Final normal,Historia
 Bad Ending,Final malo,Historia

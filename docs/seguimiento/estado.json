@@ -1,6 +1,6 @@
 {
   "esquema": "estado_v1",
-  "fecha": "2026-11-23",
+  "fecha": "2026-11-25",
   "base_main": "01cf421ed46351dd829cbb35e8922b7895454cfd",
   "version": "v0.19.0-integracion",
   "revision_corpus": {
@@ -67,7 +67,7 @@
     "archivo": "la_pucelle_original_relevo005.iso",
     "bytes": 858937344
   },
-  "dlc_originales_aportados": false,
+  "dlc_originales_aportados": true,
   "ppsspp_ejecutado": false,
   "porcentaje_global": null,
   "alcance_no_inventariado": [
@@ -76,9 +76,11 @@
     "escenas y cuatro DLC exhaustivos"
   ],
   "bloqueos": [
-    "Cuatro EDAT originales ausentes para DLC_00..03",
-    "PPSSPP no disponible en el entorno",
-    "Clon Windows no montado"
+    "Acceso a entorno de ejecución local falló; la ISO original de 332791211 bytes comprimida supera el límite de materialización",
+    "Candidata única ISO+DLC sin reconstruir ni releer",
+    "PPSSPP no ejecutado",
+    "3006 unidades ISO TALK requieren nueva compilación y cotejo",
+    "62 unidades gráficas sin certificación visual"
   ],
   "siguiente_tarea": "RELEVO-018",
   "grupos_centrales": {
@@ -111,7 +113,7 @@
     "REV-002 requiere investigación estructural de fragmentos del generador de nombres",
     "ROM-002 revalidar candidato ISO+DLC al disponer de EDAT y PPSSPP"
   ],
-  "criterio_siguiente": "Revisión editorial del texto auténtico actualmente catalogado finalizada 15524/15524 (100%): 15524 estados revisado + 1 falso positivo 1630 excluido y sin modificar. También 10 fragmentos lexicales name.dat fuera del maestro recibieron revisión sidecar. No implica todo juego 100% (alcance fuera de catálogo no exhaustivo), ni integración ISO+DLC, ni PPSSPP. Priorizar auditoría de glifos, formato, slots y juego real, inventario de nuevo texto fuera del manifiesto y perfeccionar transcreaciones de 26 fragmentos japoneses tras EDAT auténticos.",
+  "criterio_siguiente": "Reconstruir candidata única sobre ISO y cuatro EDAT originales autenticados, consolidar el paquete ROM029 sin perder diálogos previos, ejecutar auditar_entrega.py y resolver las unidades aún pendientes; no confundir cobertura agregada con certificación integral.",
   "revisiones_nuevas_en_esta_rama": {
     "lote": "CENT-013",
     "editoriales_centrales": 57,
@@ -415,5 +417,20 @@
       "data/control/EXCLUSIONES_TECNICAS_VERIFICADAS.md"
     ],
     "informe": "docs/seguimiento/informes/CENT-019_cierre_editorial_catalogo.json"
+  },
+  "rom030": {
+    "informe": "docs/seguimiento/informes/ROM-030_consolidacion.json",
+    "historica": 21805,
+    "agregada": 22997,
+    "agregada_con_190_adaptaciones_eboot": 23187,
+    "unidades_validas": 26257,
+    "dlc_textos_validos": 3536,
+    "dlc_resueltos_entre_pilotos": 3536,
+    "iso_tablas": 1832,
+    "iso_scripts": 485,
+    "iso_talk_pendientes_historicos": 3006,
+    "eboot_pendientes_relectura": 192,
+    "candidata_integral": false,
+    "ppsspp": false
   }
 }
