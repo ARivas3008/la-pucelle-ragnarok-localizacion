@@ -1,0 +1,76 @@
+{
+  "id": "GFX-014",
+  "fecha": "2026-11-25",
+  "base": "GFX-013",
+  "evidencia": "A: ISO autenticada, B: candidata grafica real auditada, C: pendiente PPSSPP",
+  "iso_original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+  "iso_candidata_sha256": "446023f72d5e1aa84a57d518bb19c60cb712d419996b54292a4f53b85425d31c",
+  "bytes_iso": 858937344,
+  "archivos_iso": 23,
+  "modificados": [
+    "START_JP.LZS",
+    "BGPACK.DAT",
+    "MAPPACK.DAT"
+  ],
+  "layout_y_pvd_identicos": true,
+  "bytes_exteriores_identicos": 745987193,
+  "graficos_conocidos": {
+    "tratados": 62,
+    "editados": 54,
+    "preservados": 8,
+    "certificados_ppsspp": 0
+  },
+  "inventario_ampliado": {
+    "km2_archivos": 225,
+    "km2_texturas": 367,
+    "errores_km2": 0,
+    "mappack_miembros": 144,
+    "mpp_texturas_detectadas": 742,
+    "mpp_texturas_distintas_por_sha": 219,
+    "mapas_solo_mpd": 7,
+    "exhaustivo_global": false
+  },
+  "titulos": [
+    {
+      "recurso": "at17.txp",
+      "japones": "絶望より出でしモノ",
+      "es": "Lo que nace de la desesperación",
+      "fuente": "https://www.youtube.com/watch?v=0UzkdEupMEI",
+      "sha256": "a6bfb55331daa08f08989628367b7df878c6dbe2c0cf0539ade7c2d801105b31"
+    },
+    {
+      "recurso": "at18.txp",
+      "japones": "闇の聖母",
+      "es": "La Santa Madre de las Tinieblas",
+      "fuente": "https://www.youtube.com/watch?v=aU1-8uarbsY",
+      "sha256": "c0c735fca79f47f19db881f7e50da97ca62a79f745488fe948ffd98619210a96"
+    }
+  ],
+  "cartel": {
+    "recurso": "MAPPACK.DAT/mp03205.lzs/mp03205.mpp",
+    "texto": "PELIGRO / PELIGRO EXTREMO",
+    "origen": "DANGER / 危険 y texto pequeño de lectura incierta",
+    "pixeles_cambiados": 2544,
+    "bytes_comprimidos_antes_y_despues": 292233,
+    "referencias_sin_solapamiento": 21305,
+    "sha_original": "a64e852f25954a64e5d81c045d4362dcd7159f3a6d68556d4df8ed45420519b8",
+    "sha_candidato": "719932c5de0185655ec91034069fd2a7dd0e9bc3d64ff35ffa2f425cd7ba1c6c",
+    "otros_miembros_intactos": 143,
+    "sha_mappack": "fad6095cbacbbb903c3d77c99352e6ffc03e41aa7acae285bc7220626204c9b0"
+  },
+  "qa": {
+    "nuevas_pruebas_integridad": 7,
+    "aprobadas": 7,
+    "casos_ppsspp_preparados": 28,
+    "ejecutados": 0
+  },
+  "limites": [
+    "Fuentes japonesas secundarias de edicion moderna, no cotejo ISO japonesa PSP; corpus oficial sin actualizar.",
+    "No se ha confirmado que el cartel sea el de la cueva mencionada. Quedan letras parcialmente ocultas del cartel superpuesto y lectura exacta del texto pequeno.",
+    "ANMPACK y otros contenedores no inventariados exhaustivamente.",
+    "La candidata es grafica, no integral de texto y DLC.",
+    "PPSSPP no instalado; curl y descarga directa fallaron.",
+    "No se fusiona la rama conservadora; deltas y aplicador se entregan en ZIP local, no se han subido a GitHub."
+  ],
+  "archivo_entrega": "LaPucelle_GFX014_Cartel_Capitulos_QA.zip"
+}
