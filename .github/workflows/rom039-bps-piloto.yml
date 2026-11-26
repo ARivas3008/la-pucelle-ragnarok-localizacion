@@ -1,0 +1,17 @@
+name: ROM039 BPS piloto
+on:
+  push:
+    branches: [integracion/rom039-consolidacion-20261126]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  synthetic:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m py_compile scripts/generar_bps_mac_piloto.py
+      - run: python scripts/test_generar_bps_mac_piloto.py
