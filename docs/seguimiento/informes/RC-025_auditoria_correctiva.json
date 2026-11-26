@@ -1,0 +1,59 @@
+{
+  "version": "RC025 auditoría de fuentes, no candidata binaria",
+  "base": "ff75ba97228c71880b96fc5658cfa603ead2f91a",
+  "rc024_sha": "fc2c8b08f29ef8a0eb4b09b89010496fb382ef96a0976b87b75e75623646aece",
+  "observaciones_usuario": 5,
+  "incidencias_adicionales_documentales": [
+    {
+      "resource": "at17.txp",
+      "revision": "El emperador de la desesperación",
+      "integrado": "Lo que nace de la desesperación",
+      "estado": "resolver contra japonés y aprobación canónica"
+    },
+    {
+      "resource": "at18.txp",
+      "revision": "El espíritu de las tinieblas",
+      "integrado": "La Santa Madre de las Tinieblas",
+      "estado": "resolver contra japonés y aprobación canónica"
+    },
+    {
+      "grupo": 8496,
+      "original_revision": "en el «Panza del Diablo»",
+      "correccion": "en la Panza del Diablo",
+      "estado": "CSV corregido, no insertado"
+    }
+  ],
+  "corpus_revisados": 15,
+  "grupos_leidos": 15016,
+  "grupos_toponimo": 19,
+  "japones_editorial": [
+    261,
+    262,
+    263,
+    264
+  ],
+  "nota_japones": "caracteres deliberadamente mencionados; no contabilizar como residual sin contexto",
+  "tutorial": {
+    "grupo": 5151,
+    "ids": [
+      6456,
+      6457,
+      6458,
+      6459
+    ],
+    "offset_original": 122532,
+    "resource": "SCRIPTPACK.DAT/talk01_jp.dat",
+    "traduccion": "Al purificar un portal oscuro, dañas a los enemigos que estén sobre la corriente de energía que sale de él."
+  },
+  "pendientes_previos": {
+    "cadenas_candidatas": 1908,
+    "nota": "recuento histórico RC024; no son 1908 errores confirmados"
+  },
+  "auditor": "scripts/rc025_auditar_incidencias.py",
+  "ejecutado_binarios": false,
+  "ppsspp": false,
+  "correcciones_binarias": 0,
+  "nueva_iso": false,
+  "nuevo_exe": false,
+  "bloqueo": "Entorno de ejecución no accesible: Python y contenedor devuelven ClientError. No se ha podido abrir la ISO, comparar texturas, ejecutar auditor ni compilar. No declarar corrección de glifos ni de textos físicos."
+}
