@@ -32,7 +32,7 @@ class BPS:
         check(len(p)>=16 and p[:4]==b'BPS1','No es BPS')
         self.src_crc,self.dst_crc,c=struct.unpack_from('<III',p,self.end)
         check(zlib.crc32(p[:-4])==c,'CRC BPS incorrecto')
-        self.src_size=self.get();self.dst_size=self.get();self.i+=self.get()
+        self.src_size=self.get();self.dst_size=self.get();meta=self.get();self.i+=meta
         check(self.i<=self.end,'Metadatos truncados')
         self.start=self.i
     def get(self):
