@@ -1,0 +1,71 @@
+{
+  "version": "RC-023 preliminar",
+  "base": "9d57f8c10ba21353a35eeac91670294734cbdbed",
+  "iso_sha256": "ed997a4a4ebb2521cf9bb8aff55cb1287786fb104aa239c1f94e5a0eb7ae4c2b",
+  "exe_sha256": "53172642dd147560631ceff35caa348a4b7e2db1a42d37879599529b091b1a2d",
+  "validas": 26257,
+  "cotejadas": 25084,
+  "porcentaje_global": 95.53261987279582,
+  "textos": {
+    "cotejados": 25084,
+    "validos": 26195,
+    "porcentaje": 95.75873258255392
+  },
+  "nuevas_unidades": 821,
+  "adaptaciones_historicas_cotejadas": 121,
+  "pendientes": {
+    "talk_iso": 1088,
+    "talk_dlc": 23,
+    "graficos_certificacion_visual": 62
+  },
+  "por_tipo": {
+    "talk_iso": [
+      18995,
+      20083
+    ],
+    "talk_dlc": [
+      1645,
+      1668
+    ],
+    "tablas_iso": [
+      1832,
+      1832
+    ],
+    "tablas_dlc": [
+      1849,
+      1849
+    ],
+    "scripts": [
+      504,
+      504
+    ],
+    "eboot": [
+      259,
+      259
+    ]
+  },
+  "opciones": {
+    "modificadas": 355,
+    "conservadas_correctamente": 38,
+    "total": 393
+  },
+  "adaptaciones_compactas_dlc": {
+    "nuevas": 230,
+    "historicas": 121,
+    "certificacion_editorial_visual": false
+  },
+  "pruebas": {
+    "relectura": true,
+    "recursos_talk": 21,
+    "regresiones_ids": 0,
+    "graficos_RC022_preservados": true,
+    "fuentes_RC022_preservadas": true,
+    "go_test": true,
+    "go_vet_windows": true,
+    "motor_linux_5_hashes": true,
+    "ppsspp": false,
+    "gui_windows": false
+  },
+  "bloqueos": "Recetas privadas ROM029/033 y avances gráficos posteriores no recuperados; PPSSPP no disponible. No certifica el 100%.",
+  "alcance": "Informe de evidencias; fuentes, diarios y deltas están en el paquete local RC023, no se publican binarios comerciales."
+}
