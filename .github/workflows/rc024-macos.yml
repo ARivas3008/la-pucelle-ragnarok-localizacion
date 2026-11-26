@@ -1,0 +1,43 @@
+name: Compilar parcheador macOS RC024 preliminar
+on:
+  push:
+    branches: [integracion/rc024-parcheador-macos-20261126]
+    paths: ['parcheador/macos/**', '.github/workflows/rc024-macos.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.24.x'
+      - name: Pruebas sintéticas
+        working-directory: parcheador/macos
+        run: GO111MODULE=off go test -v
+      - name: Compilar y empaquetar
+        shell: bash
+        run: |
+          set -euo pipefail
+          APP="dist/LaPucelle_Parcheador_ES_RC024.app"
+          mkdir -p "$APP/Contents/MacOS" "$APP/Contents/Resources"
+          CGO_ENABLED=0 GOOS=darwin GOARCH=amd64 go build -trimpath -o /tmp/lp-intel parcheador/macos/main.go
+          CGO_ENABLED=0 GOOS=darwin GOARCH=arm64 go build -trimpath -o /tmp/lp-arm parcheador/macos/main.go
+          lipo -create /tmp/lp-intel /tmp/lp-arm -output "$APP/Contents/MacOS/LaPucelle"
+          cp parcheador/macos/Info.plist "$APP/Contents/Info.plist"
+          cp parcheador/macos/LEEME.md dist/
+          chmod +x "$APP/Contents/MacOS/LaPucelle"
+          codesign --force --sign - "$APP"
+          codesign --verify --strict "$APP"
+          lipo -info "$APP/Contents/MacOS/LaPucelle"
+          "$APP/Contents/MacOS/LaPucelle" --version
+          ditto -c -k --keepParent "$APP" dist/LaPucelle_RC024_macOS.zip
+          shasum -a 256 dist/LaPucelle_RC024_macOS.zip
+      - uses: actions/upload-artifact@v4
+        with:
+          name: LaPucelle-RC024-macOS-PRELIMINAR
+          path: |
+            dist/LaPucelle_RC024_macOS.zip
+            dist/LEEME.md
