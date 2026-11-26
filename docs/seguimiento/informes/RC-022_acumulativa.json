@@ -1,0 +1,69 @@
+{
+  "version": "RC-022 acumulativa preliminar",
+  "base": "2777455038a4b860dc3c371b5031d7f5159b4156",
+  "artifact": 15044023741,
+  "sha_iso": "243fa1f0be8848d9b9bb2aef4e87500108f5877837c61c372b479d80c2276296",
+  "bytes": 867452928,
+  "sha_exe": "15669a669b5f8aec73a31d7e76f30281a356dafb9c4147e942f19015973c0381",
+  "validas": 26257,
+  "cotejadas": 24142,
+  "porcentaje": 91.945005,
+  "por_tipo": {
+    "talk_iso": [
+      18596,
+      20083
+    ],
+    "talk_dlc": [
+      1454,
+      1668
+    ],
+    "scripts": [
+      504,
+      504
+    ],
+    "tablas_iso": [
+      1832,
+      1832
+    ],
+    "tablas_dlc": [
+      1497,
+      1849
+    ],
+    "eboot": [
+      259,
+      259
+    ]
+  },
+  "adaptaciones_rom030": 192,
+  "pendientes": {
+    "talk_iso": 1487,
+    "talk_dlc": 214,
+    "tabla_dlc": 231,
+    "adaptacion_dlc": 121,
+    "grafico_certificacion_visual": 62
+  },
+  "opciones_fisicas": {
+    "modificadas": 209,
+    "total": 393
+  },
+  "graficos": "GFX014 y apertura canónica ROM038 reconstruida, cinco atlas; no certificación visual",
+  "regresion_RC021": {
+    "ids_cubiertos": 193,
+    "menus_cotejados": 5
+  },
+  "archivos_iso": {
+    "total": 23,
+    "intactos": 17,
+    "modificados": 6
+  },
+  "pruebas": {
+    "relectura": true,
+    "go_test": true,
+    "go_vet_windows": true,
+    "reproduccion_linux_iso_4_dlc": true,
+    "ppsspp": false,
+    "gui_windows": false
+  },
+  "alcance_commit": "Registro documental; fuentes, diarios y deltas entregados localmente. No binarios comerciales. No certificación 100%.",
+  "bloqueos": "Paquetes privados ROM029/033 y avances gráficos posteriores no recuperados; 52 segmentos con ancla incompatible excluidos; PPSSPP no disponible."
+}
