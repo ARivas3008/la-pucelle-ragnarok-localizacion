@@ -155,6 +155,89 @@ def set_tile(atlas,gid,tile,only_if_empty=True):
         for dx in range(CELDA):im[(y+dy)*W+x+dx]=tile[dy][dx]
 
 
+
+# Diseño candidato RC026: anclaje izquierdo, sin rotar la celda entera.
+# Matrices 7x12; el punto superior y la curva abierta hacia la derecha
+# corresponden a ¿, no a un signo ? reflejado horizontalmente.
+INVERTED_MASKS = {
+    '¿': (
+        '...##..',
+        '...##..',
+        '.......',
+        '...##..',
+        '...##..',
+        '..##...',
+        '.##....',
+        '##.....',
+        '##.....',
+        '##...##',
+        '.#####.',
+        '..###..',
+    ),
+    '¡': (
+        '..##...',
+        '..##...',
+        '.......',
+        '..##...',
+        '..##...',
+        '..##...',
+        '..##...',
+        '..##...',
+        '..##...',
+        '..##...',
+        '..##...',
+        '..##...',
+    ),
+}
+
+def inverted_punctuation(char, ink=15):
+    """Candidato de 7x12, situado dentro del área visible de FontB.
+    No modifica los avances de ftd, ni el código gaiji, ni el GID.
+    La aprobación final requiere captura de ambos signos en PPSSPP.
+    """
+    if char not in INVERTED_MASKS or not 1<=ink<=15:
+        raise FontError('Signo o índice de tinta inválido')
+    mask=INVERTED_MASKS[char]
+    return [[ink if y<len(mask) and x<len(mask[y]) and mask[y][x]=='#'
+             else 0 for x in range(CELDA)] for y in range(CELDA)]
+
+def repair_inverted_punctuation(members):
+    """Reparación local, idempotente de fuentes ya extendidas.
+    Conserva tablas, paletas, todos los demás píxeles y tamaños.
+    Rechaza alias de GID que afectarían caracteres ajenos.
+    """
+    names=('FontB0000.txp','FontB0001.txp')
+    fnt=struct.unpack('<11616H',members['fontB.fnt'])
+    ftd=struct.unpack('<11616H',members['fontB.ftd'])
+    raw=[bytes(members[n]) for n in names]
+    before=[unpack_pixels(r) for r in raw]
+    after=[bytearray(p) for p in before]
+    journal=[]
+    allowed=[set(),set()]
+    for char in ('¿','¡'):
+        ix=index_sjis(CODIGOS[char]);gid=fnt[ix]
+        if not gid or sum(v==gid for v in fnt[1:])!=1:
+            raise FontError('GID ausente o compartido: '+char)
+        # RC024 utiliza el mismo índice opaco en los glifos gaiji.
+        page,x,y=box_for_gid(gid)
+        if raw[page][16+15*4:16+16*4][3]==0:
+            raise FontError('Índice 15 transparente')
+        old=get_tile(before,gid);new=inverted_punctuation(char)
+        set_tile(after,gid,new,only_if_empty=False)
+        allowed[page].update((y+dy)*W+x+dx for dy in range(CELDA) for dx in range(CELDA))
+        journal.append({'char':char,'gid':gid,'metric':ftd[ix],
+                        'changed_pixels':sum(a!=b for ro,rn in zip(old,new) for a,b in zip(ro,rn))})
+    result=[pack_pixels(r,p) for r,p in zip(raw,after)]
+    for i,r in enumerate(result):
+        if r[:DATA_OFFSET]!=raw[i][:DATA_OFFSET] or len(r)!=len(raw[i]):
+            raise FontError('Regresión en paleta/cabecera')
+        reread=unpack_pixels(r)
+        if reread!=after[i] or any(a!=b and j not in allowed[i] for j,(a,b) in enumerate(zip(before[i],reread))):
+            raise FontError('Regresión fuera de signos invertidos')
+    for n,r in zip(names,result):members[n]=bytearray(r)
+    return {'signos':journal,'tablas_preservadas':True,'validacion_visual':False}
+
+
 def spanish_glyph(char,base_tile):
     """Redibuja el diacrítico sobre la misma letra del juego (14x14 4bpp).
 
@@ -184,7 +267,7 @@ def spanish_glyph(char,base_tile):
         elif '\u0327' in accent:line([(2,12),(3,13),(4,13)])
         else:raise FontError(f'Marca Unicode no implementada para {char!r}')
     elif char in ('¿','¡'):
-        t=[list(reversed(row)) for row in reversed(t)]
+        t=inverted_punctuation(char, strength)
     elif char in ('«','»'):
         t=[[0]*14 for _ in range(14)]
         for cx in (2,7):
