@@ -39,4 +39,33 @@ class PunctuationTest(unittest.TestCase):
         m['fontB.fnt']=struct.pack('<11616H',*f);old=dict(m)
         with self.assertRaises(FontError):repair_inverted_punctuation(m)
         self.assertEqual(m,old)
+
+class StartTest(unittest.TestCase):
+    def test_lzs_roundtrip(self):
+        from rc026_reparar_start import compress
+        from nis_formats import lzs_decompress
+        import random
+        rng=random.Random(26)
+        data=[b'',b'a',b'abc'*300,bytes(range(256))*8,
+              bytes(rng.randrange(256) for _ in range(4096))]
+        for marker in (0,1,127,254,255):
+            original=struct.pack('<4sIIB3s',b'DAT\0',0,12,marker,b'\0'*3)
+            for d in data:
+                with self.subTest(marker=marker,size=len(d)):
+                    self.assertEqual(lzs_decompress(compress(d,original),allow_overlap=False),d)
+    def test_dat_preservation(self):
+        from rc026_reparar_start import repair
+        m=PunctuationTest().fixture();m['untouched.dat']=b'example'
+        entries=bytearray();payload=bytearray()
+        for name,raw in m.items():
+            payload+=raw
+            entries+=struct.pack('<I28s',len(payload),name.encode('ascii'))
+        original=struct.pack('<I12s',len(m),b'')+entries+payload
+        updated,journal=repair(original)
+        self.assertEqual(len(updated),len(original))
+        self.assertEqual(updated[:16+32*len(m)],original[:16+32*len(m)])
+        self.assertTrue(updated.endswith(b'example'))
+        self.assertEqual(len(journal['signos']),2)
+        self.assertEqual(repair(updated)[0],updated)
 if __name__=='__main__':unittest.main()
+
