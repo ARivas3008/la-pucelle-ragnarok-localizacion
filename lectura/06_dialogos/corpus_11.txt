@@ -1,0 +1,3012 @@
+LA PUCELLE — 06_dialogos — CORPUS 11
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk15_jp.dat ===
+
+[11120]
+¡Prométeme que te cuidarás, Prier!
+
+[11121]
+¡No hace falta prometer nada!
+
+[11122]
+¡Confía en tu sabia hermana mayor!
+
+[11123]
+¡Es imposible que pierda!
+
+[11124]
+…Sí, tienes razón.
+
+[11125]
+Tienes razón, Prier…
+
+[11126]
+Si piensas seguirme más tarde, ten cuidado tú también, Culotte.
+
+[11127]
+Al fin y al cabo, voy directa al epicentro de toda esta energía oscura.
+
+[11128]
+Bueno, ¡hasta luego! ¡Tú puedes!
+
+[11129]
+¡Hora de desatar el caos!
+
+[11130]
+Nos vemos, Prier.
+
+[11131]
+Hazlo lo mejor que puedas, ¿vale?
+
+[11132]
+¿Por qué no nos dejas ayudarte a que Croix vuelva a ser el de antes?
+
+[11133]
+¡Qué feo que te marches sola y nos dejes atrás…!
+
+[11134]
+Lo siento, pero no iré con los demás al Escargot a recuperarme. ¡Voy por mi cuenta!
+
+[11135]
+¡Maldición!
+
+[11136]
+¡Pues más te vale no perder!
+
+[11137]
+¡Ve y haz que Noir entre en razón de una vez!
+
+[11138]
+¡Entendido!
+
+[11139]
+¡Le voy a dar una paliza de las buenas!
+
+[11140]
+¡Seguro que ganaremos!
+
+[11141]
+¡Vamos a hacer picadillo a ese tal Noir!
+
+[11142]
+¡Yo también quiero echarte una mano!
+
+[11143]
+Por favor, llévame contigo. / Te lo agradezco, pero no puedo esperar a que os recuperéis. Perdóname, solo por esta vez.
+
+[11144]
+Así que discúlpenme, aunque solo sea por esta vez.
+
+[11145]
+Entonces, al menos…
+
+[11146]
+Cuando te marches, llévate esto.
+
+[11147]
+¡Muchas gracias, Éclair!
+
+[11148]
+¡Con esto, Noir no tendrá ninguna oportunidad contra mí!
+
+[11149]
+¡Yo también creo que ganarás, hermana mayor!
+
+[11150]
+¡Iré detrás de ti en el Escargot! ¡Nos veremos pronto!
+
+[11151]
+¡Nos vemos pronto!
+
+[11152]
+¡Estoy seguro de que mi hermana ganará!
+
+[11153]
+Iré detrás de ti en el Escargo. ¡Nos veremos pronto!
+
+[11154]
+¡Otra victoria para mí!
+
+[11155]
+¡Hoy estás en plena forma, Prier!
+
+[11156]
+¿Cuántos van ya?
+
+[11157]
+Cuesta seguirle el ritmo con una fuerza tan descomunal. / Si sigue así, podría hacerse daño.
+
+[11158]
+Prier, ¿me estás escuchando?
+
+[11159]
+¿Cómo que voy a hacerme daño?
+
+[11160]
+¡Ni se me pasa por la cabeza perder!
+
+[11161]
+¿Habrá por aquí demonios todavía más fuertes…?
+
+[11162]
+¡Ya basta! Nuestra misión es investigar el Mundo Oscuro, no medir tu fuerza.
+
+[11163]
+¡Oye, que no estoy cazando demonios solo por diversión!
+
+[11164]
+¡Estoy investigando!
+
+[11165]
+Ya sabes, reuniendo información…
+
+[11166]
+Estoy averiguando lo fuertes que son los demonios de esta región. / Ahí va otra vez, mirando a todo el mundo por encima del hombro.
+
+[11167]
+¡Esto pinta mal!
+
+[11168]
+¿¡Nos han rodeado!?
+
+[11169]
+¿Han aparecido porque Prier tenía que soltar una estupidez, o qué?
+
+[11170]
+Tranquilízate, Culotte.
+
+[11171]
+Aquí pasa algo extraño. / Oye, tú, chica sin nombre.
+
+[11172]
+¿Eres digna de recibir el título de Señora Demonio?
+
+[11173]
+Así es.
+
+[11174]
+Para los demonios, el poder es lo que determina quién tiene razón.
+
+[11175]
+Aquí, en el Mundo Oscuro, has sometido a muchos demonios con tu fuerza.
+
+[11176]
+A partir de ahora, los demonios te honrarán con el título de Señora Demonio.
+
+[11177]
+¿Me estás tomando el pelo?
+
+[11178]
+Hablo completamente en serio.
+
+[11179]
+¡Esto tiene que ser una broma!
+
+[11180]
+Si lo piensas bien, el título de Señora Demonio te pega más que el de Doncella de la Luz.
+
+[11181]
+¡Ja, ja, ja, ja!
+
+[11182]
+¿¡Una cazadora de demonios convertida en Señora Demonio!?
+
+[11183]
+Prier, ¿a que esto es una broma?
+
+[11184]
+¡Eso digo yo! ¡Por eso les di una buena paliza!
+
+[11185]
+¡Ja, ja, ja!
+
+[11186]
+¡Un momento! ¡Esto no tiene ninguna gracia!
+
+[11187]
+¿¡Quién ha montado semejante lío!?
+
+[11188]
+Lo siento muchísimo. A pesar de estar con ellos, ha ocurrido algo tan vergonzoso…
+
+[11189]
+¿¡V-vergonzoso!?
+
+[11190]
+¿¡Cómo has dicho!?
+
+[11191]
+¡Eso mismo!
+
+[11192]
+¡Todo esto es vergonzoso porque tenías que ir y…!
+
+[11193]
+¿Tienes algo que decirme, Culotte…?
+
+[11194]
+En fin, ya hemos terminado de investigar la zona. ¿Y si dejamos lo de la Señora Demonio para otro momento?
+
+[11195]
+Lo importante ahora es hablar de nuestra próxima misión, ¿no?
+
+[11196]
+Me parece bien.
+
+[11197]
+Iré al grano.
+
+[11198]
+Esta vez necesito que exterminéis a unos demonios. / ¡De acuerdo! ¡Sí!
+
+[11199]
+Ejem…
+
+[11200]
+¡Bah, vale ya…!
+
+[11201]
+Como en ocasiones anteriores, necesito que investiguen una Puerta al Mundo Oscuro que ha aparecido al intensificarse la oscuridad.
+
+[11202]
+De esa puerta están saliendo demonios que atacan a…
+
+[11203]
+…la aldea Croquette.
+
+[11204]
+Está cerca de Pot-au-Feu.
+
+[11205]
+Ya envié a otras hermanas a investigar, pero los demonios de allí son más fuertes de lo previsto.
+
+[11206]
+Pero ustedes cuentan con un as bajo la manga.
+
+[11207]
+Entre ustedes está Prier, que se ha ganado el título de Señora Demonio.
+
+[11208]
+Les viene como anillo al dedo esta misión, ¿no?
+
+[11209]
+¡Que venga el demonio que quiera! ¡Yo, la hermana Prier, lo pondré en fuga!
+
+[11210]
+¿Qué ocurre ahora, Padre Salade…?
+
+[11211]
+Tampoco hace falta que grites…
+
+[11212]
+¡Que tu fuerza no se te suba a la cabeza!
+
+[11213]
+Eso…
+
+[11214]
+¡Ya lo sé de sobra!
+
+[11215]
+¡No hace falta que me lo recuerdes!
+
+[11216]
+¡Espera un momento!
+
+[11217]
+Uf, otra vez con lo mismo…
+
+[11218]
+Parece que la hermana Prier piensa seguir por este camino…
+
+[11219]
+Por favor, protege a Prier…
+
+[11220]
+¿Están a salvo mi esposa y mi hijo?
+
+[11221]
+Sí. Hace poco los llevaron al refugio.
+
+[11222]
+Tú también deberías irte cuanto antes.
+
+[11223]
+Parece que la cosa va en serio…
+
+[11224]
+Tenemos que darnos prisa y acabar con estos demonios por el bien de todos. / Gracias por venir, a todos.
+
+[11225]
+Todo se ha descontrolado porque no tenemos fuerzas para enfrentarnos a esos demonios.
+
+[11226]
+Lo siento de veras…
+
+[11227]
+¡Pero si es la hermana Olive!
+
+[11228]
+¿No se suponía que debías guardar reposo hasta que se curaran tus heridas?
+
+[11229]
+Es cierto. Aun con mis heridas, pensé que debía hacer algo por esta gente.
+
+[11230]
+¡Basta de formalidades!
+
+[11231]
+Hay que darse prisa y ponerse manos a la obra, ¿no?
+
+[11232]
+¿Por qué tienes que ser tan grosera…?
+
+[11233]
+No pasa nada, Culotte.
+
+[11234]
+En esto, Prier tiene razón.
+
+[11235]
+Hermana Olive, ¿cómo está la situación?
+
+[11236]
+La mayoría de los aldeanos ya ha evacuado, pero nos han informado de que alguien oyó la voz de un niño en lo profundo del bosque. / Íbamos a comprobarlo, pero esos demonios tan poderosos nos mantuvieron ocupados y no pudimos avanzar... / Entonces, ¿dices que alguien podría haberse quedado atrás?
+
+[11237]
+De verdad, lo siento muchísimo…
+
+[11238]
+No tiene importancia.
+
+[11239]
+Al fin y al cabo, hemos venido a acabar con los demonios de aquí.
+
+[11240]
+Y, de paso, podemos buscar a ese niño.
+
+[11241]
+Mil gracias.
+
+[11242]
+Les estamos muy agradecidos.
+
+[11243]
+(¿Y a este qué le pasa? No para de hacerse el interesante delante de la hermana Olive.)
+
+[11244]
+Tranquila, hermana Olive.
+
+[11245]
+¡Yo solito derrotaré a esos demonios y encontraré al niño!
+
+[11246]
+Ah… Muchas gracias.
+
+[11247]
+¿A qué ha venido eso? ¿Te pasa algo? / Estoy perfectamente, ¡gracias!
+
+[11248]
+Solo digo que, conmigo aquí, ¡esos demonios no tienen nada que hacer!
+
+[11249]
+Cálmate un poco. ¿Ya has olvidado lo que te dijo el Padre Salade?
+
+[11250]
+«Que no se te suba a la cabeza», ¿no?
+
+[11251]
+¡Para empezar, no se me ha subido nada a la cabeza!
+
+[11252]
+Baja esos humos, Prier.
+
+[11253]
+Todo el mundo está preocupado por ti, ¿y tú respondes así?
+
+[11254]
+¡Yo no le he pedido a nadie que se preocupe por mí, gracias!
+
+[11255]
+¡Tenemos que seguir con la misión!
+
+[11256]
+Deje esto en nuestras manos y ayude a los aldeanos que aún no han llegado al refugio, hermana Olive.
+
+[11257]
+Cuando todos estén a salvo, busque usted también un lugar seguro donde descansar.
+
+[11258]
+Entendido, hermana Alouette. Por favor, tengan mucho cuidado.
+
+[11259]
+Que la diosa Poitreene los proteja a todos.
+
+[11260]
+¡Eh, hay algo allí delante!
+
+[11261]
+Bah, seguro que son más demonios.
+
+[11262]
+¡No escaparás!
+
+[11263]
+¡Otra vez se ha lanzado sola!
+
+[11264]
+¿Preparabas un ataque por sorpresa, eh?
+
+[11265]
+¡Malditos esbirros demoníacos!
+
+[11266]
+¡Espera! ¿Una niña?
+
+[11267]
+Es la niña desaparecida de la que nos hablaron, ¿verdad…?
+
+[11268]
+¿Eh…?
+
+[11269]
+Me pregunto quién será esta chica… ¡Ah! ¡Oye! ¿Adónde vas?
+
+[11270]
+¡Prier! ¡Ha salido corriendo porque le has dado miedo!
+
+[11271]
+¿¡Cómo dices!?
+
+[11272]
+¿¡Me estás diciendo que doy miedo!?
+
+[11273]
+Pues ahora mismo das bastante miedo, la verdad…
+
+[11274]
+¡Grrr!
+
+[11275]
+¡Hay que ir tras ella!
+
+[11276]
+¡Sí, vamos, deprisa!
+
+[11277]
+Hay algo en todo esto que me resulta…
+
+[11278]
+¡Eh, mira! Eso es…
+
+[11279]
+¡Demonios patéticos!
+
+[11280]
+¡No dejaré que hagan lo que les dé la gana!
+
+[11281]
+¡Yo me encargo!
+
+[11282]
+¡Yaaaa!
+
+[11283]
+¿Te encuentras bien?
+
+[11284]
+¿Te han hecho daño?
+
+[11285]
+Ah… Este…
+
+[11286]
+Tranquila.
+
+[11287]
+Hemos venido a salvarte. / Sí, no tienes por qué tener miedo.
+
+[11288]
+Aunque no lo parezca, esta chica también está de parte de los humanos…
+
+[11289]
+¿¡Cómo que «aunque no lo parezca»!?
+
+[11290]
+¡Prier, no grites!
+
+[11291]
+Está claro que esta niña está aterrada.
+
+[11292]
+Ah… Esto…
+
+[11293]
+Tranquila, pequeña. No pasa nada.
+
+[11294]
+Mira, la hermana mayor Prier es tu amiga.
+
+[11295]
+Pff… ¿A qué ha venido eso?
+
+[11296]
+¡Tampoco hace falta que te rías!
+
+[11297]
+¿La hermana mayor Prier…?
+
+[11298]
+¡Sí, esa misma!
+
+[11299]
+La hermana mayor Prier ya está aquí, así que no tienes nada que temer.
+
+[11300]
+Aquí corres peligro. ¿Por qué no vienes con nosotros a reunirte con los demás aldeanos?
+
+[11301]
+¿Por qué no quieres acompañarnos?
+
+[11302]
+Hermana mayor Prier, ¿puedo pedirte un favor?
+
+[11303]
+Quiero que acabes con el monstruo tan horrible que atacó mi aldea.
+
+[11304]
+Mi mamá, mi papá, los demás aldeanos…
+
+[11305]
+¡Tienes que vengarlos a todos!
+
+[11306]
+¿V-vengarlos…?
+
+[11307]
+Esta niña…
+
+[11308]
+Vale, ya te entiendo.
+
+[11309]
+¡Voy a derrotar a ese monstruo que atacó tu aldea, ya lo verás!
+
+[11310]
+Así que tú ve donde están los demás y…
+
+[11311]
+¡No!
+
+[11312]
+¡Quiero ir contigo!
+
+[11313]
+¡Eh, eh!
+
+[11314]
+¡Venga, no me hagas esto…!
+
+[11315]
+Lo mío no es luchar contra demonios mientras protejo a niños…
+
+[11316]
+¡Quiero ver con mis propios ojos cómo la hermana mayor derrota al monstruo!
+
+[11317]
+Por favor, entra en razón.
+
+[11318]
+Más adelante es peligroso. ¡Estarás mucho más segura si vuelves a la aldea!
+
+[11319]
+¡Ni hablar!
+
+[11320]
+Ver cómo se comporta esta niña me recuerda a cierta persona…
+
+[11321]
+Me pregunto a quién…
+
+[11322]
+Ah, seguro que te recuerda a Prier.
+
+[11323]
+Que conste que hasta yo tengo un límite.
+
+[11324]
+¡Como sigas portándote así, me voy a enfadar de verdad!
+
+[11325]
+¿Será que tienes miedo, hermana mayor?
+
+[11326]
+¿Te pone nerviosa que te vea cazar demonios?
+
+[11327]
+¿¡Qué!? ¿¡De qué estás hablando!?
+
+[11328]
+¡Yo no estoy nerviosa ni por asomo!
+
+[11329]
+¡Está bien, tú lo has querido!
+
+[11330]
+¡No te separes de mí!
+
+[11331]
+¡Verás con tus propios ojos cómo acabo con todos esos demonios!
+
+[11332]
+¡Bien! ¡Yujuuu!
+
+[11333]
+¡Deja de gritar!
+
+[11334]
+¡Que sepas que puedo proteger a un par de críos mientras lucho contra demonios!
+
+[11335]
+Pero, si pasara algo, no llegaríamos a tiempo para socorrerla, ¿verdad, hermana Alouette?
+
+[11336]
+Ah, da igual…
+
+[11337]
+Parece que la hermana Alouette no tiene nada que objetar.
+
+[11338]
+¡Hora de darles una paliza a esos demonios!
+
+[11339]
+¡Sííí!
+
+[11340]
+Tú no sueles comportarte así.
+
+[11341]
+¿Es por esa niña?
+
+[11342]
+Hay algo aquí, pero no acabo de saber qué es…
+
+[11343]
+Quizá solo sea la oscuridad de esta zona…
+
+[11344]
+No sabría decirlo, pero por ahora no parece que tengamos motivos para preocuparnos.
+
+[11345]
+Oh, diosa Poitreene…
+
+[11346]
+Te ruego que nos protejas a todos…
+
+[11347]
+¡Hermana mayor, eres fortísima!
+
+[11348]
+¡Eres la mejor!
+
+[11349]
+¡Y no solo soy fuerte! ¡También soy buena y guapísima!
+
+[11350]
+¡Puedes admirarme por eso también!
+
+[11351]
+¿¡Buena!?
+
+[11352]
+¿¡Guapa!?
+
+[11353]
+¿¡Y ahora qué pasa!?
+
+[11354]
+¿Tienes algo que decir? / No, nada en absoluto.
+
+[11355]
+Si hay alguien aquí que merezca admiración, es la hermana Alouette.
+
+[11356]
+Es guapa, amable y siempre se puede confiar en ella…
+
+[11357]
+¡No soporto a esa persona!
+
+[11358]
+¡Esta niña sí que sabe reconocer a la buena gente!
+
+[11359]
+¡Acabará siendo una gran mujer!
+
+[11360]
+(¿Esta niña admira a Prier y no a la hermana Alouette?)
+
+[11361]
+(Me preocupa lo que será de ella…)
+
+[11362]
+(Sabes, no solo tiene un carácter parecido al de Prier: también se parece físicamente a ella...) / ¡Mira, hermana!
+
+[11363]
+¡Es…!
+
+[11364]
+Ahí está el demonio que atacó tu aldea…
+
+[11365]
+Es el que quieres que derrote, ¿verdad?
+
+[11366]
+¿Crees que podrás vencerlo?
+
+[11367]
+¿¡Tú sabes con quién estás hablando!?
+
+[11368]
+¡Acabaré con él en un abrir y cerrar de ojos!
+
+[11369]
+No lo has olvidado, ¿verdad?
+
+[11370]
+No dejes que el poder se te suba a la...
+
+[11371]
+¡No es momento de dar sermones!
+
+[11372]
+¡Allá voy!
+
+[11373]
+¡Grrraaaaaah…!
+
+[11374]
+¡Bien! Parece que ese era el último demonio de la zona. / Hemos purificado a muchos demonios. Espero que, gracias a ello, algunas almas se hayan salvado...
+
+[11375]
+Bueno, parece que la misión ha terminado.
+
+[11376]
+Hay que llevar a esta niña de vuelta a la aldea.
+
+[11377]
+Deberíamos reunirnos con la hermana Olive y ayudarla a purificar el resto de la zona.
+
+[11378]
+Ya hemos vengado a todos. Ahora puedes volver con los demás.
+
+[11379]
+¿Vengarlos…?
+
+[11380]
+Ah, ¿te refieres a lo que dije antes?
+
+[11381]
+¡Todo aquello era una mentira como una casa!
+
+[11382]
+¿C-cómo que una mentira…?
+
+[11383]
+Solo quería comprobar lo fuerte que eres. ¡Y vaya si eres fuerte!
+
+[11384]
+¡Fuertísima!
+
+[11385]
+¡Esta niña se está comportando de una forma muy rara!
+
+[11386]
+¿Qué le pasa?
+
+[11387]
+¡Así que no era una niña cualquiera…!
+
+[11388]
+¡Siendo tan fuerte, deberías convertirte en la Señora Demonio, hermana mayor!
+
+[11389]
+¿Quién eres en realidad…?
+
+[11390]
+¿¡Estás de parte de los demonios!?
+
+[11391]
+¿De los demonios? ¡Qué va!
+
+[11392]
+Yo soy…
+
+[11393]
+A ver, déjame pensar…
+
+[11394]
+Digamos que soy una admiradora de la hermana mayor Prier.
+
+[11395]
+¡Como sigas con esa actitud, te daré una buena paliza, seas una niña o no!
+
+[11396]
+¡Lo ves! ¡Hablas como toda una Señora Demonio!
+
+[11397]
+¡Oye, tú…!
+
+[11398]
+Además, ¿aún no te has dado cuenta?
+
+[11399]
+¡Siempre parece que disfrutas de lo lindo matando a todos esos demonios! / ¿¡C-cómo!?
+
+[11400]
+¡Que sepas que no hago esto por diversión!
+
+[11401]
+Te encanta luchar por encima de todo. Por mucho que lo niegues, en el fondo crees que la fuerza lo es todo.
+
+[11402]
+Eso es pensar como un auténtico demonio.
+
+[11403]
+¡Cumples todos los requisitos! ¡Date prisa y conviértete de una vez en Señora Demonio!
+
+[11404]
+¡Deja de soltar disparates…!
+
+[11405]
+¡Voy a convertirme en la Doncella de la Luz!
+
+[11406]
+¡Ni hablar de convertirme en una Señora Demonio!
+
+[11407]
+Vaya, ¿todavía sigues negándolo?
+
+[11408]
+En fin, parece que no hay otra salida…
+
+[11409]
+Muy bien, seré la Señora Demonio en tu lugar. / Desde ahora soy Prier, la Señora Demonio. / Empezaré por reunir algunos subordinados.
+
+[11410]
+¡Ya verás qué pedazo de Señora Demonio voy a ser!
+
+[11411]
+¡Ja, ja, ja, ja, ja!
+
+[11412]
+Pero ¿qué demonios…?
+
+[11413]
+¿¡Qué está pasando aquí!?
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk16_jp.dat ===
+
+[11414]
+Mi madre ha lavado tanta ropa que ya no tengo nada que ponerme…
+
+[11415]
+No sé por qué, pero ver a Mooboo me tranquiliza.
+
+[11416]
+Ahh…
+
+[11417]
+Tú sí que llevas una vida tranquila, Mooboo…
+
+[11418]
+Dicen que, si vas de compras a Rosenqueen, se te acerca una mujer con muy mala suerte en el amor.
+
+[11419]
+¡Y que, si esa mujer te habla, tú también pierdes la suerte con los hombres!
+
+[11420]
+Así que tú también ten cuidado.
+
+[11421]
+¿¡Cómo!? ¿¡Corre ese rumor!?
+
+[11422]
+¡Pues tendré que andar con mucho ojo!
+
+[11423]
+Esa mujer con mala suerte en el amor… ¿No será…?
+
+[11424]
+¡Dicen que la chica sin suerte con los hombres que merodea por Rosenqueen también es un demonio!
+
+[11425]
+¡La próxima vez que aparezca, alguien tendrá que echarla de allí!
+
+[11426]
+Así que la chica de la que hablan es realmente... / No cabe duda, ¿eh...?
+
+[11427]
+Parece que en la Iglesia de la Santa Doncella hay una hermana que da miedo…
+
+[11428]
+Será mejor no meterse con ella…
+
+[11429]
+¿Una hermana que da miedo? ¿Te refieres a Alouette?
+
+[11430]
+¿¡P-Prier!?
+
+[11431]
+Por lo visto, hay una hermana de la Iglesia de la Santa Doncella que anda con piratas…
+
+[11432]
+Da escalofríos…
+
+[11433]
+Parece que su tripulación tiene bastante mala fama.
+
+[11434]
+¡A la gloriosa tripulación del Escargot le trae sin cuidado lo que diga la gente!
+
+[11435]
+Dicen que la energía oscura está aumentando y por eso ocurren incidentes por todas partes, ¿no?
+
+[11436]
+Pero las hermanas de la Santa Doncella seguro que harán algo al respecto.
+
+[11437]
+Tengo que esforzarme…
+
+[11438]
+¡Las hermanas de la Santa Doncella no paran de ayudar! ¡Han salvado al Señor del Bosque, vencido monstruos y rescatado niños!
+
+[11439]
+¡Qué pasada!
+
+[11440]
+Je, je. ¿De verdad te lo parece?
+
+[11441]
+¡Mi dolor de espalda se curó sin tener que recurrir a ninguna religión!
+
+[11442]
+¡Los milagros hay que obrarlos con las propias manos!
+
+[11443]
+Como se suele decir: quien tiene fe se salva.
+
+[11444]
+Últimamente tengo la espalda hecha polvo…
+
+[11445]
+¡Necesito otro milagro que me cure la espalda…!
+
+[11446]
+¿Seguro que no te estás esforzando demasiado?
+
+[11447]
+Ya tienes tus años. ¿Por qué no descansas un poco?
+
+[11448]
+Hay muchas hermanas guapas en la Iglesia de la Santa Doncella, ¿verdad?
+
+[11449]
+¡Yo también quiero entrar en la orden!
+
+[11450]
+Pues vaya motivo para entrar…
+
+[11451]
+¿Y qué haríais si se presentara alguien así?
+
+[11452]
+No habría ningún problema.
+
+[11453]
+¡Como era de esperar de ti, Alouette!
+
+[11454]
+No sé por qué, pero me está entrando miedo…
+
+[11455]
+Esas hermanas saben cómo hacerse las difíciles, ¿eh…?
+
+[11456]
+Quizá deba olvidarme de ingresar…
+
+[11457]
+Estoy de acuerdo. Será mejor que desistas.
+
+[11458]
+No. De hecho, sería mejor dejar que entrara.
+
+[11459]
+Así podríamos empezar un programa de reeducación.
+
+[11460]
+¡Qué buena idea, hermana Alouette! / Madre mía, me está dando mucho miedo...
+
+[11461]
+Como miembro de la Iglesia de la Santa Doncella, procura comportarte de forma que no avergüences a la orden.
+
+[11462]
+Sííí, ya lo sééé.
+
+[11463]
+Prier, precisamente esa actitud tuya es impropia de una hermana.
+
+[11464]
+Ten más cuidado.
+
+[11465]
+Sí, sííí. Ya me he enteradooo.
+
+[11466]
+Corre el rumor de que en la Iglesia de la Santa Doncella hay una hermana tan violenta que hasta los demonios la temen.
+
+[11467]
+Los rumores se están extendiendo de verdad…
+
+[11468]
+¡He oído que hay una hermana de la Iglesia a la que llaman Señora Demonio!
+
+[11469]
+Esto se está yendo de las manos…
+
+[11470]
+Los niños del orfanato estaban haciendo mucho alboroto.
+
+[11471]
+¿Habrá pasado algo, me pregunto?
+
+[11472]
+Hoy los niños del orfanato están revolucionados.
+
+[11473]
+Da gusto verlos con tanta energía.
+
+[11474]
+Gracias a vuestro esfuerzo se ha salvado muchísima gente.
+
+[11475]
+¡Seguid así!
+
+[11476]
+¡Me esforzaré al máximo!
+
+[11477]
+Sería de agradecer que dejaras de comportarte de un modo que perjudique la reputación de la Iglesia de la Santa Doncella.
+
+[11478]
+¡No me metas a mí en esto!
+
+[11479]
+Como cazador de demonios, tienes que cumplir bien todas las misiones que te encarguen.
+
+[11480]
+¿Me has entendido, Croix?
+
+[11481]
+¿¡Y por qué me metes a mí en esto!?
+
+[11482]
+La hermana que fue a investigar al Mundo Oscuro el otro día…
+
+[11483]
+¡Aaaah! ¿¡E-eres tú, Prier!?
+
+[11484]
+¡P-perdona! ¡No me había dado cuenta!
+
+[11485]
+¡H-h-holaaaa!
+
+[11486]
+No tienes por qué asustarte tanto…
+
+[11487]
+¿Qué clase de historias estarán contando sobre mí…?
+
+[11488]
+Dicen que una de las hermanas que fue a ayudar a la aldea Croquette era en realidad la Señora Demo…
+
+[11489]
+¡Aaaah!
+
+[11490]
+¿¡Esa es la hermana Prier!?
+
+[11491]
+¡De verdad que no me había dado cuenta de que estabas ahí!
+
+[11492]
+¡Por favor, no me mates!
+
+[11493]
+Cuanto más tiempo paso aquí, más me enfurecen las tonterías que dicen de mí…
+
+[11494]
+Enfadarte no va a mejorar tu reputación, Prier.
+
+[11495]
+Tengo que mantener la calma…
+
+[11496]
+Parece que, incluso entre los religiosos, es difícil llevarse bien con todo el mundo.
+
+[11497]
+Ah, je, je…
+
+[11498]
+Los miembros de la Iglesia también son personas. Es lógico que les molesten los malos rumores.
+
+[11499]
+¡Dicen que estás haciendo auténticas proezas!
+
+[11500]
+Pero hazme un favor: ¡no rompas nada de la tienda!
+
+[11501]
+¡Que no voy a romper nada!
+
+[11502]
+Mucha gente agradece todo lo que hacéis por nosotros, así que no dejéis que esos rumores os preocupen.
+
+[11503]
+Mientras haya gente que de verdad piense así, no dejaré que los rumores me afecten.
+
+[11504]
+¡B-bienvenidos!
+
+[11505]
+Está claro que nos tiene miedo…
+
+[11506]
+Parece que los rumores sobre Prier se están propagando de lo lindo.
+
+[11507]
+¿Tú crees?
+
+[11508]
+¿No será que le da miedo la cara de Alouette?
+
+[11509]
+¡N-no doy miedo!
+
+[11510]
+Vaya, qué jovencita tan encantadora.
+
+[11511]
+No temas: ¡el capitán Homard ya está aquí!
+
+[11512]
+No tienes por qué preocuparte, ¿sabes?
+
+[11513]
+Al fin y al cabo, el capitán Homard trata a todo el mundo con la misma amabilidad.
+
+[11514]
+A las mujeres, querrás decir…
+
+[11515]
+¡Mide tus palabras!
+
+[11516]
+Así que esto es el udon…
+
+[11517]
+¡P-pero qué bueno está…!
+
+[11518]
+Tiene un sabor tan adictivo que podría comerme un cuenco tras otro…
+
+[11519]
+¡Es como un demonio blanco!
+
+[11520]
+Esta tienda está llena siempre que vengo.
+
+[11521]
+¡Qué suerte haber encontrado sitio hoy! ♪
+
+[11522]
+¡Anda, Prier!
+
+[11523]
+Gracias por echarme una mano aquella vez.
+
+[11524]
+Hoy he quedado con Suzanne y se me ocurrió traerla a comer udon a este local tan famoso.
+
+[11525]
+¡Está buenísimo!
+
+[11526]
+Comer udon en una cita…
+
+[11527]
+¡Qué envidia…!
+
+[11528]
+¿Y eso? ¿Tienes hambre?
+
+[11529]
+¡No, pedazo de idiota!
+
+[11530]
+Gracias a vosotros, ahora puedo pasar el rato comiendo un udon delicioso.
+
+[11531]
+Suzanne ha cambiado muchísimo para bien.
+
+[11532]
+Sí, gracias a Barsom y al poder del amor.
+
+[11533]
+«A todos los clientes por igual, sin distinciones…». «A todos los clientes», dice…
+
+[11534]
+¿¡Y qué se supone que significa eso!?
+
+[11535]
+¡Tranquila, hermana!
+
+[11536]
+¡Así solo conseguirás hurgar más en la herida!
+
+[11537]
+En Rosenqueen atendemos a todo el mundo, incluso si un cliente resulta ser la mismísima Señora Demonio. ¡Vendemos a cualquiera que entre!
+
+[11538]
+Ya, claro…
+
+[11539]
+Qué amable…
+
+[11540]
+Te tiene un miedo espantoso, Prier.
+
+[11541]
+¿No será porque Croix la ha mirado con ojos de pervertido?
+
+[11542]
+¡Yo no la he mirado así!
+
+[11543]
+¡B-b-bienvenidos!
+
+[11544]
+Tiembla tanto que casi no puede hablar…
+
+[11545]
+Al menos hay que reconocer que tiene valor.
+
+[11546]
+Vaya… Así que ya reúnes los requisitos para convertirte en Señora Demonio.
+
+[11547]
+Maravilloso. Espero grandes cosas de ti a partir de ahora.
+
+[11548]
+Prier, la Señora Demonio, también es muy popular en el Mundo Oscuro.
+
+[11549]
+Es solo cuestión de tiempo que se convierta en la soberana de los demonios…
+
+[11550]
+La de los rumores sobre su mala suerte con los hombres…
+
+[11551]
+¿Q-qué voy a hacer ahora…?
+
+[11552]
+¿Qué le pasa a esta mujer?
+
+[11553]
+¡Ay! ¿Eres tú esa chica que no tiene suerte con los hombres y manda sobre un montón de demonios…?
+
+[11554]
+¡Este es mi fin…!
+
+[11555]
+Parece que se ha hecho una idea muy equivocada... / Déjala en paz.
+
+[11556]
+Me han dicho que te pasas los días persiguiendo demonios sin parar.
+
+[11557]
+¡Eso está muy bien!
+
+[11558]
+Pero no hagas demasiadas locuras, ¿me oyes?
+
+[11559]
+Aunque no lo parezca, mi marido se preocupa mucho por ti.
+
+[11560]
+Agradezco que se preocupe por mí, pero también me gustaría que confiara un poco más en mí.
+
+[11561]
+Pues tendrás que esforzarte en el trabajo para que confíen más en ti.
+
+[11562]
+¡Muy bien dicho, Culotte! ¡Eso es hablar!
+
+[11563]
+Cuida de tu hermana, ¿vale?
+
+[11564]
+Nuestro señor lleva unos días bastante irritable.
+
+[11565]
+¿Deberíamos preocuparnos…?
+
+[11566]
+¿Habrá algo que lo tenga preocupado…? Mmm…
+
+[11567]
+Seguramente sea solo Prier...
+
+[11568]
+¡Nosotros hemos visto a un niño fantasma!
+
+[11569]
+¡Puede que sea un fantasma peligroso! ¡Los Jóvenes Detectives Camembert nos encargaremos de investigarlo!
+
+[11570]
+¿Un niño fantasma…?
+
+[11571]
+No entiendo muy bien de qué va esto, pero ten cuidado.
+
+[11572]
+¡Atención a esto!
+
+[11573]
+¡Parece que el fantasma está ahora mismo en una cueva!
+
+[11574]
+¡Aunque no sé en cuál se esconde!
+
+[11575]
+Pues vaya ayuda…
+
+[11576]
+¡Eh, Prier! ¡Escúchame!
+
+[11577]
+Desde la última vez no hemos encontrado ni una pista más sobre ese fantasma. / ¿Habrá dejado de aparecer?
+
+[11578]
+Si ha dejado de aparecer, podemos dar el caso por cerrado, ¿no?
+
+[11579]
+Oye, hermana mayor Prier…
+
+[11580]
+¿Has oído hablar del niño fantasma?
+
+[11581]
+Dicen que, aunque lo encuentres, enseguida desaparece sin dejar rastro.
+
+[11582]
+¿Será que es tímido…?
+
+[11583]
+¿Un niño fantasma que es tímido?
+
+[11584]
+Pues no lo entiendo…
+
+[11585]
+Oye, sobre lo del fantasma…
+
+[11586]
+Si lo ves y lo dejas escapar, ya no volverá a aparecer.
+
+[11587]
+¡Hip! ¡Hip! ¡Hermana mayor Prier!
+
+[11588]
+¡Nosotras vimos al niño fantasma!
+
+[11589]
+¡Tenía una cara muy triste y desapareció en dirección a la aldea Croquette!
+
+[11590]
+¡Seguro que ocurrió algo en la aldea Croquette!
+
+[11591]
+¿En dirección a la aldea Croquette…?
+
+[11592]
+¿Tendrá algo que ver con este incidente?
+
+[11593]
+¡Hip! ¡Hip!
+
+[11594]
+Todos mienten cuando dicen que vas a convertirte en la Señora Demonio, ¿verdad, Prier? / ¡Claro que sí!
+
+[11595]
+¡Voy a convertirme en la Doncella de la Luz!
+
+[11596]
+¡No te dejes embriagar por tu propia fuerza!
+
+[11597]
+¿Entendido?
+
+[11598]
+¡Que sí, que ya lo sé!
+
+[11599]
+Escúchame bien, Prier.
+
+[11600]
+¡No olvides que eres una hermana de la Iglesia!
+
+[11601]
+¡Ya lo sé, hombre!
+
+[11602]
+¡Deja ya de preocuparte!
+
+[11603]
+Gracias a todos los presentes, Rocini ha encontrado un nuevo sueño.
+
+[11604]
+Os estamos muy agradecidos por habernos apoyado durante todo este tiempo.
+
+[11605]
+¡Seguro que logrará hacer realidad su sueño!
+
+[11606]
+¡Te animaremos en todo momento!
+
+[11607]
+Ya sé que eres de las que se lanzan sin pensar, pero procura no hacerte daño.
+
+[11608]
+¡Sííí, ya lo sé!
+
+[11609]
+Estás haciendo algo maravilloso por todos. Pero no dejes que se te suba a la cabeza.
+
+[11610]
+Procuraré tener más cuidado…
+
+[11611]
+Me esforzaré al máximo en los estudios para entrar en La Pucelle.
+
+[11612]
+¡Estudia mucho y conviértete en una integrante ejemplar de La Pucelle, como yo!
+
+[11613]
+¿Que estudie mucho?
+
+[11614]
+¿Que sea como tú?
+
+[11615]
+¿Una integrante ejemplar de La Pucelle?
+
+[11616]
+¿¡Pero qué les pasa a todos!?
+
+[11617]
+¡Hay que tener agallas para llevar a una niña a un lugar tan peligroso!
+
+[11618]
+(¿Zombis? Bah, ¡acabo con esos debiluchos hasta con los ojos cerrados…!)
+
+[11619]
+(Ah, espera… No debería llamar «debiluchos» a los enemigos…)
+
+[11620]
+Somos servidores de la Iglesia, ¿recuerdas?
+
+[11621]
+No debemos llamar «debiluchas» a las almas perdidas.
+
+[11622]
+(Qué fastidio…
+
+[11623]
+Los debiluchos son debiluchos…)
+
+[11624]
+(¡Voy a convertirme en la Doncella de la Luz!)
+
+[11625]
+¡¿Y yo queriendo derrotar a demonios poderosos?!)
+
+[11626]
+Pero a ti te pega mucho más ser Señora Demonio que Doncella de la Luz.
+
+[11627]
+(¡Basta ya de tonterías!
+
+[11628]
+(¡Que me traigan de una vez demonios más fuertes…!)
+
+[11629]
+(¡Demonios aún más poderosos!)
+
+[11630]
+¡Ja, ja, ja, ja!
+
+[11631]
+Parece que a nuestra hermana mayor Prier sí que le encanta enfrentarse a monstruos fuertes.
+
+[11632]
+Eso no es verdad…
+
+[11633]
+¡Si te chifla pelear!
+
+[11634]
+En el fondo, crees que el poder lo es todo. / ¿Quién eres tú para decir lo que siento?
+
+[11635]
+¡Cállate…!
+
+[11636]
+¡La hermana Prier va a convertirse en Señora Demonio! / ¡¡¡Cállateeeee!!!
+
+[11637]
+Uf…
+
+[11638]
+¿A qué viene ese suspiro, Prier?
+
+[11639]
+No es propio de ti estar tan alicaída, ¿sabes?
+
+[11640]
+Ya sé que los enemigos de hoy eran zombis.
+
+[11641]
+¿Te han sabido a poco por ser demasiado débiles para ti?
+
+[11642]
+Agradezco que te preocupes por mí, pero ¿puedes dejarte ya de bromas de mal gusto?
+
+[11643]
+Hoy no estoy de humor. / ¡Uf, ya lo sé!
+
+[11644]
+Da miedo verla así.
+
+[11645]
+¿Tú también estás preocupado por Prier, Culotte?
+
+[11646]
+Ah, sí…
+
+[11647]
+No es propio de Prier llevar tanto tiempo desanimada…
+
+[11648]
+¿Tienes idea de por qué anda tan decaída últimamente?
+
+[11649]
+Seguramente tenga que ver con aquella niña que conocimos antes.
+
+[11650]
+Creo que ninguno de nosotros, ni siquiera Prier, sabe exactamente qué está pasando.
+
+[11651]
+Por ahora solo podemos intentar que se distraiga y deje de darle vueltas a todo esto…
+
+[11652]
+Como estaba intentando hacer Croix, ¿verdad…?
+
+[11653]
+Eso es. Así que anímate un poco, Culotte, aunque sea por ella.
+
+[11654]
+¿Eh? ¡Ah, sí!
+
+[11655]
+¡Perdón! ¡Y gracias!
+
+[11656]
+(Vaya… La hermana Alouette es un encanto…)
+
+[11657]
+Recordad que la misión no termina hasta que regresemos a Pot-au-Feu.
+
+[11658]
+Manteneos alerta hasta que lleguemos a casa. / ¡Entendido!
+
+[11659]
+Hemos regresado tras cumplir la misión con éxito.
+
+[11660]
+Ah, buen trabajo, equipo.
+
+[11661]
+Habéis vuelto justo a tiempo.
+
+[11662]
+Tenéis visita.
+
+[11663]
+¡Ey!
+
+[11664]
+¡Cuánto tiempo sin vernos!
+
+[11665]
+Ah, solo eres tú, Homard... / ¿A qué viene esa frialdad?
+
+[11666]
+¿Ya has olvidado los momentos tan ardientes y apasionados que vivimos juntos?
+
+[11667]
+¿¡Q-qué!? ¿Q-q-q…?
+
+[11668]
+¿Qué ha pasado entre vosotros dos, Prier?
+
+[11669]
+Si apenas hay nada que recordar.
+
+[11670]
+Lo único que hicimos juntos fue cuando nos enseñaste dónde encontrar Kinoko Jiru. / Ah, te refieres a aquella vez...
+
+[11671]
+¡Vamos, hombre! ¿Qué te estabas imaginando?
+
+[11672]
+Oye, Prier, dicen que las chicas se ponen como locas si pasan dos días sin verte. ¡Pero tú estás de lo más tranquila!
+
+[11673]
+Aunque no sé si seguirás tan tranquila cuando te cuente lo que acabo de averiguar.
+
+[11674]
+Eres un pirata. A no ser que vayas a decirme que dejas el oficio para hacerte sacerdote de esta iglesia, no me interesa.
+
+[11675]
+¡La que ha cambiado de oficio eres tú, Prier! No yo.
+
+[11676]
+¡…ha aparecido alguien que se hace llamar Señora Demonio Prier!
+
+[11677]
+¿¡Será posible que esa chica haya…!?
+
+[11678]
+¿Qué? ¿Ya os habéis enterado?
+
+[11679]
+Sigue hablando.
+
+[11680]
+¿Eh? Veo que ahora sí te interesa.
+
+[11681]
+¡Te he dicho que me cuentes hasta el último detalle sobre esa chica que se hace llamar Señora Demonio Prier!
+
+[11682]
+Eh, eh…
+
+[11683]
+¡Te estás exaltando demasiado!
+
+[11684]
+¿Cómo quieres que hable si lo agarras así? / Disculpa sus modales, capitán Homard. ¿Podrías contarnos lo que sabes? / Supongo que no me queda otra, ya que la hermana Alouette me lo ha pedido tan amablemente.
+
+[11685]
+Oí hablar de esa tal Señora Demonio Prier hace un par de días.
+
+[11686]
+La Banda Escargot y yo hicimos una parada en un puerto para reponer provisiones.
+
+[11687]
+La información viene de un cazador de demonios independiente. Al parecer, hace poco apareció un portal mágico en una cueva cerca de Vinaigrette. / Pensó que podría ganar algo de dinero con aquello y fue a investigar. Por lo visto, al llegar se encontró con una escena tremenda.
+
+[11688]
+Allí había una joven muy guapa que, completamente sola, despachaba demonios a diestro y siniestro como si nada.
+
+[11689]
+Y entonces la chica habló.
+
+[11690]
+Dijo: «¡Soy la Señora Demonio Prier!».
+
+[11691]
+«¡La que reina sobre todos los demonios!».
+
+[11692]
+Mocosa de las narices…
+
+[11693]
+Por lo visto, el cazador se asustó tanto que salió huyendo a casa.
+
+[11694]
+Y eso es todo lo que sé.
+
+[11695]
+Me echasteis una mano cuando aquellos monstruos se descontrolaron. Os debía una, así que he venido a contároslo.
+
+[11696]
+Si anda derrotando demonios, quizá no sea tan mala…
+
+[11697]
+Lo más probable es que quiera reunir más demonios a su servicio.
+
+[11698]
+Al fin y al cabo, para los demonios el poder lo es todo.
+
+[11699]
+Pero pensar que una niña haría algo así para conseguirlo…
+
+[11700]
+Es hora de irnos…
+
+[11701]
+¡Tenemos que ir a Vinaigrette ahora mismo!
+
+[11702]
+¡Eso no puedo permitirlo!
+
+[11703]
+Eso es lo que me gustaría decir, pero te conozco: irás diga lo que diga.
+
+[11704]
+No quiero que las demás hermanas se enteren de este asunto relacionado con Prier, la Señora Demonio... Muy bien. Diríjanse a Vinaigrette.
+
+[11705]
+¡Yo también voy! ¡Presiento que se avecina otra aventura!
+
+[11706]
+Haz lo que quieras.
+
+[11707]
+Pero procura no estorbarme…
+
+[11708]
+No olvidéis que sois cazadores de demonios y que vuestra conducta representa a la Iglesia…
+
+[11709]
+Según lo que nos han contado, debería estar por esta zona…
+
+[11710]
+¡Eeeeeh!
+
+[11711]
+¡Sal de una vez!
+
+[11712]
+¡Mocosa de las narices!
+
+[11713]
+¿«Mocosa de las narices»…?
+
+[11714]
+¡Te prohíbo que digas semejante cosa!
+
+[11715]
+…Y, además, apenas hemos empezado a buscar y ya estás gritando a pleno pulmón. Normal que no quiera salir…
+
+[11717]
+¡Ha aparecido!
+
+[11718]
+La verdad es que estaba intentando pasar desapercibida, pero, si me habéis encontrado tan pronto, la Señora Demonio Prier debe de ser ya muy famosa.
+
+[11719]
+¡Déjate de tonterías!
+
+[11720]
+¿Te crees que puedes ir por ahí usando mi nombre…?
+
+[11721]
+¿Qué pretendes conseguir?
+
+[11722]
+¿Qué pretendo?
+
+[11723]
+Mmm… A ver que piense…
+
+[11724]
+Estoy reuniendo un montón de demonios a mi servicio. ¡Voy camino de convertirme en una soberana suprema de los demonios!
+
+[11725]
+¡Ah! ¿Los demonios han…?
+
+[11726]
+Así que esa niña ha conseguido dominar a todos esos demonios…
+
+[11727]
+¿Has venido hasta aquí para verme, hermana mayor Prier?
+
+[11728]
+¿Por fin has venido a convertirte en la auténtica Señora Demonio? / No he venido a seguirte el juego.
+
+[11729]
+¡He venido a darte una buena paliza, por supuesto!
+
+[11730]
+Qué respuesta más aburrida…
+
+[11731]
+Te demostraré ahora mismo que jamás podrás derrotarme. / ¡Tch...!
+
+[11732]
+¿De verdad la están protegiendo…?
+
+[11733]
+De hecho, parece que mis esbirros te han cogido bastante cariño.
+
+[11734]
+Eres muy popular. De momento, dejaré que estos pequeñajos se enfrenten a ti primero.
+
+[11735]
+Así que queréis enfrentaros a mí cueste lo que cueste, ¿eh?
+
+[11736]
+¡Muy bien! ¡Pero preparaos! ¡Os haré lamentar haber servido a esa mocosa estúpida!
+
+[11737]
+Sí que eres fuerte, hermana Prier. Tengo tantos esbirros que puedes seguir matándolos cuanto quieras. / ¡Vaya...!
+
+[11738]
+¿Qué clase de demonios habrá conseguido poner de su parte?
+
+[11739]
+¡Me da igual quién esté de su lado! ¡Voy a acabar con todos!
+
+[11740]
+¡Cálmate, hermana Prier!
+
+[11741]
+Sí, eso es…
+
+[11742]
+Así me gusta, hermana mayor Prier.
+
+[11743]
+Sigue así y sé más sincera contigo misma.
+
+[11744]
+¡¿De qué demonios estás hablando?!
+
+[11745]
+A ver…
+
+[11746]
+Lo mejor de Prier es que es sincera consigo misma. / ¡Tengo otras virtudes! ¡Por ejemplo, lo mona que soy!
+
+[11747]
+¡Y lo buena persona que soy!
+
+[11748]
+¡Deja de esquivar mi pregunta con esa charla sin importancia!
+
+[11749]
+En el fondo, ¡quieres ser la Señora Demonio, Prier!
+
+[11750]
+¡Quieres que todo el mundo se arrodille ante tu poder!
+
+[11751]
+¡Eso es mentira!
+
+[11752]
+¡Prier es la chica que me ayudó a salvar a un crío!
+
+[11753]
+Siempre consigues darle la vuelta a las cosas para hacerte el importante.
+
+[11754]
+Bueno, bueno…
+
+[11755]
+Lo cierto es que entre todos salvamos a la pequeña Rocini.
+
+[11756]
+Te están echando flores para ayudarte, Prier. No te fijes tanto en los detalles.
+
+[11757]
+¿Echándole flores a Prier…?
+
+[11758]
+¿Y cuando Prier hizo de mediadora entre Barsom y Suzanne?
+
+[11759]
+¡Alguien que quisiera ser la Señora Demonio jamás ayudaría a dos personas a casarse!
+
+[11760]
+Y eso no es todo.
+
+[11761]
+La hermana Prier también fue quien salvó al Señor del Bosque de Meuniere. / ¡Chicos...!
+
+[11762]
+¡Maldita sea!
+
+[11763]
+¡Malditos humanos! ¡No dejáis de entrometeros cuando intento corromper su corazón!
+
+[11764]
+¡Esbirros!
+
+[11765]
+¡No os dejéis engañar por ella!
+
+[11766]
+¿Eh? Tengo la sensación de que alguien nos está observando…
+
+[11767]
+¡Solo ella puede ser tan entrometida…!
+
+[11768]
+¿Se esconde para vernos luchar contra sus esbirros?
+
+[11769]
+¡¿Qué clase de Señora Demonio hace eso?!
+
+[11770]
+¡Compórtate como una verdadera Señora Demonio, al menos!
+
+[11771]
+No te dejes engañar por la oscuridad de tu corazón…
+
+[11772]
+¡La que intenta engañarme eres TÚ!
+
+[11773]
+¡Eh! ¡Espera!
+
+[11774]
+¡Deja de huir!
+
+[11775]
+¡Maldita sea!
+
+[11776]
+¡Si vas a llamarte Señora Demonio, enfréntate a mí cara a cara!
+
+[11777]
+Eso tampoco es muy propio de una Señora Demonio…
+
+[11778]
+Y decir que no te dejes engañar por la oscuridad del corazón tampoco suena muy propio de una Señora Demonio…
+
+[11779]
+¿Y si esa chica fuera en realidad...?
+
+[11780]
+¿Una chica distinta de la Señora Demonio…?
+
+[11781]
+¡Vaya con vosotros! ¡Os ponéis a darle vueltas al asunto mientras estamos rodeados de demonios!
+
+[11782]
+¡Ahora tenemos que concentrarnos en acabar con todos estos esbirros!
+
+[11783]
+¿Aún quedan monstruos a los que no nos hemos enfrentado?
+
+[11784]
+Ya está bien…
+
+[11785]
+Siguen llegando sin parar, como hormigas que invaden una tienda de dulces…
+
+[11786]
+Hasta yo estoy empezando a cansarme…
+
+[11787]
+Y que lo digas…
+
+[11788]
+¡Alguien podría decirnos al menos cuántos nos faltan para llegar al final…!
+
+[11789]
+Vaya, ¿tú también te quejas, Homard?
+
+[11790]
+¡Eso sí que no se ve todos los días…!
+
+[11791]
+¿¡Quejarme yo!?
+
+[11792]
+¡Ja! ¡Ni hablar!
+
+[11793]
+¡Ni doscientos enemigos bastarían para satisfacer al gran capitán Homard!
+
+[11794]
+¡Eh, esbirros!
+
+[11795]
+¿Qué está pasando aquí?
+
+[11796]
+¡Esas sabandijas siguen vivas! ¡Esto no es ningún juego!
+
+[11797]
+(Madre mía…
+
+[11798]
+(Vaya, esa chica es igualita a Prier...) / ¿Por fin te atreves a luchar tú misma?
+
+[11799]
+Por muchos esbirros que tengas, ninguno podrá derrotarme. ¿Entendido?
+
+[11800]
+¡Enfréntate a mí tú misma!
+
+[11801]
+¡Voy a darte una buena paliza!
+
+[11802]
+No se entera…
+
+[11803]
+Sabes que no puedes vencerme. Y sabes muy bien lo que sientes en el fondo…
+
+[11804]
+Has llegado muy lejos. ¡Reconoce cuál es tu lugar, escucha lo que dicen de ti y admite tus verdaderos sentimientos!
+
+[11805]
+¡¿Sigues con lo mismo?!
+
+[11806]
+¡Hablas como si me conocieras, pero no tienes ni idea de lo que siento!
+
+[11807]
+¿Que hablo «como si»?
+
+[11808]
+No. Yo lo sé todo.
+
+[11809]
+¡Deja de soltar dispa…!
+
+[11810]
+Porque, al fin y al cabo, yo…
+
+[11811]
+¡Vaya!
+
+[11812]
+Esa presencia…
+
+[11813]
+¿Será posible…?
+
+[11814]
+Así es.
+
+[11815]
+Porque yo soy tú.
+
+[11816]
+¡Lo sé todo sobre ti, Prier!
+
+[11817]
+¿Pero qué demonios…?
+
+[11818]
+¡¿Qué está pasando?!
+
+[11819]
+Ese es tu corazón.
+
+[11820]
+¡La oscuridad de tu corazón ha cobrado forma!
+
+[11821]
+¿Mi… corazón…?
+
+[11822]
+No puede ser.
+
+[11823]
+Eso no es…
+
+[11824]
+¿Después de ver todo esto sigues haciéndote la tonta?
+
+[11825]
+Tal como dijo esa mujer, soy un fragmento de tu corazón.
+
+[11826]
+La parte que no busca nada más que satisfacer tu sed de poder.
+
+[11827]
+¡Tú me creaste, me alimentaste, me rechazaste y te apartaste de mí hasta convertirme en este demonio! ¡Soy la oscuridad de tu corazón!
+
+[11828]
+No puede ser…
+
+[11829]
+Esto no puede estar pasando…
+
+[11830]
+¡Reacciona, Prier!
+
+[11831]
+¡No huyas de esto, Prier!
+
+[11832]
+¡Mírame bien a los ojos!
+
+[11833]
+¡Date cuenta de que encarno tu verdadero yo! Solo así podremos volver a ser una sola.
+
+[11834]
+¡Así volveremos a ser tu verdadero yo!
+
+[11835]
+Mi verdadero yo…
+
+[11836]
+¡No escuches lo que te dice!
+
+[11837]
+¡Eso es, Prier!
+
+[11838]
+¡Tu objetivo nunca fue convertirte en Señora Demonio! ¡Siempre quisiste ser la Doncella de la Luz! ¿Te acuerdas?
+
+[11839]
+La Doncella…
+
+[11840]
+¡Qué bonito que tú digas eso! ¡Fuiste tú quien lo dijo primero! ¡Dijiste que me pegaba más ser Señora Demonio que Doncella de la Luz!
+
+[11841]
+¡No me refería a eso…!
+
+[11842]
+¡No quería decirlo de esa manera…!
+
+[11843]
+¡No busques excusas!
+
+[11844]
+Tenías razón, después de todo... / Una mujer con madera de Señora Demonio jamás podrá convertirse en la Doncella de la Luz.
+
+[11845]
+¡Tú lo sabes mejor que nadie! ¿A que sí, Prier?
+
+[11846]
+¿¡Verdad!?
+
+[11847]
+Puede que tengas razón…
+
+[11848]
+Tú dijiste…
+
+[11849]
+Puede que no sea capaz de…
+
+[11850]
+¡No, Prier!
+
+[11851]
+¡Eso no es cierto!
+
+[11852]
+Sí, eso es, Prier. Sigue por ahí y admítelo…
+
+[11853]
+¡Libera tu corazón para que las dos volvamos a ser una sola!
+
+[11854]
+¡Sin embargo…!
+
+[11855]
+¿¡Qué!?
+
+[11856]
+¡Pero sigo rechazándote igual que antes!
+
+[11857]
+¡Jamás me convertiré en una Señora Demonio! ¡Jamás!
+
+[11858]
+¡Voy a convertirme en la Doncella de la Luz! / ¡Pero serás...!
+
+[11859]
+¡¿Sigues empeñada en eso…?!
+
+[11860]
+¡Prier!
+
+[11861]
+Menos mal…
+
+[11862]
+Te dije cosas horribles…
+
+[11863]
+No te preocupes por eso, Culotte.
+
+[11864]
+Solo estábamos bromeando. ¡Lo que no me perdonaré nunca es que la oscuridad de mi corazón te haya hecho daño…!
+
+[11865]
+¿Crees que voy a quedarme de brazos cruzados y dejarte decir esas cosas?
+
+[11866]
+¡La Doncella de la Luz!
+
+[11867]
+Bien dicho, hermana Prier.
+
+[11868]
+Es cierto que ella es la oscuridad de tu corazón. Y eres tú quien debe plantarle cara…
+
+[11869]
+Pero recuerda que en tu corazón también hay luz.
+
+[11870]
+Mientras conserves esa luz, ¡jamás te convertirás en una Señora Demonio!
+
+[11871]
+¡Y mientras estemos a tu lado, jamás permitiremos que te conviertas en una Señora Demonio!
+
+[11872]
+¡Hermana Alouette…!
+
+[11873]
+Tiene razón.
+
+[11874]
+Esto es una orden…
+
+[11875]
+Uniremos nuestras fuerzas…
+
+[11876]
+¡Y purificaremos la oscuridad de tu corazón!
+
+[11877]
+Menuda farsa.
+
+[11878]
+Ya me he hartado…
+
+[11879]
+¡Os destruiré a todos y me convertiré en la única Prier que gobierne este mundo!
+
+[11880]
+¡Lo hemos conseguido, Prier!
+
+[11881]
+¡Hemos vencido a la oscuridad de tu corazón! / Lo has hecho muy bien, hermana Prier. / ¡Pues claro que sí!
+
+[11882]
+¡¿Qué esperabas?!
+
+[11883]
+Muchos hemos sufrido por tu culpa, pero todo eso ya ha quedado atrás.
+
+[11884]
+¡Hora de purificarte y acabar con esto de una vez por todas! / Nunca pensé que rechazarías tanto a tu otro yo.
+
+[11885]
+Me has decepcionado de verdad.
+
+[11886]
+Yo no estoy negando nada.
+
+[11887]
+Simplemente he vencido a mi yo más débil.
+
+[11888]
+A eso te referías, ¿verdad?
+
+[11889]
+¿«Vencido»?
+
+[11890]
+No te hagas una idea equivocada.
+
+[11891]
+Ya te lo he dicho, ¿no?
+
+[11892]
+No puedes derrotarme.
+
+[11893]
+¡Sigue poniendo excusas! ¡Ya veremos qué dices cuando te hayamos purificado!
+
+[11894]
+Allá vamos…
+
+[11895]
+Es verdad que después de esto desapareceré.
+
+[11896]
+Pero nunca lo olvides…
+
+[11897]
+Tú fuiste quien me creó... / ¿¡Qué!?
+
+[11898]
+¡Concéntrate, hermana Prier! / …¡Tsk!
+
+[11899]
+Esa firme convicción de que solo importa la fuerza permanecerá en lo más hondo de tu corazón…
+
+[11900]
+Sin desaparecer jamás…
+
+[11901]
+Si alguna vez lo deseas, renacerá otra versión de mí…
+
+[11902]
+En cualquier momento…
+
+[11903]
+Tantas veces como haga falta…
+
+[11904]
+Ahora lo entiendes, ¿verdad…?
+
+[11905]
+Soy parte de ti…
+
+[11906]
+Por eso no puedes derrotarme…
+
+[11907]
+Hasta que volvamos a encontrarnos,
+
+[11908]
+Es cierto que en tu corazón hay oscuridad.
+
+[11909]
+Pero no eres la única. Todos llevamos luz y oscuridad en el corazón.
+
+[11910]
+Así que, hermana Prier…
+
+[11911]
+No dejes que sus palabras te hagan perder el rumbo…
+
+[11912]
+No olvides nunca la luz que llevas dentro…
+
+[11913]
+¿¡Prier se ha disculpado con la hermana Alouette por iniciativa propia!?
+
+[11914]
+Me parece estar soñando…
+
+[11915]
+¡Perdonadme todos!
+
+[11916]
+Os he causado tantos problemas… Todo porque era demasiado débil…
+
+[11917]
+Prier, quien tiene que disculparse soy yo.
+
+[11918]
+…te he dicho cosas que han herido tus sentimientos…
+
+[11919]
+¡Ya te he dicho que no te preocupes por eso!
+
+[11920]
+¡Como sigas hablando así, te voy a dar un sopapo!
+
+[11921]
+¡Y me lo dices DESPUÉS de pegarme...!
+
+[11922]
+En cualquier caso, os agradezco que hayáis estado a mi lado.
+
+[11923]
+Gracias a todos vosotros he podido seguir siendo yo misma.
+
+[11924]
+¡Muchísimas gracias a todos!
+
+[11925]
+Eres una chica a la que respeto, ¿sabes?
+
+[11926]
+¡Claro que echaré una mano cuando haga falta!
+
+[11927]
+Al fin y al cabo, parece que mi destino es permanecer a tu lado.
+
+[11928]
+Así que no te preocupes por las pequeñeces.
+
+[11929]
+Y recuerda que debes comportarte como una hermana de la Iglesia. ¡Nada de hacer cosas vergonzosas!
+
+[11930]
+¡Eso ya lo sé!
+
+[11931]
+¡Voy a salvar más almas perdidas que nunca!
+
+[11932]
+Ahora yo...
+
+[11933]
+¿Habéis oído algo hace un momento...?
+
+[11934]
+¿Oír qué?
+
+[11935]
+Yo no he oído nada...
+
+[11936]
+¡Debe de ser la voz de Poitreene!
+
+[11937]
+¡Seguro que sí!
+
+[11938]
+¡Pues vamos allá!
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat ===
+
+[11939]
+Mi madre se pasa lavando la ropa.
+
+[11940]
+Hoy me he quedado sin calzoncillos...
+
+[11941]
+¡Entonces, ni se os ocurra imaginar lo que lleva debajo de esos pantalones!
+
+[11942]
+Te pillo de improviso, pero... ¿quieres comprar algo, miau?
+
+[11943]
+(¿Pero qué demonios está pasando...?)
+
+[11944]
+¡Sí...!
+
+[11945]
+Todo esto es culpa de los humanos...
+
+[11946]
+Los humanos deberían desaparecer de este mundo...
+
+[11947]
+(¿Nos hicieron buscar a Fátima solo para presenciar esto...?)
+
+[11948]
+¡AAAAAAAAAH!
+
+[11949]
+(Por favor, Diosa... dime...)
+
+[11950]
+¿Así que Croix está destinado a destruir a la humanidad...?
+
+[11951]
+¿Qué se supone que debo hacer...?
+
+[11952]
+¿Qué puedo hacer para que Croix vuelva a ser el de antes...?
+
+[11953]
+Dime, diosa Poitreene... / Levántate, hermana Prier... / ¿Será posible...? ¿La diosa Poitreene...?
+
+[11954]
+¿¡La diosa Poitreene...!?
+
+[11955]
+Tú misma lo viste, ¿verdad, hermana? Viste cómo trajeron al Príncipe Oscuro Croix a este mundo.
+
+[11956]
+Y también fuiste testigo de cuánto sufrimiento le causaron los humanos, ¿no es así?
+
+[11957]
+Ahora mismo, el Príncipe Oscuro Croix apenas es una sombra de su verdadero ser. Aun así, conserva parte de su raciocinio humano.
+
+[11958]
+Para purificar la oscuridad que alberga y devolverle sus recuerdos, es necesaria la hermana Alouette, la Doncella de la Luz.
+
+[11959]
+La Doncella de la Luz...
+
+[11960]
+¿¡La hermana Alouette...!?
+
+[11961]
+Así es. Si la hermana Alouette muere, el sello se romperá y Croix volverá a convertirse en el verdadero Príncipe de las Tinieblas. / Ahora debes proteger a la hermana Alouette y enfrentarte a Croix. / No puede ser...
+
+[11962]
+¿Tener que luchar contra Croix...?
+
+[11963]
+¡Es que no puedo hacerlo!
+
+[11964]
+Además, ¿qué se supone que puedo hacer yo...?
+
+[11965]
+Soñaba con convertirme en la Doncella de la Luz, pero empecé a comprender algo...
+
+[11966]
+La hermana Alouette es mucho más adecuada que yo para ese papel...
+
+[11967]
+Desde el principio, no tenía ninguna posibilidad de ser la Doncella de la Luz...
+
+[11968]
+Porque yo...
+
+[11969]
+Exacto.
+
+[11970]
+Tú eres la Señora Demonio.
+
+[11971]
+Cuánto tiempo sin vernos...
+
+[11972]
+En serio, es como si hubieras decidido fingir que no existo durante el resto de tu vida.
+
+[11973]
+Ese era el plan, pero... / Me sorprende que me hayas mantenido encerrada tanto tiempo.
+
+[11974]
+¿Y si acabamos ya con esta farsa?
+
+[11975]
+Ya lo sabes: no puedes convertirte en la Doncella de la Luz.
+
+[11976]
+No puedo convertirme en la Doncella de la Luz...
+
+[11977]
+Tú misma te has dado cuenta, ¿verdad?
+
+[11978]
+Tal como estás ahora, no puedes hacer nada...
+
+[11979]
+No puedo...
+
+[11980]
+...hacer nada...
+
+[11981]
+Pero en tu interior tienes poder suficiente para convertirte en la Señora Demonio.
+
+[11982]
+El poder para convertirme en la Señora Demonio...
+
+[11983]
+¡Ahora mismo lo único que tienes es poder!
+
+[11984]
+Con ese poder quizá hasta podrías salvar a Croix, ¿no crees?
+
+[11985]
+Puede que sea verdad...
+
+[11986]
+¡Ahora, fundámonos en un solo ser...!
+
+[11987]
+Me niego.
+
+[11988]
+¿¡Por qué!?
+
+[11989]
+Porque...
+
+[11990]
+¿¡Qué es este poder!?
+
+[11991]
+¡Tch...!
+
+[11992]
+¿¡Esa era Prier, la Señora Demonio!?
+
+[11993]
+¿Estás bien, Prier?
+
+[11994]
+¡¿Qué hacéis vosotros aquí?!
+
+[11995]
+Estamos dentro de mi corazón, ¿verdad?
+
+[11996]
+¡¿Quién os ha dado permiso para entrar?!
+
+[11997]
+La oscuridad de tu corazón estaba empezando a crecer de nuevo...
+
+[11998]
+Si te hubiéramos dejado sola, habrías...
+
+[11999]
+¡De la oscuridad de mi corazón puedo encargarme yo sola, gracias!
+
+[12000]
+¡Uf, qué entrometidos sois...!
+
+[12001]
+La hermana Alouette se ha esforzado hasta el límite y ha usado sus poderes para...
+
+[12002]
+La hermana Alouette es la Doncella de la Luz. ¡Debería saber que no puede exigirse tanto!
+
+[12003]
+Hermana Prier, usted...
+
+[12004]
+¿Lo sabías?
+
+[12005]
+Me lo contó...
+
+[12006]
+Y no debo exigirme demasiado, porque tengo que proteger a la gente del Príncipe de las Tinieblas. / Pero recuerda bien esto.
+
+[12007]
+Mientras estemos aquí, no dejaremos que te conviertas en la Señora Demonio.
+
+[12008]
+Hemos llegado demasiado lejos para perder el tiempo escuchando tus excusas.
+
+[12009]
+No podemos dejar la oscuridad que duerme...
+
+[12010]
+...en tu corazón sin hacer nada, hermana mayor.
+
+[12011]
+Entonces, ¿me estáis diciendo que...?
+
+[12012]
+¿Pensáis quedaros aquí hasta que nos libremos de toda esta oscuridad, eh?
+
+[12013]
+¡Pues acabemos con esto, ¿no?!
+
+[12014]
+Hermana Prier, usted es nuestra esperanza...
+
+[12015]
+Usted es la esperanza de Croix, de este mundo... y también la mía.
+
+[12016]
+Creía que ya te habías marchado.
+
+[12017]
+Jamás pensé que, con ese cuerpo tan frágil, te atreverías a enfrentarte a mí en lo más profundo de tu corazón.
+
+[12018]
+¿Acaso tienes ganas de morir, Doncella de la Luz?
+
+[12019]
+Por desgracia para ti, no pienso rendirme sin luchar.
+
+[12020]
+Por lo visto, esta gente no se irá hasta derrotarte. ¿Por qué no desapareces de una vez?
+
+[12021]
+¡Me niego!
+
+[12022]
+¡Si no os vais por las buenas, os echaré por las malas!
+
+[12023]
+La oscuridad que lleva dentro mi hermana mayor parece...
+
+[12024]
+¡Esa criatura tan horrible no le pega nada!
+
+[12025]
+Vaya comentario más hipócrita viniendo de ti, Éclair.
+
+[12026]
+Tú también tienes otro yo oculto en tu interior...
+
+[12027]
+¿¡Otro yo!?
+
+[12028]
+Exacto. Como castigo por entrar en mi corazón, he decidido sacar a la luz lo que se oculta en el tuyo.
+
+[12029]
+¡No puede ser!
+
+[12030]
+¡¿No habían desaparecido por completo el Caballero Oscuro y la oscuridad de Éclair?!
+
+[12031]
+Igual que ocurre conmigo, la oscuridad no puede borrarse así como así.
+
+[12032]
+¡Y menos cuando se tiene un corazón tan débil como el de nuestra princesita Éclair!
+
+[12033]
+Ahora mismo no entiendo nada de lo que está pasando...
+
+[12034]
+Así que, para purificar a Prier, primero tenemos que purificar la oscuridad de Éclair, ¿verdad?
+
+[12035]
+Eso parece.
+
+[12036]
+¡Entonces solo nos queda una cosa por hacer!
+
+[12037]
+Voy a vencer...
+
+[12038]
+¡...a esta oscuridad que llevo en el corazón!
+
+[12039]
+¡La oscuridad ha vuelto al interior de Éclair!
+
+[12040]
+Ha vencido a su lado más débil...
+
+[12041]
+¡Bien hecho!
+
+[12042]
+¡Eso sí que ha sido una hazaña!
+
+[12043]
+¡Muchísimas gracias!
+
+[12044]
+Bueno, parece que ahora te toca a ti.
+
+[12045]
+Está bien.
+
+[12046]
+Me pregunto a cuál de mis versiones os tocará enfrentaros...
+
+[12047]
+¿¡Qué!? ¡¿Se ha multiplicado?!
+
+[12048]
+¿¡Qué está pasando!?
+
+[12049]
+En pocas palabras, hay muchas partes de mí que ansían el poder de la Señora Demonio. Bien, entonces te estaré esperando...
+
+[12050]
+¡Espera un momento!
+
+[12051]
+Todo esto empezó porque me dio por pensar en la Señora Demonio...
+
+[12052]
+Soy patética de verdad...
+
+[12053]
+No es cierto. Por favor, no te culpes por esto...
+
+[12054]
+Es que yo nunca podría convertirme en la Doncella de la Luz. Creo en la fuerza por encima de todo.
+
+[12055]
+No lo negaré.
+
+[12056]
+Pero, antes de preocuparme por quién es la Doncella de la Luz, ¡tengo que ajustar cuentas con esa Señora Demonio! ¡No pienso dejar que me pisotee!
+
+[12057]
+En ese caso, ¿qué piensas hacer?
+
+[12058]
+¡Está clarísimo!
+
+[12059]
+¡Derrotaré a todos los enemigos que me lance la Señora Demonio y demostraré que soy la más fuerte de todos!
+
+[12060]
+Ya me imaginaba que dirías eso.
+
+[12061]
+¡Vamos, acabemos con esto!
+
+[12062]
+¿Dónde están...?
+
+[12063]
+¿Dónde están mis rivales...?
+
+[12064]
+¡Ahí hay uno!
+
+[12065]
+Es parte de la oscuridad que lleva dentro mi hermana. / ¿Dónde están los rivales fuertes? Quiero enfrentarme a alguien todavía más poderoso...
+
+[12066]
+Luchar contra alguien todavía más fuerte...
+
+[12067]
+¡Quiero luchar y darles una paliza...!
+
+[12068]
+Parece que su sed de poder la ha consumido.
+
+[12069]
+Todo ese ansia de fuerza concentrada en un solo ser, ¿eh?
+
+[12070]
+En cierto modo, se parece mucho a Prier.
+
+[12071]
+¡Menudo descaro tienes para decir eso delante de mis narices...! ¿Quieres que vuelva a pegarte?
+
+[12072]
+Cálmate, Prier.
+
+[12073]
+No quiero calmarme...
+
+[12074]
+Calmarse y pensar con sensatez no hace más que estorbar...
+
+[12075]
+Solo quiero luchar por mí misma...
+
+[12076]
+Luchar por el simple placer de luchar...
+
+[12077]
+¡Así me sentiré mejor!
+
+[12078]
+¡Y solo los demonios aceptarían una forma de pensar así!
+
+[12079]
+¡Así que mi objetivo será convertirme en la Señora Demonio!
+
+[12080]
+Así que esta parte de mi corazón se debilitó tanto que solo ansiaba poder y terminó cediendo al deseo de convertirse en Señora Demonio. Qué vergüenza...
+
+[12081]
+¡Jamás me dejaré vencer por semejante debilidad!
+
+[12082]
+¡No os acerquéis!
+
+[12083]
+¿¡Y ahora qué!?
+
+[12084]
+¡Largaos de una vez!
+
+[12085]
+¡Dejadme en paz...!
+
+[12086]
+Esta versión de la Señora Demonio parece bastante tímida...
+
+[12087]
+¿Así que tú también tenías un lado así...? Qué sorpresa.
+
+[12088]
+Ten cuidado con lo que dices.
+
+[12089]
+¡Te voy a dar!
+
+[12090]
+¡No digas que vas a pegarme DESPUÉS de haberme pegado!
+
+[12091]
+Pero ¿por qué es tan débil esta versión?
+
+[12092]
+No tengo nada...
+
+[12093]
+No logré mi sueño de convertirme en la Doncella de la Luz… ¿Para qué he vivido hasta ahora?
+
+[12094]
+Parece que esta no deja de darle vueltas al pasado...
+
+[12095]
+Lo único que me queda es una fuerza descomunal...
+
+[12096]
+Lo único que se me da bien es matar demonios... / ¡Qué manera tan cruda de decirlo! / ¡Pero hay demonios que reconocen mi poder!
+
+[12097]
+No pude ser la Doncella de la Luz, pero con este poder... ¡puedo convertirme en la Señora Demonio!
+
+[12098]
+¡No! ¡Lo ÚNICO en lo que puedo convertirme es en Señora Demonio! ¡Me convertiré en Señora Demonio!
+
+[12099]
+¡Así que dejadme en paz!
+
+[12100]
+Tienes la mala costumbre de sacar conclusiones equivocadas, hermana Prier. / ¡Uf, qué pesada!
+
+[12101]
+¡Ya basta!
+
+[12102]
+¡Hasta yo me doy cuenta de lo patética que está siendo!
+
+[12103]
+¡No hay manera de que perdamos!
+
+[12104]
+¿Hay una chica aquí...?
+
+[12105]
+¡Atrás, Éclair!
+
+[12106]
+¿Eh? ¿¡Eeeh!?
+
+[12107]
+Esa también es una parte de Prier.
+
+[12108]
+Las otras se transformaron de repente en la Señora Demonio, pero...
+
+[12109]
+¿Estás tramando algo más...?
+
+[12110]
+No lo olvides...
+
+[12111]
+...¿Qué...?
+
+[12112]
+Seguiré dentro de tu corazón, igual que tu deseo de obtener el poder de la Señora Demonio...
+
+[12113]
+No te olvides de mí... / ¿Ella no forma parte de la oscuridad de mi corazón...?
+
+[12114]
+¿Será esa la misma chica que conocimos antes, la que se comportaba de una forma tan distinta a la Señora Demonio...?
+
+[12115]
+Puede que ese lado de ella sea...
+
+[12116]
+¡Qué complicados son los corazones de las mujeres!
+
+[12117]
+¡Vamos, tenemos que seguir adelante!
+
+[12118]
+Está bastante oscuro...
+
+[12119]
+Debe de ser porque la oscuridad se ha intensificado.
+
+[12120]
+¡Tened cuidado, todos! / Menuda advertencia, teniendo en cuenta que hablan de lo que llevo en el corazón...
+

@@ -1,0 +1,3021 @@
+LA PUCELLE — 06_dialogos — CORPUS 12
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk17_jp.dat ===
+
+[12121]
+Venir hasta aquí como si nada…
+
+[12122]
+Aún no te has dado cuenta, ¿verdad?
+
+[12123]
+Ella me da miedo…
+
+[12124]
+Sí, esta parece muy distinta de las demás…
+
+[12125]
+¿De qué no me he dado cuenta exactamente?
+
+[12126]
+De que eres una hipócrita.
+
+[12127]
+Solo de pensarlo me entran ganas de vomitar…
+
+[12128]
+¡¿Hipócrita, yo?!
+
+[12129]
+¡¿Y qué tengo yo de hipócrita?!
+
+[12130]
+¿Te avergüenza ceder ante tu propia debilidad?
+
+[12131]
+¿O te parece patético?
+
+[12132]
+Te crees superior porque dices que no te doblegarás ante el Señor Demonio y lo niegas rotundamente…
+
+[12133]
+¡Claro! ¡Porque cuento con personas que me han prometido ayudarme a no sucumbir a la oscuridad de mi corazón!
+
+[12134]
+Por eso, no podría mirarlos a la cara si de verdad me convirtiera en la Señora Demonio… / ¡Y eso es lo que te hace una hipócrita!
+
+[12135]
+Si rechazas el inmenso poder de una Señora Demonio, ¡¿cómo piensas salvar a Croix?!
+
+[12136]
+¡¿Qué…?!
+
+[12137]
+¡No importa lo que piensen quienes te rodean!
+
+[12138]
+Quienes te desprecian, quienes te odian, quienes te miran por encima del hombro…
+
+[12139]
+¡Ninguno de ellos importa!
+
+[12140]
+¡Para detener a Croix, el Príncipe Oscuro, necesitas poder por encima de todo!
+
+[12141]
+¡Y harás lo que sea para conseguir ese poder!
+
+[12142]
+Aunque eso signifique dejar a un lado lo que llevas en el corazón y convertirte en la Señora Demonio…
+
+[12143]
+¡No importa cómo te vean los demás!
+
+[12144]
+Eso es…
+
+[12145]
+¿No pensabas convertirte en la más fuerte sin sucumbir al poder de la oscuridad? / Tiene razón, hermana. ¡El poder de la oscuridad no puede salvar a Croix!
+
+[12146]
+¿Estás diciendo que el poder de la luz SÍ puede…?
+
+[12147]
+¡¿Entonces no hay forma de que pueda salvar a Croix?!
+
+[12148]
+¡No te creas tanto solo por ser la Doncella de la Luz!
+
+[12149]
+Así que este es el final…
+
+[12150]
+Incluso después de todo esto, ¿piensas seguir viviendo a costa de reprimir tus verdaderos sentimientos? / Este sí que es el final…
+
+[12151]
+Tú mejor que nadie sabes que no podría borrar mis verdaderos sentimientos, ¿verdad?
+
+[12152]
+Solo pienso aceptar esta oscuridad sin dejar que me venza.
+
+[12153]
+Nada más.
+
+[12154]
+Conseguir poder y rendirse a la oscuridad son dos cosas muy distintas.
+
+[12155]
+Parece que por fin lo entiendes, hermana… / ¡Déjate de tonterías…!
+
+[12156]
+¿Vas a renunciar a esa teoría sin fundamento…? / ¡Me repugna lo que sigues diciendo…!
+
+[12157]
+¡Si ansié el poder y acabé consumida por la oscuridad fue por ti, hermana Alouette…!
+
+[12158]
+¿La hermana Alouette provocó todo esto…?
+
+[12159]
+¡…corazón! ¡Cálmate!
+
+[12160]
+Mi sueño de convertirme en la Doncella de la Luz se ha hecho añicos… ¿Y encima piensas proteger a la hermana Alouette y luchar contra Croix?
+
+[12161]
+¡Tú jamás harías algo así! / ¡Porque yo quiero salvar a Croix!
+
+[12162]
+Pero la oscuridad de mi corazón no puede salvar a Croix…
+
+[12163]
+¡¿Entonces piensas dejar a Croix en manos de la Doncella de la Luz?!
+
+[12164]
+¡¿Dejar a Croix en manos de la hermana Alouette…?!
+
+[12165]
+¿Es que eso no te enfurece?
+
+[12166]
+¡Claro que te enfurece!
+
+[12167]
+¿Pero de qué va todo esto?
+
+[12168]
+¡Esta conversación es una estupidez!
+
+[12169]
+¡Prier, no hagas caso de lo que dice!
+
+[12170]
+¡Su corazón empieza a vacilar!
+
+[12171]
+Si esto sigue así…
+
+[12172]
+¡Reacciona, hermana! ¡Por favor, cálmate!
+
+[12173]
+¡No podría soportarlo!
+
+[12174]
+¡No volveré a entregarle nada más a…! ¡Yo…!
+
+[12175]
+¡Seré yo quien salve a Croix!
+
+[12176]
+Seré yo quien…
+
+[12177]
+¡No la escuches! ¡Si lo haces, volverás a caer en la oscuridad de tu corazón!
+
+[12178]
+Quiero salvar a Croix…
+
+[12179]
+Ja, ja…
+
+[12180]
+¡Aaaaaah!
+
+[12181]
+¿Hermana Alouette…?
+
+[12182]
+¡¿Hermana Alouette?!
+
+[12183]
+¡Reacciona!
+
+[12184]
+¡¿Qué le pasa a su cuerpo?!
+
+[12185]
+¡Se está volviendo transparente!
+
+[12186]
+¡¿Qué demonios está pasando?!
+
+[12187]
+¡El milagro está empezando a perder su efecto!
+
+[12188]
+¿Qué he hecho…?
+
+[12189]
+No hay remedio.
+
+[12190]
+…culpable de haberme arrebatado absolutamente todo lo que tenía. Pero yo…
+
+[12191]
+¡Maldita sea!
+
+[12192]
+¡Espabila de una maldita vez!
+
+[12193]
+Si Alouette desaparece, ¿quién detendrá a Croix, el Príncipe Oscuro?
+
+[12194]
+Debería ser evidente…
+
+[12195]
+¡Por favor, no escuches lo que te susurra la oscuridad de tu corazón!
+
+[12196]
+Fuiste tú quien deseó que Alouette desapareciera. Ahora ya no hay vuelta atrás.
+
+[12197]
+¡Detente, Prier…!
+
+[12198]
+¡Te lo suplico…!
+
+[12199]
+No tienes por qué tener miedo.
+
+[12200]
+Culotte ya lo dijo: me pega más ser la Señora Demonio…
+
+[12201]
+Pri…er…
+
+[12202]
+Mucho más que… ¡Aaaaaah!
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk18_jp.dat ===
+
+[12203]
+¡Ah! ¡Un demonio!
+
+[12204]
+¡¡¡Mamááá!!!
+
+[12205]
+¡Me he puesto ropa interior limpia que mi mamá acababa de lavar!
+
+[12206]
+¡Así que no me pasará nada!
+
+[12207]
+¡Mooboo!
+
+[12208]
+¡Mooboo!
+
+[12209]
+¡Que no voy a comerte!
+
+[12210]
+¡Nadie nos había avisado de que iban a aparecer demonios en mitad de la ciudad!
+
+[12211]
+¡Aaaah!
+
+[12212]
+¡La chica demonio que… por fin se ha cruzado en mi camino!
+
+[12213]
+¡¿Qué ha sido eso?!
+
+[12214]
+…No puedo perder los estribos con este aspecto…
+
+[12215]
+Calma, calma…
+
+[12216]
+¡¡¡Un demonio!!!
+
+[12217]
+¡Ahora es cuando deberíais intervenir, hermanas de la Iglesia de la Santa Doncella!
+
+[12218]
+¡Tú eres la hermana que se convirtió en demonio!
+
+[12219]
+¡Eres la que todos llaman «Hermana Demonio», ¿verdad?!
+
+[12220]
+La Doncella sí que da miedo…
+
+[12221]
+¡Dejen de ponerme apodos raros!
+
+[12222]
+¡Los demonios no son nada para las hermanas de la Iglesia de la Santa Doncella!
+
+[12223]
+Tú eres la famosa «Hermana Demonio», ¿verdad?
+
+[12224]
+¡La prueba de que hasta un demonio puede tener buen corazón!
+
+[12225]
+Te agradezco el cumplido, ¡pero deja ya lo de «Hermana Demonio»…!
+
+[12226]
+¡Sálvame, diosa Poitrine!
+
+[12227]
+¡Anda! ¡¿Un demonio?!
+
+[12228]
+¿Eh? ¡Con tanto alboroto se me ha quitado el dolor de espalda!
+
+[12229]
+¡Ha ocurrido otro milagro!
+
+[12230]
+Bueno, parece que ya se le ha curado la espalda.
+
+[12231]
+…los detalles sin importancia…
+
+[12232]
+¡Aaaah! ¡Un demonio!
+
+[12233]
+¡Qué miedo!
+
+[12234]
+¡Socorro, hermanas!
+
+[12235]
+¿Tú eres una hermana de la Iglesia?
+
+[12236]
+La Iglesia de la Santa Doncella es impresionante…
+
+[12237]
+Quizá debería unirme a la Iglesia… / ¡¿Pero qué te pasa por la cabeza?!
+
+[12238]
+¡No quiero saber nada de los demonios!
+
+[12239]
+¡Quién iba a decir que una hermana terminaría así…! Me sorprende, pero seguiré contando contigo.
+
+[12240]
+Vaya, hoy está cerrado…
+
+[12241]
+Parece que han cerrado…
+
+[12242]
+¡Vaya! Así que no es que la Iglesia de la Santa Doncella tenga una hermana a la que llamen Señora Demonio…
+
+[12243]
+¡Es que tienen a la mismísima Señora Demonio!
+
+[12244]
+¿Es verdad que estás de nuestro lado?
+
+[12245]
+Estoy de parte de cualquiera que no sea mala persona.
+
+[12246]
+Con razón me parecía que la ciudad estaba más alborotada de lo habitual… ¡Así que todo esto es culpa tuya, eh!
+
+[12247]
+Pero tampoco doy tanto miedo, ¿no?
+
+[12248]
+Bueno, mientras no hagas nada malo…
+
+[12249]
+Me enteré de la noticia por… ¡Menudo aspecto nuevo, hermana Prier!
+
+[12250]
+Rezo de todo corazón para que consigas impedir el regreso del Príncipe Oscuro.
+
+[12251]
+¡Sí, déjamelo todo a mí!
+
+[12252]
+¡Y encontraré a Croix…!
+
+[12253]
+¡Así que en la Iglesia de la Santa Doncella había una hermana demonio desde el principio…!
+
+[12254]
+¡Qué vergüenza!
+
+[12255]
+Si hasta la Doncella de la Luz y el Príncipe Oscuro forman parte del grupo, tener un demonio tampoco parece para tanto…
+
+[12256]
+¡La hermana Prier ha revelado su verdadera naturaleza y se ha convertido en un demonio…!
+
+[12257]
+¡Aaaah! ¡¿Usted es la hermana Prier?!
+
+[12258]
+¡Le pido mil disculpas!
+
+[12259]
+¡No tenía ni idea de que estaba ahí!
+
+[12260]
+¡Por favor, no me eche de comer a los demonios!
+
+[12261]
+Esta vez te lo perdonaré. Pero como vuelvas a hacerlo…
+
+[12262]
+¡Sí! ¡Me ha quedado clarísimo!
+
+[12263]
+¡Buenas tardes!
+
+[12264]
+¡Sigan haciendo un gran trabajo!
+
+[12265]
+Los miembros de la Iglesia se fijan más en cómo es uno por dentro, ¿eh…?
+
+[12266]
+Es posible…
+
+[12267]
+¡Me han contado lo ocurrido! Parece que has pasado por mucho, pero sigues siendo la Prier de siempre.
+
+[12268]
+¡Mientras no destroces nada, puedes venir a nuestra tienda cuando quieras!
+
+[12269]
+¡Que ya te he dicho que no voy a romper nada!
+
+[12270]
+Parece que está haciendo un esfuerzo tremendo, ¿eh?
+
+[12271]
+Ah, ¿así que a la «Hermana Demonio» también le gusta el udon?
+
+[12272]
+¡Debe de ser un demonio con forma de fideo!
+
+[12273]
+¡Vaya! ¡Hasta los demonios vienen a esta tienda…! / ¡Debe de ser la tienda más popular de la ciudad!
+
+[12274]
+La verdad, nunca habría imaginado que un demonio viniera a comprar aquí. ¡Eri!
+
+[12275]
+Pero ¡bienvenida a la tienda Rosenqueen! ¡Eri!
+
+[12276]
+Por favor, mira todo lo que quieras y tómate tu tiempo. ¡Eri!
+
+[12277]
+Gracias…
+
+[12278]
+En Rosenqueen no tenemos ningún problema en atender a demonios, ¡pero tendrás que pagar las compras! ¡Eri!
+
+[12279]
+¡Que sí, que voy a pagar!
+
+[12280]
+¡Bienvenida…!
+
+[12281]
+Puedes… mirar lo que quieras por la tienda…
+
+[12282]
+Solo he venido a comprar.
+
+[12283]
+¡¡¡BIENVENIDA!!!
+
+[12284]
+¡¡¡MIRA TODO LO QUE QUIERAS!!!
+
+[12285]
+¡Solo hemos venido a comprar! ¡No hace falta que tengas tanto miedo, caray!
+
+[12286]
+Felicidades por tu despertar como Señora Demonio, Prier…
+
+[12287]
+Estuviste a punto de…
+
+[12288]
+Qué decepción…
+
+[12289]
+¡Aaaah! ¡¿Un demonio?!
+
+[12290]
+¡¿Has venido a quitarme toda mi suerte con los hombres y convertirme en demonio?!
+
+[12291]
+Cada vez sueltan disparates más gordos…
+
+[12292]
+Así que era verdad lo que decían de que te habías convertido en demonio.
+
+[12293]
+Pero, con solo mirarte a los ojos, sé que sigues siendo la misma.
+
+[12294]
+¡Siéntete orgullosa de lo que eres ahora y esfuérzate por dar lo mejor de ti!
+
+[12295]
+¡Sí, director!
+
+[12296]
+¡Miren a Prier!
+
+[12297]
+¡Qué imponente estás!
+
+[12298]
+Por cierto, el padre Salade dijo que el fantasma que encontramos podría simbolizar la luz que hay en tu corazón.
+
+[12299]
+Ah, ¿de veras…?
+
+[12300]
+Verás, Prier…
+
+[12301]
+¡Aunque te hayas convertido en demonio, siempre serás parte de nuestra familia!
+
+[12302]
+G… gracias…
+
+[12303]
+¡Hip…!
+
+[12304]
+Prier, dijiste que llegarías a ser la Doncella de la Luz… / ¡Pero ese atuendo te queda muy bien!
+
+[12305]
+¡Con ese aspecto diabólico estás haciendo que me enamore de ti…! / ¿Y si dejamos en paz a esta diablilla?
+
+[12306]
+¡Nuestro futuro está en tus manos!
+
+[12307]
+¡Dalo todo, Prier!
+
+[12308]
+¡¡¡Sí, padre!!!
+
+[12309]
+¿Crees que Rocini podría estudiar tanto en La Pucelle que también acabara convirtiéndose en demonio?
+
+[12310]
+Te preocupas demasiado.
+
+[12311]
+Sé mejor que nadie que te estás convirtiendo en alguien extraordinario… Pero procura no pasearte por ahí con ese aspecto: asustarás a la gente.
+
+[12312]
+Duele un poco que me lo digas tan a la cara…
+
+[12313]
+Aunque Prier se haya convertido en demonio, jamás ha abandonado una misión de La Pucelle.
+
+[12314]
+¡Eso sí que tiene mérito!
+
+[12315]
+¡Ojalá llegue a ser tan ejemplar en La Pucelle como tú!
+
+[12316]
+¡Así se habla! ¡Sigue esforzándote!
+
+[12317]
+¡Estaré animándote!
+
+[12318]
+¡¿Eh?!
+
+[12319]
+¡Ah, hermana Alouette!
+
+[12320]
+¡¿Culotte?!
+
+[12321]
+¿Dónde se ha metido todo el mundo…?
+
+[12322]
+¡Demonios!
+
+[12323]
+¡Han aparecido demonios!
+
+[12324]
+¿Demonios?
+
+[12325]
+¡¿Precisamente aquí?!
+
+[12326]
+¡Tengo que hacer algo…!
+
+[12327]
+¡¿Eh?!
+
+[12328]
+¿Cuándo fue que todos…?
+
+[12329]
+¡Estás a salvo!
+
+[12330]
+¡Menos mal!
+
+[12331]
+Ah, claro. Primero tengo que encargarme de esos demonios.
+
+[12332]
+Parece que hemos acabado con todos los demonios…
+
+[12333]
+¡Grrrrraaaaah!
+
+[12334]
+Todavía queda uno, ¿eh?
+
+[12335]
+¡No escaparás!
+
+[12336]
+He metido la pata…
+
+[12337]
+¡Abre los ojos…!
+
+[12338]
+El demonio…
+
+[12339]
+…es bastante fuerte…
+
+[12340]
+¡¿Un demonio?!
+
+[12341]
+¿Te refieres a esas criaturas que te rodean?
+
+[12342]
+¿O estás hablando de ti mismo?!
+
+[12343]
+…¿de qué, padre?
+
+[12344]
+…para bromear…
+
+[12345]
+¡Cuidado, todos!
+
+[12346]
+¡Culotte y los demás, protejan a la hermana…! / Así que ves a esas cosas como si fueran Culotte y tus amigos…
+
+[12347]
+¡Hay un límite para lo despistado que puedes ser…! / ¿Padre?
+
+[12348]
+¿Todavía estás bromeando…?
+
+[12349]
+Si ese es Culotte, ¡¿quién demonios está desmayado allí?!
+
+[12350]
+¿Quién…?
+
+[12351]
+¿Qué está pasando…?
+
+[12352]
+¿Por qué está Culotte allí si él está…?
+
+[12353]
+¡No puede ser…!
+
+[12354]
+¡¿Qué demonios está pasando?!
+
+[12355]
+¡Eso mismo debería preguntártelo yo! Por cómo te has estado comportando… Me duele pensarlo, pero…
+
+[12356]
+¡¿De verdad te has aliado con esos demonios que tienes al lado?!
+
+[12357]
+¡No…! Yo…
+
+[12358]
+¡Yo… jamás haría eso…!
+
+[12359]
+Así que eso es lo que… / Todo esto…
+
+[12360]
+Por mi culpa…
+
+[12361]
+¡Sí! ¡Todo esto lo he provocado yo!
+
+[12362]
+¡¡¡Padre!!!
+
+[12363]
+Confundir a los demonios con tus amigos…
+
+[12364]
+Debes de haberte entregado por completo a la oscuridad, Prier…
+
+[12365]
+O mejor dicho… ¡Prier, Señora Demonio!
+
+[12366]
+Prier… Señora Demonio…
+
+[12367]
+Ya no hay…
+
+[12368]
+…vuelta atrás para mí…
+
+[12369]
+¡Que el Señor se apiade de tu alma!
+
+[12370]
+¡Porque yo mismo te enviaré de vuelta al Mundo Oscuro!
+
+[12371]
+Lo siento, padre…
+
+[12372]
+No puedo quedarme de brazos cruzados por más tiempo…
+
+[12373]
+Aunque esperaba que el temido Salade, el exterminador de demonios, opusiera más resistencia.
+
+[12374]
+Vaya, vaya.
+
+[12375]
+Me has impresionado.
+
+[12376]
+¡Quién habría imaginado que un demonio ajeno al Mundo Oscuro pudiera ser tan poderoso…!
+
+[12377]
+Y, para colmo, ese demonio resulta ser aquella molesta cazadora de demonios.
+
+[12378]
+Nunca dejas de sorprenderme, jovencita…
+
+[12379]
+¡Tú eres… Noir!
+
+[12380]
+¿De verdad te acordabas de mi nombre?
+
+[12381]
+Y hasta te encargaste de la Doncella… / En nombre del Príncipe Oscuro, tú has… / No necesito tus elogios.
+
+[12382]
+Pero lo importante ahora es… ¿dónde está Croix?
+
+[12383]
+¡Dime dónde está!
+
+[12384]
+El Príncipe Oscuro se encuentra en unas antiguas ruinas llamadas Halo del Ángel.
+
+[12385]
+¿Halo del Ángel?
+
+[12386]
+¿Dónde queda eso?
+
+[12387]
+Ahora mismo, la energía oscura de todo el reino de Paprica está confluyendo en un lugar llamado Halo del Ángel.
+
+[12388]
+Encontrar ese lugar debe de ser pan comido para alguien que se ha rendido a la oscuridad y se ha convertido en demonio como tú… / ¿La energía oscura recorre todo el reino…?
+
+[12389]
+¡¿Qué pretendes que haga Croix en un lugar así?!
+
+[12390]
+Ya te lo he dicho.
+
+[12391]
+Va a destruir a la humanidad… / ¡Tsk!
+
+[12392]
+Y tú lo ayudarás.
+
+[12393]
+Con tu nueva forma demoníaca.
+
+[12394]
+¡Que te den!
+
+[12395]
+¡¿Quién ha dicho que voy a ayudarte?!
+
+[12396]
+Te estaré esperando.
+
+[12397]
+¡Maldita sea!
+
+[12398]
+Espérame, Croix.
+
+[12399]
+¡Voy para allá ahora mismo!
+
+[12400]
+¡¿Nos están atacando los humanos?!
+
+[12401]
+¿Ah, solo es un demonio?
+
+[12402]
+¿Una nueva amiga de Noir?
+
+[12403]
+¡Menuda entrada más espectacular!
+
+[12404]
+¡¿Y qué tiene de malo destrozar un poco más estas ruinas?!
+
+[12405]
+Estos demonios me han aceptado como una más sin pensárselo dos veces…
+
+[12406]
+Hasta a mí me deprime…
+
+[12407]
+¿Qué estás murmurando? ¡Te he preguntado quién eres!
+
+[12408]
+¿Dónde está Croix?
+
+[12409]
+Quizá lo conozcas como el Príncipe Oscuro.
+
+[12410]
+Está en lo más profundo de la capilla.
+
+[12411]
+Está con Noir y se están preparando para invocar a…
+
+[12412]
+¡¿Invocar al ángel caído Calamity…?!
+
+[12413]
+¡Ese maldito…!
+
+[12414]
+Quién iba a pensar que Noir tramaba algo así…
+
+[12415]
+¡Jamás permitiré que Croix lo ayude a cometer semejante atrocidad!
+
+[12416]
+¡¿Piensas interponerte en nuestro camino?!
+
+[12417]
+¡Lo destruiré todo!
+
+[12418]
+¡Si no quieres morir, apártate de mi camino!
+
+[12419]
+¡Mátenla!
+
+[12420]
+¡Croix!
+
+[12421]
+Te estaba esperando.
+
+[12422]
+La señorita de antes…
+
+[12423]
+¡He… he venido a buscarte!
+
+[12424]
+¡¿Eres… Prier?!
+
+[12425]
+Ese atuendo…
+
+[12426]
+¿Acaso has…?
+
+[12427]
+Sí, me convertí en la Señora Demonio… Como tú, cedí al poder de la oscuridad… / ¿Por qué hiciste algo así…?
+
+[12428]
+Fue…
+
+[12429]
+¡Lo hice todo para detenerte!
+
+[12430]
+¡Creía que, si aceptaba el poder de la oscuridad, podría impedir que acabaras con toda la humanidad…!
+
+[12431]
+¿Has hecho todo esto…?
+
+[12432]
+¿Por mí…?
+
+[12433]
+Eso no es todo lo que ha hecho, Príncipe Oscuro.
+
+[12434]
+Ya deberías haberte dado cuenta, ¿no?
+
+[12435]
+La Doncella de la Luz ya no está en este mundo.
+
+[12436]
+Y eso también se lo debemos a esta joven.
+
+[12437]
+¡¿Prier mató a la Doncella de la Luz?!
+
+[12438]
+¡Exacto!
+
+[12439]
+¡Esta joven llegó incluso a deshacerse de la Doncella de la Luz con sus propias manos!
+
+[12440]
+Todo por ti, Príncipe Oscuro… / ¿Es verdad…?
+
+[12441]
+El poder de la oscuridad me envolvió y perdí de vista… / Así que de verdad lo hiciste… / Por mi culpa, tú…
+
+[12442]
+Te lo agradezco…
+
+[12443]
+Si la Doncella de la Luz ha desaparecido…
+
+[12444]
+Ahora yo… soy…
+
+[12445]
+¡JA, JA, JA, JA!
+
+[12446]
+¡¿Croix?!
+
+[12447]
+Oye, ¿qué está pasando?
+
+[12448]
+¿Príncipe Oscuro?
+
+[12449]
+…tu lado oscuro ahora.
+
+[12450]
+¡Hasta el último vestigio de tu razón y tus esperanzas humanas habrá desaparecido en el abismo oscuro!
+
+[12451]
+¡Y todo esto es culpa tuya!
+
+[12452]
+¡Cierra la maldita boca!
+
+[12453]
+¿Qué se siente al perder la razón con esa nueva apariencia?
+
+[12454]
+¡Miren, demonios!
+
+[12455]
+¡Así es un demonio DE VERDAD!
+
+[12456]
+¡Ja, ja, ja…!
+
+[12457]
+Prier es la…
+
+[12458]
+Ahora que ella ha eliminado a la Doncella de la Luz, mi señor, ya no queda nada en tu corazón que te vincule con los humanos.
+
+[12459]
+¡Cae en la desesperación! ¡Invoca al ángel caído Calamity y hazte uno con él!
+
+[12460]
+Prier es…
+
+[12461]
+Uuughhh…
+
+[12462]
+¡Grrraaaaah!
+
+[12463]
+¡Aaaaaah…!
+
+[12464]
+¡Nooooo!
+
+[12465]
+¡¿Qué es esto?!
+
+[12466]
+¡¿Croix?!
+
+[12467]
+¡¿La oscuridad se ha apoderado por completo de tu corazón, Príncipe Oscuro?!
+
+[12468]
+Este es Croix…
+
+[12469]
+…y la oscuridad de su corazón…
+
+[12470]
+¡El Príncipe Oscuro ya no atiende a razones!
+
+[12471]
+¡Lucha, Prier!
+
+[12472]
+¿No querías detener al Príncipe Oscuro?
+
+[12473]
+¡Acaba con él!
+
+[12474]
+¡Cuando alguien ha perdido por completo la razón, no queda más remedio que matarlo!
+
+[12475]
+¡Croix…!
+
+[12476]
+¡Ja, ja, ja, ja!
+
+[12477]
+Ah…
+
+[12478]
+¿Qué he hecho…?
+
+[12479]
+Cuánto lo siento, Croix…
+
+[12480]
+Esos asquerosos humanos…
+
+[12481]
+…que me arrebataron a Angelique…
+
+[12482]
+…siguen viviendo…
+
+[12483]
+…en este mundo…
+
+[12484]
+Y, por si fuera poco…
+
+[12485]
+Prier se vio impulsada a…
+
+[12486]
+No pude proteger…
+
+[12487]
+…a la persona que amo… otra vez…
+
+[12488]
+N… no…
+
+[12489]
+Lo… siento…
+
+[12490]
+¡¡¡Croix!!!
+
+[12491]
+…¡para eclipsar el poder del Príncipe Oscuro!
+
+[12492]
+Me cuesta admitirlo, pero esto no era lo que esperaba…
+
+[12493]
+¡Se suponía que tú ibas a ser el sacrificio para invocar al ángel caído Calamity!
+
+[12494]
+¡Ah, Croix!
+
+[12495]
+¡¡¡Nooooo!!!
+
+[12496]
+¡Arde hasta morir entre mis llamas!
+
+[12497]
+¡Ni siquiera tú saldrás ileso de esto!
+
+[12498]
+¡Jamás perdonaré…!
+
+[12499]
+¡¿Cómo puede existir un poder tan inmenso… y tan siniestro…?!
+
+[12500]
+¡¡¡JAMÁS TE PERDONARÉ!!!
+
+[12501]
+¡Gyaaaaaah…!
+
+[12502]
+…no lo olvides…
+
+[12503]
+¿Quién es?
+
+[12504]
+¡No lo olvides…!
+
+[12505]
+¡Esa voz!
+
+[12506]
+¡Tú eres de…!
+
+[12507]
+¡Por fin te has dado cuenta…!
+
+[12508]
+Tenía muchísimo miedo de lo que podría pasar si te perdía.
+
+[12509]
+¡Eres la preciada luz de mi corazón! / Así es: soy la luz que perdiste cuando te convertiste en la Señora Demonio.
+
+[12510]
+Y ahora volvemos a ser uno.
+
+[12511]
+Igual que cuando decidiste que querías convertirte en la Doncella de la Luz, en las cuevas de Vinaigrette.
+
+[12512]
+¿Por eso buscaste en lo más profundo de tu corazón y me llamaste?
+
+[12513]
+Me decías que no lo olvidara…
+
+[12514]
+Mi voz pudo llegarte porque me estabas buscando.
+
+[12515]
+No es distinto de… / Incluso después de que tu corazón sucumbiera a la oscuridad y perdieras de vista tu verdadero yo, seguías recordándome.
+
+[12516]
+Mi verdadero yo, ¿eh…?
+
+[12517]
+¿Sabes? Antes no me había dado cuenta.
+
+[12518]
+Ahora tengo este aspecto… Parece que tardé demasiado en darme cuenta de tu existencia.
+
+[12519]
+Tu aspecto actual demuestra que tu corazón ha sucumbido a la oscuridad. Tienes que aceptarlo.
+
+[12520]
+¡Pero eso no tiene por qué ser el final…!
+
+[12521]
+Después de todo, fui yo quien te buscó…
+
+[12522]
+¡Y ahora que hemos llegado hasta aquí…!
+
+[12523]
+¡Podemos luchar con el poder de la luz!
+
+[12524]
+¡La oscuridad me había cegado tanto que creía que esos demonios eran mis amigos…!
+
+[12525]
+Esto no se lo puedo contar a nadie…
+
+[12526]
+¡¿Qué ha sido esa luz?!
+
+[12527]
+¡Estás a salvo!
+
+[12528]
+¡Has vuelto en ti!
+
+[12529]
+¡Qué alegría! ¡Estaba tan preocupada cuando te convertiste en la Señora Demonio y empezaste a invocar demonios…!
+
+[12530]
+Uf, menos mal.
+
+[12531]
+Te lo digo en serio: solo de pensar que tendría que luchar contra ti me entraban escalofríos.
+
+[12532]
+Tal como esperaba, has recuperado la luz de tu corazón.
+
+[12533]
+¡Muy bien!
+
+[12534]
+¿Estás bien…? / Hice algo terrible…
+
+[12535]
+Estoy perfectamente bien.
+
+[12536]
+No hace falta que te preocupes por mí.
+
+[12537]
+Pero, más importante aún…
+
+[12538]
+¡Tenemos que purificar a esos demonios…!
+
+[12539]
+Con ese, ya no debería quedar ningún demonio.
+
+[12540]
+…Aunque, con este aspecto, no sueno muy convincente, ¿verdad?
+
+[12541]
+Perdona, Prier…
+
+[12542]
+Si no te hubiera dicho que te quedaba bien ser la Señora Demonio, nada de esto habría sucedido…
+
+[12543]
+¿Disculparte, Culotte…?
+
+[12544]
+Dejé que mi debilidad se apoderara de mí.
+
+[12545]
+¡Así que deja de preocuparte…! ¡De verdad, no te preocupes!
+
+[12546]
+Hermana, ¿de verdad entiendes lo que está pasando…? / ¡Claro que sí!
+
+[12547]
+¡Solo intento ser optimista!
+
+[12548]
+¡Eso seguro!
+
+[12549]
+¡Esa sí es la Prier que conozco!
+
+[12550]
+Además, este atuendo tampoco está tan mal.
+
+[12551]
+Me cuesta reconocerlo, pero la verdad es que me favorece.
+
+[12552]
+¡Prier…!
+
+[12553]
+¡Solo era una broma, hombre!
+
+[12554]
+Pero ya no me arrepiento de tener este aspecto.
+
+[12555]
+Me recuerda que la oscuridad siempre estará en mi corazón.
+
+[12556]
+Lo siento de corazón.
+
+[12557]
+No le dé más vueltas, hermana Prier.
+
+[12558]
+Como esperaba, nunca perdiste la luz de tu corazón.
+
+[12559]
+¿Todavía me consideras parte de la Iglesia?
+
+[12560]
+Al fin y al cabo, todavía eres…
+
+[12561]
+¡¡¡¿QUÉ ESTÁ PASANDO AQUÍ?!!!
+
+[12562]
+¡PRIER!
+
+[12563]
+¿Al final te ha consumido la oscuridad…?
+
+[12564]
+¡Todo esto es culpa mía, como padre de la Iglesia de la Santa Doncella!
+
+[12565]
+¡Porque yo soy Salade, el Exterminador de Demonios!
+
+[12566]
+¡Espere, padre!
+
+[12567]
+¡Puede que tenga aspecto de Señora Demonio, pero mi corazón no se ha rendido a la oscuridad!
+
+[12568]
+¡Pienso seguir esforzándome para convertirme en la Doncella de la Luz, como la hermana Alouette!
+
+[12569]
+Con ese aspecto que tienes, cuesta un poco creerte…
+
+[12570]
+Uf, esto ya me está sacando de quicio.
+
+[12571]
+Siempre tiene que haber alguien que critique…
+
+[12572]
+¡Pero qué importa el aspecto que tengas!
+
+[12573]
+Además, exterminar demonios con ese aspecto sería de lo más diverti…
+
+[12574]
+Eh… Quiero decir… ¡que te sienta muy bien, Prier!
+
+[12575]
+Hace un momento ibas a hablar mal de mí, ¿verdad…?
+
+[12576]
+De verdad, estos dos son de lo más previsibles…
+
+[12577]
+Supongo que se cumple el dicho: «De tal maestro, tal discípulo».
+
+[12578]
+¡Aunque tengas ese aspecto, nunca has olvidado la luz de tu corazón! Justo lo que esperaba de mi alumna.
+
+[12579]
+Y que la Diosa nos proteja a todos.
+
+[12580]
+Un paso más y habrías sucumbido por completo a la oscuridad…
+
+[12581]
+¡Ja!
+
+[12582]
+¡Más les vale no subestimarme!
+
+[12583]
+Además de aceptar la oscuridad de tu corazón, nunca has perdido de vista la luz.
+
+[12584]
+¡No esperaba menos de mí misma!
+
+[12585]
+¡Y tanto!
+
+[12586]
+Este calor que desprende la luz…
+
+[12587]
+Y esa apariencia…
+
+[12588]
+Debe de ser la llamada Santa Oscura.
+
+[12589]
+Sí… Aunque creo que estoy un poco agotada…
+
+[12590]
+Si no les importa, me gustaría descansar un poco…
+
+[12591]
+No esperaba un desenlace tan lamentable.
+
+[12592]
+Es una verdadera lástima.
+
+[12593]
+¡Tú eres… Noir!
+
+[12594]
+¿Recuerdas mi nombre? Me siento honrado.
+
+[12595]
+Y sin embargo…
+
+[12596]
+Has adquirido un poder casi tan grande como el del Príncipe Oscuro y has conservado la capacidad de razonar.
+
+[12597]
+Qué jovencita tan necia.
+
+[12598]
+Si te hubieras desprendido de la luz de tu corazón, podrías haber servido a mi lado y al del Príncipe Oscuro para crear mi utopía.
+
+[12599]
+¡Oye, tú!
+
+[12600]
+¡¿Qué piensas hacer exactamente con Croix?!
+
+[12601]
+Si tu objetivo no es simplemente resucitar al Príncipe Oscuro, entonces… ¿acaso pretendes…?
+
+[12602]
+¡¿Acaso pretendes invocar al ángel caído Calamity?!
+
+[12603]
+Como cabía esperar de ti… Tienes toda la razón.
+
+[12604]
+Sin embargo, aunque conozcas mis planes, no podrás salvar a Croix. Por mucho que lo intentes, será inútil.
+
+[12605]
+…¡¿Eh?!
+
+[12606]
+Entonces, Doncella… ¡Contempla cómo desaparece toda la inmundicia de este mundo!
+
+[12607]
+¡Jamás permitiré que te salgas con la tuya!
+
+[12608]
+Eres muy divertida, jovencita. Está bien.
+
+[12609]
+Si crees que puedes detenerme, adelante: inténtalo.
+
+[12610]
+Mientras tanto, yo me ocuparé de tu querido novio.
+
+[12611]
+¡Cómo se atreve a subestimarme!
+
+[12612]
+¡Iremos directamente a su cuartel general!
+
+[12613]
+…¿Y dónde está exactamente?
+
+[12614]
+¡¿Y yo qué sé?!
+
+[12615]
+Para invocar al ángel caído Calamity hace falta una enorme cantidad de oscuridad.
+
+[12616]
+Así que, si seguimos la corriente de energía oscura que está concentrándose por todo el reino de Paprica…
+
+[12617]
+Croix debería estar allí.
+
+[12618]
+O, mejor dicho, Santa… / Creo que ya lo sabes, pero con tu aspecto actual no te permitirán acercarte a esa zona.
+
+[12619]
+¡Déjamelo todo a mí!
+
+[12620]
+Parece que Noir necesita a Croix para invocar a Calamity, así que solo tengo que recuperarlo, ¿no?
+
+[12621]
+¡Siempre podemos recuperarlo!
+
+[12622]
+Esta vez dejaré todo en tus manos.
+
+[12623]
+¡Gracias, hermana! ¡Haré que Croix vuelva a ser el de antes, cueste lo que cueste!
+
+[12624]
+¡Pues entonces démonos prisa!
+
+[12625]
+¡Eh, espera!
+
+[12626]
+¡Priiiieeer!
+
+[12627]
+Creo que, si logras unir el poder de la luz y el de la oscuridad, podrás salvar a Croix y al mundo entero.
+
+[12628]
+Ahora todo depende de usted, hermana Prier.
+
+[12629]
+…a todos nosotros.
+
+[12630]
+¡Toma estoooo!
+
+[12631]
+¡¿Atacando?!
+
+[12632]
+Uf, ¡por favor…!
+
+[12633]
+Parece que toda la energía oscura se concentra aquí. Pero ¿qué clase de lugar es este…?
+
+[12634]
+¡Es tan enorme que ni siquiera sé dónde está la entrada!
+
+[12635]
+¡Deja de hacer el idiota, demonio!
+
+[12636]
+¿Eres una nueva amiga del señor Noir?
+
+[12637]
+¡Deja de destrozar estas valiosas ruinas!
+
+[12638]
+¡¿Qué pasaría si invocásemos a Calamity por accidente?!
+
+[12639]
+Entiendo… Así que estas ruinas son fundamentales para invocar a Calamity, ¿eh?
+
+[12640]
+Entonces, hice bien en destruirlas.
+
+[12641]
+¡¿Quién demonios eres?!
+
+[12642]
+Tu enemiga, por supuesto.
+
+[12643]
+He venido a detener a Noir y desbaratar sus planes.
+
+[12644]
+¡¿Qué has dicho?!
+
+[12645]
+Parece que la energía oscura se acumula más adentro…
+
+[12646]
+Seguro que Croix está ahí dentro… / ¡Si das un paso más, te mataremos aquí mismo!
+
+[12647]
+¡Todo el que se interponga en mi camino tendrá que arrepentirse!
+
+[12648]
+¡¡¡Preparaos!!!
+
+[12649]
+Bueno, pasaron unas cuantas cosas y acabé convertida en la Señora Demonio… Pero conseguí recobrar el juicio justo a tiempo.
+
+[12650]
+Es verdad que ahora tengo aspecto de demonio, pero no te preocupes demasiado por eso.
+
+[12651]
+¿Que no me preocupe por eso…?
+
+[12652]
+¿Pero qué eres tú…?
+
+[12653]
+Pensaba que venías a frustrar mis planes, ¡pero parece que solo querías charlar conmigo! / ¡No, no es eso!
+
+[12654]
+He venido para que Croix vuelva a ser el de antes.
+
+[12655]
+¿Ah, sí?
+
+[12656]
+Si Croix deja de trabajar para ti, te costará mucho más llevar a cabo tus planes, ¿no?
+
+[12657]
+Mmm… Entiendo lo que pretendes. Pero ¿cómo piensas devolver al Príncipe Oscuro a la normalidad?
+
+[12658]
+Espero que no creas que bastará con convencerlo de que cambie.
+
+[12659]
+¡Eso es lo que pienso hacer! ¡Cuando Croix comprenda que solo lo estás utilizando, podrá entrar en razón!
+
+[12660]
+¿Dices que me están utilizando?
+
+[12661]
+¡Noir quiere resucitar al ángel caído Calamity! ¡Por eso necesita tu poder, Croix!
+
+[12662]
+Lo que dice esta joven es cierto.
+
+[12663]
+Pero, una vez que Calamity sea invocado, toda la humanidad será aniquilada de un solo golpe.
+
+[12664]
+En otras palabras, se cumplirá tu deseo de librar al mundo de los humanos.
+
+[12665]
+No es un mal trato… / Librar al mundo de los humanos…
+
+[12666]
+Sí… No suena nada mal…
+
+[12667]
+Esta jovencita ha venido para entrometerse en nuestros planes.
+
+[12668]
+Así que quiero que te deshagas de ella.
+
+[12669]
+¿Me estás pidiendo que luche contra Prier?
+
+[12670]
+¿Es que no puedes?
+
+[12671]
+¡Bah, deja de decir tonterías! / (Si esas dos bestias se enfrentan, ninguna saldrá ilesa…)
+
+[12672]
+(Cuando acabe la batalla, utilizaré al que quede más debilitado como sacrificio para invocar a Calamity…
+
+[12673]
+Ja, ja, ja…)
+
+[12674]
+¿De verdad piensas luchar contra mí?
+
+[12675]
+Si pretendes proteger a la humanidad, tendré que acabar contigo aquí mismo.
+
+[12676]
+¡Reacciona, Croix!
+
+[12677]
+¡Sabes muy bien que Angelique nunca habría deseado la destrucción de toda la humanidad!
+
+[12678]
+¡¡¡Silencio!!!
+
+[12679]
+¡¿Acaso esperas que perdone a toda la humanidad?!
+
+[12680]
+Puedo sentirlo, Croix.
+
+[12681]
+La oscuridad de tu corazón sigue creciendo…
+
+[12682]
+No me llames… / Incluso yo fui manipulada por el poder de la oscuridad en su momento y acabé convertida en la Señora Demonio.
+
+[12683]
+¡Pero ahora usaré este poder para mostrarte la oscuridad que se oculta en lo más profundo de tu corazón!
+
+[12684]
+¡Argh!
+
+[12685]
+¡Maldita seas…!
+
+[12686]
+¡¿Cuándo has conseguido semejante poder?!
+
+[12687]
+¿Y bien?
+
+[12688]
+Así es como se ve tu corazón.
+
+[12689]
+Esa es la forma que ha tomado todo tu odio.
+
+[12690]
+Uoooooh…
+
+[12691]
+¡Voy a purificar la oscuridad de tu corazón, Croix, y haré que vuelvas a ser el de antes!
+
+[12692]
+Ugh…
+
+[12693]
+Ufff…
+
+[12694]
+¡Ah!
+
+[12695]
+¡Tu cuerpo sigue siendo el del Príncipe Oscuro…!
+
+[12696]
+¿No he tenido suficiente poder para hacerte volver a la normalidad, Croix…?
+
+[12697]
+No, parece que no es eso…
+
+[12698]
+Ahora tengo la mente mucho más despejada.
+
+[12699]
+¡Menos mal…!
+
+[12700]
+¡Te has librado de la oscuridad…!
+
+[12701]
+Sí, eso parece.
+
+[12702]
+No puede ser…
+
+[12703]
+¡Una cosa tan absurda no puede ser posible! / Aunque seguramente esto sea solo temporal…
+
+[12704]
+Ya sabes que es cuestión de tiempo que la oscuridad vuelva a consumirme y trate de destruir a toda la humanidad.
+
+[12705]
+Así que, Prier…
+
+[12706]
+Mientras siga siendo yo mismo, deberías matarme con tus propias manos.
+
+[12707]
+¡¡¡Eres idiota!!!
+
+[12708]
+¡Uaaaah!
+
+[12709]
+¡¿Qué tonterías estás diciendo?!
+
+[12710]
+¡No estamos para bromas!
+
+[12711]
+¡Me convertí en la Señora Demonio para salvarte! ¡No hice todo esto para matarte!
+
+[12712]
+¡Así que sigue viviendo!
+
+[12713]
+¡Domina la oscuridad que llevas dentro y sigue viviendo!
+
+[12714]
+Pero como Príncipe Oscuro he cometido pecados que jamás podré borrar… Tengo que expiarlos.
+
+[12715]
+¡Si quieres expiar tus pecados, sigue viviendo!
+
+[12716]
+¿Seguir viviendo…?
+
+[12717]
+Me quedaré a tu lado…
+
+[12718]
+Y no dejaré que vuelvas a sucumbir a la oscuridad.
+
+[12719]
+¡Siempre estaré aquí, a tu lado…!
+
+[12720]
+Te lo suplico… / Parece que no tengo elección…
+
+[12721]
+Te has esforzado muchísimo por mí, incluso poniendo tu vida en peligro.
+
+[12722]
+Y, como hombre, debo asumir mi responsabilidad.
+
+[12723]
+¡Gracias a aquella patada, el Príncipe Oscuro ha muerto!
+
+[12724]
+¡Y yo he vuelto a nacer!
+
+[12725]
+Puede que aún tenga el cuerpo del Príncipe Oscuro, ¡pero mi corazón sigue siendo el del Croix de siempre!
+
+[12726]
+¡Y para expiar todos mis pecados, seguiré viviendo hasta mi último aliento!
+
+[12727]
+¡Croix! ¡Ahora sí que hablas como el de antes!
+
+[12728]
+¡¡¡Basta ya de esta farsa!!!
+
+[12729]
+¡¿Lo has olvidado?!
+
+[12730]
+¡¿No recuerdas lo que los humanos le hicieron a la mujer que amabas?!
+
+[12731]
+¡¿Vas a perdonar sin más a esas criaturas inmundas?!
+
+[12732]
+¡¿Vas a dejar que sigan viviendo?!
+
+[12733]
+Nunca podré olvidar lo que le hicieron a Angelique…
+
+[12734]
+Y jamás podré perdonarlos…
+
+[12735]
+Entonces, ¡¿por qué dices que ya no quieres destruir a la humanidad?!
+
+[12736]
+La respuesta es sencilla.
+
+[12737]
+Porque, si lo hiciera, cometería algo aún más imperdonable.
+
+[12738]
+Y, además, Prier…
+
+[12739]
+¡No puedo seguir haciendo daño a las mujeres de las que me he enamorado!
+
+[12740]
+¡¿Enamorado…?!
+
+[12741]
+¡¡¡Ja, ja, ja, ja!!!
+
+[12742]
+¡¿Vas a echar por tierra mi utopía por una razón tan patética?!
+
+[12743]
+¡No permitiré que te salgas con la tuya!
+
+[12744]
+¡Jamás!
+
+[12745]
+¡¡¡Nunca te perdonaré lo que has hecho!!!
+
+[12746]
+¡Os reduciré a cenizas a los dos y ofreceré vuestros cuerpos como sacrificio para invocar a Calamity!
+
+[12747]
+¡A nadie le importa tu utopía de mentira!
+
+[12748]
+¡Gaaaaah!
+
+[12749]
+¡Y a nadie le importa si nos perdonas o no!
+
+[12750]
+¡Grrraaaah!
+
+[12751]
+Si tanto quieres un sacrificio…
+
+[12752]
+¡Gaaaah!
+
+[12753]
+Calamity…
+
+[12754]
+¡Ughraaah!
+
+[12755]
+¡Pues conviértete tú mismo en uno!
+
+[12756]
+¡¡¡AAAAAAAH!!!
+
+[12757]
+Con esto deberían haberse acabado Noir y sus maquinaciones.
+
+[12758]
+Para ser nuestra primera expiación juntos, no ha salido nada mal, ¿eh?
+
+[12759]
+Croix, ¿qué te parece hacerte llamar «Héroe Oscuro»?
+
+[12760]
+¡¿Héroe Oscuro?!
+
+[12761]
+¡Ese nombre le pega mucho más al capitán Homard que a mí!
+
+[12762]
+¡Y qué más da!
+
+[12763]
+¡Yo soy la Santa Oscura, así que tú puedes ser el Héroe Oscuro!
+
+[12764]
+¡El Dúo Oscuro! ¡Juntos salvaremos a incontables almas perdidas por todo el mundo!
+
+[12765]
+El Dúo Oscuro…
+
+[12766]
+¡Salgamos de aquí, Croix!
+
+[12767]
+Eh… Quiero decir, ¡Héroe Oscuro!
+
+[12768]
+¡Oye, idiota!
+
+[12769]
+¡Deja de llamarme así!
+
+[12770]
+¡Me da vergüenza!
+
+[12771]
+¡Culotte! ¿Estás bien?
+
+[12772]
+¡Ugh…!
+
+[12773]
+Uuuh…
+
+[12774]
+¿Has recobrado el conocimiento?
+
+[12775]
+¡Te salvaré, pase lo que pase!
+
+[12776]
+Hermana Prier…
+
+[12777]
+Ayú…
+
+[12778]
+…suceder…
+
+[12779]
+Pero, si lo piensas bien, ¡te pega más ser la Señora Demonio que la Doncella de la Luz…!
+
+[12780]
+¿Prier…?
+
+[12781]
+Tú eres…
+
+[12782]
+Tú eres la…
+
+[12783]
+Perdonadme, todos…
+
+[12784]
+Por favor, ¡no mueras…!
+
+[12785]
+…la luz que hay en Prier…
+
+[12786]
+Te estaré esperando…
+
+[12787]
+¡No puede ser!
+
+[12788]
+¡¿Otra explosión…?!
+
+[12789]
+¿Qué hacemos?
+
+[12790]
+Las ruinas…
+
+[12791]
+¡Las antiguas ruinas están empezando a derrumbarse!
+
+[12792]
+¡Si nos quedamos aquí, nos aplastarán! / ¡Vamos por otro camino, chicos!
+
+[12793]
+¡Hay que salir de aquí a toda prisa!
+
+[12794]
+¡Eh, mirad!
+
+[12795]
+Vaya… Si no me esfuerzo al máximo, me van a dejar atrás…
+
+[12796]
+¿Dejarte atrás?
+
+[12797]
+¡Ah, nada!
+
+[12798]
+Es hora de irnos, hermana…
+
+[12799]
+¡Ven a visitarnos de vez en cuando…! / ¿De verdad hemos hecho lo correcto?
+
+[12800]
+¿De verdad no vamos a ponernos en contacto con nadie…?
+
+[12801]
+¡Vamos, Croix! ¡Hay que ponerse en marcha!
+
+[12802]
+¡Al fin y al cabo, la leyenda del Dúo Oscuro no ha hecho más que empezar!
+
+[12803]
+¡Ya te he dicho que dejes de llamarnos así!
+
+[12804]
+¡Qué nombre más ridículo…!
+
+
+=== ISO_START/talk00.dat ===
+
+[14684]
+¿Sí? ¿Sobre qué quieres saber?
+
+[14685]
+Fundamentos del combate | Purificación | Mejorar objetos | Medidores de victoria | Aprender magia | Mundo Oscuro | Novedades | Nada | Los fundamentos son muy importantes. Pregúntame… | Curación | Ataques múltiples | Dirección de los ataques | Desniveles | ¿Alguien de La Pucelle me pregunta a MÍ sobre purificación? Vale…
+
+[14686]
+Ataques de purificación | Conversión de enemigos | Ataques milagrosos
+
+[14687]
+Al purificar un portal, los objetos que lleves equipados acumularán energía.
+
+[14688]
+Cuando acumulan suficiente energía, los objetos suben de nivel.
+
+[14689]
+Si purificas un portal de la misma afinidad elemental que tu objeto, conseguirás más energía.
+
+[14690]
+Pero los objetos que son débiles de por sí solo pueden mejorarse hasta cierto punto.
+
+[14691]
+Es mucho más rentable mejorar objetos que ya son poderosos desde el principio.
+
+[14692]
+Yo prefiero los objetos con muchos iconos de ATK o DEF, o con valores elevados de esos atributos.
+
+[14693]
+También me gustan los objetos con valores altos de afinidad elemental.
+
+[14694]
+En la lista de características de los objetos aparecen iconos como ATK y DEF.
+
+[14695]
+Los objetos pueden ayudar a los personajes a desarrollar sus capacidades ocultas.
+
+[14696]
+Por ejemplo, supongamos que alguien se equipa con un objeto que tiene un icono de ATK.
+
+[14697]
+Su medidor de ATK aumentará cada vez que derrote a un enemigo.
+
+[14698]
+Cuando el medidor se llena, aumenta el atributo ATK del propio personaje.
+
+[14699]
+Es decir, puedes decidir cómo progresan tus personajes eligiendo los objetos que equipan. Si quieres guerreros, busca objetos con iconos de HP, ATK y DEF. Si prefieres magos, elige objetos con iconos de SP e INT.
+
+[14700]
+Además, al subir de nivel también puedes aprender habilidades nuevas.
+
+[14701]
+Las habilidades son poderes especiales que los personajes pueden aprender.
+
+[14702]
+Si aprendes muchas habilidades distintas, mejorarás mucho tu eficacia en combate.
+
+[14703]
+Pero al principio conviene concentrarse en aprender unas pocas.
+
+[14704]
+Para aprender magia elemental, debes conocer las siete afinidades elementales y sus colores.
+
+[14705]
+Rojo (fuego), verde (viento), amarillo (rayo), azul (hielo), morado (apoyo), celeste (curación) y blanco (sagrado).
+
+[14706]
+La magia que utiliza esos elementos naturales se llama magia elemental.
+
+[14707]
+Puedes utilizar magia elemental equipándote con un objeto de la afinidad correspondiente.
+
+[14708]
+Si equipas varios objetos de la misma afinidad o uno especialmente potente, tu magia será más poderosa.
+
+[14709]
+Cuanto más suban el nivel y los valores elementales de un personaje, más fuerte será su magia.
+
+[14710]
+Pero, si te quitas el objeto, ya no podrás utilizar ese tipo de magia.
+
+[14711]
+Para aprender un tipo de magia de forma permanente, debes elevar su nivel de 0 a 1.
+
+[14712]
+Con tiempo suficiente, puedes aprender todos los tipos de magia. ¡Buena suerte!
+
+[14713]
+¿Combatir el fuego con fuego, eh?
+
+[14714]
+¿Qué quieres saber?
+
+[14715]
+Combinar objetos mágicos | Energía oscura y portales oscuros | Al volver al mapa del mundo, se curan las heridas de los personajes y se restauran sus HP y SP.
+
+[14716]
+Si quieres curarte durante el combate, tendrás que utilizar un objeto o una habilidad especial.
+
+[14717]
+También puedes utilizar Polvo de Hadas o una habilidad especial para recuperar a un personaje.
+
+[14718]
+Por cierto, los combates resultan mucho más fáciles si duermes a tus enemigos con magia o con un objeto.
+
+[14719]
+Hay tres maneras de realizar ataques múltiples.
+
+[14720]
+¿Sobre cuál quieres saber más?
+
+[14721]
+Ataques de apoyo | Ataques simultáneos | Ataques combinados | Cuando ataques a un enemigo, procura hacerlo por los lados o por la espalda.
+
+[14722]
+Es mucho más eficaz que atacar de frente.
+
+[14723]
+Tenlo presente también cuando te ataquen a ti.
+
+[14724]
+Para recibir menos daño, procura estar de cara al enemigo cuando ataque.
+
+[14725]
+Puedes cambiar la orientación de un personaje con el comando «Cambiar orientación» o situando el cursor sobre él y pulsando □. Si atacas desde una posición más elevada que el enemigo, causarás más daño.
+
+[14726]
+Del mismo modo, si atacas desde una posición más baja, infligirás menos daño.
+
+[14727]
+Lo mismo sucede cuando recibes ataques enemigos.
+
+[14728]
+En resumen, luchar desde una posición elevada siempre te dará ventaja.
+
+[14729]
+La purificación es sencilla.
+
+[14730]
+Utiliza el comando «Purificar» para limpiar los portales oscuros y las corrientes de energía oscura que salen de ellos.
+
+[14731]
+Los portales oscuros y las corrientes de energía que emanan de ellos perjudican a tus personajes.
+
+[14732]
+Si purificas los portales oscuros, evitarás que aparezcan más enemigos.
+
+[14733]
+Intenta purificar todos los portales oscuros del mapa.
+
+[14734]
+Los portales y las corrientes de energía oscura perjudican a tus personajes, pero también puedes usarlos contra los enemigos.
+
+[14735]
+Al purificar un portal, la energía sagrada recorrerá la trayectoria de su corriente.
+
+[14736]
+Esta energía sagrada dañará a todos los enemigos que se encuentren en su recorrido.
+
+[14737]
+Así puedes aprovechar la energía oscura para tenderles trampas.
+
+[14738]
+La corriente de energía avanza en la dirección hacia la que mira el personaje situado sobre ella.
+
+[14739]
+Pero si una unidad mira directamente hacia la corriente de energía oscura, su avance se detendrá.
+
+[14740]
+También puedes redirigir la energía con un objeto llamado «Cambio de rumbo».
+
+[14741]
+Solo tienes que colocarlo sobre la corriente y elegir hacia dónde quieres dirigirla.
+
+[14742]
+Una vez colocado, no puedes moverlo, pero sí cambiar su orientación con la cruceta y □.
+
+[14743]
+Incluso puedes colocar un Cambio de rumbo donde haya un enemigo para obligar a la corriente a cambiar de dirección.
+
+[14744]
+Los Cambios de rumbo son muy útiles, pero desaparecen al completar el mapa de la zona. ¡Colócalos con cabeza!
+
+[14745]
+La clave para tender trampas con energía oscura está en la orientación y la posición de las unidades. ¡Practica con los portales y las corrientes de energía hasta dominarlos!
+
+[14746]
+Vale la pena.
+
+[14747]
+¡Pruébalo!
+
+[14748]
+Si purificas a un enemigo y luego lo derrotas en combate, a veces se unirá a tu equipo.
+
+[14749]
+Cuantas más veces lo purifiques, más posibilidades habrá de que se pase a tu bando.
+
+[14750]
+Si quieres reclutar a un enemigo, purifícalo varias veces antes de enfrentarte a él y derrotarlo.
+
+[14751]
+Pero cada vez resulta más difícil reclutar a enemigos de especies que ya has conseguido reclutar.
+
+[14752]
+Ah, y por supuesto, no puedes reclutar a los jefes.
+
+[14753]
+Para realizar un ataque milagroso, forma un círculo con 15 casillas o más de energía oscura y purifícalas.
+
+[14754]
+Los enemigos situados sobre la corriente de energía oscura recibirán daño, igual que los que estén dentro del círculo.
+
+[14755]
+Para que funcione, tiene que haber enemigos dentro del círculo.
+
+[14756]
+¡Da mucho gusto cuando lo consigues! ¡Tienes que probarlo!
+
+[14757]
+Lo malo es que formar el círculo puede ser complicado y no ganas experiencia por hacerlo.
+
+[14758]
+¿Has conocido al misterioso hombre encapuchado que hay en la ciudad?
+
+[14759]
+Prueba a equipar con varios objetos a un personaje que ya no necesites y después habla con ese hombre.
+
+[14760]
+Utiliza el poder del Mundo Oscuro para combinar esos objetos y crear algo nuevo.
+
+[14761]
+Él mismo puede explicarte los detalles.
+
+[14762]
+¿Te has fijado en el número «Índice de energía oscura» de la pantalla de selección de mapas?
+
+[14763]
+Si completas un mapa sin purificar sus portales oscuros, ese número aumentará.
+
+[14764]
+Eso significa que la zona se está volviendo cada vez más impura.
+
+[14765]
+Cuando el Índice de energía oscura llega a cierto valor, aparece una Puerta al Mundo Oscuro en el mapa.
+
+[14766]
+Dicen que allí hay demonios muy poderosos y objetos valiosos, pero es un lugar sumamente peligroso.
+
+[14767]
+Muchos se han aventurado al Mundo Oscuro, pero pocos han regresado…
+
+[14768]
+Prueba a colocar a dos personajes uno al lado del otro.
+
+[14769]
+Si uno ataca a un enemigo, el otro lo apoyará.
+
+[14770]
+Puedes hacer que varios personajes ataquen al mismo enemigo a la vez.
+
+[14771]
+Eso se llama «ataque de apoyo». Acuérdate, porque te será muy útil.
+
+[14772]
+Hay una limitación: los ataques de apoyo no pueden combinarse con habilidades especiales.
+
+[14773]
+Por supuesto, los enemigos también pueden realizar ataques de apoyo. ¡Ten cuidado!
+
+[14774]
+Si te lanzas contra un grupo de enemigos, podrías meterte en un buen lío.
+
+[14775]
+La clave de los ataques de apoyo está en colocar bien a tus personajes. Si ordenas a varios personajes que ataquen al mismo enemigo y luego empiezas el combate o terminas el turno…
+
+[14776]
+…todos tus personajes atacarán al enemigo a la vez.
+
+[14777]
+Puede parecerse a un ataque de apoyo, pero los ataques simultáneos son mucho más potentes. Elegir uno u otro dependerá de la situación y de tu estrategia.
+
+[14778]
+Si cuatro personajes atacan a un enemigo desde todos los lados y sitúas a otros compañeros junto a ellos, conseguirás ataques múltiples y ataques de apoyo a la vez.
+
+[14779]
+La próxima vez que necesites concentrar toda tu potencia de ataque contra un enemigo, ya sabrás qué hacer.
+
+[14780]
+La Pucelle es la escuela más prestigiosa para estudiar exorcismo.
+
+[14781]
+Re-Action de purificación | Re-Action de Gran Milagro | La Re-Action de purificación es un nuevo método de purificación.
+
+[14782]
+Este método nuevo es muy sencillo.
+
+[14783]
+Purifica los portales oscuros como siempre.
+
+[14784]
+Si un personaje está en el recorrido de la corriente de energía durante la purificación, puede volver a actuar.
+
+[14785]
+Esto se llama «Re-Action de purificación».
+
+[14786]
+Cuando se produce un Gran Milagro, todos los personajes del área afectada pueden volver a actuar.
+
+[14787]
+Eso no te concierne. No metas las narices en asuntos ajenos.
+
+[14788]
+Últimamente no ha habido cambios en el Mundo Oscuro.
+
+[14789]
+Tu compañero 『A1』 ha muerto en combate.
+
+[14790]
+Aquí tienes sus pertenencias.
+
+[14791]
+『A1』 no nos ha servido absolutamente para nada.
+
+[14792]
+Mi amo está furioso.
+
+[14793]
+Lamento informarte de que tu compañero 『A1』 ha desaparecido.
+
+[14794]
+『A1』 se ha pasado al bando enemigo.
+
+[14795]
+Tu compañero 『A1』 no ha movido un dedo para trabajar.
+
+[14796]
+Mañana tiraremos a 『A1』 con el resto de la basura.
+
+[14797]
+Tu compañero 『A1』 no ha hecho absolutamente nada.
+
+[14798]
+Seguro que te imaginas lo que hicimos…
+
+[14799]
+…un auténtico pavo.
+
+[14800]
+En el Mundo Oscuro hay mucha gente hambrienta… ¡No es buen sitio para ser un pavo! ¡Ja, ja, ja…!
+
+[14801]
+Se ha pasado al bando enemigo.
+
+[14802]
+La próxima vez, intenta enviarnos reclutas mejores…
+
+[14803]
+Esa persona que nos enviaste, 『A1』, parece guardarte mucho rencor. Yo también me sentiría así si me hubieran abandonado…
+
+[14804]
+Sigue con vida.
+
+[14805]
+Por ahora…
+
+[14806]
+Está desempeñándose muy bien en el Mundo Oscuro.
+
+[14807]
+Está destacando de forma extraordinaria. Mi amo espera grandes cosas. ¡Muchas gracias!
+
+[14808]
+Cada vez se hace más fuerte.
+
+[14809]
+Mi amo está bastante impresionado.
+
+[14810]
+Está entrenando duro para la próxima batalla.
+
+[14811]
+Te echa muchísimo de menos.
+
+[14812]
+No lo está haciendo nada mal.
+
+[14813]
+Ahora mismo está de vacaciones.
+
+[14814]
+Tu viejo amigo 『A1』 no consigue hacer amigos y quiere volver a casa contigo.
+
+[14815]
+Por supuesto, no podemos permitirlo…
+
+[14816]
+Parece que se ha adaptado perfectamente.
+
+[14817]
+Entró en combate por primera vez.
+
+[14818]
+Por lo que he oído, no destacó precisamente.
+
+[14819]
+Está en cama con un fuerte resfriado.
+
+[14820]
+La próxima vez, intenta enviarnos reclutas más sanos.
+
+[14821]
+Se ha convertido en una estrella del Mundo Oscuro.
+
+[14822]
+¡Quién lo habría dicho!
+
+[14823]
+¡『A1』, toda una estrella!
+
+[14824]
+Je, je, je.
+
+[14825]
+He oído que tu amigo 『A1』 tiene pareja.
+
+[14826]
+Acaba de casarse.
+
+[14827]
+Tu amigo 『A1』 sale de juerga todas las noches. ¿Qué clase de entrenamiento le diste?
+
+[14828]
+Se ha quedado a cargo de la lavandería.
+
+[14829]
+Mi amo considera que tu amigo 『A1』 es uno de los candidatos a ocupar un alto cargo en el Mundo Oscuro. Por lo demás, últimamente no ha habido grandes cambios.
+
+[14830]
+Acaba de derrotar a un general enemigo.
+
+[14831]
+Mi amo está encantadísimo.
+
+[14832]
+Acepta esto como muestra de nuestro agradecimiento.
+
+[14833]
+Está ascendiendo rápidamente de rango.
+
+[14834]
+Ha derrotado a cien enemigos. Mi amo está contentísimo.
+
+[14835]
+Acaba de recibir un ascenso.
+
+[14836]
+Acepta esto como muestra de nuestro agradecimiento.
+
+[14837]
+Salvó a mi amo de un asesino.
+
+[14838]
+Nos proporcionó información muy valiosa.
+
+[14839]
+Gracias por presentarnos a alguien tan valioso.
+
+[14840]
+Al parecer, se le dan muy bien los masajes.
+
+[14841]
+Si mi amo es feliz, yo también.
+
+[14842]
+Entrenar monstruos resulta muy difícil, incluso para nosotros.
+
+[14843]
+Para entrenar a un monstruo, abre el menú con △ y selecciona «Entrenar».
+
+[14844]
+Así podrás entrenar a cualquiera de tus monstruos.
+
+[14845]
+Los comandos de entrenamiento se consumen al usarlos, pero recibirás uno nuevo cada vez que completes el mapa de una zona.
+
+[14846]
+Ten cuidado: tendrás suficientes comandos para entrenar, pero no para malgastarlos.
+
+[14847]
+Algunos comandos de entrenamiento mejoran el ánimo de tus monstruos y otros aumentan su fuerza.
+
+[14848]
+El objetivo del entrenamiento es despertar las capacidades ocultas de cada monstruo.
+
+[14849]
+Al seleccionar comandos, verás iconos como ATK o DEF.
+
+[14850]
+Utilízalos para decidir qué atributos quieres desarrollar.
+
+[14851]
+Eso determinará cómo se reparten los puntos de atributo al subir de nivel.
+
+[14852]
+Claro que los entrenamientos que mejoran los atributos son exigentes y reducen el ánimo del monstruo.
+
+[14853]
+Si el ánimo de un monstruo baja a 1, podría escaparse.
+
+[14854]
+Para evitarlo, también debes usar comandos que mejoren el ánimo de tus monstruos.
+
+[14855]
+Tienes que encontrar el equilibrio entre la disciplina y el cariño.
+
+[14856]
+Además, si el ánimo de un monstruo alcanza 10, podrá utilizar el comando «Purificar».
+
+[14857]
+Si los entrenas bien, tus monstruos se convertirán en aliados valiosos. ¡Buena suerte!
+
+[14858]
+¿Has visto el Índice de energía oscura en el mapa? Cuando aumenta, significa que el mapa se está acercando al Mundo Oscuro.
+
+[14859]
+Cuando el Índice de energía oscura supera cierto valor, aparece una Puerta al Mundo Oscuro.
+
+[14860]
+El Mundo Oscuro está lleno de demonios poderosos y objetos exóticos. ¡Adéntrate en él y descubre hasta dónde puedes llegar!
+
+[14861]
+Puedes abrir tú mismo la Puerta al Mundo Oscuro. Hay varias maneras de aumentar el Índice de energía oscura.
+
+[14862]
+Completar un mapa sin purificar todos sus portales oscuros aumenta el Índice de energía oscura. También puedes aumentarlo usando cierto objeto o haciendo algo desagradable a un amigo.
+
+[14863]
+Los detalles tendrás que descubrirlos tú.
+
+[14864]
+Je, je, je…
+
+[14865]
+Cuanto mayor sea el Índice de energía oscura de un mapa, más poderoso será el demonio que aparezca…
+
+[14866]
+El Mundo Oscuro podría costarte la vida, pero si de verdad quieres ser un guerrero, vale la pena arriesgarse.
+
+[14867]
+Gracias por venir.
+
+[14868]
+Soy un reclutador del Mundo Oscuro. Allí se han librado guerras durante diez mil años, y el equilibrio de poder cambia prácticamente a diario.
+
+[14869]
+En el Mundo Oscuro hay unos dos mil señores demonio, pero mi amo es uno de los más poderosos.
+
+[14870]
+Estoy aquí buscando luchadores de talento.
+
+[14871]
+Si conoces a alguno, preséntamelo.
+
+[14872]
+Cuidaremos de cualquiera que nos presentes.
+
+[14873]
+Por supuesto, el trato que reciba dependerá de sus habilidades.
+
+[14874]
+A cambio de presentarnos a alguien, te ofreceremos un servicio especial para combinar objetos. Utilizamos una técnica propia del Mundo Oscuro.
+
+[14875]
+Equipa al personaje que nos presentes con los objetos que quieras combinar. Pero hay una condición.
+
+[14876]
+Si el nivel del personaje o de los objetos es demasiado bajo, la combinación no funcionará.
+
+[14877]
+Siempre estoy aquí.
+
+[14878]
+Ven a charlar cuando quieras.
+
+[14879]
+¡Te damos la bienvenida!
+
+[14880]
+¡Has subido de categoría como cliente!
+
+[14881]
+Responde a nuestra encuesta y podrás comprar objetos más poderosos.
+
+[14882]
+¡¡Sin existencias!!
+
+[14883]
+Sentimos mucho las molestias, pero nos hemos quedado sin existencias de los artículos habituales.
+
+[14884]
+Solicitaremos de inmediato más productos mediante una transferencia dimensional.
+
+[14885]
+Llegarán de nuestra sucursal del Mundo Oscuro, así que no sabemos qué productos recibiremos…
+
+[14886]
+Cuando vuelvas a visitarnos, tendremos un buen surtido de objetos.
+
+[14887]
+Te agradecemos la paciencia.
+
+[14888]
+¿Qué te parece nuestra selección actual?
+
+[14889]
+Más armas | Más armaduras | Más objetos poco comunes | La selección está bien así | ¿Qué preferirías?
+
+[14890]
+Objetos más caros | Objetos más baratos | ¿Te interesa el Mundo Oscuro?
+
+[14891]
+Prefieres enfrentarte a enemigos fuertes, ¿verdad?
+
+[14892]
+Si pudieras pedir un deseo, ¿cuál sería?
+
+[14893]
+EXP x3 por combates | EXP x3 por purificación | Dinero x3 | Bonificación de atributos x3 | Gracias por tu colaboración.
+
+[14894]
+Lo tendremos en cuenta a la hora de elegir nuestros productos.
+
+[14895]
+¿Hablas en serio?
+
+[14896]
+No hay suficientes armas | No hay suficientes objetos defensivos | Me gustaría ver más objetos poco comunes | La selección está bien como está
+
+[14897]
+Gracias por colaborar.
+
+[14898]
+Lo tendremos en cuenta cuando decidamos qué productos ofrecer.
+
+[14899]
+¡Sala de música!
+
+[14900]
+¡Bienvenido al archivo de registros!
+
+[14901]
+Registro de objetos | Registro de combates | Explicación | ¡Enhorabuena!
+
+[14902]
+¡Has conseguido más del 10 por ciento de los objetos!
+
+[14903]
+¡Has recibido un Raise ATK!
+
+[14904]
+¡Tu colección de objetos no ha hecho más que empezar!
+
+[14905]
+¡Ahora intenta llegar al 30 %!
+
+[14906]
+¡El 30 %!
+
+[14907]
+…algo especial.
+
+[14908]
+¡Sigue creciendo!
+
+[14909]
+¡El 50 %!
+
+[14910]
+¡Has llegado al 50 %!
+
+[14911]
+¡Un Magic Ring!
+
+[14912]
+¡El 75 %!
+
+[14913]
+¡Has llegado al 75 %!
+
+[14914]
+Has recibido la espada Alondite.
+
+[14915]
+¡Sigue creciendo!
+
+[14916]
+¡El 100 %!
+
+[14917]
+¡Has conseguido el 100 por ciento de los objetos del reino de Paprica!
+
+[14918]
+¡Has conseguido algo increíble!
+
+[14919]
+Aquí tienes una pequeña recompensa por tu esfuerzo.
+
+[14920]
+Has obtenido Warp Engine, Robo Suit y Light Year.
+
+[14921]
+¡Muchas gracias por todo vuestro esfuerzo!
+
+[14922]
+¡Tu hazaña será recordada durante generaciones!
+
+[14923]
+Llevo un registro de todos los objetos encontrados en el reino de Paprica. Si encuentras alguno nuevo, ¡déjame anotarlo!
+
+[14924]
+Añadiré toda la información a mi colección.
+
+[14925]
+Si me ayudas, te daré una sorpresa.
+
+[14926]
+No te preocupes si te deshaces de algún objeto: lo seguiré teniendo registrado.
+
+[14927]
+También llevaré un registro de todas tus batallas.
+
+[14928]
+Por favor, ¡reúne montones de registros de combates y objetos!
+
+[14929]
+¡Apártate de mi camino!
+
+[14930]
+Así que tú estás detrás de todo esto, ¿eh?
+
+[14931]
+¡Te haré entrar en razón a golpes!
+
+[14932]
+¡Ha muerto muchísima gente por tu maldad…!
+
+[14933]
+¡Te llevaré ante la justicia!
+
+[14934]
+No tengo ninguna plegaria que rezar…
+
+[14935]
+¡Pagarás por tus pecados!
+
+[14936]
+¡Maldito seas…! ¡Te arrancaré el corazón y lo veré latir entre mis manos!
+
+[14937]
+(Madre, padre… ¿Me estáis viendo?)
+
+[14938]
+(¡Ahora soy fuerte!)
+
+[14939]
+¡No permitiré que te aproveches así de los sentimientos de la gente!
+
+[14940]
+¡Tu corazón me pertenece!
+
+[14941]
+(¿De verdad está bien matar a este monstruo…?)
+
+[14942]
+¡El Libro Sagrado es lo único en lo que puedo creer de verdad!
+
+[14943]
+¡¡No estoy equivocada!!
+
+[14944]
+¡Un momento! ¡No permitiré que sigas haciendo daño a esa criatura!
+
+[14945]
+Interesante…
+
+[14946]
+¿De verdad quieres pelearte con el gran capitán Homard?
+
+[14947]
+¡Será un placer!
+
+[14948]
+¡Ven a por mí!
+
+[14949]
+Eres bastante fuerte.
+
+[14950]
+Tú tampoco lo haces nada mal.
+
+[14951]
+¡¿U-un m-minino?!
+
+[14952]
+¡Eso es un insulto! ¡Miau!
+
+[14953]
+¡Te arrepentirás de haberme llamado así! ¡Miau!
+
+[14954]
+¡¿U-un gato?!
+
+[14955]
+Espero que no creas que soy un gato corriente… Miau.
+
+[14956]
+¡No soy un gato cualquiera! ¡Miau!
+
+[14957]
+¡Sucio demonio!
+
+[14958]
+¡Te aprovechas de las debilidades de un hombre!
+
+[14959]
+¡Te derrotaré en nombre de la Doncella de la Luz!
+
+[14960]
+¡Aprovecharte de la calvicie de un hombre es caer muy bajo! ¡No lo permitiré!
+
+[14961]
+¡¡¡Prepárate para morir!!!
+
+[14962]
+No quiero tener que hacer esto…
+
+[14963]
+¡Pero debo conseguir que Éclair vuelva a ser la de antes! ¡Perdóname!
+
+[14964]
+No tengo nada contra ti… ¡Pero debo salvar a Éclair! ¡Perdóname!
+
+[14965]
+Así que esto es un señor demonio…
+
+[14966]
+¡Esto promete!
+
+[14967]
+¡Por fin alguien que merece la pena!
+
+[14968]
+¡¡¡Allá voy!!!
+
+[14969]
+Así que eso es un señor demonio… ¡Nunca había visto uno!
+
+[14970]
+¿Tengo alguna posibilidad de ganar…?
+
+[14971]
+¡No! ¡Ahora no puedo dejarme llevar por las dudas!
+
+[14972]
+¡Prometí que protegería a Prier y a la hermana Alouette! ¡Y cumpliré mi palabra!
+
+[14973]
+¡No es tan fuerte!
+
+[14974]
+¡No puedo permitir que gane!
+
+[14975]
+¡Tú no perteneces a este mundo!
+
+[14976]
+¡Doncella de la Luz, vuelve al lugar de donde viniste!
+
+[14977]
+Mmm… Por fin un rival digno de nosotros.
+
+[14978]
+¡Voy a disfrutar de este combate…!
+
+[14979]
+…señor demonio…
+
+[14980]
+¡No puedo dejar que gane! ¡Al fin y al cabo, emprendí este viaje para superar mis propias debilidades!
+
+[14981]
+¿De verdad tenemos que luchar contra esa cosa?
+
+[14982]
+¡¡¡Es enorme!!!
+
+[14983]
+¡Ese zoquete debe aprender que en una pelea no todo depende del tamaño, y yo se lo enseñaré!
+
+[14984]
+(Pero… es bastante grande.
+
+[14985]
+¿Y si esta vez nos retiramos?)
+
+[14986]
+No conviene enfrentarse de frente a un enemigo tan poderoso.
+
+[14987]
+Necesitaremos todas nuestras fuerzas para mantenerlo a raya mientras escapamos.
+
+[14988]
+Desde luego, os sobran los trucos de cobardes…
+
+[14989]
+¡¡¡Arrepiéntete!!!
+
+[14990]
+¿Un señor demonio, eh?
+
+[14991]
+Perfecto.
+
+[14992]
+¡Me servirá de entrenamiento para el día en que me enfrente a mi archienemigo!
+
+[14993]
+¡T-tú…!
+
+[14994]
+¡¿Q-qué eres?!
+
+[14995]
+…Muere.
+
+[14996]
+Así que ya hemos perdido, ¿eh?
+
+[14997]
+¡A ver si puedes decir eso con esta porra metida en la garganta!
+
+[14998]
+¡No dejaré que nadie le haga daño a la hermana Alouette!
+
+[14999]
+¡La protegeré!
+
+[15000]
+¡¡¡Apártate!!!
+
+[15001]
+¡No permitiré que Angelique muera!
+
+[15002]
+Tendría que darle las gracias a vuestra diosa de pacotilla. ¡Por fin tengo rivales dignos de mí!
+
