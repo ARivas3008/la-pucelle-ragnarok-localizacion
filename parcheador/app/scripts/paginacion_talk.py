@@ -6,8 +6,8 @@ from functools import lru_cache
 
 def paginate_words(words, widths, limit=28, rows=3, space=1):
     """Devuelve páginas de líneas; cada línea es una tupla de palabras.
-    Prioridad: cuadros mínimos, evitar cuadros de una palabra/una fila,
-    líneas mínimas, evitar líneas de una palabra, equilibrio visual.
+    Prioridad: cuadros mínimos, líneas mínimas, evitar cuadros de una palabra/una fila,
+    evitar líneas de una palabra, equilibrio visual.
     El llamador debe limitar la entrada a una intervención continua.
     """
     words=tuple(words);widths=tuple(widths)
@@ -31,21 +31,21 @@ def paginate_words(words, widths, limit=28, rows=3, space=1):
     best={n:((0,0,0,0,0,0),())}
     for i in range(n-1,-1,-1):
         winner=None
-        def visit(pos,lines,used,singletons,ragged):
+        def visit(pos,lines,singletons,ragged):
             nonlocal winner
             if lines:
                 suffix,pages=best[pos]
-                page_cost=(1,int(pos-i==1),int(len(lines)==1),
-                           len(lines),singletons,ragged)
+                page_cost=(1,len(lines),int(pos-i==1),
+                           int(len(lines)==1),singletons,ragged)
                 cost=tuple(a+b for a,b in zip(page_cost,suffix))
                 candidate=(cost,(tuple(lines),)+pages)
                 if winner is None or cost<winner[0]:winner=candidate
             if pos==n or len(lines)==rows:return
             for end,length in opts[pos]:
                 # Raggedness is only a tie-breaker; no extra lines to fill space.
-                visit(end,lines+[(pos,end)],used+length,
+                visit(end,lines+[(pos,end)],
                       singletons+int(end-pos==1),ragged+(limit-length)**2)
-        visit(i,[],0,0,0)
+        visit(i,[],0,0)
         if winner is None:raise ValueError('No se pudo paginar')
         best[i]=winner
     pages=tuple(tuple(tuple(words[a:b]) for a,b in page) for page in best[0][1])
