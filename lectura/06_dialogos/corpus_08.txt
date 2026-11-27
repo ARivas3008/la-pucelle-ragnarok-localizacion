@@ -1,0 +1,3033 @@
+LA PUCELLE — 06_dialogos — CORPUS 08
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat ===
+
+[7944]
+Alouette…
+
+[7945]
+¡¿Diosa…?!
+
+[7946]
+¿Eres tú…? ¿Será posible…?
+
+[7947]
+¿La diosa Poitreene?
+
+[7948]
+Busca…
+
+[7949]
+Fátima…
+
+[7950]
+¿Fátima?
+
+[7951]
+El Príncipe Oscuro…
+
+[7952]
+El Príncipe de las Tinieblas... será... cuando lo sepas... él volverá a hacerlo.
+
+[7953]
+Y la Doncella de la Luz… Su vida…
+
+[7954]
+Todo… llegará a su fin… —¿Diosa?
+
+[7955]
+¡Diosa!
+
+[7956]
+Tal vez haya sido una señal de la mismísima diosa…
+
+[7957]
+¿T-tú crees?
+
+[7958]
+Yo creo que solo fue un sueño…
+
+[7959]
+¿A que sí, chicos?
+
+[7960]
+Yo también creo que fue una señal de la diosa.
+
+[7961]
+¡Eres increíble, hermana Alouette! (Si su sueño ha sido una señal, Alouette será la Doncella de la Luz…)
+
+[7962]
+(No. Eso no puede ser.)
+
+[7963]
+Puede que el sueño sea una señal o no, pero no perdemos nada investigando Fátima. —¡Un momento, Croix!
+
+[7964]
+¡¿De qué lado estás?!
+
+[7965]
+Como mínimo, ese lugar llamado Fátima podría ayudar a Alouette a recuperar la memoria.
+
+[7966]
+¿En serio? ¿Solo por eso?
+
+[7967]
+Eso es todo.
+
+[7968]
+¿Por qué te pones tan a la defensiva de repente?
+
+[7969]
+¡N-no estoy a la defensiva…!
+
+[7970]
+(Creía que Croix se pondría de mi parte…)
+
+[7971]
+(¿Y si a Croix le gusta más Alouette que yo…?)
+
+[7972]
+(¡Se me está yendo la cabeza!
+
+[7973]
+¿Qué estoy diciendo?)
+
+[7974]
+(Prier está actuando de un modo extraño.)
+
+[7975]
+(¿No será que le gusta Croix?)
+
+[7976]
+Padre Salade…
+
+[7977]
+¿Sabe de algún lugar llamado Fátima?
+
+[7978]
+No, jamás he oído hablar de ese sitio.
+
+[7979]
+Mmm…
+
+[7980]
+Podrían consultar la biblioteca real. Está en el castillo de Cresson.
+
+[7981]
+Si hoy no tienen nada que hacer, ¿por qué no investigan un poco?
+
+[7982]
+Además, podría haber alguna relación con el Príncipe Oscuro.
+
+[7983]
+¿Qué dices, Prier?
+
+[7984]
+Está bien, está bien.
+
+[7985]
+Lamento haberlos hecho esperar.
+
+[7986]
+¿Qué desean?
+
+[7987]
+Gracias, majestad.
+
+[7988]
+Quisiéramos consultar la biblioteca del castillo para investigar un lugar en particular.
+
+[7989]
+¿La biblioteca?
+
+[7990]
+Sí, si no es mucha molestia.
+
+[7991]
+Me temo que eso no es posible.
+
+[7992]
+No puedo permitir la entrada de personas ajenas a la biblioteca, ni siquiera a petición de la Iglesia de la Santa Doncella.
+
+[7993]
+Madre, ¿no podrías hacer una excepción por esta vez?
+
+[7994]
+Éclair, ¿cuántas veces tengo que repetirte que no me llames «madre» delante de los demás?
+
+[7995]
+Lo siento, reina Crépine.
+
+[7996]
+Éclair…
+
+[7997]
+La familia real debe dar ejemplo. Respetamos la ley incluso cuando nos resulta inconveniente.
+
+[7998]
+Lo comprenderás cuando seas reina.
+
+[7999]
+Hasta entonces, obedece.
+
+[8000]
+(Pobre Éclair…)
+
+[8001]
+Con todos mis respetos, majestad, esto es muy importante.
+
+[8002]
+¡Tiene que ver con el Príncipe Oscuro!
+
+[8003]
+Pero no puedo hacer una excepción así como así…
+
+[8004]
+Majestad, ¿no hay algo que la preocupe últimamente?
+
+[8005]
+Si resolviéramos ese problema, podría dejarnos entrar en la biblioteca como recompensa.
+
+[8006]
+El Caballero Oscuro ronda el castillo.
+
+[8007]
+Si lo derrotan, les concederé lo que piden.
+
+[8008]
+¿El Caballero Oscuro?
+
+[8009]
+Ni Éclair ni yo lo hemos visto, pero dicen que por las noches aparece un caballero con armadura negra.
+
+[8010]
+Mis súbditos están muy inquietos. Hablan de una maldición o de un hechizo maligno.
+
+[8011]
+Hace poco, hasta mi mejor cocinero y mi jardinero dejaron sus puestos por miedo al fantasma.
+
+[8012]
+Hay que hacer algo al respecto.
+
+[8013]
+…Todavía no hay rastro de él.
+
+[8014]
+Oye, Culotte, ¿cómo te enteraste del problema de la reina?
+
+[8015]
+Fue fácil.
+
+[8016]
+Pensé que alguien tan importante como una reina tendría que tener algún problema.
+
+[8017]
+¿Y eso es todo?
+
+[8018]
+¿O sea que lo adivinaste?
+
+[8019]
+¡Ja, ja, ja!
+
+[8020]
+¡Bien hecho!
+
+[8021]
+Sí, bien hecho, Culotte.
+
+[8022]
+Todo ha sido gracias a ti.
+
+[8023]
+(H-hermana Alouette…)
+
+[8024]
+¡Chist!
+
+[8025]
+¡Ahí viene!
+
+[8026]
+¡Alto ahí!
+
+[8027]
+No sé qué pretendes aquí, pero va siendo hora de que te busques otra ocupación.
+
+[8028]
+¡¿Éclair?!
+
+[8029]
+¡¿Qué significa esto?!
+
+[8030]
+Quizá sea una faceta oculta de la personalidad de Éclair.
+
+[8031]
+La oscuridad de su corazón debió crecer tanto que acabó creando a otra Éclair.
+
+[8032]
+Y, a juzgar por cómo se comportó antes, ni siquiera es consciente de ello.
+
+[8033]
+Pero, si la oscuridad de su corazón ha podido crear algo así…
+
+[8034]
+Sí. Si no hacemos algo, acabará convirtiéndose en demonio.
+
+[8035]
+Pero si actuamos ahora…
+
+[8036]
+Si purificamos ahora la oscuridad de su corazón, quizá podamos salvarla.
+
+[8037]
+¿Y cómo purificamos la oscuridad de su corazón?
+
+[8038]
+Cierren todos los ojos y recen a la diosa…
+
+[8039]
+Entendido.
+
+[8040]
+En nombre de la Doncella de la Luz, te lo suplicamos…
+
+[8041]
+Oh, diosa Poitreene…
+
+[8042]
+Guíanos hasta el corazón de esta niña tan abrumada por la oscuridad.
+
+[8043]
+Bien, abran los ojos.
+
+[8044]
+¿D-dónde estamos…?
+
+[8045]
+En el corazón de Éclair.
+
+[8046]
+¡¿M-me estás tomando el pelo?!
+
+[8047]
+¡Esto sí que es increíble…!
+
+[8048]
+…Estoy bien.
+
+[8049]
+Solo me falta un poco el aire.
+
+[8050]
+No me extraña.
+
+[8051]
+Ha sido un milagro muy poderoso.
+
+[8052]
+Algo así podría matar a un cazador de demonios normal.
+
+[8053]
+¡No vuelvas a correr semejante riesgo!
+
+[8054]
+Pero no te preocupes. Estaré bien.
+
+[8055]
+Debemos librar cuanto antes a Éclair de la oscuridad que se ha apoderado de ella.
+
+[8056]
+¡Vaya, pero si es Prier!
+
+[8057]
+¡Hola, hermana mayor!
+
+[8058]
+¡No te acerques!
+
+[8059]
+Me vas a obligar a ser reina, ¿verdad?
+
+[8060]
+¡Vamos!
+
+[8061]
+¡Admítelo!
+
+[8062]
+Eh, Éclair…
+
+[8063]
+Seré reina…
+
+[8064]
+Je, je.
+
+[8065]
+¡Era broma!
+
+[8066]
+¿Crees que soy tan tonta?
+
+[8067]
+¡Ña, ña, ña, ña!
+
+[8068]
+¡Atrápame si puedes!
+
+[8069]
+Hoy no me encuentro bien. Por favor, vete.
+
+[8070]
+No sirvo para ser la Doncella de la Luz. Por favor, déjame en paz.
+
+[8071]
+¡Sí! ¡Qué lata tener que entrenar para ser la Doncella de la Luz!
+
+[8072]
+¡No pienso hacerlo!
+
+[8073]
+Hermana mayor… ¿Por qué tengo que hacer tantas cosas que detesto?
+
+[8074]
+Quiero ser libre.
+
+[8075]
+¿Es que nunca podré ser yo misma?
+
+[8076]
+Hay cosas que de verdad no quiero hacer.
+
+[8077]
+¿Por qué no puedo decir que no quiero hacerlas?
+
+[8078]
+No quiero ser la Doncella de la Luz. No quiero ser reina.
+
+[8079]
+Hermana mayor…
+
+[8080]
+¿Qué es la libertad?
+
+[8081]
+¿Qué es la responsabilidad?
+
+[8082]
+Ja, ja, ja.
+
+[8083]
+Sí, dímelo, hermana mayor.
+
+[8084]
+Todos esperan que sea la próxima reina y la Doncella de la Luz. Debe de ser muy duro.
+
+[8085]
+Eso alimentó la oscuridad en su interior, hasta crear a esa otra Éclair…
+
+[8086]
+Es que…
+
+[8087]
+Deberías…
+
+[8088]
+¡No te preocupes por eso!
+
+[8089]
+Deja de preocuparte por tu posición y por lo que piensen los demás. ¡Vive a tu manera!
+
+[8090]
+Intenta tomártelo con calma, ¿vale?
+
+[8091]
+¡¿Cómo vas a saber lo que se siente al ser la próxima reina?!
+
+[8092]
+¡¿Cómo vas a entender lo que es tener a todo el mundo contando contigo?!
+
+[8093]
+¡Yo quería que entendieras cómo me sentía!
+
+[8094]
+Pero la otra Éclair… ¡Ella jamás se atrevería a decir algo así!
+
+[8095]
+¡Siempre finge ser una niña buena y obedece a su madre en todo…!
+
+[8096]
+¡Como una marioneta!
+
+[8097]
+¡Por eso tuve que aparecer!
+
+[8098]
+¿Verdad que te gusta más esta Éclair que la otra?
+
+[8099]
+Mira, no sé qué eres, pero podría acabar contigo sin esfuerzo.
+
+[8100]
+¡Croix!
+
+[8101]
+Solo tenemos que expulsarla, ¿no?
+
+[8102]
+Esta es la forma más rápida.
+
+[8103]
+¡Pero ella también es Éclair!
+
+[8104]
+¡No quiero que siga sufriendo!
+
+[8105]
+¡Por favor!
+
+[8106]
+¡Vuelve a ser la de siempre, Éclair!
+
+[8107]
+Así que tú también prefieres a la otra Éclair… ¿verdad?
+
+[8108]
+¿Prefieres a esa muñeca?
+
+[8109]
+¿Esa muñeca que hace todo lo que le ordenan?
+
+[8110]
+¡Los odio a todos!
+
+[8111]
+¡Desaparezcan todos!
+
+[8112]
+Así que Éclair era el Caballero Oscuro desde el principio…
+
+[8113]
+He fracasado como madre.
+
+[8114]
+No tenía ni idea de la presión que soportaba mi hija…
+
+[8115]
+Dejaré que descanse una temporada.
+
+[8116]
+Sí, me parece lo mejor.
+
+[8117]
+Este… ¿Majestad?
+
+[8118]
+Por favor, trate bien a Éclair.
+
+[8119]
+Tú eres Prier, ¿verdad?
+
+[8120]
+Mi hija me ha hablado de ti.
+
+[8121]
+No sonríe muy a menudo, pero siempre parecía feliz cuando hablaba de ti.
+
+[8122]
+Debe de tenerte mucho cariño.
+
+[8123]
+Quizá puedas convencerla de que…
+
+[8124]
+No… Por favor, sigue siendo su amiga.
+
+[8125]
+Por supuesto, majestad.
+
+[8126]
+Tal como prometí, pueden entrar en la biblioteca real.
+
+[8127]
+Pueden consultarla siempre que quieran.
+
+[8128]
+¿Has encontrado algo?
+
+[8129]
+Nada.
+
+[8130]
+Ni una pista.
+
+[8131]
+¡Con tanto libro, uno diría que debería haber algo útil!
+
+[8132]
+¡¿Q-qué pasa?!
+
+[8133]
+¡La estantería!
+
+[8134]
+¡Un pasadizo secreto!
+
+[8135]
+¡Casi me muero del susto!
+
+[8136]
+¡Nunca imaginé que aquí hubiera un pasadizo secreto!
+
+[8137]
+¿A que sí, chicos?
+
+[8138]
+¡¿Qué hacen todos ahí?!
+
+[8139]
+Entiendo lo de Culotte, pero ¿Croix?
+
+[8140]
+¡¿Por qué te agarras a Alouette?!
+
+[8141]
+¡Los hombres de hoy no tienen remedio!
+
+[8142]
+¡Dejar sola a una mujer tan frágil e indefensa como yo! ¡Será posible!
+
+[8143]
+(¿Y por qué me pongo tan furiosa?)
+
+[8144]
+¿Q-qué le pasa a Prier?
+
+[8145]
+Creo que está enfadada porque ni ella misma entiende lo que siente.
+
+[8146]
+¿Hoy te cuesta un poco pensar, o qué?
+
+[8147]
+¡¿Por qué tardan tanto?! ¡Como no se apuren, los dejo atrás!
+
+[8148]
+Mmm…
+
+[8149]
+¿Es un callejón sin salida?
+
+[8150]
+¿Y esto qué es?
+
+[8151]
+Desde luego, es feísimo.
+
+[8152]
+¡Ay…! ¡¿Pero qué crees que haces?!
+
+[8153]
+¿Así que son humanos?
+
+[8154]
+Vaya, vaya… Qué extraño.
+
+[8155]
+¿Q-quién eres?
+
+[8156]
+¿Yo?
+
+[8157]
+Me llaman Hermes.
+
+[8158]
+¿Y ustedes quiénes son?
+
+[8159]
+S-somos de la Iglesia de la Santa Doncella. Hemos venido a investigar…
+
+[8160]
+Nunca había oído hablar de ella.
+
+[8161]
+¿Son mendigos?
+
+[8162]
+¡Somos religiosas!
+
+[8163]
+Servimos a la diosa Poitreene y a la Doncella de la Luz. —Mmm… ¿Y qué hacen aquí, hermanas?
+
+[8164]
+Hemos venido a investigar un lugar llamado Fátima.
+
+[8165]
+Ya veo… Sí, sí…
+
+[8166]
+Sí, ya veo…
+
+[8167]
+Así que, por fin, ha llegado el momento…
+
+[8168]
+Eso significa que tú…
+
+[8169]
+Mmm… Sí…
+
+[8170]
+Tienen una ardua tarea por delante…
+
+[8171]
+Oh, no tardarán en descubrirlo.
+
+[8172]
+¿Así que quieren saber de Fátima, eh?
+
+[8173]
+¿Sabes algo sobre ese lugar?
+
+[8174]
+Por supuesto.
+
+[8175]
+¿Acaso no sabes quién soy?
+
+[8176]
+Soy el Mediador.
+
+[8177]
+Estoy entre la diosa Poitreene y el ángel caído Calamity.
+
+[8178]
+Sé cuanto ocurre en este mundo. Bueno, casi todo.
+
+[8179]
+¿Eres un mediador?
+
+[8180]
+Digamos que soy una especie de guardián. Velo por el equilibrio entre la luz y la oscuridad.
+
+[8181]
+Pero, si eres tan importante, ¿qué haces aquí?
+
+[8182]
+Ni yo mismo lo sé…
+
+[8183]
+Hace cientos de años… No, miles, que llegué aquí…
+
+[8184]
+Ya ni recuerdo por qué…
+
+[8185]
+¿Crees que podemos fiarnos de este tipo?
+
+[8186]
+Será mejor preguntarle. No tenemos ninguna otra pista.
+
+[8187]
+Supongo que tienes razón.
+
+[8188]
+Por preguntar no perdemos nada.
+
+[8189]
+¿Nos contarías lo que sabes sobre Fátima?
+
+[8190]
+Con mucho gusto.
+
+[8191]
+Pero tendrá un precio.
+
+[8192]
+¡Pues claro!
+
+[8193]
+¿Qué esperaban?
+
+[8194]
+¿Qué clase de idiota da información gratis?
+
+[8195]
+¿Pero qué les pasa a ustedes?
+
+[8196]
+Entonces, ¿cuánto nos va a costar?
+
+[8197]
+No hay nada que me guste más que las gemas…
+
+[8198]
+Si me traen una buena piedra preciosa, les contaré encantado lo que quieran saber.
+
+[8199]
+¿Una piedra preciosa…?
+
+[8200]
+¡Vamos, hombre!
+
+[8201]
+¡No tenemos ninguna gema!
+
+[8202]
+Era de esperar. En cuanto los vi supe que eran unos muertos de hambre… ¡Un momento!
+
+[8203]
+¡Ajá!
+
+[8204]
+¡Ya lo tengo!
+
+[8205]
+¡Huelo una gema de lo más suculenta en el monte Tarte!
+
+[8206]
+Vayan a buscarla y tráiganmela.
+
+[8207]
+Entonces les hablaré de Fátima.
+
+[8208]
+¿Hay piedras preciosas en el monte Tarte?
+
+[8209]
+Puede ser…
+
+[8210]
+¡Eh! ¡Esa es la nave del capitán Homard!
+
+[8211]
+Son piratas del aire. Seguro que esconden toda clase de tesoros.
+
+[8212]
+¡Apuesto a que llevan a bordo la gema que quiere Hermes!
+
+[8213]
+Yo también lo creo.
+
+[8214]
+No se me ocurre dónde más podría estar.
+
+[8215]
+¡Muy bien, pues!
+
+[8216]
+¡Vamos a llevarnos todas esas gemas!
+
+[8217]
+Ejem… Creo que eso se llama robar…
+
+[8218]
+Además, solo necesitamos una, ¿recuerdas?
+
+[8219]
+Procuremos no perder de vista nuestro objetivo.
+
+[8220]
+¡Ajá! ¡Ahí está! ¡Esa tiene que ser!
+
+[8221]
+¡Es enooooorme…!
+
+[8222]
+No podemos llevárnosla así como así, ¿verdad?
+
+[8223]
+Eso sería… robar…
+
+[8224]
+¿Verdad? ¿Chicos?
+
+[8225]
+Bueno, podríamos tomarla prestada un ratito sin decírselo…
+
+[8226]
+¡Eso viene a ser lo mismo!
+
+[8227]
+No hacía falta que me pegaras…
+
+[8228]
+No he sido yo, ha sido la diosa. Un castigo divino, ¿sabes?
+
+[8229]
+¡Vamos, larguémonos antes de que vuelvan!
+
+[8230]
+¿Estás segura de que estamos haciendo lo correcto?
+
+[8231]
+¡Alto ahí!
+
+[8232]
+¿Creen que pueden llevarse las cosas ajenas como si nada?
+
+[8233]
+¡Homard! ¡Haz que caminen por la tabla!
+
+[8234]
+¡Por la tabla!
+
+[8235]
+Un momento…
+
+[8236]
+¿No nos conocimos cuando luchábamos contra aquella criatura gigantesca?
+
+[8237]
+¡Claro! ¡Han decidido seguir mis pasos y convertirse en piratas del aire!
+
+[8238]
+¡Déjanos explicarte lo que pasó!
+
+[8239]
+Fátima, ¿eh?
+
+[8240]
+¿A bordo?
+
+[8241]
+¡Les daré todas las joyas de inochium que quieran!
+
+[8242]
+¡Pero, a cambio, tienen que llevarme con ustedes a Fátima!
+
+[8243]
+¡Fátima! ¡Una tierra olvidada, envuelta en un velo de misterio!
+
+[8244]
+¡Sí! ¡Sí!
+
+[8245]
+¡Ya puedo imaginármelo!
+
+[8246]
+¡La aventura perfecta para un hombre de verdad como yo!
+
+[8247]
+¡Ya está decidido! ¡No hay tiempo que perder!
+
+[8248]
+¡Llevémosle la gema a ese tal Hermes!
+
+[8249]
+¡El capitán Homard y su tripulación se han unido al grupo!
+
+[8250]
+Eh…
+
+[8251]
+Un momento…
+
+[8252]
+¿Pero qué acaba de pasar aquí…?
+
+[8253]
+¡Ah! Me trajeron la gema, tal como les pedí. Muy bien.
+
+[8254]
+Entonces, ¿qué querían saber?
+
+[8255]
+¡Fátima!
+
+[8256]
+Ah, sí, ¡es verdad!
+
+[8257]
+Últimamente se me olvidan las cosas. No le desearía la vejez ni a mi peor enemigo…
+
+[8258]
+¡Fátima!
+
+[8259]
+Ya, ya lo sé.
+
+[8260]
+Solo estaba bromeando.
+
+[8261]
+Bien, empecemos.
+
+[8262]
+Presten atención.
+
+[8263]
+Y eso es todo.
+
+[8264]
+¿Sabes por qué Fátima quedó destruida en una sola noche?
+
+[8265]
+Claro que lo sé. Soy Hermes, el Mediador.
+
+[8266]
+Digamos que el Príncipe Oscuro tuvo algo que ver.
+
+[8267]
+Eso te lo digo gratis, pero no puedo contarte nada más.
+
+[8268]
+Un Mediador no puede andar alterando el equilibrio del universo.
+
+[8269]
+No estaría nada bien.
+
+[8270]
+Ojalá pudiera ayudarlos.
+
+[8271]
+Pronto verán el secreto de Fátima con sus propios ojos.
+
+[8272]
+Hasta entonces, tendrán que esperar y quedarse con la intriga…
+
+[8273]
+¿En Fátima?
+
+[8274]
+¡Entonces pongamos rumbo a Fátima!
+
+[8275]
+¡Vamos a Fátima!
+
+[8276]
+¡Así se habla!
+
+[8277]
+¡No sé nada de Fátima, pero no hay lugar al que no pueda llegar el Escargot!
+
+[8278]
+¡En marcha!
+
+[8279]
+¡A Fátima!
+
+[8280]
+¿Van a Fátima? Antes, déjenme darles un consejo…
+
+[8281]
+Nunca se sabe qué nos deparará la vida.
+
+[8282]
+Sean sinceros con sus propios sentimientos y evitarán arrepentirse.
+
+[8283]
+Ese es mi único consejo.
+
+[8284]
+Ah, y tú, señorita…
+
+[8285]
+¿Yo?
+
+[8286]
+Parece que tienes a cierto hombre en la cabeza… Recuerda este consejo también cuando se trate de él.
+
+[8287]
+Sé sincera contigo misma.
+
+[8288]
+¡E-eh! ¡Un momento!
+
+[8289]
+¡¿Y eso a qué viene?!
+
+[8290]
+¡¿Qué tiene que ver eso con nada?!
+
+[8291]
+¡Para empezar, no tengo a ningún hombre en la cabeza!
+
+[8292]
+¡Eh! ¡¿Qué están mirando?! ¡Les digo que no hay ningún hombre!
+
+[8293]
+Ay, ¿por qué tendré que ser tan endiabladamente guapo?
+
+[8294]
+Así que te has enamorado de mí, ¿eh? Bueno, no eres la primera…
+
+[8295]
+¡Tú no te metas!
+
+[8296]
+Mmm… Nunca habría imaginado que te gustara alguien como él…
+
+[8297]
+¡Te he dicho que no es él!
+
+[8298]
+¡Bah, olvídenlo!
+
+[8299]
+Como reina del reino de Paprica, les encomiendo oficialmente explorar las tierras de Fátima.
+
+[8300]
+¿Le parece bien? —Sí, majestad.
+
+[8301]
+¿Por qué no pasan la noche en el castillo para prepararse para el viaje?
+
+[8302]
+No hay nada mejor que esto para olvidarse un poco de las preocupaciones.
+
+[8303]
+Nos marchamos mañana…
+
+[8304]
+Supongo que eso significa que nos despediremos de Paprica por un tiempo.
+
+[8305]
+Éclair… ¿Estará bien sin mí?
+
+[8306]
+¿Así que te marchas mañana?
+
+[8307]
+…Sí.
+
+[8308]
+Ten cuidado…
+
+[8309]
+Por favor, vuelve sana y salva, hermana mayor.
+
+[8310]
+Mi madre me lo ha contado todo. Gracias por ayudarme.
+
+[8311]
+Mi madre dice que puedo descansar una temporada.
+
+[8312]
+Sí, me alegro.
+
+[8313]
+Pero tarde o temprano tendré que empezar a prepararme para ser reina.
+
+[8314]
+Cuando llegue ese momento, estaré aislada del mundo exterior. No podré ver ni a ti ni a Culotte.
+
+[8315]
+¡Pero lo que de verdad quiero es ir con ustedes!
+
+[8316]
+¡No quiero ser reina! ¡Quiero salir de este viejo castillo!
+
+[8317]
+¡Quiero estar contigo y con Culotte!
+
+[8318]
+Perdóname, hermana mayor.
+
+[8319]
+Seguro que te parezco una cría…
+
+[8320]
+Tengo que aceptar que voy a ser reina, ¿verdad?
+
+[8321]
+¡Tienes que ser más sincera contigo misma!
+
+[8322]
+¡No quieres ser reina! Quieres venir con nosotros, ¿verdad?
+
+[8323]
+¡Pues hazlo!
+
+[8324]
+P-pero ¿y mi madre? ¿Y mi pueblo?
+
+[8325]
+¡Nunca serás una buena reina si te obligan a serlo!
+
+[8326]
+Solo se vive una vez.
+
+[8327]
+¡Disfruta de la vida y no te preocupes tanto por lo que piensen los demás!
+
+[8328]
+¡No te amargues la vida solo para complacer a todo el mundo!
+
+[8329]
+Eres especial, hagas lo que hagas.
+
+[8330]
+Y, pase lo que pase, ¡siempre seré tu hermana mayor…!
+
+[8331]
+¡Adelante!
+
+[8332]
+No tenía ni idea de que Éclair se sintiera así.
+
+[8333]
+Majestad…
+
+[8334]
+Necesito hablar con usted.
+
+[8335]
+Supongo que intentar detenerte no serviría de nada.
+
+[8336]
+Está bien. Sal a conocer el mundo, hija mía.
+
+[8337]
+¿Cómo? ¡¿Qué?!
+
+[8338]
+¿Qué está pasando?
+
+[8339]
+El padre Salade me lo ha contado todo.
+
+[8340]
+…Éclair.
+
+[8341]
+¡Madre!
+
+[8342]
+Al final todo ha salido bien, ¿verdad, Éclair?
+
+[8343]
+¡Baterías a plena carga!
+
+[8344]
+¡No me llames jefe!
+
+[8345]
+¡Allá vamos, bolas de pelo!
+
+[8346]
+¡El Escargot está despegando!
+
+[8347]
+¡Rumbo a Fátima!
+
+[8348]
+Adiós…
+
+[8349]
+Que la luz de la esperanza los acompañe siempre, vayan donde vayan.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk07_jp.dat ===
+
+[8350]
+En este Sacro Reino de Paprica, las mujeres son quienes heredan el trono.
+
+[8351]
+Por eso, la próxima reina será seguramente Éclair, la única hija de la reina Crépine.
+
+[8352]
+A mí esa gente de la Iglesia de la Madre Divina nunca me ha caído bien.
+
+[8353]
+¡Andan encapuchados incluso a plena luz del día! ¡Más sospechosos, imposible!
+
+[8354]
+¡Hace un rato vino uno de sus fieles a intentar convertirme!
+
+[8355]
+«¡Si se une ahora a la Iglesia de la Madre Divina, le regalamos un vale para un viaje a unas aguas termales!»
+
+[8356]
+¡Eso fue lo que me soltó, el muy caradura!
+
+[8357]
+¡Y pensar que estuve a punto de hacerme fiel suyo!
+
+[8358]
+Parece que los de la banda del Escargot han venido… ¿Qué fechoría estarán tramando?
+
+[8359]
+¡Mientras uno es joven, hay que lanzarse sin miedo!
+
+[8360]
+¡Ánimo, jóvenes!
+
+[8361]
+¿A que he quedado de lo más gallardo?
+
+[8362]
+¡No hace falta disimularlo, no hace falta!
+
+[8363]
+¡Lo sé toooodo!
+
+[8364]
+En fin, ¡mucho ánimo!
+
+[8365]
+Oye, tú eres monja, ¿no?
+
+[8366]
+¿Para qué sirve la religión?
+
+[8367]
+Venga, dímelo.
+
+[8368]
+Pues…
+
+[8369]
+¿Para qué servirá…?
+
+[8370]
+¿De verdad existe la diosa?
+
+[8371]
+Ahora que lo pienso, yo tampoco la he visto nunca.
+
+[8372]
+¿Por qué la gente se pelea en nombre de los dioses?
+
+[8373]
+E-eso es…
+
+[8374]
+¿De dónde venimos los seres humanos y adónde vamos?
+
+[8375]
+¿No puedes hacer preguntas más propias de tu edad?
+
+[8376]
+¿Quién es más fuerte, la diosa Poitreene o el ángel caído Calamity?
+
+[8377]
+¿Para qué existen los seres humanos?
+
+[8378]
+¿Por qué los humanos no son sinceros con sus propios sentimientos?
+
+[8379]
+Cree en ti misma y sé sincera con tus sentimientos, Prier…
+
+[8380]
+¡¿Eh?!
+
+[8381]
+…¿Será posible que tú…?
+
+[8382]
+¡Eh, Prier!
+
+[8383]
+¿Qué te parece tener una cita con este viejo algún día?
+
+[8384]
+¿Por qué todos los hombres que se me acercan son unos viejos como este…?
+
+[8385]
+Bueno, peor sería que nadie te hiciera caso, ¿no?
+
+[8386]
+Hace un rato, un hombre con gafas de sol andaba preguntando por los asesinatos recientes.
+
+[8387]
+¿Será un agente de la policía real?
+
+[8388]
+Dicen que en el bosque de Munier habita un temible Señor del Bosque.
+
+[8389]
+Más vale no tentar a la suerte.
+
+[8390]
+Lo mejor es no acercarse.
+
+[8391]
+¿Dicen que te encontraste con el Señor del Bosque de Munier?
+
+[8392]
+¿Y qué pasó?
+
+[8393]
+¿Lo derrotaste?
+
+[8394]
+Dicen que el castillo de Cresson está patas arriba por los rumores del fantasma del Caballero Oscuro.
+
+[8395]
+Qué aburrimiento…
+
+[8396]
+Prier, ¿qué te parece una cita conmigo?
+
+[8397]
+¡Pues lo siento por ti!
+
+[8398]
+¡Yo no tengo tiempo que perder!
+
+[8399]
+¿Verdad, Croix?
+
+[8400]
+Pues yo no veo qué tiene de malo.
+
+[8401]
+¿Por qué no sales con ese señor?
+
+[8402]
+(¡Grrr…!
+
+[8403]
+¡¿Por qué no me detiene?!)
+
+[8404]
+(¡¿Y le parece bien que salga con un viejo como este?!)
+
+[8405]
+¿Prier no ha venido hoy?
+
+[8406]
+¡Eh, Prier!
+
+[8407]
+¿No quieres salir conmigo?
+
+[8408]
+Si esta misión acaba bien, a lo mejor me lo pienso.
+
+[8409]
+¡¿De verdad?!
+
+[8410]
+A los Mooboo los llaman así porque dicen «mooboo», ¿no?
+
+[8411]
+¡Qué curioso!
+
+[8412]
+¿Ah, sí…?
+
+[8413]
+(Diosa…)
+
+[8414]
+(Por favor, que esta noche nos sirvan filetes de Mooboo para cenar…)
+
+[8415]
+¡Vaya, hermana Prier!
+
+[8416]
+¡Hasta rezas por la felicidad de los animales! Parece que por fin estás tomando conciencia de tus deberes como religiosa.
+
+[8417]
+B-bueno, claro…
+
+[8418]
+¡P-p-por supuesto!
+
+[8419]
+(No se deje engañar, hermana Alouette). (Seguro que estaba pensando: «¡Quiero comer un filete de Mooboo!»…)
+
+[8420]
+Siempre «mooboo, mooboo»… ¿No sabes decir otra cosa?
+
+[8421]
+¡Piernas gordas!
+
+[8422]
+Por cierto, ¿es verdad que de joven el padre Salade tumbó a un Gran Mooboo de un solo puñetazo?
+
+[8423]
+Qué buena vida llevan los Mooboo…
+
+[8424]
+Se pasan el día diciendo «mooboo»…
+
+[8425]
+Seguro que no se preocupan por nada.
+
+[8426]
+Mooboo, ¿eh?…
+
+[8427]
+¡Qué recuerdos!
+
+[8428]
+Antes hacía locuras con un Gran Mooboo que era el doble de grande que este…
+
+[8429]
+Esta mañana también he ido a rezar a la Iglesia de la Madre Divina.
+
+[8430]
+Si sigo tan sana, se lo debo a la Madre Divina.
+
+[8431]
+¡Bendita sea, bendita sea!
+
+[8432]
+¿Ha habido otro asesinato?
+
+[8433]
+Cada vez es más peligroso vivir en este país.
+
+[8434]
+En la Iglesia de la Madre Divina, ¿a quién se refieren exactamente con «Madre Divina»?
+
+[8435]
+¿Será la diosa Poitreene?
+
+[8436]
+Dicen que Barsom, el leñador del bosque de Munier, mantiene una relación a distancia con Suzanne, que vive en esta ciudad.
+
+[8437]
+¡Ay, quién fuera joven!
+
+[8438]
+Dicen que Barsom, el leñador, y Suzanne han decidido irse a vivir juntos.
+
+[8439]
+¡Y fueron felices y comieron perdices!
+
+[8440]
+Por lo visto, Suzanne dejó a Barsom, pero ahora él está muy enamorado de su nueva novia.
+
+[8441]
+Dicen que en el bosque de Munier hay un demonio que anda buscando pelo.
+
+[8442]
+¡Ah!
+
+[8443]
+¡Ay, no, no!
+
+[8444]
+Con este tiempo tan agradable, me he quedado dormido.
+
+[8445]
+Dicen que van a reformar la iglesia.
+
+[8446]
+Parece que consiguió salir del paso con alguna excusa.
+
+[8447]
+…Aunque la excusa es un poco forzada.
+
+[8448]
+(¡Cómo me gustaría darle un puñetazo a esta mujer!)
+
+[8449]
+No estarás pensando en pegarle a esta señora, ¿verdad?
+
+[8450]
+¡P-por supuesto que no!
+
+[8451]
+¡Una hermana que sirve a la diosa jamás pensaría algo así!
+
+[8452]
+El otro día conocí a Noir, el líder de la Iglesia de la Madre Divina.
+
+[8453]
+Tiene un aire misterioso… ¡Y eso lo hace aún más atractivo!
+
+[8454]
+¡Ay, qué emoción y qué vergüenza!¥… ¡Pero qué idiota es esta mujer!
+
+[8455]
+En la Iglesia de la Madre Divina venden montones de artículos maravillosos que funcionan de verdad.
+
+[8456]
+Yo compré un «remedio para conservar una piel hermosa eternamente».
+
+[8457]
+¿Has oído hablar de los nuevos productos de la Iglesia de la Madre Divina?
+
+[8458]
+¡Dicen que hay un remedio que te deja el pelo bien tupido!
+
+[8459]
+Bueno, eso a mí no me hace falta.
+
+[8460]
+He comprado tantas cosas de la Iglesia de la Madre Divina que estoy hasta el cuello de deudas… ¡Ay!
+
+[8461]
+Últimamente, por mucho que vaya a la capilla de la Iglesia de la Madre Divina, no consigo ver a Noir.
+
+[8462]
+¿Estará enfermo?
+
+[8463]
+Dicen que todos los dirigentes de la Iglesia de la Madre Divina han desaparecido sin dejar rastro.
+
+[8464]
+Un día tras otro, lavando los calzoncillos de mi marido…
+
+[8465]
+¡Que se los lave él de vez en cuando!
+
+[8466]
+Te comprendo perfectamente.
+
+[8467]
+¡Pues mi hermana mayor es de lo peor!
+
+[8468]
+Me encasqueta toda su ropa, por muy sucia que esté.
+
+[8469]
+¡Qué descarado!
+
+[8470]
+¡Deberías sentirte honrado de lavar la ropa de una hermana tan guapa como yo!
+
+[8471]
+¡Ay! Ya estoy harta de lavar los calzoncillos de mi marido.
+
+[8472]
+¿Eh?
+
+[8473]
+Oye, muchacho, ¡qué guapo eres!
+
+[8474]
+¡Los tuyos sí que te los lavaría encantada!
+
+[8475]
+¡No te los quites aquííí!
+
+[8476]
+…Lo que me faltaba.
+
+[8477]
+¿Por qué solo me rodean hombres que no valen para nada?
+
+[8478]
+Dios los cría y ellos se juntan.
+
+[8479]
+Aunque todos los días hagamos lo mismo, tal vez esa rutina sea una felicidad difícil de encontrar.
+
+[8480]
+¡Homard, de la banda del Escargot, sí que es un hombre apuesto!
+
+[8481]
+Si voy a lavar calzoncillos, prefiero que sean los de un hombre como él.
+
+[8482]
+Tú eres Homard, ¿verdad?
+
+[8483]
+¿Te lavo los calzoncillos?
+
+[8484]
+Lo siento, pero yo tengo por norma no usar calzoncillos.
+
+[8485]
+Je… Es broma.
+
+[8486]
+(Este tipo…
+
+[8487]
+…no es alguien a quien deba subestimar.)
+
+[8488]
+¡Ea!
+
+[8489]
+¡Y… arriba!
+
+[8490]
+¡Qué difícil es quitar estas manchas amarillas!
+
+[8491]
+Aunque se acabara el mundo, yo seguiría aquí lavando calzoncillos…
+
+[8492]
+Cuando llegues al mapa del mundo, abre el menú con el botón △ y guarda la partida.
+
+[8493]
+Cuando te arrepientas, ya será demasiado tarde.
+
+[8494]
+Lo importante es guardar la partida con frecuencia.
+
+[8495]
+Por cierto, también puedes guardar desde la «pantalla de selección de mapas» abriendo el menú con el botón △.
+
+[8496]
+Dicen que un niño vio un zombi en la Panza del Diablo. ¿Será verdad?
+
+[8497]
+¿La Panza del Diablo…?
+
+[8498]
+Es el nombre de unas antiguas alcantarillas que hay a las afueras de la ciudad.
+
+[8499]
+¿No te acuerdas?
+
+[8500]
+¡Si antes íbamos allí a explorar a menudo!
+
+[8501]
+¡Ah! ¿Te refieres a ese sitio?
+
+[8502]
+Vaya, así que lo llaman la Panza del Diablo…
+
+[8503]
+¿Qué tal les va a los dos?
+
+[8504]
+¿Ya se han acostumbrado al trabajo de La Pucelle?
+
+[8505]
+¡Está chupado!
+
+[8506]
+¡Uf! Hay tantas cosas que aprender, hermana Olive…
+
+[8507]
+Je, je.
+
+[8508]
+Al principio nos pasa a todos.
+
+[8509]
+Espero que pronto sean miembros de La Pucelle hechos y derechos.
+
+[8510]
+Es decir, el padre Salade la fundó hace 35 años.
+
+[8511]
+Que en solo 35 años se haya levantado una catedral tan espléndida se debe al apoyo de la familia real.
+
+[8512]
+Dicen que el padre Salade tuvo que esforzarse durante mucho tiempo para ganarse la confianza de la familia real.
+
+[8513]
+Según las Escrituras, hace 50 años la Doncella de la Luz luchó contra el Príncipe Oscuro.
+
+[8514]
+Pero no dicen cómo terminó la batalla.
+
+[8515]
+Me pregunto por qué…
+
+[8516]
+¡Bienvenidos a «Yamasemi», el restaurante de udon!
+
+[8517]
+Pronto es el cumpleaños de mi novio.
+
+[8518]
+Hermana, ¿qué regalo crees que le gustaría?
+
+[8519]
+No pierdas el tiempo preguntándole a ella.
+
+[8520]
+¡Si ni siquiera tiene novio!
+
+[8521]
+¡Culoooooootte!
+
+[8522]
+¡Hola!
+
+[8523]
+Soy Ellie.
+
+[8524]
+¡Soy la encargada de esta tienda, gya!
+
+[8525]
+¿Gya?
+
+[8526]
+¡Uy! Se me ha escapado la muletilla.
+
+[8527]
+No le den importancia.
+
+[8528]
+¡Hoy celebramos el aniversario de apertura!
+
+[8529]
+¡Hagan muchas compras, gya!
+
+[8530]
+¡Bienvenidos a la Compañía Rosenqueen!
+
+[8531]
+¡Te di una prica, así que investiga bien, hermana Prier!
+
+[8532]
+¡Solo de pensarlo se me acelera el pulso de emoción!
+
+[8533]
+¡El destino de esta nave depende de ustedes!
+
+[8534]
+¡Cuento con ustedes!
+
+[8535]
+¡Todavía no me fío del todo de ustedes, que lo sepan!
+
+[8536]
+¡Ahora salgan y encárguense de esos demonios!
+
+[8537]
+Fue hace cinco años…
+
+[8538]
+Yo era un gran capitán pirata, con cien gatos bajo mis órdenes.
+
+[8539]
+Nos pasábamos los días atacando ciudades portuarias y robando tesoros…
+
+[8540]
+Pero un día, mientras atacábamos cierta ciudad…
+
+[8541]
+…apareció él.
+
+[8542]
+¡Pilotaba una nave que volaba por los cielos!
+
+[8543]
+¡Y, antes de que nos diéramos cuenta, había derrotado a toda mi tripulación!
+
+[8544]
+Al final, él y yo nos enfrentamos en un combate a muerte.
+
+[8545]
+Jamás me habían derrotado, pero él consiguió vencerme.
+
+[8546]
+Estaba dispuesto a morir, pero él me miró y dijo: «Sería una pena matar a un guerrero tan valioso».
+
+[8547]
+«¿Por qué no te unes a mi tripulación?»
+
+[8548]
+Así de sencillo. Me uní a él, aunque tenía muy presente que me había vencido.
+
+[8549]
+También supe que seguiría a ese hombre hasta el fin de mis días.
+
+[8550]
+Ese hombre era nuestro valeroso líder, el capitán Homard.
+
+[8551]
+Ojalá pudiera echarles una mano.
+
+[8552]
+Puede que no sea el mejor momento, pero ¿te gustaría comprar algo?
+
+[8553]
+El jefe nació en el seno de una familia de la alta aristocracia.
+
+[8554]
+Cuesta creerlo, ¿verdad?
+
+[8555]
+Potemkin es nuestro jefe.
+
+[8556]
+Vaya nombre más raro…
+
+[8557]
+Tómatelo con calma.
+
+[8558]
+No vayas a combatir sin prepararte. ¡Equipa tus objetos y guarda la partida!
+
+[8559]
+(¡Otra vez no…!
+
+[8560]
+¡Odio este sueño!)
+
+[8561]
+(¿Quién te crees que eres? ¡Lárgate!)
+
+[8562]
+(¡¿Qué?!)
+
+[8563]
+(¡Vete!)
+
+[8564]
+(¡Yo soy yo! ¡No soy tú ni me parezco a ti!)
+
+[8565]
+¡Buenos días!
+
+[8566]
+¡Miren quién ha llegado! La señorita Rayito de Sol.
+
+[8567]
+¡Hay que tener cara para aparecer tan tarde y tan campante!
+
+[8568]
+Déjalo, Papillon.
+
+[8569]
+Grrrr…
+
+[8570]
+¿Dormiste bien?
+
+[8571]
+Como un tronco.
+
+[8572]
+Con los nervios, casi no pegué ojo.
+
+[8573]
+Te reconoceré una cosa, Prier: los nervios no son precisamente tu problema.
+
+[8574]
+¿Eh? ¿Qué ocurre?
+
+[8575]
+¿Qué estás haciendo, Culotte?
+
+[8576]
+(Qué extraño…
+
+[8577]
+Creí que Prier me soltaría un puñetazo por ese comentario…)
+
+[8578]
+¿Le ocurre algo, señor Croix?
+
+[8579]
+¿Se encuentra indispuesto? ¿Mareado?
+
+[8580]
+No es nada. Anoche tuve una pesadilla, eso es todo.
+
+[8581]
+¿Una pesadilla?
+
+[8582]
+Me pasa muy a menudo.
+
+[8583]
+No te preocupes.
+
+[8584]
+No me lo puedo creer.
+
+[8585]
+¿Tú, preocupada?
+
+[8586]
+¿Por mí? Increíble.
+
+[8587]
+Pensaba que bajo esa coraza tuya latía un corazón de hielo, pero ¡casi pareces una dama!
+
+[8588]
+Sabes, Croix, a veces eres un verdadero imbécil.
+
+[8589]
+(Prier está tan preocupada por Croix que ni siquiera se fija en mí…)
+
+[8590]
+(Vaya…)
+
+[8591]
+(Parece que Culotte está de mal humor porque Prier no le presta suficiente atención…)
+
+[8592]
+(Pobrecillo…)
+
+[8593]
+¡Hala!
+
+[8594]
+¡Estamos altísimo!
+
+[8595]
+Todavía me cuesta creer que esta cosa vuele de verdad.
+
+[8596]
+Sí… Prefiero no pensar en lo que pasaría si nos estrelláramos.
+
+[8597]
+¿También a usted le da miedo, hermana? —Por supuesto que sí.
+
+[8598]
+A todo el mundo le asusta morir.
+
+[8599]
+¡Ja, ja, ja!
+
+[8600]
+¡No teman, amigos míos!
+
+[8601]
+¡El Escargot jamás se estrellará!
+
+[8602]
+¿Jamás?
+
+[8603]
+Bueno… ¡hasta ahora, todo va bien!
+
+[8604]
+Supongamos que nos estrellamos.
+
+[8605]
+Aprenderían de la experiencia y saldrían fortalecidos.
+
+[8606]
+Pues yo prefiero no estrellarme, no aprender y ser feliz.
+
+[8607]
+Si nos estrellamos, dudo que nos quede nada de lo que preocuparnos…
+
+[8608]
+La diosa nos protege.
+
+[8609]
+¡Jefe! ¡Hay una nube extraña ahí delante!
+
+[8610]
+¡Por los percebes saltarines!
+
+[8611]
+¡Es una Nube Mortal!
+
+[8612]
+¿Una Nube Mortal?
+
+[8613]
+Una nube ácida que disuelve todo lo que toca.
+
+[8614]
+¡Si entramos, la nave se desintegrará! ¡Miau!
+
+[8615]
+¡Estupendo!
+
+[8616]
+¿Y ahora qué hacemos?
+
+[8617]
+Maldita sea…
+
+[8618]
+Esto sí que es un aprieto.
+
+[8619]
+¿Puedo proponer algo?
+
+[8620]
+¿Qué ocurre, princesa?
+
+[8621]
+Antes de marcharme, mi madre me hizo memorizar un pasaje de un libro de viajes.
+
+[8622]
+Creo que decía: «En los mares occidentales yace una isla invisible, oculta y peligrosa.
+
+[8623]
+Sobre la isla, la muerte.
+
+[8624]
+En la isla, la muerte.
+
+[8625]
+Bajo la isla, la esperanza.
+
+[8626]
+Atraviesa la cueva y contempla las tierras que esperan al otro lado.
+
+[8627]
+Cruza con cuidado, pues el monstruo de la cueva también puede traer la muerte».
+
+[8628]
+Creo que, de algún modo, mi madre sabía lo que nos esperaba.
+
+[8629]
+Una tierra nueva y misteriosa…
+
+[8630]
+¿Podría ser Fátima?
+
+[8631]
+No lo sé.
+
+[8632]
+Es solo un fragmento de un libro escrito por un aventurero hace cien años.
+
+[8633]
+Pensaba que era un libro al que mi madre tenía cariño, pero…
+
+[8634]
+¿Crees que esa isla de ahí abajo es la que mencionaba el libro? —¡Puede ser! ¡Vamos a verla!
+
+[8635]
+¡Bolas de pelo!
+
+[8636]
+¡Cambio de rumbo!
+
+[8637]
+¡Aterricen en esa isla!
+
+[8638]
+¡A la orden, capitán! ¡Miau!
+
+[8639]
+¡¿Qué está pasando?!
+
+[8640]
+¡No lo sé!
+
+[8641]
+¡¿Un demonio?!
+
+[8642]
+¡Prier!
+
+[8643]
+¡Aaaah!
+
+[8644]
+¡¿Qué le estás haciendo a mi preciosa nave?!
+
+[8645]
+¿Es que solo sabes resolver las cosas a golpes?
+
+[8646]
+¡Gorila descerebrado!
+
+[8647]
+¡¿Quééééé?!
+
+[8648]
+¡Tenemos un problema!
+
+[8649]
+¡Los motores están fallando! ¡Miau!
+
+[8650]
+Esto pinta mal…
+
+[8651]
+¡¿Qué significa eso?!
+
+[8652]
+¡¿Qué va a pasar?!
+
+[8653]
+¡¿Cómo que qué significa?! ¡Que vamos a morir todos!
+
+[8654]
+¡¿Nos vamos a estrellar?!
+
+[8655]
+¡Tenemos que hacer algo! ¿Q-qué hacemos?
+
+[8656]
+¡Oh, diosa! ¡Prometo que no volveré a robar del plato de las ofrendas!
+
+[8657]
+¡Por favor, sálvanos!
+
+[8658]
+¡Insensato! ¡Ya basta!
+
+[8659]
+¡La diosa ayuda a quienes se ayudan a sí mismos!
+
+[8660]
+¡Tienes que creer en ti mismo y luchar!
+
+[8661]
+¡Si no eres capaz, no mereces estar en mi nave!
+
+[8662]
+…Entendido.
+
+[8663]
+Entonces, ¿qué hacemos?
+
+[8664]
+No puedo abandonar el puente de mando.
+
+[8665]
+¡Así que ustedes tendrán que ocuparse de todos los demonios que han invadido la nave!
+
+[8666]
+¿Serán capaces? ¡No dejen que escape ni uno!
+
+[8667]
+¡Manos a la obra!
+
+[8668]
+Así que han venido.
+
+[8669]
+Soy el conde Seville Tempete, un Señor Oscuro y uno de los tres servidores juramentados del señor Noir.
+
+[8670]
+Durante la última Guerra Demoníaca fui yo quien le arrancó de un solo golpe el ojo derecho a Kefir Allois, señor de los muertos. —¡Cuidado, todos!
+
+[8671]
+¡Es mucho más fuerte que cualquier enemigo al que nos hayamos enfrentado!
+
+[8672]
+Parece que la Iglesia de la Madre Divina por fin se ha puesto seria.
+
+[8673]
+No permitiré que lleguen a Fátima. Su viaje termina aquí.
+
+[8674]
+Al señor Noir le encanta jugar con la gente insignificante. En fin, solo supondrá un poco más de trabajo para mí.
+
+[8675]
+¡Y yo que tenía tantas ganas de ir a Fátima…!
+
+[8676]
+¡Ja! ¿Y qué van a hacer?
+
+[8677]
+¿Cancelarnos los billetes?
+
+[8678]
+Eso mismo tenía pensado.
+
+[8679]
+¿Acaso ustedes son…
+
+[8680]
+…humanos?!
+
+[8681]
+¡Un Señor Oscuro jamás podría ser derrotado por unos simples humanos!
+
+[8682]
+¡No crean que esto ha terminado!
+
+[8683]
+¡Ay, diosa mía! ¡Diosa mía!
+
+[8684]
+¡Que alguien apague el fuego!
+
+[8685]
+¡Agua! ¡Que alguien traiga agua!
+
+[8686]
+¡¿Y de dónde vamos a sacar agua aquí?!
+
+[8687]
+Creo que puedo ayudar…
+
+[8688]
+¡¿Pero qué estás haciendo, desgraciado?!
+
+[8689]
+(Así me gusta…
+
+[8690]
+Ha vuelto la Prier de siempre…)
+
+[8691]
+¡Capitán!
+
+[8692]
+Nos vamos a estrellar, eso está claro.
+
+[8693]
+¡Pero no descansaré hasta vengarme!
+
+[8694]
+Probando… Probando…
+
+[8695]
+Atención, tripulación. Les habla el capitán Homard. Estamos a punto de estrellarnos contra el suelo.
+
+[8696]
+Solo tengo un consejo para todos: ¡no se mueran!
+
+[8697]
+Eso es todo.
+
+[8698]
+¡Esto es un desastre!
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk08_jp.dat ===
+
+[8699]
+¡Yo me encargo del Escargot!
+
+[8700]
+¡Muy bien! ¡Confío en ti, Yattanya!
+
+[8701]
+¡Bah! ¡Hasta nunca!
+
+[8702]
+¡Qué descanso poder alejarme de ti!
+
+[8703]
+Ya, ya… Si sé que me vas a echar de menos…
+
+[8704]
+¡¿Q-quéééé?!
+
+[8705]
+¿Quieres comprar algo?
+
+[8706]
+El vicecapitán Yattanya y los demás cuidaremos de la nave.
+
+[8707]
+Nunca se sabe cuándo alguien del grupo quedará fuera de combate.
+
+[8708]
+Conviene convertir y entrenar algunos monstruos para tenerlos de reserva.
+
+[8709]
+Si aumentas su Ánimo a 10, ¡también podrán usar la orden «Purificar»!
+
+[8710]
+Se supone que debemos reparar la nave, ¡pero no tengo ni idea de cómo hacerlo!
+
+[8711]
+Si esperas consejos útiles de nosotros, te llevarás una decepción.
+
+[8712]
+Por 5000 prica, te ayudaré.
+
+[8713]
+Vuelve cuando tengas suficiente.
+
+[8714]
+Vaya, ya llevas demasiados compañeros.
+
+[8715]
+¡Monyamonya se ha unido al grupo!
+
+[8716]
+La flor de fiancailles está floreciendo.
+
+[8717]
+Debe de haber una cueva en algún lugar de la jungla que lleve a Fátima.
+
+[8718]
+Primero tenemos que encontrarla.
+
+[8719]
+¿Lo entiendes, Alouette?
+
+[8720]
+No te fuerces, ¿de acuerdo?
+
+[8721]
+Gracias, Prier.
+
+[8722]
+Ya cuesta bastante avanzar por esta jungla.
+
+[8723]
+¿Estará bien Alouette…?
+
+[8724]
+Tenemos que mantener la cabeza fría y evitar hacer tonterías.
+
+[8725]
+Fátima, el lugar destruido en una sola noche…
+
+[8726]
+¿Pero en qué clase de sitio nos hemos metido…?
+
+[8727]
+No parece un lugar donde vayamos a pasarlo precisamente bien…
+
+[8728]
+Como miembro de la familia real, tengo que recordar toda clase de información.
+
+[8729]
+¡No pienso ser una carga para el grupo!
+
+[8730]
+Me alegra saber que puedo contar contigo.
+
+[8731]
+¡Dejen las reparaciones del Escargot en nuestras manos!
+
+[8732]
+¡Nos adelantamos!
+
+[8733]
+Vaya, esos gatos sí que son de fiar.
+
+[8734]
+Deja de llamarlos gatos… ¡Son hombres!
+
+[8735]
+(O sea… ¿gatos machos?)
+
+[8736]
+Espero de verdad que estas ruinas nos lleven a Fátima. / Como dijo Homard, ¿verdad?
+
+[8737]
+Esto me preocupa un poco.
+
+[8738]
+Si esas ruinas son de los habitantes de Fátima, ¿cómo pudieron destruirla en una sola noche?
+
+[8739]
+¡No paran de hablar de cosas que se me escapan!
+
+[8740]
+¡Ya me cansa darle tantas vueltas a estas cosas!
+
+[8741]
+Ay, Prier…
+
+[8742]
+¿Confiar en su experiencia y su intuición, eh?
+
+[8743]
+Seguro que ese capitán ha sobrevivido a más de una auténtica carnicería.
+
+[8744]
+¿De verdad confías en su intuición, Croix?
+
+[8745]
+No sé si confiar en él, pero estoy dispuesto a apostar por ese tipo.
+
+[8746]
+A mí me cuesta aceptar eso…
+
+[8747]
+Será interesante comprobar hasta dónde llegan su experiencia y su intuición.
+
+[8748]
+¿Qué te pasa, Éclair?
+
+[8749]
+¿Ha ocurrido algo entre Homard y tú?
+
+[8750]
+¡No ha pasado nada de nada!
+
+[8751]
+¡Esas ruinas deben tener algo que ver con Fátima! ¡Confíen en mi experiencia y en mi intuición!
+
+[8752]
+¡Confíen en mi experiencia y mi intuición!
+
+[8753]
+¿Y de dónde sacas tanta seguridad?
+
+[8754]
+¿Están todos bien?
+
+[8755]
+S-supongo que sí.
+
+[8756]
+Por lo menos sigo con vida.
+
+[8757]
+¿Y los demás?
+
+[8758]
+¿Están todos a salvo?
+
+[8759]
+¡Eh, Yattanya!
+
+[8760]
+¡Cuidado con esas manos!
+
+[8761]
+¿Tocarte yo? ¡Qué asco!
+
+[8762]
+Ni siquiera quiero acercarme a ti.
+
+[8763]
+¡Toda la tripulación del Escargot está sana y salva! ¡Miau!
+
+[8764]
+¿Dónde está Alouette?
+
+[8765]
+¡Hermana Alouette!
+
+[8766]
+¡Ahí está! ¡Está tendida en el suelo!
+
+[8767]
+¡Alouette!
+
+[8768]
+¡Reacciona!
+
+[8769]
+Alouette… Aún no ha llegado tu hora.
+
+[8770]
+Aún queda trabajo por hacer…
+
+[8771]
+¡Menos mal! ¿Estás bien, hermana Alouette?
+
+[8772]
+¡No vuelvas a darnos un susto así! ¡Creía que habías estirado la pata!
+
+[8773]
+Lo que acabas de hacer ha sido un milagro, ¿verdad?
+
+[8774]
+Tiene que haberlo sido. De lo contrario, estaríamos muertos.
+
+[8775]
+Sobre todo después de semejante caída.
+
+[8776]
+No quiero parecer un desagradecido, pero te estás exigiendo demasiado.
+
+[8777]
+Croix tiene razón. ¡Corres demasiados riesgos!
+
+[8778]
+Culotte… Siento haberte preocupado.
+
+[8779]
+Había oído hablar de los milagros de la hermana Alouette, pero no imaginaba que…
+
+[8780]
+Un milagro es algo extraordinario.
+
+[8781]
+¡Desde luego! Una persona corriente jamás podría hacer algo así.
+
+[8782]
+No hables como si hubieras tenido algo que ver con salvarnos.
+
+[8783]
+Bueno, al menos estamos todos a salvo.
+
+[8784]
+Señorita Alouette, como capitán del Escargot, le doy las gracias.
+
+[8785]
+Le estaré eternamente agradecido. —No ha sido nada.
+
+[8786]
+Yo solo…
+
+[8787]
+¡Denle las gracias a la señorita Alouette!
+
+[8788]
+¡Gracias, señorita Alouette!
+
+[8789]
+Bueno, ¿y ahora qué hacemos?
+
+[8790]
+La cueva que conduce a Fátima debería estar en alguna parte de esta jungla, ¿no?
+
+[8791]
+Sí. Eso decía el libro.
+
+[8792]
+Pero con la nave en este estado…
+
+[8793]
+Habrá que ir a pie.
+
+[8794]
+Eso es lo que me temía…
+
+[8795]
+¡Gatos!
+
+[8796]
+¡Prepárense para partir!
+
+[8797]
+Esperen.
+
+[8798]
+Tú debes quedarte aquí, Yattanya.
+
+[8799]
+¡Pero, capitán!
+
+[8800]
+Tenemos que reparar la nave. Ponte al frente de la banda Chocolat y encárgate de las reparaciones.
+
+[8801]
+Cuando terminen las reparaciones, ven a buscarnos.
+
+[8802]
+Eres el único en quien confío para reparar la nave. ¿Entendido?
+
+[8803]
+Entendido, capitán.
+
+[8804]
+¡Déjelo en mis manos!
+
+[8805]
+Descansemos un momento. —Sí que hace calor.
+
+[8806]
+¿Se encuentra bien, princesa?
+
+[8807]
+¿Quiere que la lleve a caballito?
+
+[8808]
+No.
+
+[8809]
+Eh… No, gracias.
+
+[8810]
+Sé que la jungla es un lugar inhóspito.
+
+[8811]
+Y creo que sé lo que se necesita para sobrevivir aquí.
+
+[8812]
+Pero todo eso lo has aprendido en los libros, ¿verdad?
+
+[8813]
+S-sí. ¿Y qué tiene de malo?
+
+[8814]
+Nada. Pero algún día serás reina. Tienes que conocer el mundo real. ¡La vida es mucho más que libros!
+
+[8815]
+¿Y tú quién te crees que eres?
+
+[8816]
+¡Tú siempre haces lo que te da la gana! ¡Jamás, jamás comprenderás la enorme carga que soporta la realeza!
+
+[8817]
+¡Ya basta!
+
+[8818]
+¡Ser princesa no te da derecho a hablarle así!
+
+[8819]
+Escucha, jovencita.
+
+[8820]
+¡Homard no es un verdadero pirata del aire! ¡Él es…!
+
+[8821]
+Ya basta, Papillon.
+
+[8822]
+Mis disculpas, princesa.
+
+[8823]
+Me dejé llevar por el momento.
+
+[8824]
+Lo siento mucho.
+
+[8825]
+Por favor, deja de llamarme «princesa».
+
+[8826]
+Me llamo Éclair.
+
+[8827]
+Entendido, señorita Éclair.
+
+[8828]
+Y tampoco hace falta lo de «señorita».
+
+[8829]
+Llámame Éclair, sin más.
+
+[8830]
+Muy bien, Éclair.
+
+[8831]
+¡Menudo carácter tiene esta princesita!
+
+[8832]
+Pero hay que reconocer que es preciosa…
+
+[8833]
+¡Ay, ay! ¡Eh!
+
+[8834]
+¡Atención, todos!
+
+[8835]
+¿Nos ponemos en marcha?
+
+[8836]
+¿Son… ruinas?
+
+[8837]
+Eso parece.
+
+[8838]
+Los habitantes de Fátima debieron construir este pasadizo para ir y venir de la isla.
+
+[8839]
+Pero el libro que leí no decía nada de eso…
+
+[8840]
+Los libros son una cosa.
+
+[8841]
+Y la realidad, otra.
+
+[8842]
+¿Y si te equivocas?
+
+[8843]
+Todos correremos peligro.
+
+[8844]
+Eso es cierto.
+
+[8845]
+¿Y eso es todo lo que tienes que decir?
+
+[8846]
+Escúchame, y escúchame bien…
+
+[8847]
+Te estoy pidiendo que confíes en mí.
+
+[8848]
+Confía en mi experiencia y en mi intuición.
+
+[8849]
+…Muy bien.
+
+[8850]
+Si estás tan seguro, te seguiré. —Oye, ¿no te parece que Éclair está algo rara y que no deja de molestar a Homard?
+
+[8851]
+Sí que se comporta de forma extraña.
+
+[8852]
+Hace unos días vivía como una princesa en un hermoso castillo.
+
+[8853]
+Ahora está atrapada con nosotros en plena jungla y recibe órdenes de un pirata del aire.
+
+[8854]
+No debe de ser fácil.
+
+[8855]
+Me pregunto…
+
+[8856]
+(Estos no se enteran de nada…)
+
+[8857]
+Qué extraño.
+
+[8858]
+¿Extraño? ¿El qué?
+
+[8859]
+Pero tengo un mal presentimiento.
+
+[8860]
+Mi cicatriz me avisa cuando el peligro está cerca.
+
+[8861]
+¡Me estás asustando!
+
+[8862]
+Oye…
+
+[8863]
+Está pasando algo muy raro.
+
+[8864]
+¿No dijiste que en estas cuevas vivía un monstruo terrible?
+
+[8865]
+Sí. Eso decía el libro.
+
+[8866]
+¡¿Es eso?!
+
+[8867]
+¡V-vámonos de aquí!
+
+[8868]
+Es precioso…
+
+[8869]
+Así que esto es Fátima…
+
+[8870]
+¡Hombres de poca fe!
+
+[8871]
+Parece que tenía razón. —Sí… Me equivoqué.
+
+[8872]
+En realidad, no quería decir eso.
+
+[8873]
+Solo quiero que entiendas que no soy ningún estúpido ni un temerario.
+
+[8874]
+Me he guiado por la experiencia y la intuición que he adquirido en mis viajes.
+
+[8875]
+Tú tienes experiencia de verdad. Yo solo sé lo que he leído en los libros.
+
+[8876]
+Supongo que soy una princesa criada entre algodones y que todavía me queda mucho por aprender…
+
+[8877]
+No hay nada malo en aprender de los libros.
+
+[8878]
+Al fin y al cabo, fue un libro lo que nos permitió encontrar esta cueva.
+
+[8879]
+Solo procura que lo que sabes no te impida ver lo que tienes delante.
+
+[8880]
+Tienes razón.
+
+[8881]
+En el mundo todavía hay muchísimas cosas que desconozco.
+
+[8882]
+Leer está muy bien, pero nada sustituye a la experiencia.
+
+[8883]
+¡Exacto! ¡Sin experiencia no llegarás muy lejos!
+
+[8884]
+Gracias, Homard.
+
+[8885]
+¡E-eh! No tienes por qué…
+
+[8886]
+Hice bien en salir del castillo.
+
+[8887]
+Si me hubiera quedado, jamás habría vivido todas estas experiencias maravillosas.
+
+[8888]
+Te estoy muy agradecida.
+
+[8889]
+¡Y-ya basta! No tienes que darme las gracias…
+
+[8890]
+Oye, ¿no hacen buena pareja esos dos?
+
+[8891]
+Claro… Cuando se trata de otros, sí que sabes ver lo evidente…
+
+[8892]
+Un momento, Culotte.
+
+[8893]
+¿Qué se supone que significa eso?
+
+[8894]
+Se oye una voz que viene de alguna parte…
+
+[8895]
+¡Escuchad, aventureros!
+
+[8896]
+¿Tenéis valor suficiente para enfrentaros solos a la criatura?
+
+[8897]
+Si no os veis capaces, debilitaré a la criatura por vosotros.
+
+[8898]
+Pero quienes no demuestren valor recibirán una recompensa menor.
+
+[8899]
+Os lo pregunto una vez más: ¿podéis luchar solos contra la criatura?
+
+[8900]
+¡Vaya, sí que sois unos aventureros valerosos…!
+
+[8901]
+¡A por ellos!
+
+[8902]
+¡Ja! ¡Cobardes!
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat ===
+
+[8903]
+¡Las reparaciones del Escargot marchan muy bien, capitán!
+
+[8904]
+¡Sabía que podía contar contigo, Yattanya!
+
+[8905]
+¡Estoy dando lo mejor de mí, jefe!
+
+[8906]
+¡Gracias por todo el trabajo!
+
+[8907]
+¿Qué te trae otra vez por aquí?
+
+[8908]
+Bienvenidos a la aldea Cuscús.
+
+[8909]
+Bueno, parece que podemos entendernos con ellos.
+
+[8910]
+Su pronunciación y su acento se parecen mucho a los del antiguo idioma de Paprica.
+
+[8911]
+Su pronunciación y su acento se parecen mucho al papricano antiguo. Quizá los orígenes de Paprica estén aquí, en Fátima...
+
+[8912]
+Sí. Fátima fue destruida hace doscientos años.
+
+[8913]
+Los supervivientes de aquella catástrofe son nuestros antepasados.
+
+[8914]
+Por aquí, los lagartos de roca y las langostas de arena son auténticos manjares.
+
+[8915]
+¡Qué rico suena!
+
+[8916]
+¡¿Lo dices en serio?!
+
+[8917]
+En un páramo como este apenas se puede cultivar nada.
+
+[8918]
+Sobrevivimos compartiendo entre todos lo poco que conseguimos.
+
+[8919]
+Por cierto, ¿guardas la partida con frecuencia?
+
+[8920]
+Es fácil olvidarse de hacerlo.
+
+[8921]
+¡Esta tierra está maldita!
+
+[8922]
+¡El Príncipe Oscuro la maldijo!
+
+[8923]
+Todo apunta a que el Príncipe Oscuro tuvo algo que ver con la destrucción de Fátima.
+
+[8924]
+¡Bienvenidos a la aldea Trufa!
+
+[8925]
+Como parecía que no vivía nadie aquí, decidimos instalarnos en el pueblo.
+
+[8926]
+¡Y hasta había muebles!
+
+[8927]
+¡Qué suerte!
+
+[8928]
+¿Eso no es robar…?
+
+[8929]
+Me pregunto adónde habrán ido sus antiguos habitantes.
+
+[8930]
+Espero que esta aldea nos dé alguna pista sobre el sueño que me envió la diosa.
+
+[8931]
+¡Ahora que hemos llegado tan lejos, seguro que encontramos algo!
+
+[8932]
+Sí, yo también lo creo.
+
+[8933]
+¿Qué quiere mostrarnos la diosa al traernos aquí? —Como ya dije, ¡los sueños de Alouette sobre la diosa y sus recuerdos perdidos deben de estar relacionados!
+
+[8934]
+Ya está bien…
+
+[8935]
+Creo que… conozco esta aldea.
+
+[8936]
+Quizá estuve aquí antes de perder la memoria…
+
+[8937]
+Hay algo de este lugar que tengo en la punta de la lengua…
+
+[8938]
+¿Te pasa algo, Croix?
+
+[8939]
+¿Seguro que estás bien?
+
+[8940]
+Sí. Ya te he dicho que estoy bien.
+
+[8941]
+Puede que las raíces de Paprica se encuentren en esta aldea.
+
+[8942]
+¡Qué interesante!
+
+[8943]
+¡Y yo quiero saber qué platos típicos se comen aquí!
+
+[8944]
+¡Parece que hemos encontrado dónde pasar la noche!
+
+[8945]
+¡Menos mal!
+
+[8946]
+¡Qué ganas tenía de dormir por fin en una cama de verdad!
+
+[8947]
+Bueno, ¿qué me dices?
+
+[8948]
+¿Quieres que compartamos cama?
+
+[8949]
+Como sigas así, voy a volver a soltarte un puñetazo…
+

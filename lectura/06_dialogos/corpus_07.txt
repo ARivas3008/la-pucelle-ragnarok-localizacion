@@ -1,0 +1,2934 @@
+LA PUCELLE — 06_dialogos — CORPUS 07
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat ===
+
+[6968]
+¿A qué viene tanto alboroto? ¡Estamos en plena noche!
+
+[6969]
+Seguro que es Prier con sus estúpidos entrenamientos.
+
+[6970]
+Nadie más arma semejante escándalo.
+
+[6971]
+¡Ja, ja, ja, ja!
+
+[6972]
+¿¡Un monstruo, d-dices!?
+
+[6973]
+¡Ja, ja! ¡Je, je!
+
+[6974]
+¡Jo, jo! ¡No me vengas con cuentos!
+
+[6975]
+¡Que sí, que es verdad!
+
+[6976]
+¡Lo vi con mis propios ojos!
+
+[6977]
+Oye, tampoco hace falta que te pongas así.
+
+[6978]
+Nadie está diciendo que mientas…
+
+[6979]
+Seguro que era un árbol junto a tu ventana o algo así.
+
+[6980]
+Pfff…
+
+[6981]
+O quizá solo lo soñaste, Culotte.
+
+[6982]
+¡De niño solo pensaba en luchar contra monstruos y rescatar a la princesa!
+
+[6983]
+Hermana Alouette, tú sí me crees, ¿verdad?
+
+[6984]
+Creo que tú estás convencido de lo que dices.
+
+[6985]
+Pero cualquiera puede equivocarse…
+
+[6986]
+¡¿Cómo puedes decir eso?! ¡Ni siquiera la hermana Alouette me cree!
+
+[6987]
+…es…zzzpt…
+
+[6988]
+Hermana… Julienne… bzzzt!
+
+[6989]
+…naise Harb…gzzt…
+
+[6990]
+Criatura no identificada…
+
+[6991]
+…deprisa…zzzzt!!
+
+[6992]
+Piiiiiiiiip…
+
+[6993]
+¿Qué ha pasado?
+
+[6994]
+¡Cambio!
+
+[6995]
+No logro comunicarme…
+
+[6996]
+Ha dicho «hermana Julienne», ¿verdad?
+
+[6997]
+La hermana Julienne está asignada a Mayonnaise Harbor.
+
+[6998]
+¿Mayonnaise Harbor, eh?
+
+[6999]
+¡Ha hablado de una criatura no identificada!
+
+[7000]
+¡Ya la oyeron!
+
+[7001]
+¡Seguro que se refiere a la criatura que vi! ¡Iré a comprobarlo!
+
+[7002]
+Un momento, Culotte.
+
+[7003]
+No puedes ir tú solo.
+
+[7004]
+Hermana Alouette…
+
+[7005]
+Padre Salade, ¿nos da permiso para ir?
+
+[7006]
+Por supuesto.
+
+[7007]
+Que la diosa Poitreene vele por todos ustedes.
+
+[7008]
+¿Ves? Aquí no hay ningún monstruo.
+
+[7009]
+Te lo dije: ¡era imposible que hubiera uno!
+
+[7010]
+¡Imposible! ¡Tiene que estar escondido en alguna parte!
+
+[7011]
+Oigan, ¿no han notado nada raro?
+
+[7012]
+Ah, sí…
+
+[7013]
+Está demasiado tranquilo. No hay gente ni pájaros por ninguna parte…
+
+[7014]
+La hermana Julienne debe de haber evacuado a todos.
+
+[7015]
+Entonces…
+
+[7016]
+…que después de todo sí hay algo aquí…
+
+[7017]
+¿¡Una ola gigantesca…!?
+
+[7018]
+No… ¡Mira…!
+
+[7019]
+No me lo puedo creer…
+
+[7020]
+¿Lo ves, Prier?
+
+[7021]
+¡Te lo dije!
+
+[7022]
+¡No era un sueño! ¡El monstruo existe de verdad! / ¡Este no es momento para celebrar!
+
+[7023]
+¡Ah! ¡Viene hacia nosotros!
+
+[7024]
+¿Q-qué hacemos?
+
+[7025]
+¡¿Cómo vamos a luchar contra algo así?!
+
+[7026]
+Con esta pistolita no haremos gran cosa, eso seguro.
+
+[7027]
+Hermana Alouette, creo que deberíamos retirarnos.
+
+[7028]
+Puede que tengas razón.
+
+[7029]
+Pero si no hacemos algo, esa criatura arrasará con toda la ciudad.
+
+[7030]
+Intentemos atraerla hacia el monte Tarte.
+
+[7031]
+Allí no hay nadie.
+
+[7032]
+¿Y después?
+
+[7033]
+Y después…
+
+[7034]
+Bueno, pensaremos en algo. / ¡¡Venga ya!! ¿Que pensaremos en algo?
+
+[7035]
+¡Vaya plan!
+
+[7036]
+¡Me encanta!
+
+[7037]
+(Hermana Alouette…)
+
+[7038]
+¡Ya casi está aquí!
+
+[7039]
+¡Prier! ¡Culotte!
+
+[7040]
+¡Atraigamos a esa criatura hasta el monte Tarte!
+
+[7041]
+Bueno, hemos conseguido traerla hasta aquí. ¿Y ahora qué?
+
+[7042]
+¿Q-qué crees que deberíamos hacer?
+
+[7043]
+¡¿De verdad no tienes ningún plan?!
+
+[7044]
+¡No me lo puedo creer!
+
+[7045]
+Acabo de llamar al padre Salade para pedir refuerzos, pero…
+
+[7046]
+(Nunca había visto a la hermana Alouette así…)
+
+[7047]
+(¡Qué guapa es!)
+
+[7048]
+¡Miren, ya viene!
+
+[7049]
+¿Qué es ese ruido?
+
+[7050]
+¡A lo mejor ya llegan los refuerzos!
+
+[7051]
+No, no lo creo…
+
+[7052]
+¡Miren eso!
+
+[7053]
+¿Qué es eso…?
+
+[7054]
+¿Un… barco?
+
+[7055]
+Pero… está volando…
+
+[7056]
+…por el cielo…
+
+[7057]
+Ya nada me sorprende. Si un monstruo gigante puede atacar la ciudad, ¿qué tiene de raro un barco volador?
+
+[7058]
+¡Prepárense para atacar!
+
+[7059]
+¡A sus puestos de combate!
+
+[7060]
+¿Usamos los cañones grandes? ¡Miau!
+
+[7061]
+No me llames «jefe».
+
+[7062]
+¡Llámame capitán!
+
+[7063]
+¡Y ni se les ocurra usar los cañones grandes! ¿Entendido?
+
+[7064]
+Son demasiado potentes. Le quitan toda la emoción…
+
+[7065]
+¡Alimañas! ¡Muévanse!
+
+[7066]
+¡A paso ligero!
+
+[7067]
+¡He dicho que ahora mismo!
+
+[7068]
+¡Tú, cierra el pico!
+
+[7069]
+¡Y no se metan en nuestro camino!
+
+[7070]
+¡¿Quéééé has dicho?!
+
+[7071]
+Papillon…
+
+[7072]
+¿Por qué no vienes aquí conmigo?
+
+[7073]
+Sí, capitán…
+
+[7074]
+¡Muy bien, muchachos!
+
+[7075]
+¡¿Están listos?!
+
+[7076]
+Si la Diosa nos reclama, que nos lleve.
+
+[7077]
+¡Mientras tanto, vamos a pasarlo en grande!
+
+[7078]
+¡Y si nos toca morir, que sea por todo lo alto!
+
+[7079]
+¡Vamos, bolas de pelo!
+
+[7080]
+¡A luchar contra el monstruo! ¡Miau!
+
+[7081]
+Esto se nos está yendo de las manos…
+
+[7082]
+¿De quién era esa voz?
+
+[7083]
+¡Ahí está otra vez…!
+
+[7084]
+No puede ser esa criatura… ¿O sí?
+
+[7085]
+¡Alto el fuego!
+
+[7086]
+¡Dejamos de disparar!
+
+[7087]
+¡Bolas de pelo! ¡Vamos a por ese monstruo!
+
+[7088]
+¡El que no tenga miedo de morir, que venga conmigo!
+
+[7089]
+Tú no, Papillon.
+
+[7090]
+Tú tienes que quedarte aquí.
+
+[7091]
+Luego tendremos una cita tranquila.
+
+[7092]
+¡Ahí vienen!
+
+[7093]
+¡Combatir el mal con valor y honor!
+
+[7094]
+¡Eso es ser un hombre de verdad!
+
+[7095]
+¡Nosotros, la tripulación del Escargot, estábamos destinados a encontrarnos con esta criatura en el campo de batalla!
+
+[7096]
+¡Contemplen nuestra temible bandera del gato y las tibias cruzadas… y desesperen!
+
+[7097]
+¡Adelante, muchachos!
+
+[7098]
+¿Piensan capturar viva a esa criatura?
+
+[7099]
+Bueno, entusiasmo no les falta, ¿verdad?
+
+[7100]
+¡Basta de charla! ¡Tenemos que detenerlos!
+
+[7101]
+¡Esa criatura tiene algo especial!
+
+[7102]
+Ay…
+
+[7103]
+¡¿Qué te crees que estás haciendo?!
+
+[7104]
+¡Eso mismo iba a decir yo! ¡¿A qué viene todo esto?!
+
+[7105]
+Escucha, amigo…
+
+[7106]
+Un momento… ¿eres una chica?
+
+[7107]
+Te ruego que aceptes mis humildes disculpas. Un caballero siempre debe presentarse ante una dama.
+
+[7108]
+Soy el capitán Homard…
+
+[7109]
+Explorador de los siete cielos…
+
+[7110]
+¡Viajero por todo el mundo!
+
+[7111]
+¡Y capitán de la nave voladora Escargot, a tu servicio!
+
+[7112]
+¡Y nosotros somos la tripulación del Escargot, la Banda Chocolat! ¡Miau!
+
+[7113]
+Ya… veo.
+
+[7114]
+Soy Prier. Formo parte de La Pucelle, de la Iglesia de la Santa Doncella.
+
+[7115]
+¿Una hermana de la Iglesia, eh?
+
+[7116]
+Qué bonito. Como muestra de nuestra nueva amistad…
+
+[7117]
+¡¿Jefe?!
+
+[7118]
+¡¿Q-qué ha sido eso?!
+
+[7119]
+¡Eso digo yo!
+
+[7120]
+¡Acabas de intentar abrazarme! ¿A que sí?
+
+[7121]
+¡Qué descaro, intentar algo así con una chica tan pura e inocente como yo!
+
+[7122]
+¡¿Estás loca?! ¡Solo estaba saludándote!
+
+[7123]
+¡¿Y qué clase de chica pura e inocente da semejantes ganchos?!
+
+[7124]
+¡Tú no eres ninguna dama!
+
+[7125]
+¡¿Quéééé?!
+
+[7126]
+¡Prier! ¡No hay tiempo para esto! ¡Mira!
+
+[7127]
+Ha desaparecido…
+
+[7128]
+¿Qué significa eso?
+
+[7129]
+¡No! ¡Justo cuando íbamos a atraparlo!
+
+[7130]
+¡Otra presa enorme que se nos escapa! En fin…
+
+[7131]
+Es hora de emprender una nueva aventura…
+
+[7132]
+¡Vamos, muchachos!
+
+[7133]
+Y al final, ¿qué pasaba con esa criatura?
+
+[7134]
+¡Ay…! ¡¿Qué te crees que estás haciendo?!
+
+[7135]
+¡Eso mismo iba a decir yo!
+
+[7136]
+¡¿A qué viene esto?!
+
+[7137]
+Le ruego que acepte mis humildes disculpas. Un caballero siempre debe presentarse ante una dama.
+
+[7138]
+Viajero por todo el mundo.
+
+[7139]
+¡Y nosotros somos la tripulación del Escargot, la Banda Chocolat!
+
+[7140]
+…como muestra de nuestra amistad…
+
+[7141]
+¡¿Estás chiflada?! ¡Solo quería saludarte!
+
+[7142]
+¿Qué es esa bola de luz?
+
+[7143]
+¡Se dirige hacia la iglesia!
+
+[7144]
+¡Todos, tras ella!
+
+[7145]
+…Se han ido.
+
+[7146]
+¿Por qué tenían tanta prisa?
+
+[7147]
+¡Ha entrado!
+
+[7148]
+Va hacia la enfermería. ¡Deprisa!
+
+[7149]
+¿M-más c-correr?!
+
+[7150]
+¡D-denme un respiro!
+
+[7151]
+¡No estoy en forma!
+
+[7152]
+Mi pobre pequeño Rocini…
+
+[7153]
+¿Ha visto entrar volando una bola de luz por aquí?
+
+[7154]
+¿Una bola de luz…?
+
+[7155]
+No, no he visto nada parecido.
+
+[7156]
+Creo que la bola de luz que vimos estaba formada por energía espiritual.
+
+[7157]
+Quien no sea sensible al mundo espiritual no podrá verla.
+
+[7158]
+Mira este dibujo…
+
+[7159]
+¿Un monstruo?
+
+[7160]
+¡Sí! ¡Es el mismo monstruo que atacó la ciudad!
+
+[7161]
+¿Quién hizo este dibujo?
+
+[7162]
+¿Este? Lo dibujó mi hijo Rocini.
+
+[7163]
+Le encantan los monstruos.
+
+[7164]
+Dibuja monstruos todos los días.
+
+[7165]
+Siempre ha estado tan enfermo… Creo que los admira porque son muy fuertes.
+
+[7166]
+¿Dónde está su hijo?
+
+[7167]
+…Lo están atendiendo ahora mismo…
+
+[7168]
+Lleva un tiempo ingresado aquí, pero acaba de sufrir un grave empeoramiento…
+
+[7169]
+Esta mañana parecía encontrarse tan bien…
+
+[7170]
+¿Qué habrá pasado?
+
+[7171]
+¡Creo que ya lo entiendo!
+
+[7172]
+Rocini tiene el poder de crear monstruos con la mente.
+
+[7173]
+Y, de algún modo, la enfermedad le ha hecho perder el control de ese poder.
+
+[7174]
+Ya veo. ¿Entonces la bola de luz que vimos era la esencia del niño, su energía?
+
+[7175]
+Entonces, esa criatura seguirá apareciendo hasta que el niño se recupere.
+
+[7176]
+Oye, ¿qué le pasa a tu hijo?
+
+[7177]
+Padece la enfermedad del azufaifo.
+
+[7178]
+Le salen bultos rojos por todo el cuerpo.
+
+[7179]
+Según el médico, la única medicina que puede curarlo es el Kinoko Jiru.
+
+[7180]
+¿Con eso se curaría?
+
+[7181]
+Me han dicho que se encuentra en la cima del monte Champignon…
+
+[7182]
+…pero también que es imposible llegar hasta allí.
+
+[7183]
+Ay, mi pobre Rocini…
+
+[7184]
+¿El monte Champignon, eh?
+
+[7185]
+Ojalá pudiéramos ayudarlos, pero para llegar hasta arriba habría que poder volar.
+
+[7186]
+Tal vez pueda echarles una mano.
+
+[7187]
+Permítanme llevarlos hasta el monte Champignon. Será un placer.
+
+[7188]
+No tienen por qué darme las gracias.
+
+[7189]
+He oído toda la historia.
+
+[7190]
+¡Quién iba a pensar que un niño pudiera crear semejante criatura!
+
+[7191]
+¡Y eso significa que el ataque que lanzamos hizo que su estado empeorara de golpe!
+
+[7192]
+¡El gran capitán Homard no dejará morir a un niño inocente!
+
+[7193]
+¡Aunque no vengan, iremos nosotros solos!
+
+[7194]
+¡No hace falta que digan nada!
+
+[7195]
+Los piratas aéreos estamos acostumbrados a jugarnos la vida.
+
+[7196]
+¡Un hombre de verdad se enfrenta a la muerte cara a cara!
+
+[7197]
+¡Ni se molesten en intentar detenernos!
+
+[7198]
+¡Vamos, muchachos!
+
+[7199]
+¡E-eh! ¡Espera un momento!
+
+[7200]
+¡Nosotros también vamos!
+
+[7201]
+¡Prepárense para despegar!
+
+[7202]
+¡Preparándonos para despegar!
+
+[7203]
+¡Motores de turbulencia de alta velocidad en marcha!
+
+[7204]
+¡Miau!
+
+[7205]
+¡Potencia al 30 %! ¡Miau!
+
+[7206]
+…¿Un bicho?
+
+[7207]
+¡No me llames bicho!
+
+[7208]
+¡Oye, Homard!
+
+[7209]
+¡¿Qué hacen estas mujeres a bordo?!
+
+[7210]
+¿Celoso?
+
+[7211]
+¡Baterías de inochium enriquecido a plena carga! ¡Miau!
+
+[7212]
+¡Listos para despegar, jefe!
+
+[7213]
+¡Muy bien, amantes de la hierba gatera! ¡Vamos allá! ¡El Escargot está en el aire!
+
+[7214]
+¡Has venido!
+
+[7215]
+¡Soy yo, Elizabeth!
+
+[7216]
+Me ayudaste en el bosque de Meuniere, ¿recuerdas?
+
+[7217]
+¿Qué te trae por aquí?
+
+[7218]
+Bien, verás…
+
+[7219]
+…y por eso necesitamos un poco de tu Kinoko Jiru.
+
+[7220]
+Vaya, eso sí que es un problema.
+
+[7221]
+El Kinoko Jiru que tenemos es muy valioso y apenas nos queda…
+
+[7222]
+¡Ya sé! Como eres tú, te lo venderé a un precio especial, rebajadísimo.
+
+[7223]
+¿¡De verdad?!
+
+[7224]
+Entonces… ¿cuánto cuesta?
+
+[7225]
+Recuerda que solo hago esto porque me ayudaste.
+
+[7226]
+¡Solo 50.000 prica!
+
+[7227]
+¡¿A eso le llamas un precio especial rebajadísimo?!
+
+[7228]
+Pues… sí.
+
+[7229]
+Normalmente cuesta 100 veces más.
+
+[7230]
+¿Y bien? ¿Lo quieres?
+
+[7231]
+Comprar.
+
+[7232]
+No comprar.
+
+[7233]
+¡Gracias!
+
+[7234]
+¡Genial! ¡Con esto debería bastar!
+
+[7235]
+¡Volvamos a la iglesia!
+
+[7236]
+No tienes suficiente dinero. Espero que vuelvas después de haber ahorrado el dinero necesario.
+
+[7237]
+¡Vuelve si cambias de opinión!
+
+[7238]
+¡El monte Champignon, justo al frente!
+
+[7239]
+¡Así que ese es el monte Champignon! / ¡Impresionante...!
+
+[7240]
+Con sus 10.000 pies de altitud, es una de las pocas montañas del mundo con forma de seta.
+
+[7241]
+Nadie ha alcanzado jamás la cima, pero dicen que allí cabrían 50 castillos de Cresson.
+
+[7242]
+El 70 % corresponde a setas que no crecen en ningún otro lugar.
+
+[7243]
+No me extraña que la llamen «Montaña de las Setas».
+
+[7244]
+¡Pero mucho cuidado con los feroces hongos dragón!
+
+[7245]
+Rodean a todas las demás setas.
+
+[7246]
+Son muy territoriales y atacan a cualquiera que entre en sus dominios.
+
+[7247]
+Yo les aconsejaría evitarlos, en lugar de combatirlos.
+
+[7248]
+Vaya, sabes un montón sobre la montaña.
+
+[7249]
+¡Por supuesto! ¡Es un pirata aéreo que ha recorrido el mundo entero!
+
+[7250]
+Nos quedaremos aquí, junto a la nave.
+
+[7251]
+Si los hongos dragón destruyeran la nave, nos quedaríamos atrapados aquí.
+
+[7252]
+Y procuren no morir, ¿eh?
+
+[7253]
+¡Ustedes son de la Iglesia de la Madre Divina!
+
+[7254]
+¡La Pucelle!
+
+[7255]
+¡Así que has sido tú quien nos ha echado encima a los hongos dragón!
+
+[7256]
+Has recorrido un buen trecho para hacerlo.
+
+[7257]
+¡Sí! ¿Te has vuelto loco?
+
+[7258]
+¡¿Por qué ibas a hacer algo así?!
+
+[7259]
+¡Silencio! ¡No permitiremos que se entrometan en nuestro gran plan!
+
+[7260]
+En este mismo instante, las energías oscuras aumentan en Paprica.
+
+[7261]
+¡Pronto instauraremos una Utopía Oscura en nombre de la Madre Divina!
+
+[7262]
+¡Maestro Noir…!
+
+[7263]
+Cuánto deseaba…
+
+[7264]
+…ver su…
+
+[7265]
+…Utopía Oscura…
+
+[7266]
+Utopía…
+
+[7267]
+Me da escalofríos imaginar qué clase de lugar llamarían «utopía»…
+
+[7268]
+Supongo que no querríamos construir allí una casa de vacaciones.
+
+[7269]
+¡Gracias por ayudarnos!
+
+[7270]
+¡Gracias a ustedes, la paz ha vuelto al monte Champignon!
+
+[7271]
+Acepten esto como una pequeña muestra de agradecimiento.
+
+[7272]
+Por favor, acéptenlo.
+
+[7273]
+Esperen un momento.
+
+[7274]
+Tenemos otra cosa para ustedes.
+
+[7275]
+¡Has obtenido el Anillo de Setas!
+
+[7276]
+¿Y esto qué es…?
+
+[7277]
+El Anillo de Setas les permite regresar al monte Champignon cuando quieran.
+
+[7278]
+Vaya, pues sí que resulta útil…
+
+[7279]
+Nos lo quedamos.
+
+[7280]
+Bebe este Kinoko Jiru y te pondrás bien.
+
+[7281]
+Bebe eso, Rocini. Te lo han traído especialmente para ti. / Pero... Huele fatal...
+
+[7282]
+¡¿Te preocupa el olor?! ¿Es que no quieres curarte?
+
+[7283]
+Un poco de zumo no va a servirme de nada…
+
+[7284]
+Si quieres ser fuerte, ¡ármate de valor y bébetelo!
+
+[7285]
+¡Compórtate como un hombre!
+
+[7286]
+¡Así se hace!
+
+[7287]
+¿Ves? No eres ningún debilucho.
+
+[7288]
+Te lo has bebido.
+
+[7289]
+¡Ya no tienes por qué soñar con convertirte en un monstruo!
+
+[7290]
+¿Cómo sabías que quería ser un monstruo?
+
+[7291]
+¿Qué? Yo… esto…
+
+[7292]
+Lo que pasa es que…
+
+[7293]
+¡No te preocupes por eso!
+
+[7294]
+Bien, parece que mi trabajo aquí ha terminado. Pronto seguiremos nuestro camino.
+
+[7295]
+Siento que una nueva aventura me llama.
+
+[7296]
+Pero ahórrenme las lágrimas… Sonrían cuando se despidan…
+
+[7297]
+Me despido de todos ustedes.
+
+[7298]
+Tal vez nuestros caminos vuelvan a cruzarse.
+
+[7299]
+Ah, casi lo olvidaba.
+
+[7300]
+Te llamabas Prier, ¿verdad?
+
+[7301]
+¡Vaya gancho que tienes!
+
+[7302]
+¿Te gustaría unirte a mi tripulación?
+
+[7303]
+¡Te encantaría la vida de pirata aéreo!
+
+[7304]
+¡Libertad, emoción y tesoros!
+
+[7305]
+Y no olvides…
+
+[7306]
+¡el romanticismo!
+
+[7307]
+¡El sueño de cualquier hombre!
+
+[7308]
+Soy una chica…
+
+[7309]
+Bah, detalles sin importancia.
+
+[7310]
+Como quieras.
+
+[7311]
+¡Piénsatelo hasta que volvamos a vernos!
+
+[7312]
+¡Hasta la vista!
+
+[7313]
+Vaya panda de bichos raros…
+
+[7314]
+Pero sin ellos no lo habríamos conseguido.
+
+[7315]
+Supongo que no volveremos a ver a esa criatura. Espero que no.
+
+[7316]
+¡Aaaah, qué sueño! ¡Este caso me ha dejado sin fuerzas!
+
+[7317]
+De acá para allá… Luchando contra monstruos gigantes…
+
+[7318]
+¡Toma, prueba esta bebida!
+
+[7319]
+¡Gracias! ¡Qué detalle!
+
+[7320]
+…¿Eh? Tiene un sabor un poco raro…
+
+[7321]
+Kinoko Jiru…
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk05_jp.dat ===
+
+[7322]
+¡Hace un rato vino alguien de la Iglesia de la Divina Madre a intentar que me uniera! Dijeron que, si lo hacía enseguida, me regalarían un auténtico collar de perlas falsas... ¡Casi acepto!
+
+[7323]
+¡Hace un rato vino alguien de la Iglesia de la Divina Madre a intentar que me uniera! Dijeron que, si lo hacía enseguida, me regalarían un auténtico collar de perlas falsas... ¡Casi acepto!
+
+[7324]
+¿Quién es más poderosa: la diosa Poitreene o Calamity, el ángel caído?
+
+[7325]
+¡La diosa, por supuesto!
+
+[7326]
+Todo el castillo de Cresson está alborotado por las apariciones de un Caballero Oscuro espectral.
+
+[7327]
+¡Mooboo, mooboo! ¿Es que no sabes decir otra cosa?
+
+[7328]
+Gordinflón.
+
+[7329]
+¡¿Quééé?!
+
+[7330]
+Dicen que Barsom, el leñador, y una chica llamada Suzanne mantienen un romance a distancia.
+
+[7331]
+¡Ah, quién volviera a ser joven!
+
+[7332]
+¿Has oído hablar de las maravillosas cosas que vende la Iglesia de la Divina Madre? Tienen un tónico especial que hace que el cabello crezca. Bueno, yo no lo necesito, claro.
+
+[7333]
+Bueno, yo no lo necesito, claro.
+
+[7334]
+¡Hagan algo con esas cosas que hay en el bosque!
+
+[7335]
+¡Y rapidito!
+
+[7336]
+He oído que han aparecido unas criaturas extrañas en el bosque de Meuniere.
+
+[7337]
+A menudo puedes pasar al siguiente mapa sin derrotar a todos los enemigos. Recuerda que a veces es más inteligente huir.
+
+[7338]
+A menudo puedes pasar al siguiente mapa sin derrotar a todos los enemigos. Recuerda que a veces es más inteligente huir.
+
+[7339]
+El Libro Sagrado no dice nada sobre las criaturas del bosque de Meuniere.
+
+[7340]
+El Libro Sagrado no menciona a las criaturas del bosque Meunière. No sabemos nada de ellas, así que tengan cuidado.
+
+[7341]
+Las energías oscuras están aumentando por todo el mundo.
+
+[7342]
+Debe de ser un mal presagio…
+
+[7343]
+Algunos miembros de la Iglesia creen que nuestro objetivo último es vencer a la oscuridad.
+
+[7344]
+¡Pero lo verdaderamente importante es mantener el equilibrio entre la luz y la oscuridad!
+
+[7345]
+Dicen que las demonias son muy sexis…
+
+[7346]
+¿Crees que conocería a alguna si fuera al Mundo Oscuro?
+
+[7347]
+¡Me han contado todo lo de tu pelea con la tripulación del Escargot!
+
+[7348]
+¡Hay que tener agallas! ¡Creo que me he enamorado!
+
+[7349]
+¡Si los demonios probaran estos fideos, se les quitarían las ganas de dar guerra!
+
+[7350]
+¡Sluuurp! ¡Sluuurp!
+
+[7351]
+¡Uf! ¡Podría comerme una docena de cuencos!
+
+[7352]
+Por mucho que subas de nivel un objeto débil, seguirá siendo débil.
+
+[7353]
+Es mejor empezar con objetos buenos y mejorarlos.
+
+[7354]
+¡Hola! ¡Bienvenidos a la tienda Rosenqueen!
+
+[7355]
+Creo que mi marido ya se está haciendo mayor.
+
+[7356]
+Tienes que ayudarlo a salir adelante.
+
+[7357]
+Hace poco vieron a alguien de la Iglesia de la Divina Madre en el bosque Meunière. ¡Seguro que esas criaturas tienen algo que ver con ellos!
+
+[7358]
+Hace poco vieron a alguien de la Iglesia de la Divina Madre en el bosque Meunière. ¡Seguro que esas criaturas tienen algo que ver con ellos!
+
+[7359]
+Hace mucho tiempo había un lugar cerca del pueblo llamado Cueva de las Pruebas.
+
+[7360]
+Estaba repleto de monstruos, pero el padre Salade lo selló hace años…
+
+[7361]
+¿Qué tal va todo?
+
+[7362]
+¿Has averiguado de dónde salieron esas cosas del bosque?
+
+[7363]
+Aquí no cobramos por nuestros servicios.
+
+[7364]
+Aunque recibimos ayuda de la familia real, apenas nos alcanza para subsistir.
+
+[7365]
+Eso solo demuestra lo bondadoso que es el padre Salade…
+
+[7366]
+Hay valles Eringa por todo el mundo. Creo que hay uno en un sitio llamado Marl o algo así...
+
+[7367]
+¿Te gustaría contratarme? ¡Seré de ayuda!
+
+[7368]
+Te haré una oferta.
+
+[7369]
+Solo 3.000 prica.
+
+[7370]
+Aceptar / No, gracias.
+
+[7371]
+No tienes suficiente dinero. Tengo mis exigencias, ¿sabes?
+
+[7372]
+Me parece que ya tienes demasiados compañeros.
+
+[7373]
+Parece que ya tienes demasiados compañeros. Vuelve cuando hayas prescindido de algunos. / ¡Gracias! ¡Prometo esforzarme mucho!
+
+[7374]
+¡Un Eringa se ha unido a tu equipo!
+
+[7375]
+Los eringas son criaturas amistosas. Si te encuentras con alguno, procura hacerte su amigo.
+
+[7376]
+Los eringas tienen su propio idioma.
+
+[7377]
+Es difícil pronunciarlo, pero puedo enseñártelo, si quieres.
+
+[7378]
+Clase de eringés. Lección 1: «Hola».
+
+[7379]
+En eringés, «hola» se dice «bubukkasehorizueri».
+
+[7380]
+¿B-bubuk…?
+
+[7381]
+Bubukkasehorizueri.
+
+[7382]
+¡Muy bien! ¡Y la pronunciación ha sido perfecta!
+
+[7383]
+¿Seguro que no eres un eringa?
+
+[7384]
+Je, je… Quién sabe…
+
+[7385]
+Gracias a ustedes, los dragones seta ya no salen de su territorio. Pero siguen siendo muy peligrosos. Es mejor evitar luchar contra ellos.
+
+[7386]
+¿Te sirvió el Kinoko Jiru?
+
+[7387]
+El Kinoko Jiru está riquísimo.
+
+[7388]
+¿Lo has probado?
+
+[7389]
+¿Has oído eso?
+
+[7390]
+¿Por qué no le dices qué te pareció…? Sin comentarios.
+
+[7391]
+¡Bienvenidos al monte…
+
+[7392]
+Champignon!
+
+[7393]
+Tal como dijo el padre Salade, últimamente cada vez ocurren más incidentes.
+
+[7394]
+¿A qué se deberá?
+
+[7395]
+Si te preocupas tanto, te saldrán más arrugas, ¿sabes?
+
+[7396]
+¡¿Arrugas?!
+
+[7397]
+Debemos investigar esas criaturas extrañas que aparecen cerca del bosque Meunière. / ¡Es hora de averiguar la verdad sobre esas criaturas!
+
+[7398]
+¿Primero monstruos y ahora criaturas?
+
+[7399]
+¡Hora de divertirse!
+
+[7400]
+¡Me enfrente a lo que me enfrente, nadie se interpondrá en mi camino!
+
+[7401]
+¡Déjame algo de diversión a mí también!
+
+[7402]
+Parece que, si no acabamos con el origen de esas criaturas, nada se resolverá.
+
+[7403]
+Precisamente por eso es tan importante reunir información.
+
+[7404]
+Si seguimos buscando, seguro que encontramos alguna pista.
+
+[7405]
+¿Criaturas que salen del pelo? ¿Qué demonios está pasando aquí?
+
+[7406]
+Alouette mencionó que era algo creado artificialmente, ¿verdad?
+
+[7407]
+¿Creado artificialmente?
+
+[7408]
+¿Quién haría algo así? ¿Y para qué…?
+
+[7409]
+No sabemos de dónde salen esas criaturas, pero, si seguimos adelante, todo se arreglará.
+
+[7410]
+Habrá que dejarlo en manos de nuestro líder.
+
+[7411]
+Vaya momento para hablar de un «líder»…
+
+[7412]
+Deberíamos ir a hablar con Barsom.
+
+[7413]
+Puede que haya alguna relación con este caso.
+
+[7414]
+¡¿No te pareció raro que de repente te creciera tanto pelo?!
+
+[7415]
+Así que solo quiere salir con chicos guapos, ¿eh…?
+
+[7416]
+Así que ella solo quiere salir con chicos guapos, ¿eh? Supongo que todos piensan lo mismo. / ¡No todo el mundo piensa así! ¡Búscate una buena novia, Culotte!
+
+[7417]
+¡Ya sabes, una como yo!
+
+[7418]
+¡No fastidies…!
+
+[7419]
+De pronto a un hombre le sale una mata de pelo… y también aparecen criaturas, ¿eh…?
+
+[7420]
+¡Menuda pista!
+
+[7421]
+¡Y todo gracias a lo mucho que me he esforzado reuniendo información!
+
+[7422]
+Nunca habría imaginado que todo esto se debía a un tónico para hacer crecer el pelo...
+
+[7423]
+Hasta Alouette parece haberse quedado sin ideas esta vez…
+
+[7424]
+¿Y si al final intentamos convencerlos por las buenas?
+
+[7425]
+Me da un poco de pena…
+
+[7426]
+¿No hay manera de que Barsom deje de tomar ese medicamento?
+
+[7427]
+Vale, no tiene pelo.
+
+[7428]
+Tampoco se va a morir por eso.
+
+[7429]
+¿Y si le quitamos la medicina a la fuerza?
+
+[7430]
+¡No, no podemos hacer eso!
+
+[7431]
+¡Eres una hermana de la Iglesia, Prier!
+
+[7432]
+¡Tienes que ponerte en su lugar!
+
+[7433]
+¡Estoy haciendo todo lo que puedo!
+
+[7434]
+Pobre Barsom…
+
+[7435]
+Hasta que no resolvamos su problema con el pelo, no podremos cerrar el caso, ¿verdad?
+
+[7436]
+A ti tampoco te gustaría quedarte calvo, ¿verdad, Croix?
+
+[7437]
+¡Desde luego que no!
+
+[7438]
+Aunque te quedaras calvo, seguirías siendo el mismo Croix de siempre.
+
+[7439]
+A mí no me importaría.
+
+[7440]
+Vaya, sí que eres una chica estupenda…
+
+[7441]
+Estaría bien contar con Suzanne, pero no parece que vaya a ser posible.
+
+[7442]
+Ya me lo imaginaba.
+
+[7443]
+Llegados a este punto, solo nos queda convencer a Barsom.
+
+[7444]
+¡Ya lo pillo! En resumen, tenemos que hacerlo por la fuerza, ¿no?
+
+[7445]
+¡No has entendido nada!
+
+[7446]
+Asegúrate de encontrar una buena novia…
+
+[7447]
+Pobre Barsom.
+
+[7448]
+La verdad es que lo está pasando fatal.
+
+[7449]
+¡Me da muchísima pena, de corazón!
+
+[7450]
+¡Sigues siendo el Barsom de siempre! ¿Qué le ves a esa mujer?
+
+[7451]
+Será cuestión de físico, ¿no?
+
+[7452]
+¡Al final todos son iguales!
+
+[7453]
+¡Maestro Noir! ¿Hasta cuándo piensa seguir ignorando a La Pucelle?
+
+[7454]
+¡Solo este mes han derrotado a siete de nuestros agentes!
+
+[7455]
+La situación es grave. Podrían echar por tierra nuestros planes.
+
+[7456]
+Si no actuamos pronto…
+
+[7457]
+Tranquilos. La Iglesia de la Madre Divina tiene al pueblo en el bolsillo. Nos siguen como corderitos.
+
+[7458]
+Ni la Iglesia de la Santa Doncella ni la reina pueden hacer nada contra nosotros.
+
+[7459]
+Se lo aseguro: no hace falta cambiar nuestros planes.
+
+[7460]
+¡Pero…!
+
+[7461]
+No teman.
+
+[7462]
+La invocación del ángel caído Calamity seguirá adelante tal como estaba prevista.
+
+[7463]
+En cuanto encontremos al Príncipe Oscuro, llegará nuestra Utopía Oscura.
+
+[7464]
+Solo tenemos que esperar con paciencia el momento oportuno.
+
+[7465]
+Ya falta muy poco… Vela por mí, madre…
+
+[7466]
+¿Otra vez llega tarde Prier?
+
+[7467]
+Seguro que sigue durmiendo. Voy a despertarla.
+
+[7468]
+¡Maldita sea!
+
+[7469]
+¡Me he quedado dormida!
+
+[7470]
+Oye, ¿dónde está Culotte?
+
+[7471]
+¡¿Qué te crees que estás haciendo ahí?!
+
+[7472]
+¡Esto no puede ser!
+
+[7473]
+Es el tercer día seguido que llegas tarde, Prier.
+
+[7474]
+¡No es culpa mía!
+
+[7475]
+¡Mi dichoso despertador no funciona bien!
+
+[7476]
+¡Ni me entero cuando suena!
+
+[7477]
+En fin, cambiando de tema…
+
+[7478]
+Hoy quiero que vayan al bosque de Meuniere.
+
+[7479]
+Hace unos cinco días empezaron a aparecer unas… cosas extrañas por la zona.
+
+[7480]
+¿…Cosas?
+
+[7481]
+Sí. No sabemos si son monstruos o demonios.
+
+[7482]
+En cualquier caso, no podemos quedarnos de brazos cruzados.
+
+[7483]
+Vayan a investigar.
+
+[7484]
+Entendido.
+
+[7485]
+¿Unas cosas, eh? ¿Qué serán exactamente…?
+
+[7486]
+Últimamente hay demasiados casos de este tipo.
+
+[7487]
+Puede que las energías oscuras estén aumentando.
+
+[7488]
+Si no tenemos cuidado, esto podría anunciar el regreso del Príncipe Oscuro…
+
+[7489]
+¿El Príncipe Oscuro…?
+
+[7490]
+N-no, nada. Olvida lo que he dicho.
+
+[7491]
+Se me ha escapado sin querer…
+
+[7492]
+Pero la Iglesia de la Madre Divina parece cada vez más activa.
+
+[7493]
+Mantente alerta. / ¡¡No te preocupes tanto!!
+
+[7494]
+¡Cuando me convierta en la Doncella de la Luz, me ocuparé yo sola de todos ellos!
+
+[7495]
+Precisamente eso es lo que me preocupa, Prier…
+
+[7496]
+¡Uf!
+
+[7497]
+¡¿Qué son estas cosas?!
+
+[7498]
+Nunca he visto algo así antes. / Hermana Alouette, ¿esas criaturas son algún tipo de monstruo? / No. Ellos irradian una intensa energía espiritual, pero no percibo ninguna fuerza vital en ellos. / Parecen ser espíritus creados artificialmente...
+
+[7499]
+Entonces, ¿son como demonios?
+
+[7500]
+¡Pues haberlo dicho antes!
+
+[7501]
+¡Podemos con ellos!
+
+[7502]
+¡Sí, acabemos con ellos!
+
+[7503]
+¡¿De dónde salen todas estas cosas?!
+
+[7504]
+Siguen apareciendo sin parar…
+
+[7505]
+¡Esto ya es el colmo!
+
+[7506]
+¿Qué te hace tanta gracia?
+
+[7507]
+Tu cara, nada más.
+
+[7508]
+Es broma.
+
+[7509]
+Es que nunca pensé que encontraría a una mujer a la que pudiera confiarle mi espalda.
+
+[7510]
+Supongo que eso me ha puesto contento.
+
+[7511]
+Vaya forma más rara de halagar a una chica.
+
+[7512]
+Puede ser, pero tú tampoco eres una chica corriente…
+
+[7513]
+¿Que no soy lo bastante femenina para ti? Pues te aguantas.
+
+[7514]
+¡Ya basta, ustedes dos! ¡No tenemos tiempo para eso!
+
+[7515]
+(¿Estará Culotte celoso de Prier…?)
+
+[7516]
+Concéntrense, los dos.
+
+[7517]
+¡Tenemos que averiguar cuanto antes de dónde salen esas cosas!
+
+[7518]
+Entonces, ¿qué hacemos?
+
+[7519]
+¿Y si primero regresamos al pueblo?
+
+[7520]
+Podemos volver o seguir adelante. Quizá encontremos la respuesta en alguna parte del bosque.
+
+[7521]
+Tú eres quien manda.
+
+[7522]
+La decisión es tuya.
+
+[7523]
+Seguir adelante o regresar…
+
+[7524]
+¿Qué debería elegir?
+
+[7525]
+¡Oigan! Ustedes son de la Iglesia de la Santa Doncella, ¿verdad?
+
+[7526]
+¡Tienen que hacer algo con esas criaturas extrañas que andan por el bosque!
+
+[7527]
+(¿Quién se cree que es esta señora para darnos órdenes?)
+
+[7528]
+¿Tienes algo que hacer en el bosque?
+
+[7529]
+Quiero ir a visitar a mi novio, Barsom.
+
+[7530]
+Qué lástima.
+
+[7531]
+Puede que no consigas verlo.
+
+[7532]
+Bueno, tampoco es tan importante verlo hoy.
+
+[7533]
+Hasta hace poco estaba completamente calvo, pero de repente le salió una buena mata de pelo.
+
+[7534]
+Con pelo es bastante guapo, así que pensé que no estaría mal salir con él.
+
+[7535]
+Pero tampoco me importa mucho si hoy no puedo verlo.
+
+[7536]
+¡¿Qué se supone que significa eso?! ¿Eliges a tus novios solo por su aspecto?
+
+[7537]
+Pues sí, más o menos.
+
+[7538]
+¿Y qué tiene de malo?
+
+[7539]
+A ver, es mejor alguien guapo que alguien feo, ¿no?
+
+[7540]
+¿O acaso a ti te gustan los feos?
+
+[7541]
+¡Pero qué…!
+
+[7542]
+¿Cuándo empezó a crecerle el pelo?
+
+[7543]
+Pues hace poco… ¿Cinco días, quizá?
+
+[7544]
+¿Hace cinco días…?
+
+[7545]
+¿No dijo el padre Salade que esas cosas aparecieron en el bosque hace cinco días?
+
+[7546]
+Aquí hay gato encerrado…
+
+[7547]
+Creo que deberíamos ir a ver a Barsom…
+
+[7548]
+Justo cuando empezaba a salirme pelo, ¡se me vuelve a caer…!
+
+[7549]
+¡Pero no hay de qué preocuparse!
+
+[7550]
+¡Tengo mi tónico capilar especial: Super Grozapine Z!
+
+[7551]
+A ver… Primero me pongo el tónico en la cabeza, así…
+
+[7552]
+Después me masajeo el cuero cabelludo. Tengo que cerrar los ojos para que no me caiga tónico dentro…
+
+[7553]
+Y, por último, pronuncio las palabras mágicas…
+
+[7554]
+¡Madre Divina, dame pelo!
+
+[7555]
+¿Así que esto es lo que provoca todos los problemas…?
+
+[7556]
+Eso parece.
+
+[7557]
+¡Tienes que estar de broma…!
+
+[7558]
+¿Dices que te dio el tónico un hombre que afirmaba pertenecer a la Iglesia de la Madre Divina?
+
+[7559]
+Sí, así es.
+
+[7560]
+¿Y qué pasa con eso?
+
+[7561]
+¿No has visto últimamente unas cositas peludas correteando por aquí?
+
+[7562]
+No. ¿Por qué?
+
+[7563]
+Seguramente no atacarán a quien las creó.
+
+[7564]
+Probablemente no atacarán a su creador. No podrían reproducirse sin él. / Mira, hagas lo que hagas, ¡no uses ese tónico nunca más!
+
+[7565]
+¡¿Q-qué?! ¡Este tónico es tan importante para mí como mi propia vida!
+
+[7566]
+¡Gracias a él estoy saliendo con Suzanne, la chica de mis sueños!
+
+[7567]
+¡Ni se me pasa por la cabeza dejar de usarlo!
+
+[7568]
+Me parece que tenemos un problema.
+
+[7569]
+Supongo que tendremos que obligarlo a dejar de usarlo.
+
+[7570]
+Un momento. ¿No puedes comprender al pobre hombre?
+
+[7571]
+Como hombre, me opongo a que lo obliguemos.
+
+[7572]
+¡Yo también!
+
+[7573]
+Si estuviera en su lugar, seguramente haría lo mismo…
+
+[7574]
+Eso es.
+
+[7575]
+¿Verdad que sí?
+
+[7576]
+Ah, está bien… Tendremos que encontrar otra solución.
+
+[7577]
+¡Eh! ¡Ustedes son de la Iglesia de la Santa Doncella, ¿no?!
+
+[7578]
+¡Tienen que hacer algo con esas criaturas extrañas que andan por el bosque!
+
+[7579]
+¿Así que tú eres Suzanne?
+
+[7580]
+Así es. ¿Cómo sabes mi nombre?
+
+[7582]
+…Entonces, ¿el tónico capilar de Barsom está creando esas criaturas?
+
+[7583]
+Me temo que sí.
+
+[7584]
+Debí sospecharlo. A un calvo no le sale tanto pelo de la noche a la mañana.
+
+[7585]
+Pero esto se acabó.
+
+[7586]
+Voy a romper con él.
+
+[7587]
+¡Pero serás…!
+
+[7588]
+¿Qué? ¿Tienes algún problema?
+
+[7589]
+E-espera un momento, Prier.
+
+[7590]
+¡Cálmate!
+
+[7591]
+¡No! ¡Ya no aguanto más!
+
+[7592]
+¡Escúchame bien!
+
+[7593]
+¡Barsom solo usa ese tónico porque está enamorado de ti!
+
+[7594]
+¿Sabes qué diferencia hay entre tú y esos monstruos peludos que invaden el bosque?
+
+[7595]
+¡Al menos los monstruos son cálidos! Barsom se esfuerza para gustarte.
+
+[7596]
+¡Ten un poco de consideración!
+
+[7597]
+…Ya entiendo.
+
+[7598]
+Barsom es buena persona… creo.
+
+[7599]
+Y me quiere más que nadie… creo.
+
+[7600]
+Y tampoco me cae mal… creo.
+
+[7601]
+¡Esa belleza de la que hablas no es más que apariencia!
+
+[7602]
+¡Lo que importa de una persona es cómo es por dentro!
+
+[7603]
+¡Cállate!
+
+[7604]
+¡No eres más que un crío!
+
+[7605]
+Esto es un problema.
+
+[7606]
+Esperaba que ella pudiera convencer a Barsom de dejar el tónico…
+
+[7607]
+¡¿Hola?!
+
+[7608]
+Aquí tienes más tónico.
+
+[7609]
+¡Estupendo! ¡El que me diste la última vez ya casi se me acaba!
+
+[7610]
+¡Te lo agradezco muchísimo!
+
+[7611]
+¡No sé cómo agradecértelo!
+
+[7612]
+No hace falta que me des las gracias.
+
+[7613]
+La Madre siempre ayuda a los necesitados.
+
+[7614]
+¡Menuda patraña!
+
+[7615]
+¡La Iglesia de la Santa Doncella! / ¡¡Así es!!
+
+[7616]
+¡Se aprovechan de las debilidades de la gente!
+
+[7617]
+¡No pienso permitirlo!
+
+[7618]
+¡Doncella de la Luz, recibirás tu castigo!
+
+[7619]
+¡Arrepiéntete!
+
+[7620]
+¡Estamos cumpliendo una gran misión! ¡Una misión sagrada para construir nuestra Utopía Oscura!
+
+[7621]
+¡Necesitamos energía oscura para alcanzar nuestro objetivo!
+
+[7622]
+¡Y sí, habrá que hacer sacrificios!
+
+[7623]
+¡Así es!
+
+[7624]
+¡Esta es una guerra santa!
+
+[7625]
+¿Una guerra santa…?
+
+[7626]
+Oye… Cuando hablas de sacrificios, no te referirás a mí, ¿verdad?
+
+[7627]
+Pero ¿qué está pasando aquí…?
+
+[7628]
+¡No sé cómo agradecértelo!
+
+[7629]
+No hace falta agradecerlo. La Iglesia ayuda a los necesitados.
+
+[7630]
+Oye… Cuando hablas de sacrificios, no te referirás a mí, ¿verdad?
+
+[7631]
+¡Aaaaaah!
+
+[7632]
+¡Esa es la voz de Suzanne!
+
+[7633]
+¡Oh, Barsom!
+
+[7634]
+¡¿Qué miras?! ¡¿Crees que puedes vencerme?!
+
+[7635]
+Me han matado…
+
+[7636]
+…¡a manos de escoria humana…!
+
+[7637]
+¡Pero yo reiré el último!
+
+[7638]
+¡Ja, ja, ja! ¡Haré arder todo en cinco millas a la redonda con las llamas del infierno! ¡Me los llevaré a todos conmigo!
+
+[7639]
+¡Maestro Noir!
+
+[7640]
+¡P-pero por qué…?!
+
+[7641]
+¡Estoy haciendo esto por tiiiii!
+
+[7642]
+Mis disculpas.
+
+[7643]
+Soy Noir, jefe de la Iglesia…
+
+[7644]
+…de la Madre Divina. Encantado de conocerlos.
+
+[7645]
+¿Por qué lo detuviste?
+
+[7646]
+¿No te habría venido mejor que redujera a cenizas el bosque y nos quemara con él?
+
+[7647]
+Solo un bárbaro incendiaría un bosque tan hermoso.
+
+[7648]
+¡Qué descaro decir eso tú!
+
+[7649]
+Parece que ha habido un malentendido.
+
+[7650]
+No buscamos destruir por destruir.
+
+[7651]
+Solo queremos un lugar al que podamos llamar hogar.
+
+[7652]
+¿Te refieres a tu Utopía?
+
+[7653]
+¿¡Utopía!? ¡Ja!
+
+[7654]
+¡¿Qué clase de utopía exige la muerte de tantos inocentes?!
+
+[7655]
+No espero que lo entiendas. Al fin y al cabo, somos polos opuestos.
+
+[7656]
+Pero recuerda algo: nosotros también tenemos nuestra propia idea del bien y del mal, igual que ustedes.
+
+[7657]
+¡Oye! ¿Piensas acabar con nosotros?
+
+[7658]
+Para mí no son más que hormigas. Ni siquiera vale la pena pisotearlas.
+
+[7659]
+Vaya lengua tienes, muchacho.
+
+[7660]
+Creo que necesitas una lección de modales. Y yo voy a dártela.
+
+[7661]
+Puedo matarte cuando quiera: si te interpones en mi camino o si simplemente me apetece.
+
+[7662]
+Por ahora, dale gracias a tu Diosa de que te permita vivir.
+
+[7663]
+Así que no somos nada para él, ¿eh?
+
+[7664]
+¡Me revuelve el estómago!
+
+[7665]
+Así que ese es el líder de la Iglesia de la Madre Divina…
+
+[7666]
+Me lo imaginaba más aterrador.
+
+[7667]
+Bueno, Culotte…
+
+[7668]
+No debes juzgar a nadie por su apariencia.
+
+[7669]
+Antes, cuando hizo desaparecer a ese demonio…
+
+[7670]
+Se estaba conteniendo, pero aun así tiene el poder de un señor demoníaco.
+
+[7671]
+Si llegara a usar todo su poder…
+
+[7672]
+¡Bah! ¡No me da ningún miedo!
+
+[7673]
+¡La próxima vez que lo vea, le daré una paliza de las buenas!
+
+[7674]
+¡M-mi pelo!
+
+[7675]
+¡Mi precioso pelo!
+
+[7676]
+Al morir el demonio, el tónico debió de perder su efecto…
+
+[7677]
+¡Así, Suzanne nunca querrá salir conmigo!
+
+[7678]
+¡Mi vida se ha acabado!
+
+[7679]
+Me gustaría consolarlo, pero no sé qué decirle…
+
+[7680]
+Supongo que el amor puede ser muy complicado.
+
+[7681]
+¿Nunca has estado enamorado, Croix?
+
+[7682]
+Quién sabe.
+
+[7683]
+Recuerda que he perdido la memoria.
+
+[7684]
+Ah, claro…
+
+[7685]
+¿Y tú, Alouette?
+
+[7686]
+A mí me pasa lo mismo que a ti.
+
+[7687]
+(La hermana Alouette es tan guapa…)
+
+[7688]
+(El amor…)
+
+[7689]
+(He estado tan obsesionada con convertirme en la Doncella de la Luz que nunca me había parado a pensar en el amor…)
+
+[7690]
+(El amor…
+
+[7691]
+El amor, ¿eh…?)
+
+[7692]
+(¿Qué se sentirá al estar enamorada…?)
+
+[7693]
+(Supongo que es distinto de lo que siento por Culotte…)
+
+[7694]
+(Y de lo que siento por el padre Salade y Alouette…)
+
+[7695]
+(Y por Croix…)
+
+[7696]
+(Hace muy poco que conozco a Croix, pero parece muy buena persona…)
+
+[7697]
+(Alegre, alguien en quien puedes confiar…)
+
+[7698]
+(Y… también es guapo…)
+
+[7699]
+(Pero ¿eso es amor?)
+
+[7700]
+(No tengo ni idea.)
+
+[7701]
+¿Qué te pasa…?
+
+[7702]
+¡N-nada!
+
+[7703]
+¡Nada de nada!
+
+[7704]
+¿Y a esta qué le pasa?
+
+[7705]
+(Ver de repente la cara de Croix debió de darme un buen susto…
+
+[7706]
+El corazón me va a mil…)
+
+[7707]
+(¿Me… late el corazón tan rápido?)
+
+[7708]
+(¿Por qué será?)
+
+[7709]
+(¿Solo porque me ha sobresaltado?)
+
+[7710]
+(¿O será…?)
+
+[7711]
+(¿Qué le pasa a Prier? Se comporta de forma muy rara…)
+
+[7712]
+…En cualquier caso, las actividades de la Iglesia son bastante preocupantes.
+
+[7713]
+Puede que el padre Salade tuviera razón: el regreso del Príncipe Oscuro podría estar cerca.
+
+[7714]
+¿El Príncipe Oscuro?
+
+[7715]
+¡Eso significa que yo también me convertiré pronto en la Doncella de la Luz!
+
+[7716]
+¡Je, je!
+
+[7717]
+¡Ay, deja de darte tanta importancia!
+
+[7718]
+Barsom…
+
+[7719]
+Suzanne…
+
+[7720]
+…¡Adiós!
+
+[7721]
+Bueno, Suzanne te ha dejado…
+
+[7722]
+¡Pero a mí me has parecido estupendo!
+
+[7723]
+¡No cualquiera arriesga su vida por la persona a la que ama!
+
+[7724]
+Me has parecido maravilloso.
+
+[7725]
+¡Da igual cómo seas por fuera! ¡Lo que cuenta es lo que llevas dentro!
+
+[7726]
+Ella no ha sabido verlo.
+
+[7727]
+Aunque estés calvo, ¡tu corazón tiene una melena envidiable!
+
+[7728]
+Ah… gracias…
+
+[7729]
+Todavía me duele haber perdido el pelo, pero ahora me siento algo mejor.
+
+[7730]
+Gracias.
+
+[7731]
+¡No hay de qué!
+
+[7732]
+¡Ánimo! ¡Hay más peces en el mar!
+
+[7733]
+Qué amable eres.
+
+[7734]
+Casi pareces un ángel…
+
+[7735]
+¡Sé mi novia!
+
+[7736]
+¡Sí, hombre! ¡Sigue soñando!
+
+[7737]
+¿Por qué me salvaste?
+
+[7738]
+Yo solo salía contigo por tu aspecto.
+
+[7739]
+¿Es que no lo sabías?
+
+[7740]
+Sí, pero aun así…
+
+[7741]
+¡Te quería de verdad!
+
+[7742]
+Estabas preocupada por él. Por eso viniste hasta aquí, ¿verdad?
+
+[7743]
+En el fondo, a ti también te gusta.
+
+[7744]
+¿Por qué no puedes olvidarte de su aspecto?
+
+[7745]
+¡Escucha a tu corazón!
+
+[7746]
+¡Confía en lo que sientes!
+
+[7747]
+Pero aun así preferiría a alguien guapo.
+
+[7748]
+¡Oye, ya basta!
+
+[7749]
+¡Se jugó la vida para protegerte!
+
+[7750]
+¿Es que no te das cuenta?
+
+[7751]
+¡¿Hay algo más atractivo que eso?!
+
+[7752]
+¡Cuando miro a Barsom, veo una estrella resplandeciente!
+
+[7753]
+¡Sí! ¡Brilla más que nadie!
+
+[7754]
+¡Si no eres capaz de verlo, no te lo mereces!
+
+[7755]
+Agradezco que me defiendas, pero ¿podrías evitar palabras como «brillar»?
+
+[7756]
+Es que estoy un poco sensible con ese tema.
+
+[7757]
+Ah… Perdona.
+
+[7758]
+¿Por qué me quieres?
+
+[7759]
+Tienes un corazón precioso, Suzanne. Aunque los demás no lo sepan apreciar, eres muy bondadosa.
+
+[7760]
+Sé que vienes todos los días al bosque para ayudar a los animales heridos.
+
+[7761]
+Supongo que es natural fijarse en el aspecto de las personas.
+
+[7762]
+Entiendo que no quieras a alguien como yo.
+
+[7763]
+Pero quiero que sepas que te amo por tu belleza interior, no por tu aspecto.
+
+[7764]
+Barsom, siempre he juzgado a los hombres por su aspecto. Me cuesta entender cómo alguien podría considerarte atractivo.
+
+[7765]
+¡¿Todavía no lo entiendes?!
+
+[7766]
+¡No he terminado!
+
+[7767]
+Por eso quiero que me enseñes. Enséñame cómo es un hombre verdaderamente atractivo.
+
+[7768]
+¡Sí!
+
+[7769]
+Menos mal.
+
+[7770]
+Tú eres Suzanne, ¿verdad? Barsom nos habló de ti.
+
+[7771]
+Lo cierto es que…
+
+[7772]
+¡Qué crueldad!
+
+[7773]
+No salgo con hombres feos.
+
+[7774]
+A ver, prefiero a alguien guapo antes que a alguien feo, ¿no?
+
+[7775]
+¿Tienes algún problema?
+
+[7776]
+¡No! ¡Ya no aguanto más!
+
+[7777]
+Al menos los monstruos son cálidos. Barsom se esfuerza por caerte bien. ¡Muéstrale un poco de cariño!
+
+[7778]
+…pero yo seguiría prefiriendo salir con alguien guapo.
+
+[7779]
+Dame pelo…
+
+[7780]
+E-esa voz…
+
+[7781]
+¿Será posible que…?
+
+[7782]
+¿Barsom…?
+
+[7783]
+La tristeza por haber perdido el pelo ha dejado que la oscuridad se apodere de su corazón.
+
+[7784]
+Qué horror… ¿No podemos hacer nada para que vuelva a ser el de antes?
+
+[7785]
+Cuando la oscuridad se apodera de alguien, esa persona ya no puede recuperar su forma humana.
+
+[7786]
+Me temo que ahora solo podemos hacer una cosa por él.
+
+[7787]
+…¿Te refieres a purificar nosotros mismos su alma?
+
+[7788]
+Tú decides, Prier.
+
+[7789]
+Podemos dejarlo así o…
+
+[7790]
+Pobre Barsom…
+
+[7791]
+M-mi pelo…
+
+[7792]
+Dar descanso a su alma…
+
+[7793]
+¡Que esta pobre alma herida descanse en paz!
+
+[7794]
+Ah… Mi cabeza…
+
+[7795]
+¡Está llena de pelo!
+
+[7796]
+¡Una melena larga y abundante!
+
+[7797]
+Ahora Suzanne me querrá…
+
+[7798]
+La apariencia no debería importar y, aun así, nos preocupa. Qué cosa más rara.
+
+[7799]
+Todos queremos tener buen aspecto.
+
+[7800]
+Sobre todo delante de alguien que nos gusta.
+
+[7801]
+Pero al final sus preocupaciones lo convirtieron en un demonio…
+
+[7802]
+Qué triste…
+
+[7803]
+¿No podríamos haber hecho algo para evitarlo?
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk06_jp.dat ===
+
+[7804]
+Dicen que la tripulación del Escargot está en la ciudad.
+
+[7805]
+Seguro que están tramando algo malo…
+
+[7806]
+Eres monja, ¿verdad? ¿Puedes decirme cuál es el sentido de la vida? ¡Vamos, dímelo!
+
+[7807]
+¿El sentido de la vida…?
+
+[7808]
+Me aburro… Oye, Prier, ¿qué te parece si salimos juntos?
+
+[7809]
+¿No ves que ahora estoy un poco ocupada?
+
+[7810]
+¿Verdad, Croix?
+
+[7811]
+Yo creo que podemos sacar un rato. ¿Por qué no sales con él?
+
+[7812]
+(¡Pero qué…! ¡¿Por qué no me ha defendido?!)
+
+[7813]
+(¡Le parece bien que me vean en público con ese viejo asqueroso!)
+
+[7814]
+El padre Salade dice que derrotó a un Gran Mooboo de un solo puñetazo.
+
+[7815]
+¿Tú crees que es verdad?
+
+[7816]
+El leñador y Suzanne van a casarse.
+
+[7817]
+¡Qué maravilla!
+
+[7818]
+Puede que Suzanne dejara a Barsom, pero dicen que ahora tiene otra novia.
+
+[7819]
+Dicen que en el bosque vaga un espíritu maligno en busca de pelo…
+
+[7820]
+¡He comprado tantos productos de la Madre que me he endeudado hasta las cejas!
+
+[7821]
+¡Ay!
+
+[7822]
+¡El capitán Homard sí que es guapo! Ojalá pudiera lavarle a él la ropa interior…
+
+[7823]
+Tú eres Homard, ¿verdad?
+
+[7824]
+Estaría encantada de lavarte la ropa interior.
+
+[7825]
+Por desgracia, nunca llevo ropa interior.
+
+[7826]
+¡¿Cómo?!
+
+[7827]
+¿Qué es esto, un programa de humor? Mira, si quisiera escuchar chistes, te seguiría hasta el baño de hombres…
+
+[7828]
+Entonces, ¿de dónde salieron esas cosas del bosque de Meuniere?
+
+[7829]
+Últimamente parece que no dejan de pasar desgracias…
+
+[7830]
+La aparición del Caballero Oscuro en el castillo de Cresson tiene que tener alguna causa.
+
+[7831]
+Todo ocurre por algún motivo.
+
+[7832]
+No lo olvides nunca.
+
+[7833]
+Puede que el aumento de las energías oscuras anuncie el regreso del Príncipe Oscuro…
+
+[7834]
+¡Dicen que te has unido a la Banda Chocolat, Prier!
+
+[7835]
+Tal vez esa vida te pegue más que ser hermana de la Iglesia…
+
+[7836]
+¿De dónde habrá sacado semejante rumor…?
+
+[7837]
+Últimamente no tengo fuerzas para nada. Será que me estoy haciendo mayor.
+
+[7838]
+Cuando rellenes la encuesta, piensa bien qué objetos necesitas.
+
+[7839]
+Los objetos que equipes pueden influir muchísimo en tu rendimiento en combate.
+
+[7840]
+Elegir bien los objetos también forma parte de la estrategia.
+
+[7841]
+Parece que el Caballero Oscuro no tiene nada que ver con la Iglesia. ¡Ni siquiera ellos pueden meterse con la familia real!
+
+[7842]
+…Lo siento. Esta vez no tengo información útil para ti.
+
+[7843]
+Lo único que puedo decirte es que siempre viene bien tener muchos amigos.
+
+[7844]
+¿Estás usando tu habilidad de purificación? Si la aprovechas, podrás luchar incluso con un nivel bajo.
+
+[7845]
+¿Has averiguado algo sobre Fátima?
+
+[7846]
+Ah…
+
+[7847]
+Pobrecito Rocini…
+
+[7848]
+Diosa mía…
+
+[7849]
+¿Por qué ha tenido que sufrir ese niño una enfermedad tan terrible…?
+
+[7850]
+Rocini y su madre ya se han marchado a casa.
+
+[7851]
+Te estaban muy agradecidos por tu ayuda.
+
+[7852]
+He oído que el encargado de la tienda Rosenqueen de Pot-au-Feu es un Eringa. Me gustaría trabajar allí también.
+
+[7854]
+¡Formemos todos un círculo de amistad entre eringas!
+
+[7855]
+Lección dos: «Adiós».
+
+[7856]
+En eringés, «adiós» se dice «asafaianvaoraemoeri».
+
+[7857]
+Como gran anciano del monte Champignon, permítanme decirles algo…
+
+[7858]
+¡Deberían convertirse en eringas!
+
+[7859]
+Los eringas pueden adaptarse a cualquier entorno.
+
+[7860]
+Por eso suelen instalarse en aldeas que otros han abandonado.
+
+[7861]
+¿Quieres comprar algo?
+
+[7862]
+Para seguir investigando el caso de Fátima, necesitamos consultar la biblioteca de la familia real.
+
+[7863]
+Para seguir investigando lo de Fátima, debemos consultar la biblioteca de la familia real. Tenemos que ir al castillo Cresson. / Sí. ¡Debemos investigarlo todo a fondo para entender a qué se refería la diosa!
+
+[7864]
+¿Puedes escuchar a la mismísima Diosa?
+
+[7865]
+¡Eres increíble, Alouette!
+
+[7866]
+¡Eso no fue ningún mensaje de la Diosa!
+
+[7867]
+¡No fue más que un sueño!
+
+[7868]
+¡UN SUEÑO!
+
+[7869]
+¡Que te quede claro! ¡Yo seré la Doncella de la Luz!
+
+[7870]
+No tenemos ni idea de qué va todo este asunto de Fátima.
+
+[7871]
+Solo espero que nos ayude a descubrir algo sobre el pasado de Alouette.
+
+[7872]
+Sí…
+
+[7873]
+(¿Y si al final resulta que a Croix le gusta Alouette…?)
+
+[7874]
+Me sorprendió enterarme de que el Caballero Oscuro era en realidad Éclair.
+
+[7875]
+¡Tenemos que purificar la oscuridad de su corazón antes de que se convierta en un demonio!
+
+[7876]
+Entendido, ¡pero procura no excederte!
+
+[7877]
+Éclair no querría que te desmayaras mientras purificas su corazón.
+
+[7878]
+Sí… Gracias, Prier.
+
+[7879]
+¿Vas a entrar en su corazón, Alouette?
+
+[7880]
+Es una temeridad… ¿De verdad saldrá bien?
+
+[7881]
+¡También tenemos que purificar a Éclair por el bien de Alouette!
+
+[7882]
+¡Sí!
+
+[7883]
+¿Una segunda personalidad que surge a medida que crece la oscuridad en su corazón?
+
+[7884]
+Vaya, debe de ser duro ser princesa…
+
+[7885]
+Me pregunto qué llevó a Éclair a ese extremo. Si eliminamos la oscuridad, ¿Éclair volverá a la normalidad?
+
+[7886]
+Solo podemos intentarlo…
+
+[7887]
+¡Por fin tenemos permiso para consultar la biblioteca real! ¡Es hora de retomar la investigación!
+
+[7888]
+¡Eso, vamos…! Aunque, ahora que lo pienso, nos vamos a pasar el tiempo leyendo libros, ¿no?
+
+[7889]
+Pues sí. Vamos a una biblioteca, al fin y al cabo.
+
+[7890]
+Justo lo que me temía…
+
+[7891]
+¡Menudo rollo!
+
+[7892]
+Deja de comportarte así. Derrotamos al Caballero Oscuro, pero ¿Éclair ha vuelto de verdad a ser la de antes?
+
+[7893]
+¡Deja de darle tantas vueltas!
+
+[7894]
+¡Duerme un poco y verás cómo se te pasan todas las preocupaciones!
+
+[7895]
+Quizá a ti te funcione, Prier…
+
+[7896]
+¡¿Qué insinúas?!
+
+[7897]
+¿La biblioteca real, eh?
+
+[7898]
+Seguro que está llena de libros.
+
+[7899]
+Parece el lugar perfecto para investigar.
+
+[7900]
+¡¿Qué has dicho, Croix?!
+
+[7901]
+¡¿Y a ti desde cuándo te gusta leer?!
+
+[7902]
+¡Oye! ¡Yo también leo de vez en cuando!
+
+[7903]
+¡No me metas en el mismo saco que tú!
+
+[7904]
+¿De verdad habrá piedras preciosas en el monte Tarte…?
+
+[7905]
+¡Como Hermes se haya equivocado con lo de las gemas, se va a enterar!
+
+[7906]
+Deberíamos haberle sacado la información a golpes desde el principio…
+
+[7907]
+Ja, ja… Es broma.
+
+[7908]
+Por un momento parecía que lo decías en serio…
+
+[7909]
+¡Deprisa, al monte Tarte!
+
+[7910]
+Cuando consigamos una gema, sabremos más sobre Fátima. Menos mal.
+
+[7911]
+Saber más de Fátima que de ti mismo... Qué situación tan rara...
+
+[7912]
+Qué situación más absurda…
+
+[7913]
+Lleva allí miles de años. No me extraña que tenga la memoria un poco oxidada.
+
+[7914]
+El Mediador parece de lo más arrogante con eso de exigir gemas a cambio de información.
+
+[7915]
+Para ser el mediador entre la diosa y el ángel caído, bien que se guarda la información. / En realidad, el hecho de que quiera intercambiar una joya por información podría significar que realmente es digno de confianza.
+
+[7916]
+En fin, ya tenemos la gema. ¿Volvemos a la biblioteca real?
+
+[7917]
+¡Vamos a desentrañar de una vez todo el asunto de Fátima!
+
+[7918]
+Así que al final sí que encontraron gemas en el monte Tarte, ¿eh?
+
+[7919]
+Parece que después de todo podemos confiar en Hermes, el Mediador.
+
+[7920]
+No sabría decirte.
+
+[7921]
+No debemos bajar la guardia hasta tener información concreta sobre Fátima.
+
+[7922]
+Ser fiel a tus sentimientos, ¿eh…?
+
+[7923]
+Ja, ja… Homard sí que es un tipo curioso.
+
+[7924]
+¿En serio te gusta ese tipo…?
+
+[7925]
+La mitad de las veces no entiendo ni una palabra de lo que dice.
+
+[7926]
+De alguna manera, se podría decir que los hombres son más fieles a sus sentimientos que las mujeres. / ¡Eso no tiene sentido!
+
+[7927]
+Así que esta es la legendaria tierra de Fátima, ¿eh?
+
+[7928]
+¡Solo de pensar en las aventuras que nos esperan, me hierve la sangre de emoción!
+
+[7929]
+Me pregunto si de verdad piensa venir con nosotros…
+
+[7930]
+De vez en cuando hay que seguirle el juego a las bromas de Culotte.
+
+[7931]
+¿Eh?
+
+[7932]
+¿Te pasa algo? ¿Por qué estás tan callado?
+
+[7933]
+Sí que eres raro.
+
+[7934]
+(¡La rara eres tú, Prier…!)
+
+[7935]
+Yo sigo siendo el de siempre…
+
+[7936]
+¿Estás bien, Croix?
+
+[7937]
+Sí… Estoy bien.
+
+[7938]
+No hay de qué preocuparse.
+
+[7939]
+Es la primera vez que salgo de mi ciudad natal.
+
+[7940]
+Me inquieta un poco.
+
+[7941]
+A mí me pasa lo mismo.
+
+[7942]
+Estamos todos juntos, así que seguro que irá bien.
+
+[7943]
+…Seguramente.
+
