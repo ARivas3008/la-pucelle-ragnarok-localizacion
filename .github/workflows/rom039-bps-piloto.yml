@@ -16,3 +16,4 @@ jobs:
       - run: python -m py_compile scripts/generar_bps_mac_piloto.py
       - run: python scripts/test_generar_bps_mac_piloto.py
       - run: python scripts/test_rc026_puntuacion.py
+      - run: python scripts/test_rc026_reflujo.py
