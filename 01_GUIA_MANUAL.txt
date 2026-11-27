@@ -1,0 +1,52 @@
+LA PUCELLE: RAGNAROK — KIT MANUAL DE DIÁLOGOS PSP
+Edición piloto, 27/11/2026. Windows y macOS. No es RC026 ni un parche compilado.
+
+1. QUÉ INCLUYE
+herramientas/editor_dialogos.py: exportador e insertor conservador de textos TALK.
+herramientas/formato_talk.py: parser y relocalización de offsets del proyecto.
+herramientas/fuentes_es.py: codificación de caracteres españoles (gaiji F0).
+herramientas/nis_formats.py: lectura NISPACK y descompresión NIS LZS.
+02_EJEMPLO_TUTORIAL.txt: grupo 5151, ejemplo de cuatro líneas.
+03_PRUEBAS.txt: procedimiento de comprobación y limitaciones.
+herramientas/test_editor.py: prueba sintética, no prueba sobre ISO real.
+
+2. PREPARACIÓN
+Conserva la ISO original intacta. Para mejorar la traducción existente, usa COMO BASE la ISO española RC024 que obtuviste con MultiPatch, no el BPS ni una ISO comprimida CSO. Si partes del original, la fuente puede carecer de acentos: el editor rechazará caracteres no disponibles. Instala Python 3.10 o superior (https://www.python.org/downloads/). Editor de CSV: LibreOffice Calc (https://www.libreoffice.org/download/download-libreoffice/) o editor de texto UTF-8 como VS Code (https://code.visualstudio.com/Download). Emulador: PPSSPP (https://www.ppsspp.org/download/). Estas aplicaciones externas no se redistribuyen dentro del RAR; los cuatro scripts sí están incluidos. No necesitas UMDGen, Wine ni MultiPatch para esta edición directa. Para extraer el RAR usa Keka en macOS o 7-Zip en Windows, si tu descompresor actual no lo reconoce.
+
+3. CARPETAS
+Extrae todos los archivos juntos. Coloca una COPIA de la ISO RC024 en la carpeta del kit y llámala BASE_RC024.iso. Abre Terminal (Mac) o PowerShell (Windows) en esa carpeta. Mac: escribe cd seguido de un espacio, arrastra la carpeta a la terminal y pulsa Enter. Windows: abre la carpeta en Explorer, escribe powershell en la barra de dirección y pulsa Enter.
+Comprobar Python:
+Mac: python3 --version
+Windows: py --version
+Prueba sintética:
+Mac: python3 herramientas/test_editor.py
+Windows: py herramientas/test_editor.py
+Si falla, no uses el editor sobre tu ISO.
+
+4. EXTRAER TEXTOS DEL JUEGO
+Mac:
+python3 herramientas/editor_dialogos.py exportar "BASE_RC024.iso" "TEXTOS"
+Windows:
+py herramientas/editor_dialogos.py exportar "BASE_RC024.iso" "TEXTOS"
+Se crea TEXTOS/dialogos.csv y TEXTOS/origen.json. El CSV contiene líneas extraídas DE TU ISO, no de un corpus desactualizado. No borres origen.json. Si TEXTOS ya existe, usa otra carpeta.
+
+5. EDITAR
+Abre dialogos.csv en LibreOffice Calc. Importación: UTF-8, separador coma, delimitador comillas dobles; desactiva detección de números especiales y fórmulas, configura TODAS las columnas como texto. No reordenes, filtres y guardes subconjuntos, ni borres filas. Guarda como CSV UTF-8 con coma y comillas. Alternativamente edita con un editor CSV que preserve campos y comillas. Mantén recurso, entrada, id_dialogo, offset, tipo, original_hex y texto_actual intactos. SOLO escribe en nuevo_texto; dejar en blanco significa conservar. Solo filas DIALOGO son editables. Las opciones y controles desconocidos se conservan.
+Busca una palabra en texto_actual; varias apariciones pueden pertenecer a escenas distintas. Usa recurso + id_dialogo + entrada + offset + contexto de filas cercanas para decidir cuál cambiar. Un offset de la ISO original no coincide necesariamente con RC024. No edites bytes en un editor hexadecimal para alargar diálogos.
+Una fila = una línea existente. Hasta 28 caracteres de dos bytes por línea, incluidos espacios y puntuación; las variables A0..A9 auténticas son pares especiales y deben permanecer exactamente en el mismo orden y línea. No agregues saltos de línea, cuadros, filas nuevas ni cambies voces/retratos. El motor verifica glifos, longitud, controles y espacio real. Una traducción más larga puede ser rechazada aunque cumpla 28 pares: el recurso tiene un hueco limitado. Si falla, acorta la frase, reparte dentro de las mismas líneas o prueba otra edición. No fuerces la reinserción.
+Consulta 02_EJEMPLO_TUTORIAL.txt antes de editar.
+
+6. REINSERTAR Y GENERAR UNA ISO NUEVA
+Guarda CSV y cierra el editor.
+Mac:
+python3 herramientas/editor_dialogos.py insertar "BASE_RC024.iso" "TEXTOS" "PRUEBA_ES_01.iso"
+Windows:
+py herramientas/editor_dialogos.py insertar "BASE_RC024.iso" "TEXTOS" "PRUEBA_ES_01.iso"
+La herramienta comprueba el SHA-256 de la base, las columnas protegidas, los glifos y controles, actualiza offsets internos de TALK y tamaños de miembros NISPACK cuando caben, y verifica que los bytes fuera de SCRIPTPACK no cambian. Genera PRUEBA_ES_01.iso y PRUEBA_ES_01.iso.json. Si aparece ERROR, no se publica una ISO parcial. Si una salida ya existe, elige otro nombre. No se sobrescribe la base. No aplicar esta ISO sobre MultiPatch: se abre directamente como juego.
+Para una segunda tanda: exporta nuevamente la ISO modificada a una carpeta nueva, por ejemplo TEXTOS_02, y luego edita ese nuevo CSV. No reutilices offsets del CSV anterior sobre otra ISO.
+
+7. VALIDACIÓN EN PPSSPP
+Abre la ISO nueva desde Archivo > Cargar (o menú Juegos). Comprueba el inicio, la escena modificada, líneas adyacentes, opciones y guardado/carga. Usa partida normal desde el juego, no un estado rápido de otra ISO. Verifica que no se pierdan tildes, ¿, ¡, nombres, variables, saltos de página o voces. Si hay anomalías, conserva base y registra escena, texto, recurso, ID y captura. Este kit no modifica las fuentes instaladas ni corrige espaciado del renderizador.
+
+8. ALCANCE
+Este modo trabaja sobre /PSP_GAME/USRDIR/SCRIPTPACK.DAT y miembros talkXX_jp.dat. No edita START_JP.LZS/talk00.dat, DLC, scripts de rótulos, gráficos TXP, EBOOT, opciones de menú ni comandos. Tampoco agrega cuadros nuevos ni relocaliza un NISPACK entero. Si un diálogo no aparece, puede pertenecer a otro recurso. El límite de 28 pares y 286072 bytes procede de la política conservadora del motor del proyecto; no equivale a certificar visualmente todas las cajas. Fuente de referencia: formato_talk.py, recompilar_talk.py, fuentes_es.py, nis_formats.py, construir_parche.py; rama integracion/rom039-consolidacion-20261126. Los CSV de los 15 corpus están en https://github.com/ARivas3008/la-pucelle-ragnarok-localizacion/tree/main/corpus ; no son offsets actuales de la ISO. La edición propuesta es experimental y no ha sido ejecutada sobre la ISO auténtica en esta sesión.

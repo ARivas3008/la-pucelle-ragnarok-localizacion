@@ -1,0 +1,11 @@
+CHECKLIST DE PRUEBAS
+[ ] Ejecutar test_editor.py (datos sintéticos).
+[ ] Exportar ISO y verificar que dialogos.csv contiene filas reales.
+[ ] Modificar una sola línea DIALOGO en nuevo_texto.
+[ ] Insertar en ISO nueva. Revisar informe JSON y SHA-256.
+[ ] Exportar ISO nueva en otra carpeta y localizar la línea cambiada.
+[ ] Abrir PPSSPP sin estado rápido de otra ISO.
+[ ] Revisar diálogo, controles, voces y líneas siguientes.
+[ ] Guardar y cargar una partida normal.
+[ ] Si hay error, conservar base y documentar captura y entrada.
+El kit no está certificado en PPSSPP ni con ISO auténtica en esta sesión. Las pruebas automatizadas incluidas se deben ejecutar antes de utilizarlo. El RAR se construye sin archivos comerciales; no incluye ISO, DLC, fuentes comerciales ni ejecutables de aplicaciones externas.

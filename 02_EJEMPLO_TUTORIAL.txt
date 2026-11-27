@@ -1,0 +1,22 @@
+EJEMPLO REAL DEL CORPUS 05 — GRUPO 5151
+Recurso original: ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat
+Offset original: 122532 decimal (NO usar como offset de RC024).
+Unidades: 6456, 6457, 6458, 6459.
+Original: When you purify a dark portal, you damage enemies standing on the energy flowing from it.
+Contexto anterior: You may need to purify them more than once.
+Contexto posterior: The kind of damage depends on the color of the energy.
+Traducción de referencia del informe RC025:
+Al purificar un portal oscuro, dañas a los enemigos que estén sobre la corriente de energía que sale de él.
+
+1. Exporta la ISO que estás usando.
+2. Busca en dialogos.csv "When you purify a dark" (o palabras individuales "purify", "dark", "portal" o la traducción ya instalada). El texto puede tener caracteres de ancho completo normalizados en la exportación. Identifica las cuatro líneas del mismo bloque mediante recurso, entrada e ID. No supongas que los cuatro offsets del original coinciden con RC024.
+3. Comprueba visualmente que son las cuatro líneas del mismo diálogo, no opciones ni otra escena.
+4. Escribe, en nuevo_texto de esas cuatro filas, respectivamente:
+Al purificar un portal
+oscuro, dañas a los enemigos
+que estén sobre la corriente
+de energía que sale de él.
+
+Se conservan los cuatro slots. Es una propuesta de reparto, no una captura de juego ni una prueba de que los cuatro slots de RC024 sean idénticos. El programa verifica cada línea y el hueco del recurso. No modifiques texto_actual ni original_hex. Si no encuentras un bloque inequívoco o el programa rechaza la operación, no fuerces la edición. Si lo deseas, comienza con un solo diálogo de prueba más breve.
+
+Fuente: corpus/05/entrada.csv, grupo 5151 y docs/seguimiento/informes/RC-025_auditoria_correctiva.json.
