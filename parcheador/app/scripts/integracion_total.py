@@ -9,6 +9,7 @@ from contenedores import reconstruir_dat,reconstruir_nispack
 from iso_reubicar import anexar_recurso
 from integrar_scripts_v014 import load_rows,plan
 from fuentes_es import add_spanish_fonts,missing_render_glyphs
+from fontb_manual import apply_manual
 from nombres_fuera_manifiesto import aplicar as nombres_extra
 from atlas_ui_es import apply as atlas
 from formato_talk import inspect
@@ -136,6 +137,7 @@ def run(args):
     for off,h in d['changes']:members[name][off:off+len(bytes.fromhex(h))]=bytes.fromhex(h)
     if c.sh(members[name])!=d['nuevo_sha256']:raise ValueError('Delta de tabla incorrecto')
   proof[key]=dict(fuentes=add_spanish_fonts(members),atlas=atlas(members),etiquetas=etiquetas(key,original,members,manifest,reviews))
+  proof[key]['fontb_manual']=apply_manual(members)
   proof[key]['campos']=campos(key,original,members,manifest,reviews)
   if key=='ISO_START':
    sidecar=c.ROOT/'datos/CENT017_NAME_DAT_17_NO_INVENTARIADOS.csv'
