@@ -1,0 +1,1620 @@
+LA PUCELLE — 07_magias_y_descripciones — CORPUS 14
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO_START/magic.dat ===
+
+[13388]
+Crecimiento de PV +1
+
+[13389]
+Crecimiento de PE +1
+
+[13390]
+Crecimiento de ATQ +1
+
+[13391]
+Crecimiento de DEF +1
+
+[13392]
+Crecimiento de INT +1
+
+[13393]
+Crecimiento de VEL +1
+
+[13394]
+Crecimiento de PREC +1
+
+[13395]
+Crecimiento de PREC +1
+
+[13396]
+Crecimiento de RES +1
+
+[13397]
+Potenciar el rojo
+
+[13398]
+Añadir rojo
+
+[13399]
+Potenciar el verde
+
+[13400]
+Añadir verde
+
+[13401]
+Potenciar el amarillo
+
+[13402]
+Añadir amarillo
+
+[13403]
+Potenciar el azul
+
+[13404]
+Añadir azul
+
+[13405]
+Potenciar el morado
+
+[13406]
+Añadir morado
+
+[13407]
+Potenciar el azul claro
+
+[13408]
+Añadir azul claro
+
+[13409]
+Potenciar el blanco
+
+[13410]
+Añadir blanco
+
+[13411]
+Permite moverse 1 casilla más.
+
+[13412]
+Permite moverse 2 casillas más.
+
+[13413]
+Permite moverse 3 casillas más.
+
+[13414]
+Permite moverse 4 casillas más.
+
+[13415]
+Teletransporte
+
+[13416]
+Teletransporta a una unidad a cualquier punto del mapa.
+
+[13417]
+Golpe de gracia
+
+[13418]
+1Da una patada al rival donde más duele.
+
+[13419]
+Liberación
+
+[13420]
+1Lanza al enemigo por los aires de una doble patada.
+
+[13421]
+Tormenta divina
+
+[13422]
+1Una doble patada que hace temblar la tierra.
+
+[13423]
+Redención
+
+[13424]
+1Un ataque capaz de redimir cualquier alma.
+
+[13425]
+Viento sagrado
+
+[13426]
+3Ataque giratorio con un bastón sagrado.
+
+[13427]
+¡Al bate!
+
+[13428]
+3Un potente batazo con un bastón sagrado.
+
+[13429]
+Señor del Bosque
+
+[13430]
+3Invoca a la cría del Señor del Bosque para atacar.
+
+[13431]
+Ataque en pareja
+
+[13432]
+3Ataque combinado con Culotte.
+
+[13433]
+Garra oculta
+
+[13434]
+1Ataque combinado con Croix.
+
+[13435]
+Recuperación
+
+[13436]
+3Cura todos los estados alterados del objetivo.
+
+[13437]
+Patada destructora
+
+[13438]
+1Una potente patada devastadora.
+
+[13439]
+Cien flores
+
+[13440]
+1Ataque combinado con Homard.
+
+[13441]
+Transformación
+
+[13442]
+3Se transforma en Prier, Señora Demonio.
+
+[13443]
+Iyashi
+
+[13444]
+3Un milagro de sanación.
+
+[13445]
+Curación
+
+[13446]
+3Un milagro de sanación avanzado.
+
+[13447]
+Bendición
+
+[13448]
+3El milagro de sanación más poderoso.
+
+[13449]
+El fregadero
+
+[13450]
+2Arroja de todo... ¡menos el fregadero!
+
+[13451]
+Lanza de tulipán
+
+[13452]
+3Ataca con una lanza de tulipán.
+
+[13453]
+Setamanía
+
+[13454]
+3Invoca un desfile de setas para atacar.
+
+[13455]
+¡Misi, misi!
+
+[13456]
+3Invoca un gato de juguete gigante para atacar.
+
+[13457]
+Amor de cachorro
+
+[13458]
+3Ataque combinado con Alouette.
+
+[13459]
+Ciclón
+
+[13460]
+3¡Lo absorbo todo!
+
+[13461]
+Bomba arrojadiza
+
+[13462]
+1Ataque combinado con Croix.
+
+[13463]
+Lanza relámpago
+
+[13464]
+1Ataque combinado con Éclair.
+
+[13465]
+1Ataque combinado con Éclair Oscura.
+
+[13466]
+3Un milagro de sanación avanzado.
+
+[13467]
+Mano dura
+
+[13468]
+1A veces hay que ser duro por el bien de otros.
+
+[13469]
+Arrepentimiento
+
+[13470]
+1Hace que el adversario vea la luz.
+
+[13471]
+Librazo
+
+[13472]
+1Golpea al enemigo con el Libro Sagrado.
+
+[13473]
+Lluvia de fuego
+
+[13474]
+3Invoca las llamas del juicio.
+
+[13475]
+Trueno sagrado
+
+[13476]
+3Desata un trueno ensordecedor.
+
+[13477]
+Luz divina
+
+[13478]
+3Invoca un rayo divino.
+
+[13479]
+Juicio
+
+[13480]
+3Ataque de la Diosa de la Luz.
+
+[13481]
+Impacto sagrado
+
+[13482]
+Ataque combinado con Prier.
+
+[13483]
+Tajo cruzado
+
+[13484]
+1Ataque combinado con Homard.
+
+[13485]
+Puño de la Diosa
+
+[13486]
+1Ataque combinado con el Padre Salade.
+
+[13487]
+Disparo ígneo
+
+[13488]
+2Dispara una bala incendiaria.
+
+[13489]
+Disparo helado
+
+[13490]
+2Dispara una bala helada.
+
+[13491]
+Disparo doble
+
+[13492]
+2Dispara una bala de hielo y otra de fuego.
+
+[13493]
+Ametralladora
+
+[13494]
+3Ráfaga de ametralladora envuelta en llamas.
+
+[13495]
+Arma letal
+
+[13496]
+3Puede destruir incluso a un señor demoníaco.
+
+[13497]
+Sacrificio
+
+[13498]
+2Puede aniquilar incluso a un soberano demoníaco.
+
+[13499]
+Destructor
+
+[13500]
+1Un disparo a quemarropa.
+
+[13501]
+Estallido reflectante
+
+[13502]
+1Ataque combinado con Alouette.
+
+[13503]
+Ruptura cruzada
+
+[13504]
+Cañón electromagnético
+
+[13505]
+1Ataque combinado con Éclair.
+
+[13506]
+1Ataque combinado con Éclair Oscura.
+
+[13507]
+Espada regia
+
+[13508]
+1Una técnica de espada digna de la realeza.
+
+[13509]
+Trueno regio
+
+[13510]
+3Ataque con una espada imbuida de trueno regio.
+
+[13511]
+Poder regio
+
+[13512]
+1Un poderoso ataque regio.
+
+[13513]
+Transformación
+
+[13514]
+3Se transforma en Éclair Oscura.
+
+[13515]
+Luz y oscuridad
+
+[13516]
+Cumulonimbo
+
+[13517]
+3Ataque combinado con Homard.
+
+[13518]
+Pararrayos
+
+[13519]
+3Ataque combinado con Prier.
+
+[13520]
+Espada demoníaca regia
+
+[13521]
+1Un poderoso ataque regio de oscuridad.
+
+[13522]
+Lanzamiento de espada
+
+[13523]
+Golpe vengativo
+
+[13524]
+1Ataque combinado con el Padre Salade.
+
+[13525]
+Espada oscura
+
+[13526]
+1Ataca con la Espada de Aura.
+
+[13527]
+Lanza omega
+
+[13528]
+1Atraviesa al enemigo con la Espada de Aura.
+
+[13529]
+Tajo meteórico
+
+[13530]
+3Asesta un tajo con la Espada de Aura.
+
+[13531]
+3Se transforma en Éclair.
+
+[13532]
+3Ataque combinado con Homard.
+
+[13533]
+Prisión omega
+
+[13534]
+1Usa la Espada de Aura para apresar al objetivo.
+
+[13535]
+1Técnica combinada con Alouette.
+
+[13536]
+Golpe furioso
+
+[13537]
+1Técnica combinada con el Padre Salade.
+
+[13538]
+Filo de trueno
+
+[13539]
+1Ataque letal con una espada de trueno.
+
+[13540]
+Arremetida sombría
+
+[13541]
+1Corta a todos los enemigos a tu alcance.
+
+[13542]
+Tajo del rey
+
+[13543]
+1Una antigua técnica de espada de los reyes.
+
+[13544]
+Filo demoníaco
+
+[13545]
+1Imbuye un ataque de espada con poder demoníaco.
+
+[13546]
+Flecha rota
+
+[13547]
+3Ataque de espada ejecutado en pleno salto.
+
+[13548]
+Alma ardiente
+
+[13549]
+1Gasta todos los PE y PV en un último ataque desesperado.
+
+[13550]
+Hombre en llamas
+
+[13551]
+1Ataque combinado con Yattanya.
+
+[13552]
+Ruptura feérica
+
+[13553]
+3Ataque combinado con Papillon.
+
+[13554]
+Tajo lunar
+
+[13555]
+1Espadazo letal que parte al enemigo en dos.
+
+[13556]
+Atrapafrutas
+
+[13557]
+1Ataque combinado con Culotte.
+
+[13558]
+Puño sagrado
+
+[13559]
+1Puñetazo capaz de hacer tambalear a los demonios.
+
+[13560]
+Golpe de 50 años
+
+[13561]
+1Un puñetazo con el peso de 50 años.
+
+[13562]
+Patada de 50 años
+
+[13563]
+1Una patada con el peso de 50 años.
+
+[13564]
+Verdad sagrada
+
+[13565]
+1El fruto de años de entrenamiento.
+
+[13566]
+Tormenta sagrada
+
+[13567]
+1Ataque combinado con Prier.
+
+[13568]
+Puñetazo demoledor
+
+[13569]
+1Una tremenda ráfaga de puñetazos.
+
+[13570]
+Patada de práctica
+
+[13571]
+Esgrima veloz
+
+[13572]
+Cabalgata Barrett
+
+[13573]
+1Ataque combinado con Croix.
+
+[13574]
+Golpe de abanico
+
+[13575]
+1Asesta un golpe crítico con el abanico.
+
+[13576]
+Besito encantador
+
+[13577]
+3Encandila al adversario con un besito.
+
+[13578]
+Flecha de Cupido
+
+[13579]
+3Llama a tus amigos para que disparen flechas.
+
+[13580]
+Carga feérica
+
+[13581]
+3Llama a tus amigos para atacar.
+
+[13582]
+Andanada de flechas
+
+[13583]
+3Un potente ataque con flechas.
+
+[13584]
+Ataque colateral
+
+[13585]
+Zarpa gigante
+
+[13586]
+1Golpea al enemigo con una garra gigantesca.
+
+[13587]
+Zarpa alargada
+
+[13588]
+2Ataca con una larga zarpa felina.
+
+[13589]
+Zarpa ardiente
+
+[13590]
+1Ataca con una zarpa ardiente.
+
+[13591]
+Meteorito
+
+[13592]
+3Invoca meteoritos con su zarpa.
+
+[13593]
+Garra fugaz
+
+[13594]
+Zarpazo veloz.
+
+[13595]
+Garras crueles
+
+[13596]
+1Un cruel ataque de garras.
+
+[13597]
+Chocolat
+
+[13598]
+1Ataque combinado con Chocolat.
+
+[13599]
+Coletazo
+
+[13600]
+1Un coletazo terrible.
+
+[13601]
+Golpe de trasero
+
+[13602]
+1Un golpe brutal con el trasero.
+
+[13603]
+Zarpazo
+
+[13604]
+Asalto de Chocolat
+
+[13605]
+3Un ataque devastador junto a Chocolat.
+
+[13606]
+Mini Chocolat
+
+[13607]
+3Se divide en pequeñas copias de Chocolat para atacar.
+
+[13608]
+Mega Chocolat
+
+[13609]
+1Se unen para formar una Chocolat gigante.
+
+[13610]
+Chocolat derretida
+
+[13611]
+Un ataque dulce y pegajoso.
+
+[13612]
+Llama oscura
+
+[13613]
+3Quema al enemigo con llamas oscuras.
+
+[13614]
+Fuego infernal
+
+[13615]
+Abrasa al enemigo con fuego infernal.
+
+[13616]
+Onda oscura
+
+[13617]
+3Altera el estado de todas las unidades del área objetivo.
+
+[13618]
+Retribución
+
+[13619]
+3Inflige un gran daño a todos.
+
+[13620]
+3Elimina al azar a un enemigo del área objetivo.
+
+[13621]
+Veneno
+
+[13622]
+2Escupe una bola de veneno al objetivo.
+
+[13623]
+Embestida zombi
+
+[13624]
+1Se abalanza sobre el enemigo como un no muerto.
+
+[13625]
+Tajo zombi
+
+[13626]
+3Arremete contra el enemigo con todas sus fuerzas.
+
+[13627]
+Chupar sangre
+
+[13628]
+1Succiona sangre del objetivo y recupera PV.
+
+[13629]
+Hipnotizar
+
+[13630]
+3Duerme a los objetivos.
+
+[13631]
+Carga
+
+[13632]
+1Embiste contra un único objetivo.
+
+[13633]
+Esporas
+
+[13634]
+3Libera una nube de esporas que adormece a los objetivos.
+
+[13635]
+Pistón
+
+[13636]
+2Embelesa al enemigo con un movimiento hipnótico.
+
+[13637]
+Setamanía
+
+[13638]
+3Invoca a innumerables setas para atacar.
+
+[13639]
+Setaminador
+
+[13640]
+3Invoca al espíritu de las setas para atacar.
+
+[13641]
+Filo Kinoko
+
+[13642]
+Ataca a todos los enemigos del área objetivo con un tajo.
+
+[13643]
+Kinoko Jiru
+
+[13644]
+Prepara Kinoko Jiru para recuperar todos los PV.
+
+[13645]
+Llama
+
+[13646]
+Inflige daño con fuego.
+
+[13647]
+Llamarada
+
+[13648]
+Abrasa a los enemigos con llamas intensas.
+
+[13649]
+Infierno
+
+[13650]
+Reduce a los enemigos a cenizas entre llamas infernales.
+
+[13651]
+Incinerar
+
+[13652]
+Consume todos los PE para reducir al enemigo a cenizas.
+
+[13653]
+Estática
+
+[13654]
+3Ataca con electricidad estática.
+
+[13655]
+Danza de la barba
+
+[13656]
+3Convierte a una unidad en una bola de pelo.
+
+[13657]
+Trasplante
+
+[13658]
+Se divide para crear más aliados.
+
+[13659]
+Señor del Pelo
+
+[13660]
+3Invoca al dios del pelo para atacar.
+
+[13661]
+Rugido soporífero
+
+[13662]
+3Duerme a los objetivos.
+
+[13663]
+Grito de guerra
+
+[13664]
+3Aumenta la fuerza de ataque del objetivo.
+
+[13665]
+Rugido furioso
+
+[13666]
+2Embelesa e inflige daño a todos en el área objetivo.
+
+[13667]
+Golpe de oso
+
+[13668]
+1Un oso embiste con todo su cuerpo.
+
+[13669]
+Cruz del oso
+
+[13670]
+1El ataque definitivo de un oso.
+
+[13671]
+Fantasmagoría
+
+[13672]
+3Paraliza a los objetivos mediante hipnosis.
+
+[13673]
+Láser
+
+[13674]
+3Dispara un láser de calabaza.
+
+[13675]
+¡Bu!
+
+[13676]
+Inmoviliza al objetivo durante un turno.
+
+[13677]
+¡Buuuuu!
+
+[13678]
+Consume PE para infligir mucho daño a los objetivos.
+
+[13679]
+¡Buuuuuuuuu!
+
+[13680]
+Un grito mortal aterrador.
+
+[13681]
+Burbujas
+
+[13682]
+3Un ataque de burbujas.
+
+[13683]
+Chorro curativo
+
+[13684]
+3Un chorro de agua que cura a todos en el área objetivo.
+
+[13685]
+Maremoto
+
+[13686]
+Una ola gigante golpea a todos los del área objetivo.
+
+[13687]
+Estrépito
+
+[13688]
+3Inflige un daño devastador a todos.
+
+[13689]
+Canto de sirena
+
+[13690]
+3Una dulce canción que adormece a los enemigos.
+
+[13691]
+Disparo rompedor
+
+[13692]
+3Golpea a los objetivos donde más les duele.
+
+[13693]
+Billar
+
+[13694]
+Golpea a un objetivo en un punto vital.
+
+[13695]
+Canto mortal
+
+[13696]
+Con esta canción, conduce a una unidad a la muerte.
+
+[13697]
+Beso francés
+
+[13698]
+3Embelesa al enemigo con un beso bien húmedo.
+
+[13699]
+Helicóptero floral
+
+[13700]
+3Impide que todos utilicen magia.
+
+[13701]
+Impacto floral
+
+[13702]
+2Inflige daño y reduce la defensa.
+
+[13703]
+Bostezo hipnótico
+
+[13704]
+3Duerme a todos.
+
+[13705]
+Bostezo curativo
+
+[13706]
+3Cura a todos.
+
+[13707]
+Aliento de setas
+
+[13708]
+3Inflige daño venenoso a los objetivos.
+
+[13709]
+Prepara Kinoko Jiru para recuperar todos los PV.
+
+[13710]
+Dios de las setas
+
+[13711]
+Invoca al espíritu de las setas para atacar.
+
+[13712]
+Adorable
+
+[13713]
+3Encandila al enemigo con su ternura.
+
+[13714]
+Amiguetes del bosque
+
+[13715]
+3Invoca a los amigos del bosque para atacar.
+
+[13716]
+Rugido del Señor
+
+[13717]
+3Un rugido aterrador que paraliza al objetivo.
+
+[13718]
+Furia del bosque
+
+[13719]
+3Inflige un gran daño a todos.
+
+[13720]
+Plegaria oscura
+
+[13721]
+3Cura a todos con esta plegaria.
+
+[13722]
+Plegaria demoníaca
+
+[13723]
+Una plegaria maligna que mata al objetivo.
+
+[13724]
+Grito enloquecido
+
+[13725]
+3Paraliza a todos los del área objetivo.
+
+[13726]
+Ataque demoníaco
+
+[13727]
+1Un ataque demoníaco.
+
+[13728]
+Rugido maldito
+
+[13729]
+3Reduce la defensa de los objetivos.
+
+[13730]
+Rugido mortal
+
+[13731]
+Un rugido aterrador que mata al objetivo.
+
+[13732]
+Curación demoníaca
+
+[13733]
+Aroma embriagador
+
+[13734]
+3Embelesa a todos.
+
+[13735]
+Ataque noble
+
+[13736]
+1Un ataque elegante, propio de un caballero.
+
+[13737]
+Espuma inmovilizadora
+
+[13738]
+Impide que todos se muevan durante el próximo turno.
+
+[13739]
+Bombazo muscular
+
+[13740]
+1Embiste al enemigo con tu musculoso cuerpo.
+
+[13741]
+Onda espiritual
+
+[13742]
+3Ataca a todos con poder espiritual.
+
+[13743]
+3Aumenta el poder de ataque.
+
+[13744]
+3Reduce el poder defensivo.
+
+[13745]
+Puño demoníaco
+
+[13746]
+3Daña a todos con una paliza de puñetazos demoníacos.
+
+[13747]
+Rugido defensivo
+
+[13748]
+3Aumenta el poder defensivo.
+
+[13749]
+Rugido curativo
+
+[13750]
+3Cura a todos.
+
+[13751]
+Impacto demoníaco
+
+[13752]
+Rugido seductor
+
+[13753]
+3Reduce el poder de ataque.
+
+[13754]
+Lamento demoníaco
+
+[13755]
+3Inflige un gran daño.
+
+[13756]
+3Altera los estados.
+
+[13757]
+Bendición oscura
+
+[13758]
+Lágrima de monstruo
+
+[13759]
+3Inflige daño a los objetivos.
+
+[13760]
+Golpe de Chucky
+
+[13761]
+1Un ataque de Chucky.
+
+[13762]
+Cerámica
+
+[13763]
+2Ataca con piezas de cerámica.
+
+[13764]
+Muñeco calabaza
+
+[13765]
+2Ataca con calabazas y muñecos de arcilla.
+
+[13766]
+Escobas y fregonas
+
+[13767]
+2Ataca con escobas y fregonas.
+
+[13768]
+Cuchillos y tenedores
+
+[13769]
+2Ataca con cuchillos y tenedores.
+
+[13770]
+Cajas a montones
+
+[13771]
+2Ataca con una lluvia de cajas.
+
+[13772]
+Tetera
+
+[13773]
+2Ataca con una tetera.
+
+[13774]
+Lanzas y espadas
+
+[13775]
+2Ataca con lanzas y espadas.
+
+[13776]
+Maceta
+
+[13777]
+2Ataca con macetas.
+
+[13778]
+Riña familiar
+
+[13779]
+2Toda la familia viene de visita.
+
+[13780]
+Saturno
+
+[13781]
+2Ataca con Saturno.
+
+[13782]
+De todo un poco
+
+[13783]
+3Ataca con cualquier cosa.
+
+[13784]
+Mulder
+
+[13785]
+2Ataca con un ovni.
+
+[13786]
+Señor Hani
+
+[13787]
+3Invoca al Señor Hani para atacar.
+
+[13788]
+Lluvia de meteoritos
+
+[13789]
+3Ataca con meteoritos.
+
+[13790]
+Frenesí demoníaco
+
+[13791]
+1Invoca demonios para atacar.
+
+[13792]
+Cañón oscuro
+
+[13793]
+3Usa el poder de Saturno para arrasarlo todo.
+
+[13794]
+Relevo
+
+[13795]
+Oscuridad y luz
+
+[13796]
+Impacto de trueno
+
+[13797]
+Paliza diabólica
+
+[13798]
+Destructor de planetas
+
+[13799]
+Llama de pasión
+
+[13800]
+3Se transforma en Prier.
+
+[13801]
+Fuego
+
+[13802]
+3Inflige daño de fuego.
+
+[13803]
+Megafuego
+
+[13804]
+3Inflige daño de fuego al objetivo.
+
+[13805]
+Gigafuego
+
+[13806]
+Omegafuego
+
+[13807]
+Viento
+
+[13808]
+3Inflige daño de viento al objetivo.
+
+[13809]
+Megaviento
+
+[13810]
+Gigaviento
+
+[13811]
+Omegaviento
+
+[13812]
+Hielo
+
+[13813]
+3Inflige daño de hielo al objetivo.
+
+[13814]
+Megahielo
+
+[13815]
+Gigahielo
+
+[13816]
+Omegahielo
+
+[13817]
+Trueno
+
+[13818]
+3Inflige daño eléctrico al objetivo.
+
+[13819]
+Megatrueno
+
+[13820]
+Gigatrueno
+
+[13821]
+Omegatrueno
+
+[13822]
+Corazón valiente
+
+[13823]
+3Aumenta el poder de ataque.
+
+[13824]
+Escudo
+
+[13825]
+3Aumenta el poder defensivo.
+
+[13826]
+Calma
+
+[13827]
+3Reduce el poder de ataque.
+
+[13828]
+Rompearmaduras
+
+[13829]
+3Reduce el poder defensivo.
+
+[13830]
+Refuerzo mágico
+
+[13831]
+3Aumenta el ataque mágico.
+
+[13832]
+Barrera mágica
+
+[13833]
+3Aumenta la defensa mágica.
+
+[13834]
+Sello mágico
+
+[13835]
+3Impide usar magia.
+
+[13836]
+Encanto
+
+[13837]
+3Embelesa y debilita al objetivo.
+
+[13838]
+Sueño
+
+[13839]
+3Duerme al objetivo.
+
+[13840]
+3Inflige daño y envenena al objetivo.
+
+[13841]
+Sacro
+
+[13842]
+3Inflige daño de luz al objetivo.
+
+[13843]
+Megasacro
+
+[13844]
+Gigasacro
+
+[13845]
+Omegasacro
+
+[13846]
+Sanación
+
+[13847]
+3Cura al objetivo.
+
+[13848]
+Megasanación
+
+[13849]
+Gigasanación
+
+[13850]
+Omegasanación
+
+[13851]
+Esperanza
+
+[13852]
+3Cura cualquier estado alterado.
+
+[13853]
+Prueba 1
+
+[13854]
+1Prueba 1
+
+[13855]
+Arriesgado
+
+[13856]
+1Siempre mete en líos a quien lo usa.
+
+[13857]
+Maldito
+
+[13858]
+3Quien lo use fracasará en todo.
+
+[13859]
+Tajo dimensional
+
+[13860]
+2Un ataque de espada definitivo.
+
+[13861]
+Espada ciclónica
+
+[13862]
+2Ataque combinado con Etna.
+
+[13863]
+¡Colega!
+
+[13864]
+1Ataque combinado con Prinny.
+
+[13865]
+Rayo sexy
+
+[13866]
+1Un ataque lleno de lujuria.
+
+[13867]
+Lanza meteórica
+
+[13868]
+2¡Ojalá pudiera volar!
+
+[13869]
+Erupción oscura
+
+[13870]
+2¿No será demasiada explosión?
+
+[13871]
+Impacto amoroso
+
+[13872]
+1Ataque combinado con Flonne.
+
+[13873]
+Prinny caído
+
+[13874]
+3Ataque combinado con Prinny.
+
+[13875]
+Rayo ocular
+
+[13876]
+1¡El amor también puede hacer daño!
+
+[13877]
+Monstruo espacial
+
+[13878]
+3Me transformo en un monstruo espacial.
+
+[13879]
+Rayo divino
+
+[13880]
+3Desata todo el poder del Ángel Caído.
+
+[13881]
+Amor demoníaco
+
+[13882]
+3Ataque combinado con Laharl.
+
+[13883]
+Fuego Prinny
+
+[13884]
+2Ten cuidado: ¡podrías propagar el fuego!
+
+[13885]
+Bomba Prinny
+
+[13886]
+1Ten cuidado: ¡podrías hacer daño a alguien!
+
+[13887]
+Torre Prinny
+
+[13888]
+2¡Qué dolor estar en la base!
+
+[13889]
+Danza Prinny
+
+[13890]
+1Ataque combinado con Flonne.
+
+[13891]
+Especial de Flonne 1
+
+[13892]
+1Complementa los puntos clave de los demás.
+
+[13893]
+Especial de Flonne 2
+
+[13894]
+1Una potente patada voladora por sorpresa.
+
+[13895]
+Especial de Flonne 3
+
+[13896]
+1Una doble patada que hace temblar la tierra.
+
+[13897]
+Especial de Flonne 4
+
+[13898]
+1Ataque combinado con Laharl.
+
+[13899]
+Especial de Flonne 5
+
+[13900]
+Especial de Flonne 6
+
+[13901]
+3Inflige mucho daño con un fuerte golpe de bastón sagrado.
+
+[13902]
+Especial de Flonne 7
+
+[13903]
+3Invoca a las crías de Nushi.
+
+[13904]
+Especial de Flonne 8
+
+[13905]
+3Ataque combinado con Culotte.
+
+[13906]
+Especial de Flonne 9
+
+[13907]
+Especial de Flonne 10
+
+[13908]
+3Revierte los estados alterados.
+
+[13909]
+Especial de Prinny 1
+
+[13910]
+1Provoca al rival por pura diversión.
+
+[13911]
+Especial de Prinny 2
+
+[13912]
+1Una potente patada voladora.
+
+[13913]
+Especial de Prinny 3
+
+[13914]
+1Una doble patada que hace temblar la tierra.
+
+[13915]
+Especial de Prinny 4
+
+[13916]
+Especial de Prinny 5
+
+[13917]
+3¡Este ataque me deja mareado!
+
+[13918]
+Especial de Prinny 6
+
+[13919]
+3Inflige muchísimo daño con un golpe de bastón sagrado.
+
+[13920]
+Especial de Prinny 7
+
+[13921]
+3Invoca a las crías de Nushi.
+
+[13922]
+Especial de Prinny 8
+
+[13923]
+Especial de Prinny 9
+
+[13924]
+Especial de Prinny 10
+
+[13925]
+3Revierte los estados alterados.
+

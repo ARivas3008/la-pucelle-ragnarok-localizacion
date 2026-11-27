@@ -1,0 +1,1344 @@
+LA PUCELLE — 06_dialogos — CORPUS 13
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO_START/talk00.dat ===
+
+[15003]
+Muy amable por tu parte.
+
+[15004]
+Ya veremos si mantienes esa arrogancia...
+
+[15005]
+¡cuando te atraviese la garganta con mi espada!
+
+[15006]
+¡Por favor! ¡No sucumbas al poder de la oscuridad!
+
+[15007]
+¡Confío en ti, Croix!
+
+[15008]
+¡C-cállate! ¡Cierra la boca o te la cerraré para siempre!
+
+[15009]
+¡Croix, recuerda quién eres de verdad!
+
+[15010]
+¡Tú no eres el Príncipe Oscuro!
+
+[15011]
+¡No sucumbas al poder de la oscuridad!
+
+[15012]
+¡Para siempre!
+
+[15013]
+Cincuenta años...
+
+[15014]
+Llevo cincuenta años esperando este día.
+
+[15015]
+¡Vas a sentir el peso de estos cincuenta años!
+
+[15016]
+Prier... Ha llegado el momento de que me demuestres la fuerza de tus convicciones.
+
+[15017]
+—¡Lucho por mis convicciones! ¡Juro que te derrotaré! —Solo quiero preguntarte una cosa...
+
+[15018]
+¿Por qué luchas?
+
+[15019]
+¡Para proteger a las personas que quiero!
+
+[15020]
+Muy bien...
+
+[15021]
+Yo también lucho por alguien a quien quiero, y lo haré con todas mis fuerzas.
+
+[15022]
+¡Para cumplir mi destino como Doncella de la Luz!
+
+[15023]
+Yo también lucho por mi destino, una lucha que voy a...
+
+[15024]
+Por mí...
+
+[15025]
+¡Y para defender mi reino!
+
+[15026]
+Yo también lucho con todas mis fuerzas por mí y por mi reino.
+
+[15027]
+Déjame preguntarte una cosa...
+
+[15028]
+¡Para probar que tengo derecho a existir!
+
+[15029]
+Yo también lucharé con todas mis fuerzas para defender mi derecho a existir.
+
+[15030]
+Para asegurarme de no haber desperdiciado los últimos cincuenta años sirviendo a...
+
+[15031]
+¡Pues lucharé con todas mis fuerzas para demostrar que sí los desperdiciaste!
+
+[15032]
+No necesito ningún motivo para luchar.
+
+[15033]
+Cuando un hombre se encuentra con alguien fuerte, lo desafía y lo vence.
+
+[15034]
+Así de sencillo.
+
+[15035]
+Lucho por mi destino y lo haré con todas mis fuerzas.
+
+[15036]
+...Parece que elegí a la persona equivocada para...
+
+[15037]
+¡Por el orgullo de toda la tripulación del Escargot!
+
+[15038]
+La verdad es que nunca me lo había planteado...
+
+[15039]
+¿Sabes cuánta gente ha muerto por tu culpa?
+
+[15040]
+—¡Te haré sentir el peso de tus pecados! —Esta es la última vez...
+
+[15041]
+¡¡¡ARREPIÉNTETE!!!
+
+[15042]
+¡No pienso dejarte escapar!
+
+[15043]
+¡Tu corazón me pertenece!
+
+[15044]
+Que me persigan puede resultar halagador, pero tanta insistencia ya cansa.
+
+[15045]
+Te propongo una cosa.
+
+[15046]
+Llevamos mucho tiempo juntos. Déjame ser yo quien acabe contigo.
+
+[15047]
+¡Hasta aquí hemos llegado!
+
+[15048]
+¡Eri, eri!
+
+[15049]
+Creo que voy a necesitar un intérprete...
+
+[15050]
+Tengo que dar lo mejor de mí para convertirme en...
+
+[15051]
+¡Tengo que dar lo mejor de mí para no ser un estorbo para los demás!
+
+[15052]
+Es hora de empezar con el demonio... Tengo que dar lo mejor de mí en...
+
+[15053]
+¡Hasta aquí llegan, soldados imperiales de Canar...!
+
+[15054]
+Mientras yo siga aquí...
+
+[15055]
+protegeré esta ciudad...
+
+[15056]
+¡y a las personas que quiero!
+
+[15057]
+No lo sé, pero...
+
+[15058]
+Llegados a este punto, ¡parece que no queda más remedio que purificarte el alma!
+
+[15059]
+Parece que lo has entendido mal. ¡Esto no se resuelve simplemente hablando!
+
+[15060]
+¡Santa Diosa! ¡Por favor, salva a este extraviado...! ¿Qué tal si nos tomamos un descanso?
+
+[15061]
+Mientras tanto, puedes arrepentirte.
+
+[15062]
+A lo mejor hasta consigues llegar al cielo.
+
+[15063]
+¡Grrr...!
+
+[15064]
+¡Parece que al final sí tendré que comerte el corazón!
+
+[15065]
+¡Tú no tienes remedio!
+
+[15066]
+¡Pues tendré que hacer trizas esa alma podrida que tienes!
+
+[15067]
+¡Vamos, monstruo! ¡Atrévete!
+
+[15068]
+¡No dejaré que armes líos en esta ciudad!
+
+[15069]
+¡Mira qué monstruo tan enorme!
+
+[15070]
+Me siento fatal por no haber creído a Culotte.
+
+[15071]
+¡Tenemos que encerrar a ese monstruo en el monte Tarte!
+
+[15072]
+¡Y pensar que tenemos que enfrentarnos a algo tan enorme...!
+
+[15073]
+No sé ni qué decir, la verdad...
+
+[15074]
+¡Esto es increíble!
+
+[15075]
+¡Para mí, el pelo es tan importante como la propia vida!
+
+[15076]
+Sí, sí. Eso ya nos lo dijiste.
+
+[15077]
+¡Y no se metan en nuestro camino si no quieren llevarse un golpe!
+
+[15078]
+¡Barsom, cálmate, por favor!
+
+[15079]
+¡Procura valorar tu vida tanto como valoras tu pelo!
+
+[15080]
+Lo entendemos. Que la diosa Poitreene vele por tu cabeza.
+
+[15081]
+Sé cómo te sientes, pero de verdad tienes que calmarte.
+
+[15082]
+Si te alcanza una bala perdida, ¡no vengas luego a pedirnos ayuda!
+
+[15083]
+¡Me da igual quién sea! ¡Que alguien me salve de una vez!
+
+[15084]
+¡Pero qué actitud tiene esa mujer!
+
+[15085]
+¡Me entran unas ganas tremendas de hacerla arrepentirse a golpes!
+
+[15086]
+¿Cómo pudo Barsom enamorarse de una mujer tan estirada?
+
+[15087]
+Pues ni idea...
+
+[15088]
+Entonces, recemos todos.
+
+[15089]
+Que Poitreene vele por todos nosotros.
+
+[15090]
+—Barsom sí que se enamoró de una mujer de cuidado... —Lo que tienen que aguantar los hombres...
+
+[15091]
+¡Eh, demonios!
+
+[15092]
+¡Fuera de nuestro Escargot, miau!
+
+[15093]
+¡Qué mala suerte han tenido al toparse conmigo, el capitán Homard! ¡Vengan!
+
+[15094]
+¡¿Desde la infancia?!
+
+[15095]
+¡Como sigas así, te daré un coscorrón con este abanico!
+
+[15096]
+¡Superaré esta prueba, me haré más fuerte y protegeré a Alouette!
+
+[15097]
+¡No retrocederé, aunque seas tú mi rival!
+
+[15098]
+¡Ven, atrévete!
+
+[15099]
+¡Te venceré en tu propio terreno!
+
+[15100]
+Jamás cederé ante la oscuridad...
+
+[15101]
+¡Dejaré atrás mis debilidades y venceré! ¡Prepárate!
+
+[15102]
+¡Inténtalo, si te atreves!
+
+[15103]
+¡Haré que te tragues esas palabras!
+
+[15104]
+¡El único que me ha vencido ha sido el mismísimo capitán Homard, miau!
+
+[15105]
+¡Así que apártense de mi camino, miau!
+
+[15106]
+—¡No pienso perder contra alguien así! —¡Tengo que esforzarme para que Prier no tenga que cargar con todo ella sola!
+
+[15107]
+Tengo que ponerme las pilas y evitar que Prier se descontrole...
+
+[15108]
+Oh, diosa Poitreene...
+
+[15109]
+Concédenos tu protección, por favor...
+
+[15110]
+¡Ni hablar de dejar que Prier se lleve todo el mérito!
+
+[15111]
+¡Es hora de zanjar esto!
+
+[15112]
+¿Que el poder se me ha subido a la cabeza?
+
+[15113]
+—Pero ¿qué demonios...? —¡Lucho para acabar con todos los demonios que amenazan a la humanidad y vengar a los padres de ese niño!
+
+[15114]
+¡Nadie tiene derecho a cuestionar mi forma de actuar!
+
+[15115]
+¡Y ya verás...!
+
+[15116]
+Voy a convertirme en...
+
+[15117]
+¡Voy a vencer a ese mocoso y someter a ese niño a una buena sesión de moxibustión a la antigua!
+
+[15118]
+¡¿A qué crío se le ocurre hacerse amigo de un demonio?!
+
+[15119]
+Conseguir que un demonio así se ponga de su parte...
+
+[15120]
+Esa chica debe de tener algún poder especial...
+
+[15121]
+¿De verdad podría esa chica convertirse en...?
+
+[15122]
+¡Oh, diosa Poitreene!
+
+[15123]
+¡Por favor, protégenos!
+
+[15124]
+Si puede poner a los demonios a su servicio, es porque es más fuerte que esos tipos, ¿verdad...?
+
+[15125]
+¡¿Pero qué está pasando aquí?!
+
+[15126]
+¡Quién iba a decir que ese niño sería el líder...!
+
+[15127]
+Algo malo está a punto de pasar.
+
+[15128]
+¡Pero eso da igual! ¡Yo, el capitán Homard, seguiré avanzando con todas mis fuerzas!
+
+[15129]
+¡No permitiré que la oscuridad se imponga!
+
+[15130]
+¡Y vencerte será la prueba!
+
+[15131]
+Tú sigue hablando.
+
+[15132]
+¡Nadie ha conseguido vencerme todavía!
+
+[15133]
+¡Yo también tengo parte de culpa de que Prier haya sucumbido a la oscuridad...!
+
+[15134]
+¡Por eso seré yo quien la purifique!
+
+[15211]
+Este también tiene pinta de estar delicioso...
+
+[15212]
+Ejem... quiero decir, ¡un monstruo muy fuerte!
+
+[15213]
+¡Vamos a derrotarlo y a darle buen uso!
+
+[15214]
+¡Glub, glub...!
+
+[15215]
+¡Vaya! ¡De cintura para abajo es un pez!
+
+[15216]
+¡A florecer, a florecer!
+
+[15217]
+Vaya chasco de flor...
+
+[15218]
+Ni hervida ni frita sabría bien esta cosa.
+
+[15219]
+Aunque... ¿y si le añadiera...?
+
+[15220]
+No, mejor no.
+
+[15221]
+¡Mira fijamente!
+
+[15222]
+Apuesto a que me dormiría como un tronco si pensara en este monstruo antes de acostarme.
+
+[15223]
+¡Qué buena idea!
+
+[15224]
+¡Te voy a mandar a dormir!
+
+[15225]
+¡Chof, chof...!
+
+[15226]
+¡Esa cosa parece una seta, pero qué asco da!
+
+[15227]
+¿Qué le ha pasado?
+
+[15228]
+¡Pero qué criatura más adorable! ¡Y aun así tenemos que exorcizarla!
+
+[15229]
+¿Qué hago? ¿Qué hago?
+
+[15230]
+¡Grrrr...!
+
+[15231]
+¡Vaya cara más horrible tiene!
+
+[15232]
+¡Está claro que hay que juzgarte y castigarte!
+
+[15233]
+Je, je, je...
+
+[15234]
+¡Culotte se va a quedar embobado con esta cosa!
+
+[15235]
+¡Me llevaré a esta cosa arriba, haré que se cambie de ropa y que se arrepienta!
+
+[15236]
+A mí me pareces un demonio de la cabeza a los pies.
+
+[15237]
+¡Solo con verte ya está claro que tienes que arrepentirte!
+
+[15238]
+¡Sonríe! ¡Esboza una gran sonrisa!
+
+[15239]
+Mira qué feliz parece...
+
+[15240]
+¡Pero no puedo tener contemplaciones: trato a todos los monstruos por igual!
+
+[15241]
+El pelo de este monstruo da escalofríos...
+
+[15242]
+Pero no hay forma de que yo...
+
+[15243]
+¡Ni hablar de perder contra una criatura tan poca cosa! ¡Tengo que demostrarle a la hermana Alouette de qué soy capaz!
+
+[15244]
+¡Chii, chii, chii!
+
+[15245]
+¡Un murciélago sigue siendo un murciélago, por grande que sea!
+
+[15246]
+No habrá leyendas de murciélagos gigantes que den miedo, ¿verdad?
+
+[15247]
+¿Un monstruo de puro fuego?
+
+[15248]
+¡Qué increíble! ¡Quiero convertirlo en uno de mis secuaces!
+
+[15249]
+¿Qué habrá debajo de ese sombrero?
+
+[15250]
+Un momento... No estará haciendo algo ahí debajo, ¿verdad...?
+
+[15251]
+Tenemos que hacer...
+
+[15252]
+¡Pero qué peludito y esponjoso eres!
+
+[15253]
+¡Qué monada!
+
+[15254]
+¡Aunque seguro que eres muy fuerte, por ser un oso! ¡Más me vale que no me muerdas!
+
+[15255]
+¡Menuda seta gigante!
+
+[15256]
+No quiero perder contra esa cosa ni de broma...
+
+[15257]
+¡Vamos allá!
+
+[15258]
+¡Mira qué carita tiene!
+
+[15259]
+No quiero hacerle daño a esta criatura...
+
+[15260]
+¡Vaya! ¡¿Será esa su mano?!
+
+[15261]
+¡No conseguirás tomarme por sorpresa tan fácilmente!
+
+[15262]
+¡Chii, chii!
+
+[15263]
+¿Por qué estará metido en una caja?
+
+[15264]
+Quizá ahí dentro se esté calentito y cómodo. Solo hay una forma de averiguarlo...
+
+[15265]
+¡Chof, chaf!
+
+[15266]
+¿Pero qué cabeza es esa?
+
+[15267]
+¡Esta cosa es prácticamente una calabaza entera...!
+
+[15268]
+La verdad es que da bastante miedo.
+
+[15269]
+¡Jamás imaginé que algún día tendría que enfrentarme a una ballena!
+
+[15270]
+¡Cuidado, no dejes que te trague!
+
+[15271]
+Sé que es un monstruo, pero hasta me da un poco de vergüenza ajena.
+
+[15272]
+¡Chup, chup!
+
+[15273]
+¡Vaya labios tiene...!
+
+[15274]
+¡No quiero que esta cosa me absorba! Con esos labios seguro que absorbe toda clase de cosas extrañas...
+
+[15275]
+Aunque parezca que está mirando al vacío, puede que esté pensando en algo muy profundo.
+
+[15276]
+Lametón, lametón...
+
+[15277]
+No sé si serán las apariencias, pero esa lengua parece muy peligrosa.
+
+[15279]
+¡Es una monada!
+
+[15280]
+¡No sé si seré capaz de ponerle una mano encima!
+
+[15281]
+¿Qué hago ahora?
+
+[15282]
+¡Uf...! ¡De cerca, los demonios dan mucho miedo!
+
+[15283]
+¡Pero ya soy un hombre!
+
+[15284]
+¡Tengo que hacerlo!
+
+[15285]
+Je, je, je...
+
+[15286]
+¡Me da vergüenza estar cerca de ese demonio!
+
+[15287]
+Solo tengo que pensar en Prier y...
+
+[15288]
+¡Sí, así mucho mejor!
+
+[15289]
+La verdad es que...
+
+[15290]
+este ambiente da un poco de miedo...
+
+[15291]
+¡Pero no pienso perder!
+
+[15292]
+Pues sí, esto...
+
+[15293]
+No tengo ni idea de qué le pasa a este monstruo, ¡pero no voy a perder contra semejante cabeza hueca!
+
+[15294]
+Parece que hay monstruos venenosos por aquí.
+
+[15295]
+¡Ten cuidado!
+
+[15296]
+Parece que esa cosa chupa sangre. No te confíes.
+
+[15297]
+¡Cuidado, todos!
+
+[15298]
+¡Ese murciélago enorme es peligroso!
+
+[15299]
+¡No dejes que te toque!
+
+[15300]
+¡Qué fastidio!
+
+[15301]
+Esa cosa responde a los ataques con magia.
+
+[15302]
+¡Si bajas la guardia, te dejará hecho cenizas!
+
+[15303]
+Parece que ese sombrero puede usar una magia muy poderosa.
+
+[15304]
+¡No bajes la guardia!
+
+[15305]
+Tengo que ir con cuidado...
+
+[15306]
+Esas uñas tan afiladas deben de hacer mucho daño.
+
+[15307]
+¡Pero qué adorable parece!
+
+[15308]
+Tiene unos ojos preciosos, pero he oído que esconde más de un truco.
+
+[15309]
+¡Podría ser el enemigo de todas las mujeres!
+
+[15310]
+Parece bastante dócil, pero he oído que hace unos bailes muy raros.
+
+[15311]
+Me gustaría verlo en acción...
+
+[15312]
+Parece que ha aumentado su defensa al meterse en esa caja.
+
+[15313]
+¿... las cosas despacio?
+
+[15314]
+Parece que solo está jugando, pero cuidado: ¡puede atacar desde muy lejos!
+
+[15315]
+¡No te confíes!
+
+[15316]
+Esta ballena parece capaz de controlar el agua.
+
+[15317]
+Espero que no me empape de agua salada.
+
+[15318]
+Como te dejes seducir por este monstruo, lo lamentarás. ¡Ten cuidado!
+
+[15319]
+Los labios de esta flor son seductores, pero tras esa belleza se esconden trucos peligrosos.
+
+[15320]
+Ya se sabe: ¡no hay rosa sin espinas!
+
+[15321]
+Parece hacerse el tonto, ¡pero no dejes que te pille desprevenido!
+
+[15322]
+¡Atento cuando empiece a bostezar!
+
+[15323]
+Basta con mirar a ese dragón para saber que tiene aliento venenoso.
+
+[15324]
+¡Qué monada...! ¡Es una monada!
+
+[15325]
+¡Es tan adorable que casi resulta peligroso!
+
+[15326]
+Más vale que tenga cuidado...
+
+[15327]
+Es una auténtica bestia feroz de la oscuridad...
+
+[15328]
+¡Voy a exorcizarte!
+
+[15329]
+Je, je, je, je...
+
+[15330]
+Tú, monstruo de la oscuridad que extravías a las personas...
+
+[15331]
+¡Purificaré tu alma!
+
+[15332]
+Tú, que has sido consumido por...
+
+[15333]
+¡Te purificaré!
+
+[15334]
+¡A simple vista, no sabría decir de qué es capaz este monstruo!
+
+[15335]
+¡Tenemos que avanzar con cuidado!
+
+[15336]
+¡¿Qué vamos a hacer?! ¡Jamás podremos vencer a tantos demonios!
+
+[15337]
+Cálmate, Culotte...
+
+[15338]
+Hay algo raro en todo esto.
+
+[15339]
+Oh, criatura humana sin nombre...
+
+[15340]
+—Ahora eres una... —¿¡Una Señora Demonio!?
+
+[15341]
+En el Mundo Oscuro, la fuerza lo es todo.
+
+[15342]
+Los demonios del Mundo Oscuro se arrodillan ante ti.
+
+[15343]
+Desde ahora, serás conocida como Señora Demonio, respetada y temida por todos los demonios.
+
+[15344]
+—N-no estarás bromeando... —En absoluto, mi señora.
+
+[15345]
+¡Esto tiene que ser un error!
+
+[15346]
+Pero, bien pensado, ¡serías mucho mejor Señora Demonio que Doncella!
+
+[15347]
+¡Qué disparate!
+
+[15348]
+¡Salgamos de aquí!
+
+[15349]
+¡Prier, Señora Demonio! Has derrotado a los veinte señores demonio que gobiernan el Mundo Oscuro. Ahora eres una Señora Demonio entre señores, ¡una poderosa Soberana Demoníaca!
+
+[15350]
+Esto es una broma... ¿verdad?
+
+[15351]
+Lo digo muy en serio, mi señora.
+
+[15352]
+Prier, parece que has elegido el camino equivocado.
+
+[15353]
+El poder se te ha subido a la cabeza y has olvidado tu verdadera vocación.
+
+[15354]
+Me temo que nuestros caminos deben separarse aquí.
+
+[15355]
+Adiós, Prier.
+
+[15356]
+¡Dame otra oportunidad!
+
+[15357]
+Parece que no hay nadie por aquí...
+
+[15358]
+Esto pinta mal, tío.
+
+[15359]
+¿Dónde se habrá metido Etna?
+
+[15360]
+¡Entonces puede que todos hayan muerto en el portal de teletransporte, tío!
+
+[15361]
+El padre Salade dijo que aquí había una concentración de energía oscura.
+
+[15362]
+También dijo que rondaban por aquí unos monstruos como nunca había visto, pero...
+
+[15363]
+—Miren... ¡ahí están! —¿Entonces son unos monstruos adorables que parecen pingüinos?
+
+[15364]
+Yo no los llamaría adorables, pero...
+
+[15365]
+¿Qué ha sido eso?
+
+[15366]
+¡Quítate esa cara de pena!
+
+[15367]
+¡Qué mala eres, hermana!
+
+[15368]
+¿Y qué otra cosa quieres que haga...?
+
+[15369]
+¡Uaaaah, tío!
+
+[15370]
+Me está dando una sensación rarísima.
+
+[15371]
+Han... hablado.
+
+[15372]
+¿Qué ha sido eso?
+
+[15373]
+Ah, solo estoy purificando sus almas impuras.
+
+[15374]
+Nuestras almas están hechas un asco, tío.
+
+[15375]
+Sí... ni siquiera creo que sea posible.
+
+[15376]
+En serio...
+
+[15377]
+(No puede ser, tío. Si nos purifican el alma, ¿quedamos libres de todos nuestros pecados y esas cosas?)
+
+[15378]
+(¿Y un trato así nos conviene de verdad?)
+
+[15379]
+(No lo entiendo. Desde luego, esto no se parece en nada al infierno.)
+
+[15380]
+(Quizá aquí no sea un engaño.)
+
+[15381]
+Queremos que nos purifiques aún más.
+
+[15382]
+Es la primera vez que alguien me pide que lo purifique.
+
+[15383]
+Esto se complica...
+
+[15384]
+¡Hecho! ¡Purificaré todas esas almas malvadas e impuras que tienen!
+
+[15385]
+¡Uaaaaah...!
+
+[15386]
+¡Yujuuuuu!
+
+[15387]
+¡Uoooooh!
+
+[15388]
+¿Eh...?
+
+[15389]
+No sé por qué, pero me están dando ganas de unirme a ustedes.
+
+[15390]
+A mí también.
+
+[15391]
+Pero ¿por qué les pedimos que nos purificaran?
+
+[15392]
+¿Eh? Ah...
+
+[15393]
+Ahhh...
+
+[15394]
+¡Quiero que seamos amigos!
+
+[15395]
+¡Seremos sus amigos, les guste o no!
+
+[15396]
+¡Es nuestra forma de agradecérselo!
+
+[15397]
+¡Los Prinnies purificados se unieron al grupo por la fuerza!
+
+[15398]
+Hay algo raro en estos tipos...
+
+[15399]
+Ah... ¿dónde se habrán metido...?
+
+[15400]
+¡Laharl!
+
+[15401]
+¡Etna!
+
+[15402]
+¿Dónde están?
+
+[15403]
+¡Oye, hermana! ¡Hay una chica ahí abajo!
+
+[15404]
+Oye, ¿qué haces en un sitio como este?
+
+[15405]
+Con tantos monstruos peligrosos merodeando por aquí, no es un lugar seguro.
+
+[15406]
+Ah, supongo que tienes razón. Entiendo.
+
+[15407]
+Tendré cuidado.
+
+[15408]
+¿Que tendrás cuidado, eh...?
+
+[15409]
+¿Estás bien tú sola? ¿De dónde vienes?
+
+[15410]
+Estaba paseando con Laharl y los demás, pero, cuando me di cuenta, ya no estábamos en el infierno...
+
+[15411]
+¿De paseo... por el infierno?
+
+[15412]
+¿A-Alouette?
+
+[15413]
+¿Entonces dices que vienes del infierno?
+
+[15414]
+Laharl y Etna dijeron que saldríamos a jugar, pero parece que nos hemos separado.
+
+[15415]
+¿Así que llegaste por un portal oscuro...?
+
+[15416]
+—Hemos purificado todos los portales oscuros de aquí, así que ya no queda ninguna salida... —¿Ah, sí...?
+
+[15417]
+¿Entonces, al aumentar la energía oscura, aparecerá otro portal?
+
+[15418]
+Eso quiere decir que podré volver a casa, ¿verdad?
+
+[15419]
+¡Ahora lo entiendo!
+
+[15420]
+¡Deséenme suerte para aumentar la energía oscura!
+
+[15421]
+¡E-espera un momento!
+
+[15422]
+No sé cómo has acabado perdida, pero ¡La Pucelle no permitirá que aumentes la energía oscura!
+
+[15423]
+¡QUÉ PASADA!
+
+[15424]
+¿¡Qué es La Pucelle!?
+
+[15425]
+La Pucelle es...
+
+[15426]
+Bueno, somos exorcistas.
+
+[15427]
+Somos hermanas de la Doncella y luchamos contra el mal.
+
+[15428]
+Ayudamos a descansar en paz a las almas que siguen aferradas a este mundo.
+
+[15429]
+¡ES INCREÍBLE!
+
+[15430]
+¿Así que son hermanas que derrotan al mal?
+
+[15431]
+La Pucelle Negra...
+
+[15432]
+La Pucelle Azul...
+
+[15433]
+¡La Pucelle Blanca!
+
+[15434]
+¿Ejem...?
+
+[15435]
+¡Entonces a mí me toca hacer de superdemonio malvado!
+
+[15436]
+¡Me esforzaré para que sea todo un espectáculo!
+
+[15437]
+¡GRAAA!
+
+[15438]
+¡Ay, ay, ay!
+
+[15439]
+¿P-pero a qué ha venido eso?
+
+[15440]
+La Pucelle... ¡Qué fuerza tan increíble!
+
+[15441]
+¡Me encantaría unirme a ustedes! ¡Hasta podría ser La Pucelle Roja!
+
+[15442]
+¡Flonne se ha unido al grupo!
+
+[15443]
+Flonne, ¿no estabas intentando volver al infierno...?
+
+[15444]
+Yo... no la entiendo.
+
+[15445]
+Parece que ahora sí que habrá alboroto...
+
+[15446]
+Mmm... ¿Adónde se habrán ido el príncipe y Flonne con tanta prisa?
+
+[15447]
+Y aparece otro bicho raro...
+
+[15448]
+Vaya, ¿un humano?
+
+[15449]
+¡Prier, Culotte, cuidado! Percibo un poder extraordinario.
+
+[15450]
+No es como el de Flonne: ¡es maldad en estado puro!
+
+[15451]
+Maldad en estado puro... Claro, es un demonio.
+
+[15452]
+P-pero ¿qué eres tú?
+
+[15453]
+Soy Etna.
+
+[15454]
+Vaya, para ser una simple humana, no está nada mal que hayas percibido mi poder.
+
+[15455]
+Después de enfrentarte a tantos demonios del infierno, debes de estar agotada.
+
+[15456]
+Para matar el tiempo, ¿qué tal si nos conocemos un poco mejor?
+
+[15457]
+¡E-espera un momento, por favor!
+
+[15458]
+¡Pero si no hay ningún motivo para pelear! ¿Verdad?
+
+[15459]
+¿Ha dicho «matar el tiempo»...? ¡Hermana!
+
+[15460]
+¡Di algo!
+
+[15461]
+Muy bien, entonces.
+
+[15462]
+¡Cuando quieras, amiga!
+
+[15463]
+¿Así que esas tenemos?
+
+[15464]
+¿Acabo de oír a Prier decir una tontería?
+
+[15465]
+¡Está bien! ¡Pero no hacía falta llegar a esto!
+
+[15466]
+¡Ay, ay, ay...!
+
+[15467]
+¡Vaya, sí que eres buena!
+
+[15468]
+Para ser humana, claro.
+
+[15469]
+Qué poder tan extraño tienen los humanos...
+
+[15470]
+Puedo sentir tu poder cuando me acerco.
+
+[15471]
+¿Q-qué ha sido eso?
+
+[15472]
+¡Me tiene fascinada!
+
+[15473]
+Unas vacaciones no me vendrían mal, y el príncipe ya sabe cuidarse solito.
+
+[15474]
+¡Etna se ha unido al grupo sin pedir permiso!
+
+[15475]
+Ahora esto será todavía más caótico...
+
+[15476]
+¡Ja, ja, ja, ja!
+
+[15477]
+¿Qué... qué ha sido esa voz?
+
+[15478]
+No sé, pero me da la impresión de que es un mal presagio...
+
+[15479]
+¿Un mal presagio?
+
+[15480]
+No. Yo también lo noto, de eso no hay duda.
+
+[15481]
+No sé de qué se trata, pero ¡manténganse alerta!
+
+[15482]
+¡JA, JA, JA, JA!
+
+[15483]
+¿Quién... eres tú?
+
+[15484]
+¡Prier, Culotte, cuidado!
+
+[15485]
+¡Percibo un poder extraordinario! Parece de un demonio... No, ¡es de un Señor Demonio!
+
+[15486]
+Bah, ¿acaso no es evidente?
+
+[15487]
+¿Y creías que serías capaz de desterrarme...?
+
+[15488]
+¡No! ¡Si ni siquiera había oído hablar del príncipe Laharl!
+
+[15489]
+¡Por fin te encontramos!
+
+[15490]
+¡Flonne y yo te hemos buscado por todas partes!
+
+[15491]
+¡Eso iba a decir yo!
+
+[15492]
+¡Has hecho que el gran Laharl tenga que perseguirte por todas partes!
+
+[15493]
+¡No, si me pasé tanto tiempo buscándote que acabé aburriéndome otra vez!
+
+[15494]
+¡Ah, conque te has pegado a estos papanatas para salir en el juego!
+
+[15495]
+¡Hasta has aparecido antes que yo! ¿Tan cobarde eres que te has colado en el juego antes que yo, Etna...?
+
+[15496]
+No, alteza.
+
+[15497]
+¡Solo estaba preparando el terreno para recibir como se merece su majestuosa aparición!
+
+[15498]
+¡Exacto! Primero los Prinnies, después Etna... ¡Habíamos dejado lo mejor para el final!
+
+[15499]
+¡Para conseguir el clímax más espectacular de la historia!
+
+[15500]
+Ah, ya veo.
+
+[15501]
+¡Así podré estar a la altura de las expectativas!
+
+[15502]
+¡Los voy a mandar a todos por los aires!
+
+[15503]
+Parece que nos han metido en esto sin comerlo ni beberlo.
+
+[15504]
+Ya no entiendo nada...
+
+[15505]
+¿Q-que he perdido?
+
+[15506]
+Bueno... siempre pierdes cuando pasa esto.
+
+[15507]
+Esta vez los ayudamos, pero ya empieza a ser una costumbre.
+
+[15508]
+Así es.
+
+[15509]
+Y bien, ¿qué les pasó exactamente?
+
+[15510]
+Bueno, apareció una especie de puerta oscura cerca del castillo del Señor Supremo.
+
+[15511]
+La cruzamos y aparecimos aquí. No sé cómo, pero acabamos separados.
+
+[15512]
+Y la despistada princesa demonio desapareció.
+
+[15513]
+¡Mira quién habla! ¡Si fuiste tú quien desapareció sin dejar rastro!
+
+[15514]
+No, no, príncipe. ¿No eras tú el que se lo pasaba en grande persiguiendo a un demonio a través de la puerta?
+
+[15515]
+¿Entonces lo único que pasó fue que se perdieron...?
+
+[15516]
+Pero ¿no se supone que un Señor Demonio del infierno debería...?
+
+[15517]
+¡Un Señor Supremo como yo jamás olvidaría dónde está!
+
+[15518]
+Como ya dije, estaba buscando a Etna y... Lo más probable es que ellos sean los que se han... Ah, ¿es así...?
+
+[15519]
+Mejor vámonos y dejémoslos tranquilos.
+
+[15520]
+—¡Me parece una buena idea! —¡Eh, ustedes!
+
+[15521]
+¿Adónde van?
+
+[15522]
+No sé...
+
+[15523]
+cómo volver...
+
+[15524]
+al infierno por mi cuenta, ¡así que déjenme acompañarlos!
+
+[15525]
+¡Laharl, fiel a su costumbre, acabó uniéndose al grupo!
+

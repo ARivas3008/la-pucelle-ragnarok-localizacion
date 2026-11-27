@@ -1,0 +1,1518 @@
+LA PUCELLE — 07_magias_y_descripciones — CORPUS 13
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== DLC_00/magic.dat ===
+
+[589]
+Añade atributo rojo
+
+[591]
+Añade atributo verde
+
+[593]
+Añade atributo amarillo
+
+[595]
+Añade atributo azul
+
+[597]
+Añade atributo morado
+
+[599]
+Añade atributo agua
+
+[601]
+Añade atributo blanco
+
+[602]
+Permite moverse 1 casilla más.
+
+[603]
+Permite moverse 2 casillas más.
+
+[604]
+Permite moverse 3 casillas más.
+
+[605]
+Permite moverse 4 casillas más.
+
+[606]
+Teletransporte
+
+[608]
+Patada letal
+
+[609]
+1¡Ataca directamente un punto vital del enemigo!
+
+[610]
+Estallido purificador
+
+[612]
+Golpe del Rey Dragón
+
+[613]
+1¡Dos patadas que sacuden la tierra y destrozan al enemigo!
+
+[614]
+Bastón: Golpe redentor
+
+[615]
+1¡Un golpe tan fuerte que hasta un demonio se arrepiente!
+
+[616]
+Bastón: Gran vendaval
+
+[617]
+3Hace girar el bastón sagrado a toda velocidad y golpea al enemigo.
+
+[618]
+Bastón: Corte de ciruelo
+
+[619]
+3Un golpe a plena potencia con el bastón sagrado que causa un daño enorme.
+
+[620]
+Invocar al Nushi
+
+[621]
+3Invoca a una cría del Nushi para atacar a quienes estén en el área.
+
+[622]
+Aniquilación a golpes
+
+[623]
+3Ataque combinado con Culotte.
+
+[624]
+Retribución explosiva
+
+[625]
+1Ataque combinado con Croix.
+
+[626]
+Acupresión
+
+[627]
+3Cura los estados alterados.
+
+[628]
+Patada aniquiladora
+
+[629]
+1¡Una patada y un puñetazo capaces de acabar hasta con un Señor Demonio!
+
+[630]
+Cien flores a dúo
+
+[631]
+1Ataque combinado con Homard.
+
+[632]
+Transformación
+
+[633]
+3Se transforma en Prier, Señora Demonio.
+
+[634]
+Milagro sanador
+
+[635]
+3Milagro curativo transmitido por la Iglesia de la Santa Doncella.
+
+[636]
+Milagro del amor
+
+[637]
+3Milagro curativo avanzado de la Iglesia de la Santa Doncella.
+
+[638]
+Gracia divina
+
+[639]
+3El milagro curativo más poderoso de la Iglesia de la Santa Doncella.
+
+[640]
+¡Toma, toma y toma!
+
+[641]
+2Arroja diversos objetos para atacar al enemigo.
+
+[642]
+Lanza divina: Ataque floral
+
+[643]
+3Ataca al enemigo con una lanza de tulipán.
+
+[644]
+Desfile de setas
+
+[645]
+3Un desfile de setas causa grandes daños al enemigo.
+
+[646]
+Invocación felina
+
+[647]
+3Invoca un enorme peluche de gato.
+
+[648]
+Milagro de dos
+
+[649]
+3Ataque combinado con Alouette.
+
+[650]
+Mochila ciclón
+
+[651]
+3Absorbe todo tipo de objetos con la mochila.
+
+[652]
+Bombardeo de proyectiles
+
+[653]
+Rayo de dos lanzas
+
+[654]
+1Ataque combinado con Éclair.
+
+[655]
+1Ataque combinado con Éclair Oscura.
+
+[656]
+Azote del amor
+
+[657]
+1Una bofetada que hace arrepentirse al enemigo.
+
+[658]
+¡Arrepiéntete!
+
+[659]
+1Ataque a un punto vital que ahuyenta hasta a los demonios. ¡Si acierta, causa un daño enorme!
+
+[660]
+Golpe del libro sagrado
+
+[661]
+1Un fuerte golpe con el libro sagrado que reduce los atributos del enemigo.
+
+[662]
+Llamas del juicio
+
+[663]
+3Ataca con llamas divinas. Milagro básico de Alouette.
+
+[664]
+Trueno del juicio
+
+[665]
+3Ataca con rayos divinos. Milagro intermedio de Alouette.
+
+[666]
+Juicio final
+
+[667]
+3Ataca con luz divina. Milagro de máximo nivel de Alouette.
+
+[668]
+Juicio de los dioses
+
+[669]
+3Ataque de luz de las diosas. Milagro supremo de Alouette.
+
+[670]
+Choque sagrado
+
+[671]
+1Ataque combinado con Prier.
+
+[672]
+Corte cruzado
+
+[673]
+Puño de la diosa
+
+[674]
+1Ataque combinado con el padre Salade.
+
+[675]
+Bala de fuego
+
+[676]
+2Dispara una bala de fuego contra el enemigo.
+
+[677]
+Bala de hielo
+
+[678]
+2Dispara una bala de hielo contra el enemigo.
+
+[679]
+Ráfaga a dos pistolas
+
+[680]
+2Dispara una lluvia de balas de fuego y hielo con dos pistolas.
+
+[681]
+Frenesí de armas
+
+[682]
+3Acribilla al enemigo con balas de fuego de una ametralladora.
+
+[683]
+Arma letal
+
+[684]
+3Arma definitiva capaz de destruir incluso a un dios demoníaco.
+
+[685]
+Muerte inocente
+
+[686]
+2Arma de destrucción extrema capaz de aniquilar hasta a un demonio de rango Señor Demonio.
+
+[687]
+Cañón a quemarropa
+
+[688]
+1Disparo a quemarropa capaz de perforarlo todo.
+
+[689]
+Estallido reflectante
+
+[690]
+1Ataque combinado con Alouette.
+
+[691]
+Rompedor cruzado
+
+[692]
+Romperraíles
+
+[693]
+Princesa: Corte de espada
+
+[694]
+1Técnica de espada heredada de la familia real, capaz de exterminar demonios.
+
+[695]
+Trueno de la realeza
+
+[696]
+3Técnica de espada de la familia real, fulminante como un rayo.
+
+[697]
+Arte real: Ascenso eléctrico
+
+[698]
+1Técnica de espada de la familia real, tan poderosa que puede abatir dragones.
+
+[699]
+3Se transforma en Éclair Oscura.
+
+[700]
+Danza de luz y sombra
+
+[701]
+1Ataque simultáneo con un doble de Éclair Oscura.
+
+[702]
+Mariposas de fuego y luna sellada
+
+[703]
+3Ataque combinado con Homard.
+
+[704]
+¡Poder de hermanas!
+
+[705]
+3Ataque combinado con Prier.
+
+[706]
+Arte secreto real: Sombra del rayo
+
+[707]
+1Técnica de espada heredada de la familia real, capaz de destruir hasta a un Señor Demonio.
+
+[708]
+Lanzamiento de espada divina
+
+[709]
+Golpes de sombra y trueno
+
+[710]
+Espada oscura
+
+[711]
+1Técnica letal que barre al enemigo con una espada de aura.
+
+[712]
+Lanza omega
+
+[713]
+1Técnica letal que atraviesa al enemigo con una espada de aura.
+
+[714]
+Tajo meteórico
+
+[715]
+3Técnica letal que aniquila a todos los que están en el área con una espada de aura.
+
+[716]
+3Se transforma en Éclair.
+
+[717]
+1Ataque simultáneo con un doble de Éclair.
+
+[718]
+Prisión omega
+
+[719]
+1Técnica letal en la que una espada de aura atrapa al objetivo.
+
+[720]
+Espada del dios del trueno
+
+[721]
+1Espada letal imbuida de relámpagos que somete a los demonios.
+
+[722]
+Arte secreto: Corte sin sombra
+
+[723]
+1Espada letal que despedaza a quienes están dentro del área de ataque.
+
+[724]
+Tajo del rey
+
+[725]
+1Espada letal que, según cuentan, ideó el rey de cierto reino.
+
+[726]
+Espada demoníaca Astaroth
+
+[727]
+1Se combate el veneno con veneno: ¡contra demonios, técnicas demoníacas de espada!
+
+[728]
+Flecha rota
+
+[729]
+3Técnica letal que proyecta el ardiente espíritu de combate acumulado en la espada.
+
+[730]
+Alma ardiente
+
+[732]
+Ardor de hombre
+
+[733]
+1Ataque combinado con Yattanya.
+
+[734]
+Ruptura de Naniwa
+
+[735]
+3Ataque combinado con Papillon.
+
+[736]
+Tajo lunar
+
+[737]
+1Espadazo letal que parte al enemigo en dos, ¡junto con la luna!
+
+[738]
+Atrapar frutas
+
+[739]
+1Ataque combinado con Culotte.
+
+[740]
+Golpe del puño sagrado
+
+[741]
+1Puñetazo divino capaz de derrotar a un dios demoníaco de un solo golpe.
+
+[742]
+Puñetazo de 50 años
+
+[743]
+1Puñetazo letal que lleva el peso de 50 años.
+
+[744]
+Patada de 50 años
+
+[745]
+1Patada letal que lleva el peso de 50 años.
+
+[746]
+Verdadero golpe del puño sagrado
+
+[747]
+1El auténtico golpe del puño sagrado, descubierto tras muchos años de dura disciplina.
+
+[748]
+Furia huracanada
+
+[749]
+Ocho golpes a la línea central
+
+[750]
+1Puñetazo de un maestro consumado que no admite ni la más mínima desviación.
+
+[751]
+Entrenamiento de patadas
+
+[752]
+Esgrima a la carrera
+
+[753]
+Cabalgada de balas
+
+[754]
+Golpe de abanico
+
+[755]
+1¡Asesta un golpe crítico!
+
+[756]
+3Corrompe a quienes estén dentro del área.
+
+[757]
+¡Disparo conjunto!
+
+[758]
+3Llama a sus aliados para que disparen una lluvia de flechas al mismo tiempo.
+
+[759]
+¡Al ataque, escuadrón feérico!
+
+[760]
+3Convoca a sus aliados y todos cargan a la vez.
+
+[761]
+¡Disparo conjunto mejorado!
+
+[762]
+3Llama a sus aliados para que disparen simultáneamente flechas muy potentes.
+
+[763]
+Ataque colateral
+
+[764]
+Zarpa felina gigante
+
+[765]
+1¡Una garra enorme golpea al enemigo directamente en la cabeza, miau!
+
+[766]
+Zarpa felina extensible
+
+[767]
+2¡Una garra extensible perfora el punto vital del enemigo, miau!
+
+[768]
+Zarpa felina ardiente
+
+[769]
+1¡Cuando el ardor de un hombre se enciende, sus manos se llenan de fuego, miau!
+
+[770]
+Zarpa felina meteórica
+
+[771]
+3¡Cuando arde de pasión un hombre de verdad, sus manos invocan meteoritos, miau!
+
+[772]
+Zarpa felina eléctrica
+
+[773]
+¡Cuando ruge un hombre de verdad, sus manos se cargan de rayos, miau!
+
+[774]
+Zarpa felina espinosa
+
+[775]
+1¡Cuando un hombre de verdad grita, sus manos se llenan de púas, miau!
+
+[776]
+¡Así vive un hombre de verdad, miau!
+
+[777]
+1Ataque combinado con Chocolat.
+
+[778]
+¡Con la cola, miau!
+
+[779]
+1¡Ataca al enemigo con la cola!
+
+[780]
+¡Con el trasero, miau!
+
+[781]
+1¡Ataca al enemigo con el trasero!
+
+[782]
+¡Un arañazo, miau!
+
+[783]
+1¡Araña al enemigo para atacarlo!
+
+[784]
+¡Carga de Chocolat!
+
+[785]
+3Llama a sus compañeros de la Banda Chocolat para cargar juntos.
+
+[786]
+División de Chocolat
+
+[787]
+3Se divide y lanza un ataque total con un escuadrón de mini-Chocolat.
+
+[788]
+Combo Chocolat
+
+[789]
+1¡Un combo legendario transmitido por la Banda Chocolat!
+
+[790]
+Fusión de Chocolat
+
+[791]
+¡Se fusionan para transformarse en un Chocolat gigante!
+
+[792]
+Fuego del karma
+
+[793]
+1Ataca al objetivo escogido con el fuego del infierno.
+
+[794]
+Llamas infernales
+
+[795]
+3Consume en llamas infernales a quienes estén en el área.
+
+[796]
+Juicio
+
+[797]
+Provoca la muerte de manera aleatoria a quienes estén en el área.
+
+[798]
+Onda oscura
+
+[799]
+3Provoca estados alterados a quienes estén dentro del área.
+
+[800]
+Llamas de venganza
+
+[801]
+3Inflige un daño elevado a quienes estén dentro del área.
+
+[802]
+Desvanecimiento oscuro
+
+[803]
+3Inflige un daño descomunal a quienes estén dentro del área.
+
+[804]
+Jugo venenoso
+
+[805]
+2Un líquido venenoso causa daño y envenena al objetivo.
+
+[806]
+Tajo zombi
+
+[807]
+1Un tajo brutal propinado con todas las fuerzas contra el enemigo.
+
+[808]
+Supertajo zombi
+
+[809]
+3Un tajo brutal contra quienes estén en el área, usando toda la fuerza.
+
+[810]
+Succión de sangre
+
+[811]
+1Absorbe sangre del enemigo para recuperar PV.
+
+[812]
+Hipnosis
+
+[813]
+3Hace dormir a quienes estén dentro del área.
+
+[814]
+Embestida
+
+[815]
+1Embestida contra un único enemigo.
+
+[816]
+Polvo sospechoso
+
+[817]
+3Duerme a quienes estén dentro del área con un polvo sospechoso.
+
+[818]
+Movimiento de pistón
+
+[819]
+2Corrompe al enemigo mediante unos movimientos sospechosos.
+
+[820]
+Invasión de setas
+
+[821]
+3Invoca innumerables setas que atacan a quienes estén en el área.
+
+[822]
+Invocar setas
+
+[823]
+3Invoca espíritus de las setas para atacar a quienes estén en el área.
+
+[824]
+Corte invisible de setas
+
+[825]
+Técnica letal que despedaza a quienes están en el área.
+
+[826]
+Kinoko Jiru
+
+[827]
+Genera Kinoko Jiru dentro de su cuerpo para recuperarse por completo.
+
+[828]
+Inflige daño de fuego al enemigo.
+
+[829]
+Llamas intensas
+
+[830]
+Inflige daño con intensas llamas a quienes estén en el área.
+
+[831]
+Llamas devastadoras
+
+[832]
+Calcina al enemigo con unas llamas devastadoras.
+
+[833]
+Combustión total
+
+[835]
+Electricidad estática
+
+[836]
+3Genera electricidad estática para dañar al enemigo.
+
+[837]
+Danza del bigote
+
+[838]
+3Una danza seductora transforma al enemigo en un Keukegen.
+
+[839]
+Multiplicación
+
+[840]
+Se divide para aumentar el número de aliados.
+
+[841]
+Invocación del dios del pelo
+
+[842]
+3Invoca al dios del cabello para atacar a quienes estén dentro del área.
+
+[843]
+Aullido somnífero
+
+[844]
+Grito de guerra
+
+[845]
+3Aumenta el ataque de quienes estén dentro del área.
+
+[846]
+Aullido bestial
+
+[847]
+2Corrompe y daña al enemigo.
+
+[848]
+Golpe de oso
+
+[849]
+1Un golpe con todas las fuerzas y el peso del cuerpo.
+
+[850]
+Cruz del oso
+
+[851]
+1¡La técnica letal definitiva del oso!
+
+[852]
+Fantasía de calabaza
+
+[853]
+3Paraliza a quienes estén dentro del área mediante hipnosis.
+
+[854]
+Láser de calabaza
+
+[855]
+3Ataca a quienes estén dentro del área con un láser de calabaza.
+
+[856]
+¡Bú!
+
+[857]
+Impide que el enemigo se mueva durante el siguiente turno.
+
+[858]
+¡¡Bú!!
+
+[859]
+¡¡¡Bú!!!
+
+[860]
+Un grito aterrador que provoca la muerte del enemigo.
+
+[861]
+Burbujas de agua
+
+[862]
+3Ataca al enemigo con burbujas de agua.
+
+[863]
+Chorro salino
+
+[864]
+3Rocía agua salada para curar a quienes estén dentro del área.
+
+[865]
+Gran maremoto
+
+[866]
+Ataca a quienes estén dentro del área con un enorme maremoto.
+
+[867]
+Furia de la tierra
+
+[868]
+Canción francesa
+
+[869]
+3Una hermosa voz adormece a quienes estén dentro del área.
+
+[870]
+Disparo demoledor
+
+[871]
+3¡Dispara a los puntos vitales de quienes estén dentro del área!
+
+[872]
+Carambola
+
+[873]
+¡Dispara a un punto vital del enemigo!
+
+[874]
+Canto de la muerte
+
+[875]
+Una voz hermosa que atrae al enemigo hacia la muerte.
+
+[876]
+Beso francés
+
+[877]
+3Un beso encantador que corrompe al enemigo.
+
+[878]
+Helicóptero floral
+
+[879]
+3Un polvo sospechoso impide usar magia a quienes estén dentro del área.
+
+[880]
+Choque floral
+
+[881]
+2Daña a un solo enemigo y reduce su defensa.
+
+[882]
+Bostezo hipnótico
+
+[883]
+Bostezo curativo
+
+[884]
+3Cura a quienes estén dentro del área.
+
+[885]
+Aliento de setas
+
+[886]
+3Un aliento de setas inflige daño y envenena a quienes estén dentro del área.
+
+[887]
+Invoca espíritus de las setas para atacar a quienes estén dentro del área.
+
+[888]
+¿Kiuuu?
+
+[889]
+3Es tan adorable que corrompe a quienes estén dentro del área.
+
+[890]
+Amigos del bosque
+
+[891]
+3Invoca a los amigos del bosque para atacar a quienes estén dentro del área.
+
+[892]
+Rugido del Nushi
+
+[893]
+3Paraliza a quienes estén dentro del área.
+
+[894]
+Furia del bosque
+
+[895]
+Plegaria oscura
+
+[896]
+Plegaria demoníaca
+
+[897]
+Una plegaria maligna que provoca la muerte del enemigo.
+
+[898]
+Grito de locura
+
+[899]
+Ataque pasable
+
+[900]
+1Inflige al enemigo un daño más bien normalito.
+
+[901]
+Rugido maldito
+
+[902]
+3Reduce la defensa de quienes estén dentro del área.
+
+[903]
+Rugido mortal
+
+[904]
+Curación demoníaca
+
+[905]
+Encanto arrollador
+
+[906]
+Tajo de caballero
+
+[907]
+1Un ataque elegante, como la reverencia de un caballero.
+
+[908]
+Atadura de espuma
+
+[909]
+Impide que quienes estén dentro del área se muevan durante el siguiente turno.
+
+[910]
+Bombardero musculoso
+
+[911]
+1Ataca al enemigo lanzando contra él su musculoso cuerpo.
+
+[912]
+Cañón de ondas espirituales
+
+[913]
+3Ataca a quienes estén dentro del área con energía espiritual.
+
+[914]
+Puño furioso del dios demoníaco
+
+[915]
+3Una tremenda onda generada por los puños daña a quienes estén dentro del área.
+
+[916]
+Rugido protector
+
+[917]
+3Aumenta la defensa de quienes estén dentro del área.
+
+[918]
+Rugido curativo
+
+[919]
+Seísmo maligno del dios demoníaco
+
+[920]
+3Inflige mucho daño a quienes estén dentro del área.
+
+[921]
+Rugido de corrupción
+
+[922]
+3Reduce el ataque de quienes estén dentro del área.
+
+[923]
+Tajo del lamento demoníaco
+
+[924]
+Bendición oscura
+
+[925]
+Lágrimas del monstruo gigante
+
+[926]
+3Inflige daño a quienes estén dentro del área.
+
+[927]
+Golpe de Chucky
+
+[928]
+Caída de vasijas
+
+[929]
+2Inflige daño con vasijas de barro.
+
+[930]
+Calabaza y dogū
+
+[931]
+2Inflige daño con calabazas y figurillas dogū.
+
+[932]
+Escoba y fregona
+
+[933]
+2Inflige daño con una escoba y una fregona.
+
+[934]
+Tenedor y cuchillo
+
+[935]
+2Inflige daño con tenedores y cuchillos.
+
+[936]
+¡Por todas partes, cajas!
+
+[937]
+2Inflige daño con cajas.
+
+[938]
+De todo un poco
+
+[939]
+2Inflige daño con toda clase de cosas.
+
+[940]
+Lanza y espada
+
+[941]
+2Inflige daño con lanzas y espadas.
+
+[942]
+Castigo de maceta
+
+[943]
+2Inflige daño con macetas.
+
+[944]
+Lluvia de meteoritos
+
+[945]
+2Inflige daño con meteoritos.
+
+[946]
+¡Saturnazo!
+
+[947]
+2Inflige daño con Saturno.
+
+[948]
+Esto y aquello
+
+[949]
+3Inflige daño con esto y aquello.
+
+[950]
+Mulder
+
+[952]
+¡Aparece el Señor Demonio Hani!
+
+[953]
+3Inflige daño con el Señor Demonio Hani.
+
+[954]
+Superonda de partículas demoníacas
+
+[955]
+3¡Una onda de choque aterradora que lo destroza todo!
+
+[956]
+Festín de demonios
+
+[957]
+1Los demonios reunidos bajo un Señor Demonio se desatan.
+
+[958]
+Cañón oscuro
+
+[959]
+3El poder del Señor Demonio aniquila toda forma de vida en la tierra.
+
+[960]
+¡Cambio de bastón!
+
+[961]
+Luz y oscuridad
+
+[962]
+Impacto de trueno
+
+[963]
+Puño del Señor Demonio
+
+[964]
+Proyectil destructor de planetas
+
+[965]
+Llamas de pasión y júbilo
+
+[966]
+3Se transforma en Prier.
+
+[967]
+Fuego
+
+[968]
+3Inflige daño con el poder del fuego.
+
+[969]
+Megafuego
+
+[970]
+Gigafuego
+
+[971]
+Omegafuego
+
+[972]
+Viento
+
+[973]
+3Inflige daño con el poder del viento.
+
+[974]
+Megaviento
+
+[975]
+Gigaviento
+
+[976]
+Omegaviento
+
+[977]
+Hielo
+
+[978]
+3Inflige daño con el poder del hielo.
+
+[979]
+Megahielo
+
+[980]
+Gigahielo
+
+[981]
+Omegahielo
+
+[982]
+Trueno
+
+[983]
+3Inflige daño con el poder del rayo.
+
+[984]
+Megatrueno
+
+[985]
+Gigatrueno
+
+[986]
+Omegatrueno
+
+[987]
+Corazón valiente
+
+[988]
+3Aumenta el poder de ataque.
+
+[989]
+Escudo
+
+[990]
+3Aumenta la defensa.
+
+[991]
+Enfriamiento
+
+[992]
+3Reduce el poder de ataque.
+
+[993]
+Rompearmaduras
+
+[994]
+3Reduce la defensa.
+
+[995]
+Potenciación mágica
+
+[996]
+3Aumenta el ataque mágico.
+
+[997]
+Barrera mágica
+
+[998]
+3Aumenta la defensa mágica.
+
+[999]
+Sellar magia
+
+[1000]
+3Impide utilizar magia.
+
+[1001]
+Encanto
+
+[1002]
+3Corrompe y debilita al objetivo.
+
+[1003]
+Sueño
+
+[1004]
+3Duerme al objetivo.
+
+[1005]
+Veneno
+
+[1006]
+3Inflige daño y envenena al enemigo.
+
+[1007]
+Sagrado
+
+[1008]
+3Inflige daño con el poder de la luz.
+
+[1009]
+Megasagrado
+
+[1010]
+Gigasagrado
+
+[1011]
+Omegasagrado
+
+[1012]
+Curación
+
+[1013]
+3Recupera PV.
+
+[1014]
+Megacuración
+
+[1015]
+Gigacuración
+
+[1016]
+Omegacuración
+
+[1017]
+Espoir
+
+[1018]
+Prueba 1
+
+[1019]
+1Prueba 1
+
+[1020]
+Prueba 2
+
+[1021]
+1Prueba 2
+
+[1022]
+Prueba 3
+
+[1023]
+1Prueba 3
+
+[1024]
+Prueba 4
+
+[1025]
+1Prueba 4
+
+[1026]
+Prueba 5
+
+[1027]
+1Prueba 5
+
+[1028]
+Prueba 6
+
+[1029]
+1Prueba 6
+
+[1030]
+Corte cruzado del Señor Demonio auténtico
+
+[1031]
+1Es un poco distinto del Supercorte cruzado del Señor Demonio.
+
+[1032]
+Esfera del Señor Demonio
+
+[1033]
+3Técnica letal de Laharl que lanza energía de nivel Señor Demonio.
+
+[1034]
+Gran corte dimensional mejorado
+
+[1035]
+2Técnica suprema de espada que parte en dos hasta el propio espacio.
+
+[1036]
+Espada tornado
+
+[1037]
+2Ataque combinado con Etna.
+
+[1038]
+¡A volar!
+
+[1039]
+1Ataque combinado con Prinny.
+
+[1040]
+Rayo sexi
+
+[1041]
+1Si resulta sexi o no, lo decide quien lo vea.
+
+[1042]
+Lanza meteórica rompefirmamentos
+
+[1043]
+2¡Sal volando!
+
+[1044]
+Erupción oscura
+
+[1045]
+2P-pero ¿no es demasiada explosión?
+
+[1046]
+Impacto amoroso
+
+[1047]
+1Ataque combinado con Flonne.
+
+[1048]
+Caída de Prinnies
+
+[1049]
+3Ataque combinado con Prinny.
+
+[1050]
+Rayo del amor
+
+[1051]
+1¡El poder del amor también puede hacer daño!
+
+[1052]
+¡Flonne, monstruo gigante!
+
+[1053]
+3¡Se transforma en un misterioso monstruo espacial! ¡Se avecina la mayor crisis del siglo!
+
+[1054]
+Cañón angelical
+
+[1055]
+3¡Este es todo el poder de un ángel caído!
+
+[1056]
+Esfera del Señor Demonio: Amor
+
+[1057]
+3Ataque combinado con Laharl.
+
+[1058]
+Ráfaga de Prinnies
+
+[1059]
+2¡A disparar sin parar, tío!
+
+[1060]
+Bomba Prinny
+
+[1061]
+1¡Lanzamos un montón de bombas, tío!
+
+[1062]
+Torre de Prinnies
+
+[1063]
+2¡Atacamos formando una torre, tío!
+
+[1064]
+Baile Prinny
+
+[1065]
+Especial 9 de Flonne
+
+[1066]
+Especial 10 de Flonne
+
+[1067]
+Especial 1 de Prinny
+
+[1068]
+Especial 2 de Prinny
+
+[1069]
+Especial 3 de Prinny
+
+[1070]
+Especial 4 de Prinny
+
+[1071]
+Especial 5 de Prinny
+
+[1072]
+Especial 6 de Prinny
+
+[1073]
+Especial 7 de Prinny
+
+[1074]
+Especial 8 de Prinny
+
+[1075]
+Especial 9 de Prinny
+
+[1076]
+Especial 10 de Prinny
+
+
+=== DLC_01/magic.dat ===
+
+[2802]
+¡Ataque de trasero!
+
+[2803]
+2¡Contempla mi elegante técnica de trasero, tío!
+
+[2804]
+¡Ráfaga Prinny!
+
+[2805]
+2¡Por mucho que pulses el botón □, no conseguirás disparar en ráfaga, tío!
+
+
+=== DLC_02/magic.dat ===
+
+[2871]
+Trompeta de la diosa guerrera
+
+[2872]
+3La melodía de la diosa hace pedazos a los enemigos.
+
+[2874]
+1Descripción de la habilidad especial 1 de Cornet.
+
+[2876]
+1Descripción de la habilidad especial 2 de Cornet.
+
+[2877]
+Especial 1 de Raspberyl
+
+[2878]
+1Descripción de la habilidad especial 1 de Raspberyl.
+
+[2879]
+Especial 2 de Raspberyl
+
+[2880]
+1Descripción de la habilidad especial 2 de Raspberyl.
+
+[2881]
+Especial 1 de Rozalin
+
+[2882]
+1Descripción de la habilidad especial 1 de Rozalin.
+
+[2883]
+Especial 2 de Rozalin
+
+[2884]
+1Descripción de la habilidad especial 2 de Rozalin.
+
+[2885]
+Especial 1 de Asagi
+
+[2886]
+1Descripción de la habilidad especial 1 de Asagi.
+
+[2887]
+Especial 2 de Asagi
+
+[2888]
+1Descripción de la habilidad especial 2 de Asagi.
+
+
+=== DLC_03/magic.dat ===
+
+[2955]
+Flor de ráfagas desatadas
+
+[2956]
+2Una flor que unas veces florece hermosa y otras, salvajemente.
+
+[2957]
+Liberación de la rosa
+
+[2958]
+3Cuando despierte su poder oculto, la tierra quedará salpicada de flores de sangre.
+

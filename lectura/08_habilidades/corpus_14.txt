@@ -1,0 +1,591 @@
+LA PUCELLE — 08_habilidades — CORPUS 14
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== DLC_00/skill.dat ===
+
+[1760]
+Crítico leve
+
+[1761]
+Permite asestar golpes críticos durante el combate.
+
+[1762]
+Crítico fortuito
+
+[1763]
+Crítico
+
+[1764]
+Megacrítico
+
+[1765]
+Gigacrítico
+
+[1766]
+Omegacrítico
+
+[1767]
+Crítico galáctico
+
+[1768]
+Puño divino
+
+[1769]
+Fuerza leve
+
+[1770]
+Aumenta temporalmente el ataque durante el combate.
+
+[1771]
+Fuerza fortuita
+
+[1772]
+Fuerza muscular
+
+[1773]
+Megafuerza
+
+[1774]
+Gigafuerza
+
+[1775]
+Omegafuerza
+
+[1776]
+Fuerza al límite
+
+[1777]
+Espíritu ardiente
+
+[1778]
+Ruptura leve
+
+[1779]
+Reduce temporalmente la defensa enemiga durante el combate.
+
+[1780]
+Ruptura fortuita
+
+[1781]
+Ruptura
+
+[1782]
+Danza debilitante
+
+[1783]
+Megarruptura
+
+[1784]
+Gigarruptura
+
+[1785]
+Omegarruptura
+
+[1786]
+Mirada asesina
+
+[1787]
+Guardia leve
+
+[1788]
+Aumenta temporalmente la defensa durante el combate.
+
+[1789]
+Guardia fortuita
+
+[1790]
+Bloqueo cruzado
+
+[1791]
+Cortina de hierro
+
+[1792]
+Guardia muscular
+
+[1793]
+Guardia de aleación
+
+[1794]
+Guardia de platino
+
+[1795]
+Postura Sanchin
+
+[1796]
+Barrera leve
+
+[1797]
+Aumenta temporalmente la defensa mágica en combate.
+
+[1798]
+Barrera fortuita
+
+[1799]
+Barrera mágica
+
+[1800]
+Barrera de aura
+
+[1801]
+Barrera milagrosa
+
+[1802]
+Barrera omega
+
+[1803]
+Guardia tenaz
+
+[1804]
+(Bloqueo circular
+
+[1805]
+Respiración profunda
+
+[1806]
+Recupera PV al final del turno.
+
+[1807]
+Recuperación milagrosa
+
+[1808]
+Recuperación omega
+
+[1809]
+Aliento
+
+[1810]
+Qigong
+
+[1811]
+Chakra
+
+[1812]
+Evita los estados alterados durante el combate.
+
+[1813]
+Cazatesoros
+
+[1814]
+Aumenta la probabilidad de obtener objetos al purificar.
+
+[1815]
+Bendición de la diosa
+
+[1816]
+Aumenta la experiencia obtenida durante el combate.
+
+[1817]
+Golpe bautismal
+
+[1818]
+Los ataques tienen un efecto purificador en combate.
+
+[1819]
+Aumenta el movimiento en 1 (siempre activo).
+
+[1820]
+Aumenta el movimiento en 2 (siempre activo).
+
+[1821]
+Aumenta el movimiento en 3 (siempre activo).
+
+[1822]
+Acierto seguro
+
+[1823]
+Todos los ataques aciertan durante el combate.
+
+[1824]
+Superesquiva
+
+[1825]
+Permite esquivar ataques con una probabilidad muy alta durante el combate.
+
+[1826]
+Aumenta el alcance de purificación en 1.
+
+[1827]
+Aumenta el alcance de purificación en 2.
+
+[1828]
+Aumenta el alcance de purificación en 3.
+
+[1829]
+Aumenta el alcance de purificación en 4.
+
+[1830]
+Aumenta el alcance de purificación en 5.
+
+[1831]
+Aumenta el alcance de purificación en 6.
+
+[1832]
+Aumenta el alcance de purificación en 7.
+
+[1833]
+Aumenta el alcance de purificación en 8.
+
+[1834]
+Aumenta la eficacia de la purificación al purificar.
+
+[1835]
+Aumenta el salto en 2 (siempre activo).
+
+[1836]
+Aumenta el salto en 5 (siempre activo).
+
+[1837]
+Aumenta el salto en 8 (siempre activo).
+
+[1838]
+Aumenta el salto en 11 (siempre activo).
+
+[1839]
+Aumenta el salto en 15 (siempre activo).
+
+[1840]
+Aumenta el salto en 20 (siempre activo).
+
+
+=== ISO_START/skill.dat ===
+
+[14534]
+Crítico leve
+
+[14535]
+Permite asestar golpes críticos.
+
+[14536]
+Crítico fortuito
+
+[14537]
+Crítico
+
+[14538]
+Megacrítico
+
+[14539]
+Gigacrítico
+
+[14540]
+Omegacrítico
+
+[14541]
+Ultracrítico
+
+[14542]
+Puño divino
+
+[14543]
+Fuerza leve
+
+[14544]
+Aumenta temporalmente el ataque.
+
+[14545]
+Fuerza fortuita
+
+[14546]
+Fuerza muscular
+
+[14547]
+Megafuerza
+
+[14548]
+Gigafuerza
+
+[14549]
+Omegafuerza
+
+[14550]
+Fuerza ardiente
+
+[14551]
+Espíritu ardiente
+
+[14552]
+Ruptura leve
+
+[14553]
+Reduce temporalmente la defensa enemiga.
+
+[14554]
+Ruptura fortuita
+
+[14555]
+Ruptura
+
+[14556]
+Ruptura muscular
+
+[14557]
+Megarruptura
+
+[14558]
+Reduce temporalmente la defensa enemiga.
+
+[14559]
+Gigarruptura
+
+[14560]
+Omegarruptura
+
+[14561]
+Mirada asesina
+
+[14562]
+Guardia leve
+
+[14563]
+Aumenta temporalmente la defensa.
+
+[14564]
+Guardia fortuita
+
+[14565]
+Bloqueo cruzado
+
+[14566]
+Cortina de hierro
+
+[14567]
+Guardia muscular
+
+[14568]
+Guardia de aleación
+
+[14569]
+Guardia de platino
+
+[14570]
+Guardia celestial
+
+[14571]
+Barrera leve
+
+[14572]
+Aumenta temporalmente la defensa mágica.
+
+[14573]
+Barrera fortuita
+
+[14574]
+Barrera mágica
+
+[14575]
+Barrera de aura
+
+[14576]
+Barrera milagrosa
+
+[14577]
+Barrera omega
+
+[14578]
+Barrera espiritual
+
+[14579]
+(Barrera celestial
+
+[14580]
+Respiración profunda
+
+[14581]
+Recupera PV.
+
+[14582]
+Recuperación milagrosa
+
+[14583]
+Recuperación omega
+
+[14584]
+Recupera PV.
+
+[14585]
+Aliento
+
+[14586]
+Aliento de la Diosa
+
+[14587]
+Chakra
+
+[14588]
+Se recupera de los estados alterados.
+
+[14589]
+Cazatesoros
+
+[14590]
+Aumenta la probabilidad de obtener objetos.
+
+[14591]
+Bendición de la diosa
+
+[14592]
+Aumenta la experiencia obtenida.
+
+[14593]
+Golpe bautismal
+
+[14594]
+Los ataques tienen efecto purificador.
+
+[14595]
+Movimiento +1
+
+[14596]
+Aumenta el movimiento en 1.
+
+[14597]
+Movimiento +2
+
+[14598]
+Aumenta el movimiento en 2.
+
+[14599]
+Movimiento +3
+
+[14600]
+Aumenta el movimiento en 3.
+
+[14601]
+Acierto seguro
+
+[14602]
+Todos los ataques aciertan.
+
+[14603]
+Superesquiva
+
+[14604]
+Permite esquivar la mayoría de los ataques.
+
+[14605]
+Alcance de purificación +1
+
+[14606]
+Aumenta el alcance de purificación en 1.
+
+[14607]
+Alcance de purificación +2
+
+[14608]
+Aumenta el alcance de purificación en 2.
+
+[14609]
+Alcance de purificación +3
+
+[14610]
+Aumenta el alcance de purificación en 3.
+
+[14611]
+Alcance de purificación +4
+
+[14612]
+Aumenta el alcance de purificación en 4.
+
+[14613]
+Alcance de purificación +5
+
+[14614]
+Aumenta el alcance de purificación en 5.
+
+[14615]
+Alcance de purificación +6
+
+[14616]
+Aumenta el alcance de purificación en 6.
+
+[14617]
+Alcance de purificación +7
+
+[14618]
+Aumenta el alcance de purificación en 7.
+
+[14619]
+Alcance de purificación +8
+
+[14620]
+Aumenta el alcance de purificación en 8.
+
+[14621]
+Potencia de purificación +1
+
+[14622]
+Aumenta la potencia de purificación en 1.
+
+[14623]
+Potencia de purificación +2
+
+[14624]
+Aumenta la potencia de purificación en 2.
+
+[14625]
+Potencia de purificación +3
+
+[14626]
+Aumenta la potencia de purificación en 3.
+
+[14627]
+Potencia de purificación +4
+
+[14628]
+Aumenta la potencia de purificación en 4.
+
+[14629]
+Potencia de purificación +5
+
+[14630]
+Aumenta la potencia de purificación en 5.
+
+[14631]
+Potencia de purificación +6
+
+[14632]
+Aumenta la potencia de purificación en 6.
+
+[14633]
+Potencia de purificación +7
+
+[14634]
+Aumenta la potencia de purificación en 7.
+
+[14635]
+Potencia de purificación +8
+
+[14636]
+Aumenta la potencia de purificación en 8.
+
+[14637]
+Potencia de purificación +9
+
+[14638]
+Aumenta la potencia de purificación en 9.
+
+[14639]
+Potencia de purificación +10
+
+[14640]
+Aumenta la potencia de purificación en 10.
+
+[14641]
+Aumenta el salto en 2.
+
+[14642]
+Aumenta el salto en 5.
+
+[14643]
+Aumenta el salto en 8.
+
+[14644]
+Aumenta el salto en 11.
+
+[14645]
+Aumenta el salto en 15.
+
+[14646]
+Aumenta el salto en 20.
+

@@ -1,0 +1,978 @@
+LA PUCELLE — 09_objetos_equipo_otros — CORPUS 14
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== DLC_00/com.dat ===
+
+[157]
+Disculparse
+
+[158]
+Pides disculpas.
+
+[159]
+Acariciar
+
+[160]
+Acaricias al personaje con delicadeza.
+
+[161]
+Hablar
+
+[162]
+Hablas con el personaje.
+
+[163]
+Entrometerse
+
+[164]
+Te metes en asuntos ajenos.
+
+[165]
+Elogiar
+
+[166]
+Lo elogias con amabilidad.
+
+[167]
+Dar una golosina
+
+[168]
+Le das una golosina para levantarle el ánimo.
+
+[169]
+Dar unas monedas
+
+[170]
+Le das algo de dinero.
+
+[171]
+Cantarle una canción
+
+[172]
+Le cantas una canción.
+
+[173]
+Tratar con cariño
+
+[174]
+Le demuestras cariño... en todos los sentidos.
+
+[175]
+Jugar juntos
+
+[176]
+Juegas con el personaje.
+
+[177]
+Recibir un puñetazo
+
+[178]
+Dejas que te dé un puñetazo con todo lo que lleva dentro.
+
+[179]
+Adular
+
+[180]
+Lo adulas con halagos que ni tú te crees.
+
+[181]
+Hacer reír
+
+[182]
+Recurres a cualquier truco para hacerlo reír.
+
+[183]
+Dar un masaje
+
+[184]
+Le alivias el cansancio con un masaje.
+
+[185]
+Recibir una paliza
+
+[186]
+Dejas que te dé una paliza con todo lo que lleva dentro.
+
+[187]
+Consentir
+
+[188]
+Consientes al personaje.
+
+[189]
+Escuchar sus problemas
+
+[190]
+Escuchas sus preocupaciones.
+
+[191]
+Colmar de elogios
+
+[192]
+Lo colmas de elogios una y otra vez.
+
+[193]
+Ofrecer el regazo
+
+[194]
+Dejas que repose en tu regazo para reconfortarlo.
+
+[195]
+Lavarle la espalda
+
+[196]
+Le lavas la espalda en el baño.
+
+[197]
+Dar un regalo
+
+[198]
+Le haces un regalo para levantarle el ánimo.
+
+[199]
+Postrarse
+
+[200]
+Te postras de rodillas para pedir disculpas.
+
+[201]
+Confesar las faltas
+
+[202]
+Confiesas tus faltas pasadas.
+
+[203]
+Arrepentirse
+
+[204]
+Te arrepientes de tus actos pasados.
+
+[205]
+Hablar hasta el amanecer
+
+[206]
+Conversas hasta el amanecer.
+
+[207]
+Beber hasta el amanecer
+
+[208]
+Bebes hasta el amanecer.
+
+[209]
+Escuchar sus quejas
+
+[210]
+Escuchas sus quejas cotidianas.
+
+[213]
+Cuidar
+
+[214]
+Atiendes al personaje en todo lo que necesita.
+
+[215]
+Estrechar la amistad
+
+[216]
+Estrechas la amistad... en todos los sentidos.
+
+[217]
+Entenderse con la mirada
+
+[218]
+Se entienden con la mirada.
+
+[219]
+Matar a halagos
+
+[220]
+Lo elogias sin parar, hasta matarlo a halagos.
+
+[221]
+Llevar a una taberna
+
+[222]
+Bebes en la taberna hasta el amanecer.
+
+[223]
+Hacerse el harakiri
+
+[224]
+Te haces el harakiri para pedir disculpas.
+
+[225]
+Llevar a un restaurante de lujo
+
+[226]
+Lo agasajas en un restaurante japonés de lujo.
+
+[227]
+Agasajar
+
+[228]
+Lo agasajas como si fuera el presidente de una empresa.
+
+[229]
+Apalear con fajos de billetes
+
+[230]
+Lo apaleas con fajos de billetes.
+
+[231]
+Cumplir todos sus deseos
+
+[232]
+Accedes a todo lo que te pide.
+
+[233]
+Fortalecer el amor
+
+[234]
+Profundizas el vínculo amoroso... en todos los sentidos.
+
+[235]
+Casarse
+
+[236]
+Te casas con el personaje.
+
+[237]
+Cambiarle el nombre
+
+[238]
+Le cambias el nombre para estrechar lazos.
+
+[239]
+Regalar un libro serio
+
+[240]
+Le regalas un libro serio.
+
+[241]
+Regañar
+
+[242]
+Lo reprendes con dureza.
+
+[243]
+Echar un sermón
+
+[244]
+Le sueltas un sermón.
+
+[245]
+200 flexiones
+
+[246]
+Le haces hacer 200 flexiones.
+
+[247]
+200 abdominales
+
+[248]
+Le haces hacer 200 abdominales.
+
+[249]
+200 sentadillas
+
+[250]
+Le haces hacer 200 sentadillas.
+
+[251]
+Esprintar a tope
+
+[252]
+Lo haces correr a toda velocidad para aumentar su resistencia.
+
+[253]
+Meditar en posición zazen
+
+[254]
+Practica zazen para fortalecer la mente.
+
+[255]
+Romper tejas
+
+[256]
+Le haces romper tejas.
+
+[257]
+Gimnasia por radio
+
+[258]
+Mejora su salud con ejercicios de gimnasia por radio.
+
+[259]
+Entrenar a recibir golpes
+
+[260]
+Entrena para resistir mejor los golpes.
+
+[261]
+Escribir «肉» en la frente
+
+[262]
+Le escribes «肉» en la frente.
+
+[263]
+Escribir «中» en la frente
+
+[264]
+Le escribes «中» en la frente.
+
+[265]
+Retiro en la montaña
+
+[267]
+Estimular puntos vitales
+
+[268]
+Presionas puntos vitales para despertar su potencial.
+
+[269]
+Organizar un secuestro
+
+[270]
+Pides a unos extraterrestres que lo abduzcan.
+
+[271]
+Pides a una organización secreta que lo modifique.
+
+[272]
+Pides a una organización secreta que lo convierta en un robot transformable.
+
+[273]
+Le gritas sin motivo.
+
+[274]
+Azote de amor
+
+[275]
+Le das una paliza con todo tu amor.
+
+[276]
+Abanico disciplinario
+
+[277]
+Le inculcas disciplina a golpes de abanico.
+
+[278]
+Dar un escarmiento
+
+[279]
+Le das un escarmiento.
+
+[280]
+Llave articular
+
+[281]
+Le aplicas una llave a una articulación.
+
+[282]
+Codazo sorpresa
+
+[283]
+Le asestas un codazo por sorpresa.
+
+[284]
+Suplex alemán sorpresa
+
+[285]
+Le aplicas un suplex alemán sin avisar.
+
+[286]
+Asestar un puñetazo
+
+[287]
+Le das un puñetazo.
+
+[288]
+Dar una patada circular
+
+[289]
+Le asestas una patada circular.
+
+[290]
+Patada de talón descendente
+
+[291]
+Le asestas una patada de talón descendente.
+
+[292]
+Cuatro golpes a la línea central
+
+[293]
+Ejecuta una técnica secreta legendaria.
+
+[294]
+Entrenamiento intensivo
+
+[295]
+Se queda a entrenar para fortalecer su espíritu.
+
+[296]
+Doparse
+
+[297]
+Le administras una droga sospechosa para aumentar su rendimiento.
+
+[298]
+Salsa mortal
+
+[299]
+Fortalece su voluntad con una salsa extremadamente picante.
+
+[300]
+Entrenamiento de resistencia
+
+[301]
+Practica para aguantar mejor los golpes.
+
+[302]
+Atar
+
+[303]
+Lo atas.
+
+[304]
+Apuñalar
+
+[305]
+Lo apuñalas.
+
+[306]
+Lo matas a tiros.
+
+
+=== DLC_00/kis.dat ===
+
+[307]
+Muñequera
+
+[308]
+Aumenta el ataque y, supuestamente, te hace parecer más guay.
+
+[309]
+Puño cerrado
+
+[310]
+¡Un puño cerrado es el sueño de todo hombre!
+
+[311]
+Guantes de patitas
+
+[312]
+Suaves y mullidas almohadillas felinas.
+
+[313]
+Martillo de juguete
+
+[314]
+Un martillo que ayuda a conciliar el sueño.
+
+[315]
+Garra de hierro
+
+[316]
+¡Ahora aprieta con todavía más fuerza!
+
+[317]
+Poder de la mano
+
+[318]
+Emite un sospechoso poder de las manos.
+
+[319]
+Hípernudilleras
+
+[320]
+Unas nudilleras... ¡hiperpoderosas!
+
+[321]
+Tijeras telescópicas
+
+[322]
+Útiles para alcanzar las ramas más altas.
+
+[323]
+Golpe a las joyas
+
+[324]
+¡Un golpe crítico donde a los hombres más les duele!
+
+[325]
+Puñetazo felino
+
+[326]
+Un puñetazo de gato.
+
+[327]
+Contragolpe cruzado
+
+[328]
+¿¡Un contragolpe cruzado que duplica la potencia!?
+
+[329]
+Mano venenosa
+
+[330]
+Un arma prohibida: ¡ya ni puedes hurgarte la nariz!
+
+[331]
+Flecha de nudillos
+
+[332]
+Lanza un golpe con toda la fuerza del cuerpo y el alma.
+
+[333]
+Lanza desganada
+
+[334]
+Es potente, pero te quita las ganas de hacer nada.
+
+[335]
+Mano mágica
+
+[336]
+Aunque la equipes, no podrás usar poderes paranormales.
+
+[337]
+Guantes apestosos
+
+[338]
+El olor a sudor aumenta el poder de ataque.
+
+[339]
+Hacha explosiva
+
+[340]
+Un hacha de filo extraordinario.
+
+[341]
+Golpe de kárate
+
+[342]
+¡El espíritu de un legendario fanático del kárate mora en tu mano!
+
+[343]
+Puñetazo megatón
+
+[344]
+Un puñetazo de fuerza megatónica.
+
+[345]
+Una joya para entendidos: aumenta el ataque y la magia.
+
+[346]
+Golpe de abanico
+
+[347]
+Un artículo típico de cierta región.
+
+[348]
+Puño ardiente
+
+[349]
+Su puño alberga llamas y aumenta el ataque.
+
+[350]
+Espada Keuke
+
+[351]
+Una espada maldita tan horrenda que da miedo hablar de ella.
+
+[352]
+Espada de Odín
+
+[353]
+Imbuida del poder del dios del viento. ¡Menuda espada!
+
+[354]
+Espada de Thor
+
+[355]
+Imbuida del poder del dios del trueno. ¡Menuda espada!
+
+[356]
+Espada de cactus
+
+[357]
+Artesanía del desierto hecha de cactus.
+
+[358]
+Beowulf
+
+[359]
+Una espada mágica potentísima, pero quien la empuña se vuelve tonto.
+
+[360]
+Cruzada
+
+[361]
+Una pieza legendaria que mejora mucho los atributos.
+
+[362]
+Excalibur
+
+[363]
+Una espada que perteneció a alguien muy importante.
+
+[364]
+Stormbringer
+
+[365]
+Una espada que empuñó cierto príncipe.
+
+[366]
+Storm Eringa
+
+[367]
+Espada legendaria transmitida entre los Eringa.
+
+[368]
+Muramasa
+
+[369]
+Una espada samurái maldita de tierras orientales.
+
+[370]
+Alondite
+
+[371]
+Una espada que perteneció a alguien extraordinario.
+
+[372]
+Glorius
+
+[373]
+Mano divina
+
+[374]
+Dicen que este puño puede matar hasta dragones...
+
+[375]
+Cañón de mil millones de años luz
+
+[376]
+El arma definitiva: ¡alcanza hasta mil millones de años luz!
+
+[377]
+Bastón de fuego
+
+[378]
+Un bastón de elemento fuego.
+
+[379]
+Bastón de viento
+
+[380]
+Un bastón de elemento viento.
+
+[381]
+Bastón de hielo
+
+[382]
+Un bastón de elemento hielo.
+
+[383]
+Bastón de trueno
+
+[384]
+Un bastón de elemento rayo.
+
+[385]
+Bastón de apoyo
+
+[386]
+Un bastón con afinidad de apoyo.
+
+[387]
+Bastón curativo
+
+[388]
+Un bastón con afinidad curativa.
+
+[389]
+Bastón sagrado
+
+[390]
+Un bastón con afinidad sagrada.
+
+[391]
+Bastón corriente
+
+[392]
+Un bastón de lo más normal.
+
+[393]
+Bastón de roble
+
+[394]
+Un bastón robusto hecho de roble.
+
+[395]
+Bastón de mago
+
+[396]
+Dicen que es el bastón favorito de los magos.
+
+[397]
+Bastón macizo
+
+[398]
+Un bastón de tamaño descomunal.
+
+[399]
+Bastón del sabio
+
+[400]
+Con este bastón te sientes todo un sabio.
+
+[401]
+Bastón-espada
+
+[402]
+Oculta una espada en su interior.
+
+[403]
+Bastón mágico
+
+[404]
+Un bastón que encierra una magia poderosa.
+
+[405]
+Bastón de setas
+
+[406]
+Un extraño bastón hecho de setas.
+
+[407]
+Bastón del gran sabio
+
+[408]
+El bastón favorito del gran sabio Polyansky.
+
+[409]
+Bastón de Odín
+
+[410]
+Contiene el poder del dios del viento. ¡Y vaya si es fuerte!
+
+[411]
+Bastón de Thor
+
+[412]
+Contiene el poder del dios del trueno. ¡Y vaya si es fuerte!
+
+[413]
+Bastón de cactus
+
+[414]
+Un bastón hecho de cactus. ¡Pincha!
+
+[415]
+Bastón de la Doncella
+
+[416]
+Dicen que lo usaba la Doncella de la Luz.
+
+[417]
+Bastón del ángel caído
+
+[418]
+Bastón que contiene el poder del ángel caído Calamity.
+
+[419]
+Bastón de la Diosa
+
+[420]
+Bastón imbuido del poder de la diosa Poitreene.
+
+[421]
+Bastón omnisciente y omnipotente
+
+[422]
+Es omnisciente y omnipotente, ¡pero no te convierte en dios!
+
+[423]
+Vara de fuego
+
+[424]
+Vara de viento
+
+[425]
+Vara de hielo
+
+[426]
+Vara de trueno
+
+[427]
+Vara de apoyo
+
+[428]
+Vara curativa
+
+[429]
+Vara sagrada
+
+[430]
+Bastón de Myao
+
+[431]
+Algo que perdió una legendaria brujita.
+
+[432]
+Amuleto
+
+[433]
+Para ti, que quieres ser todavía más hermosa...
+
+[434]
+Protector
+
+[435]
+Aumenta un poco la defensa. Es mejor que nada.
+
+[436]
+Chaleco antibalas
+
+[437]
+Como indica su nombre, es un chaleco que detiene balas.
+
+[438]
+Tapa de olla de lujo
+
+[439]
+Imprescindible en casa: resistente y difícil de oxidar.
+
+[440]
+Cota de malla
+
+[441]
+Una prenda elegante originaria de Oriente.
+
+[442]
+Capa interdimensional
+
+[443]
+Una capa de otra dimensión.
+
+[444]
+Chaqueta de fuerza
+
+[445]
+¡Póntela y lucirás unos músculos impresionantes!
+
+[446]
+Braguitas sexis
+
+[447]
+Facilita reclutar enemigos mediante la seducción.
+
+[448]
+Rosario
+
+[449]
+Parece que otorga protección divina.
+
+[450]
+Chaleco mágico
+
+[451]
+¿¡Con ponértelo ya te conviertes en mago!?
+
+[452]
+Sujetador realzador
+
+[453]
+Imperial
+
+[454]
+No está muy claro cómo, pero aumenta varios atributos.
+
+[455]
+Cinturón negro
+
+[456]
+Solo con llevarlo ya te sientes más fuerte.
+
+[457]
+Bata de dandi
+
+[458]
+Una prenda de primera para hombres. ¡Desprende elegancia!
+
+[459]
+Capa de sigilo
+
+[460]
+Una capa que hace más difícil que te descubran.
+
+[461]
+Chaqueta apestosa
+
+[462]
+Tendrás que soportar el olor a sudor.
+
+[463]
+Capa fantasmal
+
+[464]
+Una capa... muy de fantasma.
+
+[465]
+Túnica del gran sabio
+
+[466]
+La túnica favorita del gran sabio Polyansky.
+
+[467]
+Traje de bondage
+
+[468]
+Para aficionados: sorprendentemente, aumenta la defensa.
+
+[469]
+Chaleco de tenacidad
+
+[470]
+Un chaleco que te hace más resistente al sufrimiento.
+
+[471]
+Armadura de Odín
+
+[472]
+Imbuida del poder del dios del viento. ¡Es fuerte de verdad!
+
+[473]
+Armadura de Thor
+
+[474]
+Imbuida del poder del dios del trueno. ¡Es fuerte de verdad!
+
+[475]
+Armadura de cactus
+
+[476]
+Capa del héroe
+
+[477]
+Al ponértela te sientes un héroe y ganas fuerza.
+
+[478]
+Protección sagrada
+
+[479]
+Armadura de la Parca
+
+[480]
+Aumenta todos los atributos excepto la defensa, pero...
+
+[481]
+Armadura del paladín
+
+[482]
+Una armadura que llevó alguien muy importante.
+

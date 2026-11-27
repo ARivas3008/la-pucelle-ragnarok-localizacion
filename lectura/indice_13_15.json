@@ -1,0 +1,29 @@
+[
+  {
+    "corpus": "13",
+    "grupos": 947,
+    "no_revisados": 0,
+    "categorias": {
+      "06_dialogos": 446,
+      "07_magias_y_descripciones": 501
+    }
+  },
+  {
+    "corpus": "14",
+    "grupos": 1055,
+    "no_revisados": 0,
+    "categorias": {
+      "07_magias_y_descripciones": 538,
+      "08_habilidades": 194,
+      "09_objetos_equipo_otros": 323
+    }
+  },
+  {
+    "corpus": "15",
+    "grupos": 1000,
+    "no_revisados": 1,
+    "categorias": {
+      "09_objetos_equipo_otros": 1000
+    }
+  }
+]

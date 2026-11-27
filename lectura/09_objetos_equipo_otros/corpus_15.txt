@@ -1,0 +1,3018 @@
+LA PUCELLE — 09_objetos_equipo_otros — CORPUS 15
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== DLC_00/kis.dat ===
+
+[483]
+Chaqueta del dios de la guerra
+
+[484]
+Atuendo marcial que llevó alguien muy fuerte.
+
+[485]
+Escudo de oricalco
+
+[486]
+Escudo que perteneció a alguien importante.
+
+[487]
+Nueve colas
+
+[488]
+Piel de primera calidad, el sueño de toda mujer.
+
+[489]
+Traje robótico de superaleación
+
+[490]
+Traje con aspecto de robot de superaleación. ¡El más fuerte del universo!
+
+[491]
+Gafas de montura plateada
+
+[492]
+Te hacen parecer más inteligente.
+
+[493]
+Ojos de gato
+
+[494]
+Puedes mirar cuanto quieras incluso de noche... Je, je.
+
+[495]
+Gafas de concentración
+
+[496]
+Con ellas estudiarás mucho mejor.
+
+[497]
+Noctovisión
+
+[498]
+Puedes ver por dónde vas incluso a oscuras. ¡Qué alivio!
+
+[499]
+Ojo de francotirador
+
+[500]
+Pero eso no significa que siempre vayas a acertar.
+
+[501]
+Visión del futuro
+
+[502]
+Unas gafas misteriosas que te dejan ver tu propio futuro.
+
+[503]
+Visor de anticipación
+
+[504]
+¡Tengo todos tus movimientos calados...!
+
+[505]
+Clarividencia
+
+[506]
+No intentes luchar contra enemigos a miles de kilómetros.
+
+[507]
+Zapatillas deportivas
+
+[508]
+Para hacer ejercicio, nada como estas zapatillas.
+
+[509]
+Zapatos de halcón
+
+[510]
+Pero los halcones no llevan zapatos.
+
+[511]
+Zapatillas Niké
+
+[512]
+Calzado muy apreciado en el reino de Marl.
+
+[513]
+Getas apestosas
+
+[514]
+¡Te pueden contagiar el pie de atleta!
+
+[515]
+Geta de hierro
+
+[516]
+Un instrumento tradicional de entrenamiento.
+
+[517]
+Zapatos de ángel
+
+[518]
+No te convierten en ángel, pero sí te hacen más rápido.
+
+[519]
+Motor hiperespaciotemporal
+
+[520]
+Con él podrás volar hasta el confín del universo.
+
+[521]
+Libro de las hadas
+
+[522]
+Libro que alberga un hada.
+
+[523]
+Libro de los espíritus
+
+[524]
+Libro que alberga un espíritu.
+
+[525]
+Libro de los espíritus sagrados
+
+[526]
+Libro que alberga un espíritu sagrado.
+
+[527]
+Anillo de poder mágico
+
+[528]
+Anillo que encierra un gran poder mágico.
+
+[529]
+Orbe angelical
+
+[530]
+Esfera mágica bendecida por ángeles.
+
+[531]
+Orbe del dios demoníaco
+
+[532]
+Esfera mágica que encierra a un dios demoníaco.
+
+[533]
+Vajra
+
+[534]
+Bastón que alberga a Yeltsin, espíritu del rayo.
+
+[535]
+Anillo del ángel caído
+
+[536]
+Anillo hechizado por un ángel caído.
+
+[537]
+Anillo de la diosa
+
+[538]
+Anillo bendecido por la diosa.
+
+[539]
+Delantal sin nada debajo
+
+[540]
+Amplificador psíquico
+
+[541]
+Estimula el cerebro y despierta el potencial oculto.
+
+[542]
+Insignia del Señor Demonio Supremo
+
+[543]
+Prueba de ser el Señor Demonio más poderoso del Mundo Oscuro.
+
+[545]
+Facilita que aumente el nivel del atributo HP.
+
+[547]
+Facilita que aumente el nivel del atributo SP.
+
+[549]
+Facilita que aumente el nivel del atributo ATK.
+
+[551]
+Facilita que aumente el nivel del atributo DEF.
+
+[553]
+Facilita que aumente el nivel del atributo INT.
+
+[555]
+Facilita que aumente el nivel del atributo SPD.
+
+[557]
+Facilita que aumente el nivel del atributo HIT.
+
+[559]
+Facilita que aumente el nivel del atributo RES.
+
+[568]
+Caramelo curativo
+
+[569]
+Recupera HP.
+
+[570]
+Caramelo medicinal
+
+[571]
+Caramelo revitalizante
+
+[572]
+Caramelo de elixir
+
+[573]
+Seta curativa
+
+[574]
+Recupera SP.
+
+[575]
+Seta medicinal
+
+[576]
+Seta revitalizante
+
+[577]
+Seta de elixir
+
+[578]
+Cambio de rumbo
+
+[579]
+Colócalo y pulsa □ para cambiar el sentido de la corriente de energía.
+
+[580]
+Kinoko Jiru
+
+[581]
+Restaura por completo HP y SP.
+
+[582]
+Polvo de hadas
+
+[583]
+Cura los estados alterados.
+
+[584]
+Elixir
+
+[585]
+Lo cura absolutamente todo.
+
+[586]
+Autoregalo
+
+[587]
+Un regalo que te haces a ti mismo.
+
+
+=== DLC_00/ritem.dat ===
+
+[1469]
+Por los pelos
+
+[1470]
+Siempre te mete en apuros.
+
+[1471]
+Fracaso estrepitoso
+
+[1472]
+Fracasarás hagas lo que hagas.
+
+[1473]
+Un desastre
+
+[1474]
+No vale para nada.
+
+[1475]
+Inútil
+
+[1476]
+No sirve.
+
+[1477]
+Desafilado
+
+[1478]
+No es muy bueno.
+
+[1479]
+¡No pasa nada!
+
+[1480]
+Aumenta la probabilidad de fallar.
+
+[1481]
+Sucio
+
+[1482]
+Hecho polvo
+
+[1483]
+Está hecho trizas.
+
+[1484]
+Chatarra
+
+[1485]
+No es mucho más que chatarra.
+
+[1486]
+Chapucero
+
+[1487]
+De fabricación chapucera.
+
+[1488]
+Por muy poco
+
+[1489]
+No llega ni por los pelos a ser útil.
+
+[1490]
+Trasto viejo
+
+[1491]
+No sirve para nada.
+
+[1492]
+Regular
+
+[1493]
+No acaba de convencer.
+
+[1494]
+Suave
+
+[1495]
+De sabor suave y con cuerpo.
+
+[1496]
+Para niños
+
+[1497]
+Bonito y pensado para niños.
+
+[1498]
+De iniciación
+
+[1499]
+Pensado para principiantes.
+
+[1500]
+A medio hacer
+
+[1501]
+Está a medio hacer y cuesta utilizarlo.
+
+[1502]
+El de siempre
+
+[1503]
+El clásico de siempre.
+
+[1504]
+De entrenamiento
+
+[1505]
+Aumenta la experiencia obtenida.
+
+[1506]
+Crecepelo
+
+[1507]
+Huele a timo.
+
+[1508]
+De venta por catálogo
+
+[1509]
+Suele venderse por catálogo.
+
+[1510]
+Económico
+
+[1511]
+Es bastante barato.
+
+[1512]
+Buenos días
+
+[1513]
+No te deja dormir.
+
+[1514]
+Buenas noches
+
+[1515]
+Te entra sueño.
+
+[1516]
+Venta agresiva
+
+[1517]
+Es una molestia para los demás.
+
+[1518]
+Corriente
+
+[1519]
+De lo más normal.
+
+[1520]
+Sexi
+
+[1521]
+Te pone de un humor picante.
+
+[1522]
+Tono de móvil
+
+[1523]
+Incluye función de tonos de llamada.
+
+[1524]
+Natural
+
+[1525]
+Conserva todo su sabor natural.
+
+[1526]
+De piedra
+
+[1527]
+Está hecho de piedra.
+
+[1528]
+Recomendado
+
+[1529]
+Lo recomienda el encargado de la tienda.
+
+[1530]
+Aceptable
+
+[1531]
+Resulta bastante útil.
+
+[1532]
+Robusto
+
+[1533]
+Está bien construido.
+
+[1534]
+Buscapleitos
+
+[1535]
+Por alguna razón, te entran ganas de pelear.
+
+[1536]
+Volantes
+
+[1537]
+Adornado con volantes.
+
+[1538]
+Con garra
+
+[1539]
+Te llena de determinación.
+
+[1540]
+Ajo
+
+[1541]
+Aunque huela, finge que no lo notas.
+
+[1542]
+Palpitante
+
+[1543]
+Sin saber por qué, se te acelera el corazón.
+
+[1544]
+De hierro
+
+[1545]
+Está hecho de hierro.
+
+[1546]
+De humorista
+
+[1547]
+Quien lo lleve se convertirá en humorista.
+
+[1548]
+Pescadito
+
+[1549]
+Huele a pescado.
+
+[1550]
+Vitaminas
+
+[1551]
+Mejora tu salud.
+
+[1552]
+De confianza
+
+[1553]
+Puedes usarlo con toda tranquilidad.
+
+[1554]
+Alta tecnología
+
+[1555]
+Fabricado con tecnología de última generación.
+
+[1556]
+Grandes Ligas
+
+[1557]
+Para jugadores de élite.
+
+[1558]
+De plata
+
+[1559]
+Está hecho de plata.
+
+[1560]
+Estelar
+
+[1561]
+El brillo de las estrellas debilita la magia.
+
+[1562]
+Pakkun
+
+[1563]
+¡Qué cosa tan adorable!
+
+[1564]
+De las tinieblas
+
+[1565]
+Que cree llevar oculto el poder de las tinieblas.
+
+[1566]
+De la luz
+
+[1567]
+Que cree llevar oculto el poder de la luz.
+
+[1568]
+Muerte
+
+[1569]
+Da la impresión de que podría causar la muerte.
+
+[1570]
+Gran Nagoya
+
+[1571]
+Tiene pinta de ser impresionante, aunque no se sabe muy bien por qué.
+
+[1572]
+Extraterrestre
+
+[1573]
+De un extraterrestre.
+
+[1574]
+Duelo
+
+[1575]
+Te entran ganas de zanjarlo todo de golpe.
+
+[1576]
+¡Banzái!
+
+[1577]
+Todo el mundo se alegra.
+
+[1578]
+¡Wasshoi!
+
+[1579]
+Te contagia el espíritu festivo.
+
+[1580]
+¡Dosukoi!
+
+[1581]
+Te sientes rebosante de fuerza.
+
+[1582]
+Victoria fácil
+
+[1583]
+Te permite ganar sin esfuerzo.
+
+[1584]
+Tenacidad
+
+[1585]
+Te llena de tenacidad.
+
+[1586]
+Samurái
+
+[1587]
+De un filo formidable.
+
+[1588]
+Psíquico
+
+[1589]
+Da la impresión de tener poderes psíquicos.
+
+[1590]
+Lunar
+
+[1591]
+El brillo de la luna debilita la magia.
+
+[1592]
+Imponente
+
+[1593]
+Te permite llegar a ser alguien admirable.
+
+[1594]
+Metálico
+
+[1595]
+Parece de metal.
+
+[1596]
+Descomunal
+
+[1597]
+De fuerza descomunal.
+
+[1598]
+Reluciente
+
+[1599]
+Reluce como recién estrenado.
+
+[1600]
+De director
+
+[1601]
+A la altura de un director de empresa.
+
+[1602]
+Dragón
+
+[1603]
+Hecho de dragón.
+
+[1604]
+Fresquísimo
+
+[1605]
+Buena gente, buen sabor. ¡Lleno de vida!
+
+[1606]
+Energía nuclear
+
+[1607]
+Intentaron instalarle un reactor nuclear, pero fracasaron.
+
+[1608]
+Para todo
+
+[1609]
+Lo domina todo.
+
+[1610]
+Ataque letal
+
+[1611]
+A veces desencadena un ataque letal.
+
+[1612]
+Última
+
+[1613]
+Lo destruye todo.
+
+[1614]
+Impresionante
+
+[1615]
+Monstruo gigantesco
+
+[1616]
+De categoría monstruosamente gigantesca.
+
+[1617]
+Súper
+
+[1618]
+Es muy fuerte.
+
+[1619]
+De calibre colosal
+
+[1620]
+Increíblemente impresionante.
+
+[1621]
+Ultra
+
+[1622]
+Lo supera todo.
+
+[1623]
+Solar
+
+[1624]
+El brillo del sol debilita la magia.
+
+[1625]
+Espacial
+
+[1626]
+De proporciones cósmicas.
+
+[1627]
+Superimpresionante
+
+[1628]
+Calidad suprema
+
+[1629]
+De la máxima calidad.
+
+[1630] [REVISAR: requiere_investigacion]
+[SIN TRADUCCIÓN]
+
+[1631]
+Milagroso
+
+[1632]
+Obra milagros.
+
+[1633]
+El mejor de Japón
+
+[1634]
+El más impresionante de Japón.
+
+[1635]
+Dios de la guerra
+
+[1636]
+Digno de un dios de la guerra.
+
+[1637]
+Del héroe
+
+[1638]
+Quien lo lleve se convertirá en héroe.
+
+[1639]
+Del valiente
+
+[1640]
+Quien lo lleve se convertirá en un valiente.
+
+[1641]
+De la santa doncella
+
+[1642]
+Era uno de los objetos favoritos de la Doncella de la Luz.
+
+[1643]
+Gran Señor Demonio
+
+[1644]
+Que un Gran Señor Demonio tiró porque ya no lo necesitaba.
+
+[1645]
+Puñetazo
+
+[1646]
+Golpe de canto de mano
+
+[1647]
+Nudillera
+
+[1648]
+Técnica mortal
+
+[1649]
+Técnica para matar
+
+[1650]
+Garra
+
+[1651]
+Cuchillo
+
+[1652]
+Hoja
+
+[1653]
+Espada
+
+[1654]
+Maza
+
+[1655]
+Lanza
+
+[1656]
+Martillo
+
+[1657]
+Martillito
+
+[1658]
+Hacha
+
+[1659]
+Cuchillo de hoja perforada
+
+[1660]
+Cuchillo de hoja perforada
+
+[1661]
+Misil
+
+[1662]
+Vara
+
+[1663]
+Bastón corto
+
+[1664]
+Casco
+
+[1665]
+Sombrero
+
+[1666]
+Botas
+
+[1667]
+Zapatos
+
+[1668]
+Tapa de olla
+
+[1669]
+Escudo
+
+[1670]
+Capa
+
+[1671]
+Armadura
+
+[1672]
+Armadura
+
+[1673]
+Ropa interior
+
+[1674]
+Hoja
+
+[1675]
+Cinta para la frente
+
+[1676]
+Robot
+
+[1677]
+Traje con forma de robot
+
+[1678]
+Músculo
+
+[1679]
+Músculo
+
+[1680]
+Cepillo de dientes
+
+[1681]
+Carne
+
+[1682]
+Joya
+
+[1683]
+Gema
+
+[1684]
+Libro
+
+[1685]
+Seta
+
+[1686]
+Gafas
+
+[1687]
+Orbe
+
+[1688]
+Moneda
+
+[1689]
+Anillo
+
+[1690]
+Dispositivo
+
+[1691]
+Biblia
+
+[1692]
+Libro
+
+[1693]
+Calavera
+
+[1694]
+al parecer
+
+[1695]
+según parece
+
+[1696]
+sin lugar a dudas
+
+[1697]
+según está escrito
+
+[1698]
+así lo llaman
+
+[1699]
+según dicen
+
+[1700]
+y goza de gran popularidad entre las estudiantes de instituto
+
+[1701]
+según dice todo el mundo
+
+[1702]
+según cuenta la leyenda
+
+[1703]
+¡así es!
+
+[1704]
+así es.
+
+[1705]
+¿es así?
+
+[1706]
+espero que no sea así
+
+[1707]
+eso no tiene ninguna gracia
+
+[1708]
+pero ¿estará bien?
+
+[1709]
+¿será verdad?
+
+[1710]
+. Está maldito
+
+[1711]
+. Su potencia deja que desear
+
+[1712]
+. Pero es defectuoso
+
+[1713]
+. No se puede esperar gran rendimiento
+
+[1714]
+. Prototipo
+
+[1715]
+. Para principiantes
+
+[1716]
+. De calidad aceptable
+
+[1717]
+. Mantener refrigerado
+
+[1718]
+. Apto para tierra y agua
+
+[1719]
+. Diseñado para el espacio
+
+[1720]
+. Sake junmai daiginjō
+
+[1721]
+. Bajo en calorías
+
+[1722]
+. Con ingredientes de medicina tradicional china
+
+[1723]
+. Modelo inalámbrico
+
+[1724]
+. Materiales cuidadosamente seleccionados
+
+[1725]
+. Fácil de mantener
+
+[1726]
+. Sin aditivos
+
+[1727]
+. Contiene soja transgénica
+
+[1728]
+. De producción nacional
+
+[1729]
+. Con cuerpo intenso
+
+[1730]
+. De cuerpo ligero
+
+[1731]
+. Modelo de bajo consumo
+
+[1732]
+. ¡Ahora todavía más sabroso!
+
+[1733]
+. Un 20 % más de contenido (según el fabricante)
+
+[1734]
+. Para entusiastas
+
+[1735]
+. Bastante potente
+
+[1736]
+. Muy valioso
+
+[1737]
+. Una obra maestra
+
+[1738]
+. Clase S
+
+[1739]
+. Clase A
+
+[1740]
+. Clase B
+
+
+=== ISO_START/com.dat ===
+
+[12957]
+Disculparse
+
+[12958]
+Pedirle disculpas al personaje.
+
+[12959]
+Acariciar
+
+[12960]
+Acariciar suavemente al personaje.
+
+[12961]
+Hablar
+
+[12962]
+Hablar con el personaje.
+
+[12963]
+Entrometerse
+
+[12964]
+Meterse en los asuntos del personaje.
+
+[12965]
+Elogiar
+
+[12966]
+Elogiar amablemente al personaje.
+
+[12967]
+Dar de comer
+
+[12968]
+Darle golosinas al personaje para ponerlo de buen humor.
+
+[12969]
+Dar dinero
+
+[12970]
+Darle algo de dinero para sus gastos al personaje.
+
+[12971]
+Cantar
+
+[12972]
+Cantarle una canción al personaje.
+
+[12973]
+Demostrar amor
+
+[12974]
+Demostrarle tu amor al personaje.
+
+[12975]
+Jugar
+
+[12976]
+Jugar con el personaje.
+
+[12977]
+Dejarse golpear
+
+[12978]
+Dejar que el personaje te golpee para desahogarse.
+
+[12979]
+Adular
+
+[12980]
+Adular al personaje.
+
+[12981]
+Entretener
+
+[12982]
+Hacer reír al personaje.
+
+[12983]
+Dar un masaje
+
+[12984]
+Revitalizar al personaje con un masaje.
+
+[12985]
+Dejarse apalear
+
+[12986]
+Dejar que el personaje te dé una paliza.
+
+[12987]
+Mimar
+
+[12988]
+Consentir al personaje.
+
+[12989]
+Escuchar
+
+[12990]
+Escuchar los problemas del personaje.
+
+[12991]
+Hacer la pelota
+
+[12992]
+Colmar de halagos al personaje.
+
+[12993]
+Nana
+
+[12994]
+Dejar que el personaje duerma en tu regazo.
+
+[12995]
+Lavar la espalda
+
+[12996]
+Lavarle la espalda al personaje en la bañera.
+
+[12997]
+Dar un regalo
+
+[12998]
+Animar al personaje con un regalo.
+
+[12999]
+Suplicar de rodillas
+
+[13000]
+Pedirle perdón al personaje de rodillas.
+
+[13001]
+Confesar
+
+[13002]
+Arrepentirse
+
+[13003]
+Arrepentirse de tus pecados ante el personaje.
+
+[13004]
+Charla larga
+
+[13005]
+Hablar con el personaje hasta el amanecer.
+
+[13006]
+Fiesta
+
+[13007]
+Irse de fiesta toda la noche.
+
+[13008]
+Desahogo
+
+[13009]
+Escuchar las quejas del personaje.
+
+[13010]
+Darle al personaje una revista para adultos.
+
+[13011]
+Cuidar
+
+[13012]
+Atender las necesidades del personaje.
+
+[13013]
+Estrechar lazos
+
+[13014]
+Fortalecer la amistad con el personaje.
+
+[13015]
+Contacto visual
+
+[13016]
+Estrechar lazos con el personaje mediante la mirada.
+
+[13017]
+Engatusar
+
+[13018]
+Colmar al personaje de halagos sin parar.
+
+[13019]
+Educar
+
+[13020]
+Ir a un lugar con diversas atracciones.
+
+[13021]
+Harakiri
+
+[13022]
+Hacerse el harakiri para pedir perdón.
+
+[13023]
+Invitar a cenar
+
+[13024]
+Invitar al personaje a una cena de lujo.
+
+[13025]
+Agasajar
+
+[13026]
+Tratar al personaje como a un VIP.
+
+[13027]
+Lluvia de dinero
+
+[13028]
+Cubrir al personaje de dinero.
+
+[13029]
+Terapia
+
+[13030]
+Dejar que el personaje se exprese libremente.
+
+[13031]
+Fortalecer el amor
+
+[13032]
+Profundizar en tu amor por el personaje.
+
+[13033]
+Casarse
+
+[13034]
+Casarse con el personaje.
+
+[13035]
+Cambiar el nombre
+
+[13036]
+Ponerle un nombre nuevo al personaje.
+
+[13037]
+Regalar un libro
+
+[13038]
+Regalarle al personaje un libro serio.
+
+[13039]
+Regañar
+
+[13040]
+Reprender severamente al personaje.
+
+[13041]
+Dar un sermón
+
+[13042]
+Sermonear al personaje.
+
+[13043]
+Flexiones
+
+[13044]
+Hacer que el personaje haga flexiones.
+
+[13045]
+Abdominales
+
+[13046]
+Hacer que el personaje haga abdominales.
+
+[13047]
+Sentadillas
+
+[13048]
+Hacer que el personaje haga sentadillas.
+
+[13049]
+Correr
+
+[13050]
+Hacer que el personaje corra varias vueltas.
+
+[13051]
+Meditar
+
+[13052]
+Hacer que el personaje medite todos los días.
+
+[13053]
+Romper ladrillos
+
+[13054]
+Hacer que el personaje rompa ladrillos.
+
+[13055]
+Ejercicio ligero
+
+[13056]
+Hacer que el personaje realice ejercicio ligero.
+
+[13057]
+Boxeo
+
+[13058]
+Entrenar al personaje para encajar golpes.
+
+[13059]
+Presión
+
+[13060]
+Presionar al personaje.
+
+[13061]
+Presión leve
+
+[13062]
+Ejercer una presión ligera sobre el personaje.
+
+[13063]
+Castigo después de clase
+
+[13064]
+Hacer que el personaje se quede castigado después de clase.
+
+[13065]
+Poner deberes
+
+[13066]
+Hacer que el personaje haga sus deberes.
+
+[13067]
+Secuestro
+
+[13068]
+Secuestrar al personaje con ayuda de amigos.
+
+[13069]
+Someter al personaje a modificaciones quirúrgicas.
+
+[13070]
+Convertir al personaje en un cíborg.
+
+[13071]
+Gritarle al personaje sin ningún motivo.
+
+[13072]
+Mano dura
+
+[13073]
+Castigar al personaje por su propio bien.
+
+[13074]
+Dar azotes
+
+[13075]
+Darle una buena azotaina al personaje.
+
+[13076]
+Patada en el trasero
+
+[13077]
+Darle una patada en el trasero al personaje.
+
+[13078]
+Estirar
+
+[13079]
+Estirar al personaje en el potro de tortura.
+
+[13080]
+Codazo
+
+[13081]
+Darle un codazo en la cara al personaje.
+
+[13082]
+Martinete
+
+[13083]
+Aplicarle un martinete al personaje.
+
+[13084]
+Puñetazo
+
+[13085]
+Darle un puñetazo en el estómago al personaje.
+
+[13086]
+Patada circular
+
+[13087]
+Darle una patada circular al personaje.
+
+[13088]
+Patada en la entrepierna
+
+[13089]
+Darle una patada al personaje donde más le duele.
+
+[13090]
+Lazo al cuello
+
+[13091]
+Aplicarle un lazo al cuello al personaje.
+
+[13092]
+Predicar
+
+[13093]
+Predicarle al personaje día y noche.
+
+[13094]
+Poción
+
+[13095]
+Darle al personaje una poción que aumente su poder.
+
+[13096]
+Salsa infernal
+
+[13097]
+Darle al personaje una salsa muy picante.
+
+[13098]
+Control del dolor
+
+[13099]
+Enseñar al personaje a resistir el dolor.
+
+[13100]
+Atar
+
+[13101]
+Atar al personaje.
+
+[13102]
+Apuñalar
+
+[13103]
+Apuñalar al personaje.
+
+[13104]
+Dispararle al personaje.
+
+
+=== ISO_START/kis.dat ===
+
+[13111]
+Muñequera
+
+[13112]
+Aumenta la fuerza de ataque y te da un aire más molón.
+
+[13113]
+Puño viril
+
+[13114]
+Solo con llevarlo te sientes más viril.
+
+[13115]
+Guantes musculosos
+
+[13116]
+Un guante cubierto de músculos.
+
+[13117]
+Martillo somnífero
+
+[13118]
+Este martillo puede dormir a los enemigos.
+
+[13119]
+Garras de hierro
+
+[13120]
+Te proporciona un agarre de hierro.
+
+[13121]
+Apretón de manos
+
+[13122]
+Te permite dar apretones de manos firmes.
+
+[13123]
+Nudilleras hiperpotentes
+
+[13124]
+Unas nudilleras hiperpotentes.
+
+[13125]
+Tijeras largas
+
+[13126]
+Con estas tijeras puedes alcanzar lugares elevados.
+
+[13127]
+Joyas de la corona
+
+[13128]
+Asesta un golpe crítico donde más duele.
+
+[13129]
+Puñetazo gatuno
+
+[13130]
+¡Cuidado con el puñetazo gatuno!
+
+[13131]
+Contragolpe cruzado
+
+[13132]
+Asesta un contragolpe cruzado.
+
+[13133]
+Mano venenosa
+
+[13134]
+¡Procura no hurgarte la nariz!
+
+[13135]
+Flecha de nudilleras
+
+[13136]
+Permite atacar con toda la fuerza del cuerpo.
+
+[13137]
+Jabalina perezosa
+
+[13138]
+Es muy poderosa, pero vuelve perezoso a quien la usa.
+
+[13139]
+Mano mágica
+
+[13140]
+No concede poderes extrasensoriales a quien la usa.
+
+[13141]
+Guantes malolientes
+
+[13142]
+Desprenden un hedor insoportable.
+
+[13143]
+Hachazo explosivo
+
+[13144]
+Un hacha afiladísima.
+
+[13145]
+Golpe de kárate
+
+[13146]
+¡GOLPE DE KÁRATE!
+
+[13147]
+Puñetazo megatón
+
+[13148]
+Un puñetazo como una bomba atómica.
+
+[13149]
+Látigo del amor
+
+[13150]
+Aumenta la magia y el poder de ataque.
+
+[13151]
+Abanicazo
+
+[13152]
+Golpea con este abanico de papel gigante.
+
+[13153]
+Puño machote
+
+[13154]
+Rebosa poder viril.
+
+[13155]
+Navaja
+
+[13156]
+Es potente y también te deja bien afeitado.
+
+[13157]
+Espada de Odín
+
+[13158]
+Una espada con el poder de Odín.
+
+[13159]
+Espada de Thor
+
+[13160]
+Una espada con el poder de Thor.
+
+[13161]
+Espada de cactus
+
+[13162]
+Un ejemplar de flora desértica.
+
+[13163]
+Beowulf
+
+[13164]
+Vuelve a quien la usa muy poderoso, pero también muy tonto.
+
+[13165]
+Cruzada
+
+[13166]
+Aumenta muchísimo el poder de quien la usa.
+
+[13167]
+Excálibur
+
+[13168]
+Una espada que empuñó alguien importante.
+
+[13169]
+Stormbringer
+
+[13170]
+Una espada que utilizó cierto príncipe o arquero.
+
+[13171]
+Eringa tormentoso
+
+[13172]
+Una espada legendaria forjada por los Eringa.
+
+[13173]
+Muramasa
+
+[13174]
+Una espada samurái maldita llegada de Oriente.
+
+[13175]
+Alondite
+
+[13176]
+La espada que empuñó un héroe famoso.
+
+[13177]
+Gloriosa
+
+[13178]
+Mano divina
+
+[13179]
+Puede derrotar incluso a los dragones.
+
+[13180]
+Año luz
+
+[13181]
+Aumenta extraordinariamente tu alcance.
+
+[13182]
+Bastón de fuego
+
+[13183]
+Posee poder elemental de fuego.
+
+[13184]
+Bastón de viento
+
+[13185]
+Posee poder elemental de viento.
+
+[13186]
+Bastón de hielo
+
+[13187]
+Posee poder elemental de hielo.
+
+[13188]
+Bastón de trueno
+
+[13189]
+Posee poder elemental de trueno.
+
+[13190]
+Bastón de auxilio
+
+[13191]
+Posee poder elemental de auxilio.
+
+[13192]
+Bastón curativo
+
+[13193]
+Posee poder elemental de curación.
+
+[13194]
+Bastón sagrado
+
+[13195]
+Posee poder elemental sagrado.
+
+[13196]
+Bastón corriente
+
+[13197]
+Un bastón de lo más común.
+
+[13198]
+Bastón de roble
+
+[13199]
+Un resistente bastón de madera de roble.
+
+[13200]
+Bastón de mago
+
+[13201]
+Dicen que lo utilizó un mago.
+
+[13202]
+Bastón de ogro
+
+[13203]
+Un bastón realmente enorme.
+
+[13204]
+Bastón de sabiduría
+
+[13205]
+Con solo sostenerlo, te sientes más sabio.
+
+[13206]
+Bastón secreto
+
+[13207]
+Este bastón esconde una espada en su interior.
+
+[13208]
+Bastón mágico
+
+[13209]
+Un bastón rebosante de poderosa magia.
+
+[13210]
+Bastón de setas
+
+[13211]
+Un extraño bastón hecho de setas.
+
+[13212]
+Bastón del sabio
+
+[13213]
+Lo utilizó el gran Polyansky.
+
+[13214]
+Bastón de Odín
+
+[13215]
+Un bastón impregnado del poder de Odín.
+
+[13216]
+Bastón de Thor
+
+[13217]
+Un bastón impregnado del poder de Thor.
+
+[13218]
+Bastón de cactus
+
+[13219]
+Un bastón hecho de cactus.
+
+[13220]
+Bastón de la Doncella
+
+[13221]
+Lo utilizó la Doncella de la Luz.
+
+[13222]
+Bastón oscuro
+
+[13223]
+Imbuido del poder de Calamity.
+
+[13224]
+Bastón de luz
+
+[13225]
+Imbuido del poder de Poitreene.
+
+[13226]
+Bastón divino
+
+[13227]
+Un bastón omnipotente y omnisciente.
+
+[13228]
+Vara de fuego
+
+[13229]
+Vara de hielo
+
+[13230]
+Vara de trueno
+
+[13231]
+Vara de auxilio
+
+[13232]
+Vara curativa
+
+[13233]
+Vara sagrada
+
+[13234]
+Vara de Miao
+
+[13235]
+La utilizó la legendaria bruja desaparecida de Miao.
+
+[13236]
+Amuleto
+
+[13237]
+Para quien quiera estar más guapo.
+
+[13238]
+Protector
+
+[13239]
+Esta armadura es mejor que nada.
+
+[13240]
+Chaleco antibalas
+
+[13241]
+Este chaleco desvía las balas.
+
+[13242]
+Tapa de olla
+
+[13243]
+Para las amas de casa más exigentes.
+
+[13244]
+Cota de malla
+
+[13245]
+Una prenda hecha de anillas de metal entrelazadas.
+
+[13246]
+Capa dimensional
+
+[13247]
+Una capa procedente de otra dimensión.
+
+[13248]
+Chaqueta de poder
+
+[13249]
+Hace que te salgan músculos por todas partes.
+
+[13250]
+Lencería sensual
+
+[13251]
+Te ayuda a hacer amigos.
+
+[13252]
+Rosario
+
+[13253]
+Te concede la protección de los dioses.
+
+[13254]
+Chaleco mágico
+
+[13255]
+Convierte a quien lo lleva en un mago.
+
+[13256]
+Corpiño
+
+[13257]
+Imperial
+
+[13258]
+Aumenta los atributos. Los detalles son secretos.
+
+[13259]
+Cinturón negro
+
+[13260]
+Con solo ponértelo, te sientes más fuerte.
+
+[13261]
+Chaqueta de machote
+
+[13262]
+Te convierte en todo un machote.
+
+[13263]
+Capa de sigilo
+
+[13264]
+Hace que sea más difícil encontrarte.
+
+[13265]
+Chaqueta apestosa
+
+[13266]
+Huele fatal, pero protege bastante bien.
+
+[13267]
+Capa fantasmal
+
+[13268]
+Convierte a quien la lleva en un fantasma.
+
+[13269]
+Túnica del sabio
+
+[13270]
+Traje de bondage
+
+[13271]
+Da miedo, pero aumenta la defensa y la magia.
+
+[13272]
+Chaleco de coraje
+
+[13273]
+Da valor a quien lo lleva.
+
+[13274]
+Armadura de Odín
+
+[13275]
+Una armadura imbuida del poder de Odín.
+
+[13276]
+Armadura de Thor
+
+[13277]
+Una armadura imbuida del poder de Thor.
+
+[13278]
+Armadura de cactus
+
+[13279]
+Hecha con trozos de cactus del desierto.
+
+[13280]
+Capa del héroe
+
+[13281]
+Te hace sentir tan fuerte como un héroe.
+
+[13282]
+Guardia sagrada
+
+[13283]
+Aumenta mucho tu capacidad defensiva.
+
+[13284]
+Armadura mortal
+
+[13285]
+Aumenta todos los atributos excepto la defensa.
+
+[13286]
+Chaleco de paladín
+
+[13287]
+Una armadura que perteneció a alguien importante.
+
+[13288]
+Chaqueta del dios de la guerra
+
+[13289]
+Te hace sentir como el dios de la guerra.
+
+[13290]
+Escudo de oricalco
+
+[13291]
+Un escudo que perteneció a alguien famoso.
+
+[13292]
+Nueve colas
+
+[13293]
+Una piel de lujo: el sueño de toda mujer.
+
+[13294]
+Traje robótico
+
+[13295]
+¡El traje más fuerte del universo!
+
+[13296]
+Gafas
+
+[13297]
+Aumentan las posibilidades de acertar.
+
+[13298]
+Ojos de gato
+
+[13299]
+Gafas bifocales
+
+[13300]
+Aumentan las posibilidades de acertar.
+
+[13301]
+Visión nocturna
+
+[13302]
+Mira de francotirador
+
+[13303]
+Visión del futuro
+
+[13304]
+Mira de oferta
+
+[13305]
+Telescopio
+
+[13306]
+Aumenta las posibilidades de acertar.
+
+[13307]
+Zapatillas deportivas
+
+[13308]
+Perfectas para hacer ejercicio.
+
+[13309]
+Zapatos de halcón
+
+[13310]
+¡Los halcones no llevan zapatos!
+
+[13311]
+Zapatillas de tenis
+
+[13312]
+Muy populares en el reino de Marl.
+
+[13313]
+Zapatos apestosos
+
+[13314]
+¡Ojo con el pie de atleta!
+
+[13315]
+Botas de hierro
+
+[13316]
+Se usan desde hace mucho tiempo para entrenar.
+
+[13317]
+Zapatos de ángel
+
+[13318]
+Te hacen más rápido, ¡pero no te convierten en ángel!
+
+[13319]
+Motor de teletransporte
+
+[13320]
+Ve adonde nadie ha llegado jamás.
+
+[13321]
+Libro de hadas
+
+[13322]
+Un libro lleno del poder de las hadas.
+
+[13323]
+Libro de los espíritus
+
+[13324]
+Un libro lleno del poder de los espíritus.
+
+[13325]
+Libro divino
+
+[13326]
+Un libro impregnado de poder sagrado.
+
+[13327]
+Anillo mágico
+
+[13328]
+Un anillo cargado de poderosa magia.
+
+[13329]
+Orbe angelical
+
+[13330]
+Un orbe mágico bendecido por ángeles.
+
+[13331]
+Orbe demoníaco
+
+[13332]
+Un orbe mágico imbuido de poder demoníaco.
+
+[13333]
+Vajra
+
+[13334]
+Lo utilizó un poderoso dios del trueno.
+
+[13335]
+Anillo de Calamity
+
+[13336]
+Anillo de la diosa
+
+[13337]
+Bendecido por la propia diosa.
+
+[13338]
+Delantal sin nada debajo
+
+[13339]
+Amplificador psíquico
+
+[13340]
+Despierta el potencial de tu cerebro.
+
+[13341]
+Emblema del diablo
+
+[13342]
+Prueba de ser el demonio más poderoso.
+
+[13343]
+Aumento de HP
+
+[13344]
+Facilita el aumento de HP.
+
+[13345]
+Aumento de SP
+
+[13346]
+Facilita el aumento de SP.
+
+[13347]
+Aumento de ATK
+
+[13348]
+Facilita el aumento de ATK.
+
+[13349]
+Aumento de DEF
+
+[13350]
+Facilita el aumento de DEF.
+
+[13351]
+Aumento de INT
+
+[13352]
+Facilita el aumento de INT.
+
+[13353]
+Aumento de SPD
+
+[13354]
+Facilita el aumento de SPD.
+
+[13355]
+Aumento de HIT
+
+[13356]
+Facilita el aumento de HIT.
+
+[13357]
+Aumento de RES
+
+[13358]
+Facilita el aumento de RES.
+
+[13359]
+Elevación de HP
+
+[13360]
+Facilita el aumento de HP.
+
+[13361]
+Elevación de SP
+
+[13362]
+Elevación de ATK
+
+[13363]
+Elevación de DEF
+
+[13364]
+Elevación de INT
+
+[13365]
+Elevación de SPD
+
+[13366]
+Elevación de HIT
+
+[13367]
+Elevación de RES
+
+[13368]
+Pastilla para la tos
+
+[13369]
+Recupera HP.
+
+[13370]
+Pastilla medicinal
+
+[13371]
+Caramelo energético
+
+[13372]
+Caramelo de elixir
+
+[13373]
+Seta curativa
+
+[13374]
+Recupera SP.
+
+[13375]
+Seta medicinal
+
+[13376]
+Seta energética
+
+[13377]
+Seta de elixir
+
+[13378]
+Cambio de rumbo
+
+[13379]
+Pulsa □ para cambiar el sentido de la corriente de energía.
+
+[13380]
+Kinoko Jiru
+
+[13381]
+Restaura por completo HP y SP.
+
+[13382]
+Polvo de hadas
+
+[13383]
+Cura cualquier estado alterado.
+
+[13384]
+Elixir
+
+[13385]
+Lo restaura todo.
+
+[13386]
+Regalo
+
+[13387]
+Date un regalo.
+
+
+=== ISO_START/ritem.dat ===
+
+[14316]
+Arriesgado
+
+[14317]
+Siempre mete en apuros a quien lo usa.
+
+[14318]
+Maldito
+
+[14319]
+Quien lo usa fracasa en todo.
+
+[14320]
+Horrible
+
+[14321]
+Sencillamente horrible.
+
+[14322]
+Malo
+
+[14323]
+Simplemente malo.
+
+[14324]
+Mediocre
+
+[14325]
+No es muy bueno.
+
+[14326]
+Torpe
+
+[14327]
+Aumenta las posibilidades de fallar.
+
+[14328]
+Sucio
+
+[14329]
+Le vendría bien una buena limpieza.
+
+[14330]
+Raído
+
+[14331]
+Ha conocido tiempos mejores.
+
+[14332]
+Chatarra
+
+[14333]
+Es prácticamente chatarra.
+
+[14334]
+Imitación
+
+[14335]
+Una imitación barata.
+
+[14336]
+Utilizable
+
+[14337]
+Apenas se puede utilizar.
+
+[14338]
+Inútil
+
+[14339]
+Al borde de la inutilidad.
+
+[14340]
+Pésimo
+
+[14341]
+Un auténtico desastre.
+
+[14342]
+Suave
+
+[14343]
+Suave y lleno de sabor.
+
+[14344]
+Infantil
+
+[14345]
+Pequeño y adorable.
+
+[14346]
+Para principiantes
+
+[14347]
+Pensado para principiantes.
+
+[14348]
+Basto
+
+[14349]
+Todavía no está del todo terminado.
+
+[14350]
+Habitual
+
+[14351]
+Lo de siempre.
+
+[14352]
+De entrenamiento
+
+[14353]
+Aumenta la experiencia obtenida.
+
+[14354]
+Sospechoso
+
+[14355]
+Aquí hay algo raro.
+
+[14356]
+De oferta
+
+[14357]
+¡Como lo anuncian en televisión!
+
+[14358]
+Barato
+
+[14359]
+¿Una ganga?
+
+[14360]
+Desvelador
+
+[14361]
+Está cargado de cafeína.
+
+[14362]
+Somnífero
+
+[14363]
+Adormece a los enemigos.
+
+[14364]
+Buhonero
+
+[14365]
+Vuelve molesto a quien lo usa.
+
+[14366]
+Corriente
+
+[14367]
+No tiene nada de especial.
+
+[14368]
+Sexi
+
+[14369]
+Hace que quien lo usa se sienta sexi.
+
+[14370]
+Musical
+
+[14371]
+Incluye altavoces estéreo.
+
+[14372]
+Natural
+
+[14373]
+Se elabora solo con ingredientes naturales.
+
+[14374]
+De piedra
+
+[14375]
+Está hecho de piedra.
+
+[14376]
+Especial
+
+[14377]
+Recomendado por el encargado de la tienda.
+
+[14378]
+Bastante útil
+
+[14379]
+Resistente
+
+[14380]
+Está bien hecho.
+
+[14381]
+Combativo
+
+[14382]
+Da ganas de pelear.
+
+[14383]
+Con volantes
+
+[14384]
+Adornado con bonitos volantes.
+
+[14385]
+Espíritu de lucha
+
+[14386]
+Infunde espíritu de lucha a quien lo usa.
+
+[14387]
+Ajo
+
+[14388]
+Sirve para acabar con vampiros.
+
+[14389]
+Emocionante
+
+[14390]
+Emociona sin que sepas por qué.
+
+[14391]
+De hierro
+
+[14392]
+Está hecho de hierro.
+
+[14393]
+Cómico
+
+[14394]
+Convierte a quien lo usa en humorista.
+
+[14395]
+Pescado
+
+[14396]
+Huele a pescado.
+
+[14397]
+Vitamina
+
+[14398]
+Hace que quien lo usa esté más sano.
+
+[14399]
+Seguro
+
+[14400]
+Tiene todos los bordes redondeados.
+
+[14401]
+De alta tecnología
+
+[14402]
+Fabricado con tecnología de última generación.
+
+[14403]
+Para expertos
+
+[14404]
+Solo para los mejores guerreros.
+
+[14405]
+De plata
+
+[14406]
+Está hecho de plata.
+
+[14407]
+Estelar
+
+[14408]
+Debilita la magia con el poder de las estrellas.
+
+[14409]
+Adorable
+
+[14410]
+¡Adorable a más no poder!
+
+[14411]
+De las tinieblas
+
+[14412]
+Imbuido del poder de las tinieblas.
+
+[14413]
+De la luz
+
+[14414]
+Imbuido del poder de la luz.
+
+[14415]
+Muerte
+
+[14416]
+Invoca al ángel de la muerte.
+
+[14417]
+Demoníaco
+
+[14418]
+Procedente del Mundo Oscuro.
+
+[14419]
+Extraterrestre
+
+[14420]
+Procedente del espacio exterior.
+
+[14421]
+Ganador
+
+[14422]
+Convierte a quien lo usa en un ganador.
+
+[14423]
+¡Banzái!
+
+[14424]
+¿Dura para siempre?
+
+[14425]
+Festivo
+
+[14426]
+Te entran ganas de celebrarlo.
+
+[14427]
+Poderoso
+
+[14428]
+Llena de poder a quien lo usa.
+
+[14429]
+Victoria
+
+[14430]
+Permite ganar a quien lo usa.
+
+[14431]
+Coraje
+
+[14432]
+Infunde coraje a quien lo usa.
+
+[14433]
+Samurái
+
+[14434]
+Afilado como una navaja.
+
+[14435]
+Psicópata
+
+[14436]
+Hace que quien lo usa se vuelva loco de poder.
+
+[14437]
+Lunar
+
+[14438]
+Debilita la magia mediante el poder lunar.
+
+[14439]
+Majestuoso
+
+[14440]
+Hace que quien lo usa se sienta majestuoso.
+
+[14441]
+De metal
+
+[14442]
+Está hecho de metal.
+
+[14443]
+Ogro
+
+[14444]
+Es muy fuerte.
+
+[14445]
+Reluciente
+
+[14446]
+¡Oh, cómo brilla!
+
+[14447]
+Regio
+
+[14448]
+Te hace sentir como un rey.
+
+[14449]
+Dragón
+
+[14450]
+Está hecho de piel de dragón.
+
+[14451]
+Nube
+
+[14452]
+Está hecho de nubes.
+
+[14453]
+Poder extrasensorial
+
+[14454]
+Puede conceder poderes extrasensoriales.
+
+[14455]
+Maestro
+
+[14456]
+Se encarga de todo.
+
+[14457]
+Letal
+
+[14458]
+A veces permite asestar golpes críticos.
+
+[14459]
+Ultima
+
+[14460]
+Lo destruye todo.
+
+[14461]
+Fenomenal
+
+[14462]
+Sencillamente fenomenal.
+
+[14463]
+Monstruo
+
+[14464]
+Digno de un monstruo gigantesco.
+
+[14465]
+Súper
+
+[14466]
+Estupendo
+
+[14467]
+Increíblemente bueno.
+
+[14468]
+Ultra
+
+[14469]
+Lo supera todo.
+
+[14470]
+Solar
+
+[14471]
+Debilita la magia mediante el poder solar.
+
+[14472]
+Galáctico
+
+[14473]
+Lo mejor de toda la galaxia.
+
+[14474]
+Asombroso
+
+[14475]
+Realmente asombroso.
+
+[14476]
+De primera
+
+[14477]
+Lo mejor de su categoría.
+
+[14478]
+Milagroso
+
+[14479]
+¿Puede obrar milagros?
+
+[14480]
+Divino
+
+[14481]
+Casi divino.
+
+[14482]
+Del héroe
+
+[14483]
+Convierte en héroe a quien lo usa.
+
+[14484]
+Valeroso
+
+[14485]
+Infunde valor a quien lo usa.
+
+[14486]
+Campeón
+
+[14487]
+Quien llegará a convertirse en héroe.
+
+[14488]
+Doncella
+
+[14489]
+Utilizado por la Doncella de la Luz.
+
+[14490]
+¡Ser malvado es genial!
+
+[14491]
+Tajo
+
+[14492]
+Nudillera
+
+[14493]
+Puños
+
+[14494]
+Gancho ascendente
+
+[14495]
+Garra
+
+[14496]
+Daga
+
+[14497]
+Hoja
+
+[14498]
+Filo
+
+[14499]
+Espada
+
+[14500]
+Maza
+
+[14501]
+Lanza de caballería
+
+[14502]
+Lanza
+
+[14503]
+Martillo
+
+[14504]
+Hacha
+
+[14505]
+Cuchillo
+
+[14506]
+Misil
+
+[14507]
+Vara
+
+[14508]
+Bastón corto
+
+[14509]
+Sombrero
+
+[14510]
+Botas
+
+[14511]
+Escudo
+
+[14512]
+Capa
+
+[14513]
+Armadura
+
+[14514]
+Pantalones
+
+[14515]
+Hoja
+
+[14516]
+Bandana
+
+[14517]
+Traje robótico
+
+[14518]
+Músculo
+
+[14519]
+Cepillo
+
+[14520]
+Carne
+
+[14521]
+Joya
+
+[14522]
+Libro
+
+[14523]
+Seta
+
+[14524]
+Gafas
+
+[14525]
+Orbe
+
+[14526]
+Moneda
+
+[14527]
+Anillo
+
+[14528]
+Dispositivo
+
+[14529]
+Calavera
+
