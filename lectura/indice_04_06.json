@@ -1,0 +1,26 @@
+[
+  {
+    "corpus": "04",
+    "grupos": 997,
+    "no_revisados": 0,
+    "categorias": {
+      "06_dialogos": 997
+    }
+  },
+  {
+    "corpus": "05",
+    "grupos": 1000,
+    "no_revisados": 0,
+    "categorias": {
+      "06_dialogos": 1000
+    }
+  },
+  {
+    "corpus": "06",
+    "grupos": 968,
+    "no_revisados": 0,
+    "categorias": {
+      "06_dialogos": 968
+    }
+  }
+]

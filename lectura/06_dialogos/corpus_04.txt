@@ -1,0 +1,2997 @@
+LA PUCELLE — 06_dialogos — CORPUS 04
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat ===
+
+[3880]
+Pero no cuenta qué ocurrió. ¿Qué significará eso…?
+
+[3881]
+Hermana Prier.
+
+[3882]
+El padre Salade quiere verla.
+
+[3883]
+Hola, hermana Prier.
+
+[3884]
+Está bien que derrotes demonios, pero no olvides cuál es tu verdadera misión.
+
+[3885]
+Hay quienes, en la Iglesia de la Santa Doncella, creen que su objetivo final es conquistar el Mundo Oscuro.
+
+[3886]
+Y eso que lo verdaderamente importante es mantener el equilibrio entre la luz y la oscuridad…
+
+[3887]
+Solo unos pocos miembros de la familia real y de la Iglesia de la Santa Doncella conocen lo del Príncipe de las Tinieblas y la Iglesia de la Divina Madre.
+
+[3888]
+Porque está claro que cundiría el pánico.
+
+[3889]
+Si me toca morir, preferiría que viniera a buscarme una angelita joven y encantadora.
+
+[3890]
+Y no un espantoso espíritu de la muerte…
+
+[3891]
+Je, je, je.
+
+[3892]
+¿A qué viene ese «je, je, je»?
+
+[3893]
+¡Viejo verde!
+
+[3894]
+Hasta a mi edad, la muerte sigue dando miedo.
+
+[3895]
+Supongo que por eso todos rezamos a Dios.
+
+[3896]
+Por lo visto, últimamente la banda del Escargot anda causando estragos por varios países.
+
+[3897]
+A mí también me gustaría irme de aventuras con ellos y hacerme amigo de chicas de todo el mundo…
+
+[3898]
+Dicen que las señoritas demonio son muy sexis…
+
+[3899]
+¿Podré conocerlas en el Mundo Oscuro?
+
+[3900]
+¡Qué alboroto! ¿Habrá ocurrido algo?
+
+[3901]
+¡Eh, Prier!
+
+[3902]
+¿Trabajando mucho hoy?
+
+[3903]
+Pásate a comer fideos de vez en cuando.
+
+[3904]
+Me encantaría, pero ahora mismo ando algo escasa de dinero…
+
+[3905]
+¡Somos una iglesia de poca monta! ¡Apenas nos pagan!
+
+[3906]
+¡Prier! ¡No digas semejantes cosas!
+
+[3907]
+En nombre de la Doncella…
+
+[3908]
+¡Te prohíbo volver a decir «iglesia de poca monta»!
+
+[3909]
+Ya, ya…
+
+[3910]
+El otro día vino el padre Salade a comer udon.
+
+[3911]
+¡Y se zampó nada menos que cincuenta cuencos!
+
+[3912]
+¿Qué clase de estómago tiene ese hombre?
+
+[3913]
+Por lo visto, la banda del Escargot es una pandilla de maleantes que recorre el mundo.
+
+[3914]
+Si te topas con ellos, no te metas en sus asuntos.
+
+[3915]
+¡Me he enterado, Prier!
+
+[3916]
+¿Es verdad que te enfrentaste a la banda del Escargot?
+
+[3917]
+¡Hay que tener agallas!
+
+[3918]
+¡Este viejo se ha enamorado de ti!
+
+[3919]
+¡Dicen que te has unido a la banda del Escargot!
+
+[3920]
+¡Eso te pega más que ser monja, Prier!
+
+[3921]
+¿De dónde habrá salido semejante mentira…?
+
+[3922]
+¡Eh, Culotte!
+
+[3923]
+¿Hoy no estás con Prier?
+
+[3924]
+He oído que están reformando la iglesia.
+
+[3925]
+Ya va siendo hora de que reforme también mi local.
+
+[3926]
+¡Bienvenidos al restaurante de fideos Kingfisher!
+
+[3927]
+Como es la última vez, no me castigarán por decir algo diferente de lo de siempre, ¿verdad? ♪
+
+[3928]
+Últimamente el udon está muy de moda en Paprica.
+
+[3929]
+Mi hija me habló de esos fideos, así que vine a ver a qué viene tanto alboroto.
+
+[3930]
+¡Srrrp…! ¡Srrrrp!
+
+[3931]
+¡Aaaah!
+
+[3932]
+¡El udon sabe mejor si lo sorbes haciendo ruido!
+
+[3933]
+Qué buena pinta…
+
+[3934]
+¡Yo también quiero probarlo!
+
+[3935]
+Una vez vi al capitán de la banda del Escargot, el capitán Homard.
+
+[3936]
+Pensé que sería un tipo temible, ¡pero era un chaval de unos 17 o 18 años!
+
+[3937]
+Si hasta los demonios supieran apreciar este udon, quizá podríamos llevarnos bien.
+
+[3938]
+No es que importe, pero no paramos de comer udon, ¿eh?
+
+[3939]
+No me convencía eso del «udon», ¡pero está bastante rico!
+
+[3940]
+Podría acostumbrarme a esto…
+
+[3941]
+Parece que todo el mundo habla bien de una tienda llamada Rosenqueen.
+
+[3942]
+Tendré que pasarme luego.
+
+[3943]
+¡Ahora no me hables!
+
+[3944]
+¡Estoy disfrutando de este sabor!
+
+[3945]
+¿Notaron el terremoto de anoche?
+
+[3946]
+Mi marido dice que ni lo notó porque dormía, pero se oían unos golpes… ¡Pum, pum…!
+
+[3947]
+¿Ustedes tampoco lo notaron?
+
+[3948]
+¡Srrrp, srrrp!
+
+[3949]
+¡Fiuuu!
+
+[3950]
+¡Por muchos cuencos que coma, nunca me canso!
+
+[3951]
+Últimamente me siento hecho polvo.
+
+[3952]
+¿Será cosa de la edad?
+
+[3953]
+Dicen que la corriente de energía oscura afecta al cuerpo humano.
+
+[3954]
+Igual por eso llevo una temporada tan decaído…
+
+[3955]
+¡Viva el udon!
+
+[3956]
+Hay un cartel pegado a la entrada de la tienda.
+
+[3957]
+«¡Próxima apertura de la sucursal de Rosenqueen en Santa Paprica!»
+
+[3958]
+«Créateur Rosenqueen, presidente de la Compañía Rosenqueen»
+
+[3959]
+El cumpleaños de mi novio está al caer.
+
+[3960]
+Señorita, ¿qué me aconseja regalarle?
+
+[3961]
+Ni te molestes en preguntarle. ¡Si ni siquiera tiene novio!
+
+[3962]
+¡¡¡Culotte!!!
+
+[3963]
+Dicen que la dependienta va disfrazada de quien presidía antes la Compañía Rosenqueen.
+
+[3964]
+Lo mejor de esta tienda es que escuchan nuestras opiniones y ajustan su surtido.
+
+[3965]
+Por mucho que entrenes un objeto flojo, seguirá siendo flojo.
+
+[3966]
+Creo que compensa más mejorar los objetos que ya son buenos.
+
+[3967]
+Mamá descubrió que derrochaba el dinero y me quitó toda la paga.
+
+[3968]
+Snif…
+
+[3969]
+¡Buenas!
+
+[3970]
+Soy Ellie.
+
+[3971]
+¡Esta es mi tienda! ¡Eri!
+
+[3972]
+¿«Eri»?
+
+[3973]
+Perdón, es una manía que tengo.
+
+[3974]
+Me pasa cuando me emociono…
+
+[3975]
+¡Hoy inauguramos la tienda! ¡Echen un vistazo!
+
+[3976]
+Si responden a la encuesta al comprar, cambiaremos nuestro surtido de productos.
+
+[3977]
+Hacemos todo lo posible por escuchar a nuestros clientes.
+
+[3978]
+¡Ese es el lema de la Compañía Rosenqueen, gyaa!
+
+[3979]
+Para atender enseguida las peticiones de nuestros clientes, solo vendemos los productos que tenemos expuestos.
+
+[3980]
+¡Por eso les pedimos que respondan a la encuesta después de comprar, gyaa!
+
+[3981]
+Al contestarla, piensen bien en cómo quieren desarrollar a sus compañeros.
+
+[3982]
+Sus respuestas decidirán qué ofreceremos y condicionarán las próximas batallas.
+
+[3983]
+¡A eso se le llama estrategia, gyaa!
+
+[3984]
+¡Cuánto tiempo sin verlos, gyaa!
+
+[3985]
+¡Como no venían, el negocio se nos vino abajo, gyaa!
+
+[3986]
+¿Puedo hacer un último anuncio?
+
+[3987]
+En Akihabara, Tokio,
+
+[3988]
+en la segunda planta de la tienda principal de Messe Sanoh,
+
+[3989]
+¡también hay una tienda Rosenqueen, gyaa!
+
+[3990]
+¡Muy buenas!
+
+[3991]
+¡Esta es la tienda Rosenqueen!
+
+[3992]
+¿Prier? ¿Eres tú?
+
+[3993]
+¿Cómo te va cazando demonios?
+
+[3994]
+Casi me dan pena esos demonios, con alguien como tú persiguiéndolos…
+
+[3995]
+¡¿Qué se supone que quieres decir?!
+
+[3996]
+¡Bonita forma de recibirme después de tanto tiempo!
+
+[3997]
+Me alegra volver a verla, directora.
+
+[3998]
+¡Vaya, vaya!
+
+[3999]
+Siempre has sido un buen chico, Culotte.
+
+[4000]
+Me quedo más tranquila sabiendo que están juntos.
+
+[4001]
+¡Eso sí, procura tener bien vigilada a tu hermana!
+
+[4002]
+¡Lo tendré en cuenta!
+
+[4003]
+Los pequeños están empeñados en ayudar a sus hermanos mayores Prier y Culotte. ¡No hay quien los haga cambiar de idea!
+
+[4004]
+Ustedes, que se criaron juntos en este orfanato, son una familia muy querida para mí y para esos niños.
+
+[4005]
+Les pido que comprendan cómo se sienten.
+
+[4006]
+Sí… lo sé.
+
+[4007]
+Para Culotte y para mí, todos ustedes también son nuestra familia de verdad.
+
+[4008]
+¿Mi marido cumple bien con su trabajo?
+
+[4009]
+Aunque no lo parezca, es bastante salido. ¡No estará babeando cada día entre tantas monjitas jóvenes, digo yo!
+
+[4010]
+Ja, ja, ja.
+
+[4011]
+No, nada de eso.
+
+[4012]
+El padre Salade es un hombre austero y de carácter firme.
+
+[4013]
+No se merece que lo llamen viejo verde.
+
+[4014]
+¿Ah, sí?
+
+[4015]
+Pues, si es así, me quedo tranquila.
+
+[4016]
+Últimamente veo preocupado a mi marido. ¿Ha pasado algo?
+
+[4017]
+¿El maestro está preocupado?
+
+[4018]
+¿Tú crees?
+
+[4019]
+Yo lo veo igual que siempre…
+
+[4020]
+Mi marido ya tiene sus años.
+
+[4021]
+Échenle una mano y cuiden de él, ¿sí?
+
+[4022]
+Mi marido…
+
+[4023]
+Esta mañana se estaba purificando con agua del pozo…
+
+[4024]
+Siempre que hace eso antes de salir, vuelve a casa malherido…
+
+[4025]
+Directora…
+
+[4026]
+¡No tiene por qué preocuparse tanto!
+
+[4027]
+¡El padre Salade es invencible!
+
+[4028]
+Ay, tú…
+
+[4029]
+No pongas esa cara.
+
+[4030]
+No te preocupes, volverá. Ya lo verás.
+
+[4031]
+¡Fuimos a explorar la Panza del Diablo y vimos zombis!
+
+[4032]
+¡Van a invadir toda la ciudad!
+
+[4033]
+¿Eres cazadora de demonios?
+
+[4034]
+Te pagaré, ¡así que haz algo!
+
+[4035]
+Prier recibió 1 prica.
+
+[4036]
+¿Una sola prica…?
+
+[4037]
+Bueno… ¡vale!
+
+[4038]
+¡Déjaselo a la mismísima Prier!
+
+[4039]
+¡Los zombis serán pan comido!
+
+[4040]
+¡Más te vale hacerlo bien! ¡Te pagué una prica entera!
+
+[4041]
+¡Oye, hermana Prier! ¡Escúchame!
+
+[4042]
+¡Hemos fundado el Club de Detectives Camembert para echarles una mano a Prier y Culotte, que todavía están verdes!
+
+[4043]
+¡Si necesitas pistas sobre un caso, déjalo en nuestras manos!
+
+[4044]
+¡Según nuestras investigaciones, los de la Iglesia de la Divina Madre son de lo más sospechosos!
+
+[4045]
+¡¿Qué te parece?!
+
+[4046]
+¡A que es increíble!
+
+[4047]
+¡Hablamos con gente que dice haber visto un monstruo por aquí! Aunque no sabemos si será verdad…
+
+[4048]
+¡Dicen que aparece de pronto ante tus ojos y, al instante, se esfuma!
+
+[4049]
+¿Será el fantasma de un monstruo?
+
+[4050]
+¡Parece que últimamente los fieles de la Iglesia de la Divina Madre entran y salen del bosque de Meuniere!
+
+[4051]
+¡Seguro que ellos son los culpables de que apareciera aquel fantasma!
+
+[4052]
+¡El fantasma del caballero negro del castillo de Cresson no parece tener nada que ver con la Iglesia de la Divina Madre!
+
+[4053]
+¡Ni siquiera esa iglesia se atrevería a meterse con la familia real!
+
+[4054]
+¡¿Qué?! ¡¿Prier está en cama?!
+
+[4055]
+¡Vaya! ¡Hasta los más duros caen enfermos!
+
+[4056]
+¡Déjanos la ciudad a nosotros mientras no estés!
+
+[4057]
+¡Nosotros, el Club de Detectives Camembert, cuidaremos del orden de la ciudad!
+
+[4058]
+Por eso… ¡por eso…!
+
+[4059]
+¡Tienes que volver, pase lo que pase!
+
+[4060]
+Oye, Prier…
+
+[4061]
+Bueno…
+
+[4062]
+Eeeh…
+
+[4063]
+Nosotros… eh…
+
+[4064]
+Vimos unos… este…
+
+[4065]
+Zombis, el otro día…
+
+[4066]
+En la Panza del Diablo…
+
+[4067]
+Oye, hermana Prier…
+
+[4068]
+Tú sabes lo del asesinato, ¿no?
+
+[4069]
+Antes de buscar al culpable, deberías ir al lugar del crimen.
+
+[4070]
+¿Dónde era…? ¿Dónde era…?
+
+[4071]
+¡Se me olvidó!
+
+[4072]
+¡Ni se te ocurra matar al guardián del bosque de Meuniere!
+
+[4073]
+¿Que por qué? Pues…
+
+[4074]
+Dicen que toda la tripulación del Escargot está formada por gatos.
+
+[4075]
+¡Son una monada! ¿A que sí?
+
+[4076]
+Dicen que los monstruos del bosque de Meuniere se han vuelto feroces de repente.
+
+[4077]
+Yo creo que es porque murió el guardián del bosque…
+
+[4078]
+Hace mucho tiempo, cerca de esta ciudad había una «Cueva de las Pruebas» llena de monstruos muy fuertes.
+
+[4079]
+Pero, por lo visto, el padre Salade la selló hace unos años.
+
+[4080]
+…Perdona.
+
+[4081]
+No tengo ninguna información importante…
+
+[4082]
+Si acaso, diría que cuantos más compañeros tengas, mejor.
+
+[4083]
+Oye, Culotte…
+
+[4084]
+Dicen que todos los altos cargos de la Iglesia de la Divina Madre son demonios.
+
+[4085]
+Da miedo, ¿verdad?
+
+[4086]
+Pero yo no lloro, porque confío en todos ustedes.
+
+[4087]
+¿A que soy valiente?
+
+[4088]
+Snif… Snif…
+
+[4089]
+Prier…
+
+[4090]
+El otro día, mientras jugábamos a las aventuras, ¡vimos un zombi que daba mucho miedo!
+
+[4091]
+Pero, de todos los adultos, solo la directora nos cree.
+
+[4092]
+Snif… Snif…
+
+[4093]
+¡Soy una niña! ¡No quiero estar en un club de detectives que se llame «de chicos»!
+
+[4094]
+No te olvides de los paneles brillantes del mapa de la zona.
+
+[4095]
+Parece que sucede algo cuando te colocas encima.
+
+[4096]
+Dicen que han vuelto a aparecer zombis en la Panza del Diablo.
+
+[4097]
+¿Pero Prier no se había encargado ya de ellos?
+
+[4098]
+Oye, Prier…
+
+[4099]
+¿Has oído hablar del Caballero Negro?
+
+[4100]
+Me la contaron.
+
+[4101]
+Dicen que, por la noche, el fantasma de un caballero negro aparece en el castillo de Cresson.
+
+[4102]
+Dicen que Grand Champignon, un lugar donde crecían montones de setas, quedó destruido…
+
+[4103]
+Ay… ¡Qué pena!
+
+[4104]
+Prier…
+
+[4105]
+¿Has estado alguna vez en el valle de Eringa o en Grand Champignon?
+
+[4106]
+Por lo visto, allí viven setas capaces de entender la lengua de los humanos.
+
+[4107]
+Culotte, ¿estás usando la Purificación?
+
+[4108]
+Si sabes utilizar bien la Purificación, puedes luchar incluso con un nivel bajo.
+
+[4109]
+…Me lo devuelves después, ¿vale?
+
+[4110]
+…Sin falta, ¿eh?
+
+[4111]
+Me lo has prometido… Snif.
+
+[4112]
+Prier…
+
+[4113]
+Parece que ya no te caben más objetos…
+
+[4114]
+Y yo que quería prestarte mi tesoro…
+
+[4115]
+Este es mi tesoro… Te lo presto.
+
+[4116]
+…Sí, de acuerdo.
+
+[4117]
+Te lo prometo.
+
+[4118]
+¡Has obtenido la «Espada de cactus»!
+
+[4119]
+¿Qué pasa, Prier?
+
+[4120]
+¡Deja de perder el tiempo aquí y ve a atrapar al culpable de una vez!
+
+[4121]
+¡Menudo problema nos dan los caprichos de la diosa Poiturine…!
+
+[4122]
+Me han dicho que los vecinos vieron una luz blanca que era absorbida por la Panza del Diablo.
+
+[4123]
+Escucha, Prier…
+
+[4124]
+¿De verdad has resuelto el caso?
+
+[4125]
+¿Eh? ¡Oye!
+
+[4126]
+¡Que no tenga que hacer hablar a estos puños!
+
+[4127]
+El monstruo que atacó a esos tipos debía de ser muy feroz.
+
+[4128]
+Parece que tendremos que investigar otra vez el bosque de Meuniere.
+
+[4129]
+¡Eh! ¿Qué pasa?
+
+[4130]
+¿Encontraste al monstruo, Culotte?
+
+[4131]
+¿Qué tal?
+
+[4132]
+¿Ya sabes qué era el monstruo del bosque?
+
+[4133]
+¿Averiguaste algo sobre Fátima?
+
+[4134]
+No te preocupes por la hermana Alouette.
+
+[4135]
+¡Yo, Salade, la protegeré aunque me cueste la vida!
+
+[4136]
+Perdona, Culotte.
+
+[4137]
+La verdad es que yo también quisiera luchar, pero…
+
+[4138]
+No… ¡No te disculpes!
+
+[4139]
+Y-yo, por ti, haría lo que fuera…
+
+[4140]
+Gracias… Culotte.
+
+[4141]
+El padre Salade no está ahora.
+
+[4142]
+Ah…
+
+[4143]
+Pobre Rossini…
+
+[4144]
+Diosa mía…
+
+[4145]
+¿Por qué tiene que sufrir mi pequeño una enfermedad tan terrible?
+
+[4146]
+Mi pequeño Rossini está tan enfermo que ni siquiera puede salir de casa.
+
+[4147]
+Dice que quiere ser fuerte como un monstruo. Por eso se pasa el día dibujándolos…
+
+[4148]
+Ay, Rossini…
+
+[4149]
+Gracias a ustedes, Rossini ha recuperado las fuerzas.
+
+[4150]
+De verdad, se lo debemos todo.
+
+[4151]
+Muchísimas gracias.
+
+[4152]
+Ay, Rossini…
+
+[4153]
+¿Por qué tuviste que morir…?
+
+[4154]
+…Este dibujo lo hizo mi pequeño.
+
+[4155]
+Decía que quería ser tan fuerte como un monstruo…
+
+[4156]
+¡Hermana, mira este dibujo!
+
+[4157]
+Es… el dibujo de aquel monstruo que vimos…
+
+[4158]
+Entonces… ¿y si aquel monstruo era…?
+
+[4159]
+Ah, hola, hermana Prier.
+
+[4160]
+¿En qué puedo ayudarla?
+
+[4161]
+Lo siento, pero no tenemos ningún medicamento para un problema como el suyo…
+
+[4162]
+La Iglesia de la Santa Doncella ayuda a todos los que buscan la salvación.
+
+[4163]
+Así piensa el padre Salade.
+
+[4164]
+Por eso también creó este centro médico.
+
+[4165]
+Conseguir Kinoko Jiru no será nada fácil.
+
+[4166]
+Ten mucho cuidado, ¿de acuerdo?
+
+[4167]
+Creo que esa gente oculta algo.
+
+[4168]
+Ándate con cuidado.
+
+[4169]
+Yo no he visto nada, ¿eh?
+
+[4170]
+Jamás diría que el padre Salade golpeó a un herido. ¡Ni bajo tortura!
+
+[4171]
+Aquí no cobramos nada por los tratamientos.
+
+[4172]
+Aunque recibimos ayuda de la familia real, el padre Salade es demasiado generoso.
+
+[4173]
+Bueno, eso también es lo bueno que tiene.
+
+[4174]
+Rossini y su madre ya volvieron a casa.
+
+[4175]
+Nos dio las gracias una y otra vez. Dice que todo fue gracias a ustedes.
+
+[4176]
+La hermana Prier está descansando al fondo.
+
+[4177]
+Físicamente está bien, pero…
+
+[4178]
+…Su estado de ánimo es otra historia.
+
+[4179]
+Hermana…
+
+[4180]
+Hermana…
+
+[4181]
+¡N-nosotros solo estábamos paseando por el bosque!
+
+[4182]
+¡Mierda!
+
+[4183]
+¡Maldito cura violento!
+
+[4184]
+¡Es mucho más salvaje que el guardián del bosque!
+
+[4185]
+¡Nadie nos avisó de que el guardián del bosque era semejante monstruo!
+
+[4186]
+¡Maldita sea!
+
+[4187]
+¡Nos engañó aquel tipo de la Iglesia de la Divina Madre…! ¡Argh!
+
+[4188]
+¡Cuando sea mayor, entraré en La Pucelle, la orden de la Santa Doncella!
+
+[4189]
+¡Claro!
+
+[4190]
+¡Seguro que tú puedes conseguirlo!
+
+[4191]
+¡Yo también te animaré! ¡Esfuérzate mucho!
+
+[4192]
+¡Bienvenidos, eri!
+
+[4193]
+Me alegra saber que entre los humanos hay personas como ustedes, eri.
+
+[4194]
+Hablaré con nuestro líder para que podamos relacionarnos más con los humanos, eri.
+
+[4195]
+¿Quieres comprar «Kinoko Jiru», eri?
+
+[4196]
+Cuesta 50 000 pricas, eri.
+
+[4197]
+¡Has conseguido «Kinoko Jiru»!
+
+[4198]
+¡Gracias por tu compra, eri!
+
+[4199]
+No tienes suficiente dinero, eri…
+
+[4200]
+Vuelve cuando hayas ahorrado un poco, eri.
+
+[4201]
+¿No lo quieres, eri?
+
+[4202]
+Si cambias de opinión, vuelve a verme, eri.
+
+[4203]
+Dicen que el encargado de la tienda Rosenqueen de Pot-au-Feu es un Eringa, eri.
+
+[4204]
+Yo también quiero trabajar en la Compañía Rosenqueen, eri.
+
+[4205]
+¿Qué podríamos hacer para que más personas conozcan a los Eringa, eri?
+
+[4206]
+¡Se aceptan ideas, eri!
+
+[4207]
+Hay valles de Eringa por todo el mundo, eri.
+
+[4208]
+Creo que también hay uno en un reino que se llama «Ma… algo», eri.
+
+[4209]
+¿Quieres contratarme para tu equipo, eri?
+
+[4210]
+¡Te seré de gran ayuda, eri!
+
+[4211]
+¡Por solo 3000 pricas! ¡Es una ganga, eri!
+
+[4212]
+Contratar / No contratar / No tienes suficiente dinero, eri.
+
+[4213]
+No me infravalores, eri.
+
+[4214]
+Parece que ya tienes el equipo lleno, eri.
+
+[4215]
+Deshazte de algún compañero que no necesites y vuelve, eri.
+
+[4216]
+Gracias, eri.
+
+[4217]
+¡Espero que nos llevemos bien, eri!
+
+[4218]
+¡Un Eringa se ha unido al grupo!
+
+[4219]
+Si cambias de opinión, ven a buscarme, eri.
+
+[4220]
+Bienvenidos al valle de Eringa…
+
+[4221]
+¡¿Eri, eri?!
+
+[4222]
+¡Un monstruo, eri!
+
+[4223]
+¡Qué falta de respeto!
+
+[4224]
+¡¿A quién llamas monstruo?!
+
+[4225]
+¡Bienvenidos al valle de Eringa, eri!
+
+[4226]
+Los Eringa somos buena gente, eri.
+
+[4227]
+Si encuentras alguno, invítalo a unirse a tu equipo, eri.
+
+[4228]
+¡Entre todos, hagamos crecer el círculo de los Eringa!
+
+[4229]
+…Eri.
+
+[4230]
+¿De veras puedes perder el tiempo aquí, eri?
+
+[4231]
+¡Cuántos años habrán pasado desde la última vez que vino un humano a este valle, eri!
+
+[4232]
+Soy Eri XVI, el jefe de este valle, eri.
+
+[4233]
+Algunos de los nuestros jamás han visto a un humano. Si cometen alguna descortesía, les ruego que los disculpen, eri.
+
+[4234]
+¡V-vaya! ¡Qué hongo tan educado!
+
+[4235]
+Ya podría aprender alguien que yo me sé…
+
+[4236]
+Me han contado que ayudaron a Elisabeth. ¡Muchísimas gracias, eri!
+
+[4237]
+¡Los Eringa nunca olvidamos un favor, eri!
+
+[4238]
+De ahora en adelante, tratémonos como si fuéramos de la misma familia, eri.
+
+[4239]
+Eh… No sé si tanto acercamiento me hace mucha gracia…
+
+[4240]
+Los Eringa tenemos nuestra propia lengua, eri.
+
+[4241]
+Es bastante difícil de pronunciar, pero puedo enseñársela si quieren, eri.
+
+[4242]
+«Lección 1 de eringués del jefe: “Hola”», eri.
+
+[4243]
+En eringués, «hola» se dice «Bubukkasehorizueri», eri.
+
+[4244]
+¿Bu… Bubukka…?
+
+[4245]
+Bubukkasehorizueri.
+
+[4246]
+¡Oh! ¡Excelente, eri!
+
+[4247]
+¡La pronunciación ha sido perfecta, eri!
+
+[4248]
+Oye, ¿tú no serás una Eringa de verdad?
+
+[4249]
+Je, je… ¡Quién sabe!
+
+[4301]
+…Sin comentarios.
+
+[4302]
+Los Eringa somos una especie extraordinaria, capaz de adaptarse a cualquier entorno, eri.
+
+[4303]
+Por eso nos instalamos sin pedir permiso en pueblos o ciudades que han quedado desiertos, eri.
+
+[4304]
+No deberías entretenerte tanto dando rodeos, eri.
+
+[4305]
+¿No tienes otras cosas más importantes que hacer, eri?
+
+[4306]
+¡En estos últimos días, los dragones seta se han vuelto muy agresivos de repente, eri!
+
+[4307]
+Antes nunca salían de su propio territorio, eri.
+
+[4308]
+Por eso habíamos podido convivir con ellos hasta ahora, pero… eri.
+
+[4309]
+A este paso, nuestro hogar acabará destruido, eri…
+
+[4310]
+¡Bienvenidos, eri!
+
+[4311]
+Es la primera vez que vienen humanos a estas tierras, eri.
+
+[4312]
+Pero llegar justo ahora… ¡Qué mala suerte tienen, eri!
+
+[4313]
+¡Los habitantes de Grand Champignon les damos una cálida bienvenida, eri!
+
+[4314]
+¡Bienvenidos a Grand Champignon, eri!
+
+[4315]
+(Mmm… Estos Eringa tienen pinta de estar riquísimos salteados con mantequilla…)
+
+[4316]
+Tenías razón: hay otras mujeres maravillosas además de Suzanne.
+
+[4317]
+¡Ella dice que no le importa que yo sea calvo!
+
+[4318]
+Gracias a ustedes, ¡mi querida Suzanne por fin sabe lo que siento por ella!
+
+[4319]
+¡Muchas gracias de corazón!
+
+[4320]
+El señor Barsom… ¡Me encanta esa calva tan reluciente!¥ Al fin y al cabo, lo que importa de un hombre es lo que lleva dentro.
+
+[4321]
+¡Tenías toda la razón!
+
+[4322]
+¡Soy tan feliz!¥ Fátima… el reino de leyenda, ¿eh?
+
+[4323]
+¡Solo de imaginarlo se me enciende la sangre de emoción!
+
+[4324]
+¡El destino de este barco está en manos de ustedes!
+
+[4325]
+¡Confío en ustedes!
+
+[4326]
+¡Ja! ¡Ya quisieras!
+
+[4327]
+¡No se crean que ya los he aceptado!
+
+[4328]
+¡¿Qué están haciendo?!
+
+[4329]
+¡Dense prisa y vayan a acabar con esos demonios!
+
+[4330]
+Aquello ocurrió hace ya cinco años, miau…
+
+[4331]
+Por entonces yo era un gran pirata, ¡con más de cien secuaces a mis órdenes, miau!
+
+[4332]
+Por aquella época nos pasábamos los días asaltando ciudades portuarias y robando sus tesoros, miau.
+
+[4333]
+Un día, mientras atacábamos un puerto, apareció aquel hombre, miau.
+
+[4334]
+Pilotaba una nave voladora y derrotó a mis secuaces en un abrir y cerrar de ojos, miau.
+
+[4335]
+Por último, se batió en duelo conmigo, miau.
+
+[4336]
+Nunca había perdido una pelea, pero aquel hombre me venció tras un combate feroz, miau.
+
+[4337]
+Cuando ya me había resignado a morir, me dijo esto, miau:
+
+[4338]
+«Sería una lástima matarte.
+
+[4339]
+¿Qué me dices?
+
+[4340]
+¿Quieres unirte a la tripulación de mi barco?».
+
+[4341]
+…Eso fue lo que me dijo, miau.
+
+[4342]
+En ese momento acepté de corazón mi derrota, miau.
+
+[4343]
+Y juré seguir a aquel hombre durante toda mi vida, miau.
+
+[4344]
+¡Ese hombre era nuestro capitán Homard, miau!
+
+[4345]
+Me gustaría ir a echarles una mano, pero…
+
+[4346]
+Lo siento mucho, miau.
+
+[4347]
+¡Déjenme a mí el cuidado del Escargot, miau!
+
+[4348]
+¡Bien!
+
+[4349]
+¡Confío en ti, Yattanya!
+
+[4350]
+…¡Y que conste que me alegro muchísimo de que te hayas marchado!
+
+[4351]
+¡Mira quién habla, miau!
+
+[4352]
+¡Si en el fondo lo vas a echar de menos, miau!
+
+[4353]
+¡¿P-p-pero quéee dices?!
+
+[4354]
+¡Las reparaciones del Escargot marchan viento en popa, capitán! ¡Miau!
+
+[4355]
+¡Así se hace, Yattanya!
+
+[4356]
+Las reparaciones del Escargot están casi terminadas, miau.
+
+[4357]
+El problema es cómo atravesar la Nube de la Muerte, miau…
+
+[4358]
+Ya sé que viene de repente, pero… ¿quieren comprar algo, miau?
+
+[4359]
+Sé que no es el momento más oportuno, pero…
+
+[4360]
+…¡Aunque, pensándolo bien, el último ataque de los demonios acabó con todas las existencias, miau!
+
+[4361]
+¡Qué mala suerte, miau!
+
+[4362]
+Si hubieran acabado entonces con todos los demonios, miau…
+
+[4363]
+¿Cómo están todos, miau?
+
+[4364]
+¡Yo estoy estupendamente, miau!
+
+[4365]
+Nuestro jefe procede en realidad de una familia noble, miau.
+
+[4366]
+Cuesta creerlo, ¿verdad, miau?
+
+[4367]
+El subjefe Yattanya también se ha quedado aquí con nosotros, miau.
+
+[4368]
+Nunca se sabe cuándo un accidente puede hacer que perdamos a algún compañero, miau.
+
+[4369]
+Por eso les recomiendo entrenar monstruos como refuerzos de reserva, miau.
+
+[4370]
+Si les suben el Ánimo a 10, podrán usar Purificación. ¡Hasta serán más útiles que nosotros, miau!
+
+[4371]
+¡Niajajajaja!
+
+[4372]
+¡Jefeee!
+
+[4373]
+¡Estoy haciendo todo lo que puedo, miau!
+
+[4374]
+Nos queda poco combustible para el Escargot, así que estamos fabricando uno alternativo, miau.
+
+[4375]
+¡Y ese combustible lo hacemos con nuestra propia caca, miau!
+
+[4376]
+El verdadero nombre de nuestro jefe es Potemkin, miau.
+
+[4377]
+¿A que es un nombre raro, miau?
+
+[4378]
+Me dicen que ayude a reparar el barco, ¡pero no tengo ni idea de por dónde empezar, miau!
+
+[4379]
+¡Señoritas, gracias por su esfuerzo, miau!
+
+[4380]
+¿De verdad tienen tiempo para jugar por aquí, miau?
+
+[4381]
+No esperen que nosotros les demos información útil, miau.
+
+[4382]
+¡Niajajaja!
+
+[4383]
+¿Has vuelto hasta aquí solo para vernos, miau?
+
+[4384]
+Ya que te has tomado la molestia de venir, te daré algo bueno, miau.
+
+[4385]
+Quería darte algo, ¡pero parece que tienes el inventario lleno, miau!
+
+[4386]
+¡Has obtenido un Caramelo de recuperación!
+
+[4387]
+…¡Es broma, miau!
+
+[4388]
+¡No voy a regalarte cosas una y otra vez, miau!
+
+[4389]
+¡La vida no es tan dulce, miau!
+
+[4391]
+Y, sobre todo, no intentes hacer más de lo que puedes, monya.
+
+[4392]
+Asegúrate de ir bien equipado y ¡no olvides guardar la partida, monya!
+
+[4393]
+Si me das 5000 pricas, podré echarte una mano, monya.
+
+[4394]
+Contratar / No contratar / Parece que no tienes suficiente dinero, monya.
+
+[4395]
+Cuando hayas reunido el dinero, vuelve a verme, monya.
+
+[4396]
+¡Qué lástima, monya!
+
+[4397]
+Parece que tu equipo ya está completo, monya.
+
+[4398]
+¡Monyanya se ha unido al equipo!
+
+[4399]
+Si cambias de opinión, vuelve a verme, monya.
+
+[4400]
+¿Qué te pasa, Culotte?
+
+[4401]
+¿Por qué no dices nada?
+
+[4402]
+Estás muy raro, ¿sabes?
+
+[4403]
+(La que se comporta raro eres tú, hermana…
+
+[4404]
+Solo estás pendiente de Croix…)
+
+[4405]
+¿Estás bien, Croix?
+
+[4406]
+Sí… No me pasa nada.
+
+[4407]
+Estoy bien.
+
+[4408]
+Es la primera vez que salgo de mi país, así que estoy algo nerviosa.
+
+[4409]
+Pues yo estoy igual.
+
+[4410]
+Estamos todos contigo. ¡No hay de qué preocuparse!
+
+[4411]
+…Eso creo…
+
+[4412]
+Bienvenidos a la aldea de Cuscús.
+
+[4413]
+Parece que podemos entender su lengua.
+
+[4414]
+Su pronunciación y entonación se parecen mucho a las del antiguo idioma de Paprica.
+
+[4415]
+Quizá los orígenes de Paprica se encuentren aquí, en Fátima.
+
+[4416]
+No suelen producirse terremotos por aquí…
+
+[4417]
+Espero que no sea presagio de nada malo…
+
+[4418]
+¿Fátima?
+
+[4419]
+Sí. Es verdad que Fátima fue destruida hace doscientos años.
+
+[4420]
+Los supervivientes de entonces son nuestros antepasados.
+
+[4421]
+Esta mañana me desperté en la cocina.
+
+[4422]
+¡Hay que ver cuánto me muevo mientras duermo! ¿Verdad?
+
+[4423]
+¿Eh?
+
+[4424]
+¿Han vuelto otra vez?
+
+[4425]
+¡Se ve que les ha gustado mucho nuestra aldea!
+
+[4426]
+¡La tierra retumbó con mucha fuerza! ¿Qué habrá sido?
+
+[4427]
+Por aquí, los lagartos de roca y los gusanos de arena son los mejores manjares.
+
+[4428]
+¡¿Puaj?!
+
+[4429]
+¡¿Lo estás diciendo en serio?!
+
+[4430]
+Anoche tuve una pesadilla.
+
+[4431]
+Soñé que un demonio nos controlaba y nos obligaba a atacar a Prier y a las demás.
+
+[4432]
+¡Y me hice pis encima…!
+
+[4433]
+¡Soñé con el Príncipe de las Tinieblas!
+
+[4434]
+¡Y otra vez me hice pis encima…!
+
+[4435]
+¡Qué susto me llevé…!
+
+[4436]
+No puedo creer que el suelo temblara tanto…
+
+[4437]
+Y encima volví a hacerme pis…
+
+[4438]
+En una tierra tan árida como esta, apenas crece nada.
+
+[4439]
+Sobrevivimos como podemos, repartiendo los pocos alimentos que tenemos.
+
+[4440]
+Por cierto, ¿has guardado la partida?
+
+[4441]
+Es fácil olvidarse, así que más vale tener cuidado.
+
+[4442]
+Últimamente tenía los hombros agarrotados, pero de pronto me encuentro mucho mejor.
+
+[4443]
+Como si me hubiera quitado un peso de encima.
+
+[4444]
+¿Será que por fin este país se ha librado de la maldición del Príncipe de las Tinieblas?
+
+[4445]
+¿Acaso nunca conseguiremos librarnos de la maldición del Príncipe de las Tinieblas…?
+
+[4446]
+¡Esta tierra está maldita!
+
+[4447]
+¡Maldita por el Príncipe de las Tinieblas!
+
+[4448]
+…Así que el Príncipe de las Tinieblas parece haber tenido mucho que ver con la caída de Fátima.
+
+[4449]
+…Eso pensaba, pero esta mañana me he levantado como nuevo.
+
+[4450]
+Qué cosa más extraña…
+
+[4451]
+¡No hay nada como tener buena salud!
+
+[4452]
+¡Más vale una retirada a tiempo!
+
+[4453]
+¡Buenas!
+
+[4454]
+¡Bienvenidos a la aldea de Trufa, eri!
+
+[4455]
+Como no parecía haber nadie, decidimos instalarnos aquí por nuestra cuenta, eri.
+
+[4456]
+Además, las casas ya están amuebladas. ¡Qué práctico, eri!
+
+[4457]
+¿Pero eso no es ocupar casas ajenas…?
+
+[4458]
+¡Se vive de maravilla en esta aldea, eri!
+
+[4459]
+¡Qué suerte tuvimos al encontrar este sitio, eri!
+
+[4460]
+Es la primera vez que vivo un terremoto, eri.
+
+[4461]
+¡Vaya emoción, eri!
+
+[4462]
+¿Adónde habrán ido quienes vivían aquí antes, eri?
+
+[4463]
+¡Menudo terremoto, eri!
+
+[4464]
+¿Se habrá enfadado la tierra porque nos instalamos sin permiso, eri?
+
+[4465]
+Los Eringa nos adaptamos a cualquier entorno, eri.
+
+[4466]
+Algunos dicen que somos unos pervertidos… ¿Pero qué tenemos de indecente, eri?
+
+[4467]
+¡Vamos, pistón, pistón, eri!¥ ¿Habrán sido nuestros movimientos de pistón los que provocaron el terremoto, eri?
+
+[4468]
+¡Bienvenidos, eri! ♪ Pero ustedes…
+
+[4469]
+Será mejor que se marchen cuanto antes… por su propio bien.
+
+[4470]
+Esta «Ciudad de los Efímeros» está maldita…
+
+[4471]
+Este no es lugar para personas vivas.
+
+[4472]
+Háganme caso y váyanse…
+
+[4473]
+Aunque no lo parezca, soy mayor que tú, hermanita.
+
+[4474]
+Cuando nació el Príncipe de las Tinieblas, una oleada de oscuridad envolvió la ciudad…
+
+[4475]
+Desde entonces, una poderosa corriente de energía oscura corrompe esta tierra y nos mantiene atados a ella…
+
+[4476]
+Si cambiara la corriente de energía oscura que cubre este lugar, podríamos liberarnos…
+
+[4477]
+El Príncipe de las Tinieblas nació en la colina de Choux-Fleur, cerca de esta ciudad…
+
+[4478]
+La energía oscura liberada al nacer nos alcanzó, y desde entonces nuestras almas no pueden descansar. Seguimos atrapados aquí…
+
+[4479]
+Dicen que otra hermana seguidora de Poiturine ha sido víctima de una caza de brujas.
+
+[4480]
+Los partidarios del rey quieren echarle a la facción de Poiturine la culpa de la hambruna y las epidemias.
+
+[4481]
+¡Si esto sigue así, nuestro país está perdido!
+
+[4482]
+Croix antes siempre se metía en líos, pero Angélica lo hizo cambiar.
+
+[4483]
+Ahora es el más trabajador de toda la aldea.
+
+[4484]
+¡Yo sé algo!
+
+[4485]
+Croix fue a comprar unas semillas de la flor de Fiancailles.
+
+[4486]
+Las semillas de la flor de Fiancailles se regalan cuando le pides matrimonio a la persona amada.
+
+[4487]
+Dicen que, si la pareja las planta junta y florecen, será feliz.
+
+[4488]
+Es una tradición que se conserva en esta región desde hace mucho tiempo.
+
+[4489]
+Uf…
+
+[4490]
+¡Por fin lo he contado todo…!
+
+[4491]
+¡No soporto a los partidarios del rey!
+
+[4492]
+Siempre van dándose aires de grandeza y recurren a la violencia a la mínima.
+
+[4493]
+En nuestra aldea no necesitamos médicos.
+
+[4494]
+¡Porque tenemos a Angélica!
+
+[4495]
+Cuando mi viejo se desplomó, ¡Angélica lo curó con solo tocarlo!
+
+[4496]
+¡A esta vieja casi se le para el corazón del susto!
+
+[4497]
+¡Ja, ja, ja!
+
+[4498]
+Algunos hablan mal de los misteriosos poderes de Angélica, pero yo confío en esa muchacha.
+
+[4499]
+¡Estoy segura de que la envía la diosa!
+
+[4500]
+Aunque, por lo visto, los partidarios del rey sospechan que es una bruja.
+
+[4501]
+¡Malditos partidarios del rey!
+
+[4502]
+¡Que vengan si se atreven!
+
+[4503]
+¡Los habitantes de esta aldea protegeremos a Angélica!
+
+[4504]
+¡Deja de holgazanear y ve a hacer lo que tengas que hacer!
+
+[4505]
+Ya estamos llegando al desenlace…
+
+[4506]
+¡Bueno, ánimo!
+
+[4507]
+Las flores de Fiancailles están en plena floración.
+
+[4508]
+Toda investigación empieza por reunir información.
+
+[4509]
+Lo sabes, ¿verdad, Prier?
+
+[4510]
+Sí, sí…
+
+[4511]
+Siempre dices lo mismo.
+
+[4512]
+Bien, pues empecemos a investigar.
+
+[4513]
+Puede que los vecinos sepan algo importante sobre este caso. Habla con todos, ¿de acuerdo?
+
+[4514]
+Vale. Como a mí se me da fatal recordar los detalles, ¡te encargas tú, Culotte!
+
+[4515]
+¡Ay, Prier…!
+
+[4516]
+A veces eres de lo que no hay…
+
+[4517]
+Parece que los zombis vienen de ese castillo.
+
+[4518]
+Tenemos que descubrir por qué siguen en el mundo de los vivos.
+
+[4519]
+No lo olvides: el destino de esas pobres criaturas está en tus manos.
+
+[4520]
+Es una responsabilidad enorme…
+
+[4521]
+¡Pero tengo que esforzarme si quiero ser la Doncella de la Luz!
+
+[4522]
+La razón por la que esos zombis siguen en el mundo de los vivos seguramente se esconde en el castillo.
+
+[4523]
+No dejes ningún rincón sin investigar.
+
+[4524]
+Uf…
+
+[4525]
+¡Qué fastidio…!
+
+[4526]
+¡¿Qué estás diciendo, Prier?!
+
+[4527]
+Si sigues así, nunca serás una buena cazadora de demonios, ¡y mucho menos la Doncella de la Luz!
+
+[4528]
+¡Es que no aguantas ni una broma!
+
+[4529]
+Precisamente ahora es cuando debes tomártelo en serio.
+
+[4530]
+Podrías pasar por alto algo muy importante… Eso me suena a una…
+
+[4531]
+excusa poco convincente
+
+[4532]
+para mí…
+
+[4533]
+El padre Salade te está llamando. No lo hagas esperar.
+
+[4534]
+Sí, bueno…
+
+[4535]
+¡De todos modos ya pensaba ir!
+
+[4536]
+Parece que el padre Salade te está llamando.
+
+[4537]
+¿Habrá pasado algo?
+
+[4538]
+Snif, snif, snif…
+
+[4539]
+¡Me huele que estamos ante un caso importante!
+
+[4540]
+¿Pero tú eres un perro o…?
+
+[4541]
+Es terrible que un demonio capaz de cambiar de forma esté arrancando corazones humanos…
+
+[4542]
+Para resolver el caso no basta con atrapar al culpable: también debemos reunir información.
+
+[4543]
+Vamos, que tendremos que investigar a fondo hasta encontrar pistas, ¿no?
+
+[4544]
+¡Pero también me preocupa la hermana Olive! ¡No podemos perder más tiempo!
+
+[4545]
+El crimen ocurrió en una casa del número 4 de la calle À-la-Mirabeau…
+
+[4546]
+Da miedo, pero quizá deberíamos examinar la escena del crimen para descubrir quién es el asesino.
+
+[4547]
+Ya veo.
+
+[4548]
+Ah, ¿te refieres a meterte en la bañera para averiguar cómo es el culpable?
+
+[4549]
+¿Meterme en la bañera?
+
+[4550]
+Baño… Bañera…
+
+[4551]
+¡¿No estarás hablando de un perfil criminológico?!
+
+[4552]
+El asesino ha huido al monte Tart. Es peligroso que Culotte vaya allí solo.
+
+[4553]
+¡Vamos a buscarlo enseguida!
+
+[4554]
+¡Por favor, que no te haya pasado nada, Culotte…!
+
+[4555]
+No podemos hacer esperar a la reina.
+
+[4556]
+Vayamos cuanto antes al castillo de Cresson.
+
+[4557]
+La reina, ¿eh…?
+
+[4558]
+No me apetece demasiado…
+
+[4559]
+¿De verdad podemos confiar en ese tal Croix?
+
+[4560]
+¡Pero si te salvó la vida!
+
+[4561]
+¡Tú eres el último que debería desconfiar de él!
+
+[4562]
+Ya, bueno, eso es verdad, pero…
+
+[4563]
+¡Vaya, informar directamente a la reina! Para ser una misión cualquiera, no está nada mal lo de ustedes.
+
+[4564]
+Tampoco es para tanto.
+
+[4565]
+Es que no hay suficiente personal, nada más.
+
+[4566]
+Ya hemos informado a la princesa. Volvamos a la iglesia.
+
+[4567]
+¡Siempre tan aplicada! Eso sí que es hablar como una alumna ejemplar…
+
+[4568]
+Éclair parecía algo decaída… ¿Le habrá pasado algo?
+
+[4569]
+Ya dijo que estaba muy ocupada entre los estudios y el entrenamiento.
+
+[4570]
+Es normal que esté cansada.
+
+[4571]
+Sí, supongo…
+
+[4572]
+Debe de ser duro ser princesa…
+
+[4573]
+¡Quién iba a decir que Prier era amiga de la princesa!
+
+[4574]
+¡Nunca se sabe lo que esconde una persona!
+
+[4575]
+¿Pero qué dices?
+
+[4576]
+¡Voy a convertirme en la Doncella de la Luz!
+
+[4577]
+¡Eso sí que se me nota a simple vista!
+
+[4578]
+¡No te falta razón!
+
+[4579]
+Como miembros de la Iglesia de la Santa Doncella, no podemos ignorar a los monstruos que atacan a la gente.
+
+[4580]
+¡Démonos prisa y vayamos al bosque de Meuniere!
+
+[4581]
+Lo malo de ser religiosa es que debes ayudar hasta a quienes se han buscado un ataque a pulso…
+
+[4582]
+¿De verdad esos hombres estaban paseando cuando los atacaron los monstruos?
+
+[4583]
+Quizá mi hermana tenía razón…
+
+[4584]
+¡Si averiguamos lo que hacían en realidad, saldremos de dudas!
+
+[4585]
+Así es. ¡Lo primero es reunir información!
+
+[4586]
+¡Busquemos pistas!
+
+[4587]
+Me contrataron para exorcizar demonios y no paro de hacer recados: audiencias con la princesa, cacerías de monstruos… ¡Qué misiones tan poco emocionantes!
+
+[4588]
+No digo que no tengas razón, pero…
+
+[4589]
+Si sigues hablando así, Alouette va a echarte una bronca.
+
+[4590]
+Tienes razón.
+
+[4591]
+Como soy el nuevo, más me vale obedecer sin protestar.
+
+[4592]
+En fin, vayamos a la ciudad portuaria de Mayonnaise.
+
+[4593]
+Si descubrimos qué es esa criatura misteriosa, quizá Culotte se quede tranquilo.
+
+[4594]
+Tú tampoco crees lo del monstruo, ¿eh, Alouette?
+
+[4595]
+Bueno… Es que hablamos de un monstruo gigantesco…
+
+[4596]
+¡Estoy seguro de que la criatura de Mayonnaise es el monstruo que vi!
+
+[4597]
+¡Vamos a investigarlo cuanto antes!
+
+[4598]
+No te emociones tanto.
+
+[4599]
+¡La que no debería estar tan tranquila eres tú, hermana!
+
+[4600]
+¡Ni lo soñé ni lo confundí con otra cosa!
+
+[4601]
+¡Vi un monstruo de verdad!
+
+[4602]
+Un monstruo gigante, ¿eh? ¡Qué pasada!
+
+[4603]
+Supongo que yo también creía en esas criaturas cuando era pequeño.
+
+[4604]
+Por cómo lo dices, parece que ya no crees en ellas.
+
+[4605]
+¡Pues claro que no!
+
+[4606]
+¡Si no ahuyentamos al monstruo, la ciudad correrá un grave peligro!
+
+[4607]
+¡Démonos prisa! ¡A Mayonnaise!
+
+[4608]
+Eso ya lo sé. Lo que quiero es que tengas un plan para cuando lo hayamos atraído hacia el monte Tart.
+
+[4609]
+Eso…
+
+[4610]
+Ya veremos cómo…
+
+[4611]
+¡¿Ven como sí había un monstruo de verdad?!
+
+[4612]
+¡Se lo dije! ¡No lo había soñado ni me había confundido!
+
+[4613]
+¡Que ahora no estamos para celebraciones!
+
+[4614]
+S-sí, pero…
+
+[4615]
+¡Nunca creí que de verdad existieran los monstruos gigantes!
+
+[4616]
+¡Y encima me toca enfrentarme a uno! ¡La vida no deja de sorprenderte!
+
+[4617]
+Ya lo creo.
+
+[4618]
+Pero ¿cómo conseguiremos atraerlo hasta el monte Tart…?
+
+[4619]
+Primero habrá que intentarlo.
+
+[4620]
+¡Seguro que se nos ocurre algo!
+
+[4621]
+Sigamos esa esfera de luz que voló hacia la iglesia.
+
+[4622]
+Parece estar muy relacionada con el alboroto causado por el monstruo.
+
+[4623]
+Entonces… ¿la causa de todo esto está en nuestra iglesia?
+
+[4624]
+Eso no lo sabremos hasta investigar.
+
+[4625]
+Por cierto… Ese tal Homard y sus compañeros…
+
+[4626]
+¿Quiénes eran en realidad?
+
+[4627]
+Se presentaron como la «Gran Banda de Piratas Aéreos del Escargot».
+
+[4628]
+Es raro que unos piratas del aire aparezcan para cazar monstruos, ¿no?
+
+[4629]
+Y pensar que intentó hacerle… e-eso a mi hermana…
+
+[4630]
+¡Solo de recordarlo me entran ganas de darle otro puñetazo!
+
+[4631]
+¡Menudo gancho le diste antes!
+
+[4632]
+¡Por intentar propasarse con una doncella pura e inocente como yo!
+
+[4633]
+Se lo tenía bien merecido.
+
+[4634]
+¿Será mejor que yo también tenga cuidado?
+
+[4635]
+¡¿Eh?!
+
+[4636]
+Como miembros del clero, no deberíamos asociarnos con piratas aéreos… Pero la vida de un niño está por encima de todo.
+
+[4637]
+¿Se llamaban la banda del Escargot?
+
+[4638]
+No parecen mala gente. ¿No crees que nos estamos preocupando demasiado?
+
+[4639]
+Tú deberías preocuparte un poco más por comportarte como corresponde a una religiosa.
+
+[4640]
+¡No me lo puedo creer! ¡Voy a volar en una nave! ¡Estoy emocionadísimo!
+
+[4641]
+Mira qué alboroto por una cosa así…
+
+[4642]
+Ay, Culotte… ¡Todavía es un crío!
+
+[4643]
+¡Pero si tú también gritabas «¡Qué alto, qué alto!» de la emoción, hermana!
+
+[4644]
+¡Ah! ¿De verdad hice eso…?
+
+[4645]
+Ese tal Homard es un tipo bastante interesante.
+
+[4646]
+Más que interesante, yo diría que es raro.
+
+[4647]
+¿De verdad tengo tan mala suerte con los hombres?
+
+[4648]
+¡Oye, que lo estás diciendo delante de mí!
+
+[4649]
+¡El motor del Escargot lleva un buen rato listo! ¡Vamos a Grand Champignon, por esa niña!
+
+[4650]
+¡Para ser un pirata del aire, te gusta mucho ayudar a los demás! ¡Qué tipo más raro!
+
+[4651]
+¡Y tú eres una monja capaz de soltar unos ganchos con una fuerza increíble! ¡Tampoco es muy normal!
+
+[4652]
+Rossini nos está esperando.
+
+[4653]
+Volvamos cuanto antes a la iglesia.
+
+[4654]
+Tienes razón.
+
+[4655]
+Vamos a darle el Kinoko Jiru.
+
+[4656]
+¡Menos mal que conseguimos el Kinoko Jiru!
+
+[4657]
+¡Ahora podremos salvar a Rossini!
+
+[4658]
+¡Y todo gracias a mi gran actuación!
+
+[4659]
+Ja, ja, ja…
+
+[4660]
+Ese Kinoko Jiru desprende un olor tremendo.
+
+[4661]
+Hasta a un adulto le costaría tomárselo.
+
+[4662]
+¡Será señal de que es una medicina muy potente!
+
+[4663]
+¡Me aseguraré de que se lo tome!
+
+[4664]
+¡Eso espero!
+
+[4665]
+No hace falta que nos den las gracias.
+
+[4666]
+¡Corran a llevarle el Kinoko Jiru a esa criatura!
+
+[4667]
+(Ahora que lo pienso… ¿Les he dado las gracias por llevarme hasta Grand Champignon…?)
+
+[4668]
+Como decía el padre Salade, últimamente están pasando demasiadas cosas.
+
+[4669]
+Es bastante inquietante…
+
+[4670]
+Como te preocupes tanto, te van a salir arruguitas.
+
+[4671]
+¡¿Arruguitas, dices?!
+
+[4672]
+Tengo que investigar a la criatura que apareció en el bosque de Meuniere.
+
+[4673]
+¡Voy a descubrir qué se esconde detrás de ese monstruo!
+
+[4674]
+Después de un monstruo gigante, ¡ahora un engendro!
+
+[4675]
+¡Esto promete ser divertido!
+
+[4676]
+¡Sea lo que sea, yo acabaré con él!
+
+[4677]
+¡Eh, eh!
+
+[4678]
+¡Déjame algo de diversión a mí también!
+
+[4679]
+Parece que no resolveremos nada hasta eliminar lo que está haciendo aparecer a esa criatura…
+
+[4680]
+En estos casos, lo importante es reunir información.
+
+[4681]
+Seguro que encontramos alguna pista.
+
+[4682]
+¿Qué demonios era ese monstruo hecho de pelo…?
+
+[4683]
+Alouette dijo que se trataba de un espíritu creado artificialmente, ¿verdad?
+
+[4684]
+¿Creado artificialmente? ¿Quién haría algo así y para qué…?
+
+[4685]
+No sabemos qué hizo aparecer al monstruo, pero tal vez podamos resolverlo si seguimos adelante.
+
+[4686]
+Dejo la decisión en manos de nuestra líder.
+
+[4687]
+¡Solo se acuerdan de que soy la líder cuando les conviene…!
+
+[4688]
+Deberíamos ir a ver al señor Barsom.
+
+[4689]
+Tiene que haber alguna relación entre lo que le pasó y este caso.
+
+[4690]
+¡Que de pronto le haya crecido tantísimo el pelo es de lo más sospechoso!
+
+[4691]
+«Si voy a salir con alguien, prefiero que sea guapo», ¿eh…?
+
+[4692]
+Supongo que todas piensan lo mismo…
+
+[4693]
+¡No todas somos así!
+
+[4694]
+Así que, Culotte, ¡asegúrate de encontrar una buena mujer!
+
+[4695]
+¡Como yo, por ejemplo!
+
+[4696]
+Eeeh…
+
+[4697]
+Un hombre al que le crece el pelo de golpe… y un monstruo hecho de pelo que aparece de la nada…
+
+[4698]
+¡Eso sí que es una pista importante!
+
+[4699]
+¡Y todo gracias a lo bien que hemos investigado!
+
+[4700]
+¡Qué buena investigadora soy!
+
+[4701]
+¡Nunca habría imaginado que la causa de este caso fuera un tónico para hacer crecer el pelo…!
+
+[4702]
+Hasta Alouette parece estar perdiendo la paciencia con este asunto.
+
+[4703]
+Entonces, ¿por qué no convencemos a todos de que lo resolvamos por la fuerza?
+
+[4704]
+Eso sería un poco cruel…
+
+[4705]
+¿No habrá alguna manera de conseguir que el señor Barsom renuncie a ese tónico…?
+
+[4706]
+Nadie se muere por ser calvo. ¿No sería más fácil quitárselo por la fuerza?
+
+[4707]
+¡Eso no estaría bien!
+
+[4708]
+¡Hermana, tú también eres monja! ¡Deberías pensar un poco más en los demás!
+
+[4709]
+¡Si ya estoy pensando en él!
+
+[4710]
+¡Pobre Barsom! Da pena el hombre.
+
+[4711]
+¿No habrá alguna forma de arreglar esto sin obligarlo a perder el pelo?
+
+[4712]
+¿A ti también te molestaría quedarte calvo, Croix?
+
+[4713]
+¡Pues claro!
+
+[4714]
+Aunque te quedaras calvo, seguirías siendo Croix.
+
+[4715]
+A mí no me importaría.
+
+[4716]
+…Eres un encanto.
+
+[4717]
+Ojalá pudiéramos pedirle a Suzanne que hablara con él, pero parece imposible.
+
+[4718]
+No queda otra. Tendremos que convencer nosotros mismos al señor Barsom.
+
+[4719]
+¡Ya lo entiendo!
+
+[4720]
+O sea, ¡que toca usar la fuerza!
+
+[4721]
+¡No has entendido nada!
+
+[4722]
+¡Qué mala suerte tiene ese tal Barsom!
+
+[4723]
+¡Lo digo de corazón!
+
+[4724]
+¡Aunque Barsom también tiene lo suyo!
+
+[4725]
+¡¿Cómo puede gustarle una mujer como esa?!
+
+[4726]
+Por su cara bonita, supongo.
+
+[4727]
+¡Vaya par de dos…!
+
+[4728]
+Para investigar Fátima, necesitamos permiso para consultar los archivos de la familia real.
+
+[4729]
+Vayamos al castillo de Cresson.
+
+[4730]
+¡Exacto! ¡Investigaremos a fondo y demostraremos que eso no fue ninguna revelación de la diosa!
+
+[4731]
+Prier…
+
+[4732]
+¡Alouette es increíble! ¡Pensar que recibió una revelación de la diosa!
+
+[4733]
+¡No fue una revelación! ¡Solo fue un sueño! ¡UN SUEÑO!
+
+[4734]
+¡La que va a convertirse en la Doncella de la Luz soy yo! ¡Que no se te olvide!
+
+[4735]
+No tengo ni idea de qué es Fátima, pero espero que nos dé pistas sobre el pasado de Alouette.
+
+[4736]
+S-sí, supongo…
+
+[4737]
+(¿Será que Croix sigue preocupado por Alouette…?)
+
+[4738]
+¡Quién iba a pensar que el Caballero Negro era la princesa Éclair!
+
+[4739]
+¡Para impedir que se convierta en demonio, tenemos que purificar la oscuridad que anida en su corazón!
+
+[4740]
+¡De acuerdo! Pero no te arriesgues demasiado.
+
+[4741]
+De nada servirá purificar la oscuridad de su corazón si tú acabas desplomándote. Eso tampoco haría feliz a Éclair.
+
+[4742]
+Tienes razón. Gracias, Prier.
+
+[4743]
+¡Alouette pretende entrar en el corazón de Éclair! ¡Es demasiado peligroso…!
+
+[4744]
+¿Estará bien de verdad…?
+
+[4745]
+Por Alouette, tenemos que purificar cuanto antes la oscuridad del corazón de Éclair.
+
+[4746]
+¡Sí!
+
+[4747]
+¡La oscuridad de su corazón creció tanto que llegó a manifestarse otra personalidad! La princesa ha debido de sufrir mucho…
+
+[4748]
+¿Qué pudo llevar a Éclair a semejante extremo?
+
+[4749]
+Si eliminamos esa causa, ¿volverá Éclair a ser la de antes?
+
+[4750]
+Quién sabe.
+
+[4751]
+Nosotros solo podemos hacer lo que esté en nuestras manos…
+
+[4752]
+Ya tenemos permiso para consultar los archivos reales. ¡Reanudemos nuestra investigación sobre Fátima!
+
+[4753]
+¡Eso es!
+
+[4754]
+…Aunque, ahora que me he animado tanto, resulta que solo vamos a buscar entre libros, ¿no?
+
+[4755]
+Pues claro. Por algo vamos a los archivos.
+
+[4756]
+Ya…
+
+[4757]
+¡Qué pereza!
+
+[4758]
+¡Prier!
+
+[4759]
+Derrotamos al Caballero Negro, pero ¿se habrá recuperado Éclair de verdad?
+
+[4760]
+¡Seguro que sí!
+
+[4761]
+Con unos días de descanso se olvidará de todo lo que la preocupaba.
+
+[4762]
+No todo el mundo es como tú, hermana…
+
+[4763]
+¡¿QUÉ HAS DICHO?!
+
+[4764]
+Los archivos reales, ¿eh?
+
+[4765]
+Seguro que hay montones de libros.
+
+[4766]
+¡Tenemos mucho que investigar!
+
+[4767]
+¡P-pero qué dices, Croix!
+
+[4768]
+¡Eso suena a algo que diría un ratón de biblioteca! ¡No va contigo!
+
+[4769]
+¡O-oye! ¡Yo también leo libros!
+
+[4770]
+¡No me compares contigo!
+
+[4771]
+¿De verdad habrá piedras preciosas en el monte Tart…?
+
+[4772]
+Si no las hay, ¡ese tal Hermes se va a enterar!
+
+[4773]
+En ese caso, ¿por qué no sacarle la información por la fuerza desde el principio…?
+
+[4774]
+Es broma, claro.
+
+[4775]
+Por un momento parecía que lo decías muy en serio…
+
+[4776]
+B-bueno, ¡vayamos al monte Tart!
+
+[4777]
+Si conseguimos las gemas, podremos saber más de Fátima. ¡Qué bien!
+
+[4778]
+Conoce la historia de Fátima, pero no recuerda nada de sí mismo… ¡No sé si fiarme!
+
+[4779]
+Dicen que lleva allí miles de años. No me extraña que no recuerde su pasado.
+
+[4780]
+¡Mira que ser un mediador tan engreído y exigir gemas a cambio de información!
+
+[4781]
+Dice que es un ser a medio camino entre una diosa y un ángel caído… Pues parece bastante mundano.
+
+[4782]
+Aunque quizá precisamente por pedir algo a cambio resulte más digno de confianza…
+
+[4783]
+Ahora que tenemos las gemas, vayamos a los archivos reales.
+
+[4784]
+¡Voy a sacarle toda la información posible sobre Fátima!
+
+[4785]
+Al final sí que encontramos gemas en el monte Tart.
+
+[4786]
+Parece que sí podemos confiar en Hermes, el mediador.
+
+[4787]
+No estaría tan segura.
+
+[4788]
+Hasta que nos cuente lo de Fátima, mejor no bajar la guardia.
+
+[4789]
+El espíritu aventurero de los hombres, ¿eh…?
+
+[4790]
+Je, je, je… ¡Ese Homard es todo un personaje!
+
+[4791]
+¿Un personaje…?
+
+[4792]
+A mí se me escapa por completo lo que quiere decir.
+
+[4793]
+En cierto modo, los hombres son más inocentes que las mujeres.
+
+[4794]
+¡Pues sigo sin entenderlo!
+
+[4795]
+¡Fátima, una tierra envuelta en un velo de misterio!
+
+[4796]
+¡Solo de imaginar las aventuras que nos aguardan, se me enciende la sangre!
+
+[4797]
+¿D-de verdad piensas venir con nosotros…?
+
+[4798]
+Prier.
+
+[4799]
+También deberías pararle los pies a Culotte cuando diga alguna tontería, ¿sabes?
+
+[4800]
+¿De qué hablas?
+
+[4801]
+(La rara eres tú, hermana…)
+
+[4802]
+Yo soy yo…
+
+[4803]
+…Supongo.
+
+[4804]
+Dicen que hay una cueva oculta en algún lugar de la selva que conduce a Fátima.
+
+[4805]
+Empecemos por encontrarla.
+
+[4806]
+Vale, pero Alouette, no hagas ninguna locura, ¿eh?
+
+[4807]
+Gracias, Prier.
+
+[4808]
+Ya es difícil avanzar por la selva. ¿Estará bien Alouette…?
+
+[4809]
+Tendremos que vigilarla para que no se esfuerce demasiado.
+
+[4810]
+Fátima, un reino destruido en una sola noche…
+
+[4811]
+¿Qué clase de lugar nos encontraremos al llegar?
+
+[4812]
+No parece un sitio muy agradable…
+
+[4813]
+Como miembro de la familia real, he recibido una educación muy completa.
+
+[4814]
+¡No seré una carga para nadie!
+
+[4815]
+¡Eso me gusta oír! Cuento contigo.
+
+[4816]
+Yattanya y los demás se encargarán. No hay de qué preocuparse.
+
+[4817]
+¡Nosotros sigamos adelante!
+
+[4818]
+¡Qué gatos tan fiables!
+
+[4819]
+Esos no son simples gatos…
+
+[4820]
+¡Son hombres de verdad!
+
+[4821]
+(¿Quiere decir que son machos?)
+
+[4822]
+Espero que esas ruinas realmente conduzcan a Fátima…
+
+[4823]
+Aunque es Homard quien lo dice…
+
+[4824]
+Eso me inquieta un poco.
+
+[4825]
+Si esas ruinas pertenecieron de verdad a los habitantes de Fátima, ¿cómo pudo desaparecer su país en una sola noche…?
+
+[4826]
+Hay tantas cosas que todavía no sabemos…
+
+[4827]
+¡Ya me está dando pereza pensarlo!
+
+[4828]
+Ay, hermana…
+
+[4829]
+Confiar en la experiencia y la intuición, ¿eh?
+
+[4830]
+Ese capitán parece haber salido vivo de mil batallas…
+
+[4831]
+Croix, ¿tú te fías de su intuición?
+
+[4832]
+No diría que confío plenamente en él, pero sí que vale la pena jugársela.
+
+[4833]
+Creo que te entiendo… aunque tampoco del todo.
+
+[4834]
+Ya veremos hasta qué punto son fiables su experiencia y su intuición.
+
+[4835]
+¿Q-qué te ocurre, Éclair?
+
+[4836]
+¿Ha ocurrido algo entre Homard y tú?
+
+[4837]
+¡No ha pasado absolutamente nada!
+
+[4838]
+¡Esas ruinas tienen que conducir a Fátima!
+
+[4839]
+¡Confíen en mi experiencia y mi intuición!
+
+[4840]
+¿De dónde saca tanta seguridad…?
+
+[4841]
+Ojalá en esta aldea descubra qué significaba el sueño que tuve sobre la diosa…
+
+[4842]
+¡Después de llegar hasta aquí, seguro que encontramos alguna respuesta!
+
+[4843]
+Sí. Eso quiero creer.
+
+[4844]
+¿Qué quería decirnos la diosa al guiarnos hasta un lugar como este?
+
+[4845]
+¡Que no! ¡El sueño de Alouette tiene que ver con sus recuerdos perdidos, no con ninguna revelación divina!
+
+[4846]
+Sí, sí… Ya te hemos oído.
+
+[4847]
+¿Conozco esta aldea…?
+
+[4848]
+¿Habré estado aquí antes de perder la memoria…?
+
+[4849]
+Siento que estoy a punto de recordar algo, pero…
+
+[4850]
+¿Qué te ocurre, Croix?
+
+[4851]
+¿Seguro que estás bien?
+
+[4852]
+S-sí. No pasa nada.
+
+[4853]
+Tal vez las raíces de Paprica estén en esta aldea.
+
+[4854]
+Es fascinante.
+
+[4855]
+A mí me interesa más probar las especialidades de la cocina local.
+
+[4856]
+¡Por fin podremos dormir bajo un techo como es debido!
+
+[4857]
+¡Pues qué bien!
+
+[4858]
+¡Ah, poder dormir en un futón de verdad… Qué maravilla!
+
+[4859]
+¿Y qué me dices de compartir futón conmigo esta noche?
+
+[4860]
+¿Otra vez quieres que te parta la cara?
+
+[4861]
+Parece que ya no queda nada por investigar aquí.
+
+[4862]
+Busquemos en alguna ciudad cercana.
+
+[4863]
+¡Por mí, perfecto!
+
+[4864]
+Alouette…
+
+[4865]
+¡Yo… Yo protegeré a Alouette, pase lo que pase!
+
+[4866]
+¿Qué te pasa, Culotte?
+
+[4867]
+¿Por qué te pones así?
+
+[4868]
+¡N-no me he puesto de ninguna manera…!
+
+[4869]
+¡Venga, Croix!
+
+[4870]
+¡Aún tenemos mucho que investigar sobre Fátima! ¡Ánimo!
+
+[4871]
+Ah… Tienes razón.
+
+[4872]
+¡Me alegro muchísimo de que hayamos podido liberar a los aldeanos de los demonios!
+
+[4873]
+¡Sabía que podías hacerlo, hermana!
+
+[4874]
+¿T-tú crees?
+
+[4875]
+Me da un poco de vergüenza que me felicites tan directamente…
+
+[4876]
+Oye, una cosa… ¿Estás seguro de que ese tal Croix está bien?
+
+[4877]
+¡¿Qué estás diciendo?!
+
+[4878]
+¡Claro que está bien!
+
+[4879]
+Uf… Está bien, ya veo.
+
+[4880]
+Perdona por hacer una pregunta tan extraña.
+
+[4881]
+Ya no tenemos nada que hacer aquí…
+
+[4882]
+Sí… Vámonos.
+
+[4883]
+¡Sigamos esforzándonos juntos!
+
+[4884]
+Sí, tienes razón…
+
+[4885]
+Por nuestra culpa, la aldea ha acabado así…
+
+[4886]
+Qué desgracia… hermana…
+
+[4887]
+Sí…
+
+[4888]
+Es triste y frustrante, pero tenemos que seguir adelante…
+
+[4889]
+Sí, hermana…
+
+[4890]
+Parece que hay algo oculto en la colina de la que habló aquel niño…
+
+[4891]
+Investiguémosla.
+
+[4892]
+La verdad que esconde esa nieve que nunca cesa, ¿eh…?
+
+[4893]
+Las almas de los habitantes están atrapadas por una poderosa corriente de energía oscura…
+
+[4894]
+Ojalá pudiéramos ayudarlos…
+
+[4895]
+Si encontramos el origen de esa corriente de energía oscura, quizá podamos liberarlos…
+
+[4896]
+La colina… es el lugar donde nació el Príncipe de las Tinieblas…
+
+[4897]
+Croix…
+
+[4898]
+¿Qué es lo que yo sé…?
+
+[4899]
+No solo destruyó la ciudad al nacer, sino que además dejó atadas las almas de sus habitantes…
+
+[4900]
+El Príncipe de las Tinieblas es un ser aterrador…
+
+[4901]
+¡Hacer que nieve incluso en el desierto! ¡Menudo poder tiene esa corriente de energía oscura!
+
+[4902]
+Una fuerza oscura extraordinaria debe de dominar estas tierras…
+
+[4903]
+Diosa Poiturine…
+
+[4904]
+¿Acaso fuiste tú quien nos condujo al mundo del pasado para…?
+
+[4905]
+¿Qué ocurre, Alouette?
+
+[4906]
+Tienes una cara muy seria…
+
+[4907]
+No, no es nada.
+
+[4908]
+Vayamos a casa de Angélica.
+
+[4909]
+¡Menuda sorpresa! ¡Croix estuvo prometido con una mujer que se parece muchísimo a ti, hermana!
+
+[4910]
+¿P-prometido…?
+
+[4911]
+¿Estás bien, hermana?
+
+[4912]
+¡Se ha quedado paralizada otra vez!
+
+[4913]
+Parece que yo pertenecía a esta época…
+
+[4914]
+Pero ¿qué fue lo que me ocurrió aquí…?
+
+[4915]
+¡S-si llegaron a prometerse, seguro que pasaron muchas cosas juntos! ¡Muchas cosas…!
+
+[4916]
+¡¿P-por qué te alteras tanto?!
+
+[4917]
+Angélica parece una persona muy bondadosa, ¿verdad?
+
+[4918]
+En eso también se parece mucho a usted, hermana.
+
+[4919]
+¿E-en serio?
+
+[4920]
+¡No creo que sea para tanto!
+
+[4921]
+¡Más bien yo soy…!
+
+[4922]
+¿Qué le ocurre, hermana?
+
+[4923]
+¡Tranquilícese, por favor!
+
+[4924]
+¡Una aventura que nos ha llevado hasta el pasado! ¡Digna del mismísimo capitán Homard!
+
+[4925]
+Diría que tú llegaste al pasado de rebote, siguiendo a los demás.
+
+[4926]
+¡¿Pero qué dices?!
+
+[4927]
+Descubrir el secreto del nacimiento del Príncipe de las Tinieblas…
+
+[4928]
+Quizá esa sea la voluntad de la diosa Poiturine…
+

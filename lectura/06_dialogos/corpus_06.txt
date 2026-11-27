@@ -1,0 +1,2916 @@
+LA PUCELLE — 06_dialogos — CORPUS 06
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat ===
+
+[5929]
+¡Bah!
+
+[5930]
+¡No me hagas reír!
+
+[5931]
+¿Conoces a ese chico?
+
+[5932]
+¡Soy su hermana!
+
+[5933]
+Ya veo.
+
+[5934]
+Entonces, si me lo permiten, les echaré una mano.
+
+[5935]
+Pero la recompensa se reparte así: el 70% es para mí.
+
+[5936]
+A ustedes les toca el 30%.
+
+[5937]
+¡Me da igual la recompensa! ¡Tenemos que salvar a Culotte!
+
+[5938]
+Aunque no lo parezca, me tomo los negocios muy en serio.
+
+[5939]
+Tenemos que…
+
+[5940]
+Señorita…
+
+[5941]
+Es la primera vez que nos vemos, ¿verdad?
+
+[5942]
+Sí… ¿Y qué?
+
+[5943]
+No, olvídalo.
+
+[5944]
+Vamos a ocuparnos de ese demonio.
+
+[5945]
+¡Croix se ha unido a tu equipo!
+
+[5946]
+¡Devuélvemelo!
+
+[5947]
+¡Devuélveme a Culotte!
+
+[5948]
+Mi pequeña…
+
+[5949]
+No habrás olvidado la cara de tu padre, ¿verdad?
+
+[5950]
+¡Serás…!
+
+[5951]
+¡Eres capaz de cualquier bajeza!
+
+[5952]
+¡Espere, señorita!
+
+[5953]
+¡Eso no es…!
+
+[5954]
+¡Hermana Prier!
+
+[5955]
+Muy bien, Prier…
+
+[5956]
+¿Es que eres idiota?
+
+[5957]
+¿Crees que vamos a volver a caer en el mismo truco?
+
+[5958]
+¡Mamá y papá murieron hace siete años!
+
+[5959]
+¡Los muertos no vuelven a la vida!
+
+[5960]
+Es triste…
+
+[5961]
+¡Pero no vuelven!
+
+[5962]
+¡Puede que hayas engañado a los demás, pero a mí no me engañas!
+
+[5963]
+Al fin y al cabo…
+
+[5964]
+¡Se lo prometí a mamá y a papá!
+
+[5965]
+¡Les prometí que sería fuerte!
+
+[5966]
+¿¡Volver a la vida…!?
+
+[5967]
+¡Cállate!
+
+[5968]
+¡Cállate! ¡Cállate!
+
+[5969]
+¡¿Cómo te atreves a decir algo así?!
+
+[5970]
+Mi amada Palmier…
+
+[5971]
+¿Por qué te fuiste y me dejaste solo?
+
+[5972]
+Pero no estoy triste.
+
+[5973]
+Porque sé que pronto volverás a mí.
+
+[5974]
+El año pasado desapareció un hombre que dejó tras de sí ese poema.
+
+[5975]
+Se llamaba Alan.
+
+[5976]
+Y su esposa se llamaba Palmier.
+
+[5977]
+Ay… mi Palmier…
+
+[5978]
+Purifica el alma de este pobre hombre y líbrala de sus pecados…
+
+[5979]
+¿¡Yo!?
+
+[5980]
+¡Doncella de la Luz!
+
+[5981]
+¡Reduce sus pecados a cenizas con las llamas de tu juicio!
+
+[5982]
+Esto… ¿Prier?
+
+[5983]
+Me estás ahogando.
+
+[5984]
+¿Por qué hiciste eso?
+
+[5985]
+¡No puedes irte por ahí tú solo!
+
+[5986]
+Perdón por preocuparte.
+
+[5987]
+Creo que será mejor que me limite a cargar con el equipaje.
+
+[5988]
+Culotte quería que entendieras que ya se está haciendo mayor.
+
+[5989]
+Quería que comprendieras que ya puede valerse por sí mismo.
+
+[5990]
+Y que no tiene por qué ser siempre una carga para ti.
+
+[5991]
+¿Es verdad, Culotte?
+
+[5992]
+Siempre me has protegido, desde que era pequeño.
+
+[5993]
+Pero esto no puede seguir así para siempre…
+
+[5994]
+Por eso quise hacer algo por mi cuenta.
+
+[5995]
+¡No digas tonterías!
+
+[5996]
+Tonterías…
+
+[5997]
+¡Soy tu hermana mayor!
+
+[5998]
+¡Para ti soy casi como una madre!
+
+[5999]
+¡No tienes por qué preocuparte de esas cosas!
+
+[6000]
+Perdonen que me entrometa, pero…
+
+[6001]
+No entiendes a los hombres, ¿verdad?
+
+[6002]
+Yo soy hombre y sé lo que está pasando ese chaval.
+
+[6003]
+Quiere demostrarte que ya se está haciendo mayor.
+
+[6004]
+No puede seguir pegado a tus faldas toda la vida.
+
+[6005]
+Para ti siempre será tu hermanito.
+
+[6006]
+Pero un hombre necesita sentirse independiente.
+
+[6007]
+¿No crees que ya va siendo hora de que lo entiendas?
+
+[6008]
+Ya soy un hombre.
+
+[6009]
+¡Quiero protegerte A TI!
+
+[6010]
+¡Y también quiero proteger a la hermana Alouette!
+
+[6011]
+(Y yo que creía conocerlo mejor que nadie…)
+
+[6012]
+(Pero estaba equivocada.
+
+[6013]
+Culotte se ha hecho todo un hombre y yo ni me había dado cuenta.)
+
+[6014]
+(Supongo que quería que siguiera siendo un niño para siempre…)
+
+[6015]
+(Quizá no soportaba la idea de que se fuera y me dejara sola…)
+
+[6016]
+(Parece que la infantil era yo…)
+
+[6017]
+¿Sí?
+
+[6018]
+Perdona por lo que te he dicho.
+
+[6019]
+Está bien.
+
+[6020]
+No volveré a tratarte como si fuera tu madre.
+
+[6021]
+… Está bien.
+
+[6022]
+Cuando crezcamos, tarde o temprano cada uno tendrá que seguir su camino.
+
+[6023]
+Pero, de momento…
+
+[6024]
+Quiero seguir a tu lado.
+
+[6025]
+Quiero protegerte.
+
+[6026]
+¿No crees que la Diosa nos lo permitiría?
+
+[6027]
+Sí, estoy segura de que sí.
+
+[6028]
+Así que…
+
+[6029]
+De momento seguiré mandando yo.
+
+[6030]
+Je, je… ¡Menudo par de hermanos!
+
+[6031]
+Desde luego.
+
+[6032]
+(Pero, a decir verdad…)
+
+[6033]
+(Me dan un poco de envidia…)
+
+[6034]
+(Yo no tengo familia… Ni siquiera un pasado al que llamar mío…)
+
+[6035]
+¿Por qué te fuiste y me dejaste tan solo?
+
+[6036]
+Ese poema…
+
+[6037]
+Era el mensaje que aparecía en las escenas de los crímenes.
+
+[6038]
+Palmier…
+
+[6039]
+Era tan hermosa…
+
+[6111]
+¡No dejo de pensar qué habría pasado si hubiéramos llegado antes!
+
+[6112]
+Eso solo lo sabe la Diosa.
+
+[6113]
+Nada de lo que hagamos ahora podrá devolverla a la vida.
+
+[6114]
+Solo podemos procurar que no haya muerto en vano.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk03_jp.dat ===
+
+[6115]
+A mí esos tipos de la Iglesia de la Madre Divina no me gustan nada.
+
+[6116]
+No me gustan esos tipos de la Iglesia de la Divina Madre. Con esas capuchas en pleno día, está claro que no traman nada bueno.
+
+[6117]
+Me pregunto qué idioma hablará la diosa Poitreene.
+
+[6118]
+¡Quiero aprenderlo para poder hablar con ella!
+
+[6119]
+Creo que la cosa no es tan sencilla como aprender un idioma…
+
+[6120]
+He oído rumores sobre el Señor del Bosque de Meuniere.
+
+[6121]
+Dicen que es mejor no despertar a los monstruos dormidos…
+
+[6122]
+Será mejor que lo dejes tranquilo.
+
+[6123]
+¡Oh!
+
+[6124]
+¡Tiene una pinta deliciosa!
+
+[6125]
+¿A ti también te lo parece?
+
+[6126]
+Creo que tú y yo nos vamos a llevar muy bien…
+
+[6127]
+Sí, sí, ya lo sé.
+
+[6128]
+¡Una hermana al servicio de la Diosa no debe pensar esas cosas!
+
+[6129]
+Eso es lo que ibas a decir, ¿verdad?
+
+[6130]
+Ya lo sé.
+
+[6131]
+¿Quién es esa Madre Divina de la que habla su Iglesia?
+
+[6132]
+¿Será la diosa Poitreene?
+
+[6133]
+¡La Iglesia de la Madre Divina vende unos productos buenísimos!
+
+[6134]
+Me he comprado una crema llamada «Piel eternamente joven».
+
+[6135]
+Eso tiene toda la pinta de ser una estafa.
+
+[6136]
+Ugh... Estoy harta de lavar la ropa interior de mi marido. ¡Oye, qué guapo eres! ¡La tuya sí que la lavaría encantada cuando quisieras!
+
+[6137]
+¡Oye, qué guapo eres!
+
+[6138]
+¡Me encantaría lavarte la ropa interior cuando quieras!
+
+[6139]
+¡Ah, pues estupendo!
+
+[6140]
+¡Ni se te ocurra quitártelos!
+
+[6141]
+… ¡De verdad!
+
+[6142]
+¡¿Por qué tengo que aguantar a tantos bárbaros?!
+
+[6143]
+Dios los cría y ellos se juntan, Prier…
+
+[6144]
+Quizá yo también me haga hermana.
+
+[6145]
+Quizá yo también me haga monja. ¡Solo para estar más cerca del padre Salade!
+
+[6146]
+¡Me chifla el chocolate!
+
+[6147]
+¡No me imagino la vida sin él!
+
+[6148]
+Gracias por ayudarme antes.
+
+[6149]
+Gracias por ayudarme antes. Si no hubieras aparecido, quizá ya estaría en el cielo. Te lo agradezco de corazón.
+
+[6150]
+De cara al público, la Iglesia de la Santa Doncella difunde las enseñanzas de la diosa. Pero, en secreto, los miembros de La Pucelle luchan contra demonios y fantasmas.
+
+[6151]
+De cara al público, la Iglesia de la Santa Doncella difunde las enseñanzas de la diosa. Pero, en secreto, los miembros de La Pucelle luchan contra demonios y fantasmas.
+
+[6152]
+Hola, hermana Prier.
+
+[6153]
+Luchar contra demonios está muy bien, pero no olvides nuestra verdadera misión.
+
+[6154]
+Incluso a mi edad, la muerte da miedo. Supongo que por eso la gente reza a la diosa.
+
+[6155]
+El padre Salade vino a comer fideos el otro día... ¡Y se zampó 50 cuencos! ¿Dónde le cabe todo eso?
+
+[6156]
+¡No me molestes! ¡Estoy saboreando esta exquisitez!
+
+[6157]
+Si rellenas una encuesta después de comprar aquí, nuestro surtido cambiará.
+
+[6158]
+Hacemos todo lo posible por atender los deseos de nuestros clientes. Ese es el lema de la tienda Rosenqueen.
+
+[6159]
+¿Mi marido está trabajando mucho?
+
+[6160]
+A veces me inquieta que pase el día rodeado de hermanas jóvenes y guapas…
+
+[6161]
+¡Ja, ja, ja!
+
+[6162]
+¡Ja, ja, ja! ¡No tienes de qué preocuparte! El padre Salade es un hombre piadoso y devoto.
+
+[6163]
+El padre Salade es un hombre piadoso y entregado a su vocación.
+
+[6164]
+¿De verdad?
+
+[6165]
+¡La larga investigación de la Agencia de Detectives Camembert por fin ha dado sus frutos!
+
+[6166]
+¡Hemos descubierto que los de la Madre Divina son unos tipos de lo más siniestros!
+
+[6167]
+No deberías matar al Señor del Bosque. ¿Sabes por qué?
+
+[6168]
+… Se me ha olvidado.
+
+[6169]
+Yo no quería unirme a su tonta agencia de detectives. ¡Quería jugar a las casitas!
+
+[6170]
+No te olvides de los paneles luminosos que hay en los mapas de cada zona.
+
+[6171]
+Si te colocas encima, ocurrirá algo…
+
+[6172]
+He oído que han salido más zombis de la Panza del Diablo.
+
+[6173]
+¿No se habían encargado ustedes ya de ellos…?
+
+[6174]
+A veces, ni siquiera yo comprendo los designios de Poitreene…
+
+[6175]
+Por lo visto, el monstruo que los atacó es muy violento.
+
+[6176]
+Creo que tendrás que volver a investigar el bosque de Meuniere.
+
+[6177]
+Mi hijo Rocini está demasiado enfermo para salir a jugar.
+
+[6178]
+Dibuja monstruos porque quiere llegar a ser tan fuerte como ellos.
+
+[6179]
+Y por eso decidió construir esta enfermería.
+
+[6180]
+No es fácil conseguir Kinoko Jiru. Ten cuidado.
+
+[6181]
+Esa gente parece ocultar algo. Ten cuidado.
+
+[6182]
+No vi nada.
+
+[6183]
+Jamás se me ocurriría contarle a nadie que el padre Salade golpeó a esos pacientes…
+
+[6184]
+¡S-solo estábamos dando un paseo!
+
+[6185]
+¡Maldito padre Salade!
+
+[6186]
+¡Es mucho más peligroso que el Señor del Bosque!
+
+[6187]
+¡No sabíamos que el Señor del Bosque era un monstruo tan enorme!
+
+[6188]
+¡Maldita sea! ¡Nos han engañado los de la Iglesia de la Madre Divina!
+
+[6189]
+¡Cuando sea mayor, yo también quiero unirme a La Pucelle!
+
+[6190]
+¡Claro!
+
+[6191]
+Tú puedes hacerlo.
+
+[6192]
+¡Te ayudaremos!
+
+[6193]
+¡Bienvenidos, eri!
+
+[6194]
+Hay valles de Eringa por todo el mundo.
+
+[6195]
+Creo que también hay uno en un lugar llamado Marl, o algo así…
+
+[6196]
+Valle de Eringa.
+
+[6197]
+¿¡Eri!?
+
+[6198]
+¡Es un monstruo!
+
+[6199]
+¡Qué falta de educación!
+
+[6200]
+¿¡Un monstruo!?
+
+[6201]
+Hacía muchos años que no venía ningún humano a este valle.
+
+[6202]
+Soy Ellie XVI, y estoy al frente de este valle.
+
+[6203]
+Puede que algunos nunca hayamos visto a un humano. Disculpen nuestra curiosidad.
+
+[6204]
+¡Qué hongo tan educado!
+
+[6205]
+Hay gente que debería aprender de él…
+
+[6206]
+No podemos hacer esperar a la reina.
+
+[6207]
+Tenemos que apresurarnos hacia el castillo de Cresson.
+
+[6208]
+La reina, ¿eh…?
+
+[6209]
+Pues a mí no me parece ninguna reina…
+
+[6210]
+¿De verdad podemos confiar en ese tal Croix?
+
+[6211]
+Te salvó la vida. ¿Qué pasará si empiezas a desconfiar? — Bueno, tienes razón…
+
+[6212]
+Vaya, debéis de ser importantes si rendís cuentas directamente a la reina.
+
+[6213]
+Qué va, no somos nada del otro mundo.
+
+[6214]
+Es que andamos escasos de personal.
+
+[6215]
+Ya hemos terminado nuestros asuntos con la reina. ¿Volvemos a la iglesia?
+
+[6216]
+¡En serio! ¡Basta ya de sermones!
+
+[6217]
+Éclair parece desanimada.
+
+[6218]
+¿Le habrá pasado algo?
+
+[6219]
+Decía que, aparte de estudiar y entrenar, tenía muchas otras cosas que hacer.
+
+[6220]
+Con tantas obligaciones, cualquiera acabaría agotado.
+
+[6221]
+Sí, tienes razón…
+
+[6222]
+Debe de ser duro ser reina…
+
+[6223]
+Quién diría que Prier es amiga de la reina... Vaya sorpresa. Las apariencias engañan, ¿eh?
+
+[6224]
+Las apariencias engañan, ¿eh?
+
+[6225]
+¿De qué estáis hablando? ¡Voy a ser la Doncella de la Luz!
+
+[6226]
+¿Acaso no se nota con solo mirarme?
+
+[6227]
+No cabe duda.
+
+[6228]
+¡No dejaremos impunes a los monstruos que atacan a los fieles de la Iglesia de la Santa Doncella!
+
+[6229]
+Los de la Iglesia lo tienen difícil, ¿eh?
+
+[6230]
+Les toca seguir trabajando aun sabiendo que podrían atacarlos los monstruos.
+
+[6231]
+¿De verdad los atacaron unos monstruos mientras daban un paseo?
+
+[6232]
+Quizá Prier tuviera razón antes.
+
+[6233]
+¡Hay que investigarlo todo a fondo para saber qué ocurrió realmente!
+
+[6234]
+¡Así es!
+
+[6235]
+¡Toda investigación empieza por reunir información!
+
+[6236]
+¡Tenemos que buscar pistas!
+
+[6237]
+Nos contrataron para cazar demonios, pero no hacemos más que informar a la reina y acabar con monstruos.
+
+[6238]
+¡Vaya aburrimiento!
+
+[6239]
+Bueno, sí… Pero si lo dices así, Alouette se enfadará.
+
+[6240]
+Ya.
+
+[6241]
+Somos nuevos en esto; mejor hacer lo que nos manden.
+
+[6242]
+¡Tenemos que ir al bosque cuanto antes! No permitiré que maten al Señor del Bosque.
+
+[6243]
+¡Hay que darse prisa y llegar al bosque! Ese monstruo es peligroso.
+
+[6244]
+Hay maleantes en el bosque.
+
+[6245]
+¿Qué hacemos?
+
+[6246]
+Ha sido un error que vinieran aquí esos cazadores.
+
+[6247]
+Esos cazadores merecen un castigo por lo que han hecho.
+
+[6248]
+Escuchadme bien, hijos míos. Debemos aprender a aceptar el sufrimiento.
+
+[6249]
+Vivir es sufrir.
+
+[6250]
+Pero los seres humanos son débiles…
+
+[6251]
+Todos ansiamos escapar del sufrimiento.
+
+[6252]
+Las pérdidas, los reveses, los fracasos, la muerte de nuestros seres queridos…
+
+[6253]
+Todo eso forma parte de la vida.
+
+[6254]
+Debemos aprender a aceptarlo y a dar gracias por ello.
+
+[6255]
+En momentos así, solo la Madre Divina puede darnos fuerza y consuelo.
+
+[6256]
+Ella habita siempre en el corazón de cada uno de nosotros.
+
+[6257]
+Todos…
+
+[6258]
+Cerrad los ojos…
+
+[6259]
+Y rezad a la Madre Divina.
+
+[6260]
+Seguro que aliviará vuestro sufrimiento.
+
+[6261]
+Bah…
+
+[6262]
+¡Menuda sarta de tonterías! ¡Los humanos son como borregos!
+
+[6263]
+Vuestro apóstol Alan ha caído a manos de La Pucelle, de la Iglesia de la Santa Doncella.
+
+[6264]
+¿Alan?
+
+[6265]
+Nos vendió su alma a cambio de una oportunidad de resucitar a su difunta esposa.
+
+[6266]
+Con el cuerpo que le dimos, masacró a muchos humanos en Pot-au-Feu.
+
+[6267]
+Gracias a él, la energía oscura de allí ha aumentado casi un cuatro por ciento.
+
+[6268]
+Ah, sí… Ya me acuerdo. Olvídate de él.
+
+[6269]
+Nunca fue uno de los nuestros.
+
+[6270]
+No era digno de entrar en nuestra utopía divina.
+
+[6271]
+Esos justicieros nos han ahorrado el trabajo de deshacernos de él nosotros mismos.
+
+[6272]
+Madre…
+
+[6273]
+Así que la Iglesia de la Madre Divina estaba detrás de los asesinatos.
+
+[6274]
+¡Y pensar que están confabulados con demonios…!
+
+[6275]
+¡Cuesta creerlo!
+
+[6276]
+¡Reunamos a todos y démosles su merecido!
+
+[6277]
+Tranquilízate.
+
+[6278]
+La situación no es tan sencilla como crees.
+
+[6279]
+La hermana Alouette tiene razón.
+
+[6280]
+¿Qué quieres decir?
+
+[6281]
+Escucha, Prier…
+
+[6282]
+Casi siete de cada diez habitantes del reino de Paprica pertenecen a la Iglesia de la Madre Divina. ¿Crees que podemos enfrentarnos abiertamente a una organización tan poderosa?
+
+[6283]
+Podríamos provocar la caída de nuestra Iglesia y del propio reino de Paprica.
+
+[6284]
+Puede que eso sea precisamente lo que llevan planeando desde el principio.
+
+[6285]
+En cualquier caso, ahora debemos concentrarnos en nuestra tarea.
+
+[6286]
+¡Hola a todos!
+
+[6287]
+¿Me he perdido algo?
+
+[6288]
+¡¿Y tú quién eres?!
+
+[6289]
+Ah, sí. Padre, permítame presentárselo.
+
+[6290]
+Se llama Croix.
+
+[6291]
+Es un cazador de demonios independiente. Nos ayudó a resolver nuestro último caso.
+
+[6292]
+También le salvó la vida a Culotte, ¿verdad?
+
+[6293]
+¡No exageres!
+
+[6294]
+No fue nada.
+
+[6295]
+Parece que el destino me ha puesto en vuestro camino. ¿Qué tal si me dais trabajo?
+
+[6296]
+No puedo volver ahora a la Iglesia de la Madre Divina.
+
+[6297]
+Además, soy bastante bueno cazando demonios. Cobro 2000 prica al mes, más alojamiento y comida.
+
+[6298]
+¿Qué me decís?
+
+[6299]
+¿Hermana Alouette?
+
+[6300]
+Por lo que veo, es un cazador de demonios extraordinario. Creo que nos sería útil.
+
+[6301]
+Ya… veo…
+
+[6302]
+…Muy bien. Confiaré en el criterio de la hermana Alouette.
+
+[6303]
+¡Genial!
+
+[6304]
+No os fallaré.
+
+[6305]
+(¡Le está cogiendo la mano a la hermana Alouette!)
+
+[6306]
+(¿No se habrá unido solo para acercarse a ella?)
+
+[6307]
+(¡Habrá que vigilarlo muy de cerca!)
+
+[6308]
+¡Me alegro de que estés con nosotros!
+
+[6309]
+Entonces, padre… ¿Qué tenemos que hacer hoy?
+
+[6310]
+Ah, sí, claro…
+
+[6311]
+Casi se me olvida…
+
+[6312]
+Tenéis que ir al castillo de Cresson e informar a la reina de que hemos resuelto los asesinatos. — ¡Uf!
+
+[6313]
+Diosa Poitreene, dime…
+
+[6314]
+¿Forma esto parte de tus planes…?
+
+[6315]
+¿Por qué tenemos que ir a ver a la reina…?
+
+[6316]
+Todo el mundo aquí es tan estirado, con tanta ceremonia…
+
+[6317]
+Jamás imaginé que mi primer trabajo consistiría en conocer a la reina.
+
+[6318]
+¿Y si fuera un asesino de otro país o algo así?
+
+[6319]
+¡Vosotros!
+
+[6320]
+¡Recordad dónde estáis! ¡Comportaos!
+
+[6321]
+Perdón, hermana Alouette.
+
+[6322]
+Me alegra que le hayan contratado, señor Croix.
+
+[6323]
+Llámame Croix, señorita.
+
+[6324]
+Me llamo Prier.
+
+[6325]
+Ahora soy cazadora de demonios, ¡pero pronto seré la Doncella de la Luz!
+
+[6326]
+(Eso es lo que ella cree…)
+
+[6327]
+Ese es Culotte, mi hermano pequeño.
+
+[6328]
+Y esa bocazas es la hermana Alouette. A ella ya la conoces.
+
+[6329]
+No parece que os llevéis muy bien, ¿eh?
+
+[6330]
+¿Tanto se nota?
+
+[6331]
+Seguro que está celosa de mi talento…
+
+[6332]
+Como voy a ser la Doncella de la Luz, se pone de morros…
+
+[6333]
+¿Así que vas a ser la Doncella de la Luz?
+
+[6334]
+Impresionante.
+
+[6335]
+¿Q-qué pasa?
+
+[6336]
+¿Tengo algo en la cara?
+
+[6337]
+(¡Oye! ¿No estará intentando ligar también con Prier?)
+
+[6338]
+No, nada…
+
+[6339]
+Es que… — Silencio, por favor. Su Alteza Real está a punto de llegar.
+
+[6340]
+Con todos ustedes…
+
+[6341]
+¡Su Alteza Real, la princesa Éclair!
+
+[6342]
+Por desgracia, mi madre ha tenido que salir. Así que hablaré en su nombre.
+
+[6343]
+Comprendo… Así que la Iglesia de la Madre Divina estaba implicada…
+
+[6344]
+Así es, princesa Éclair.
+
+[6345]
+Mi madre lleva tiempo preocupada por esa Iglesia.
+
+[6346]
+Hablaré personalmente con ella sobre esto.
+
+[6347]
+Gracias por resolver el caso.
+
+[6348]
+Sé que no ha sido fácil.
+
+[6349]
+No ha sido nada. Todo se lo debemos a la protección y guía de la diosa Poitreene.
+
+[6350]
+¡Pero bueno! ¡Menuda respuesta de santurrona!
+
+[6351]
+¡Que nos den una recompensa!
+
+[6352]
+¡Eh, por pedir que no quede!
+
+[6353]
+Je, je. Siempre tan directa, hermana mayor.
+
+[6354]
+¿Hermana mayor?
+
+[6355]
+¡Uno, dos, tres!
+
+[6356]
+Prier… Están a punto de empezar…
+
+[6357]
+¡Un poquito más!
+
+[6358]
+La precisión… ¡dos, tres!
+
+[6359]
+…es importantísima…
+
+[6360]
+…para esta clase de cosas.
+
+[6361]
+Si quiero llegar a ser… ¡tres!
+
+[6362]
+…la Doncella de la Luz…
+
+[6363]
+¡Tiene que salirme perfecto!
+
+[6364]
+Oye, ¿quién eres?
+
+[6365]
+…É-Éclair.
+
+[6366]
+¿Qué haces por aquí?
+
+[6367]
+¿Te has perdido?
+
+[6368]
+¿Sabes que aquí no puede entrar cualquiera?
+
+[6369]
+Esta… es mi casa.
+
+[6370]
+¿Tu casa?
+
+[6371]
+Prier… No me digas que es hija de la reina.
+
+[6372]
+Creo que se llamaba Éclair…
+
+[6373]
+Oye, ¿tú eres la princesa?
+
+[6374]
+¿Cuántos años tienes?
+
+[6375]
+…Nueve.
+
+[6376]
+¿Por qué nos estabas mirando?
+
+[6377]
+A lo mejor solo quiere hacer amigos.
+
+[6378]
+¿Amigos?
+
+[6379]
+¿No crees?
+
+[6380]
+Es hija única de la reina.
+
+[6381]
+Y seguro que los demás niños tienen miedo de jugar con ella.
+
+[6382]
+Oye, ¿quieres jugar con nosotros?
+
+[6383]
+¡Claro! Pero tienes que llamarme «hermana mayor», ¿vale?
+
+[6384]
+¿Por qué?
+
+[6385]
+¡Pues porque soy mayor que tú!
+
+[6386]
+Vale…
+
+[6387]
+¡Genial! ¡Ahora ya somos amigos!
+
+[6388]
+¡Vaya! Ser amigos de una princesa…
+
+[6389]
+¿Cómo te ha ido últimamente, Éclair?
+
+[6390]
+Casi no te hemos visto. ¿Te tienen muy ocupada?
+
+[6391]
+Sí, bueno…
+
+[6392]
+Tengo muchas cosas que hacer.
+
+[6393]
+Debo prepararme para ser reina y entrenarme para ser la Doncella de la Luz… — Vaya, supongo que ser princesa no es nada fácil, ¿eh?
+
+[6394]
+Hermana mayor, ¿todavía quieres convertirte en la Doncella de la Luz?
+
+[6395]
+¡Por supuesto!
+
+[6396]
+¡Es mi mayor sueño!
+
+[6397]
+Si tú te convirtieras en la Doncella, yo no tendría que pasar por tanto entrenamiento.
+
+[6398]
+Éclair, ¿estás bien?
+
+[6399]
+Pareces un poco agotada.
+
+[6400]
+No es nada.
+
+[6401]
+Pero me temo que tengo que irme ya.
+
+[6402]
+Disculpadme.
+
+[6403]
+Hermana mayor, Culotte, espero que vengáis a verme otra vez.
+
+[6404]
+Dadle recuerdos de mi parte al padre Salade.
+
+[6405]
+¿Qué es ese alboroto?
+
+[6406]
+Viene de la enfermería. Me pregunto si habrá pasado algo.
+
+[6407]
+Vamos a echar un vistazo.
+
+[6408]
+¡Hola a todos!
+
+[6409]
+¡Habéis vuelto justo a tiempo!
+
+[6410]
+¿Qué ha pasado?
+
+[6411]
+Estaban tan asustados que todavía no han podido contarme nada…
+
+[6412]
+Por lo que he podido averiguar, paseaban por el bosque de Meuniere cuando los atacó un monstruo.
+
+[6413]
+¿¡Un monstruo!?
+
+[6414]
+Por lo visto, es una criatura muy peligrosa.
+
+[6415]
+Id a investigar.
+
+[6416]
+¡No fastidies!
+
+[6417]
+¿¡Nosotros!?
+
+[6418]
+¡Se les ve en la cara que son dos delincuentes!
+
+[6419]
+Seguro que hacían alguna fechoría en el bosque y la diosa los castigó.
+
+[6420]
+¡Sí, seguro!
+
+[6421]
+¡No hace falta ir hasta allí!
+
+[6422]
+¿Y tú te haces llamar hermana? ¡¿Cómo puedes hablar tan a la ligera del castigo de la diosa?!
+
+[6423]
+¡El castigo de la diosa es sagrado! ¡Sirve para purificar los pecados de las personas!
+
+[6424]
+¡Así lo dice el Libro Sagrado! ¡Y tú…!
+
+[6425]
+¿De verdad te has enfadado?
+
+[6426]
+(Es demasiado frívola e irrespetuosa para servir a la diosa…)
+
+[6427]
+(Mucho menos para convertirse en la Doncella de la Luz…)
+
+[6428]
+V-venga, vosotras dos…
+
+[6429]
+Vamos a investigar qué ha pasado.
+
+[6430]
+¿Vale? ¿Vale?
+
+[6431]
+Esta es la zona de la que hablaban.
+
+[6432]
+No es por quejarme, pero ¿por qué unos cazadores de demonios tienen que perseguir a un monstruo?
+
+[6433]
+Los monstruos son enormes y dan miedo. Pueden confundirse con demonios, pero no son más que animales.
+
+[6434]
+Eso ya lo sé.
+
+[6435]
+Pero cuando atacan a las personas, la cosa cambia.
+
+[6436]
+Tenemos el deber de proteger a todos los hijos de la diosa.
+
+[6437]
+Esto está escrito en el Libro Sagrado.
+
+[6438]
+Supongo que sí.
+
+[6439]
+Croix… Tienes amnesia, ¿verdad?
+
+[6440]
+Pero parece que de monstruos y esas cosas sí que te acuerdas.
+
+[6441]
+Ya sé que es raro, pero lo recuerdo todo… menos mi propio pasado.
+
+[6442]
+Hace dos años desperté en una cueva.
+
+[6443]
+No sabía por qué estaba allí ni qué había estado haciendo. No recordaba nada.
+
+[6444]
+Lo único que recuerdo de mí mismo es mi nombre: Croix Raoul.
+
+[6445]
+Aparte de eso, todo lo demás es un vacío absoluto.
+
+[6446]
+Entonces estás igual que yo.
+
+[6447]
+Hace dos años, el padre Salade me encontró sin ningún recuerdo de mi pasado.
+
+[6448]
+¿Tú también? ¡Vaya coincidencia!
+
+[6449]
+¿Se estará poniendo de moda la amnesia o qué? — ¡La amnesia no se contagia como un resfriado, bobo!
+
+[6450]
+Me hice cazador de demonios porque pensé que así encontraría alguna pista sobre mi pasado. — Entonces, ¿no te convendría seguir trabajando por tu cuenta?
+
+[6451]
+Además, trabajando con nosotros no ganarás gran cosa.
+
+[6452]
+No me uní por dinero.
+
+[6453]
+Me uní por ti.
+
+[6454]
+N-no, no me refería a eso.
+
+[6455]
+¿Te acuerdas de cuando nos conocimos?
+
+[6456]
+A decir verdad, cuando te vi tuve una especie de visión.
+
+[6457]
+¿Una visión?
+
+[6458]
+Tu rostro me recordó al de otra persona.
+
+[6459]
+(Genial, otra mujer…)
+
+[6460]
+No sé quién es.
+
+[6461]
+Pero estoy seguro de que tiene algo que ver con mi pasado.
+
+[6462]
+No sé cómo explicarlo, pero creo que podría ser la clave para recuperar mis recuerdos.
+
+[6463]
+Así que, si puedo estar cerca de ti…
+
+[6464]
+Tal vez recuerdes algo de esa chica y eso te ayude a recuperar la memoria.
+
+[6465]
+¿Es eso?
+
+[6466]
+Esa chica…
+
+[6467]
+¿Es guapa?
+
+[6468]
+Bueno, sí…
+
+[6469]
+¿Se parece a mí?
+
+[6470]
+Más o menos…
+
+[6471]
+En cierto modo.
+
+[6472]
+Pensaste en otra mujer nada más conocerme…
+
+[6473]
+Pero… ¡está bien!
+
+[6474]
+Te ayudaré encantada.
+
+[6475]
+Al fin y al cabo, le salvaste la vida a Culotte.
+
+[6476]
+Te lo agradezco.
+
+[6477]
+¡GRAAAAR!
+
+[6478]
+¿Ha sido lo que creo…?
+
+[6479]
+Creo que sí.
+
+[6480]
+Vamos allá.
+
+[6481]
+¡Ay, un gatito!
+
+[6482]
+¿Quién iba a pensar que encontraríamos un gato en un sitio así?
+
+[6483]
+¡Pero qué monada eres…!
+
+[6484]
+¿Te has perdido?
+
+[6485]
+Pues sí, la verdad. ¡Miau!
+
+[6486]
+¿Adónde habrá ido el resto de la tripulación…?
+
+[6487]
+¡Acabo de ver un g-g-gato que habla! — ¿Eh? ¿De qué hablas? ¿Te has dado un golpe en la cabeza?
+
+[6488]
+E-estoy bien.
+
+[6489]
+Más cuerdo que tú, desde luego…
+
+[6490]
+¡Venga ya!
+
+[6491]
+No tenemos tiempo para estas tonterías.
+
+[6492]
+¡Pero lo vi de verdad…!
+
+[6493]
+¡Ay!
+
+[6494]
+¡Me duele!
+
+[6495]
+¿Es un monstruo?
+
+[6496]
+Parece que está herido.
+
+[6497]
+¿Nos entiendes?
+
+[6498]
+¿Cómo te hiciste esa herida?
+
+[6499]
+¡Un humano malo me hizo daño!
+
+[6500]
+¿Un humano malo?
+
+[6501]
+Enséñame la herida y te la curaré.
+
+[6502]
+No, estaré bien.
+
+[6503]
+Con lamerla un poco se me pasará.
+
+[6504]
+¡Pero he perdido algo muy importante! — ¿Ah, sí? ¿El qué?
+
+[6505]
+¡Esencia de setas!
+
+[6506]
+¡Es indispensable para preparar Kinoko Jiru, una medicina prodigiosa!
+
+[6507]
+¡Si no la encuentro, no podré volver a mi hogar en el valle de Eringa!
+
+[6508]
+¿Esencia de setas…?
+
+[6509]
+Aquí tienes.
+
+[6510]
+¡La habéis encontrado!
+
+[6511]
+¡Mi esencia de setas!
+
+[6512]
+¡La habéis encontrado para mí!
+
+[6513]
+¡Muchísimas gracias!
+
+[6514]
+¡Así que todavía quedan humanos buenos!
+
+[6515]
+¿Y nuestra recompensa?
+
+[6516]
+¿Una recompensa…?
+
+[6517]
+¡Ya sabes, algo por haberte ayudado!
+
+[6518]
+Ya sé que servimos a la diosa y todo eso…
+
+[6519]
+¡Eso no tiene nada que ver!
+
+[6520]
+¡Si ayudas a alguien, lo lógico es que te recompense!
+
+[6521]
+¡Si la gente lo hace, ¿por qué no las setas gigantes?!
+
+[6522]
+E-eso es verdad, pero…
+
+[6523]
+¿Tu hermana es siempre así?
+
+[6524]
+Vaya… Me temo que no tengo nada que daros.
+
+[6525]
+¡Esperad! ¡Ya sé!
+
+[6526]
+¡Puedo contaros algo muy interesante!
+
+[6527]
+¿Información? Yo preferiría dinero contante y sonante…
+
+[6528]
+Chist…
+
+[6529]
+Calla y escucha.
+
+[6530]
+En este bosque vive un monstruo al que llaman el Señor del Bosque.
+
+[6531]
+Es quien mantiene el orden en el bosque.
+
+[6532]
+¡No luchéis contra él! Si el Señor del Bosque muriera…
+
+[6533]
+…el bosque se sumiría en el caos y sus criaturas se volverían violentas.
+
+[6534]
+Bueno, ¡espero volver a veros algún día!
+
+[6535]
+¡Me llamo Elizabeth!
+
+[6536]
+Vivo en el valle de Eringa, el hogar de los Eringa.
+
+[6537]
+¡Adiós!
+
+[6538]
+¡Es gigantesco!
+
+[6539]
+Jamás había visto un monstruo tan grande.
+
+[6540]
+¡Eh, se escapa!
+
+[6541]
+Los que estaban en la enfermería de la iglesia dijeron que solo habían ido de paseo, ¿verdad?
+
+[6542]
+Mintieron. No estaban dando ningún paseo.
+
+[6543]
+Aquel monstruo estaba herido.
+
+[6544]
+Y esas heridas se las hicieron cazadores profesionales.
+
+[6545]
+¿Sabes qué arma utilizaron?
+
+[6546]
+Sí. No es precisamente algo que lleves por casualidad cuando sales a pasear.
+
+[6547]
+Seguro que entraron en el bosque para cazar a ese monstruo.
+
+[6548]
+¡Entonces los malos eran ellos!
+
+[6549]
+No tiene sentido seguir con esto.
+
+[6550]
+Volvamos a casa.
+
+[6551]
+Espera. ¿Adónde crees que vas?
+
+[6552]
+Todavía no hemos terminado nuestro trabajo. Vamos tras ese monstruo.
+
+[6553]
+¿Qué? ¡Pero si ya te he dicho que los malos eran los cazadores!
+
+[6554]
+Aun así, hacer daño a los hijos de la diosa es pecado.
+
+[6555]
+Lo dice el Libro Sagrado.
+
+[6556]
+¡Santa Doncella! Debemos castigar a ese monstruo.
+
+[6557]
+¡¿Pero por qué?! ¡Si el monstruo no ha hecho nada malo!
+
+[6558]
+¡Solo se estaba defendiendo de los cazadores!
+
+[6559]
+¡Además, los monstruos no son demonios! ¡Están vivos, como tú y como yo!
+
+[6560]
+¿Tenemos que hacer algo que sabemos que está mal solo porque lo dice el Libro Sagrado?
+
+[6561]
+¿Acaso el Libro Sagrado tiene siempre la razón? ¡¿Cómo puedes estar tan segura?!
+
+[6562]
+¡¿Cómo te atreves?!
+
+[6563]
+¡Hermana Prier! ¿Estás poniendo en duda las enseñanzas de la diosa Poitreene?
+
+[6564]
+N-no quería decir eso.
+
+[6565]
+¡Solo digo que no deberíamos dar por hecho que todo lo escrito en el Libro Sagrado está bien!
+
+[6566]
+¡Eso equivale a negarlo!
+
+[6567]
+¿Y tú quieres ser la Doncella de la Luz?
+
+[6568]
+¡Ni siquiera mereces pertenecer a La Pucelle!
+
+[6569]
+¡¿Quién te ha dado derecho a hablarme así?!
+
+[6570]
+¡¿Quién te crees que eres?!
+
+[6571]
+¡Lo que pasa es que quieres ser tú la Doncella!
+
+[6572]
+No tengo semejante ambición.
+
+[6573]
+Solo deseo cumplir con mi deber.
+
+[6574]
+Y tú deberías hacer lo mismo.
+
+[6575]
+Vamos, vamos, vosotras dos. Discutiendo no arreglaréis nada, ¿vale?
+
+[6576]
+¡Venga, seamos amigos!
+
+[6577]
+Muy bien, hermana Prier.
+
+[6578]
+Hazlo a tu manera.
+
+[6579]
+Ya veremos quién tiene razón…
+
+[6580]
+Tú o el Libro Sagrado.
+
+[6581]
+Este monstruo ha herido a seres humanos…
+
+[6582]
+Aunque fuera en defensa propia, el Libro Sagrado dice que eso es pecado.
+
+[6583]
+Y que debemos matarlo…
+
+[6584]
+¿Q-qué es eso?
+
+[6585]
+Es como si el bosque estuviera llorando…
+
+[6586]
+Como si lamentara la muerte de ese monstruo…
+
+[6587]
+¿De verdad hemos hecho lo correcto?
+
+[6588]
+Yo tampoco estoy muy segura…
+
+[6589]
+Hace dos años me encontraron sin memoria, aferrada a un ejemplar del Libro Sagrado.
+
+[6590]
+Desde entonces, el Libro Sagrado ha sido lo único en lo que podía creer de verdad.
+
+[6591]
+Solo podía apoyarme en las enseñanzas de la diosa.
+
+[6592]
+Cuando pusiste en duda la verdad del Libro Sagrado, sentí que también me negabas a mí…
+
+[6593]
+No todo lo que dice el Libro Sagrado es correcto.
+
+[6594]
+Lo sabía, pero no tenía nada más en lo que creer…
+
+[6595]
+Tal vez te envidiaba porque siempre haces lo que crees correcto…
+
+[6596]
+Perdóname, hermana Prier. — E-es que soy así. Hago las cosas sin pensar…
+
+[6597]
+Y siempre digo lo que siento. Pero sé que no siempre tengo razón. Sigo mi instinto para no arrepentirme después.
+
+[6598]
+No te disculpes.
+
+[6599]
+Admiro tu franqueza y tu sinceridad, hermana Prier. — Prier, a secas. Llámame Prier de ahora en adelante.
+
+[6600]
+Lo haré. Y tú puedes llamarme Alouette.
+
+[6601]
+Gracias.
+
+[6602]
+¡Uf, por poco!
+
+[6603]
+¡Por un momento creí que iban a matarse!
+
+[6604]
+Espero que ya se les haya pasado el enfado…
+
+[6605]
+¡Qué miedo he pasado…!
+
+[6606]
+Empiezo a pensar que jamás entenderé a las mujeres…
+
+[6607]
+Hola, Prier.
+
+[6608]
+Llegas justo a tiempo.
+
+[6609]
+Estas personas me parecieron sospechosas, así que decidí hacerles unas preguntas.
+
+[6610]
+Me han contado algo muy interesante…
+
+[6611]
+Son cazadores contratados por la Iglesia de la Madre Divina. Les prometieron una gran recompensa si mataban al Señor del Bosque. No sé por qué querrían verlo muerto, pero seguro que no tramaban nada bueno.
+
+[6612]
+Tenemos que impedir que lleven a cabo sus planes.
+
+[6613]
+Que Poitreene os proteja.
+
+[6614]
+Ahora la energía oscura también podrá inundar esta zona…
+
+[6615]
+¡GRRROOOOAAARRR!
+
+[6616]
+Llegáis demasiado tarde.
+
+[6617]
+¡Eres de la Madre Divina! ¿Qué estás tramando?
+
+[6618]
+No tengo por qué daros explicaciones…
+
+[6619]
+¡Porque estáis a punto de morir!
+
+[6620]
+¡No…!
+
+[6621]
+Muerto a manos de… un humano…
+
+[6622]
+Pero mi tarea está cumplida…
+
+[6623]
+Sin el Señor del Bosque, el bosque se sumirá en el caos y la oscuridad.
+
+[6624]
+¡Nuestra… utopía… se hará realidad!
+
+[6625]
+Así que los demonios también estaban detrás de esto…
+
+[6626]
+¿Estará la Iglesia de la Madre Divina aliada con los demonios?
+
+[6627]
+Ha muerto…
+
+[6628]
+Como si lamentara la muerte de ese monstruo…
+
+[6629]
+¡Acabamos haciendo justo lo que quería la Iglesia…!
+
+[6630]
+Todo ha sido culpa mía.
+
+[6631]
+Por mi estupidez, el bosque ha caído en el caos…
+
+[6632]
+¡No digas eso!
+
+[6633]
+¡No fue culpa tuya!
+
+[6634]
+No podíamos saberlo.
+
+[6635]
+Pero ya ha pasado.
+
+[6636]
+Tenemos que seguir adelante.
+
+[6637]
+Tienes razón, Culotte.
+
+[6638]
+…hacer lo que creas correcto…
+
+[6639]
+Me has enseñado una lección muy valiosa.
+
+[6640]
+Las enseñanzas de la diosa no lo son todo. A veces has de seguir tu propio camino…
+
+[6641]
+E-es lo que…
+
+[6642]
+…siento. Pero sé que no siempre tengo razón.
+
+[6643]
+Debo seguir mi instinto para no arrepentirme.
+
+[6644]
+Prier, a secas.
+
+[6645]
+Por favor, llámame Prier.
+
+[6646]
+¡Por poco! ¡Por un momento pensé que iban a matarse!
+
+[6647]
+Pero, Prier… Quizá deberías mostrar un poco más de modestia a partir de ahora.
+
+[6648]
+Oh, estupendo…
+
+[6649]
+¡Ya empezamos otra vez!
+
+[6650]
+¿Y esa ropa que llevas?
+
+[6651]
+Una hermana no debería vestir prendas tan ajustadas ni tan reveladoras.
+
+[6652]
+Quien sirve a la diosa debería vestir con más recato…
+
+[6653]
+¡Pero fue el padre Salade quien eligió esta ropa!
+
+[6654]
+¡Y tú llevas una minifalda diminuta debajo del hábito!
+
+[6655]
+E-el padre Salade dijo que así podría moverme mejor, por eso…
+
+[6656]
+¿Al viejo le interesan esas cosas?
+
+[6657]
+¡¿El padre Salade?!
+
+[6658]
+Eh… En cualquier caso, me preocupa esa relación entre la Madre Divina y los demonios.
+
+[6659]
+¿N-no os preocupa a vosotros? ¡Eh…!
+
+[6660]
+¿Por qué me miráis así…?
+
+[6661]
+(Parece que los demonios han estado muy activos últimamente.)
+
+[6662]
+(¿Qué estará planeando la Iglesia…?)
+
+[6663]
+¡Nuestra… utopía… se hará realidad!
+
+[6664]
+¡Aún estamos a tiempo de salvarlo!
+
+[6665]
+¡Santa Doncella! ¡Oh, diosa Poitreene!
+
+[6666]
+¡Por favor, cura las heridas de esta criatura!
+
+[6667]
+¡Una vez más!
+
+[6668]
+¡Santa Doncella! ¡Cura las heridas de esta criatura!
+
+[6669]
+Prier, sus heridas son demasiado graves. — ¡Cállate!
+
+[6670]
+¡Aquel hongo dijo que, si moría el Señor del Bosque, los monstruos se volverían violentos!
+
+[6671]
+¡Y entonces morirá mucha gente!
+
+[6672]
+¡Y todo el mundo acabará odiando a los monstruos!
+
+[6673]
+¡No puedo rendirme!
+
+[6674]
+¡Tengo que salvarlo como sea!
+
+[6675]
+¡Argh! ¡Ah!
+
+[6676]
+¡No funciona!
+
+[6677]
+¡¿Hermana Alouette?!
+
+[6678]
+No me extraña que esté débil después de realizar semejante milagro de curación.
+
+[6679]
+Es un riesgo enorme. Un milagro como ese puede costarte la vida.
+
+[6680]
+¡¿La vida?!
+
+[6681]
+¡¿Pero por qué…?!
+
+[6682]
+¿Por qué te has arriesgado tanto por él?
+
+[6683]
+Fue culpa mía que acabara herido.
+
+[6684]
+Era lo menos que podía hacer.
+
+[6685]
+Lo siento muchísimo…
+
+[6686]
+La oscuridad estuvo a punto de apoderarse del bosque.
+
+[6687]
+¡Todo por mi estupidez…! — ¡No digas eso!
+
+[6688]
+¡Pero ahora el bosque está a salvo!
+
+[6689]
+¡Eso es lo importante!
+
+[6690]
+Desde entonces, el Libro Sagrado ha sido…
+
+[6691]
+…todo para mí.
+
+[6692]
+A veces hay que seguir el propio camino.
+
+[6693]
+De ahora en adelante, llámame Prier.
+
+[6694]
+Espero que ya se les haya pasado el enfado…
+
+[6695]
+Pero, Prier…
+
+[6696]
+Quizá deberías mostrar un poco más de modestia a partir de ahora.
+
+[6697]
+Una hermana no debería vestir prendas tan ajustadas ni tan reveladoras.
+
+[6698]
+¡Y tú llevas una minifalda diminuta debajo del hábito!
+
+[6699]
+¿Al viejo le interesaría eso?
+
+[6700]
+¿Por qué me miráis así…?
+
+[6701]
+Bueno… Adiós al poco pelo que me quedaba…
+
+[6702]
+No puedo declararle mi amor a Suzanne con estas pintas…
+
+[6703]
+Oye, Culotte… ¿No te resulta familiar este pequeñajo?
+
+[6704]
+¿No será la cría de aquel monstruo?
+
+[6705]
+¿Tú también lo crees?
+
+[6706]
+Está herido.
+
+[6707]
+¡Santa Doncella!
+
+[6708]
+¡Diosa Poitreene, cura las heridas de esta criatura!
+
+[6709]
+Con esto bastará…
+
+[6710]
+¡Eh, no puedes seguirnos! Tu hogar está en el bosque, ¿recuerdas?
+
+[6711]
+Creo que te ha tomado cariño.
+
+[6712]
+Puede que tengas razón…
+
+[6713]
+Pero los humanos no podemos criar a un monstruo salvaje.
+
+[6714]
+Bueno… ¡Qué se le va a hacer!
+
+[6715]
+¡Ya lo he decidido! ¡Lo criaré yo misma!
+
+[6716]
+No me queda otra opción, ¿verdad?
+
+[6717]
+¡No se despega de mí!
+
+[6718]
+Y, además, yo tengo la culpa de que su padre…
+
+[6719]
+¡Tengo la responsabilidad de criarlo como es debido!
+
+[6720]
+Quizá esto también forme parte de los designios de la diosa Poitreene.
+
+[6721]
+¡Lo voy a criar yo!
+
+[6722]
+¡Ya lo he decidido! ¡No conseguiréis hacerme cambiar de opinión!
+
+[6723]
+Sí… Ya sabemos que es inútil intentar hacerte cambiar de idea…
+
+[6724]
+¡La cría del Señor del Bosque se ha unido al grupo!
+
+[6725]
+¡Eh! ¿Adónde vas?
+
+[6726]
+Ya se ha hecho mayor.
+
+[6727]
+Ha regresado a su hogar.
+
+[6728]
+Estoy seguro.
+
+[6729]
+¡Habéis encontrado la esencia de setas!
+
+[6730]
+¿No es ese el uniforme de nuestra Iglesia…?
+
+[6731]
+¡Hermana Olive!
+
+[6732]
+¿Cómo has acabado así…?
+
+[6733]
+Por orden del padre Salade, perseguía a un asesino en serie que iba tras corazones humanos…
+
+[6734]
+El demonio que puede cambiar de forma, ¿verdad?
+
+[6735]
+Conseguí acorralarlo en el monte Tarte, pero entonces…
+
+[6736]
+…La frustración de no haber podido cumplir mi misión…
+
+[6737]
+…Todo cuanto dejé pendiente como exorcista de la Iglesia de la Santa Doncella…
+
+[6738]
+…La amargura de morir antes de alcanzar mis metas…
+
+[6739]
+Y cuando me di cuenta, me había convertido en esto…
+
+[6740]
+Es irónico que una exorcista acabe convertida en un espíritu maligno, ¿verdad…?
+
+[6741]
+…Lo siento.
+
+[6742]
+Si hubiéramos llegado antes al lugar de los hechos…
+
+[6743]
+No tenéis por qué disculparos. Es cierto que dejo cosas pendientes, pero no me arrepiento de cómo he vivido.
+
+[6744]
+Me enorgullece haber vivido como exorcista de la Iglesia de la Santa Doncella.
+
+[6745]
+Hermana Olive…
+
+[6746]
+A partir de ahora, seguid adelante también por mí, ¿de acuerdo?
+
+[6747]
+…¡Sí!
+
+[6748]
+Que su alma descanse en paz.
+
+[6749]
+¡Oh, diosa Poitreene!
+
+[6750]
+¡Concede la paz al alma de esta devota doncella!
+
+[6751]
+Que la diosa Poitreene os proteja en vuestro camino…
+
+[6752]
+Eso dijo, pero…
+
+[6753]
+¡Si hubiéramos llegado antes, ella…!
+
+[6754]
+Eso solo lo sabe la diosa.
+
+[6755]
+Por mucho que le demos vueltas, ella no volverá.
+
+[6756]
+Lo que podemos hacer es procurar que su muerte no sea en vano.
+
+[6757]
+Oye, Culotte.
+
+[6758]
+¿No te resulta familiar este pequeñajo?
+
+[6759]
+Puede que sea la cría de aquel monstruo…
+
+[6760]
+¿Tú también lo crees?
+
+[6761]
+Está herido.
+
+[6762]
+¡Cura las heridas de esta criatura!
+
+[6763]
+Ya está. Todo irá bien.
+
+[6764]
+…¡No me sigas!
+
+[6765]
+Tu hogar está en este bosque, ¿verdad?
+
+[6766]
+Hermana mayor.
+
+[6767]
+Parece que te ha tomado cariño.
+
+[6768]
+Pero no está bien que los humanos criemos a un monstruo salvaje…
+
+[6769]
+Bueno… ¡Qué remedio!
+
+[6770]
+¡Ya está, lo he decidido!
+
+[6771]
+¡Voy a criar yo a este pequeñajo!
+
+[6772]
+¡¿Qué?!
+
+[6773]
+¡¿Qué otra cosa quieres que haga?!
+
+[6774]
+¡Si no deja de seguirme!
+
+[6775]
+¡Y, además, lo de su padre fue por nuestra culpa…!
+
+[6776]
+¡Por eso es nuestra responsabilidad criarlo como es debido!
+
+[6777]
+Quizá esto también forme parte de los designios de la diosa Poitreene.
+
+[6778]
+¡Voy a criar a este pequeñajo!
+
+[6779]
+¡Ya lo he decidido!
+
+[6780]
+¡Por mucho que protestéis, no cambiaré de opinión!
+
+[6781]
+…Sí.
+
+[6782]
+Ya sé que sería inútil intentar convencerte.
+
+[6783]
+¡La cría del Señor del Bosque se ha unido al grupo!
+
+[6784]
+Ya ha crecido. Ha regresado a su hogar. Estoy seguro.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk04_jp.dat ===
+
+[6785]
+Hace un rato vino alguien de la Iglesia de la Madre Divina a intentar convertirme.
+
+[6786]
+Me dijeron que, si me unía de inmediato, ¡me darían un auténtico collar de perlas falsas…!
+
+[6787]
+¡Por poco me apunto allí mismo!
+
+[6788]
+¿Puedes explicarme cuál es la naturaleza de la vida y la existencia?
+
+[6789]
+¡Vamos, dímelo!
+
+[6790]
+¡Por una vez, haz preguntas como un niño normal!
+
+[6791]
+He oído que conocisteis al Señor del Bosque de Meuniere.
+
+[6792]
+Y bien, ¿lo matasteis?
+
+[6793]
+Los Mooboo siempre parecen tan tranquilos y apacibles.
+
+[6794]
+Solo con mirarlos ya me relajo.
+
+[6795]
+¿Has oído hablar de las maravillas que vende la Madre Divina?
+
+[6796]
+¡Tienen un tónico que hace crecer el pelo!
+
+[6797]
+Aunque yo no lo necesito, claro.
+
+[6798]
+Día tras día hago lo mismo, pero supongo que, en cierto modo, tengo suerte…
+
+[6799]
+Anoche oí un estruendo tremendo que venía de la tierra.
+
+[6800]
+¿Qué habrá sido?
+
+[6801]
+A menudo puedes pasar al siguiente mapa sin derrotar a todos los enemigos.
+
+[6802]
+Recuerda: a veces lo más sensato es huir.
+
+[6803]
+No podré volver a cazar demonios hasta que se me curen las heridas.
+
+[6804]
+¡Pero mientras tanto recopilaré toda la información que pueda para ayudaros!
+
+[6805]
+¿Hay problemas en el puerto de Mayonnaise…?
+
+[6806]
+De esa zona depende la economía de todo el reino.
+
+[6807]
+Esto podría ser muy grave…
+
+[6808]
+…pero no olvidéis nuestra verdadera misión.
+
+[6809]
+He oído que la Banda Escargot está aterrorizando a los países de esta región.
+
+[6810]
+Me encantaría recorrer el mundo en busca de aventuras y hacer amigas por todas partes…
+
+[6811]
+La Banda Escargot es una organización criminal internacional. ¡Más te vale mantenerte lejos de ellos!
+
+[6812]
+Solo he visto una vez al capitán del Escargot.
+
+[6813]
+Me lo imaginaba como alguien temible, ¡pero apenas era un muchacho de dieciocho o diecinueve años!
+
+[6814]
+¿Te enteraste del terremoto de anoche?
+
+[6815]
+Toda mi familia estaba dormida y no notó nada, pero yo sí lo sentí.
+
+[6816]
+¿Tú no notaste nada?
+
+[6817]
+Lo mejor de esta tienda es que tenemos en cuenta las opiniones de los clientes.
+
+[6818]
+Tenemos pocas existencias para poder atender enseguida las peticiones de nuestros clientes.
+
+[6819]
+Así que, cuando termines tus compras, te agradeceríamos que rellenaras una encuesta.
+
+[6820]
+¡Hola! ¡Bienvenidos a la tienda Rosenqueen!
+
+[6821]
+Últimamente, mi marido parece preocupado por algo.
+
+[6822]
+¿El padre Salade? ¿Preocupado?
+
+[6823]
+Pues no sé… A mí no me parece preocupado en absoluto.
+
+[6824]
+No sé si será verdad, pero últimamente mucha gente asegura haber visto a un monstruo.
+
+[6825]
+¡Y dicen que desapareció sin dejar rastro!
+
+[6826]
+¿Y si fuera el fantasma de un monstruo?
+
+[6827]
+¡Todos los tripulantes del Escargot son gatitos!
+
+[6828]
+¡Qué monos son…!
+
+[6829]
+He oído que los monstruos se volvieron violentos de repente.
+
+[6830]
+Creo que… eh… quizá se deba a que murió el Señor del Bosque…
+
+[6831]
+¿Has oído hablar del Caballero Oscuro?
+
+[6832]
+Todas las noches aparece un misterioso Caballero Oscuro en el castillo de Cresson.
+
+[6833]
+¿Qué tal va todo?
+
+[6834]
+Culotte, ¿has encontrado a esa criatura?
+
+[6835]
+Ay, mi pobre Rocini…
+
+[6836]
+¡Gracias a ti, Rocini se encuentra mucho mejor!
+
+[6837]
+Te estoy enormemente agradecida. No sé cómo darte las gracias.
+
+[6838]
+La Iglesia de la Santa Doncella ayuda a cualquiera que lo necesite. Eso dice el padre Salade. Por eso decidió construir esta enfermería.
+
+[6839]
+Nunca le contaría a nadie que el padre Salade pegó a esos pacientes…
+
+[6840]
+¡Bienvenidos, eri!
+
+[6841]
+Me alegra saber que también hay humanos de buen corazón.
+
+[6842]
+Hablaré con nuestro líder para que tengamos más contacto con los humanos.
+
+[6843]
+¿Quieres comprar Kinoko Jiru?
+
+[6844]
+Cuesta 50 000 prica.
+
+[6845]
+¡Has conseguido Kinoko Jiru!
+
+[6846]
+¡Vuelve cuando quieras!
+
+[6847]
+¡No tienes dinero suficiente!
+
+[6848]
+Puedes volver cuando hayas ahorrado lo suficiente. ¿Seguro que no lo quieres?
+
+[6849]
+Si cambias de opinión, aquí te esperamos.
+
+[6850]
+He oído que el encargado de la tienda Rosenqueen de Pot-au-Feu es un Eringa.
+
+[6851]
+A mí también me gustaría trabajar allí.
+
+[6852]
+¡El valle de Eringa!
+
+[6853]
+Hace muchos años que ningún humano venía a este valle. Soy su líder, Ellie XVI. Algunos quizá nunca hayan visto a un humano, así que disculpen nuestra curiosidad.
+
+[6854]
+Elizabeth.
+
+[6855]
+Los Eringa nunca olvidamos una deuda. ¡Desde hoy sois Eringa honorarios!
+
+[6856]
+Eso es… eh…
+
+[6857]
+…muy amable por vuestra parte.
+
+[6858]
+Más allá comienza el Camino de los Hongos, territorio de los dragonshrooms.
+
+[6859]
+¡Los dragonshrooms son increíblemente fuertes!
+
+[6860]
+Más adelante está el Camino de las Setas, territorio de los dragones seta. Son increíblemente fuertes. Ni se te ocurra luchar contra ellos. Si debes pasar por allí, huye de los dragones seta. También hay setas malvadas, así que ten cuidado.
+
+[6861]
+Si no te queda más remedio que recorrer el Camino de los Hongos, ¡huye de los dragonshrooms!
+
+[6862]
+También hay setas malignas por los alrededores. Ten cuidado.
+
+[6863]
+Nunca he visto a humanos tan fuertes como ustedes. No serán el legendario Mesías de las Setas, ¿verdad?
+
+[6864]
+¡Qué va!
+
+[6865]
+Soy el gran anciano del monte Champignon.
+
+[6866]
+Últimamente, la situación se nos ha ido de las manos.
+
+[6867]
+Soy el gran anciano del monte Champignon. Últimamente, la situación escapa a nuestro control. Quizá la diosa los haya enviado. Por favor, ayúdennos. Si logran devolver la paz a esta tierra, les daremos Kinoko Jiru con mucho gusto.
+
+[6868]
+Si devolvéis la paz a estas tierras, os daremos con gusto un poco de Kinoko Jiru.
+
+[6869]
+¡Gracias a vosotros, la paz ha vuelto a estas tierras! En nombre de todos los Eringa, os doy las gracias.
+
+[6870]
+Alguna razón tiene que haber para que los dragonshrooms se hayan vuelto locos.
+
+[6871]
+Vi a alguien sospechoso en el Camino de los Hongos unos días antes de que empezara todo. ¡Eri!
+
+[6872]
+¿Tendrá esa persona algo que ver con lo ocurrido?
+
+[6873]
+¡Qué valentía la vuestra!
+
+[6874]
+Oye, ¿te gustaría casarte con mi hijo?
+
+[6875]
+¡Eso sí que no!
+
+[6876]
+¡Estupendo! ¡Por fin has encontrado a alguien dispuesto a casarse contigo! ¿Y qué más da que sea un hongo…?
+
+[6877]
+¡Hace unos días, los dragonshrooms empezaron a atacarnos de pronto!
+
+[6878]
+Hasta entonces, no habían salido nunca de su territorio.
+
+[6879]
+Por eso habíamos podido convivir con ellos en paz.
+
+[6880]
+Si esto sigue así, será cuestión de tiempo que acaben con nosotros…
+
+[6881]
+¡Bienvenidos!
+
+[6882]
+Espero que tengáis un buen motivo para haber venido hasta aquí…
+
+[6883]
+¡Todos los habitantes del monte Champignon os dan la bienvenida!
+
+[6884]
+¡Bienvenidos al monte Champignon!
+
+[6885]
+(…Estas setas estarían deliciosas salteadas con mantequilla…)
+
+[6886]
+En fin, tenemos que ir al puerto de Mayonnaise.
+
+[6887]
+Cuando descubramos qué es esa criatura misteriosa, Culotte también se quedará más tranquilo.
+
+[6888]
+Alouette, no me digas que tú también crees en esas criaturas misteriosas.
+
+[6889]
+Bueno, estamos hablando de leyendas urbanas… — ¡Esa criatura desconocida de Mayonnaise tiene que ser el monstruo que vi!
+
+[6890]
+¡Hay que darse prisa y averiguar qué pasa!
+
+[6891]
+Sí, sí, ya te he oído. ¡No te pongas así!
+
+[6892]
+¡Prier, no es momento de tomarse esto a broma!
+
+[6893]
+¡No estaba soñando!
+
+[6894]
+¡Vi a un monstruo de verdad!
+
+[6895]
+¿Un monstruo enorme y terrorífico, eh?
+
+[6896]
+Qué gracioso.
+
+[6897]
+¡Yo también creía en esas cosas cuando era pequeña!
+
+[6898]
+Vamos, que no me crees.
+
+[6899]
+Pues… no mucho.
+
+[6900]
+¡Tenemos que atrapar a ese monstruo antes de que ataque a toda la ciudad! ¡Hay que ir a Mayonnaise cuanto antes!
+
+[6901]
+¡Mayonnaise!
+
+[6902]
+Sí, ya me he enterado.
+
+[6903]
+Ten presente que contaré contigo cuando hayamos atraído a esa cosa hasta el monte Tarte.
+
+[6904]
+Bueno, eso es…
+
+[6905]
+¡Por favor, te lo suplico…! — ¡¿Ves?! ¡Te dije que había un monstruo!
+
+[6906]
+¡Al final no fue un sueño! ¡Lo llevo diciendo desde el principio!
+
+[6907]
+¡Te he dicho que no es momento de celebraciones!
+
+[6908]
+¡Ya, pero…!
+
+[6909]
+Quién iba a decir que ese monstruo existía de verdad…
+
+[6910]
+¡Y que tendríamos que luchar contra él…!
+
+[6911]
+La vida nunca deja de sorprenderte, ¿eh?
+
+[6912]
+Y que lo digas.
+
+[6913]
+Pero ¿cómo vamos a atraer al monstruo hasta el monte Tarte?
+
+[6914]
+Por ahora, ¿qué tal si improvisamos?
+
+[6915]
+¡Seguro que se nos ocurre algo!
+
+[6916]
+Tenemos que seguir esa bola de luz que se dirige a la iglesia.
+
+[6917]
+Seguro que tiene algo que ver con todo este lío del monstruo.
+
+[6918]
+Entonces, eso significa que…
+
+[6919]
+¿Hay algo detrás de todo este alboroto?
+
+[6920]
+Pues tendremos que investigarlo para salir de dudas.
+
+[6921]
+Ahora que lo pienso…
+
+[6922]
+¿Quién es exactamente ese tal Homard?
+
+[6923]
+Se hacen llamar la Banda Escargot.
+
+[6924]
+Se hacen llamar la banda Escargot. Es extraño que unos piratas vengan a exterminar monstruos. / Y pensar que intentó ligar contigo, Prier...
+
+[6925]
+Cuanto más lo recuerdo, más ganas me entran de darle otro puñetazo.
+
+[6926]
+¡Menudo gancho le diste!
+
+[6927]
+¡Eso le pasa por intentar propasarse con una chica tan pura e inocente como yo!
+
+[6928]
+¡Quien la hace, la paga!
+
+[6929]
+Ya veo… Será mejor que yo también tenga cuidado, ¿eh?
+
+[6930]
+¡¿Quééé?!
+
+[6931]
+No me convence eso de aliarnos con piratas, sobre todo trabajando para la Iglesia, pero lo hacemos por el niño…
+
+[6932]
+¿La Banda Escargot?
+
+[6933]
+A mí me parecen buena gente.
+
+[6934]
+No tenemos por qué preocuparnos por ellos, ¿no?
+
+[6935]
+Deberías recordar cuál es tu posición.
+
+[6936]
+Al fin y al cabo, perteneces a la Iglesia.
+
+[6937]
+¡Quién iba a imaginar que existieran aeronaves!
+
+[6938]
+¡Es increíble!
+
+[6939]
+Mírate, Culotte, qué emocionado estás.
+
+[6940]
+Se nota que aún eres un crío.
+
+[6941]
+¡Mira quién habla!
+
+[6942]
+¡Tú no parabas de decir lo alto que estábamos, con una sonrisa de oreja a oreja!
+
+[6943]
+¿En serio dije eso?
+
+[6944]
+Ese tal Homard tiene su gracia.
+
+[6945]
+Yo no diría que es gracioso. Más bien es un tipo raro…
+
+[6946]
+¡Se me da fatal encontrar novio! — ¡Deja de decir eso delante de mí!
+
+[6947]
+¡El motor del Escargot está a punto para zarpar!
+
+[6948]
+¡Rumbo al monte Champignon para salvar al niño!
+
+[6949]
+Sois piratas y, aun así, os morís de ganas de salvar a alguien.
+
+[6950]
+Desde luego, sois raritos.
+
+[6951]
+¡Mira quién fue a hablar!
+
+[6952]
+Para ser una hermana de la Iglesia, ¡menudo gancho tienes!
+
+[6953]
+Rocini nos está esperando. Tenemos que volver cuanto antes a la iglesia.
+
+[6954]
+Sí. Hay que darle el Kinoko Jiru.
+
+[6955]
+¡Menos mal que hemos conseguido el Kinoko Jiru!
+
+[6956]
+¡Ahora podremos salvar al niño!
+
+[6957]
+Sí. Y todo gracias a mi esfuerzo, por supuesto.
+
+[6958]
+Ja, ja, ja…
+
+[6959]
+Este Kinoko Jiru huele bastante mal…
+
+[6960]
+Hasta a un adulto le costaría tomárselo.
+
+[6961]
+¡Eso significa que tiene que ser potentísimo!
+
+[6962]
+¡Ese niño se lo bebe, sí o sí!
+
+[6963]
+Ahora queda en tus manos.
+
+[6964]
+No tienes que darnos las gracias.
+
+[6965]
+¡Date prisa y llévale el Kinoko Jiru al niño!
+
+[6966]
+(Ahora que lo pienso…
+
+[6967]
+¿Les habré dado las gracias por llevarnos al monte Champignon?)
+

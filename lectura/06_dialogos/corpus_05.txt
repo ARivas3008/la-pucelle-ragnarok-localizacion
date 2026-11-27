@@ -1,0 +1,3009 @@
+LA PUCELLE — 06_dialogos — CORPUS 05
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat ===
+
+[4929]
+Aunque sea así... ¡No pienso quedarme de brazos cruzados mientras Angélica muere!
+
+[4930]
+¡Vamos a buscarla!
+
+[4931]
+¡Angélica debe de estar en la colina de Choux Fleurs! ¡Deprisa!
+
+[4932]
+¡Claro!
+
+[4933]
+¡Tenemos que detener esa caza de brujas como sea!
+
+[4934]
+¡¿Qué haces, Prier?!
+
+[4935]
+¡Tenemos que salvar a Angélica cuanto antes!
+
+[4936]
+¡Deprisa, a la colina de Choux Fleurs!
+
+[4937]
+¡Es intolerable que persigan por bruja a alguien como Angélica!
+
+[4938]
+¡Hay que ir a detenerlos cuanto antes!
+
+[4939]
+Prier, como dijiste, ¡quiero creer que viajamos al pasado para salvar a Angélica!
+
+[4940]
+¡Por ahora, creamos que es así!
+
+[4941]
+Ahora me toca a mí ayudar a mi hermana mayor y a la hermana Alouette.
+
+[4942]
+¡Yo también demostraré que puedo cumplir como exorcista, sin quedarme atrás de Éclair!
+
+[4943]
+¡Acabemos de una vez con esos demonios de Mayonnaise! ¡Nos bastamos nosotros solos!
+
+[4944]
+¡Eso es!
+
+[4945]
+¡Por Alouette y por mi hermana!
+
+[4946]
+¡El señor Hermes está en la biblioteca del castillo de Cresson!
+
+[4947]
+¡Tenemos que apresurarnos...!
+
+[4948]
+Éclair...
+
+[4949]
+Te preocupa Homard, ¿verdad?
+
+[4950]
+No...
+
+[4951]
+Estoy segura de que él no perderá.
+
+[4952]
+De verdad lo creo.
+
+[4953]
+Pero...
+
+[4954]
+Te entiendo, Éclair.
+
+[4955]
+¡Deprisa, a la habitación de Hermes!
+
+[4956]
+¡Como dijo la diosa Poitreene, seamos la espada y el escudo que protejan a la Doncella de la Luz!
+
+[4957]
+¡Protegeré a Alouette, cueste lo que cueste!
+
+[4958]
+¡Tú y Éclair tienen una mirada mucho más decidida!
+
+[4959]
+¡Hay que mostrarles esa determinación a Prier y a Alouette cuanto antes!
+
+[4960]
+¡Apresurémonos a la iglesia!
+
+[4961]
+¡Deprisa, al bosque de Meuniere!
+
+[4962]
+¡No permitiré que los de la Iglesia de la Madre Divina maten al guardián del bosque!
+
+[4963]
+Tenías razón, hermana...
+
+[4964]
+¡En cualquier caso, vayamos deprisa al bosque de Meuniere!
+
+[4965]
+¡El guardián del bosque está en peligro!
+
+[4966]
+¡Ya te dije que era sospechoso! ¡Tiene cara de maleante!
+
+[4967]
+La próxima vez, mejor le damos una paliza a cualquiera que tenga cara de maleante.
+
+[4968]
+P-pero... ¿no te parece un poco exagerado, hermana?
+
+[4969]
+Su suerte se acabó en cuanto aparecieron por la enfermería de la Iglesia de la Doncella Sagrada.
+
+[4970]
+Quien hace el mal acaba recibiendo su castigo.
+
+[4971]
+Se lo buscaron.
+
+[4972]
+Tú también deberías andarte con ojo, Croix.
+
+[4973]
+O-oye...
+
+[4974]
+¡Lo dices como si yo hubiera hecho algo malo!
+
+[4975]
+¡Homard...!
+
+[4976]
+¡Vayamos cuanto antes a Mayonnaise!
+
+[4977]
+Sí, vamos.
+
+[4978]
+Hasta ahora no hemos sido más que una carga, ¡pero ahora nos toca ayudar a Homard y a los demás!
+
+[4979]
+¿Qué es esto?
+
+[4980]
+¿Una puerta? ¿Aquí?
+
+[4981]
+¡¿Qué lugar es este?!
+
+[4982]
+Doncella de la Luz...
+
+[4983]
+Si pueden oírme, espíritus afligidos, ¡muéstrense ante nosotros!
+
+[4984]
+¿Quiénes... son ustedes...?
+
+[4985]
+Servimos a la diosa Poitreene y a su manifestación terrenal, la Doncella de la Luz.
+
+[4986]
+Hemos venido a dar descanso a los espíritus errantes de este lugar.
+
+[4987]
+¿Son servidores de la diosa?
+
+[4988]
+Ya veo...
+
+[4989]
+Me llamo Collier.
+
+[4990]
+Y este es mi hijo Colonne.
+
+[4991]
+Mucho antes de que ustedes nacieran...
+
+[4992]
+Cuando todavía vivíamos...
+
+[4993]
+El Imperio Canar invadió este país.
+
+[4994]
+¿El Imperio Canar...?
+
+[4995]
+¿Qué es eso?
+
+[4996]
+Un gran imperio que existió al oeste hace cuatrocientos años.
+
+[4997]
+¿Acaso no estudiaste historia?
+
+[4998]
+Existió mucho antes que el Reino de Paprica.
+
+[4999]
+Ah... ¡sí, claro...!
+
+[5000]
+Ahora me acuerdo...
+
+[5001]
+Y bien, ¿qué hacen aquí unas personas que vivieron hace tanto?
+
+[5002]
+Mi esposo, el conde Montblanc, señor de este castillo, nos construyó un refugio subterráneo.
+
+[5003]
+Estuvimos escondidos aquí mucho tiempo.
+
+[5004]
+¿El conde Montblanc?
+
+[5005]
+Oye, ¿ese no era el nombre del jefe zombi...?
+
+[5006]
+Sí, creo que sí.
+
+[5007]
+Ustedes...
+
+[5008]
+¿Conocieron a mi esposo?
+
+[5009]
+¿Dónde está?
+
+[5010]
+Lo siento...
+
+[5011]
+Tuvimos que acabar con él.
+
+[5012]
+Ya veo... Sabía que este día llegaría.
+
+[5013]
+Ya no tenemos que seguir esperando.
+
+[5014]
+Soñaba con que algún día volvería a buscarnos, pero...
+
+[5015]
+Todavía era un niño...
+
+[5016]
+Sí...
+
+[5017]
+Bien, vámonos.
+
+[5018]
+¡Esperen!
+
+[5019]
+¡Han dejado escapar a mi precioso pajarillo! ¡No!
+
+[5020]
+¡¿Cómo han podido hacerme esto?!
+
+[5021]
+¡Aaaah!
+
+[5022]
+Mi... pajarillo...
+
+[5023]
+¿Quién era ese...?
+
+[5024]
+Ahora no tenemos manera de saberlo.
+
+[5025]
+Y la culpa es nuestra.
+
+[5026]
+A partir de ahora tendremos que investigar mejor.
+
+[5027]
+El destino de estas pobres almas en pena depende de nosotros.
+
+[5028]
+¿Q-qué es esto?!
+
+[5029]
+Parecen almas de difuntos.
+
+[5030]
+Algo las mantiene atrapadas aquí.
+
+[5031]
+Qué horror...
+
+[5032]
+Pero ¿quién haría algo así...?
+
+[5033]
+...No lo sé.
+
+[5034]
+¡Ya nos preocuparemos por eso después!
+
+[5035]
+¡Tenemos que liberar a estas pobres almas!
+
+[5036]
+¡Esperen!
+
+[5037]
+¡Ustedes!
+
+[5038]
+¡Ustedes liberaron las almas de mi hermano y de su esposa, Collier!
+
+[5039]
+¡¿Otra vez piensan entrometerse en mis asuntos?!
+
+[5040]
+¡Aaaah!
+
+[5041]
+...¿Ya... terminó?
+
+[5042]
+Ese hombre...
+
+[5043]
+Parecía furioso porque liberamos las almas del conde y su familia.
+
+[5044]
+¿Quién era?
+
+[5045]
+Parece un interruptor.
+
+[5046]
+¡Probemos a accionarlo!
+
+[5047]
+¡Se oye cómo se destraba una puerta en la habitación contigua!
+
+[5048]
+¡Ya estoy harta!
+
+[5049]
+¡No lo aguanto más!
+
+[5050]
+¡¿Por qué tengo que perder el tiempo peleando contra zombis?!
+
+[5051]
+¡Son unos debiluchos!
+
+[5052]
+¿Y si se ensucia mi ropa? ¡La acaban de lavar!
+
+[5053]
+¡No hables así!
+
+[5054]
+El padre Salade tiene razón.
+
+[5055]
+Estamos empezando, así que primero debemos enfrentarnos a enemigos fáciles antes de ir por los más fuertes.
+
+[5056]
+Recuerda que llevas dos días seguidos dejando escapar a un fantasma por irte sola.
+
+[5057]
+¡Y encima soy yo quien tiene que lavar toda la ropa!
+
+[5058]
+¿Puedes dejar de quejarte un rato?
+
+[5059]
+¡Tú, cállate!
+
+[5060]
+Bien, hermana Prier...
+
+[5061]
+Culotte tiene razón.
+
+[5062]
+Todavía eres una cazadora de demonios novata.
+
+[5063]
+Procura no olvidarlo.
+
+[5064]
+Y recuerda que estamos al servicio de la Santa Diosa...
+
+[5065]
+Te prohíbo volver a llamar «debiluchos» a esas almas perdidas.
+
+[5066]
+Uf...
+
+[5067]
+Otra vez con lo mismo...
+
+[5068]
+¿Queda claro, hermana Prier?
+
+[5069]
+Sí, sí, lo entiendo...
+
+[5070]
+Ahora debes arrepentirte.
+
+[5071]
+Está bien, está bien...
+
+[5072]
+Oh, santa diosa Poitreene... ¡Perdón por eso! Ya está, he terminado.
+
+[5073]
+¡Hermana Prier! ¡Debes tomártelo más en serio!
+
+[5074]
+¡Que sí, que sí!
+
+[5075]
+(Qué fastidio...)
+
+[5076]
+¡Oh, santa diosa!
+
+[5077]
+¡Castiga, por favor, a esta indigna sierva tuya!
+
+[5078]
+¡Oye! ¿Qué ha sido eso?
+
+[5079]
+¡Le estaba hablando a la diosa!
+
+[5080]
+Yo no he hecho nada...
+
+[5081]
+Parece que, después de todo, tu plegaria llegó a la diosa...
+
+[5082]
+(¡Será posible...!)
+
+[5083]
+(¡Grrr...!)
+
+[5084]
+(Cuidado, Prier.)
+
+[5085]
+(Quieres ser la próxima Doncella de la Luz, ¿verdad?
+
+[5086]
+¡No pierdas tiempo con estas tonterías!)
+
+[5087]
+(¡Mantén la calma y concéntrate en lo importante!)
+
+[5088]
+Muy bien.
+
+[5089]
+Vamos a empezar.
+
+[5090]
+Culotte, ¿cuál es la base de toda investigación?
+
+[5091]
+Eh... Lo fundamental es recopilar información. / Bien hecho, Culotte, como siempre. Muy bien.
+
+[5092]
+Muy bien.
+
+[5093]
+Oye, ¿te estás sonrojando?
+
+[5094]
+¿Q-qué? ¿Yo?
+
+[5095]
+Vamos, ustedes dos.
+
+[5096]
+Vamos a ayudar a unas almas perdidas.
+
+[5097]
+En nombre de la Doncella de la Luz.
+
+[5098]
+¡Sí!
+
+[5099]
+(¡Pronto seré yo la Doncella de la Luz!)
+
+[5100]
+Es aquí. Dijeron que habían visto zombis en este lugar.
+
+[5101]
+No me extraña.
+
+[5102]
+¡Muy bien!
+
+[5103]
+¡Entremos!
+
+[5104]
+Vamos a comenzar el tutorial de combate.
+
+[5105]
+¿Quieres escucharlo?
+
+[5106]
+Sí / No / Ahora repasemos lo que has aprendido hasta ahora.
+
+[5107]
+Culotte, ¿te importaría hacerlo?
+
+[5108]
+¡Con mucho gusto, hermana Alouette!
+
+[5109]
+Y tú, hermana Prier, presta mucha atención.
+
+[5110]
+Será mejor que tomes apuntes.
+
+[5111]
+Empecemos por lo básico de la caza de demonios.
+
+[5112]
+Mueve el cursor hasta el panel de base.
+
+[5113]
+Pulsa ○ y selecciona a los personajes que quieras utilizar.
+
+[5114]
+Después, da órdenes a cada personaje.
+
+[5115]
+Recuerda que las órdenes de ataque no se ejecutan inmediatamente.
+
+[5116]
+Para ejecutarlas, pulsa △ y elige «Luchar» o «Terminar turno».
+
+[5117]
+Je...
+
+[5118]
+Me han derrotado...
+
+[5119]
+Un ejemplo perfecto...
+
+[5120]
+...de lo que no hay que hacer.
+
+[5121]
+¡Oye! ¡Tampoco fue para tanto!
+
+[5122]
+Eso te pasa por dejar que los enemigos te rodeen.
+
+[5123]
+Los personajes inconscientes se recuperan al regresar al mapa del mundo.
+
+[5124]
+Pero si todos tus personajes caen inconscientes, la partida termina.
+
+[5125]
+Conviene que varios personajes ataquen al mismo enemigo.
+
+[5126]
+Así es, Culotte. La próxima vez, ten más cuidado.
+
+[5127]
+Culotte, puedes atacar a enemigos que estén a dos casillas. Por ejemplo...
+
+[5128]
+Si Prier está entre tú y un enemigo, puedes atacar mientras ella te protege.
+
+[5129]
+¡Por mí, estupendo!
+
+[5130]
+¡Claro, tú lo dices muy fácil!
+
+[5131]
+¡Pero quien acabaría recibiendo los golpes sería yo!
+
+[5132]
+Esos son los fundamentos.
+
+[5133]
+Veamos si puedes aplicarlos en un pequeño combate.
+
+[5134]
+¡Oye! ¡Que no me estás haciendo caso!
+
+[5135]
+¡Vamos, manos a la obra!
+
+[5136]
+Culotte...
+
+[5137]
+¿Y ahora qué toca?
+
+[5138]
+¡Ya sé!
+
+[5139]
+La purificación, ¿no?
+
+[5140]
+¡Eso es!
+
+[5141]
+¡Así se habla! ¡La purificación es muy importante! / Sobre la purificación...
+
+[5142]
+Purificar consiste en limpiar de energía oscura un lugar o un alma.
+
+[5143]
+En el campo de batalla hay tres rombos de distintos colores.
+
+[5144]
+Son portales oscuros.
+
+[5145]
+Para purificarlos, utiliza el comando «Purificar».
+
+[5146]
+Los portales oscuros nos debilitan...
+
+[5147]
+...y también la energía oscura que emana de ellos.
+
+[5148]
+Además, los enemigos pueden entrar en combate a través de los portales oscuros.
+
+[5149]
+Algunos portales oscuros tienen más puntos de vida (PV) que otros.
+
+[5150]
+Quizá tengas que purificarlos varias veces.
+
+[5151]
+Al purificar un portal oscuro, dañas a los enemigos que estén sobre la corriente de energía que sale de él.
+
+[5152]
+El tipo de daño depende del color de la corriente.
+
+[5153]
+Por ejemplo, la energía roja inflige daño de fuego.
+
+[5154]
+La corriente celeste tiene una propiedad especial.
+
+[5155]
+En vez de causar daño, recupera puntos de vida (PV).
+
+[5156]
+La energía oscura sigue la dirección hacia la que mira el personaje situado sobre la corriente.
+
+[5157]
+Pero...
+
+[5158]
+Como acabas de ver, un enemigo puede detener la corriente sin recibir daño si está frente a ella, pero fuera de su recorrido.
+
+[5159]
+¡Ahora me lo dices!
+
+[5160]
+En ese caso...
+
+[5161]
+Usa el comando «Dirección» o mantén pulsado □ y utiliza la cruceta para cambiar hacia dónde mira un personaje.
+
+[5162]
+La energía fluirá hacia donde mire ese personaje.
+
+[5163]
+¿Entendido?
+
+[5164]
+Recuerda esto...
+
+[5165]
+Colócate sobre la corriente oscura y mira hacia donde quieras desviar la energía.
+
+[5166]
+Al principio, con tan pocos aliados, puede costar aprovechar bien la purificación.
+
+[5167]
+Puedes cambiar el rumbo de la energía oscura con un objeto llamado «Cambio de rumbo».
+
+[5168]
+Una vez colocado, ya no podrás moverlo, pero sí cambiar la dirección a la que apunta.
+
+[5169]
+¡Incluso puedes ponerlo sobre un enemigo para obligar a la corriente a girar!
+
+[5170]
+Son objetos de un solo uso.
+
+[5171]
+Desaparecen cuando completas el escenario.
+
+[5172]
+La purificación también te permite atacar enemigos desde lejos.
+
+[5173]
+¡Te será muy útil! Procura practicar.
+
+[5174]
+No pienso darle tantas vueltas. ¡Purificaré todos los portales que pueda!
+
+[5175]
+Culotte, prosigue con la lección, por favor.
+
+[5176]
+De acuerdo. Ahora toca explicar cómo reclutar enemigos, ¿verdad?
+
+[5177]
+¡¿Cómo?! ¡¿También podemos hacernos amigos de los enemigos?!
+
+[5178]
+¿Pero qué has estado estudiando todo este tiempo?
+
+[5179]
+De verdad...
+
+[5180]
+¿Y cómo demonios aprobaste el examen?
+
+[5181]
+¡Cállate! ¡Yo no aprendo leyendo libros!
+
+[5182]
+¡Aprendo con la práctica!
+
+[5183]
+Como usted diga, señora.
+
+[5184]
+Ahora les explicaré cómo conseguir que los enemigos se unan a nuestro bando.
+
+[5185]
+Para reclutar a un enemigo, primero tienes que purificarlo.
+
+[5186]
+Si lo purificas antes de derrotarlo, por ejemplo así...
+
+[5187]
+...existe la posibilidad de que pase a formar parte de tu equipo.
+
+[5188]
+Cuantas más veces purifiques a un enemigo, más puro se volverá su corazón y más probable será que se una a ti.
+
+[5189]
+Puedes llamar a los personajes convertidos al combate de inmediato desde el panel base. / ¡Eso es todo! Cuantos más enemigos conviertas, más fuerte será tu ejército.
+
+[5190]
+Cuantos más enemigos reclutes, más poderoso será tu grupo.
+
+[5191]
+Muchas gracias, Culotte.
+
+[5192]
+Lo has hecho muy bien.
+
+[5193]
+Sí, gracias...
+
+[5194]
+A partir de ahora, la hermana Prier estará al mando.
+
+[5195]
+¡¿Yo?! ¡¿Al mando?!
+
+[5196]
+Exactamente, tú.
+
+[5197]
+Claro que aún estás en período de formación.
+
+[5198]
+Si nos encontramos con un enemigo que te supere...
+
+[5199]
+...te relevaré enseguida y asumiré el mando.
+
+[5200]
+Sí, claro, claro...
+
+[5201]
+Ya me lo imaginaba...
+
+[5202]
+(Bueno... ¡Un paso más para convertirme en la Doncella de la Luz!)
+
+[5203]
+(¡Ya verán de lo que soy capaz!)
+
+[5204]
+¿Eh?
+
+[5205]
+¡Oye, creo que podemos vencerlo!
+
+[5206]
+¿Y si intentamos que se una a nosotros?
+
+[5207]
+Pero, Prier...
+
+[5208]
+¡Si es un zombi!
+
+[5209]
+¿Y qué más da? Si sabe luchar, nos servirá.
+
+[5210]
+Si quieres reclutarlo, continúa purificándolo.
+
+[5211]
+Si después lo derrotas, se pasará a nuestro lado, quieras o no.
+
+[5212]
+Cuantos más enemigos de una misma especie hayas reclutado, menos probable será que los siguientes se unan.
+
+[5213]
+¡Muy bien! ¡Hagamos que se una al grupo!
+
+[5214]
+Vaya, vaya...
+
+[5215]
+¿Qué ocurre?
+
+[5216]
+¿Pasa algo?
+
+[5217]
+Fíjate bien en el recorrido de la energía oscura.
+
+[5218]
+Si ese zombi no cortara la corriente, esta formaría un círculo completo.
+
+[5219]
+¡Ah, ya entiendo! ¿Te refieres a los Grandes Milagros?
+
+[5220]
+Sabía que lo entenderías, Culotte.
+
+[5221]
+¡Eh, que estoy aquí!
+
+[5222]
+¡No tengo ni idea de lo que están hablando!
+
+[5223]
+Para provocar un Gran Milagro, forma un circuito cerrado de energía que abarque al menos 15 casillas.
+
+[5224]
+Cuando purifiques el portal, todos los enemigos dentro del círculo recibirán daño.
+
+[5225]
+No es fácil conseguirlo, pero su poder es enorme.
+
+[5226]
+Salvo si usas la corriente celeste curativa, el ataque requiere que haya al menos un enemigo dentro del círculo.
+
+[5227]
+Como ves, aquí primero tenemos que derrotar al zombi para cerrar el circuito.
+
+[5228]
+Una vez que la energía circule en bucle, solo tendremos que purificar el portal oscuro.
+
+[5229]
+Bueno...
+
+[5230]
+¡Allá vamos!
+
+[5231]
+¿Eh?
+
+[5232]
+Hay algo raro en esa casilla, junto a los zombis.
+
+[5233]
+Muy buena observación, hermana Prier.
+
+[5234]
+Ha sido pura intuición...
+
+[5235]
+Si pisas uno de esos paneles parpadeantes, se activará un evento.
+
+[5236]
+¿Un evento?
+
+[5237]
+O sea, que no sabremos qué ocurre hasta que lo probemos, ¿eh?
+
+[5238]
+¿Seguimos adelante?
+
+[5239]
+¿Cómo?
+
+[5240]
+Esa no es una respuesta. Una líder siempre debe conocer el estado de sus tropas.
+
+[5241]
+Si hace falta, vuelve con ellas a la ciudad para comprar provisiones y guardar la partida.
+
+[5242]
+Exacto. Además, al volver al mapa del mundo recuperamos los puntos de vida (PV) y los puntos especiales (PE).
+
+[5243]
+Prier, creo que esta vez deberías hacerle caso a la hermana Alouette.
+
+[5244]
+Para regresar, basta con mover a tu personaje hasta la salida.
+
+[5245]
+Tú tienes la última palabra.
+
+[5246]
+Pero recuerda que debes actuar con mucha cautela.
+
+[5247]
+¡¿Pero qué...?!
+
+[5248]
+¿Qué pinta un castillo aquí?
+
+[5249]
+A mí no me preguntes...
+
+[5250]
+No tengo la menor idea.
+
+[5251]
+Aquí debe de estar el origen de esos zombis.
+
+[5252]
+Siento una presencia impura.
+
+[5253]
+Un momento... ¡¿No estarás pensando en que entremos?!
+
+[5254]
+Pues... creo que será mejor que me marche...
+
+[5255]
+¡Alto!
+
+[5256]
+Eso tiene un nombre: incumplimiento del deber. Y es imperdonable.
+
+[5257]
+¡En nombre de la Doncella de la Luz, te ordeno que sigas adelante!
+
+[5258]
+(¡Vieja mandona!)
+
+[5259]
+Te he oído.
+
+[5260]
+¡En nombre de la Doncella de la Luz, te prohíbo volver a llamarme «vieja»!
+
+[5261]
+Está bien, está bien...
+
+[5262]
+Concéntrate, hermana Prier.
+
+[5263]
+No lo olvides: el destino de esas pobres criaturas recae por completo sobre tus hombros. Si fracasamos, sus almas vagarán para siempre.
+
+[5264]
+Es una enorme responsabilidad, pero forma parte de nuestro deber como cazadores de demonios.
+
+[5265]
+¡...soldados imperiales!
+
+[5266]
+¡Este castillo no caerá mientras yo siga aquí!
+
+[5267]
+¿Soldados imperiales?
+
+[5268]
+¿De qué estás hablando?
+
+[5269]
+¡Silencio!
+
+[5270]
+¡Ahora morirás!
+
+[5271]
+¡¿Qu... qué?!
+
+[5272]
+...Collier...
+
+[5273]
+...Colonne...
+
+[5274]
+...Mi querida esposa y mi hijo...
+
+[5275]
+El castillo se viene abajo...
+
+[5276]
+...Deben... escapar...
+
+[5277]
+¿Crees que regresará?
+
+[5278]
+No lo sé...
+
+[5279]
+Pero parecía que intentaba proteger algo.
+
+[5280]
+Creo que tienes razón...
+
+[5281]
+Oye, todavía no sabemos qué pasa con tantos zombis, ¿verdad?
+
+[5282]
+Señor Noir...
+
+[5283]
+Noto que la energía oscura alrededor del castillo de Montblanc se ha debilitado.
+
+[5284]
+Sin duda, ha sido obra de la Doncella.
+
+[5285]
+La Pucelle, ¿eh?
+
+[5286]
+Mmm...
+
+[5287]
+¡Oye!
+
+[5288]
+¿Eso no parece una puerta? La han tapiado...
+
+[5289]
+¡Puede que haya un tesoro dentro!
+
+[5290]
+Yo no contaría con eso...
+
+[5291]
+Del otro lado percibo una profunda tristeza y mucho sufrimiento.
+
+[5292]
+Intentemos abrirla.
+
+[5293]
+Hermana Prier, ¿Culotte?
+
+[5294]
+¿Podéis encargaros de la puerta?
+
+[5295]
+¡Sí, señora!
+
+[5296]
+No me metí en esto para hacer trabajos de albañilería, pero bueno...
+
+[5297]
+¡Ay, quita, anda!
+
+[5298]
+¡Culotte, apártate de una vez!
+
+[5299]
+¡Hiiiiyaaa!
+
+[5300]
+¡Ja!
+
+[5301]
+Esto... Prier, ¿la próxima vez podrías hacerlo con un poco más de delicadeza?
+
+[5302]
+Al fin y al cabo, se supone que eres una hermana de la Iglesia.
+
+[5303]
+Tú ya lo intentaste por las buenas.
+
+[5304]
+Y mi método funcionó.
+
+[5305]
+¡¿Pero qué es esto...?!
+
+[5306]
+¡Aquí no hay ningún tesoro!
+
+[5307]
+Era de esperar.
+
+[5308]
+Qué pérdida de tiempo...
+
+[5309]
+¡Espíritus atormentados, si podéis oírme, manifestaos!
+
+[5310]
+...¿Qui... quiénes sois...?
+
+[5311]
+Hemos venido a daros descanso eterno.
+
+[5312]
+Con semejante patada a la puerta, pensé que venía un monstruo terrible...
+
+[5313]
+¡Ja, ja, ja! ¡Ya eres un monstruo con todas las de la ley!
+
+[5314]
+¡Hasta el fantasma lo dice!
+
+[5315]
+¡Cállate!
+
+[5316]
+No te preocupes.
+
+[5317]
+Aunque no lo parezca por sus modales, es inofensiva.
+
+[5318]
+Yo misma respondo por ella.
+
+[5319]
+El Imperio de Canar invadió nuestro país.
+
+[5320]
+¿El Imperio de Canar...?
+
+[5321]
+Un gran imperio que existió en Occidente hace cuatrocientos años.
+
+[5322]
+¿Y qué?
+
+[5323]
+¿Qué hacen aquí personas de hace tanto tiempo?
+
+[5324]
+El conde Montblanc, mi marido y señor de este castillo, nos construyó un refugio subterráneo. Allí estuvimos escondidos mucho tiempo. Cuando quisimos salir, descubrimos que alguien nos había encerrado.
+
+[5325]
+Ni siquiera como fantasmas podíamos atravesar las paredes revestidas de plomo de aquella habitación...
+
+[5326]
+Pero, gracias a vosotros, por fin hemos escapado de nuestra prisión.
+
+[5327]
+Gracias. De todo corazón.
+
+[5328]
+Sí. Muchas gracias.
+
+[5329]
+Os estaremos eternamente agradecidos.
+
+[5330]
+¿Quién sería capaz de encerrar a alguien aquí...?
+
+[5331]
+¿Y por qué?
+
+[5332]
+Me pregunto si tendrá algo que ver con los zombis...
+
+[5333]
+¡Este castillo no caerá mientras yo siga aquí!
+
+[5334]
+¡Un momento!
+
+[5335]
+¡No somos soldados imperiales...!
+
+[5336]
+¡Cariño!
+
+[5337]
+¡¿Qué?!
+
+[5338]
+¡Collier...!
+
+[5339]
+¡Colonne...!
+
+[5340]
+Padre...
+
+[5341]
+Cariño...
+
+[5342]
+No son soldados imperiales.
+
+[5343]
+La guerra ha terminado.
+
+[5344]
+Ya no tienes que seguir luchando.
+
+[5345]
+¿La guerra... ha terminado...?
+
+[5346]
+Sí. Ya no necesitas seguir protegiendo el castillo. / ¡Entiendo!
+
+[5347]
+¡Los zombis eran los soldados encargados de proteger el castillo!
+
+[5348]
+Incluso después de morir, seguían custodiándolo.
+
+[5349]
+¿La guerra... ha terminado...?
+
+[5350]
+Ya veo... Se acabó...
+
+[5351]
+Cariño... Este ya no es nuestro lugar.
+
+[5352]
+Ven con nosotros.
+
+[5353]
+Te lo ruego, diosa Poitreene...
+
+[5354]
+Conduce estas almas al descanso eterno...
+
+[5355]
+Vaya...
+
+[5356]
+¡Ha sido increíble!
+
+[5357]
+¡Nunca había visto nada igual! ¡De verdad, impresionante!
+
+[5358]
+Increíble...
+
+[5359]
+¡Un momento! ¡Bah!
+
+[5360]
+¡Eso no tiene nada de especial!
+
+[5361]
+Yo también podría hacerlo si quisiera...
+
+[5362]
+Sigue soñando.
+
+[5363]
+¡Culotte!
+
+[5364]
+Espera un momento...
+
+[5365]
+Ahora que lo pienso...
+
+[5366]
+¿Quién encerró a la familia del conde, después de todo?
+
+[5367]
+¡Oye, es verdad!
+
+[5368]
+Es una buena pregunta.
+
+[5369]
+Señor Noir.
+
+[5370]
+¡Prier!
+
+[5371]
+¡Eh, vosotros!
+
+[5372]
+¿Qué estáis haciendo aquí?
+
+[5373]
+¡Es peligroso!
+
+[5374]
+Bah, solo queríamos ver si de verdad estabas haciendo tu trabajo.
+
+[5375]
+¿A que sí, chicos?
+
+[5376]
+¿Pero qué voy a hacer con vosotros?
+
+[5377]
+Venir hasta aquí, nada menos...
+
+[5378]
+¡La directora del orfanato debe de estar muerta de preocupación!
+
+[5379]
+Lo siento.
+
+[5380]
+Pero... ¡hemos encontrado algo bueno!
+
+[5381]
+¿Cómo habéis conseguido encontrar algo así?
+
+[5382]
+Je, je.
+
+[5383]
+Ya me he puesto en contacto con la Iglesia.
+
+[5384]
+No tardarán en llegar.
+
+[5385]
+Dejo a los niños a su cuidado.
+
+[5386]
+Hermana Olive, por favor, dígale al padre Salade que continuaremos investigando.
+
+[5387]
+Entendido, hermana Alouette.
+
+[5388]
+Que la diosa Poitreene os proteja durante el viaje.
+
+[5389]
+Gracias, señora guapa.
+
+[5390]
+Cuida bien de Prier.
+
+[5391]
+¿Vale?
+
+[5392]
+Ten cuidado.
+
+[5393]
+¡Adiós, Prier! ¡No le des demasiados quebraderos de cabeza a la señora guapa! ¿Vale?
+
+[5394]
+Muy bien, pues...
+
+[5395]
+Volvamos al trabajo.
+
+[5396]
+¿Un diario...?
+
+[5397]
+¡Grrrr!
+
+[5398]
+¡Bah!
+
+[5399]
+¡Este tipo me da asco!
+
+[5400]
+Así que fue el hermano del conde quien encerró a su familia...
+
+[5401]
+Al igual que la luz y la oscuridad, el amor y el odio son dos caras de la misma moneda.
+
+[5402]
+Así está escrito en el Libro Sagrado.
+
+[5403]
+Es todo tan triste...
+
+[5404]
+¡¿Eres tú el conde?!
+
+[5405]
+¡Soldados imperiales!
+
+[5406]
+¡La guerra ha terminado!
+
+[5407]
+¡Basta de mentiras!
+
+[5408]
+¡No me engañaréis ni por un instante!
+
+[5409]
+¡Collier!
+
+[5410]
+¡Colonne!
+
+[5411]
+¡Padre!
+
+[5412]
+Cariño... No son soldados imperiales.
+
+[5413]
+Dicen la verdad. La guerra ha terminado.
+
+[5414]
+Ni siquiera la muerte les impidió seguir custodiando el castillo.
+
+[5415]
+¿La guerra... ha terminado?
+
+[5416]
+Ya veo... Se acabó...
+
+[5417]
+Cariño... Ya no tenemos nada que hacer aquí.
+
+[5418]
+Ven con nosotros.
+
+[5419]
+¡¿Adónde crees que vas?!
+
+[5420]
+¡Otra vez estás intentando arrebatarme a Collier!
+
+[5421]
+¡Hermano mayor!
+
+[5422]
+¡Esa voz...!
+
+[5423]
+¿Oseille?
+
+[5424]
+¿Eres tú, Oseille? ¿Mi hermano?
+
+[5425]
+¡Es mi precioso pajarillo cantor!
+
+[5426]
+¡No permitiré que me la quites!
+
+[5427]
+¿Dónde estoy?
+
+[5428]
+¿Qué me ha pasado?
+
+[5429]
+¡No estamos hablando de ti!
+
+[5430]
+¡Mira cuánto sufrimiento ha provocado tu egoísmo!
+
+[5431]
+Ni siquiera la muerte ha logrado librarte de los celos que te consumen.
+
+[5432]
+No...
+
+[5433]
+¡No lo entiendes!
+
+[5434]
+¿A MÍ me echas la culpa?
+
+[5435]
+¡¿Qué sabrás tú?!
+
+[5436]
+Mi maravilloso hermano...
+
+[5437]
+¡Mi hermano perfecto!
+
+[5438]
+¡Él lo tenía todo y yo nada!
+
+[5439]
+¡Y encima me arrebató a la mujer que amaba!
+
+[5440]
+¿Cómo no iba a llenárseme el corazón de oscuridad?
+
+[5441]
+¿Es que no lo entiendes, Collier?
+
+[5442]
+Collier, mi precioso pajarillo cantor...
+
+[5443]
+Vuelve conmigo...
+
+[5444]
+¡Serás idiota!
+
+[5445]
+¡¿Han pasado cientos de años y todavía no te has dado cuenta?!
+
+[5446]
+¡Que no le gustas!
+
+[5447]
+¿Y qué? ¡Supéralo de una vez!
+
+[5448]
+¡Déjate de cuentos con lo de «mi pajarillo» y sigue adelante!
+
+[5449]
+¡Sal ahí fuera y búscate a otra mujer!
+
+[5450]
+Y ya que estamos, ¡deja de envidiar a tu hermano!
+
+[5451]
+Puedes compararte con él cuanto quieras, ¡pero no tiene sentido! ¡Sois personas distintas!
+
+[5452]
+Dedica esa energía a descubrir lo que te hace especial y esfuérzate por desarrollarlo.
+
+[5453]
+Eh, Prier... Quizá estés siendo demasiado dura con él.
+
+[5454]
+Mi hermano...
+
+[5455]
+Collier...
+
+[5456]
+Supongo que...
+
+[5457]
+Estaba equivocado...
+
+[5458]
+Jamás imaginé que mi hermano sintiera tantos celos de mí.
+
+[5459]
+Vámonos.
+
+[5460]
+Por fin podremos ser felices.
+
+[5461]
+Te ruego que guíes a estas almas hacia su descanso eterno...
+
+[5462]
+¡Un momento! ¡Bah!
+
+[5463]
+Las energías oscuras que rodean el castillo de Montblanc se han debilitado.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk02_jp.dat ===
+
+[5464]
+Es que no me fío nada de los de la Iglesia de la Madre Divina.
+
+[5465]
+Con esas capuchas puestas a plena luz del día, está claro que traman algo.
+
+[5466]
+¿Cómo sabes si estás enamorado?
+
+[5467]
+E-eh... Bueno, pues...
+
+[5468]
+Me pregunto qué aspecto tendrá la diosa Poitreene.
+
+[5469]
+¡Seguro que es preciosa!
+
+[5470]
+Ahora que lo dices, nunca la he visto en persona...
+
+[5471]
+¡Pues claro, la diosa Poitreene!
+
+[5472]
+¿E-el sentido de la existencia...?
+
+[5473]
+Hace un rato vino un hombre con gafas de sol preguntando por los últimos asesinatos.
+
+[5474]
+¿Sería de la policía secreta?
+
+[5475]
+Mooboo.
+
+[5476]
+(Oh, diosa...)
+
+[5477]
+(¡Por favor, que hoy cenemos filetes de Mooboo...!)
+
+[5478]
+Vaya, hermana Prier...
+
+[5479]
+¡Así que por fin has comprendido nuestra misión! ¡Incluso rezas por un animal!
+
+[5480]
+E-eh... ¡Sí, claro, eso mismo!
+
+[5481]
+(No te dejes engañar, hermana Alouette).
+
+[5482]
+(Apuesto a que solo estaba pensando en comerse un filete de Mooboo...).
+
+[5483]
+¡Vaya!
+
+[5484]
+¡Este tiene pinta de estar buenísimo!
+
+[5485]
+¡Anda! ¿Tú también lo crees?
+
+[5486]
+Me da que tú y yo vamos a llevarnos muy bien.
+
+[5487]
+Hermana Prier.
+
+[5488]
+Sí, sí...
+
+[5489]
+¡Una hermana al servicio de la diosa no debería pensar semejantes cosas!
+
+[5490]
+...Eso es lo que vas a decir, ¿no?
+
+[5491]
+Ya lo sé.
+
+[5492]
+¡Que ya lo sé, mujer!
+
+[5493]
+Los Mooboo siempre van tan tranquilos que mirarlos me llena de paz.
+
+[5494]
+He oído que ha habido otro asesinato.
+
+[5495]
+¿Adónde vamos a parar en este país?
+
+[5496]
+Vaya.
+
+[5497]
+¿Eres una hermana de la Iglesia de la Doncella Sagrada?
+
+[5498]
+Esa iglesia vuestra es tan pequeña, tan poca cosa... ¡Hasta parece pobre!
+
+[5499]
+Yo prefiero la gran y respetable Iglesia de la Madre Divina.
+
+[5500]
+Hace poco conocí a Noir, el dirigente de la Iglesia de la Madre Divina.
+
+[5501]
+¡Es taaan misterioso y atractivo!
+
+[5502]
+¡Creí que me moría de la emoción!
+
+[5503]
+¿Pero esta es tonta o qué...?
+
+[5504]
+...Te han engañado por completo, seguro.
+
+[5505]
+Qué buen tiempo hace hoy, ¿eh?
+
+[5506]
+Así da gusto tender la ropa: se seca enseguida.
+
+[5507]
+Día tras día me paso el tiempo lavando los calzoncillos de mi marido.
+
+[5508]
+Ya podría lavarlos él de vez en cuando...
+
+[5509]
+Sí, sé muy bien de qué hablas.
+
+[5510]
+Mi hermana es un desastre con esas cosas.
+
+[5511]
+¡Me encasqueta toda su ropa sucia para que se la lave!
+
+[5512]
+¡Pero bueno, mocoso...!
+
+[5513]
+¡Deberías dar gracias por poder lavar la ropa de una chica tan guapa como yo!
+
+[5514]
+¡Dicen que el padre Salade puede tumbar a un demonio de un solo puñetazo!
+
+[5515]
+¡A mí me encantan los hombres fuertes!
+
+[5516]
+¿Qué habrá sido de aquellos zombis que decían que había en la Panza del Diablo?
+
+[5517]
+¿Sería todo una invención?
+
+[5518]
+Gracias por haberme ayudado antes.
+
+[5519]
+De no haber aparecido, ahora podría estar en el cielo.
+
+[5520]
+Gracias por ayudarme antes. Si no hubieras aparecido, quizá ya estaría en el cielo. Te lo agradezco de corazón.
+
+[5521]
+De cara al público, la Doncella se dedica a difundir las enseñanzas de la diosa.
+
+[5522]
+Pero, en secreto, los miembros de La Pucelle combaten demonios y fantasmas.
+
+[5523]
+La Doncella de la Luz y el Príncipe de las Tinieblas lucharon hace cincuenta años.
+
+[5524]
+El padre Salade quiere verte.
+
+[5525]
+Si me llega la hora, prefiero que venga a buscarme una angelita guapa y jovencita, ¡no la Parca!
+
+[5526]
+¡Jo, jo, jo!
+
+[5527]
+¡Nada de «jo, jo, jo»!
+
+[5528]
+¡Viejo verde!
+
+[5529]
+A mi edad, hasta pensar en la muerte da miedo.
+
+[5530]
+Supongo que por eso la gente reza a la diosa.
+
+[5531]
+¡Eh, Prier!
+
+[5532]
+¿Otra vez de trabajo?
+
+[5533]
+¡A ver cuándo te pasas a probar mi udon!
+
+[5534]
+¡Ya me gustaría, pero ando sin un duro!
+
+[5535]
+Ya sabes que nuestra iglesia es pobre...
+
+[5536]
+¡Nos pagan poquísimo!
+
+[5537]
+¡Hermana Prier!
+
+[5538]
+¡¿Pero qué está diciendo?!
+
+[5539]
+¡En nombre de la Doncella de la Luz, queda prohibido volver a decir «iglesia pobre»!
+
+[5540]
+Bueeeno...
+
+[5541]
+El otro día vino el padre Salade a comer udon...
+
+[5542]
+¡Se zampó cincuenta cuencos! ¡No sé dónde le cabe tanto!
+
+[5543]
+Dicen que el udon está de moda en todo el reino de Paprica.
+
+[5544]
+Mi hija me habló de este sitio y por eso vine a probarlo.
+
+[5545]
+¡Slurp, sluuurp!
+
+[5546]
+¡Ah!
+
+[5547]
+¡Los fideos hay que comerlos haciendo ruido!
+
+[5548]
+¡Qué buena pinta tiene!
+
+[5549]
+A mí también me gustaría probarlo...
+
+[5550]
+No sabía qué esperar del udon, ¡pero esos fideos tienen una textura estupenda y están riquísimos!
+
+[5551]
+¡Creo que voy a volverme adicto!
+
+[5552]
+La tienda Rosenqueen tiene mucho éxito.
+
+[5553]
+Deberías pasarte por allí.
+
+[5554]
+El cumpleaños de mi novio se acerca. ¿Qué crees que debería comprarle?
+
+[5555]
+El uniforme de las dependientas lo eligió el presidente de Industrias Rosenqueen.
+
+[5556]
+Perdón, es una pequeña manía que tengo. Solo me pasa cuando me emociono... ¡Hoy es nuestra gran inauguración! ¡Echa un vistazo!
+
+[5557]
+¡Anda, pero si es Prier!
+
+[5558]
+¿Ya te has acostumbrado al trabajo de exorcista?
+
+[5559]
+En fin, casi me dan lástima esos demonios a los que no paras de perseguir.
+
+[5560]
+¡¿Y eso qué significa?!
+
+[5561]
+¡Con lo que me ha costado venir a verte después de tanto tiempo!
+
+[5562]
+Cuánto tiempo sin verla, señora directora.
+
+[5563]
+Sí, sí.
+
+[5564]
+Culotte sigue siendo un buen chico, como siempre.
+
+[5565]
+Sabiendo que él está ahí, me quedo mucho más tranquila.
+
+[5566]
+Sigue llevando bien las riendas de tu hermana mayor, ¿eh?
+
+[5567]
+Esos niños harían lo que fuera por ayudaros a los dos.
+
+[5568]
+Para ellos sois de la familia. Y para mí también.
+
+[5569]
+No lo olvidéis.
+
+[5570]
+Sí... Lo sé.
+
+[5571]
+Nosotros también os consideramos nuestra familia.
+
+[5572]
+¡Hermana Prier, escúchame!
+
+[5573]
+¡El otro día fuimos a explorar la Panza del Diablo!
+
+[5574]
+¡Y nos encontramos con un zombi!
+
+[5575]
+¡Como esto siga así, la ciudad acabará llena de zombis!
+
+[5576]
+¡Ya eres exorcista, ¿verdad, hermana Prier?!
+
+[5577]
+¡Haz algo, por favor!
+
+[5578]
+Prier ha recibido 1 prica.
+
+[5579]
+¿Una sola prica...?
+
+[5580]
+¡Déjaselo todo a tu hermana Prier!
+
+[5581]
+¡Acabar con unos zombis está chupado!
+
+[5582]
+Escucha, Prier.
+
+[5583]
+¡Hemos decidido fundar la Agencia de Detectives Camembert para echaros una mano!
+
+[5584]
+¡Dejadlo en nuestras manos!
+
+[5585]
+¡Es la hermana Prier!
+
+[5586]
+Pues verás...
+
+[5587]
+Nosotros...
+
+[5588]
+En las afueras de la ciudad... Dentro de la Panza del Diablo...
+
+[5589]
+¡Vimos un zombi!
+
+[5590]
+Esto, Prier...
+
+[5591]
+¿Recuerdas el caso de asesinato que estás investigando?
+
+[5592]
+Quizá deberías visitar la escena del crimen antes de ir tras el sospechoso.
+
+[5593]
+La escena del crimen está en... en...
+
+[5594]
+¡Vaya, se me ha olvidado!
+
+[5595]
+¡Hip! ¡Hip!
+
+[5596]
+¡Hermana Prieeer!
+
+[5597]
+¡El otro día, jugando a las aventuras, vimos un zombi que daba muchísimo miedo!
+
+[5598]
+¡Y ningún adulto nos cree, salvo la directora del orfanato!
+
+[5599]
+La verdad, no me apetecía nada unirme a esa tonta agencia de detectives.
+
+[5600]
+¡Yo quería jugar a las casitas!
+
+[5601]
+¿Mmm?
+
+[5602]
+¿Qué te pasa, Prier?
+
+[5603]
+¡No te quedes ahí plantada! ¡Sal y busca al sospechoso!
+
+[5604]
+Unos vecinos dijeron que vieron una luz blanca que era absorbida por la Panza del Diablo. Oye, Prier... ¿Investigaste bien ese lugar? Como te pille holgazaneando...
+
+[5605]
+¿Investigaste a fondo ese lugar?
+
+[5606]
+Como te pille perdiendo el tiempo en el trabajo...
+
+[5607]
+...voy a tener que darte una lección.
+
+[5608]
+El padre Salade ha salido.
+
+[5609]
+¿Por qué tiene que sufrir mi hijo una enfermedad tan terrible?
+
+[5610]
+Ah, hermana Prier.
+
+[5611]
+¿En qué puedo ayudarte?
+
+[5612]
+Me temo que aquí no tenemos remedio para lo tuyo.
+
+[5613]
+¡¿Y eso qué quiere decir?!
+
+[5614]
+La Iglesia de la Doncella Sagrada ayuda a cualquiera que lo necesite.
+
+[5615]
+Eso es lo que siempre dice el padre Salade.
+
+[5616]
+Por eso decidió construir esta enfermería.
+
+[5617]
+La base de toda investigación es recopilar información.
+
+[5618]
+¿Lo tienes claro, hermana Prier?
+
+[5619]
+Sí, sí.
+
+[5620]
+¡Estoy harta de oírlo!
+
+[5621]
+Pues vayamos cuanto antes a investigar.
+
+[5622]
+Escucha bien a los vecinos: entre lo que dicen podría esconderse alguna pista importante.
+
+[5623]
+Entendido. Pero yo tengo muy mala memoria, así que encárgate tú de recordar lo importante.
+
+[5624]
+¿Queda claro, Culotte?
+
+[5625]
+Ay, hermana... Qué remedio...
+
+[5626]
+Parece que los zombis proceden de esa fortaleza subterránea.
+
+[5627]
+Tenemos que averiguar por qué se aferran todavía a este mundo.
+
+[5628]
+No olvides que de ti depende que podamos salvar sus almas.
+
+[5629]
+Uf... Menuda responsabilidad.
+
+[5630]
+¡Pero tengo que esforzarme si quiero llegar a ser la Doncella de la Luz!
+
+[5631]
+Puede que en ese castillo subterráneo esté la respuesta a por qué los zombis siguen aferrados a este mundo.
+
+[5632]
+Será mejor investigar todos sus rincones.
+
+[5633]
+Buf... ¡Qué pereza!
+
+[5634]
+¡Pero qué dices, hermana!
+
+[5635]
+¡Con esa actitud no llegarás ni a ser una exorcista de verdad, y mucho menos la Doncella de la Luz!
+
+[5636]
+¡No te tomes la broma tan en serio!
+
+[5637]
+Precisamente en momentos así hay que mantener la calma; si no, se nos puede escapar algo importante.
+
+[5638]
+A mí me suena a excusa...
+
+[5639]
+El padre Salade te está llamando.
+
+[5640]
+Ve cuanto antes a su habitación.
+
+[5641]
+¡Ya estaba pensando en ir, sin que me lo dijeras!
+
+[5642]
+Parece que el padre Salade te ha llamado.
+
+[5643]
+¿Habrá ocurrido algo?
+
+[5644]
+Snif, snif...
+
+[5645]
+¡Me huele a caso importante...!
+
+[5646]
+¡Hermana, tienes olfato de sabueso!
+
+[5647]
+¿Un demonio que cambia de forma y arranca el corazón a sus víctimas?
+
+[5648]
+Menudo caso más espeluznante...
+
+[5649]
+Pero no podemos ir buscando al culpable a ciegas.
+
+[5650]
+¿Un demonio que cambia de forma y arranca el corazón a la gente? Qué caso tan espantoso... Pero no podemos buscar al culpable a ciegas. Para resolverlo, debemos reunir más información. / Deberíamos encontrar pistas si continuamos con nuestra investigación. Pero la hermana Olive está preocupada, así que asegúrense de no perder demasiado tiempo, ¿de acuerdo?
+
+[5651]
+Pero la hermana Olive está preocupada, así que procura no tardar demasiado, ¿vale?
+
+[5652]
+Por lo visto, el asesinato se cometió en la calle Mirabeau...
+
+[5653]
+Sé que da miedo, pero, si queremos atraparlo, tendremos que examinar la escena del crimen.
+
+[5654]
+Ya veo. ¿Entrar en la bañera y buscar al culpable significa hacer eso?
+
+[5655]
+¿Meterse en la bañera?
+
+[5656]
+Meterse en la bañera...
+
+[5657]
+Meterse en la bañera y...
+
+[5658]
+¡Ah, espera!
+
+[5659]
+¡¿Te refieres a elaborar un perfil del culpable?!
+
+[5660]
+El culpable ha huido hacia el monte Tarte.
+
+[5661]
+Es peligroso que Culotte esté allí solo.
+
+[5662]
+¡Tenemos que encontrarlo cuanto antes!
+
+[5663]
+¡Aguanta, Culotte...!
+
+[5664]
+Tú también tienes que rezar.
+
+[5665]
+¿Así?
+
+[5666]
+Sí.
+
+[5667]
+¿Dónde están mamá y papá?
+
+[5668]
+Mamá y papá...
+
+[5669]
+Se han ido muy, muy lejos...
+
+[5670]
+Pero sé que siempre velarán por nosotros...
+
+[5671]
+¡No!
+
+[5672]
+¡Quiero a papá!
+
+[5673]
+¡Quiero a mamá!
+
+[5674]
+No llores, por favor.
+
+[5675]
+No pasa nada.
+
+[5676]
+A partir de ahora cuidaré de ti.
+
+[5677]
+Igual que lo hacía mamá.
+
+[5678]
+(Mamá, papá...
+
+[5679]
+No os preocupéis por nosotros.)
+
+[5680]
+(Pase lo que pase, por muy difíciles que se pongan las cosas, ¡haré todo lo posible!)
+
+[5681]
+(¡No me rendiré!)
+
+[5682]
+(¡Seré fuerte!)
+
+[5683]
+(Pero...)
+
+[5684]
+(Solo por hoy... dejadme ser débil...)
+
+[5685]
+Bien, eso es todo por hoy.
+
+[5686]
+Practicad mucho para la ceremonia de este fin de semana.
+
+[5687]
+¡Ha estado genial!
+
+[5688]
+¡Me encanta cantar!
+
+[5689]
+¡Y nadie se queja por mucho que levante la voz!
+
+[5690]
+¡Sí!
+
+[5691]
+¡Tengo el presentimiento de que hoy va a pasar algo bueno!
+
+[5692]
+Oye, Prier, escucha...
+
+[5693]
+Anoche soñé con mamá y papá.
+
+[5694]
+Ay, Culotte...
+
+[5695]
+¿Qué voy a hacer contigo?
+
+[5696]
+¡Es que no vas a madurar nunca!
+
+[5697]
+Siempre me trata como a un crío...
+
+[5698]
+No tiene nada de malo soñar.
+
+[5699]
+¡Oye! ¿Dónde está el padre Salade?
+
+[5700]
+¡Hermana Prier!
+
+[5701]
+¿Cuántas veces tengo que pedirte que llames antes de entrar?
+
+[5702]
+¡Es de muy mala educación irrumpir así!
+
+[5703]
+Es que nací maleducada...
+
+[5704]
+¡Cuidado!
+
+[5705]
+¡Yaaa!
+
+[5706]
+(¡¿Pero qué...?!
+
+[5707]
+¡Con esa patada tendría que haberlo mandado a volar!)
+
+[5708]
+Todavía te falta práctica, Prier.
+
+[5709]
+¡¿Padre?!
+
+[5710]
+¿Qué haces disfrazado de oso?
+
+[5711]
+Mi mujer me ha pedido que monte un espectáculo en el orfanato.
+
+[5712]
+¡No me digas que es verdad!
+
+[5713]
+¿Y te toca hacer de oso de peluche gigante?
+
+[5714]
+¡Ja! Nunca has sabido decirle que no a la directora, padre.
+
+[5715]
+Así es.
+
+[5716]
+Preferiría mil veces estar luchando contra demonios, pero...
+
+[5717]
+No, si el disfraz te sienta bien...
+
+[5718]
+¡Estás monííísimo!
+
+[5719]
+¡Ya está bien de burlas!
+
+[5720]
+¡Sigo siendo vuestro superior, que no se os olvide!
+
+[5721]
+En fin... Imagino que os preguntaréis por qué os he llamado.
+
+[5722]
+Necesito vuestra ayuda para investigar un incidente.
+
+[5723]
+¿Un incidente?
+
+[5724]
+Así es.
+
+[5725]
+Quizá hayáis oído los rumores.
+
+[5726]
+En los últimos meses se han cometido varios asesinatos espantosos.
+
+[5727]
+La hermana Olive está investigándolos, pero todavía no tenemos ninguna pista sobre el sospechoso.
+
+[5728]
+¡Un momento!
+
+[5729]
+¿Por qué tenemos que investigar un asesinato desde la Iglesia de la Doncella Sagrada?
+
+[5730]
+¿No debería encargarse la policía?
+
+[5731]
+Bueno... ¿Me dejáis acabar primero?
+
+[5732]
+Estos asesinatos tienen un aspecto bastante repugnante...
+
+[5733]
+Ejem... quiero decir, insólito...
+
+[5734]
+...que merece nuestra atención.
+
+[5735]
+De cara al público, se tratan como asesinatos corrientes...
+
+[5736]
+Pero lo que nadie sabe es que a todas las víctimas les arrancaron el corazón.
+
+[5737]
+¿Sus... corazones?
+
+[5738]
+Sí. Sus corazones...
+
+[5739]
+...arrancados de cuajo.
+
+[5740]
+Pero lo más extraño es que, en todos los casos, también desapareció otro miembro de la familia.
+
+[5741]
+La Policía Real busca a los desaparecidos, aunque hasta ahora no ha tenido suerte.
+
+[5742]
+¡Pues para mí está clarísimo!
+
+[5743]
+Los culpables son los familiares desaparecidos.
+
+[5744]
+Solo hay que detenerlos, ¿no?
+
+[5745]
+Eso parecería, ¿verdad...?
+
+[5746]
+Pero ahora viene lo interesante.
+
+[5747]
+Para empezar, las habitaciones estaban cerradas por dentro en todos los casos.
+
+[5748]
+¡Un asesinato en una habitación cerrada!
+
+[5749]
+Además, como he dicho, en cada familia ha desaparecido alguien.
+
+[5750]
+Los desaparecidos son de todas las edades, desde niños pequeños hasta ancianas.
+
+[5751]
+No tienen nada en común.
+
+[5752]
+En tercer lugar, en cada escena del crimen apareció un mensaje trazado con un dedo y sangre.
+
+[5753]
+Las huellas dactilares eran de la persona desaparecida de esa familia.
+
+[5754]
+Y, en cuarto lugar, el mensaje era exactamente el mismo en todos los crímenes.
+
+[5755]
+Sin embargo, el análisis de la escritura indica que todos los mensajes los escribió una sola persona.
+
+[5756]
+¿Qué deducís de todo esto?
+
+[5757]
+Las huellas son de los desaparecidos, pero los mensajes los escribió una misma persona...
+
+[5758]
+Y todos desaparecieron de habitaciones cerradas por dentro...
+
+[5759]
+¡Pero eso es imposible!
+
+[5760]
+Padre, ¿insinúa que el asesino es un demonio capaz de cambiar de aspecto?
+
+[5761]
+Exactamente.
+
+[5762]
+Muy bien deducido, hermana Alouette.
+
+[5763]
+Adoptan el aspecto de un familiar para acercarse a su víctima.
+
+[5764]
+Y después le arrancan el corazón.
+
+[5765]
+Seguramente los familiares desaparecidos ya estén muertos y enterrados.
+
+[5766]
+¿Qué opinas, Prier? ¿Sería capaz de hacer eso una persona normal?
+
+[5767]
+Por eso nos han pedido que investiguemos el asunto.
+
+[5768]
+La petición viene de la mismísima reina.
+
+[5769]
+No podemos negarnos.
+
+[5770]
+¡Aquí la hermana Olive!
+
+[5771]
+¡Se ha producido otro asesinato!
+
+[5772]
+¡En el sector 3C 203 de Pot-au-Feu...!
+
+[5773]
+¡En una casa de la calle Mirabeau!
+
+[5774]
+¡Estoy siguiendo al sospechoso!
+
+[5775]
+¡Parece que se dirige al monte Tarte!
+
+[5776]
+¡Necesito refuerzos!
+
+[5777]
+Recibido. Enviaré ayuda ahora mismo.
+
+[5778]
+¡Quiero que vayáis tras el sospechoso sin perder un instante!
+
+[5779]
+¡Tened muchísimo cuidado!
+
+[5780]
+¡Repito: extremad las precauciones!
+
+[5781]
+¡Recibido!
+
+[5782]
+¿A qué esperáis? ¡Id a la escena del crimen y ayudad a la hermana Olive!
+
+[5783]
+Que la diosa Poitreene os proteja.
+
+[5784]
+En nombre de la Doncella de la Luz, te lo rogamos...
+
+[5785]
+Este debe de ser el mensaje escrito con sangre del que nos habló el padre Salade...
+
+[5786]
+¿Y qué se supone que significa?
+
+[5787]
+¿Está matando a toda esa gente para vengarse de Palmier, la chica que lo dejó?
+
+[5788]
+No me parece muy probable...
+
+[5789]
+Bueno, no todos son como tú...
+
+[5790]
+¡Yo no voy por ahí matando gente!
+
+[5791]
+Pero vengarme, sí que me vengo...
+
+[5792]
+¡Ay...!
+
+[5793]
+Sí, sobre todo de mí...
+
+[5794]
+Oye, Culotte...
+
+[5795]
+¿Qué te pasa?
+
+[5796]
+Ah, nada...
+
+[5797]
+Es que estaba recordando todo lo que vivimos aquí...
+
+[5798]
+¿Recuerdos?
+
+[5799]
+Sí. Prier y yo nos criamos aquí, en el monte Tarte.
+
+[5800]
+Para nosotros, es como volver a casa.
+
+[5801]
+¿De verdad...?
+
+[5802]
+¡Oye! ¡¿A qué viene sacar eso ahora?!
+
+[5803]
+¡No tenemos tiempo para esas tonterías!
+
+[5804]
+¡Cállate y encárgate de cargar con el equipaje!
+
+[5805]
+¡No soy tu criado!
+
+[5806]
+Yo también soy cazador de demonios...
+
+[5807]
+¡Un poco de respeto, por favor!
+
+[5808]
+Seamos realistas: llevar las cosas es lo que mejor se te da.
+
+[5809]
+¡Yo también soy cazador de demonios! ¡Ya te lo demostraré!
+
+[5810]
+¡Idiota!
+
+[5811]
+¡¿Acaba de llamarme idiota?!
+
+[5812]
+¡Culotte!
+
+[5813]
+¡Oh, no! ¡Oh, no!
+
+[5814]
+¡¿Y ahora qué hago?!
+
+[5815]
+¡Culotte se ha marchado solo!
+
+[5816]
+No me extraña.
+
+[5817]
+Has sido muy dura con él.
+
+[5818]
+¡Pero si siempre hablamos así! ¿A que sí?
+
+[5819]
+¡Solo estaba bromeando!
+
+[5820]
+Quizá para ti fuera una broma, pero está claro que a Culotte le ha dolido mucho.
+
+[5821]
+Ay, no...
+
+[5822]
+Culotte corre peligro y está completamente solo.
+
+[5823]
+¡Vamos a buscarlo!
+
+[5824]
+¡Hermana Olive!
+
+[5825]
+¡Aguante!
+
+[5826]
+Ugh... Her... H... hermana Prier...
+
+[5827]
+Her... mana Prier...
+
+[5828]
+¡Mi madre...!
+
+[5829]
+Ella... intentó...
+
+[5830]
+...matarme.
+
+[5831]
+¿Tu madre?
+
+[5832]
+La madre de la hermana Olive murió el año pasado.
+
+[5833]
+Vamos.
+
+[5834]
+Tenemos que darnos prisa.
+
+[5835]
+Ya me he comunicado con el padre Salade.
+
+[5836]
+¿Vamos a dejar aquí a la hermana Olive en este estado?
+
+[5837]
+Hermana Prier...
+
+[5838]
+Puedo rezar por ella, pero después tendremos que seguir adelante.
+
+[5839]
+La hermana Olive forma parte de La Pucelle.
+
+[5840]
+Sabe a qué riesgos se expone.
+
+[5841]
+Ya está. Esto la mantendrá estable por un tiempo.
+
+[5842]
+Pronto llegará ayuda.
+
+[5843]
+¡Buenas!
+
+[5844]
+¡Padre Salade!
+
+[5845]
+¡¿Ha venido a ayudarnos?!
+
+[5846]
+¡Ay, padre!
+
+[5847]
+Culotte... ¡Culotte está en un apuro terrible!
+
+[5848]
+(Hermana Prier...
+
+[5849]
+Espera.)
+
+[5850]
+(Ese no es el padre Salade.)
+
+[5851]
+(¿Cómo?)
+
+[5852]
+(Cuando hablé con él, me dijo que enviaría a otra persona para ayudarnos.)
+
+[5853]
+(¿Entonces...?)
+
+[5854]
+(Es nuestro sospechoso.)
+
+[5855]
+(Entiendo...
+
+[5856]
+Voy a ponerlo a prueba.)
+
+[5857]
+(Si realmente es el padre Salade) / ¿Qué pasa? He venido hasta aquí para ayudarte, ¿y así me recibes?
+
+[5858]
+¡He venido hasta aquí a ayudaros! ¿Y así me recibís?
+
+[5859]
+Lo siento, padre.
+
+[5860]
+No sé en qué estaba pensando...
+
+[5861]
+¡Muere!
+
+[5862]
+¡Lo sabía! ¡Es un impostor!
+
+[5863]
+¡Al verdadero padre Salade jamás lo habría derribado un golpe por sorpresa como ese!
+
+[5864]
+¡Argh...! ¡Maldita sea!
+
+[5865]
+¡Tras él, hermana Prier!
+
+[5866]
+¡Entendido!
+
+[5867]
+¡Tenemos que salvar a Culotte!
+
+[5868]
+¡Uf!
+
+[5869]
+¡Por los pelos!
+
+[5870]
+Tendría que haberme quedado con Prier y la hermana Alouette.
+
+[5871]
+Yo solo no puedo con todo esto...
+
+[5872]
+¡Espabila, Culotte!
+
+[5873]
+¡¿Quieres que te traten como a un niño toda la vida?!
+
+[5874]
+¡Padre! Culotte, él... ¡Culotte está en un gran apuro!
+
+[5875]
+¡Padre Salade!
+
+[5876]
+¡Maldita sea!
+
+[5877]
+¡Lo... has esquivado!
+
+[5878]
+¡Si hubieras dado medio paso más, habría tenido tu corazón en la mano!
+
+[5879]
+¡Eso es!
+
+[5880]
+¡Se ha atrevido a desafiarme! ¡Le enseñaré lo que pasa cuando me hacen enfadar!
+
+[5881]
+...te traten como a un crío toda la vida?!
+
+[5882]
+Este lugar se parece mucho a donde enterraron a mamá y papá...
+
+[5883]
+¿Culotte...?
+
+[5884]
+Sabía que eras tú, Culotte. ¡Cuánto has crecido!
+
+[5885]
+Eh... ¿Cómo sabes mi nombre?
+
+[5886]
+¿Quién eres...?
+
+[5887]
+Bueno, es normal que no me recuerdes.
+
+[5888]
+Eras tan pequeño...
+
+[5889]
+Culotte.
+
+[5890]
+¿Te acuerdas?
+
+[5891]
+Cuando eras un niño...
+
+[5892]
+Si tenías pesadillas, te cantaba nanas hasta que te quedabas dormido...
+
+[5893]
+No puede ser...
+
+[5894]
+¡¿Mamá?!
+
+[5895]
+¡Culotte!
+
+[5896]
+¡Escucha, Prier!
+
+[5897]
+Ella es...
+
+[5898]
+¡Cuidado!
+
+[5899]
+Me das asco.
+
+[5900]
+Esa forma que tienes de cambiar de aspecto para engañar a tus víctimas...
+
+[5901]
+Me repugna.
+
+[5902]
+¡¿Quién eres?!
+
+[5903]
+No soy nadie especial...
+
+[5904]
+Pero, si insistes en saberlo...
+
+[5905]
+Me llamo Croix.
+
+[5906]
+Croix Raoul.
+
+[5907]
+Soy cazador de demonios por libre. Ahora trabajo para la Iglesia de la Madre Divina.
+
+[5908]
+Me contrató el novio de una de tus víctimas.
+
+[5909]
+Y ahora, sé un demonio obediente y déjame matarte...
+
+[5910]
+¡Espera!
+
+[5911]
+¿Qué pasa? ¿No sabes perder con dignidad?
+
+[5912]
+Has dicho que trabajas para la Iglesia de la Madre Divina, ¿verdad?
+
+[5913]
+¡Yo también formo parte de esa iglesia!
+
+[5914]
+¿Ah, sí?
+
+[5915]
+¡Claro! ¡Somos prácticamente hermanos!
+
+[5916]
+¡Ten un poco de consideración...!
+
+[5917]
+Puedes dejarme marchar esta vez, ¿no?
+
+[5918]
+Lo siento. Eso no va a pasar.
+
+[5919]
+¡Entonces...!
+
+[5920]
+Ya sé que estás intentando leer mi pasado.
+
+[5921]
+Para adoptar el aspecto de alguien a quien quise.
+
+[5922]
+No me engañas.
+
+[5923]
+Pero...
+
+[5924]
+Por desgracia para ti...
+
+[5925]
+No recuerdo nada de mi pasado.
+
+[5926]
+Así que...
+
+[5927]
+Ha llegado la hora de despedirte.
+
+[5928]
+Basta. Si sigues así, jamás llegarás al cielo...
+
