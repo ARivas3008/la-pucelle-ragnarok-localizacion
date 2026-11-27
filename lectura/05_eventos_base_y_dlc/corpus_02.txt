@@ -1,0 +1,1566 @@
+LA PUCELLE — 05_eventos_base_y_dlc — CORPUS 02
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== DLC_00/script00.dat ===
+
+[1741]
+Se está cargando el fondo.
+
+[1742]
+Comprueba el tipo de conexión.
+
+[1743]
+Cuando lo hayas comprobado, pulsa ○.
+
+[1744]
+Cargando...
+
+[1745]
+Espera un momento.
+
+[1746]
+Carga completada.
+
+[1747]
+No se ha establecido el indicador.
+
+[1748]
+Y así, mi hermana Prier
+
+[1749]
+acabó convirtiéndose en la soberana del Mundo Oscuro.
+
+[1750]
+Mi hermana, que aspiraba a ser la Doncella de la Luz,
+
+[1751]
+terminó convertida en Señora Demonio. Qué ironía...
+
+[1752]
+¿Acaso esto también forma parte de
+
+[1753]
+la voluntad de la diosa Poitreene...?
+
+[1754]
+Esta joven sería conocida como «Prier, Señora Demonio»:
+
+[1755]
+la historia de una joven.
+
+[1756]
+La Pucelle: Ragnarok
+
+[1757]
+Esta joven sometería a todos los grandes señores demonio
+
+[1758]
+y recibiría el título de «Gran Señora Demonio Unificadora».
+
+[1759]
+¿Continuará?
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script01.dat ===
+
+[3301]
+Me llamo Culotte.
+
+[3302]
+Soy un cazador de demonios novato.
+
+[3303]
+Hace cuatro años, mi hermana Prier y yo
+
+[3304]
+ingresamos en la Iglesia de la Santa Doncella.
+
+[3305]
+Esta primavera nos admitieron en La Pucelle,
+
+[3306]
+la unidad de cazadores de demonios de la Iglesia.
+
+[3307]
+Alouette es quien está regañando a mi hermana.
+
+[3308]
+Como nosotros, es hermana de la orden de La Pucelle.
+
+[3309]
+Es nuestra instructora. Ingresó en la Iglesia
+
+[3310]
+hace dos años.
+
+[3311]
+Aunque llevamos más tiempo en la Iglesia,
+
+[3312]
+ella está mucho más preparada que nosotros.
+
+[3313]
+No solo nos enseña a cazar demonios,
+
+[3314]
+sino también buenos modales y protocolo.
+
+[3315]
+No recuerda nada de su pasado. En cuanto a Prier,
+
+[3316]
+su forma de hablar es cada vez más vulgar
+
+[3317]
+con cada día que pasa.
+
+[3318]
+Gracias...
+
+[3319]
+7 de Fraise
+
+[3320]
+¿Por qué Collier ama a mi
+
+[3321]
+hermano?
+
+[3322]
+Yo la quiero mucho más de lo que él
+
+[3323]
+podría quererla jamás.
+
+[3324]
+Mi amor.
+
+[3325]
+Mi adorada Collier.
+
+[3326]
+13 de Pesch
+
+[3327]
+Combatimos contra las fuerzas imperiales,
+
+[3328]
+pero no nos queda ninguna esperanza de
+
+[3329]
+vencer. Mi hermano
+
+[3330]
+se ha escondido con su familia.
+
+[3331]
+Está sacrificando
+
+[3332]
+su orgullo para proteger a su familia.
+
+[3333]
+El odio que siento por él
+
+[3334]
+crece día tras día.
+
+[3335]
+24 de Pesch
+
+[3336]
+Han pasado varios días desde que se escondieron
+
+[3337]
+bajo tierra.
+
+[3338]
+A pesar del agotamiento, los
+
+[3339]
+soldados todavía confían
+
+[3340]
+en mi hermano. Mi hermano,
+
+[3341]
+al que todos quieren...
+
+[3342]
+Mi hermano, que me arrebató a Collier.
+
+[3343]
+Mi hermano, que me supera en todo.
+
+[3344]
+29 de Pesch
+
+[3345]
+¡Todo ha terminado!
+
+[3346]
+Mi hermano y sus
+
+[3347]
+hombres jamás despertarán después del
+
+[3348]
+almuerzo que les serví.
+
+[3349]
+Ya no queda nadie que pueda
+
+[3350]
+interponerse en mi camino. Ahora viviré con
+
+[3351]
+mi amada Collier en este
+
+[3352]
+mundo subterráneo. Quizá ella
+
+[3353]
+aún no haya aceptado mi amor.
+
+[3354]
+Si es así,
+
+[3355]
+encerraré a
+
+[3356]
+mi adorada Collier.
+
+[3357]
+Gracias...
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script02.dat ===
+
+[3358]
+Hoy nos toca entrenar.
+
+[3359]
+No habíamos trabajado tanto
+
+[3360]
+desde que aprobamos el examen para
+
+[3361]
+convertirnos en cazadores de demonios.
+
+[3362]
+También ingresamos en la Iglesia.
+
+[3363]
+Perdimos a nuestros
+
+[3364]
+padres hace siete años.
+
+[3365]
+Murieron en un accidente de carruaje
+
+[3366]
+cuando regresaban a casa.
+
+[3367]
+Pasamos los tres años siguientes en el orfanato
+
+[3368]
+y después entramos en la Iglesia.
+
+[3369]
+Solo tenía cinco años cuando murieron mis padres,
+
+[3370]
+así que no guardo recuerdos de ellos.
+
+[3371]
+Prier nunca habla de papá y mamá...
+
+[3372]
+Oh, diosa Poitreene...
+
+[3373]
+Te ruego que me dejes ver a papá y mamá
+
+[3374]
+aunque solo sea una vez...
+
+[3375]
+Siempre que intento hablar de
+
+[3376]
+nuestros padres, Prier
+
+[3377]
+cambia de tema.
+
+[3378]
+¡Uf!
+
+[3379]
+¡Qué susto me ha dado!
+
+[3380]
+El padre Salade fundó la Iglesia de
+
+[3381]
+la Santa Doncella.
+
+[3382]
+Es nuestro superior y es muy
+
+[3383]
+fuerte. Ha derrotado a cientos
+
+[3384]
+de demonios a lo largo de su vida.
+
+[3385]
+También rescató a Alouette hace dos
+
+[3386]
+años. Ella había perdido
+
+[3387]
+la memoria por completo.
+
+[3388]
+La hermana Alouette se hizo cazadora
+
+[3389]
+de demonios sin tener que hacer el examen.
+
+[3390]
+Es muy buena
+
+[3391]
+cazando demonios, pero creo que el padre Salade
+
+[3392]
+le da un trato especial.
+
+[3393]
+No lo entiendo.
+
+[3394]
+¿Será que está
+
+[3395]
+enamorado de ella en secreto...?
+
+[3396]
+No, imposible...
+
+[3397]
+Mi Palmier...
+
+[3398]
+¿Por qué te has marchado y me has dejado solo?
+
+[3399]
+No estoy triste.
+
+[3400]
+Sé que pronto volverás a mi lado.
+
+[3401]
+Aquella noche
+
+[3402]
+vi a Prier llorar a solas.
+
+[3403]
+Seguro que estaba pensando en
+
+[3404]
+nuestros difuntos padres.
+
+[3405]
+Prier siempre intenta aparentar fortaleza,
+
+[3406]
+pero...
+
+[3407]
+Creo que por eso nunca quiere hablar
+
+[3408]
+de ellos. No quería
+
+[3409]
+parecer débil delante de mí...
+
+[3410]
+No sabía qué decirle. Me quedé sentado
+
+[3411]
+allí, contemplando las estrellas...
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script03.dat ===
+
+[3412]
+Así es.
+
+[3413]
+Prier y yo somos amigos de
+
+[3414]
+la princesa Éclair.
+
+[3415]
+Todo empezó hace cuatro
+
+[3416]
+años. Estábamos
+
+[3417]
+a punto de actuar...
+
+[3418]
+Desde entonces somos amigos.
+
+[3419]
+Éclair será la próxima reina de
+
+[3420]
+Paprica. Se ha
+
+[3421]
+entrenado para cazar demonios
+
+[3422]
+y para ser la Doncella de la Luz.
+
+[3423]
+Aunque pertenece a un mundo
+
+[3424]
+muy distinto al nuestro,
+
+[3425]
+somos amigos.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script04.dat ===
+
+[3426]
+Un monstruo nacido de un corazón.
+
+[3427]
+Nunca se sabe...
+
+[3428]
+Tal vez tu ciudad sea la próxima...
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script05.dat ===
+
+[3429]
+Príncipe Oscuro
+
+[3430]
+El ángel caído que simboliza las tinieblas es
+
+[3431]
+Calamity.
+
+[3432]
+El Príncipe Oscuro obtiene sus poderes oscuros
+
+[3433]
+de la propia Calamity.
+
+[3434]
+Ha aparecido varias veces a lo largo de la
+
+[3435]
+historia y ha provocado numerosas muertes.
+
+[3436]
+Para quienes pertenecemos a la Iglesia de la Santa Doncella,
+
+[3437]
+el Príncipe Oscuro es un enemigo temible al que
+
+[3438]
+hay que destruir.
+
+[3439]
+Por entonces no
+
+[3440]
+sabíamos que los sucesos
+
+[3441]
+que llevarían al enfrentamiento final
+
+[3442]
+entre la Luz y las Tinieblas estaban muy cerca.
+
+[3443]
+Pronto llegaría la tragedia...
+
+[3444]
+No lo sabíamos, pero los acontecimientos que conducirían al
+
+[3445]
+enfrentamiento final entre la Luz y las Tinieblas
+
+[3446]
+empezaban a desarrollarse...
+
+[3447]
+La tragedia estaba cerca...
+
+[3448]
+No lo sabíamos, pero los acontecimientos que llevarían al
+
+[3449]
+enfrentamiento definitivo entre la Luz y las Tinieblas
+
+[3450]
+ya estaban en marcha.
+
+[3451]
+Se avecinaba una tragedia...
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script06.dat ===
+
+[3452]
+Aquella noche...
+
+[3453]
+Fátima era un país que
+
+[3454]
+existía hace doscientos años al
+
+[3455]
+sudeste de Paprica.
+
+[3456]
+Su civilización estaba poco desarrollada.
+
+[3457]
+Sus habitantes eran muy pobres.
+
+[3458]
+Cada año morían innumerables personas
+
+[3459]
+de hambre y enfermedades.
+
+[3460]
+La fe en los dioses les daba
+
+[3461]
+esperanza y sentido a sus vidas.
+
+[3462]
+Todos los seres humanos nos parecemos...
+
+[3463]
+En tiempos difíciles recurren a los dioses.
+
+[3464]
+Pero esa misma fe solo
+
+[3465]
+empeoró las cosas...
+
+[3466]
+Los sacerdotes abusaban de su poder
+
+[3467]
+en nombre de Dios.
+
+[3468]
+Se apropiaban de los diezmos
+
+[3469]
+y vivían rodeados de lujos.
+
+[3470]
+No les importaba en absoluto lo que
+
+[3471]
+le hacían al pueblo.
+
+[3472]
+Si no te ocurría nada peor, podías
+
+[3473]
+considerarte afortunado.
+
+[3474]
+A cualquiera que protestase lo mataban.
+
+[3475]
+También acusaban a personas inocentes
+
+[3476]
+como chivos expiatorios o traidores y los juzgaban.
+
+[3477]
+¿Y el resultado?
+
+[3478]
+Los mataban por el bien común.
+
+[3479]
+Los seres humanos podemos llegar a ser muy
+
+[3480]
+crueles unos con otros en nombre de Dios...
+
+[3481]
+Y un día, Fátima
+
+[3482]
+fue arrasada. En una sola noche... ¡desapareció!
+
+[3483]
+Al día siguiente...
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script07.dat ===
+
+[3484]
+¡Despierta!
+
+[3485]
+Recuerda.
+
+[3486]
+Y libérame...
+
+[3487]
+¡Despierta, Croix Raoul!
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script09.dat ===
+
+[3488]
+¡Páramo interminable!
+
+[3489]
+Fátima.
+
+[3490]
+¡Destruida por completo en una sola noche!
+
+[3491]
+¿Tuvo algo que ver el Príncipe Oscuro?
+
+[3492]
+¿Qué pasó realmente?
+
+[3493]
+La visión de la hermana Alouette nos había guiado
+
+[3494]
+hasta allí...
+
+[3495]
+¿Qué estaría intentando mostrarnos
+
+[3496]
+la diosa Poitreene?
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script10.dat ===
+
+[3497]
+¿Acaso Croix podría ser...?
+
+[3498]
+La hermana Alouette y los demás debían de estar
+
+[3499]
+pensando exactamente lo mismo.
+
+[3500]
+Pero el tiempo que habíamos pasado juntos
+
+[3501]
+había disipado nuestras dudas sobre Croix.
+
+[3502]
+Queríamos
+
+[3503]
+creer en él.
+
+[3504]
+Y llegó la mañana
+
+[3505]
+sin que le hubiéramos dicho
+
+[3506]
+ni una palabra a Croix.
+
+[3507]
+Habíamos retrocedido en el tiempo
+
+[3508]
+todo lo que necesitábamos...
+
+[3509]
+Estábamos a punto de presenciar el nacimiento...
+
+[3510]
+del Príncipe Oscuro
+
+[3511]
+con nuestros propios ojos.
+
+[3512]
+Más tarde...
+
+[3513]
+Todos empezábamos a comprenderlo...
+
+[3514]
+Pero ninguno podía decirlo.
+
+[3515]
+Todos queríamos confiar en él.
+
+[3516]
+Parecía que todo
+
+[3517]
+se encaminaba a un desenlace
+
+[3518]
+a toda velocidad.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script11.dat ===
+
+[3519]
+Hace mucho tiempo
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script12.dat ===
+
+[3520]
+Para evitar el pánico, se dijo que Noir
+
+[3521]
+había muerto por enfermedad.
+
+[3522]
+Nunca se reveló la verdadera historia de la
+
+[3523]
+Iglesia.
+
+[3524]
+Ahora la Iglesia está en manos
+
+[3525]
+de personas que no saben nada
+
+[3526]
+de sus maldades pasadas.
+
+[3527]
+Prier y yo seguimos
+
+[3528]
+trabajando como cazadores de demonios para
+
+[3529]
+la Santa Doncella.
+
+[3530]
+Aún hay muchas almas perdidas
+
+[3531]
+que necesitan nuestra ayuda.
+
+[3532]
+Salvarlas forma parte de nuestra
+
+[3533]
+labor como miembros de La Pucelle.
+
+[3534]
+El padre Salade se ha retirado y ahora ayuda
+
+[3535]
+en el orfanato.
+
+[3536]
+Quiere enseñar el Puño Sagrado
+
+[3537]
+a los niños de allí.
+
+[3538]
+Éclair regresó sana y salva de nuestro viaje y
+
+[3539]
+ahora se prepara para ser la próxima
+
+[3540]
+reina.
+
+[3541]
+Seguro que no es nada fácil,
+
+[3542]
+pero sé que Éclair llegará a ser una gran reina
+
+[3543]
+algún día.
+
+[3544]
+¡Ah, es verdad!
+
+[3545]
+Casi lo olvido: Éclair y Homard
+
+[3546]
+se han comprometido.
+
+[3547]
+Gracias a los cuidados de Éclair y a su
+
+[3548]
+extraordinaria capacidad de
+
+[3549]
+recuperación, las heridas de Homard
+
+[3550]
+ya han sanado.
+
+[3551]
+Resulta curioso que una princesa y un
+
+[3552]
+pirata del aire estén comprometidos.
+
+[3553]
+Pero resulta que Homard es
+
+[3554]
+un príncipe, después de todo.
+
+[3555]
+¿Quién lo habría imaginado?
+
+[3556]
+Ojalá los dos
+
+[3557]
+sean muy felices juntos.
+
+[3558]
+Él ha decidido
+
+[3559]
+emprender un viaje por su cuenta.
+
+[3560]
+Dice que quiere
+
+[3561]
+seguir cazando demonios.
+
+[3562]
+Supongo que es una especie de penitencia.
+
+[3563]
+A Prier le entristece verlo marchar, pero
+
+[3564]
+dice que es decisión suya y que
+
+[3565]
+debe aceptarla.
+
+[3566]
+No sé muy bien cómo me siento.
+
+[3567]
+Pero no puedo seguir pensando así eternamente.
+
+[3568]
+Ella no querría que pensase de esa manera.
+
+[3569]
+Me llevará tiempo, pero poco a
+
+[3570]
+poco empezaré a aceptar la situación.
+
+[3571]
+Nippon Ichi Software
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script15.dat ===
+
+[3572]
+Solo pretendía ser una broma...
+
+[3573]
+Nunca habría imaginado que algo así
+
+[3574]
+pudiese ocurrir de verdad...
+
+[3575]
+Y así fue como Prier se convirtió en
+
+[3576]
+Señora Demonio. Ella, que
+
+[3577]
+tanto había deseado ser la
+
+[3578]
+Doncella de la Luz, terminó siendo Señora Demonio.
+
+[3579]
+¿Acaso todo esto formaba parte del plan de
+
+[3580]
+la diosa Poitreene?
+
+[3581]
+Esta es la historia de Prier, que sería conocida como
+
+[3582]
+Señora Demonio.
+
+[3583]
+Una historia que llegaría a convertirse en leyenda...
+
+[3584]
+Por aquel entonces, todo esto
+
+[3585]
+me parecía una simple broma...
+
+[3586]
+que acabaría haciéndose realidad...
+
+[3587]
+Mi hermana, Señora Demonio...
+
+[3588]
+Nadie fue capaz de
+
+[3589]
+responder al grito de Prier en aquel momento.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script16.dat ===
+
+[3590]
+Así termina la historia de
+
+[3591]
+aquella extraña muchacha.
+
+[3592]
+Nadie consiguió averiguar
+
+[3593]
+adónde había
+
+[3594]
+desaparecido aquella muchacha...
+
+[3595]
+Desde entonces, Prier
+
+[3596]
+no dejaba de darle vueltas al asunto.
+
+[3597]
+Sabía que, para recuperar
+
+[3598]
+a la Prier de antes, tendríamos que encontrar
+
+[3599]
+de nuevo a aquella muchacha.
+
+[3600]
+Lo cierto es que yo
+
+[3601]
+no quería volver a involucrarme con
+
+[3602]
+aquella muchacha...
+
+[3603]
+Entonces, ¿qué sería lo mejor que podríamos hacer...?
+
+[3604]
+Eso era lo que pensaba entonces...
+
+[3605]
+Y así, el corazón de las tinieblas
+
+[3606]
+desapareció.
+
+[3607]
+Todos creyeron que era verdad.
+
+[3608]
+Pero lo cierto es que todos
+
+[3609]
+simplemente se olvidaron del incidente.
+
+[3610]
+Todo lo importante empezó a venirse abajo
+
+[3611]
+a partir de aquel día.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script17.dat ===
+
+[3612]
+Fueron días frenéticos.
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/script18.dat ===
+
+[3613]
+Cuando recobré el conocimiento,
+
+[3614]
+estaba tendido en la enfermería.
+
+[3615]
+Entonces me di cuenta...
+
+[3616]
+¡Prier había muerto!
+
+[3617]
+Prier se había convertido en Señora Demonio y
+
+[3618]
+su cuerpo no había podido soportar
+
+[3619]
+aquel poder descomunal.
+
+[3620]
+El padre Salade intentó
+
+[3621]
+detenerla, pero murió a sus manos.
+
+[3622]
+¿En qué estaría pensando Prier
+
+[3623]
+para haber
+
+[3624]
+elegido ese camino?
+
+[3625]
+Sí...
+
+[3626]
+Yo creía que solo
+
+[3627]
+estaba gastando bromas inofensivas.
+
+[3628]
+Pero esas bromas le costaron la vida a
+
+[3629]
+mi hermana Prier.
+
+[3630]
+Si no hubiera contado esas estúpidas bromas,
+
+[3631]
+quizá Prier seguiría aquí, sonriendo...
+
+[3632]
+Siento odio y rabia hacia mí mismo,
+
+[3633]
+pero no puedo quedarme aquí
+
+[3634]
+lamentándome sin cesar...
+
+[3635]
+Noir ha conseguido invocar
+
+[3636]
+al ángel caído Calamity por su cuenta.
+
+[3637]
+Ni un ser humano, ni un demonio ni un dios
+
+[3638]
+tiene poder para impedir que Calamity
+
+[3639]
+destruya el mundo por completo.
+
+[3640]
+Así concluye la historia de la joven
+
+[3641]
+Prier, Señora Demonio.
+
+[3642]
+Una historia que jamás volverá a contarse.
+
+[3643]
+NIS
+
+[3644]
+Aún no sé si aquella muchacha
+
+[3645]
+que vimos era
+
+[3646]
+real o una simple ilusión...
+
+[3647]
+Después de que Prier me derrotara, perdí
+
+[3648]
+el conocimiento. Cuando desperté,
+
+[3649]
+me encontré en la enfermería.
+
+[3650]
+Me dolía todo el cuerpo, pero seguía con vida.
+
+[3651]
+Por lo que he oído,
+
+[3652]
+los demás también están vivos.
+
+[3653]
+Éclair y el capitán Homard
+
+[3654]
+reciben tratamiento en el castillo de Cresson.
+
+[3655]
+La hermana Alouette está cuidando
+
+[3656]
+del padre Salade, que fue derrotado
+
+[3657]
+al enfrentarse a Prier.
+
+[3658]
+Aun así, quiero comprobar
+
+[3659]
+que todos están a salvo
+
+[3660]
+con mis propios ojos.
+
+[3661]
+Me enviaron a una aldea apartada para que
+
+[3662]
+me atendieran en su iglesia.
+
+[3663]
+Las facturas médicas siguen acumulándose
+
+[3664]
+y no sé si podré pagarlas...
+
+[3665]
+Mi hermana es la Señora Demonio.
+
+[3666]
+Aquellas bromas inofensivas
+
+[3667]
+causaron a todos
+
+[3668]
+un dolor que quizá nunca desaparezca.
+
+[3669]
+Si no hubiera sido tan estúpido, Prier aún
+
+[3670]
+estaría aquí, sonriendo como siempre...
+
+[3671]
+El padre Salade fue derrotado y nadie
+
+[3672]
+sabe adónde fue Prier
+
+[3673]
+después de la batalla.
+
+[3674]
+Desde que Prier desapareció,
+
+[3675]
+han dejado de circular rumores sobre el Príncipe Oscuro
+
+[3676]
+y Noir.
+
+[3677]
+¿Habrá tenido algo que ver Prier?
+
+[3678]
+¿Qué habrá sido de Croix...?
+
+[3679]
+Puede que Prier se haya convertido en
+
+[3680]
+Señora Demonio, pero sigue viva.
+
+[3681]
+Sí, eso creo.
+
+[3682]
+En cuanto se curen mis heridas,
+
+[3683]
+saldré a buscar a Prier.
+
+[3684]
+Creo que podré disipar la oscuridad de
+
+[3685]
+su corazón y hacer que Prier vuelva
+
+[3686]
+a ser la de antes.
+
+[3687]
+Así que, Prier...
+
+[3688]
+¡Espérame!
+
+[3689]
+Esta fue la historia de
+
+[3690]
+Prier, que se convirtió en
+
+[3691]
+Gran Señora Demonio.
+
+[3692]
+Una leyenda que pasará de generación en generación...
+
+[3693]
+Tras ser derrotado por Prier, perdí
+
+[3694]
+el conocimiento. Al despertar, estaba en
+
+[3695]
+la enfermería de la Iglesia.
+
+[3696]
+Mis heridas no son graves. En unos días
+
+[3697]
+volveré a ponerme en pie, al igual que
+
+[3698]
+los demás.
+
+[3699]
+La hermana Alouette estaba en estado
+
+[3700]
+crítico, pero parece que
+
+[3701]
+ya está estable.
+
+[3702]
+¡Un milagro!
+
+[3703]
+La diosa Poitreene nos protegió a todos.
+
+[3704]
+Eso dijeron las hermanas que nos
+
+[3705]
+atendieron.
+
+[3706]
+Yo creo que nos salvó
+
+[3707]
+Prier y el calor que desprendía
+
+[3708]
+aquella luz.
+
+[3709]
+Aún quedaba algo bueno dentro de Prier.
+
+[3710]
+Era un fragmento del corazón
+
+[3711]
+que había perdido...
+
+[3712]
+Después de que Prier derrotara al padre Salade,
+
+[3713]
+se marchó y aún no sabemos
+
+[3714]
+dónde está.
+
+[3715]
+Desde entonces, cesaron los rumores sobre el Príncipe
+
+[3716]
+Oscuro y Noir,
+
+[3717]
+y el mundo ha recuperado la paz.
+
+[3718]
+Me pregunto si Prier habrá tenido algo que ver...
+
+[3719]
+¿Qué habrá sido de Croix...?
+
+[3720]
+He decidido emprender un
+
+[3721]
+viaje para averiguar exactamente
+
+[3722]
+qué ocurrió.
+
+[3723]
+Un viaje para devolverle a Prier
+
+[3724]
+la luz que había perdido...
+
+[3725]
+Así que...
+
+[3726]
+Redención.
+
+[3727]
+Espérame, Prier...
+
+[3728]
+Te encontraré...
+
+[3729]
+¡Haré que vuelvas a ser
+
+[3730]
+la Prier que conocía!
+
+[3731]
+Esta fue la historia de Prier, que merecía
+
+[3732]
+ser llamada santa.
+
+[3733]
+Una leyenda que seguirá transmitiéndose.
+
+[3734]
+«Voy a devolver a Croix
+
+[3735]
+a la normalidad». Eso le oí decir a Prier
+
+[3736]
+cuando salió volando para rescatarlo.
+
+[3737]
+La explosión hizo
+
+[3738]
+que las ruinas flotantes se precipitaran
+
+[3739]
+desde el cielo.
+
+[3740]
+Todos los que viajábamos en el Escargot pensamos
+
+[3741]
+lo mismo...
+
+[3742]
+Creíamos que todo había sido gracias a Prier.
+
+[3743]
+Cuando el humo empezó
+
+[3744]
+a disiparse, algo
+
+[3745]
+me llamó la atención.
+
+[3746]
+Había dos siluetas.
+
+[3747]
+Debían de
+
+[3748]
+ser Prier, la Señora Demonio, y
+
+[3749]
+Croix, el Príncipe Oscuro.
+
+[3750]
+Después de aquella gran explosión,
+
+[3751]
+desaparecieron sin dejar rastro.
+
+[3752]
+Los vi
+
+[3753]
+saludar con la mano antes de perderlos de vista.
+
+[3754]
+Prier y Croix
+
+[3755]
+debían de estar despidiéndose.
+
+[3756]
+Croix había vuelto a ser el de antes, pero
+
+[3757]
+nunca podría regresar a la Iglesia.
+
+[3758]
+Por eso...
+
+[3759]
+Se dedicaron a destruir las ruinas antiguas y
+
+[3760]
+evitaron que se invocara
+
+[3761]
+al ángel caído Calamity.
+
+[3762]
+Parece que Prier sí consiguió impedir que Noir
+
+[3763]
+llevara a cabo sus planes,
+
+[3764]
+¡tal como sospechaba!
+
+[3765]
+Apuesto a que sigue evitando
+
+[3766]
+catástrofes por todo el mundo,
+
+[3767]
+junto con Croix.
+
+[3768]
+Me siento solo sin Prier.
+
+[3769]
+Ahora trabajo con la hermana Alouette
+
+[3770]
+y algún día alcanzaré a Prier.
+
+[3771]
+A Prier le pega más ser Señora Demonio
+
+[3772]
+que Doncella de la Luz.
+
+[3773]
+Era una broma, pero, en realidad,
+
+[3774]
+a Prier no le pega ser Señora Demonio.
+
+[3775]
+Seguiré siendo cazador de demonios.
+
+[3776]
+Confío en encontrar una forma
+
+[3777]
+de hacer que vuelvan a ser los de antes.
+
+[3778]
+Esta fue
+
+[3779]
+la historia de Prier, la Santa Oscura, que
+
+[3780]
+salvó al mundo.
+
+[3781]
+Una leyenda que seguirá transmitiéndose.
+
+
+=== ISO_START/script00.dat ===
+
+[14530]
+una Gran Señora Demonio. Alguien que
+
+[14531]
+quería ser Doncella de la Luz y fue Gran Señora Demonio.
+
+[14532]
+Gran Señora Demonio.
+
+[14533]
+La Pucelle: Ragnarok
+

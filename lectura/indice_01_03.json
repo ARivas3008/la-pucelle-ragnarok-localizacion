@@ -1,0 +1,32 @@
+[
+  {
+    "corpus": "01",
+    "grupos": 1001,
+    "no_revisados": 0,
+    "categorias": {
+      "00_textos_en_imagenes": 62,
+      "01_hud_y_menus": 259,
+      "02_localidades": 200,
+      "03_personajes_y_enemigos": 310,
+      "04_nombres_generados": 170
+    }
+  },
+  {
+    "corpus": "02",
+    "grupos": 1058,
+    "no_revisados": 0,
+    "categorias": {
+      "04_nombres_generados": 412,
+      "05_eventos_base_y_dlc": 504,
+      "06_dialogos": 142
+    }
+  },
+  {
+    "corpus": "03",
+    "grupos": 949,
+    "no_revisados": 0,
+    "categorias": {
+      "06_dialogos": 949
+    }
+  }
+]

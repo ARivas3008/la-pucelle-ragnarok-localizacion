@@ -1,0 +1,609 @@
+LA PUCELLE — 02_localidades — CORPUS 01
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== DLC_00/mapinfo.dat ===
+
+[1077]
+Panza del Diablo
+
+[1078]
+Cementerio de los necios
+
+[1079]
+Sala de los muertos
+
+[1080]
+Cuarto del encargado
+
+[1081]
+Sala de principiantes 1
+
+[1082]
+Sala de principiantes 2
+
+[1083]
+Sala de la justicia
+
+[1084]
+La jaula de pájaros
+
+[1085]
+Sala del valor
+
+[1086]
+Sala de la verdad
+
+[1087]
+Sala del trono
+
+[1088]
+Faldas del monte Tarte
+
+[1089]
+Manantial de la misericordia
+
+[1090]
+Sendero misterioso
+
+[1091]
+Ladera del monte Tarte
+
+[1092]
+Cima del monte Tarte
+
+[1093]
+Entrada del bosque
+
+[1094]
+Bosque de la aflicción
+
+[1095]
+Bosque del juicio
+
+[1096]
+Casa de Barsom
+
+[1097]
+Bosque sin retorno
+
+[1098]
+Santuario de las bestias
+
+[1099]
+Puerto Mayonesa
+
+[1100]
+Setas por doquier
+
+[1101]
+Festival de las setas
+
+[1102]
+Setopía
+
+[1103]
+Patio del castillo de Cresson
+
+[1104]
+Corazón cerrado
+
+[1105]
+Corazón resignado
+
+[1106]
+Corazón que huye
+
+[1107]
+Corazón mentiroso
+
+[1108]
+Corazón sincero
+
+[1109]
+Biblioteca oculta
+
+[1110]
+Laberinto de libros
+
+[1111]
+Primer pasadizo
+
+[1112]
+Comedor
+
+[1113]
+Despensa
+
+[1114]
+Segundo pasadizo
+
+[1115]
+Armería
+
+[1116]
+Sala de máquinas
+
+[1117]
+Páramo salvaje
+
+[1118]
+Selva inexplorada
+
+[1119]
+Restos de aventureros
+
+[1120]
+Cueva de las Ruinas
+
+[1121]
+Aliento de la muerte
+
+[1122]
+Temor a lo desconocido
+
+[1123]
+Luz de salvación
+
+[1124]
+Entre la vida y la muerte
+
+[1125]
+Puerta a otras tierras
+
+[1126]
+Aldea Cuscús
+
+[1127]
+Colina Choux-Fleurs
+
+[1128]
+Camino al cadalso
+
+[1129]
+Grito de las brujas
+
+[1130]
+Catedral de la Santa Doncella
+
+[1131]
+Puerta Angelical
+
+[1132]
+Nido de demonios
+
+[1133]
+Pasillo ensangrentado
+
+[1134]
+Vestigios de sueños celestiales
+
+[1135]
+Luz celestial
+
+[1136]
+Puerta dimensional
+
+[1137]
+Otro mundo 1
+
+[1138]
+Otro mundo 2
+
+[1139]
+Otro mundo 3
+
+[1140]
+Otro mundo 4
+
+[1141]
+Altar del ángel caído
+
+[1142]
+Luz y oscuridad
+
+[1143]
+Cueva de las Pruebas 1
+
+[1144]
+Cueva de las Pruebas 2
+
+[1145]
+Cueva de las Pruebas 3
+
+[1146]
+Cueva de las Pruebas 4
+
+[1147]
+Cueva de las Pruebas 5
+
+[1148]
+Santuario oscuro
+
+[1149]
+Prueba divina
+
+[1150]
+Dis-Baal
+
+[1151]
+Baal fantasma
+
+[1152]
+Baales por doquier
+
+[1153]
+Flonne
+
+[1154]
+Etna
+
+[1155]
+Laharl
+
+[1156]
+Distrito central
+
+[1157]
+Distrito este
+
+[1158]
+Entrada al bosque Crockett
+
+[1159]
+Bosque Crockett
+
+[1160]
+Interior del bosque Crockett
+
+[1161]
+Senda de los demonios
+
+[1162]
+Sala de los mirones
+
+[1163]
+Cuesta del infierno
+
+[1164]
+Baño de tinieblas
+
+[1165]
+Sala del juicio demoníaco
+
+[1166]
+Entrada al corazón de Prier
+
+[1167]
+Corazón de tinieblas
+
+[1168]
+Corazón del deseo
+
+[1169]
+Corazón solitario
+
+[1170]
+Corazón del bautismo
+
+[1171]
+Corazón distorsionado
+
+[1172]
+Capilla de la Santa Doncella
+
+[1173]
+Pasillo del derrumbe
+
+[1174]
+Pasillo de las tinieblas
+
+[1175]
+Oscuridad y más oscuridad
+
+[1176]
+Mundo Oscuro
+
+
+=== ISO_START/mapinfo.dat ===
+
+[13926]
+Panza del Diablo
+
+[13927]
+Cementerio de los necios
+
+[13928]
+Sala de los muertos
+
+[13929]
+Cuarto del encargado
+
+[13930]
+Sala de principiantes 1
+
+[13931]
+Sala de principiantes 2
+
+[13932]
+Sala de la justicia
+
+[13933]
+La jaula de pájaros
+
+[13934]
+Sala del valor
+
+[13935]
+Sala de la verdad
+
+[13936]
+Sala del trono
+
+[13937]
+Faldas del monte Tarte
+
+[13938]
+Manantial de la misericordia
+
+[13939]
+Sendero misterioso
+
+[13940]
+Ladera del monte Tarte
+
+[13941]
+Cima del monte Tarte
+
+[13942]
+Entrada del bosque
+
+[13943]
+Bosque de la aflicción
+
+[13944]
+Bosque del juicio
+
+[13945]
+Casa de Barsom
+
+[13946]
+Bosque sin retorno
+
+[13947]
+Santuario de las bestias
+
+[13948]
+Puerto Mayonesa
+
+[13949]
+Setas por doquier
+
+[13950]
+Festival de las setas
+
+[13951]
+Setopía
+
+[13952]
+Patio del castillo de Cresson
+
+[13953]
+Corazón cerrado
+
+[13954]
+Corazón resignado
+
+[13955]
+Corazón que huye
+
+[13956]
+Corazón mentiroso
+
+[13957]
+Corazón sincero
+
+[13958]
+Biblioteca oculta
+
+[13959]
+Laberinto de libros
+
+[13960]
+Primer pasadizo
+
+[13961]
+Comedor
+
+[13962]
+Despensa
+
+[13963]
+Segundo pasadizo
+
+[13964]
+Armería
+
+[13965]
+Sala de máquinas
+
+[13966]
+Páramo salvaje
+
+[13967]
+Selva inexplorada
+
+[13968]
+Restos de aventureros
+
+[13969]
+Cueva de las Ruinas
+
+[13970]
+Aliento de la muerte
+
+[13971]
+Temor a lo desconocido
+
+[13972]
+Luz de salvación
+
+[13973]
+Entre la vida y la muerte
+
+[13974]
+Puerta a otras tierras
+
+[13975]
+Aldea Cuscús
+
+[13976]
+Colina Choux-Fleurs
+
+[13977]
+Camino al cadalso
+
+[13978]
+Grito de las brujas
+
+[13979]
+Catedral de la Santa Doncella
+
+[13980]
+Puerta Angelical
+
+[13981]
+Nido de demonios
+
+[13982]
+Pasillo ensangrentado
+
+[13983]
+Vestigios de sueños celestiales
+
+[13984]
+Luz celestial
+
+[13985]
+Puerta dimensional
+
+[13986]
+Otro mundo 1
+
+[13987]
+Otro mundo 2
+
+[13988]
+Otro mundo 3
+
+[13989]
+Otro mundo 4
+
+[13990]
+Altar del ángel caído
+
+[13991]
+Luz y oscuridad
+
+[13992]
+Cueva de las Pruebas 1
+
+[13993]
+Cueva de las Pruebas 2
+
+[13994]
+Cueva de las Pruebas 3
+
+[13995]
+Cueva de las Pruebas 4
+
+[13996]
+Cueva de las Pruebas 5
+
+[13997]
+Santuario oscuro
+
+[13998]
+Prueba divina
+
+[13999]
+Dis-Baal
+
+[14000]
+Baal fantasma
+
+[14001]
+Baales por doquier
+
+[14002]
+Flonne
+
+[14003]
+Etna
+
+[14004]
+Laharl
+
+[14005]
+Distrito central
+
+[14006]
+Distrito este
+
+[14007]
+Entrada al bosque Crockett
+
+[14008]
+Bosque Crockett
+
+[14009]
+Interior del bosque Crockett
+
+[14010]
+Senda de los demonios
+
+[14011]
+Sala de los mirones
+
+[14012]
+Cuesta del infierno
+
+[14013]
+Baño de tinieblas
+
+[14014]
+Sala del juicio demoníaco
+
+[14015]
+Entrada al corazón de Prier
+
+[14016]
+Corazón de tinieblas
+
+[14017]
+Corazón del deseo
+
+[14018]
+Corazón solitario
+
+[14019]
+Corazón del bautismo
+
+[14020]
+Corazón distorsionado
+
+[14021]
+Corazón de las tinieblas profundas
+
+[14022]
+Capilla de la Santa Doncella
+
+[14023]
+Pasillo de las tinieblas
+
+[14024]
+Oscuridad y más oscuridad
+
+[14025]
+Mundo Oscuro
+

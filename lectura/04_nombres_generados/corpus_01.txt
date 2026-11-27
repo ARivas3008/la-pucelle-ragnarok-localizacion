@@ -1,0 +1,516 @@
+LA PUCELLE — 04_nombres_generados — CORPUS 01
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== DLC_00/name.dat ===
+
+[1177]
+-kun
+
+[1178]
+-chan
+
+[1179]
+-san
+
+[1180]
+-sama
+
+[1181]
+-dono
+
+[1182]
+-tan
+
+[1183]
+-don
+
+[1184]
+-cchi
+
+[1185]
+I
+
+[1186]
+II
+
+[1187]
+III
+
+[1188]
+n.º 1
+
+[1189]
+n.º 2
+
+[1190]
+n.º 3
+
+[1191]
+Jefe de banda
+
+[1192]
+Capitán
+
+[1193]
+Cabecilla
+
+[1194]
+Maestro
+
+[1195]
+Primer ministro
+
+[1196]
+Primer ministro
+
+[1197]
+Presidente
+
+[1198]
+Ministro
+
+[1199]
+Comandante
+
+[1200]
+General
+
+[1201]
+Soldado de segunda clase
+
+[1202]
+Sargento
+
+[1203]
+Cabo
+
+[1204]
+Alférez
+
+[1205]
+Teniente
+
+[1206]
+Capitán
+
+[1207]
+Mayor
+
+[1208]
+Teniente coronel
+
+[1209]
+Coronel
+
+[1210]
+General de brigada
+
+[1211]
+Teniente general
+
+[1212]
+General de ejército
+
+[1213]
+Excelencia
+
+[1214]
+Majestad
+
+[1215]
+Alteza
+
+[1216]
+Caballero
+
+[1217]
+Princesa
+
+[1218]
+Rey
+
+[1219]
+Príncipe
+
+[1220]
+Hombre
+
+[1221]
+Máscara
+
+[1222]
+Chica
+
+[1223]
+Chico
+
+[1224]
+-nosuke
+
+[1225]
+Taro
+
+[1226]
+Jiro
+
+[1227]
+Saburo
+
+[1228]
+Shiro
+
+[1229]
+Goro
+
+[1230]
+Arroz frito
+
+[1231]
+Policía
+
+[1232]
+Arroz
+
+[1233]
+Salteado
+
+[1234]
+Combo
+
+[1235]
+Almuerzo
+
+[1236]
+Cena
+
+[1237]
+Sabor
+
+[1238]
+Obsesionado con
+
+[1239]
+Con ganas de
+
+[1240]
+(♂)
+
+[1241]
+(♀)
+
+[1242]
+(risas)
+
+[1243]
+(llanto)
+
+[1244]
+(carcajadas)
+
+[1245]
+(risa y llanto)
+
+[1246]
+Es
+
+[1247]
+¿Es que...?
+
+[1248]
+¡Tal vez!
+
+[1249]
+Debería ser
+
+[1250]
+Era
+
+[1251]
+Es.
+
+[1252]
+Así es.
+
+[1253]
+Era.
+
+[1254]
+¿Será?
+
+[1255]
+Aproximadamente
+
+[1256]
+¿Dónde está?
+
+[1257]
+¿Qué es?
+
+[1258]
+Hay
+
+[1259]
+¿¡Cómo dices!?
+
+[1260]
+Eeees
+
+[1261]
+¡Así es!
+
+[1262]
+¿Verdad?
+
+[1263]
+¿Verdad que sí?
+
+[1264]
+Es
+
+[1265]
+¿No es así?
+
+[1266]
+Es
+
+[1267]
+Es que...
+
+[1268]
+¡Pues sí!
+
+[1269]
+¡Y listo!
+
+[1270]
+¿¡De verdad!?
+
+[1271]
+¿Qué significa?
+
+[1272]
+Parecido a
+
+[1273]
+Un tipo como
+
+[1274]
+¡Eh!
+
+[1275]
+....
+
+[1276]
+?
+
+[1277]
+!
+
+[1278]
+!?
+
+[1279]
+Guerrero de
+
+[1280]
+Habitación de
+
+[1281]
+Sombra de
+
+[1282]
+Regalo de
+
+[1283]
+Pareja de
+
+[1284]
+Dios de
+
+[1285]
+Episodio de
+
+[1286]
+Secreto de
+
+[1287]
+Ogro de
+
+[1288]
+Misterio de
+
+[1289]
+Rebelión de
+
+[1290]
+Amor de
+
+[1291]
+Historia de
+
+[1292]
+Pesadilla de
+
+[1293]
+Enigma de
+
+[1294]
+Lazos de
+
+[1295]
+Felicidad de
+
+[1296]
+Comienzo de
+
+[1297]
+Espada de
+
+[1298]
+Puño de
+
+[1299]
+Culminación de
+
+[1300]
+Padre de
+
+[1301]
+Madre de
+
+[1302]
+Hermana mayor de
+
+[1303]
+Hermana menor de
+
+[1304]
+Hermano mayor de
+
+[1305]
+Hermano menor de
+
+[1306]
+Amigo de
+
+[1307]
+Crónicas de
+
+[1308]
+Extraterrestre
+
+[1309]
+Visitante
+
+[1310]
+Prohibido el paso
+
+[1311]
+Introducción a
+
+[1312]
+Fiel a
+
+[1313]
+Hija.
+
+[1314]
+Necio de por vida
+
+[1315]
+Diario compartido
+
+[1316]
+Libro blanco
+
+[1317]
+Alma
+
+[1318]
+Teatro
+
+[1319]
+De nuevo
+
+[1320]
+¡Persigue!
+
+[1321]
+¡Busca!
+
+[1322]
+Me gusta
+
+[1323]
+Época
+
+[1324]
+Lleno de
+
+[1325]
+Historia de amor
+
+[1326]
+Festival
+
+[1327]
+Baile
+
+[1328]
+Aniversario
+
+[1329]
+Camino hacia
+
+[1330]
+, hacia el este
+
+[1331]
+, hacia el norte
+
+[1332]
+, hacia el oeste
+
+[1333]
+, hacia el sur
+
+[1334]
+N.º 1 de Japón
+
+[1335]
+-sensei
+
+[1336]
+Pontífice
+
+[1337]
+Emperador
+
+[1338]
+Monarca
+
+[1339]
+Gran emperador
+
+[1340]
+Gran rey
+
+[1341]
+S. A.
+
+[1342]
+Ltda.
+
+[1343]
+Jefe
+
+[1344]
+Máscara
+
+[1345]
+-senpai
+
+[1346]
+Experto
+

@@ -1,0 +1,948 @@
+LA PUCELLE — 03_personajes_y_enemigos — CORPUS 01
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== DLC_00/char.dat ===
+
+[1]
+Prier
+
+[2]
+Culotte
+
+[3]
+Alouette
+
+[4]
+Éclair
+
+[5]
+Éclair oscura
+
+[6]
+Padre Salade
+
+[7]
+Croix
+
+[8]
+Homard
+
+[9]
+Noir
+
+[10]
+Papillon
+
+[11]
+Angélique
+
+[12]
+Chocolat
+
+[13]
+Monya-Monya
+
+[14]
+Yattanya
+
+[15]
+Caballero oscuro
+
+[17]
+Laharl
+
+[18]
+Etna
+
+[19]
+Flonne
+
+[20]
+Prinny
+
+[21]
+Ellie
+
+[22]
+??????
+
+[23]
+Zombi
+
+[24]
+Zombi poderoso
+
+[25]
+Zombi resistente
+
+[26]
+Caballero zombi
+
+[27]
+Rey zombi
+
+[28]
+Murciélago pequeño
+
+[29]
+Minidragón
+
+[30]
+Chuchu
+
+[31]
+Murciélago dorado
+
+[32]
+Murciélago grande
+
+[33]
+Ñam-ñam
+
+[34]
+Vampiro
+
+[35]
+Nosferatu
+
+[36]
+Oso grande
+
+[37]
+Diablo blanco
+
+[38]
+Ogro
+
+[39]
+Mr. Moo
+
+[40]
+Hugo
+
+[41]
+Hyacinth
+
+[42]
+Behemot
+
+[43]
+Hanahana
+
+[44]
+Beso francés
+
+[45]
+Hermosa
+
+[46]
+Mandrágora
+
+[47]
+Rafflesian
+
+[48]
+Gunchan
+
+[49]
+Kraken
+
+[50]
+Moby Dick
+
+[51]
+Leviatán
+
+[52]
+Fuego fatuo
+
+[53]
+Llama espectral
+
+[54]
+Salamandra
+
+[55]
+Jabberwock
+
+[56]
+Peludito
+
+[57]
+Esponjoso
+
+[58]
+Cabeza de calabaza
+
+[59]
+Jack-o'-lantern
+
+[60]
+Halloween
+
+[61]
+Rey calabaza
+
+[62]
+Gremlin
+
+[63]
+Gorro rojo
+
+[64]
+Caso perdido
+
+[65]
+Pandora
+
+[66]
+Espíritu
+
+[67]
+Fantasma
+
+[68]
+Aparición
+
+[69]
+Espectro
+
+[70]
+Eringa
+
+[71]
+Eringer
+
+[72]
+Erinda
+
+[73]
+Erinja
+
+[74]
+Baal fantasma
+
+[75]
+Cría del señor del bosque
+
+[76]
+Osito
+
+[77]
+Oso Pooh
+
+[78]
+Anubis
+
+[79]
+Sirena
+
+[80]
+Ondina
+
+[81]
+Jugon
+
+[82]
+Lamia
+
+[83]
+Emisario del Mundo Oscuro
+
+[84]
+Mago
+
+[85]
+Sacerdote demoníaco
+
+[86]
+Gran mago
+
+[87]
+Soldado del rey
+
+[88]
+Capitán de las tropas reales
+
+[89]
+Caballero oscuro
+
+[90]
+Cú Chulainn
+
+[91]
+Gárgola
+
+[92]
+Guiverno
+
+[93]
+Mantícora
+
+[94]
+Quimera
+
+[95]
+Gólem
+
+[96]
+Cerbero
+
+[97]
+Ortro
+
+[98]
+Súcubo
+
+[99]
+Lilith
+
+[100]
+Gorgona
+
+[101]
+Belial
+
+[102]
+Dagón
+
+[103]
+Aliok
+
+[104]
+Tempête
+
+[105]
+Capricornio
+
+[106]
+Baal
+
+[107]
+Albijwaz
+
+[108]
+Gigante
+
+[109]
+Normande
+
+[110]
+Talos
+
+[111]
+Disbar
+
+[112]
+Montblanc
+
+[113]
+Oseille
+
+[114]
+Hecatónquiro
+
+[115]
+Grendel
+
+[116]
+Dragoseta
+
+[117]
+Seta gigante
+
+[118]
+Monstruseta
+
+[119]
+Rey seta
+
+[120]
+Señor del bosque
+
+[121]
+Catoplebas
+
+[122]
+Tiamat
+
+[123]
+Fenrir
+
+[124]
+Príncipe de las tinieblas
+
+[125]
+Criatura gigantesca desconocida
+
+[126]
+Gran monstruo
+
+[127]
+El lado oscuro de Croix
+
+[128]
+Barsom
+
+[129]
+Suzanne
+
+[130]
+Chucky
+
+[131]
+????
+
+[132]
+Oscuridad del corazón
+
+[133]
+Camino de las setas
+
+[134]
+Mapa del mundo
+
+[135]
+Enfermería de la Santa Doncella
+
+[136]
+Cuarto de Salade
+
+[137]
+Interior de la catedral
+
+[138]
+Frente a la catedral
+
+[139]
+Tienda de udon Yamasemi
+
+[140]
+Tienda Rosenqueen
+
+[141]
+Orfanato
+
+[142]
+Salida
+
+[143]
+Personaje misterioso
+
+[144]
+Niño
+
+[145]
+Niña
+
+[146]
+Señorita
+
+[147]
+Joven
+
+[148]
+Señor
+
+[149]
+Director
+
+[150]
+Señora
+
+[151]
+Anciano
+
+[152]
+Anciana
+
+[153]
+Hermana Olive
+
+[154]
+Rapan, el travieso
+
+[155]
+Pomp, el mocoso
+
+[156]
+Flenet, el llorica
+
+
+=== DLC_01/char.dat ===
+
+[2801]
+Prinny protagonista
+
+
+=== DLC_02/char.dat ===
+
+[2870]
+Cornet
+
+
+=== DLC_03/char.dat ===
+
+[2954]
+Rozalin
+
+
+=== ISO_START/char.dat ===
+
+[12805]
+Prier
+
+[12806]
+Culotte
+
+[12807]
+Alouette
+
+[12808]
+Éclair
+
+[12809]
+Éclair oscura
+
+[12810]
+Padre Salade
+
+[12811]
+Croix
+
+[12812]
+Homard
+
+[12813]
+Noir
+
+[12814]
+Papillon
+
+[12815]
+Angélique
+
+[12816]
+Chocolat
+
+[12817]
+Monya-Monya
+
+[12818]
+Yattanya
+
+[12819]
+Caballero oscuro
+
+[12820]
+Prier demoníaca
+
+[12821]
+Laharl
+
+[12822]
+Etna
+
+[12823]
+Flonne
+
+[12824]
+Prinny
+
+[12825]
+Zombi
+
+[12826]
+Zombi poderoso
+
+[12827]
+Zombi resistente
+
+[12828]
+Caballero zombi
+
+[12829]
+Rey zombi
+
+[12830]
+Murciélago pequeño
+
+[12831]
+Minidragón
+
+[12832]
+Chuchu
+
+[12833]
+Murciélago dorado
+
+[12834]
+Murciélago grande
+
+[12835]
+Ñam-ñam
+
+[12836]
+Vampiro
+
+[12837]
+Oso grande
+
+[12838]
+Diablo blanco
+
+[12839]
+Ogro
+
+[12840]
+Mr. Moo
+
+[12841]
+Hugo
+
+[12842]
+Hyacinth
+
+[12843]
+Behemot
+
+[12844]
+Hanahana
+
+[12845]
+Beso francés
+
+[12846]
+Hermosa
+
+[12847]
+Mandrágora
+
+[12848]
+Rafflesian
+
+[12849]
+Gunchan
+
+[12850]
+Kraken
+
+[12851]
+Moby Dick
+
+[12852]
+Leviatán
+
+[12853]
+Fuego fatuo
+
+[12854]
+Llama espectral
+
+[12855]
+Salamandra
+
+[12856]
+Jabberwock
+
+[12857]
+Peludito
+
+[12858]
+Esponjoso
+
+[12859]
+Cabeza de calabaza
+
+[12860]
+Jack-o'-lantern
+
+[12861]
+Halloween
+
+[12862]
+Rey calabaza
+
+[12863]
+Gremlin
+
+[12864]
+Gorro rojo
+
+[12865]
+Caso perdido
+
+[12866]
+Pandora
+
+[12867]
+Espíritu
+
+[12868]
+Fantasma
+
+[12869]
+Aparición
+
+[12870]
+Espectro
+
+[12871]
+Eringa
+
+[12872]
+Eringer
+
+[12873]
+Erinda
+
+[12874]
+Erinja
+
+[12875]
+Cría del señor del bosque
+
+[12876]
+Beartrom
+
+[12877]
+Beartie
+
+[12878]
+Oso Pooh
+
+[12879]
+Anubis
+
+[12880]
+Sirena
+
+[12881]
+Ondina
+
+[12882]
+Jugon
+
+[12883]
+Lamia
+
+[12884]
+Emisario del Mundo Oscuro
+
+[12885]
+Mago
+
+[12886]
+Sacerdote demoníaco
+
+[12887]
+Gran mago
+
+[12888]
+Soldado del rey
+
+[12889]
+Capitán de las tropas reales
+
+[12890]
+Cú Chulainn
+
+[12891]
+Gárgola
+
+[12892]
+Guiverno
+
+[12893]
+Mantícora
+
+[12894]
+Quimera
+
+[12895]
+Gólem
+
+[12896]
+Cerbero
+
+[12897]
+Ortro
+
+[12898]
+Súcubo
+
+[12899]
+Lilith
+
+[12900]
+Gorgona
+
+[12901]
+Belial
+
+[12902]
+Dagón
+
+[12903]
+Aliok
+
+[12904]
+Tempête
+
+[12905]
+Capricornio
+
+[12906]
+Baal
+
+[12907]
+Albijwaz
+
+[12908]
+Gigante
+
+[12909]
+Normande
+
+[12910]
+Talos
+
+[12911]
+Disbar
+
+[12912]
+Montblanc
+
+[12913]
+Oseille
+
+[12914]
+Hecatónquiro
+
+[12915]
+Grendel
+
+[12916]
+Dragoseta
+
+[12917]
+Seta gigante
+
+[12918]
+Monstruseta
+
+[12919]
+Rey seta
+
+[12920]
+Señor del bosque
+
+[12921]
+Catoplebas
+
+[12922]
+Tiamat
+
+[12923]
+Fenrir
+
+[12924]
+Príncipe de las tinieblas
+
+[12925]
+Criatura gigantesca desconocida
+
+[12926]
+Gran monstruo
+
+[12927]
+El lado oscuro de Croix
+
+[12928]
+Barsom
+
+[12929]
+Suzanne
+
+[12930]
+Chucky
+
+[12931]
+Oscuridad del corazón
+
+[12932]
+Camino de las setas
+
+[12933]
+Mapa del mundo
+
+[12934]
+Enfermería
+
+[12935]
+Cuarto de Salade
+
+[12936]
+Iglesia
+
+[12937]
+Tienda de udon Yamasemi
+
+[12938]
+Tienda Rosenqueen
+
+[12939]
+Orfanato
+
+[12940]
+Salida
+
+[12941]
+Hombre misterioso
+
+[12942]
+Niño
+
+[12943]
+Niña
+
+[12944]
+Suzanne
+
+[12945]
+Señorita
+
+[12946]
+Joven
+
+[12947]
+Señor
+
+[12948]
+Director
+
+[12949]
+Señora
+
+[12950]
+Anciano
+
+[12951]
+Anciana
+
+[12952]
+Hermana Olive
+
+[12953]
+Rapan
+
+[12954]
+Pomp
+
+[12955]
+Flenet
+
+[12956]
+Ellie
+

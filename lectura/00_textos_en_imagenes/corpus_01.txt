@@ -1,0 +1,267 @@
+LA PUCELLE — 00_textos_en_imagenes — CORPUS 01
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at01.txp ===
+
+[3282]
+Capítulo 1 / Aprender el oficio
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at02.txp ===
+
+[3283]
+Capítulo 2 / La promesa de un niño
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at03.txp ===
+
+[3284]
+Capítulo 3 / Prier y Alouette
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at04.txp ===
+
+[3285]
+Capítulo 4 / Un problema gigantesco
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at05.txp ===
+
+[3286]
+Capítulo 5 / Un asunto peliagudo
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at06.txp ===
+
+[3287]
+Capítulo 6 / El viaje
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at07.txp ===
+
+[3288]
+Capítulo 7 / Un baile en el cielo
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at08.txp ===
+
+[3289]
+Capítulo 8 / Hacia una tierra inexplorada
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at09.txp ===
+
+[3290]
+Capítulo 9 / Recuerdos de Fátima
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at10.txp ===
+
+[3291]
+Capítulo 10 / El príncipe de las tinieblas
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at11.txp ===
+
+[3292]
+Capítulo 11 / La Doncella de la Luz
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at12.txp ===
+
+[3293]
+Capítulo 12 / Nace una leyenda
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at15.txp ===
+
+[3294]
+Capítulo 1 / Nace una Señora Demonio
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at16.txp ===
+
+[3295]
+Capítulo 2 / La Señora Demonio
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at17.txp ===
+
+[3296]
+Capítulo 3 / El emperador de la desesperación
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/at18.txp ===
+
+[3297]
+Capítulo 4 / El espíritu de las tinieblas
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/title2.txp ===
+
+[3298]
+© 2002-2009 NIPPON ICHI SOFTWARE INC.
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/title_mj.txp ===
+
+[3299]
+La Pucelle: Ragnarok
+
+
+=== ISO/PSP_GAME/USRDIR/BGPACK.DAT/wmap_03.txp ===
+
+[3300]
+Mapa del mundo
+
+
+=== ISO_START/item.txp ===
+
+[13105]
+ATQ
+
+[13106]
+DEF
+
+[13107]
+INT
+
+[13108]
+VEL
+
+[13109]
+Prec.
+
+[13110]
+Res.
+
+
+=== ISO_START/sys2.txp ===
+
+[14647]
+SELECT
+
+[14648]
+START
+
+
+=== ISO_START/sys3.txp ===
+
+[14649]
+TU TURNO
+
+[14650]
+TURNO ENEMIGO
+
+[14651]
+FIN DE LA PARTIDA
+
+[14652]
+INICIO DE FASE
+
+[14653]
+FASE SUPERADA
+
+[14654]
+VICTORIA
+
+[14655]
+EMPATE
+
+[14656]
+DERROTA
+
+[14657]
+¡A LUCHAR!
+
+[14658]
+turno
+
+
+=== ISO_START/sys4.txp ===
+
+[14659]
+Condición de victoria
+
+[14660]
+¡Derrota a todos los enemigos!
+
+[14661]
+¡Lleva a la criatura
+
+[14662]
+hasta el monte Tarte!
+
+[14663]
+¡Derrota al jefe!
+
+[14664]
+¡Ve al siguiente mapa!
+
+
+=== ISO_START/sys5.txp ===
+
+[14665]
+BONO+
+
+[14666]
+¡Impacto!
+
+
+=== ISO_START/sys6.txp ===
+
+[14667]
+Nv.
+
+[14668]
+PV
+
+[14669]
+PE
+
+[14670]
+Mov.
+
+[14671]
+Sal.
+
+[14672]
+Elemento
+
+[14673]
+Dirección
+
+[14674]
+Alcance del flujo:
+
+[14675]
+Casillas
+
+[14676]
+Portal
+
+[14677]
+turnos hasta la aparición
+
+[14678]
+Flujo
+
+[14679]
+Muestra cierto interés
+
+[14680]
+Piensa en unirse
+
+[14681]
+Probablemente se una
+
+[14682]
+Se unirá sin falta
+
+
+=== ISO_START/sys7.txp ===
+
+[14683]
+Re-Action!!
+

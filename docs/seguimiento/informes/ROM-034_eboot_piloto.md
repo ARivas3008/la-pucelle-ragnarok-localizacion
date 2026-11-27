@@ -1,5 +1,0 @@
-# ROM-034 — Dos rótulos EBOOT, piloto físico reproducido
-
-25/11/2026. Rama conservadora actualizada por avance rápido desde ROM032 a ROM033 (4/4 CI success; PR #58 y #57). ISO original extraída con libarchive del archivo aportado, SHA autenticado. EBOOT ELF de 895108 bytes, LBA 32. Se escribieron únicamente las dos cadenas en offsets 792108 y 792204, utilizando F040 para á según fuentes_es.py; padding ASCII y NUL conservados. Se releyó EBOOT desde la ISO y se cotejaron 858937310 bytes exteriores a los dos intervalos, inventario ISO9660 idéntico; reproducción independiente del script con mismo hash exacto. No se incluyen binarios.
-
-Cobertura agregada entre pilotos 26195/26257 (99,7639%); quedan 62 gráficos. Esto no es una candidata integral, no contiene la fontB extendida y no acredita renderizado del gaiji. Histórica integral permanece 21805/26258. Se extrajeron y hashearon cuatro EDAT aportados; faltan fuentes privadas ROM029/ROM033 para reconstruir la unión sin perder trabajo. No se ejecutó PPSSPP. No publicar ISO, EDAT, DAT, LZS ni fuentes comerciales.

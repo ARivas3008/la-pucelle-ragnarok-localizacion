@@ -1,0 +1,783 @@
+LA PUCELLE — 01_hud_y_menus — CORPUS 01
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== ISO/PSP_GAME/SYSDIR/EBOOT.BIN ===
+
+[3023]
+Calle Mayor
+
+[3024]
+Orfanato
+
+[3025]
+Iglesia
+
+[3026]
+Tienda de udon
+
+[3027]
+Tienda Rosenqueen
+
+[3028]
+Mapa del mundo
+
+[3029]
+Ciudad de Pot-au-Feu
+
+[3030]
+Puerto Mayonesa
+
+[3031]
+Panza del Diablo
+
+[3032]
+Castillo de Montblanc
+
+[3033]
+Plaza Minka
+
+[3034]
+Bosque Meunière
+
+[3035]
+Valle Eringa
+
+[3036]
+Monte Champignon
+
+[3037]
+Castillo Berro
+
+[3038]
+Selva
+
+[3039]
+Cueva de las Ruinas
+
+[3040]
+Aldea Cuscús
+
+[3041]
+Aldea Fantasma
+
+[3042]
+Colina Choux-Fleurs
+
+[3043]
+Puerta Angelical
+
+[3044]
+Lugar del accidente
+
+[3045]
+Biblioteca Real
+
+[3046]
+Casa de Angélica
+
+[3047]
+Cueva de las Pruebas
+
+[3048]
+Cima de la Puerta Angelical
+
+[3049]
+Santuario Oscuro
+
+[3050]
+Bar del Castillo
+
+[3051]
+Nuevo bar del castillo
+
+[3052]
+Castillo del verdadero Baal
+
+[3053]
+Aldea Croqueta
+
+[3054]
+Cueva de la Vinagreta
+
+[3055]
+Oscuridad inmensa
+
+[3056]
+Isla Secreta
+
+[3057]
+Demonio
+
+[3058]
+Demonio superior
+
+[3059]
+Gran demonio
+
+[3060]
+Señor de los demonios
+
+[3061]
+Soberano demoníaco
+
+[3062]
+Hueso
+
+[3063]
+Pequeño
+
+[3064]
+Murciélago
+
+[3065]
+Oso
+
+[3066]
+Hipopótamo
+
+[3067]
+Planta
+
+[3068]
+Ballena
+
+[3069]
+Fuego fatuo
+
+[3070]
+Peludo
+
+[3071]
+Calabaza
+
+[3072]
+Caja
+
+[3073]
+Fantasma
+
+[3074]
+Seta
+
+[3075]
+Canijo
+
+[3076]
+Sirena
+
+[3077]
+Haniwa
+
+[3078]
+Princesa
+
+[3079]
+Éclair oscura
+
+[3080]
+Sacerdote
+
+[3081]
+Cazador de demonios
+
+[3082]
+Tripulación Escargot
+
+[3083]
+Nuestra Señora de Dios
+
+[3084]
+Iglesia de la Santa Madre
+
+[3085]
+Ángel caído
+
+[3086]
+Prinny
+
+[3087]
+Prier ha aprendido Transformar
+
+[3088]
+Todos los personajes de la primera historia
+
+[3089]
+ya disponibles
+
+[3090]
+Diablo
+
+[3091]
+Empezar
+
+[3092]
+Continuar
+
+[3093]
+Opciones
+
+[3094]
+Sí
+
+[3095]
+No
+
+[3096]
+Cancelar guardado
+
+[3097]
+Menú
+
+[3098]
+Objetos
+
+[3099]
+Equipo
+
+[3100]
+Estado
+
+[3101]
+Entrenamiento
+
+[3102]
+Organizar
+
+[3103]
+Salir
+
+[3104]
+Guardar
+
+[3105]
+Tiempo
+
+[3106]
+Manual
+
+[3107]
+Nivel
+
+[3108]
+Humano
+
+[3109]
+Monstruos
+
+[3110]
+Atacar
+
+[3111]
+Magia
+
+[3112]
+Añadir
+
+[3113]
+Sustituir
+
+[3114]
+Orden manual
+
+[3115]
+Ordenar por nivel
+
+[3116]
+Ordenar: humanos
+
+[3117]
+Ordenar: monstruos
+
+[3118]
+Ordenar por PV
+
+[3119]
+Ordenar por ataque
+
+[3120]
+Ordenar por poder mágico
+
+[3121]
+Inventario
+
+[3122]
+Habilidades
+
+[3123]
+Especial
+
+[3124]
+Ninguno
+
+[3125]
+No recuerdo ninguna habilidad
+
+[3126]
+Organizar
+
+[3127]
+Ordenar
+
+[3128]
+No lo recuerdo
+
+[3129]
+Quitar
+
+[3130]
+Orden
+
+[3131]
+Descartar
+
+[3132]
+No tengo ese objeto
+
+[3133]
+Ánimo: %d
+
+[3134]
+Introduce un nombre
+
+[3135]
+Cambiar
+
+[3136]
+Letal
+
+[3137]
+Consumo de PE reducido
+
+[3138]
+Daño reducido
+
+[3139]
+Sueño
+
+[3140]
+Amnesia
+
+[3141]
+Enfermedad
+
+[3142]
+Efectos
+
+[3143]
+Propiedad
+
+[3144]
+Puedes comprar objetos comunes
+
+[3145]
+Puedes comprar objetos oscuros sospechosos
+
+[3146]
+Sin existencias
+
+[3147]
+Vende los objetos que ya no necesites
+
+[3148]
+Pedimos a los compradores que respondan a una encuesta
+
+[3149]
+Lo consideraré más adelante
+
+[3150]
+Procuraré no hacer demasiadas preguntas
+
+[3151]
+Tienda Rosenqueen
+
+[3152]
+Comprar
+
+[3153]
+Vender
+
+[3154]
+Inventario lleno
+
+[3155]
+No se puede equipar
+
+[3156]
+Probar
+
+[3157]
+Ajustar
+
+[3158]
+Girar
+
+[3159]
+Enviar monstruo
+
+[3160]
+Consultar por un monstruo
+
+[3161]
+Entrenamiento de monstruos
+
+[3162]
+Información sobre el Mundo Oscuro
+
+[3163]
+El monstruo enviado no regresó
+
+[3164]
+Inventario lleno
+
+[3165]
+Fue llevado al Mundo Oscuro
+
+[3166]
+No sirve de nada enviar a esa criatura
+
+[3167]
+No tiene sentido enviar a esa criatura
+
+[3168]
+No vale la pena: el objeto tiene un nivel demasiado bajo
+
+[3169]
+El poder del objeto disminuyó por culpa de un monstruo débil
+
+[3170]
+Armadura
+
+[3171]
+Gafas
+
+[3172]
+Botas
+
+[3173]
+Premio
+
+[3174]
+Crecimiento
+
+[3175]
+En uso
+
+[3176]
+Arma
+
+[3177]
+Otros
+
+[3178]
+Todos los objetos
+
+[3179]
+Registro
+
+[3180]
+Tiempo de juego
+
+[3181]
+Partidas completadas
+
+[3182]
+Daño máximo
+
+[3183]
+Daño total máximo
+
+[3184]
+N.º de purificaciones
+
+[3185]
+Aliados derrotados
+
+[3186]
+Enemigos derrotados
+
+[3187]
+Colección de objetos
+
+[3188]
+Mundo Oscuro
+
+[3189]
+Número de demonios
+
+[3190]
+Botón
+
+[3191]
+Puerta al Mundo Oscuro
+
+[3192]
+Panel base
+
+[3193]
+Combate
+
+[3194]
+No puede participar en combate
+
+[3195]
+Debe unirse al equipo
+
+[3196]
+Aún quedan personajes que pueden actuar
+
+[3197]
+Purificar
+
+[3198]
+Potenciar milagro
+
+[3199]
+Purificarlo
+
+[3200]
+Consume reservas para potenciar el milagro
+
+[3201]
+Selecciona el tipo de alcance
+
+[3202]
+Aumenta el poder de purificación y consume puntos
+
+[3203]
+Aumenta el alcance de la purificación
+
+[3204]
+Amplía el área de purificación
+
+[3205]
+No conozco ninguna habilidad
+
+[3206]
+Usar
+
+[3207]
+Consumir objetos
+
+[3208]
+Equipar objeto
+
+[3209]
+Desechar objeto
+
+[3210]
+Modificar objeto
+
+[3211]
+Alcance corto
+
+[3212]
+Dirección
+
+[3213]
+¿Colocar aquí un Cambio de rumbo?
+
+[3214]
+¡Ha aparecido un nuevo enemigo!
+
+[3215]
+Espíritu
+
+[3216]
+Terminar turno
+
+[3217]
+Luchar
+
+[3218]
+Opciones
+
+[3219]
+Salir del juego
+
+[3220]
+Todas las unidades atacarán a la vez
+
+[3221]
+Ajustes varios
+
+[3222]
+Volver al título; se perderán los datos
+
+[3223]
+Mover la unidad
+
+[3224]
+Atacar a una unidad enemiga
+
+[3225]
+Usar habilidades especiales
+
+[3226]
+Purificar la tierra oscura
+
+[3227]
+Consultar el estado
+
+[3228]
+Girar la unidad
+
+[3229]
+Cancelar acción
+
+[3230]
+Mover
+
+[3231]
+Deshacer
+
+[3232]
+Elige un personaje para combatir
+
+[3233]
+Anterior
+
+[3234]
+Lista anterior
+
+[3235]
+Ordenar por nivel
+
+[3236]
+Ordenar: humanos
+
+[3237]
+Ordenar: monstruos
+
+[3238]
+Ordenar por PV
+
+[3239]
+Ordenar por ataque
+
+[3240]
+Ordenar por poder mágico
+
+[3241]
+Efecto de rotación
+
+[3242]
+Poder %5d
+
+[3243]
+Elige una dirección
+
+[3244]
+Confirmar
+
+[3245]
+Purificaciones completas: %9d
+
+[3246]
+El reinicio provocará
+
+[3247]
+Música de fondo
+
+[3248]
+Volumen de voces
+
+[3249]
+Volumen de combate
+
+[3250]
+Volumen de efectos
+
+[3251]
+Efectos aliados: sí
+
+[3252]
+Efectos aliados: no
+
+[3253]
+Efectos enemigos: sí
+
+[3254]
+Efectos enemigos: no
+
+[3255]
+Velocidad del sistema: normal
+
+[3256]
+Velocidad del sistema: rápida
+
+[3257]
+Velocidad de movimiento: normal
+
+[3258]
+Velocidad de movimiento: rápida
+
+[3259]
+Velocidad de movimiento: máxima
+
+[3260]
+Velocidad del texto: lenta
+
+[3261]
+Velocidad del texto: normal
+
+[3262]
+Velocidad del texto: rápida
+
+[3263]
+Velocidad del texto: máxima
+
+[3264]
+Los datos de la partida completada no se han guardado
+
+[3265]
+Como Prier, Señora Demonio
+
+[3266]
+Como Prier
+
+[3267]
+Prueba divina
+
+[3268]
+Ir al puente
+
+[3269]
+Corazón de Prier
+
+[3270]
+Ir a la prueba divina
+
+[3271]
+Veces completado
+
+[3272]
+Monstruo
+
+[3273]
+Índice de energía oscura
+
+[3274]
+Final bueno
+
+[3275]
+Final normal
+
+[3276]
+Final malo
+
+[3277]
+Final especial
+
+[3278]
+Bonificación por completar
+
+[3279]
+Inventario lleno
+
+[3280]
+No se ha conseguido
+
+[3281]
+Objetos de recompensa
+

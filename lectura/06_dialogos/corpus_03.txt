@@ -1,0 +1,2865 @@
+LA PUCELLE — 06_dialogos — CORPUS 03
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== DLC_00/talk00.dat ===
+
+[2143]
+¿¡Quién diablos eres!?
+
+[2144]
+¡No te metas en mi camino!
+
+[2145]
+¿¡Así que tú eres quien está detrás de todo!?
+
+[2146]
+¡Voy a quitarte esas malas mañas!
+
+[2147]
+¡En nombre de la Doncella de la Luz, yo misma te enderezaré a golpes!
+
+[2148]
+Por culpa de tu perversidad, tanta gente ha sufrido…
+
+[2149]
+¡Recibirás tu merecido!
+
+[2150]
+…No tengo ni una plegaria para ti.
+
+[2151]
+En nombre de la Doncella de la Luz…
+
+[2152]
+Todo pecado merece un castigo.
+
+[2153]
+¡Grr…!
+
+[2154]
+¡Entonces no me queda más que arrancarte el corazón!
+
+[2155]
+(…Papá, mamá.
+
+[2156]
+¿Me están viendo?)
+
+[2157]
+(¡Me he vuelto más fuerte!)
+
+[2158]
+¡Aprovecharse de las flaquezas ajenas…!
+
+[2159]
+¡Yo…!
+
+[2160]
+¡Yo no te lo perdonaré!
+
+[2161]
+(¿De verdad podemos quitarle la vida a este monstruo…?)
+
+[2162]
+…Las sagradas escrituras son mi único consuelo.
+
+[2163]
+Yo…
+
+[2164]
+¡Yo no estoy equivocada…!
+
+[2165]
+¡Un momento!
+
+[2166]
+¡No dejaré que sigas haciéndole daño a ese monstruo!
+
+[2167]
+Je… Esto se pone interesante.
+
+[2168]
+No sé quién eres, pero ¿te atreves a buscar pelea con el capitán Homard?
+
+[2169]
+¡Pues pelea tendrás!
+
+[2170]
+¡Acepto el desafío!
+
+[2171]
+…Vaya, eres fuerte.
+
+[2172]
+Je…
+
+[2173]
+Tú tampoco te quedas atrás.
+
+[2174]
+¿¡U-un gato!?
+
+[2175]
+¡Tomo tus palabras como un desafío, miau!
+
+[2176]
+¡Te arrepentirás de haberme tomado por un simple gato, miau!
+
+[2177]
+Oye, tú…
+
+[2178]
+¿Crees que soy un gato cualquiera, miau?
+
+[2179]
+¡No me compares con un gato cualquiera, miau!
+
+[2180]
+¡Maldito demonio! ¡Te aprovechas de las debilidades de los hombres!
+
+[2181]
+¡En nombre de la Doncella de la Luz, acabaré contigo!
+
+[2182]
+¡Aprovecharte de los problemas con el pelo de otros para cometer tantas maldades…! ¡Como hombre, no te lo perdono!
+
+[2183]
+¡Yo, Croix Raoul, te voy a matar!
+
+[2184]
+En realidad, no quiero hacer esto, pero…
+
+[2185]
+¡Es para que Éclair vuelva a la normalidad!
+
+[2186]
+¡Perdóname!
+
+[2187]
+Aunque tú no tienes la culpa…
+
+[2188]
+¡También es para salvar a Éclair!
+
+[2189]
+¡Perdón!
+
+[2190]
+¡Así que este es un dios demoníaco…!
+
+[2191]
+…¡Me parece perfecto!
+
+[2192]
+¡Por fin un rival a mi altura!
+
+[2193]
+¡Vamos, allá voooooy!
+
+[2194]
+¡Así que esto es un dios demoníaco…!
+
+[2195]
+¡Nunca había visto uno…!
+
+[2196]
+¡No!
+
+[2197]
+¡No te acobardes, Culotte!
+
+[2198]
+¡Para proteger a mi hermana!
+
+[2199]
+¡Decidí hacerme más fuerte para proteger a Alouette!
+
+[2200]
+¡No pienso perder!
+
+[2201]
+Este mundo no es el lugar al que perteneces.
+
+[2202]
+Yo te devolveré a tu mundo de origen.
+
+[2203]
+Je…
+
+[2204]
+Por fin aparece alguien que parece dar la talla.
+
+[2205]
+¡Voy a disfrutar de lo lindo!
+
+[2206]
+¡Pero no puedo dejar que todo termine aquí!
+
+[2207]
+¡Emprendí este viaje para vencer la debilidad de mi corazón!
+
+[2208]
+¡E-espera un momento!
+
+[2209]
+¿¡Tengo que luchar contra esa cosa!?
+
+[2210]
+¿¡E-estás de broma!?
+
+[2211]
+¡E-es enorme…!
+
+[2212]
+¡Pero yo te enseñaré que, en una pelea, no basta con ser grandote para ganar!
+
+[2213]
+(…Eso he dicho, pero…
+
+[2214]
+…creo que será mejor salir corriendo…)
+
+[2215]
+¡Atacar de frente a un enemigo tan poderoso es una desventaja!
+
+[2216]
+¡Debemos mantenerlo a raya con todas nuestras fuerzas mientras huimos!
+
+[2217]
+¡Hay que ver qué artimaña tan rastrera se les ha ocurrido!
+
+[2218]
+¡En nombre de la Doncella de la Luz!
+
+[2219]
+¡Arrepiénteteeee!
+
+[2220]
+Un dios demoníaco, ¿eh…?
+
+[2221]
+Me viene de perlas.
+
+[2222]
+¡Me servirá para calentar antes del día en que ajuste cuentas con él!
+
+[2223]
+¡T-tú…!
+
+[2224]
+¿¡Q-quién demonios eres!?
+
+[2225]
+…Muere.
+
+[2226]
+¿¡Que ya hemos perdido!?
+
+[2227]
+¡A ver si sigues diciendo eso después de recibir esto!
+
+[2228]
+¡No perdonaré a nadie que intente hacerle daño a Alouette!
+
+[2229]
+¡Yo protegeré a Alouette!
+
+[2230]
+¡Apártate!
+
+[2231]
+¡No pienso dejar que Angélica muera!
+
+[2232]
+Jo, jo, jo…
+
+[2233]
+Debo dar gracias a Dios por encontrar un rival digno después de tanto tiempo.
+
+[2234]
+¡Bah!
+
+[2235]
+¡Mira quién habla!
+
+[2236]
+¡Ya se te acabará esa arrogancia!
+
+[2237]
+¡Toma estooooo!
+
+[2238]
+¡Por favor!
+
+[2239]
+¡No te dejes vencer por el poder de la oscuridad!
+
+[2240]
+¡Confío en ti, Croix!
+
+[2241]
+¡C-cállate!
+
+[2242]
+¡Cállate, cállate, cállateeeee!
+
+[2243]
+¡Croix!
+
+[2244]
+¡Recuerda quién eres en realidad!
+
+[2245]
+¡Tú no eres ningún príncipe de las tinieblas!
+
+[2246]
+¡No te dejes vencer por el poder de la oscuridad!
+
+[2247]
+Cincuenta años.
+
+[2248]
+Llevo todo ese tiempo esperando este día…
+
+[2249]
+¡Siente el peso de cincuenta años concentrado en mi puño!
+
+[2250]
+Prier…
+
+[2251]
+Ese poder de la justicia en el que crees…
+
+[2252]
+¡Muéstramelo!
+
+[2253]
+¡No hace falta que me lo digas!
+
+[2254]
+No es por nadie más…
+
+[2255]
+¡Te derrotaré por aquello en lo que creo!
+
+[2256]
+Hay una última cosa que quiero preguntarte…
+
+[2257]
+¿Por qué luchas?
+
+[2258]
+¡Para proteger a quien amo!
+
+[2259]
+Muy bien…
+
+[2260]
+Entonces yo también lucharé con todas mis fuerzas para estar a la altura.
+
+[2261]
+¡Para cumplir mi misión como Doncella de la Luz!
+
+[2262]
+¡Para protegerme a mí misma…
+
+[2263]
+y también al Sacro Reino de Paprica!
+
+[2264]
+¡Para demostrar que mi existencia tiene sentido!
+
+[2265]
+¡Para saldar cuentas por los cincuenta años que dediqué a la Doncella de la Luz!
+
+[2266]
+No necesito motivos para pelear, miau.
+
+[2267]
+Cuando veo a alguien fuerte, me entran ganas de luchar…
+
+[2268]
+¡Así se comporta un hombre de verdad, miau!
+
+[2269]
+¿Quién sabe?
+
+[2270]
+Qué más da, ¿no?
+
+[2271]
+…Parece que le he preguntado a la persona equivocada…
+
+[2272]
+¡Por el orgullo de la banda Chocolat, miau!
+
+[2273]
+¡Nunca me lo había planteado, monya~♪!
+
+[2274]
+¡Cuánta gente ha sido víctima de tus actos…!
+
+[2275]
+¡Yo te haré entender el peso de tus pecados!
+
+[2276]
+¡Arrepiénteteeee!
+
+[2277]
+¡No te entregaréééé!
+
+[2278]
+¡Tu corazón me perteneceeeee!
+
+[2279]
+Déjalo.
+
+[2280]
+A nadie le gustan las mujeres pesadas, ¿sabes?
+
+[2281]
+…Pero nos conocemos desde hace mucho tiempo.
+
+[2282]
+Al menos me despediré de ti con mis propias manos.
+
+[2283]
+¡Aquí es donde nos decimos adiós!
+
+[2284]
+Eri-eri.
+
+[2285]
+…N-no entiendo lo que dice.
+
+[2286]
+¡Voy a darlo todo para convertirme en la Doncella de la Luz!
+
+[2287]
+¡Tengo que esforzarme para no ser una carga para los demás!
+
+[2288]
+En nombre de la Doncella de la Luz… ¡procederé al exorcismo!
+
+[2289]
+¡Hasta aquí habéis llegado, soldados del Imperio Canapé…!
+
+[2290]
+¡Mientras esté aquí, protegeré este castillo… y a mi querida familia, pase lo que pase!
+
+[2291]
+No sé muy bien qué está pasando, pero…
+
+[2292]
+¡Parece que tendré que salvar tu alma por las malas!
+
+[2293]
+Parece que hay un malentendido, pero no creo que podamos resolverlo hablando…
+
+[2294]
+Oh, diosa Poitreene…
+
+[2295]
+¡Salva a estas almas perdidas!
+
+[2296]
+Te doy el tiempo que dura un cigarrillo.
+
+[2297]
+Aunque solo sea durante ese rato, arrepiéntete de corazón.
+
+[2298]
+Quizá así consigas llegar al cielo.
+
+[2299]
+¡No tienes remedio!
+
+[2300]
+¡Pues te mandaré al otro mundo, con tu alma podrida y todo!
+
+[2301]
+¡Ven aquí, monstruo!
+
+[2302]
+¡No pienso dejarte sembrar el caos por la ciudad!
+
+[2303]
+¿¡Q-qué hacemos con un monstruo tan enorme!?
+
+[2304]
+Para compensar que no confié en Culotte…
+
+[2305]
+¡Tenemos que atraer al monstruo al monte Tarte…!
+
+[2306]
+¡Quién iba a decir que intentarías ocuparte de semejante bicharraco…!
+
+[2307]
+¡Me encanta!
+
+[2308]
+¡Para mí, el cabello vale tanto como la vida misma!
+
+[2309]
+Sí, sí, ya lo entiendo.
+
+[2310]
+¡Si no quieres llevarte una paliza, no nos estorbes!
+
+[2311]
+¡Señor Barsom, tranquilícese!
+
+[2312]
+¡Cuide su vida tanto como cuida su pelo!
+
+[2313]
+De acuerdo.
+
+[2314]
+Que la diosa Poitreene bendiga su cabeza.
+
+[2315]
+Entiendo cómo te sientes, pero ¿podrías quedarte quieto?
+
+[2316]
+¡Si te alcanza una bala perdida, no respondo!
+
+[2317]
+¡Que alguien me proteja, quien sea!
+
+[2318]
+¡Pero qué modales tiene esta mujer…!
+
+[2319]
+¡Me dan ganas de hacerla arrepentirse!
+
+[2320]
+¿Cómo pudo Barsom enamorarse de una mujer así?
+
+[2321]
+No hay quien lo entienda.
+
+[2322]
+Entonces, oremos juntos.
+
+[2323]
+A ti también, de la diosa Poitreene…
+
+[2324]
+Menuda mujer de la que se ha enamorado Barsom…
+
+[2325]
+¿Será eso lo que significa ser un hombre…?
+
+[2326]
+¡Demonios!
+
+[2327]
+¡Fuera de nuestra nave Escal, miau!
+
+[2328]
+¡Se les acabó la suerte al cruzarse con el capitán Homard! ¡Allá voy!
+
+[2329]
+¡No me subestimes por ser pequeña, o mi abanico de papel echará fuego!
+
+[2330]
+¡Superaré esta prueba y conseguiré la fuerza necesaria para proteger a Alouette!
+
+[2331]
+Por eso…
+
+[2332]
+¡Aunque seas tú mi rival, no pienso perder!
+
+[2333]
+¡Inténtalo!
+
+[2334]
+¡Seré yo quien te derrote!
+
+[2335]
+¡Venceré a la oscuridad de mi corazón…! ¡Te derrotaré y dejaré atrás mi debilidad!
+
+[2336]
+¡Prepárate!
+
+[2337]
+¡Solo el capitán Homard puede derrotarme, miau!
+
+[2338]
+¡Así que más te vale apartarte, miau!
+
+[2339]
+¡Si voy a ser la Doncella de la Luz, no puedo dejar que un tipejo como este me venza!
+
+[2340]
+¡Tengo que esforzarme para que mi hermana no vuelva a hacer locuras!
+
+[2341]
+¡Tengo que mantener la cabeza fría y evitar que Prier se descontrole…!
+
+[2342]
+¡Diosa Poitreene, por favor, protégenos…!
+
+[2343]
+¡No pienso dejar que Prier se lleve toda la gloria!
+
+[2344]
+¡Esta vez me toca lucirme!
+
+[2345]
+¿Dejarme cegar por mi propia fuerza…?
+
+[2346]
+No digas tonterías…
+
+[2347]
+¡Lucho para expulsar a los demonios que amenazan a la gente y vengar a los padres de esa criatura!
+
+[2348]
+¡Y no pienso permitir que nadie me lo reproche!
+
+[2349]
+Y entonces… ¡me convertiré en la Doncella de la Luz!
+
+[2350]
+¡Acabemos de una vez con estos tipos! ¡Luego tengo que darle una buena lección a ese mocoso!
+
+[2351]
+¿Esa chica ha conseguido hasta a un demonio así como aliado? ¿Pero quién es…?
+
+[2352]
+Si ha logrado atraer a un demonio semejante a su bando, esa joven debe de ser muy poderosa…
+
+[2353]
+¿Será posible que ella sea…?
+
+[2354]
+Diosa Poitreene…
+
+[2355]
+Por favor, concédenos tu protección…
+
+[2356]
+Si esa chiquilla tiene a un demonio como este a su servicio, es que es más fuerte que todos esos tipos…
+
+[2357]
+Pero ¿qué demonios está pasando aquí…?
+
+[2358]
+Así que esa niña es quien manda sobre ese demonio…
+
+[2359]
+No cabe duda de que está pasando algo muy gordo.
+
+[2360]
+¡Pero me da igual lo que nos espere!
+
+[2361]
+¡El capitán Homard seguirá adelante con todas sus fuerzas!
+
+[2362]
+¡No pienso sucumbir a la oscuridad de mi corazón!
+
+[2363]
+¡Voy a derrotarte y a demostrártelo!
+
+[2364]
+Tú sigue hablando.
+
+[2365]
+¡Porque nadie puede derrotarme!
+
+[2366]
+¡Yo también soy responsable de que naciera esa oscuridad en el corazón de mi hermana…!
+
+[2367]
+¡Por eso seré yo quien purifique la oscuridad del corazón de mi hermana!
+
+[2368]
+¡Mientras estemos aquí, jamás permitiremos que Prier se convierta en Señora Demonio!
+
+[2369]
+¡Ríndete, corazón oscuro!
+
+[2370]
+No te voy a mentir: me sorprende descubrir que eres la oscuridad del corazón de Prier.
+
+[2371]
+Tendrás tus razones, pero te estás metiendo donde no te llaman.
+
+[2372]
+Así que haz el favor de quedarte quieto.
+
+[2373]
+Que la oscuridad del corazón de Prier haya tomado forma… ¡Yo no entiendo nada!
+
+[2374]
+Solo tengo una cosa clara:
+
+[2375]
+¡Si te derroto, todo se arreglará!
+
+[2376]
+Puede que la oscuridad de mi corazón te haya invocado, pero por Éclair también voy a derrotarte.
+
+[2377]
+Éclair ya no es esa niña débil que se dejaba vencer por la oscuridad de su corazón.
+
+[2378]
+¡Y yo voy a hacértelo entender!
+
+[2379]
+Tanto la luz como la oscuridad forman parte del corazón de la señorita Éclair.
+
+[2380]
+¡Por eso, ha llegado el momento de que vuelvan a ser uno…!
+
+[2381]
+No digo que una princesa así esté mal, pero este no es momento de pensar en eso.
+
+[2382]
+Lo siento, pero ¡voy a derrotarte!
+
+[2383]
+¡Para salvar el corazón de mi querida Prier, venceré la oscuridad del mío!
+
+[2384]
+¡Salvaré a Croix con el poder de la oscuridad, así que no te metas!
+
+[2385]
+No puedes salvar a Croix con el poder de la oscuridad…
+
+[2386]
+¡Vamos, reacciona, Prier!
+
+[2387]
+No, hermana…
+
+[2388]
+¡Eso que dices está mal!
+
+[2389]
+¡Así que voy a detenerte, hermana!
+
+[2390]
+¡Si caes en la oscuridad, jamás podrás salvar al príncipe de las tinieblas!
+
+[2391]
+Si de verdad quieres salvar a Croix, ¡deja de confundir a Prier!
+
+[2392]
+¡Por el bien de Croix, no dejaré que te conviertas en Señora Demonio!
+
+[2393]
+¡Me niego!
+
+[2394]
+¡No pienso aceptar que Prier se convierta en Señora Demonio! ¡Eso es impensable!
+
+[2395]
+¡Qué descaro venir a la capilla siendo un demonio!
+
+[2396]
+¡Te voy a dar una buena paliza!
+
+[2397]
+Maestro…
+
+[2398]
+Nunca pensé que la Señora Demonio acabaría llamándome «maestro»…
+
+[2399]
+Debo de estar perdiendo facultades…
+
+[2400]
+Pero aquí se acaban nuestros caminos.
+
+[2401]
+¡Vas a conocer todo el poder del padre Salade, el Matademonios…!
+
+[2402]
+¡Sea un demonio o lo que sea, aplastaré a cualquiera que se cruce en mi camino!
+
+[2403]
+¡Menuda panda de demonios patéticos! ¿Cómo pueden ponerse del lado de Noir?
+
+[2404]
+¡Arrepiéntanse de una vez!
+
+[2405]
+¡Por favor, Croix!
+
+[2406]
+¡Vuelve en ti!
+
+[2407]
+¡GROOOOOOAAAAH!
+
+[2408]
+Aguanta un poquito más, Croix.
+
+[2409]
+Te prometo que te libraré de la oscuridad de tu corazón…
+
+[2410]
+Allá voy…
+
+[2411]
+¡En nombre de la Doncella de la Luz!
+
+[2412]
+¡Y pensar que los veía como aliados…! El poder de la oscuridad sí que da miedo…
+
+[2413]
+Pero ahora que he vuelto en mí, lo suyo sería…
+
+[2414]
+¡Huesos, huesos~!
+
+[2415]
+¡Estás en los huesos y encima hueles un poco!
+
+[2416]
+¡Confiesa tus pecados!
+
+[2417]
+¡Chiu, chiu!
+
+[2418]
+¡Ese aleteo me está poniendo de los nervios!
+
+[2419]
+¡Voy a tumbarte de un golpe!
+
+[2420]
+¡Chiu, chiu, chiu!
+
+[2421]
+Grande eres, pero no pareces apetitoso ni cocido ni asado…
+
+[2422]
+Fsss, fsss…
+
+[2423]
+¡Pero si estás ardiendo! ¡Qué peligro!
+
+[2424]
+¡Te apagaré antes de que se me chamusque el pelo!
+
+[2425]
+¡Bake, bake~!
+
+[2426]
+¡Qué mirada tan lasciva tienes…!
+
+[2427]
+No me extraña que te quedes embobado mirándome, ¡pero vas a arrepentirte de poner esa cara!
+
+[2428]
+¡Gowasu!
+
+[2429]
+¡Qué criatura tan mona y fuerte! ¡Como yo!
+
+[2430]
+¡Si quieres unirte a mi grupo, me lo pensaré!
+
+[2431]
+¡Eri-eri~!
+
+[2432]
+No hay duda, eso es una seta…
+
+[2433]
+¿Estará buena…?
+
+[2434]
+Pues ya va siendo hora de que te com…
+
+[2435]
+¡Digo, de que te arrepientas!
+
+[2436]
+Mokyu.
+
+[2437]
+A primera vista eres una monada, pero… ¡hay algo en ti que me pone de los nervios!
+
+[2438]
+Lo siento, ¡pero no voy a contenerme!
+
+[2439]
+¡Kii, kii!
+
+[2440]
+Si te has metido tú solito en esa caja, ¡no te quejes cuando te dé una patada!
+
+[2441]
+¡Aunque te quejes, tampoco pienso hacerte caso!
+
+[2442]
+¡Kabo, kabo!
+
+[2443]
+¡Vaya cabeza más apetecible tienes!
+
+[2444]
+¡Te voy a cocinar yo misma, así que quédate quieto!
+
+[2445]
+¡Das! ¡Das!
+
+[2446]
+¡Vaya, otro monstruo que parece riquísimo…! Digo, ¡fortísimo!
+
+[2447]
+¡Voy a derrotarte y a sacarte provecho de mil maneras!
+
+[2448]
+Je, je, je…
+
+[2449]
+¡Anda! ¡Por abajo eres un pez!
+
+[2450]
+¿Estará bueno…?
+
+[2451]
+¡Hana, hana~!
+
+[2452]
+¡Qué flor tan decepcionante! No parece comestible ni cruda ni hervida ni asada.
+
+[2453]
+Aunque a lo mejor resulta que está rica… Qué va.
+
+[2454]
+¡Kababa!
+
+[2455]
+¡Si pienso en esa cara antes de dormir, seguro que descanso de maravilla!
+
+[2456]
+¡Pero ahora te toca dormir a ti!
+
+[2457]
+Grrrr…
+
+[2458]
+¿Cómo puedes tener esas cosas parecidas a setas brotándote del cuerpo y aun así no parecer apetitoso?
+
+[2459]
+¡Kiuu, kiuu…!
+
+[2460]
+¡E-eres tan adorable que no encuentro nada de lo que hacerte arrepentir!
+
+[2461]
+¿¡Y ahora qué hago!?
+
+[2462]
+Grrrr…
+
+[2463]
+¡Menuda pinta de maleante tienes!
+
+[2464]
+¡Nada de discusiones! ¡Voy a darte tu merecido!
+
+[2465]
+Je, je, je…
+
+[2466]
+¡Ese atuendo no es apto para los ojos de Culotte!
+
+[2467]
+¡Voy a darte tal escarmiento que querrás cambiarte de ropa al instante!
+
+[2468]
+¡Basta mirarte para saber que eres un demonio! ¡Se te nota a la legua!
+
+[2469]
+¡Desde la cabeza hasta los pies, arrepiéntete de existir!
+
+[2470]
+¡Hanya, hanya~!
+
+[2471]
+Qué cara de felicidad tienes…
+
+[2472]
+¡Pero eso no significa que vaya a tratarte con delicadeza!
+
+[2473]
+¡A todos los monstruos los trato por igual!
+
+[2474]
+Ese pelo de la cabeza me da bastante grima…
+
+[2475]
+¡Pero no pienso dejar que me ganes!
+
+[2476]
+¡No voy a dejar que me venza un monstruo tan pequeñito!
+
+[2477]
+¡Tengo que impresionar a Alouette!
+
+[2478]
+¡P-por muy grande que seas, sigues siendo un murciélago!
+
+[2479]
+Si lo pienso, no es más que un murciélago… Por muy grande que sea, no debería darme miedo… ¿verdad?
+
+[2480]
+¡Un monstruo de fuego! ¡Qué pasada!
+
+[2481]
+Hasta me gustaría tenerlo de compañero…
+
+[2482]
+¿Qué habrá debajo de ese sombrero?
+
+[2483]
+A lo mejor es así… o asá…
+
+[2484]
+¡T-tengo que hacer algo!
+
+[2485]
+¡Qué peludito y adorable!
+
+[2486]
+Pero seguro que es fuerte… Al fin y al cabo, es un oso.
+
+[2487]
+¡Tengo que evitar que me muerda!
+
+[2488]
+¡Menuda seta gigantesca…!
+
+[2489]
+No quiero perder contra una cosa así…
+
+[2490]
+¡Vamos, a darlo todo!
+
+[2491]
+Mirarle la cara me quita las ganas de luchar…
+
+[2492]
+¡Un momento! ¡Puede que esa sea su estrategia!
+
+[2493]
+¡No pienso bajar la guardia!
+
+[2494]
+¿Por qué estará metido en una caja?
+
+[2495]
+¿Será porque está a gusto ahí dentro…?
+
+[2496]
+La verdad es que me gustaría comprobarlo…
+
+[2497]
+¿Cómo será esa cabeza por dentro?
+
+[2498]
+Si también fuera una calabaza por dentro…
+
+[2499]
+¡Eso sí que daría miedo!
+
+[2500]
+¡Jamás pensé que acabaría luchando contra una ballena!
+
+[2501]
+¡Tengo que esforzarme para que no me trague!
+
+[2502]
+Ya sé que es un monstruo, pero… me da un poco de vergüenza…
+
+[2503]
+E-esos labios…
+
+[2504]
+Me da miedo que se me pegue para succionarme…
+
+[2505]
+¡Y puede que me chupe un montón de cosas más…!
+
+[2506]
+Esos ojos… Parece que no piensa en nada, pero ¡a lo mejor trama algo increíble…!
+
+[2507]
+No sé si es por la cara o por esa lengua, pero… ¡da muy mala espina!
+
+[2508]
+¡No dejaré que toque a Alouette!
+
+[2509]
+E-es tan adorable que… ¡no me veo capaz de ganarle!
+
+[2510]
+¡¿Qué voy a hacer?!
+
+[2511]
+¡Uuuh…! ¡Los demonios sí que dan miedo!
+
+[2512]
+Pero… ¡yo también soy un hombre!
+
+[2513]
+¡Voy a conseguirlo!
+
+[2514]
+¡E-este demonio me da una vergüenza…!
+
+[2515]
+En momentos así, basta con pensar en mi hermana…
+
+[2516]
+¡Eso es! ¡Calma!
+
+[2517]
+Este ambiente…
+
+[2518]
+Me da muchísimo miedo, la verdad, pero…
+
+[2519]
+¡No pienso perder!
+
+[2520]
+¡No sé ni qué clase de monstruo es, pero no voy a dejar que me gane alguien con semejante cara de despreocupado!
+
+[2521]
+Por lo visto, algunos son venenosos.
+
+[2522]
+Tengamos cuidado.
+
+[2523]
+Parece que algunos también chupan sangre.
+
+[2524]
+No debemos subestimarlos.
+
+[2525]
+¡Sería muy peligroso que nos embistiera un murciélago tan grande!
+
+[2526]
+¡Mucho cuidado, todos!
+
+[2527]
+Es un enemigo complicado: ataca con magia.
+
+[2528]
+¡Un descuido y podríamos acabar mucho peor que con unas simples quemaduras!
+
+[2529]
+Ese sombrero parece capaz de manejar magia muy poderosa.
+
+[2530]
+¡No podemos bajar la guardia!
+
+[2531]
+Sus garras afiladas causan mucho daño. Hay que tener cuidado…
+
+[2532]
+¡Pero qué bonito es…!
+
+[2533]
+Tiene un aspecto encantador, pero he oído que hace cosas sospechosas.
+
+[2534]
+¡Quizá sea un peligro para las mujeres…!
+
+[2535]
+Es un monstruo que inspira ternura, aunque he oído que baila de una forma muy extraña.
+
+[2536]
+Me gustaría verlo, aunque solo fuera un poquito…
+
+[2537]
+Como está metido en esa caja, parece tener una defensa considerable.
+
+[2538]
+Vayamos sin precipitarnos.
+
+[2539]
+Tiene un aspecto muy divertido, pero parece que sus ataques cubren un área enorme.
+
+[2540]
+¡No conviene confiarse!
+
+[2541]
+Como es una ballena, parece que tiene técnicas para controlar el agua.
+
+[2542]
+El agua salada se queda pegada a todo… Qué fastidio.
+
+[2543]
+Si nos dejamos engañar por su belleza, puede que acabemos muy mal.
+
+[2544]
+Actuemos con cautela.
+
+[2545]
+Esta flor de labios seductores parece poseer técnicas con efectos especiales.
+
+[2546]
+Hasta las rosas más bellas tienen espinas, ¿verdad?
+
+[2547]
+Tiene una cara de no enterarse de nada, pero no debemos confiarnos.
+
+[2548]
+¡Cuidado con los bostezos de esa bocaza!
+
+[2549]
+Por su aspecto, este dragón debe de lanzar un aliento venenoso.
+
+[2550]
+¡Qué monada…! ¡Qué monada!
+
+[2551]
+¡Pero es tan adorable que precisamente por eso resulta peligrosa!
+
+[2552]
+¡T-tengo que tener cuidado…!
+
+[2553]
+Oh, fiera criatura de las tinieblas…
+
+[2554]
+¡Voy a expulsarte!
+
+[2555]
+Oh, ser de las tinieblas que turbas los corazones…
+
+[2556]
+¡Voy a purificarte!
+
+[2557]
+Oh, malvado ser de las tinieblas…
+
+[2558]
+¡Voy a purificarte!
+
+[2559]
+Con esa cara, ¡cualquiera sabe de qué será capaz!
+
+[2560]
+¡Más vale tener aún más cuidado de lo normal!
+
+[2561]
+¡H-her-hermana!
+
+[2562]
+¿¡Q-q-qué hacemos!?
+
+[2563]
+¡No podemos enfrentarnos a tantos demonios!
+
+[2564]
+Tranquilízate, Culotte.
+
+[2565]
+Hay algo raro en su comportamiento.
+
+[2566]
+Muchacha cuyo nombre desconozco…
+
+[2567]
+Acabas de ganarte el derecho a convertirte en Señora Demonio.
+
+[2568]
+¿Señora Demonio?
+
+[2569]
+Así es.
+
+[2570]
+Entre los demonios, la fuerza es la única ley.
+
+[2571]
+Has hecho arrodillarse ante ti a numerosos demonios de este Mundo Oscuro.
+
+[2572]
+De ahora en adelante, los demonios te llamarán Señora Demonio y te temerán y venerarán.
+
+[2573]
+N-no puede ser… ¿verdad?
+
+[2574]
+Es totalmente en serio.
+
+[2575]
+¡¡¡Pero qué dices!!!
+
+[2576]
+Aunque… a mi hermana le pega más ser Señora Demonio que Doncella de la Luz…
+
+[2577]
+¡Cállate!
+
+[2578]
+¡Basta de tonterías! ¡Nos vamos a casa!
+
+[2579]
+Prier, Señora Demonio…
+
+[2580]
+Has sometido a veinte reyes que gobiernan este Mundo Oscuro.
+
+[2581]
+Ahora eres una Señora Demonio entre señores demonio: ¡has alcanzado el rango de «Gran Señora Demonio»!
+
+[2582]
+Es una broma… ¿verdad?
+
+[2583]
+…Prier.
+
+[2584]
+Parece que te has apartado del buen camino.
+
+[2585]
+Dejarte cegar por el poder y olvidar cuál era tu verdadero camino…
+
+[2586]
+Lamento decirlo, pero aquí debemos despedirnos.
+
+[2587]
+…Adiós, hermana.
+
+[2588]
+¡E-esperad!
+
+[2589]
+¡¡¡OTRA OPORTUNIDAD, POR FAVOOOOOR!!!
+
+[2590]
+Parece que no hay nadie…
+
+[2591]
+Uf… ¡Menudo lío, tío!
+
+[2592]
+¿Dónde se habrá metido la señora Etna, tío…?
+
+[2593]
+Si seguimos así, ¡nos van a matar a todos, tío!
+
+[2594]
+Así que aquí es donde apareció esa corriente de energía oscura…
+
+[2595]
+El maestro dijo que estaban apareciendo monstruos que nunca había visto, pero…
+
+[2596]
+Parece que se refería a ese de ahí…
+
+[2597]
+Parece un monstruo con forma de pingüino.
+
+[2598]
+Aunque de adorable no tiene nada.
+
+[2599]
+Más bien tiene una cara que no tiene remedio…
+
+[2600]
+¡Qué cruel, hermana!
+
+[2601]
+¡Eso de que no tiene remedio…!
+
+[2602]
+¡En nombre de la Doncella de la Luz!
+
+[2603]
+¡Fuaaaaa, tío…!
+
+[2604]
+¡Qué sensación más rara, tío…!
+
+[2605]
+Ha… hablado.
+
+[2606]
+¿Qué ha sido eso de antes, tío?
+
+[2607]
+Les estoy limpiando esas almas manchadas que tienen.
+
+[2608]
+¿O sea que teníamos las almas sucias, tío…?
+
+[2609]
+Bueno, tampoco era posible que estuvieran limpias, tío.
+
+[2610]
+Eso es verdad, tío…
+
+[2611]
+(Oye, ¿y si al purificarnos nos borran también todos los pecados, tío?)
+
+[2612]
+(¿De verdad puede haber tanta suerte, tío?)
+
+[2613]
+(No lo sé, tío… Esto no parece el Mundo Oscuro. ¡Igual aquí sí es posible, tío!) ¡Quiero que me purifiquen más, tío!
+
+[2614]
+Es la primera vez que alguien me pide una purificación a la cara… No sé qué pensar.
+
+[2615]
+Bueno, ¡qué más da!
+
+[2616]
+¡Voy a purificar esas almas mugrientas que tienen!
+
+[2617]
+¡Aaaaaah, tío…!
+
+[2618]
+¡Ueeeeeeh, tío…!
+
+[2619]
+¡Foooooooh, tío…!
+
+[2620]
+¿Y bien…?
+
+[2621]
+Me están entrando ganas de unirme a su grupo, tío.
+
+[2622]
+¡A mí también, tío!
+
+[2623]
+Un momento… ¿Por qué estábamos dejándonos purificar, tío?
+
+[2624]
+Ni idea, tío.
+
+[2625]
+Ah… Me gustaría que me dejaran unirme a su grupo, tío.
+
+[2626]
+Aunque tenga que obligarlos, ¡me uniré a ustedes, tío…!
+
+[2627]
+¡Pues eso, espero que nos llevemos bien, tío!
+
+[2628]
+¡Los Prinny fueron purificados y se unieron al grupo por su cuenta!
+
+[2629]
+Vaya, parece que se nos han unido unos bichos muy raros…
+
+[2630]
+Ay… ¿Dónde estoy…?
+
+[2631]
+¡Señor Laharl!
+
+[2632]
+¡Señorita Etna!
+
+[2633]
+¡¿Dóóónde estááán?!
+
+[2634]
+Eh, hermana.
+
+[2635]
+Hay una chica por aquí.
+
+[2636]
+¿Y tú qué haces en un sitio como este?
+
+[2637]
+Es peligroso: por aquí también aparecen monstruos.
+
+[2638]
+Ah, ¿sí?
+
+[2639]
+Entendido. Tendré cuidado.
+
+[2640]
+Ya, pero… ¿cómo que «tendrás cuidado»? Tú…
+
+[2641]
+¿Vas a estar bien tú sola?
+
+[2642]
+¿De dónde vienes?
+
+[2643]
+Estaba paseando por el Mundo Oscuro con Laharl y los demás, pero, sin darme cuenta, parece que salí de allí…
+
+[2644]
+¿Paseando… por el Mundo Oscuro?
+
+[2645]
+Sí, eso es.
+
+[2646]
+Oye… ¿Alouette…?
+
+[2647]
+¿Has venido del Mundo Oscuro?
+
+[2648]
+¡Sí!
+
+[2649]
+Laharl y Etna dijeron que iban a divertirse y yo los seguí, pero parece que nos separamos por el camino…
+
+[2650]
+Se puede ir al Mundo Oscuro por una de sus puertas, pero…
+
+[2651]
+Ya hemos purificado todas las corrientes de energía oscura de la zona. No queda ninguna puerta.
+
+[2652]
+¿D-de verdad…?
+
+[2653]
+Entonces, si aumento la energía oscura y hago aparecer una puerta al Mundo Oscuro, podré volver a casa, ¿no?
+
+[2654]
+¡Entendido!
+
+[2655]
+¡Muchas gracias!
+
+[2656]
+¡Me esforzaré por aumentar la energía oscura!
+
+[2657]
+¡E-espera un momento!
+
+[2658]
+¡No sé si estás perdida o qué, pero La Pucelle no puede dejar escapar a quien intenta aumentar la energía oscura!
+
+[2659]
+¡En nombre de la Doncella de la Luz!
+
+[2660]
+¡Te haré arrepentirte!
+
+[2661]
+¡Qué genial!
+
+[2662]
+¿¡Qué es La Pucelle!?
+
+[2663]
+¡Somos exorcistas!
+
+[2664]
+Las hermanas de la orden combatimos a los demonios que hacen el mal y ayudamos a las almas que siguen aferradas a este mundo.
+
+[2665]
+¡I-increíble!
+
+[2666]
+¿¡Así que son un escuadrón que lucha contra los demonios!?
+
+[2667]
+¡La Pucelle Negra, la Azul y la Blanca…!
+
+[2668]
+¡Entonces a mí me toca hacer de demonio enemigo!
+
+[2669]
+¡Voy a darlo todo!
+
+[2670]
+¡Grrraaaah!
+
+[2671]
+Ay, ay, ay…
+
+[2672]
+¿P-pero qué le pasa a esta chica…?
+
+[2673]
+La Pucelle… ¡Sí que son fuertes!
+
+[2674]
+¡Me uniré a ustedes como la Pucelle Roja!
+
+[2675]
+¡La Pucelle Roja se unió al grupo!
+
+[2676]
+¿Pero no querías volver al Mundo Oscuro…?
+
+[2677]
+N-no lo entiendo…
+
+[2678]
+Me da que las cosas se van a poner aún más movidas…
+
+[2679]
+¡Ay, por favor! ¿Dónde se habrán metido Su Alteza y Flonne?
+
+[2680]
+Vaya, otra persona rara…
+
+[2681]
+Vaya, ¿humanos?
+
+[2682]
+Prier, Culotte, tengan cuidado.
+
+[2683]
+Siento una fuerza enorme…
+
+[2684]
+Es un poder demoníaco mucho más puro que el de Flonne…
+
+[2685]
+Un poder demoníaco puro…
+
+[2686]
+Normal. Al fin y al cabo, soy un demonio.
+
+[2687]
+¿¡Q-qué demonios eres!?
+
+[2688]
+Soy Etna.
+
+[2689]
+Vaya, no está mal para una humana. Has sido capaz de percibir mi poder.
+
+[2690]
+Justo me estaba aburriendo de machacar a los demonios de por aquí. ¡Me viene de perlas!
+
+[2691]
+¿Qué tal si me ayudas a matar el aburrimiento?
+
+[2692]
+¡E-espera un momento!
+
+[2693]
+¡No tienes ningún motivo para luchar contra nosotros!
+
+[2694]
+Ya te he dicho que es para pasar el rato.
+
+[2695]
+¿¡P-pasar el rato…!?
+
+[2696]
+¡Hermana! ¡Di algo!
+
+[2697]
+¡Bueno, yo estoy lista cuando quieras!
+
+[2698]
+¿Ya la has oído?
+
+[2699]
+Ja, ja, ja…
+
+[2700]
+Fui un idiota por preguntarle a mi hermana…
+
+[2701]
+¡Argh! ¡Pues ahora no nos queda otra que luchar!
+
+[2702]
+Ay, ay, ay…
+
+[2703]
+Oye, no lo han hecho nada mal.
+
+[2704]
+Pero tú…
+
+[2705]
+Tienes un poder bastante extraño para ser humana…
+
+[2706]
+Se parece al nuestro.
+
+[2707]
+¿Q-qué quieres decir con eso?
+
+[2708]
+¡Me has despertado la curiosidad!
+
+[2709]
+Además, como me he separado de Su Alteza y estoy aburrida, me quedaré con ustedes una temporada.
+
+[2710]
+¡Etna se unió al grupo por su cuenta!
+
+[2711]
+Parece que esto va a ponerse todavía más alborotado…
+
+[2712]
+¡Ja, ja, ja, ja, ja!
+
+[2713]
+¿Y esa voz?
+
+[2714]
+No sé por qué, pero tengo un mal presentimiento…
+
+[2715]
+¿Un mal presentimiento? ¿De qué hablas?
+
+[2716]
+No, es verdad. Yo también lo noto.
+
+[2717]
+No sé qué es, pero ¡tengan cuidado!
+
+[2718]
+Y tú… ¿quién eres?
+
+[2719]
+Ese poder… ¡es digno de un dios demonio! No… ¡de un Señor Demonio!
+
+[2720]
+¡Ja! ¡Por supuesto!
+
+[2721]
+¿Por quién me has tomado?
+
+[2722]
+Eso es lo que te estoy preguntando: ¿quién eres?
+
+[2723]
+¿Su Alteza, Laharl?
+
+[2724]
+¡Por fin lo encuentro!
+
+[2725]
+Estábamos buscándolo Flonne y yo.
+
+[2726]
+¡Eso debería decirlo yo!
+
+[2727]
+¡Cómo se atreven a abandonar al gran Laharl, el Señor Demonio!
+
+[2728]
+No, si es que lo buscamos por todas partes, Su Alteza, pero nos cansamos de hacerlo…
+
+[2729]
+Así que te pegaste a ese grupo y apareciste en este juego antes que yo…
+
+[2730]
+¡Qué descaro tienes, Etna! ¡Me dejas atrás y apareces en el juego antes que yo!
+
+[2731]
+N-no, a ver, Su Alteza…
+
+[2732]
+¡Es que estaba preparando la trama para que Su Alteza pudiera hacer una entrada triunfal!
+
+[2733]
+¡Eso es!
+
+[2734]
+¡Primero los Prinny, luego yo y Etna… y usted llega al final para poner el broche de oro!
+
+[2735]
+¡La historia está en su punto más emocionante!
+
+[2736]
+Ah, ¿sí?
+
+[2737]
+¡Pues tendré que estar a la altura de las expectativas y lucirme!
+
+[2738]
+¡Voy a darles una paliza a todos, incluidos ustedes!
+
+[2739]
+¡P-pero si no hemos hecho nada para meternos en esto!
+
+[2740]
+Ya no entiendo absolutamente nada…
+
+[2741]
+¿¡Yo… he perdido!?
+
+[2742]
+Bueno, es el mismo patrón de siempre: pierde, y luego se une al grupo.
+
+[2743]
+Exactamente.
+
+[2744]
+Oigan, por curiosidad, ¿qué han venido a hacer aquí?
+
+[2745]
+Se abrió una puerta al Mundo Oscuro cerca de mi castillo, así que Etna y los demás entramos a darles una paliza a los demonios.
+
+[2746]
+Y cuando nos dimos cuenta, Su Alteza había desaparecido.
+
+[2747]
+¡La que desapareció fuiste tú!
+
+[2748]
+¡Pero, Su Alteza, si salió persiguiendo demonios tan contento mientras gritaba «¡No escaparás!»!
+
+[2749]
+O sea, ¿que simplemente se han perdido…?
+
+[2750]
+¿Un Señor Demonio de otro Mundo Oscuro…?
+
+[2751]
+¡N-no es eso!
+
+[2752]
+¡Yo, el mayor de todos los Señores Demonio, jamás podría perderme!
+
+[2753]
+¡Estaba buscando a Etna y a los demás!
+
+[2754]
+¡Ellos son los que se perdieron!
+
+[2755]
+¡Que sí, que sí…!
+
+[2756]
+Dejémoslo y vámonos.
+
+[2757]
+Sí, será lo mejor…
+
+[2758]
+Parece lo más sensato…
+
+[2759]
+¡Eh! ¡Ustedes! ¿Adónde se creen que van?
+
+[2760]
+¡Que no sé cómo volver…! ¡Digo…!
+
+[2761]
+¡En fin! ¡Los seguiré hasta que pueda regresar a mi Mundo Oscuro!
+
+[2762]
+¡Como siempre, Laharl se unió al grupo!
+
+[2763]
+¡Hola, gyaa!
+
+[2764]
+Muchísimas gracias por comprar siempre en la compañía Rosenqueen, gyaa.
+
+[2765]
+¿Y tú qué haces aquí…?
+
+[2766]
+Hoy he venido a agradecerles su fidelidad a Rosenqueen, gyaa.
+
+[2767]
+¿Agradecernos?
+
+[2768]
+¡Eso es, gyaa!
+
+[2769]
+¡Voy a luchar junto a ustedes, gyaa!
+
+[2770]
+¿Qué? ¿Tú?
+
+[2771]
+Aunque no lo parezca, ¡se me da bastante bien pelear, gyaa!
+
+[2772]
+¿A-ah, sí…?
+
+[2773]
+¡Pues compruébenlo ustedes mismos, gyaa!
+
+[2774]
+¡Ellie se unió al grupo por las buenas o por las malas!
+
+[2775]
+¡Ah! Casi se me olvida, gyaa.
+
+[2776]
+Como agradecimiento por descargar a Ellie, también les regalo esto, gyaa.
+
+[2777]
+¡Has obtenido «Delantal sin nada debajo»!
+
+[2778]
+¿«Delantal sin nada debajo»…?
+
+[2779]
+¡Eso es, gyaa!
+
+[2780]
+Dicen que, si te equipas ese objeto, ¡cualquier hombre caerá rendido al instante, gyaa!
+
+[2781]
+¿¡C-cualquier hombre!?
+
+[2782]
+Vaya, gyaa. ¡Qué desesperada estás!
+
+[2783]
+Uf… Me estás dando hasta vergüenza ajena, gyaa.
+
+[2784]
+¡C-cállate!
+
+[2785]
+¡En fin! ¡Te lo acepto y se acabó!
+
+[2786]
+¡Ya llevan demasiados aliados, gyaa!
+
+[2787]
+Vuelvan cuando tengan menos, gyaa.
+
+[2788]
+¡Llevan demasiados objetos, gyaa!
+
+[2789]
+Vuelvan cuando hayan hecho sitio, gyaa.
+
+[2790]
+¡Nos llevaremos bien, gyaa!
+
+[2791]
+DLC01
+
+[2792]
+Comprobar cuántos aliados hay antes de pasar a la escena previa al combate.
+
+[2793]
+Ir a la escena previa al combate.
+
+[2794]
+Demasiados aliados.
+
+[2795]
+Antes de ir al combate: pasar al combate.
+
+[2796]
+Bloqueado.
+
+[2797]
+DLC02
+
+[2798]
+DLC03
+
+[2799]
+DLC04
+
+[2800]
+DLC01: escena previa al combate / DLC01: escena posterior al combate / DLC02: escena previa al combate / DLC02: escena posterior al combate / DLC03: escena previa al combate / DLC03: escena posterior al combate / DLC04: escena previa al combate / DLC04: escena posterior al combate
+
+
+=== DLC_01/talk00.dat ===
+
+[2806]
+Parece que ya tienes demasiados compañeros, tío.
+
+[2807]
+Volveré en otro momento, tío.
+
+[2808]
+¿Eh…? ¿Dónde estoy, tío?
+
+[2809]
+Entré por una puerta al Mundo Oscuro cualquiera mientras buscaba las bragas de la señora Etna, pero…
+
+[2810]
+He acabado en un sitio que no conozco de nada, tío.
+
+[2811]
+Si no encontramos pronto las bragas de la señora Etna y volvemos, ¡nuestras vidas correrán peligro, tío!
+
+[2812]
+O mejor dicho, ¡es seguro que perderemos la vida, tío!
+
+[2813]
+¡Espera!
+
+[2814]
+¡Ah! ¡Perdón!
+
+[2815]
+No, no pasa nada, tío.
+
+[2816]
+¿Por qué tienes tanta prisa, tío?
+
+[2817]
+¡Ah, cierto!
+
+[2818]
+¡Bragas, esperen!
+
+[2819]
+¿¡Bragas, dices, tío!?
+
+[2820]
+¿¡Podrían ser las bragas de la señora Etna, tío!?
+
+[2821]
+¡Tengo que perseguirlas, tío!
+
+[2822]
+Jadeo… jadeo… tío…
+
+[2823]
+¿Hasta dónde habrá corrido ese que chocó conmigo, tío…?
+
+[2824]
+¡Ay, no! ¿Adónde habrán salido volando ahora?
+
+[2825]
+Ay, ay, ay…
+
+[2826]
+¡Pero tú, quítate de en medio!
+
+[2827]
+P-perdón, tío.
+
+[2828]
+¡Espera!
+
+[2829]
+Ay, ay, ay…
+
+[2830]
+¿Eh…? ¿Hermana?
+
+[2831]
+¡Pero si saliste corriendo tras ellas antes que yo! ¿Cómo he conseguido alcanzarte?
+
+[2832]
+Encontré unas bragas por el camino, pero un monstruo con forma de seta se las puso de sombrero y escapó corriendo.
+
+[2833]
+Y mientras perseguía a esa seta, un monstruo fantasma se la llevó…
+
+[2834]
+Y-ya veo. Menuda faena…
+
+[2835]
+Bueno, nosotros también buscamos unas bragas. ¿Has visto algunas?
+
+[2836]
+No, no he visto ninguna, tío.
+
+[2837]
+Pero yo también estoy buscando unas bragas, tío.
+
+[2838]
+¿Q-qué te pasa a ti?
+
+[2839]
+¿Y qué piensas hacer persiguiendo mis bragas?
+
+[2840]
+No me interesan unas bragas que tengan que caber en unas piernas tan rellenitas, tío.
+
+[2841]
+La señora Etna no tiene las piernas tan rellenitas, tío.
+
+[2842]
+Y, ya que estamos, ¡tiene muchísimo menos pecho, tío!
+
+[2843]
+¿No te parece que repetir «rellenitas» suena bastante ofensivo?
+
+[2844]
+¿Me estás llamando gorda?
+
+[2845]
+N-no, no quería decir eso, tío.
+
+[2846]
+(M-mal asunto, tío… ¡Esta mujer desprende las mismas ganas de matar que la señora Etna!
+
+[2847]
+¡Tengo un presentimiento malísimo, tío!)
+
+[2848]
+Vaya valor el tuyo, decirle semejante grosería a una señorita que acabas de conocer.
+
+[2849]
+Sabes lo que te espera, ¿verdad?
+
+[2850]
+No creo que haya nadie más grosero que mi hermana al conocer a alguien…
+
+[2851]
+N-no he dicho nada.
+
+[2852]
+¡P-por favor, no, tío!
+
+[2853]
+Renuncio a buscar las bragas. ¡Perdón, tío!
+
+[2854]
+Me has herido muchísimo, ¿sabes?
+
+[2855]
+Tendrás que pagar por lo que has dicho.
+
+[2856]
+¿¡Aunque no esté la señora Etna, estoy condenado a acabar así, tío!?
+
+[2857]
+Parece que no hay escapatoria, tío…
+
+[2858]
+Bueno, ya me he desahogado. ¡Sigamos buscando las bragas!
+
+[2859]
+¡Vamos! Tú también vienes, así que muévete.
+
+[2860]
+¿Adónde vamos, tío?
+
+[2861]
+Si no encuentro las bragas, será culpa tuya.
+
+[2862]
+Más te vale hacerte responsable.
+
+[2863]
+¿Q-qué? ¡Pero si yo…!
+
+[2864]
+¡Ni hablar! ¡Me vuelvo a casa, tío!
+
+[2865]
+¡La señora Etna me matará, tío!
+
+[2866]
+Tranquilo, tranquilo…
+
+[2867]
+¡S-s-sí, tío!
+
+[2868]
+(E-este ambiente… ¡Como le lleve la contraria, me mata de verdad, tío!)
+
+[2869]
+¡Un pobre Prinny que buscaba unas bragas se unió al grupo!
+
+
+=== DLC_02/talk00.dat ===
+
+[2889]
+Parece que tu grupo está completo.
+
+[2890]
+Vuelve cuando tengas sitio para más compañeros.
+
+[2891]
+Príncipe…
+
+[2892]
+Príncipe…
+
+[2893]
+¡¡¡Príncipe…!!!
+
+[2894]
+¿D-dónde… estoy?
+
+[2895]
+Ah, parece que ha despertado.
+
+[2896]
+¿Te encuentras bien?
+
+[2897]
+Nos dijeron que había alguien desmayado. Vinimos corriendo y te encontramos aquí.
+
+[2898]
+Al príncipe…
+
+[2899]
+¡Tengo que ir a salvar al príncipe!
+
+[2900]
+¿Al príncipe…?
+
+[2901]
+¡Espera un momento!
+
+[2902]
+¡Príncipe por aquí, príncipe por allá! Ya entiendo que quieres salvarlo, ¡pero cálmate un poco!
+
+[2903]
+Lo siento…
+
+[2904]
+Ustedes me han ayudado y yo solo puedo pensar en el príncipe… ¡Qué vergüenza!
+
+[2905]
+¿Cómo te llamas?
+
+[2906]
+¿Y qué ha pasado para que tengas que salvar a ese príncipe?
+
+[2907]
+Me llamo Cornet.
+
+[2908]
+(¿Cornet…?)
+
+[2909]
+(No, seguramente no será eso…)
+
+[2910]
+Hoy es el cumpleaños del príncipe. Estaba en la fiesta de baile que se celebraba en el castillo.
+
+[2911]
+En plena fiesta, aparecieron de pronto unas brujas…
+
+[2912]
+¿Unas brujas…?
+
+[2913]
+Sí.
+
+[2914]
+Por lo visto, a una de ellas le gustan los jóvenes apuestos y se enamoró del príncipe nada más verlo…
+
+[2915]
+¡Y eso que es una vieja…!
+
+[2916]
+Q-qué bruja más rara…
+
+[2917]
+Y entonces, con la magia de la bruja, el príncipe…
+
+[2918]
+¡Se convirtió en piedra delante de mis propios ojos!
+
+[2919]
+¿En piedra?
+
+[2920]
+Qué horror…
+
+[2921]
+¿Se enamoró de él a primera vista y quiso convertirlo en piedra para tenerlo siempre a su lado?
+
+[2922]
+¡Es lo más despreciable!
+
+[2923]
+No. Parece que lo convirtió en piedra por equivocarse de hechizo…
+
+[2924]
+¿Y dónde está ese príncipe?
+
+[2925]
+Las brujas se lo llevaron y ahora no sé dónde está.
+
+[2926]
+Así que… ¡tengo que ir a buscarlo!
+
+[2927]
+Ah, conque eso es lo que ocurre.
+
+[2928]
+El príncipe siempre me ha salvado. ¡Esta vez me toca salvarlo a mí!
+
+[2929]
+Aunque no sea una princesa, sino una chica corriente…
+
+[2930]
+¡Yo voy a rescatar al príncipe!
+
+[2931]
+¡Las mujeres tenemos que tomar la iniciativa!
+
+[2932]
+¡Me has conmovido!
+
+[2933]
+¡Así se habla!
+
+[2934]
+¡Exactamente!
+
+[2935]
+¡Lo importante es pasar a la acción!
+
+[2936]
+¡Has confiado en ti misma y has actuado con valor!
+
+[2937]
+¡Con ese coraje, estoy seguro de que salvarás al príncipe!
+
+[2938]
+¡Con esas ganas, seguro que lo consigues!
+
+[2939]
+¡Y tú, salva a ese príncipe!
+
+[2940]
+Muchas gracias.
+
+[2941]
+¡Me esforzaré al máximo!
+
+[2942]
+¡Bueno! Ahora que nos ha contagiado su entusiasmo, sigamos investigando.
+
+[2943]
+Uuuh… ¿Dónde estoy…?
+
+[2944]
+Debería haberle pedido indicaciones a aquella persona…
+
+[2945]
+¿Eh?
+
+[2946]
+Esa figura de espaldas… ¿No es Cornet?
+
+[2947]
+¿Qué haces en un lugar como este?
+
+[2948]
+No me digas… ¿Te has perdido?
+
+[2949]
+S-sí…
+
+[2950]
+Ay, bueno. Te enseñaré el camino.
+
+[2951]
+¡Vamos, sígueme!
+
+[2952]
+S-sí, gracias…
+
+[2953]
+¡Cornet, que estaba perdida, quedó bajo nuestra protección!
+
+
+=== DLC_03/talk00.dat ===
+
+[2959]
+Parece que ya llevas demasiados aliados.
+
+[2960]
+Será mejor que vuelvas cuando tengas sitio.
+
+[2961]
+¡Si es que no dejan de aparecer personajes rarísimos…!
+
+[2962]
+La verdad es que sí.
+
+[2963]
+¿No se habrá abierto por ahí alguna puerta extraña al Mundo Oscuro?
+
+[2964]
+¡Ustedes, los de ahí!
+
+[2965]
+Ay… Tengo un mal presentimiento.
+
+[2966]
+Sí… yo también…
+
+[2967]
+¡Han venido justo en el momento oportuno!
+
+[2968]
+¡Vamos! ¡Compren este videojuego!
+
+[2969]
+¿Un videojuego…?
+
+[2970]
+¡Así es!
+
+[2971]
+¡¡¡El videojuego más endiabladamente divertido…!!!
+
+[2972]
+¡Makai Senki Disgaea 2 Portable!
+
+[2973]
+…¿Y eso qué es?
+
+[2974]
+¿¡C-cómo que no lo conoces!?
+
+[2975]
+¡Es un juego en el que este servidor tiene un papel estelar…!
+
+[2976]
+¡El RPG de estrategia más endiabladamente brutal de todos!
+
+[2977]
+¡Los jugadores más aguerridos del mundo le dedican hasta las horas de sueño!
+
+[2978]
+Pues no me suena de nada…
+
+[2979]
+B-bueno, da igual.
+
+[2980]
+¡Esta es tu oportunidad!
+
+[2981]
+¡Compra el juego de una vez y no pares hasta dominarlo!
+
+[2982]
+¡Ahora solo cuesta 100.000 hell!
+
+[2983]
+¿Qué te parece?
+
+[2984]
+¡Es una ganga, ¿a que sí?!
+
+[2985]
+¿Cien mil… hell?
+
+[2986]
+No había oído hablar de esa moneda…
+
+[2987]
+¿Será dinero de algún país?
+
+[2988]
+¡Menuda cara tienes! ¡Apareces de la nada y pretendes vendernos un videojuego!
+
+[2989]
+¡Y encima pides 100.000!
+
+[2990]
+¡Es carísimo!
+
+[2991]
+¿E-en serio el problema es el precio…?
+
+[2992]
+¡Con 100.000 podría comprar tantísimos udon de Yamasemi…!
+
+[2993]
+¡Montañas y montañas de udon!
+
+[2994]
+¡Podría desayunar, almorzar y cenar udon de Yamasemi durante unos cincuenta años!
+
+[2995]
+¡B-bueno, creo!
+
+[2996]
+¡El caso es que…!
+
+[2997]
+¡No podemos pagar una suma así como si nada!
+
+[2998]
+Vaya, qué lástima…
+
+[2999]
+En ese caso…
+
+[3000]
+¡Les haré comprarlo por la fuerza!
+
+[3001]
+N-no puede ser… ¡He perdido!
+
+[3002]
+Por poco nos obliga a comprar el juego…
+
+[3003]
+¡Y yo que creía imposible que un juego protagonizado por mí no se vendiera…!
+
+[3004]
+Después de lo de profesor del mal, parece que tampoco sirvo para este trabajo…
+
+[3005]
+¿Profesor del mal…?
+
+[3006]
+¡Ese no es el problema!
+
+[3007]
+¡Es que no tienes ni idea de cómo se vende algo!
+
+[3008]
+¿Cómo… se vende?
+
+[3009]
+¡Exacto! ¡Si intentas vendérselo así a la gente, nadie va a querer comprar tu juego!
+
+[3010]
+¿Q-qué has dicho…?
+
+[3011]
+(Je, je… ¡Si consigo vender su juego, seguro que me regala una copia para agradecerlo!)
+
+[3012]
+(100.000 pricas… ♪) H-hermana… Aquí hay algo sospechoso…
+
+[3013]
+¡Yo te enseñaré cómo se venden las cosas!
+
+[3014]
+H-hermana, ¿y tú sabes hacer eso…?
+
+[3015]
+¿D-de verdad?
+
+[3016]
+¡Te lo agradecería mucho!
+
+[3017]
+¡Bien! ¡Pues empecemos a entrenar!
+
+[3018]
+¡Lo primero que necesita un buen vendedor es resistencia física!
+
+[3019]
+¿Tú crees…?
+
+[3020]
+¡Claro que sí!
+
+[3021]
+¡Venga, empezaremos corriendo!
+
+[3022]
+¡Rozalin se ha unido al grupo como aprendiz de vendedora… o algo parecido!
+
+
+=== ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk01_jp.dat ===
+
+[3782]
+En el reino de Paprica son las mujeres quienes heredan el trono.
+
+[3783]
+Por eso, la próxima reina será Éclair, hija de la reina Crepine.
+
+[3784]
+Eres una hermana de la Iglesia, ¿verdad?
+
+[3785]
+¿Cómo sabes que te has enamorado?
+
+[3786]
+¡Por favor, dímelo!
+
+[3787]
+Eeh… Bueno… Pues…
+
+[3788]
+¡Oye, esa sí que es una buena pregunta!
+
+[3789]
+¡Prier! ¿Qué te parece si tenemos una cita?
+
+[3790]
+¿Por qué los únicos que me invitan a salir son vejestorios como ese?
+
+[3791]
+Bueno, mejor eso que nada, ¿no?
+
+[3792]
+Mooboo.
+
+[3793]
+Supongo que lo llaman «mooboo» porque es lo que dice.
+
+[3794]
+Qué curioso.
+
+[3795]
+Si tú lo dices…
+
+[3796]
+Esta mañana fui a rezar a la Iglesia de la Divina Madre.
+
+[3797]
+Gracias a esa iglesia, hoy disfruto de buena salud.
+
+[3798]
+¡Bendita sea la Divina Madre!
+
+[3799]
+¿Tú no eres una hermana de la Iglesia de la Santa Doncella?
+
+[3800]
+Esa iglesia es bastante pequeña y lúgubre, ¿no?
+
+[3801]
+A mí me gusta mucho más la Iglesia de la Divina Madre.
+
+[3802]
+¡Es grande y rica, ya sabes!
+
+[3803]
+(¡Voy a matar a esta mujer!)
+
+[3804]
+¿No estarás pensando en matar a esa mujer?
+
+[3805]
+¡Claro que no!
+
+[3806]
+¿Acaso una hermana de la Iglesia pensaría algo así?
+
+[3807]
+Hoy hace un día precioso. ¡La ropa se secará enseguida!
+
+[3808]
+¡Hagan algo cuanto antes con ese monstruo del bosque!
+
+[3809]
+Cuando llegues al mapa del mundo, pulsa △ y guarda la partida.
+
+[3810]
+¡Más vale prevenir que curar!
+
+[3811]
+¡Es muy importante guardar la partida a menudo!
+
+[3812]
+También puedes guardar pulsando △ en la pantalla de selección de mapas.
+
+[3813]
+¡Dicen que el padre Salade es capaz de derribar a un dios demonio de un solo puñetazo!
+
+[3814]
+¡Los hombres fuertes son ma-ra-vi-llo-sos¥! ¿Y si me hiciera hermana de la Iglesia para acercarme al padre Salade?
+
+[3815]
+Anoche se oyó un estruendo tremendo. Me pregunto qué sería…
+
+[3816]
+Dicen que apareció un fantasma muy extraño en el bosque de Meunière.
+
+[3817]
+¿Qué era en realidad el fantasma del bosque de Meunière?
+
+[3818]
+¡Vaya, vaya!
+
+[3819]
+¡Cuánto tiempo sin verlos!
+
+[3820]
+¿Dónde se habían metido?
+
+[3821]
+Los niños dicen que vieron zombis en la Panza del Diablo.
+
+[3822]
+No será verdad, ¿no?
+
+[3823]
+¿La Panza del Diablo…?
+
+[3824]
+Así llamamos a las antiguas alcantarillas de las afueras de la ciudad.
+
+[3825]
+¿No te acuerdas?
+
+[3826]
+¡Antes íbamos allí a jugar todo el tiempo…!
+
+[3827]
+Ah, ¿ese lugar?
+
+[3828]
+Así que ahora lo llaman la Panza del Diablo…
+
+[3829]
+¿Qué habrá sido del zombi que, según decían, rondaba la Panza del Diablo?
+
+[3830]
+¿Al final no era más que un rumor?
+
+[3831]
+Para mí, mi dios es el alcohol.
+
+[3832]
+No me imagino cómo vivir sin él.
+
+[3833]
+No tienes por qué enfrentarte a todos los enemigos para pasar a la siguiente zona.
+
+[3834]
+A veces, huir es ganar.
+
+[3835]
+¡Pelear no lo es todo!
+
+[3836]
+Últimamente no ocurre nada bueno, ¿verdad?
+
+[3837]
+¡No pongas esa cara tan seria!
+
+[3838]
+¡Una sonrisa, vamos!
+
+[3839]
+¿Cómo les va a los dos?
+
+[3840]
+¿Qué tal les está yendo en La Pucelle?
+
+[3841]
+¡Es facilísimo!
+
+[3842]
+¡Qué va! Hay demasiadas cosas que recordar. ¡Es dificilísimo, hermana Olive!
+
+[3843]
+Bueno, al principio todo el mundo se siente así.
+
+[3844]
+Rezo para que pronto sean dos excelentes cazadores de demonios.
+
+[3845]
+¡Muchas gracias!
+
+[3846]
+Gracias por lo del otro día.
+
+[3847]
+Si no hubieran venido, a estas alturas probablemente estaría en el cielo.
+
+[3848]
+Les estoy agradecida de todo corazón.
+
+[3849]
+Me han apartado de las misiones de La Pucelle hasta que me recupere por completo.
+
+[3850]
+Como no puedo combatir, me esforzaré por ayudar a todos reuniendo información.
+
+[3851]
+Ni siquiera los textos sagrados mencionan nada parecido al espíritu maligno que apareció en el bosque de Meunière.
+
+[3852]
+Desconocemos qué clase de ser es, así que ten mucho cuidado.
+
+[3853]
+Todo suceso tiene una causa.
+
+[3854]
+Procura no pasarla por alto.
+
+[3855]
+¡Y pensar que la hermana Alouette era la Doncella de la Luz…!
+
+[3856]
+En nombre de la Doncella de la Luz…
+
+[3857]
+Rezo para que todos regresen sanos y salvos.
+
+[3858]
+La hermana Olive murió como mártir mientras perseguía al culpable del reciente asesinato.
+
+[3859]
+Al parecer, encontraron su cuerpo en el monte Tarte…
+
+[3860]
+No puede ser…
+
+[3861]
+Entonces… si hubiéramos encontrado a la hermana Olive, quizá se habría salvado…
+
+[3862]
+Dejen la seguridad de la iglesia en nuestras manos.
+
+[3863]
+No podemos contarles a los vecinos que la iglesia sufrió el ataque del Príncipe de las Tinieblas.
+
+[3864]
+¡Ya me cuesta muchísimo seguir inventando excusas…!
+
+[3865]
+Cuesta creerlo, pero hace solo treinta y cinco años que el padre Salade fundó la Iglesia de la Santa Doncella.
+
+[3866]
+Se esforzó durante años para ganarse la confianza de la familia real.
+
+[3867]
+Gracias a su apoyo fue posible construir esta magnífica catedral.
+
+[3868]
+La misión pública de la Orden de la Santa Doncella es difundir las enseñanzas de la diosa Poitreene.
+
+[3869]
+Y nuestra misión secreta es salvar a las almas errantes. De eso se encargan ustedes, los miembros de La Pucelle.
+
+[3870]
+¿Un incidente en la ciudad portuaria de Mayonnaise?
+
+[3871]
+Esa ciudad es el motor económico del Sagrado Reino de Paprica.
+
+[3872]
+Sería terrible que le ocurriera algo.
+
+[3873]
+Últimamente, las corrientes de energía oscura de todo el mundo están más activas.
+
+[3874]
+¿Será el presagio de algo malo…?
+
+[3875]
+¿Y si la activación de esas corrientes anunciara el regreso del Príncipe de las Tinieblas?
+
+[3876]
+¡Quién iba a pensar que el Príncipe de las Tinieblas resucitaría de verdad…!
+
+[3877]
+Parece que la Cueva de Entrenamiento, que el padre Salade había sellado tiempo atrás, reapareció al intensificarse la corriente de energía oscura.
+
+[3878]
+Dicen que el padre Salade se hizo muy fuerte entrenando allí.
+
+[3879]
+Según el Libro Sagrado, la Doncella de la Luz y el Príncipe de las Tinieblas lucharon hace cincuenta años.
+

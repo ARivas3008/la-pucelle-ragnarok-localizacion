@@ -1,0 +1,432 @@
+LA PUCELLE — 06_dialogos — CORPUS 02
+Versión editorial española; orden por recurso, NO orden narrativo ni distribución de la ISO.
+
+
+=== DLC_00/talk00.dat ===
+
+[1841]
+¿Qué necesitas de mí?
+
+[1842]
+¿Qué quieres que te enseñe?
+
+[1844]
+Pregúntame lo que quieras.
+
+[1846]
+Está bien... ¿Qué quieres saber?
+
+[1847]
+Cómo atacar mediante la purificación / Cómo convertir a los enemigos en aliados / Acerca de los Grandes Milagros / Si purificas un punto impuro mientras llevas un objeto equipado, ese objeto acumulará energía...
+
+[1856]
+aparece un icono...
+
+[1858]
+Por ejemplo, si un objeto tiene el icono «ATK» (ataque),
+
+[1861]
+verás cómo aumenta.
+
+[1869]
+solo tienes que equiparle ese objeto.
+
+[1872]
+Aprenderlas te dará ventaja en combate.
+
+[1875]
+La naturaleza está llena de misterios...
+
+[1877]
+Los secretos que aprovechan las fuerzas de la naturaleza se conocen como «magia elemental».
+
+[1884]
+¡Ánimo, tú puedes!
+
+[1885]
+¿Combatir el veneno con veneno, eh...?
+
+[1886]
+Muy bien... ¿Qué quieres saber?
+
+[1888]
+Los daños sufridos en combate y los SP consumidos,
+
+[1892]
+Por cierto, si cuentas con magia elemental de apoyo u objetos que provoquen «sueño», los combates serán mucho más fáciles.
+
+[1893]
+Hay tres maneras de atacar a un enemigo entre varios.
+
+[1894]
+¿Cuál quieres que te explique?
+
+[1905]
+Eso es la purificación.
+
+[1924]
+¡No dejes de probarlo!
+
+[1929]
+Y otra cosa...
+
+[1930]
+Como es lógico, los jefes no pueden unirse a tu grupo.
+
+[1934]
+¡Es una gozada cuando te sale bien, ¿eh?!
+
+[1937]
+¿Conoces al tipo sospechoso del pueblo?
+
+[1940]
+Para saber más, pregúntaselo directamente.
+
+[1947]
+Más te vale tener cuidado.
+
+[1949]
+¡También te ayudarán a atacar!
+
+[1951]
+A eso se le llama «efecto de apoyo».
+
+[1952]
+Acuérdate bien.
+
+[1953]
+Te será muy útil.
+
+[1962]
+El ataque simultáneo es más potente.
+
+[1966]
+¿Ves? ¡Es una pasada!
+
+[1967]
+Un miembro de primera de La Pucelle también debe conocer las técnicas de exorcismo más modernas.
+
+[1968]
+Reacción de purificación / Reacción de Gran Milagro / La reacción de purificación es una técnica nueva que se ha puesto de moda.
+
+[1969]
+No tiene ninguna complicación.
+
+[1971]
+Si logras purificar, quien haya realizado la purificación
+
+[1973]
+podrá actuar una vez más.
+
+[1974]
+Eso es la «Re-Action de purificación».
+
+[1981]
+¡Fíjate bien en el mapa de combate y aprovéchalo!
+
+[1982]
+Eso no le concierne por ahora.
+
+[1985]
+En cuanto a «A1», a quien usted nos presentó...
+
+[1986]
+me temo que murió en combate.
+
+[1987]
+Estos son sus efectos personales...
+
+[1988]
+Resultó ser un completo inútil.
+
+[1989]
+Mi señor también está muy enfadado.
+
+[1990]
+Lamentablemente, desconocemos su paradero.
+
+[1991]
+Se pasó al enemigo.
+
+[1992]
+Mi señor está muy enfadado.
+
+[1995]
+No trabaja en absoluto.
+
+[1997]
+No hace más que beber alcohol todos los días.
+
+[1998]
+Nos ocuparemos de él mañana mismo, así que...
+
+[1999]
+Huyó ante el enemigo.
+
+[2003]
+Todavía sigue con vida...
+
+[2004]
+Je, je, je...
+
+[2005]
+Parece que le va muy bien en el Mundo Oscuro.
+
+[2006]
+Está haciendo un trabajo espléndido.
+
+[2007]
+Mi señor tiene grandes expectativas puestas en él.
+
+[2008]
+Se lo agradezco.
+
+[2009]
+Está mejorando a pasos agigantados.
+
+[2010]
+Mi señor también tiene muchas esperanzas puestas en él.
+
+[2013]
+Se está desenvolviendo bastante bien.
+
+[2017]
+Parece que le ha tomado mucho cariño al Mundo Oscuro.
+
+[2019]
+Según parece, no destacó demasiado...
+
+[2020]
+Está en cama con un resfriado.
+
+[2021]
+La próxima vez, alguien más resistente...
+
+[2022]
+Se ha convertido en una estrella del Mundo Oscuro.
+
+[2023]
+Hasta yo me he comprado su álbum de fotos.
+
+[2025]
+Se acaba de casar.
+
+[2026]
+Sale de fiesta todas las noches.
+
+[2028]
+Lo han nombrado encargado de la colada.
+
+[2030]
+No parece que haya novedades.
+
+[2031]
+Ha derrotado al comandante enemigo.
+
+[2032]
+Mi señor está encantado.
+
+[2033]
+Así que queríamos darle las gracias...
+
+[2034]
+Está ascendiendo sin problemas.
+
+[2035]
+Ha aniquilado a 100 soldados enemigos.
+
+[2037]
+Lo han ascendido recientemente.
+
+[2038]
+Hace poco protegió a mi señor de un asesino.
+
+[2040]
+Me dicen que es muy hábil dando masajes.
+
+[2041]
+A nosotros también nos cuesta mucho adiestrar a los monstruos.
+
+[2057]
+Le ruego que los entrene bien.
+
+[2058]
+¿Se ha fijado en esa opción?
+
+[2059]
+El Índice de energía oscura va aumentando.
+
+[2070]
+Bueno, todo depende de su capacidad...
+
+[2076]
+Bienvenido.
+
+[2077]
+¡Ha subido tu categoría de cliente!
+
+[2079]
+¡Liquidación total!
+
+[2084]
+¿Qué le ha parecido nuestro surtido de hoy?
+
+[2085]
+Hay pocas armas / Hay pocas armaduras / Quiero cosas más raras / Está bien así / ¿Qué te parecieron los precios de los artículos?
+
+[2086]
+Prefiero artículos buenos aunque sean caros / Prefiero artículos baratos aunque sean malos / ¿Te interesa el Mundo Oscuro?
+
+[2087]
+Sí / No / Si vas a combatir, querrás enfrentarte a enemigos poderosos, ¿verdad?
+
+[2089]
+Experiencia triple en el próximo combate / Experiencia triple en la próxima purificación / Dinero triple en el próximo mapa
+
+[2091]
+Gracias por su colaboración.
+
+[2093]
+¿Lo dice en serio, estimado cliente?
+
+[2095]
+No me importa lo que pase. / ¡Perdón, era mentira!
+
+[2097]
+Elige una orden y pulsa ○ para confirmar la acción.
+
+[2098]
+Gran Catedral de la Orden de las Doncellas / Udon Yamasemi / Orfanato / Volver / ¡Bienvenidos!
+
+[2099]
+¡Bienvenido a la sala de música!
+
+[2100]
+¡Bienvenido al archivo, donde guardamos toda clase de registros!
+
+[2101]
+¿Qué registro quieres consultar?
+
+[2102]
+Ver registro de colección / Ver registro de combate / Escuchar una explicación / ¡Enhorabuena!
+
+[2103]
+¡Tu registro de colección ha superado el 10 %!
+
+[2104]
+¡La redacción del periódico ha enviado un premio!
+
+[2105]
+¡Adelante, recógelo!
+
+[2106]
+¡Has conseguido «Crecimiento de ATK»!
+
+[2107]
+¡Tu aventura de coleccionista no ha hecho más que empezar!
+
+[2108]
+¡A por el 30 %!
+
+[2109]
+¡El registro de colección ya supera el 30 %!
+
+[2110]
+¡Ha llegado otro premio de la redacción!
+
+[2111]
+¡Has conseguido unas braguitas sexis!
+
+[2112]
+Dicen que un antiguo coleccionista dijo una vez:
+
+[2113]
+«¡Si hay objetos, hay que coleccionarlos!».
+
+[2114]
+¡A por el 50 %!
+
+[2115]
+¡Por fin has superado el 50 %!
+
+[2116]
+¡Has conseguido el Anillo mágico!
+
+[2117]
+Parece que Prier y sus compañeros ocupan actualmente el segundo puesto en la clasificación de coleccionistas del Reino de Paprika.
+
+[2118]
+¡A por el 75 %!
+
+[2119]
+¡¿Has superado ya el 75 %?!
+
+[2120]
+El 75 %... ¡Es increíble!
+
+[2121]
+¡Has conseguido Arondight!
+
+[2122]
+La revista Coleccionista Semanal publicó un artículo que decía: «La verdadera batalla comienza al llegar al 75 %...».
+
+[2123]
+¡A por el 100 %!
+
+[2124]
+¡Por fin has llegado al 100 %...!
+
+[2125]
+Eso significa que ya no queda ningún objeto en el Reino de Paprika que no hayáis conseguido.
+
+[2126]
+Lo había leído en los libros de historia, ¡pero jamás pensé que llegaría a ver con mis propios ojos una colección completada al 100 %!
+
+[2127]
+Sí, tenemos premios... pero ya tenéis todos los objetos que existen, ¿verdad?
+
+[2128]
+¡Habéis conseguido el Cañón de mil millones de años luz, el Traje robótico de superaleación y el Motor superdimensional!
+
+[2129]
+¡Enhorabuena por todo ese esfuerzo!
+
+[2130]
+¡Me encargaré personalmente de que este logro pase a la posteridad!
+
+[2131]
+Trabajo a tiempo parcial en el periódico del Reino de Paprika.
+
+[2132]
+¡Así que deja la recopilación de información en mis manos!
+
+[2133]
+En el periódico recopilamos y archivamos todo tipo de información sobre el Reino de Paprika.
+
+[2134]
+¡Y también información sobre Prier y los demás, claro!
+
+[2135]
+Así que, si quieres consultar alguno de nuestros archivos, ¡pídemelo cuando quieras!
+
+[2136]
+Puedo enseñarte dos tipos de registros.
+
+[2137]
+El «Registro de colección» guarda información sobre todos los objetos que Prier y los suyos han conseguido.
+
+[2138]
+No te preocupes: cualquier objeto que hayáis conseguido alguna vez seguirá registrado, aunque ya no lo tengáis.
+
+[2139]
+El «Registro de combate» reúne datos sobre las batallas de Prier y sus compañeros.
+
+[2140]
+¡Es divertido volver a echarles un vistazo!
+
+[2141]
+Además, el periódico organiza una campaña: ¡cuantos más registros completes, más objetos podrás ganar como premio!
+
+[2142]
+¡Sigue reuniendo todos los que puedas!
+
