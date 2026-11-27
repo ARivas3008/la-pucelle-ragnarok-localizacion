@@ -6,6 +6,7 @@ from formato_talk import inspect,replace,TalkError
 from fuentes_es import encode_es,missing_render_glyphs
 from construir_parche import to_full
 from revisiones_coordinadas import scoped_segments
+from paginacion_talk import paginate_text
 
 def canon(text):
  text=unicodedata.normalize('NFKC',text).replace('、',',').replace('。','.')
@@ -219,7 +220,8 @@ def compile_one(res,raw,meta,trie,font):
    phrase=' '.join(c['es'] for c in selected)
    expected,encoder=variable_encoder(run)
    if variables(encoder(phrase))!=expected:raise TalkError('Variables TALK distintas')
-   lines=wrap(phrase,encoder=encoder)
+   pages=paginate_text(phrase,encoder)
+   lines=[line for page in pages for line in page]
    if run[0].get('choice') and len(lines)!=1:raise TalkError('Opción de menú necesita abreviación de una línea')
    if (missing:=missing_render_glyphs(glyph_text(phrase,expected),font)):raise TalkError('Glifos ausentes: '+repr(missing))
    # La rutina cuenta pares y tiene tres filas de 65 bytes. Una página
@@ -232,14 +234,14 @@ def compile_one(res,raw,meta,trie,font):
     last=max(previous,key=lambda t:t['end'])
     between=[op for a,b,op in meta['tokens'] if a>last['end'] and b<=run[0]['offset']-1]
     if 9 in between and not any(op in (2,3) for op in between):new+=b'\2'
-   for j,line in enumerate(lines):
-    if j and j%3==0:new+=b'\2'
-    new+=b'\1'+encoder(line)+b'\0'
+   for j,page in enumerate(pages):
+    if j:new+=b'\2'
+    for line in page:new+=b'\1'+encoder(line)+b'\0'
    a=run[0]['offset']-1;b=run[-1]['end']+1
    edits.append((a,b,bytes(new)))
    applied.append(dict(recurso=res,offset=a,entry_id=entry_id,grupos=list(dict.fromkeys(g for c in selected for g in c.get('grupos',[c['gid']]))),
     unidades_origen=[u for c in selected for u in c['unit_ids']],lineas_originales=len(run),
-    lineas_nuevas=len(lines),original=source,es=phrase))
+    lineas_nuevas=len(lines),paginas_nuevas=len(pages),original=source,es=phrase))
   except (TalkError,ValueError,UnicodeError) as exc:
    # Cuando una sola línea no aprobada bloquea todo un run, permitir
    # únicamente subgrupos completos, inequívocos y en sus slots originales.
