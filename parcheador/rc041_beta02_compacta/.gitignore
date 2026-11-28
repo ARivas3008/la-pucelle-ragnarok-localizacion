@@ -1,0 +1,7 @@
+*.copy.gz
+*.xor.gz
+*.iso
+*.EDAT
+PARAM.PBP
+*.exe
+__pycache__/

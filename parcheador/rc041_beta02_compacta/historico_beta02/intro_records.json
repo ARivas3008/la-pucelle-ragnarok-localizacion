@@ -1,0 +1,178 @@
+[
+  {
+    "main": 1,
+    "shadow": 2,
+    "text": "Esta es una leyenda que se ha transmitido desde tiempos remotos…",
+    "size": 14,
+    "width": 416,
+    "height": 14,
+    "cut": [
+      43,
+      2,
+      426,
+      26
+    ],
+    "transform_main": 1,
+    "transform_shadow": 2
+  },
+  {
+    "main": 3,
+    "shadow": 4,
+    "text": "«Cuando renazca el Príncipe de las Tinieblas, aparecerá la Santa Doncella».",
+    "size": 13,
+    "width": 432,
+    "height": 14,
+    "cut": [
+      35,
+      32,
+      442,
+      26
+    ],
+    "transform_main": 3,
+    "transform_shadow": 4
+  },
+  {
+    "main": 7,
+    "shadow": 8,
+    "text": "El Príncipe de las Tinieblas,",
+    "size": 16,
+    "width": 195,
+    "height": 16,
+    "cut": [
+      153,
+      62,
+      205,
+      26
+    ],
+    "transform_main": 7,
+    "transform_shadow": 8
+  },
+  {
+    "main": 5,
+    "shadow": 6,
+    "text": "amado por el ángel caído Calamity y rebelde contra la humanidad,",
+    "size": 14,
+    "width": 411,
+    "height": 14,
+    "cut": [
+      45,
+      92,
+      421,
+      26
+    ],
+    "transform_main": 5,
+    "transform_shadow": 6
+  },
+  {
+    "main": 9,
+    "shadow": 10,
+    "text": "sumirá al mundo en la oscuridad con su poder.",
+    "size": 16,
+    "width": 329,
+    "height": 16,
+    "cut": [
+      86,
+      122,
+      339,
+      26
+    ],
+    "transform_main": 9,
+    "transform_shadow": 10
+  },
+  {
+    "main": 11,
+    "shadow": 12,
+    "text": "Donde hay tinieblas, también hay luz.",
+    "size": 16,
+    "width": 265,
+    "height": 16,
+    "cut": [
+      118,
+      152,
+      275,
+      26
+    ],
+    "transform_main": 11,
+    "transform_shadow": 12
+  },
+  {
+    "main": 15,
+    "shadow": 16,
+    "text": "Cuando el príncipe despierte, una joven aparecerá",
+    "size": 16,
+    "width": 357,
+    "height": 16,
+    "cut": [
+      72,
+      2,
+      367,
+      26
+    ],
+    "transform_main": 14,
+    "transform_shadow": 15
+  },
+  {
+    "main": 13,
+    "shadow": 14,
+    "text": "para salvar al mundo.",
+    "size": 16,
+    "width": 155,
+    "height": 16,
+    "cut": [
+      173,
+      32,
+      165,
+      26
+    ],
+    "transform_main": 13,
+    "transform_shadow": 13
+  },
+  {
+    "main": 17,
+    "shadow": 18,
+    "text": "Ella es la Doncella de la Luz,",
+    "size": 16,
+    "width": 199,
+    "height": 15,
+    "cut": [
+      151,
+      62,
+      209,
+      26
+    ],
+    "transform_main": 16,
+    "transform_shadow": 17
+  },
+  {
+    "main": 21,
+    "shadow": 22,
+    "text": "mensajera de la diosa Poitreene",
+    "size": 16,
+    "width": 226,
+    "height": 16,
+    "cut": [
+      138,
+      92,
+      236,
+      26
+    ],
+    "transform_main": 20,
+    "transform_shadow": 21
+  },
+  {
+    "main": 19,
+    "shadow": 20,
+    "text": "y artífice de milagros.",
+    "size": 16,
+    "width": 154,
+    "height": 16,
+    "cut": [
+      174,
+      122,
+      164,
+      26
+    ],
+    "transform_main": 18,
+    "transform_shadow": 19
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "version": "RC041 REV6 BETA02 Compacta",
+  "base": "RC041 REV6 BETA02",
+  "previous_exe_bytes": 38662656,
+  "new_exe_bytes": 21823488,
+  "previous_exe_sha256": "9a7e43ab782d3c1d3469c0b7b36e4f0d865b7f097acc1b31b176bb6c3aa38a0d",
+  "new_exe_sha256": "1ae3f63efe3871bd923ab263eaf6becf248307a9ecf070fe31d8a8cdf5b2ca44",
+  "saved_bytes": 16839168,
+  "reduction_percent": 43.5541,
+  "delta_stats": [
+    {
+      "name": "ISO",
+      "compressed_bytes": 12448558,
+      "raw_bytes": 25135648,
+      "sha256": "fd575381d219fddba34fec69ef3cbee94169c6326e143ce5c5a1f5b13d1b0fc3",
+      "matcher": "866761532 literal=22744260 commands=264863"
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "compressed_bytes": 1721013,
+      "raw_bytes": 3248238,
+      "sha256": "837a42e8a76e9000ad4f78e8035d02000f0a170e0dbd9b497bc1b36fa779585a",
+      "matcher": "2867414 literal=2387359 commands=95526"
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "compressed_bytes": 1749660,
+      "raw_bytes": 3328616,
+      "sha256": "b444150cfe538a7e03575e59120543dbf84d38c34d4851086ecfb1325c225f21",
+      "matcher": "2912077 literal=2452928 commands=97171"
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "compressed_bytes": 1775592,
+      "raw_bytes": 3367751,
+      "sha256": "e5bc16543bdfa82aef0ee8763683e30cac36381133ee7dd580815f0bb7b7c8f7",
+      "matcher": "2948742 literal=2482689 commands=98217"
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "compressed_bytes": 1805630,
+      "raw_bytes": 3418108,
+      "sha256": "ebe40062419b2d31a0fbb6b2da30f18abef080de0acf6350b0e07106abd358ec",
+      "matcher": "2996192 literal=2519132 commands=99763"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "ISO",
+      "sha256": "dc46a91af17c0a79ed16501f994af27fca44cf2297d833b1eaad8392fed0a7fe",
+      "size": 889505792,
+      "embedded_delta_sha256": "fd575381d219fddba34fec69ef3cbee94169c6326e143ce5c5a1f5b13d1b0fc3",
+      "embedded_exact": true,
+      "identical_to_beta02": true
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "sha256": "a7b6fb8e51c20b27f07c628522c5cf0bfb8c5b01baa7e04ef23b20cd66f49ed2",
+      "size": 5254773,
+      "embedded_delta_sha256": "837a42e8a76e9000ad4f78e8035d02000f0a170e0dbd9b497bc1b36fa779585a",
+      "embedded_exact": true,
+      "identical_to_beta02": true
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "sha256": "95e4afe53dda0c1a667400e01a9ea907ede081419f709402665648d2a7b9fb04",
+      "size": 5365005,
+      "embedded_delta_sha256": "b444150cfe538a7e03575e59120543dbf84d38c34d4851086ecfb1325c225f21",
+      "embedded_exact": true,
+      "identical_to_beta02": true
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "sha256": "c08b3a85788de36341cc9c8069c6123093d8ec58a401d981d8e039dc6f46b74f",
+      "size": 5431431,
+      "embedded_delta_sha256": "e5bc16543bdfa82aef0ee8763683e30cac36381133ee7dd580815f0bb7b7c8f7",
+      "embedded_exact": true,
+      "identical_to_beta02": true
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "sha256": "45456ee24de0980546f0b918392b3e1383b3fcd5372c9a5d5db077ea97305a7e",
+      "size": 5515324,
+      "embedded_delta_sha256": "ebe40062419b2d31a0fbb6b2da30f18abef080de0acf6350b0e07106abd358ec",
+      "embedded_exact": true,
+      "identical_to_beta02": true
+    }
+  ],
+  "param_pbp_sha256": "25f4966d083bd683cc92f845863ff5f77a1c744349709579db82b2f73dc2a9e1",
+  "linux_replay_verified": 5,
+  "embedded_windows_deltas_verified": 5,
+  "go_unit_tests_passed": 10,
+  "go_vet_windows": true,
+  "windows_gui_executed": false,
+  "ppsspp_new_run": false,
+  "limitations": [
+    "RC024 acumulativa original no disponible; no se certifica recuperación histórica exhaustiva.",
+    "Los antiguos menús se conservan binariamente; su visualización debe validarse en ejecución.",
+    "Sin certificación Windows ni hardware PSP.",
+    "Esta revision cambia solo el algoritmo de parcheo; no añade ni recupera contenido ausente en BETA02. La igualdad SHA-256 no certifica cobertura editorial o visual. No se ha ejecutado el EXE en Windows."
+  ]
+}

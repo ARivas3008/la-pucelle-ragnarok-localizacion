@@ -1,0 +1,18 @@
+RC041-REV6-BETA02-COMPACTA | BETA01 + introducción nativa corregida en textura real y legibilidad; tutorial DLC armonizado con Reacción; menús anteriores conservados y avisos de guardado traducidos
+Comprobando original: ISO
+Comprobando original: DL_JP_00.EDAT
+Comprobando original: DL_JP_01.EDAT
+Comprobando original: DL_JP_02.EDAT
+Comprobando original: DL_JP_03.EDAT
+Aplicando parche: ISO
+Verificado SHA-256: ISO
+Aplicando parche: DL_JP_00.EDAT
+Verificado SHA-256: DL_JP_00.EDAT
+Aplicando parche: DL_JP_01.EDAT
+Verificado SHA-256: DL_JP_01.EDAT
+Aplicando parche: DL_JP_02.EDAT
+Verificado SHA-256: DL_JP_02.EDAT
+Aplicando parche: DL_JP_03.EDAT
+Verificado SHA-256: DL_JP_03.EDAT
+PARAM.PBP original conservado y verificado SHA-256
+Proceso terminado: /tmp/lp_compact/replay/JUEGO_PARA_PPSSPP_RC041_REV6_BETA02

@@ -1,0 +1,69 @@
+[
+  {
+    "offset": "0xd1478",
+    "before": "Memory Stick not inserted",
+    "after": "No hay Memory Stick",
+    "capacity": 48
+  },
+  {
+    "offset": "0xd1518",
+    "before": "Not enough free space on Memory Stick",
+    "after": "Espacio libre insuficiente en Memory Stick",
+    "capacity": 48
+  },
+  {
+    "offset": "0xd1568",
+    "before": "Not enough space on Memory Stick",
+    "after": "Espacio insuficiente en Memory Stick",
+    "capacity": 48
+  },
+  {
+    "offset": "0xd15dc",
+    "before": "Free space on Memory not enough",
+    "after": "Espacio libre insuficiente",
+    "capacity": 48
+  },
+  {
+    "offset": "0xd1630",
+    "before": "Read necessary data for saving",
+    "after": "Leyendo datos para guardar",
+    "capacity": 40
+  },
+  {
+    "offset": "0xd1658",
+    "before": "Please wait",
+    "after": "Un momento",
+    "capacity": 12
+  },
+  {
+    "offset": "0xd1674",
+    "before": "Preparing for deletion",
+    "after": "Preparando el borrado",
+    "capacity": 28
+  },
+  {
+    "offset": "0xd16a8",
+    "before": "Transfer data possible",
+    "after": "Se pueden transferir datos",
+    "capacity": 28
+  },
+  {
+    "offset": "0xd16c4",
+    "before": "Finished saving",
+    "after": "Datos guardados",
+    "capacity": 24
+  },
+  {
+    "offset": "0xd1748",
+    "before": "Please insert Memory Stick",
+    "after": "Inserta la Memory Stick",
+    "capacity": 44
+  },
+  {
+    "offset": "0xd178c",
+    "before": "Checking Memory Stick",
+    "after": "Leyendo Memory Stick",
+    "capacity": 21,
+    "trademark_preserved": true
+  }
+]
