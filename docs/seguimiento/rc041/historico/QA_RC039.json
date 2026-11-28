@@ -1,0 +1,189 @@
+{
+  "version": "RC039",
+  "base_rc038_sha256": "29991b1418fb596311fcf13a3a6ff7371687cce7d4307b3b907505c83b07cb52",
+  "eboot_before": "9db7a62f0aad0de2a74972ca7c82019bb39e84bfc17d7e034224e2b630094602",
+  "eboot_after": "3740933358b1743dcbc58c1c40926c3fe535145537a20a11d8f1cae2dee532af",
+  "only_eboot_changed": true,
+  "changed_bytes": 55,
+  "menu_labels": 8,
+  "help_labels": 3,
+  "changes": [
+    {
+      "offset": "0xc1150",
+      "before": "49722020",
+      "after": "4d6f766572",
+      "source": "Move",
+      "text": "Mover",
+      "capacity": 8
+    },
+    {
+      "offset": "0xc1160",
+      "before": "4861622e20202020",
+      "after": "486162696c69646164",
+      "source": "Skills  ",
+      "text": "Habilidad",
+      "capacity": 12
+    },
+    {
+      "offset": "0xc0908",
+      "new_offset": "0xc0920",
+      "before": "50757269662e",
+      "after": "507572696669636172",
+      "source": "Purify",
+      "text": "Purificar",
+      "references": [
+        "0x83928",
+        "0x83954",
+        "0x8963c",
+        "0x8966c"
+      ]
+    },
+    {
+      "offset": "0xc116c",
+      "before": "4f626a2e20202020",
+      "after": "4f626a65746f",
+      "source": "Items   ",
+      "text": "Objeto",
+      "capacity": 12
+    },
+    {
+      "offset": "0xc1178",
+      "before": "52756d626f20202020",
+      "after": "44697265636369f0436e",
+      "source": "Direction",
+      "text": "Dirección",
+      "capacity": 12
+    },
+    {
+      "offset": "0xc0a50",
+      "before": "55736f",
+      "after": "55736172",
+      "source": "Use",
+      "text": "Usar",
+      "capacity": 8
+    },
+    {
+      "offset": "0xc0a58",
+      "before": "4571756970",
+      "after": "45717569706172",
+      "source": "Equip",
+      "text": "Equipar",
+      "capacity": 8
+    },
+    {
+      "offset": "0xc0a60",
+      "new_offset": "0xc0a78",
+      "before": "54697261",
+      "after": "4465736563686172",
+      "source": "Drop",
+      "text": "Desechar",
+      "references": [
+        "0x848c8",
+        "0x848f4"
+      ]
+    },
+    {
+      "offset": "0xc0a68",
+      "before": "55736172206f626a65746f7320",
+      "after": "55736172206f626a65746f",
+      "source": "Consume items",
+      "text": "Usar objeto",
+      "capacity": 16
+    },
+    {
+      "offset": "0xc0a84",
+      "before": "45717569706172202020",
+      "after": "45717569706172206f626a65746f",
+      "source": "Equip item",
+      "text": "Equipar objeto",
+      "capacity": 24
+    },
+    {
+      "offset": "0xc10d8",
+      "before": "4f626a2e20",
+      "after": "4f626a65746f",
+      "source": "Items",
+      "text": "Objeto (ayuda)",
+      "capacity": 10
+    }
+  ],
+  "outputs": [
+    {
+      "name": "ISO",
+      "patch": "ISO.xor.gz",
+      "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+      "target_sha256": "44beedac96832c316fd4d96cf881eb78178427635a3278eee206ef5b8977036b",
+      "source_size": 858937344,
+      "target_size": 884445184
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "patch": "DL_JP_00_EDAT.xor.gz",
+      "source_sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00",
+      "target_sha256": "9de9ae1f8296e532b9f895c278d8dbdf07d06b6317f8d0ddca4732f945a4c468",
+      "source_size": 5127190,
+      "target_size": 5234948
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "patch": "DL_JP_01_EDAT.xor.gz",
+      "source_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+      "target_sha256": "4189e2b99aff532bbed38875aa105dbbd371c178188192d6236da825a1628024",
+      "source_size": 5203970,
+      "target_size": 5304278
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "patch": "DL_JP_02_EDAT.xor.gz",
+      "source_sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e",
+      "target_sha256": "922057563dc441f31bbe1b9a01b6db9bd5cb6716d3e5fb3bff9897f5946d1dc7",
+      "source_size": 5267964,
+      "target_size": 5370731
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "patch": "DL_JP_03_EDAT.xor.gz",
+      "source_sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e",
+      "target_sha256": "b13c3488f56179402cf6cca3dc0f8be8f4106cf2bff8245ae5667a1a67482e28",
+      "source_size": 5348846,
+      "target_size": 5454050
+    }
+  ],
+  "limitations": [
+    "No se han cambiado las cadenas de leyenda compuesta con NUL internos ni etiquetas de otros menús sin contexto.",
+    "Las dos etiquetas reubicadas conservan la cadena anterior sin referencias directas observadas.",
+    "No se ha ejecutado Windows ni PPSSPP; anchura visual y ruta de renderizado del gaiji ó pendientes.",
+    "No se ha cambiado el repositorio GitHub."
+  ],
+  "replay_checks": [
+    {
+      "name": "ISO",
+      "sha256": "44beedac96832c316fd4d96cf881eb78178427635a3278eee206ef5b8977036b",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "sha256": "9de9ae1f8296e532b9f895c278d8dbdf07d06b6317f8d0ddca4732f945a4c468",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "sha256": "4189e2b99aff532bbed38875aa105dbbd371c178188192d6236da825a1628024",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "sha256": "922057563dc441f31bbe1b9a01b6db9bd5cb6716d3e5fb3bff9897f5946d1dc7",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "sha256": "b13c3488f56179402cf6cca3dc0f8be8f4106cf2bff8245ae5667a1a67482e28",
+      "verified": true
+    }
+  ],
+  "exe_bytes": 35293184,
+  "exe_sha256": "333037fbe5893b273f8486712b1d54316855e0d663d7e541cc98384756e5e731",
+  "embedded_self_test": true,
+  "replay_platform": "Linux (mismo motor Go; GUI Windows no ejecutada)"
+}

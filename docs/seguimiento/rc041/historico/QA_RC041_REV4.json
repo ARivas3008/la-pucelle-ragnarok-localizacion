@@ -1,0 +1,128 @@
+{
+  "version": "RC041 REV4",
+  "base_sha256": "1b7a1d072389116dc1df68038249f1f5d881143db6f0461ea0210092b753e908",
+  "fields_audited": 10327,
+  "candidates": 2138,
+  "changes": 2037,
+  "skips": 0,
+  "by_package": {
+    "ISO_START": 121,
+    "DLC_00": 389,
+    "DLC_01": 502,
+    "DLC_02": 503,
+    "DLC_03": 522
+  },
+  "remaining_flags": 101,
+  "remaining_JP": 0,
+  "remaining_invalid": 0,
+  "all_TALK_unchanged": true,
+  "all_other_ISO_files_unchanged": false,
+  "outputs": [
+    {
+      "name": "ISO",
+      "patch": "ISO.xor.gz",
+      "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+      "target_sha256": "0faef52e211447e42ed389fa480bfda243b15cdbd059aa53e14f49888046b38e",
+      "source_size": 858937344,
+      "target_size": 889493504
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "patch": "DL_JP_00_EDAT.xor.gz",
+      "source_sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00",
+      "target_sha256": "dbc32429a8d4fb70f8b2eda107cb975f93e8063a8b5d516446b40ab20f72edc8",
+      "source_size": 5127190,
+      "target_size": 5245341
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "patch": "DL_JP_01_EDAT.xor.gz",
+      "source_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+      "target_sha256": "d8707a614f49d4739087ad0890823523f9e401481583700983fedd4839fc7bdc",
+      "source_size": 5203970,
+      "target_size": 5355599
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "patch": "DL_JP_02_EDAT.xor.gz",
+      "source_sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e",
+      "target_sha256": "38cbe86b8de3d1013744152977fcf1e677f93e79cd5b2909daf13b99e589d8e0",
+      "source_size": 5267964,
+      "target_size": 5422025
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "patch": "DL_JP_03_EDAT.xor.gz",
+      "source_sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e",
+      "target_sha256": "c987b2c7d0406f93dc11dfbd21e7e517df32cd6eb1f64322730b88459c204d1e",
+      "source_size": 5348846,
+      "target_size": 5505918
+    }
+  ],
+  "ppsspp": false,
+  "windows_gui": false,
+  "limitations": [
+    "Auditoría limitada a campos válidos de ocho tablas; otros campos y recursos no certificados.",
+    "Traducciones nuevas o reutilizadas requieren revisión contextual y visual.",
+    "Los nombres propios legítimos se conservan.",
+    "No publicado en GitHub.",
+    "Reubicaciones 0x32 y rótulos abreviados pendientes de validación visual; revisión de 481 anclas no es una búsqueda exhaustiva de todos los scripts."
+  ],
+  "script_changes": 90,
+  "script_by_package": {
+    "DLC_01": 22,
+    "DLC_02": 22,
+    "DLC_03": 22,
+    "DLC_00": 3,
+    "ISO_SCRIPTPACK": 21
+  },
+  "script_fixed_length": false,
+  "script_indices_unchanged": false,
+  "total_text_changes": 2127,
+  "only_ISO_START_and_SCRIPTPACK_changed": true,
+  "other_SCRIPTPACK_members_unchanged": true,
+  "script_SCRIPTPACK_reversible": true,
+  "scriptpack_edits": 21,
+  "scriptpack_preserved_branding": [
+    {
+      "resource": "script18.dat",
+      "offset": 45961,
+      "original": "   NIS      ",
+      "reason": "Nombre de la compañía NIS"
+    },
+    {
+      "resource": "script18.dat",
+      "offset": 51351,
+      "original": "   NIS      ",
+      "reason": "Nombre de la compañía NIS"
+    },
+    {
+      "resource": "script18.dat",
+      "offset": 55538,
+      "original": "   NIS      ",
+      "reason": "Nombre de la compañía NIS"
+    }
+  ],
+  "windows_exe_sha256": "a607945db03e50f14055dfc87c150bf7eb23efa05d1e9dd306a561bfe62051c8",
+  "embedded_streams_verified": {
+    "DL_JP_00.EDAT": "ef31c91f756d7b14abb4c01282f67f49b1c36e3657a03a37ff52c8c322c44b33",
+    "DL_JP_01.EDAT": "4578208422d04f3d2b188eefe3a2284309ad4716ee4ee6996d869e73a2c57bfa",
+    "DL_JP_02.EDAT": "c09bbf498e03d501cdb26877ec26e1bbe216feb3c74374cfbb5f75316b875761",
+    "DL_JP_03.EDAT": "62b9f9cea529f52a0f4ad3f709df46b8345652909b2e8852ce533e116909f5bb",
+    "ISO": "1dc42607f9ef8343ceb0ed855b4399e62415729e2748b616064ab56654792f6a"
+  },
+  "linux_replay_verified": 5,
+  "table_fields_reread": 10327,
+  "table_fields_with_japanese": 0,
+  "table_fields_with_invalid_encoding": 0,
+  "unchanged_fields": 8290,
+  "iso_changed_members": [
+    "/PSP_GAME/USRDIR/SCRIPTPACK.DAT",
+    "/PSP_GAME/USRDIR/START_JP.LZS"
+  ],
+  "nontext_START_members_unchanged": true,
+  "ANMPACK_unchanged": true,
+  "BGPACK_unchanged": true,
+  "closures_preserved": 22,
+  "qa_status": "Verificación binaria; no ejecución PPSSPP ni GUI Windows"
+}

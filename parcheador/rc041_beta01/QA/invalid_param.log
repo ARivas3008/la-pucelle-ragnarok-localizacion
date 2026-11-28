@@ -1,0 +1,15 @@
+RC041-REV6-BETA01-GUI-NATIVO | RC041 REV5 + Reacción, Omitir, título capítulo adicional 2 armonizado; QA visual pendiente; BETA01: preserva PARAM.PBP original si se proporciona; mismos deltas ISO y DLC
+Comprobando original: DL_JP_00.EDAT
+Comprobando original: DL_JP_01.EDAT
+Comprobando original: DL_JP_02.EDAT
+Comprobando original: DL_JP_03.EDAT
+Aplicando parche: DL_JP_00.EDAT
+Verificado SHA-256: DL_JP_00.EDAT
+Aplicando parche: DL_JP_01.EDAT
+Verificado SHA-256: DL_JP_01.EDAT
+Aplicando parche: DL_JP_02.EDAT
+Verificado SHA-256: DL_JP_02.EDAT
+Aplicando parche: DL_JP_03.EDAT
+Verificado SHA-256: DL_JP_03.EDAT
+ERROR: PARAM.PBP no coincide con el paquete DLC de referencia; no se publicaron resultados
+exit=1

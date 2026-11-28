@@ -1,0 +1,43 @@
+{
+  "version": "RC034 GUI nativo",
+  "exe_sha256": "72818329cee8126114ca2b60f0280590886f46d5e6ca4960e93f2e600f286842",
+  "exe_bytes": 32194048,
+  "platform": "Windows 10/11 x64",
+  "native_ui": "Win32 (DLL del sistema), sin PowerShell ni Python",
+  "engine_test": "Linux: 5/5 salidas coinciden con los hashes RC033",
+  "windows_gui_executed": false,
+  "ppsspp": false,
+  "scope": "Reconstrucción preliminar desde originales, no equivale a RC024",
+  "files": [
+    {
+      "name": "ISO",
+      "original_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+      "output_sha256": "5572056b2bd6597a9347db617a8fd58f5df8bf77325c1564e04214d32a2f6fee",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "original_sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00",
+      "output_sha256": "e8a639de1508377c5dbb9c6dacd2682fee68ddaecb23f5d7f9f2575cb87f6884",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "original_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+      "output_sha256": "919511016ce69ab9a61511c292bffabe7389b707dd982dbb96d8b51268d9858c",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "original_sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e",
+      "output_sha256": "f8b16920743587969eaa65300603e1722ba50c526a2752fe1ec7af557e44f1c2",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "original_sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e",
+      "output_sha256": "2f3956078ea8d55fab53453c8ee07242a1470e99d1ad7188b7e87c6b457a9003",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+category,offset,original,before,after,capacity,bytes_used,control_prefix,before_hex,after_hex
+Lugares,0xba7fe,Mt. Tarte,Mt. Tarte,Monte Tarte,30,12,,4d742e2054617274652020,4d6f6e7465205461727465
+Lugares,0xba8c6,Watercress Castle,Castillo Berro,Castillo de Cresson,30,20,,43617374696c6c6f20426572726f,43617374696c6c6f2064652043726573736f6e
+Lugares,0xbab96,Angel Gate,Angel Gate,Puerta Angelical,30,17,,416e67656c2047617465,50756572746120416e67656c6963616c
+Lugares,0xbabe6,Montblanc Castle,Montblanc Castle,Castillo Montblanc,30,19,,4d6f6e74626c616e6320436173746c65,43617374696c6c6f204d6f6e74626c616e63
+Lugares,0xc19e4,Watercress Castle,Cast. Berros,Castillo de Cresson,20,20,,436173742e20426572726f732020202020,43617374696c6c6f2064652043726573736f6e
+Estado,0xbaf60,Demon,Diab.,Demonio,12,8,,446961622e,44656d6f6e696f
+Estado,0xbaf84,Demon Lord,Rey diab.,Rey demonio,12,12,,52657920646961622e20,5265792064656d6f6e696f
+Estado,0xbb710,Demon,Diab.,Demonio,20,8,,446961622e,44656d6f6e696f
+Estado,0xbb724,Demon Lord,Rey diab.,Rey demonio,20,12,,52657920646961622e20,5265792064656d6f6e696f
+Estado,0xbba24,Devil,Diab.,Diablo,8,7,,446961622e,446961626c6f
+Estado,0xc0f30,Demon,Diab.,Demonio,12,8,,446961622e20,44656d6f6e696f
+Estado,0xc0f54,Demon Lord,Rey diab.,Rey demonio,12,12,,52657920646961622e20,5265792064656d6f6e696f
+Estado,0xc11b0,Devil,Diab.,Diablo,8,7,,446961622e,446961626c6f
+Estado,0xc11b8,Demon,Diab.,Demonio,8,8,,446961622e,44656d6f6e696f
+Estado,0xc1f60,Devil,Diab.,Diablo,8,7,,446961622e,446961626c6f
+Estado,0xc1f68,Demon,Diab.,Demonio,8,8,,446961622e,44656d6f6e696f
+Estado,0xbb418,Bone,Hues,Hueso,20,6,,48756573,487565736f
+Estado,0xbb440,Bat,Mur,Murciélago,20,12,,4d7572,4d75726369f0416c61676f
+Estado,0xbb490,Whale,Ball.,Ballena,20,8,,42616c6c2e,42616c6c656e61
+Estado,0xbb4cc,Pumpkin,Calabaz,Calabaza,20,9,,43616c6162617a,43616c6162617a61
+Estado,0xbb4e0,Box,Cof,Cofre,20,6,,436f66,436f667265
+Estado,0xbb4f4,Ghost,Fant.,Fantasma,20,9,,46616e742e,46616e7461736d61
+Estado,0xbb51c,Runt,Enan,Enano,20,6,,456e616e,456e616e6f
+Estado,0xbb698,Dark Eclair,Éclair o.,Éclair oscura,20,15,,f046636c616972206f2e20,f046636c616972206f7363757261
+Estado,0xbb6fc,Holy Mother Church,Igl. Santa Madre,Iglesia Santa Madre,20,20,,49676c2e2053616e7461204d616472652020,49676c657369612053616e7461204d61647265
+Estado,0xbb74c,Fallen Angel,Angel caido,Ángel caído,20,14,,416e67656c20636169646f20,f0456e67656c206361f042646f
+Estado,0xbba2c,Eclair,Eclair,Éclair,12,8,,45636c616972,f046636c616972
+Estado,0xbba38,Dark Eclair,Éclair o.,Éclair oscura,20,15,,f046636c616972206f2e20,f046636c616972206f7363757261
+Estado,0xc1190,Dark Eclair,Éclair o.,Éclair oscura,20,15,,f046636c616972206f2e20,f046636c616972206f7363757261
+Estado,0xc11a4,Eclair,Eclair,Éclair,12,8,,45636c616972,f046636c616972
+Estado,0xc16b4,Eclair,Eclair,Éclair,12,8,,45636c616972,f046636c616972
+Estado,0xbbd44,Human,Hum.,Humano,8,7,,48756d2e20,48756d616e6f
+Estado,0xc1234,Human,Hum.,Humano,8,7,,48756d2e20,48756d616e6f
+Inventario,0xbbe90,Inventory,Invent.,Inventario,20,11,,496e76656e742e2020,496e76656e746172696f
+Inventario,0xbbebc,Skills,△Dotes,Habilidad,12,12,81a2,81a2446f74657320,81a2486162696c69646164
+Inventario,0xbbf94,Drop,○Tira,Desechar,12,11,819b,819b54697261,819b4465736563686172
+Inventario,0xc0a18,Skills,△Hab.,Habilidad,12,12,81a2,81a24861622e2020,81a2486162696c69646164
+Inventario,0xc0a30,I do not know any skills,No sé habilidades,No conozco habilidades,32,23,,4e6f2073f04120686162696c696461646573202020202020,4e6f20636f6e6f7a636f20686162696c696461646573
+Inventario,0xc0ab8,Remodel item,Mejorar obj.,Mejorar objeto,28,15,,4d656a6f726172206f626a2e,4d656a6f726172206f626a65746f
+Inventario,0xbfab4,Prize,Prem.,Premio,8,7,,5072656d2e,5072656d696f
+Inventario,0xbfae4,All Items,Todo obj.,Todos,12,6,,546f646f206f626a2e,546f646f73
+Inventario,0xbfa80,Attack,Atacar,Ataque,12,7,,417461636172,417461717565
+Inventario,0xbbd60,Attack,Atacar,Ataque,12,7,,41746163617220202020,417461717565
+Inventario,0xc1250,Attack,Atacar,Ataque,12,7,,417461636172,417461717565
+Inventario,0xbf84c,Inventory Full,Bolsa llena,Inventario lleno,28,17,,426f6c7361206c6c656e61202020,496e76656e746172696f206c6c656e6f
+Inventario,0xc0b1c,Inventory Full,Bolsa llena,Inventario lleno,24,17,,426f6c7361206c6c656e61202020,496e76656e746172696f206c6c656e6f
+Inventario,0xc1efc,Inventory full,Bolsa llena,Inventario lleno,24,17,,426f6c7361206c6c656e61202020,496e76656e746172696f206c6c656e6f
+Combate,0xc09b4,Increase purification range,Aumenta alcance purif.,Aumenta el alcance de purificación,40,36,,41756d656e746120616c63616e63652070757269662e2020202020,41756d656e746120656c20616c63616e63652064652070757269666963616369f0436e
+Combate,0xc0aea,Direction,Rumbo,Dirección,14,11,,52756d626f20202020,44697265636369f0436e
+Combate,0xc0f8c,End Turn,Fin,Pasar turno,12,12,,46696e20202020202020,5061736172207475726e6f
+Combate,0xc0f98,Fight,Luchar,Combatir,12,9,,4c75636861722020,436f6d6261746972
+Combate,0xc1138,Cancel action,Anular acto,Anular acción,24,15,,416e756c6172206163746f2020,416e756c61722061636369f0436e
+Combate,0xc135c,Choose direction,Elige rumbo,Elige dirección,22,17,,456c6967652072756d626f2020202020,456c6967652064697265636369f0436e
+Opciones,0xc1564,SE Vol,Vol.EF,Vol. EF,8,8,,566f6c2e4546,566f6c2e204546
+Opciones,0xc156c,Ally Effect  On,Ef. ali. Sí,Efectos aliados: Sí,24,21,,45662e20616c692e2053f042202020,45666563746f7320616c6961646f733a2053f042
+Opciones,0xc1584,Ally Effect  Off,Ef. ali. No,Efectos aliados: No,24,20,,45662e20616c692e204e6f2020202020,45666563746f7320616c6961646f733a204e6f
+Opciones,0xc159c,Enemy Effect  On,Ef. enem. Sí,Efectos enemigos: Sí,24,22,,45662e20656e656d2e2053f042202020,45666563746f7320656e656d69676f733a2053f042
+Opciones,0xc15b4,Enemy Effect  Off,Ef. enem. No,Efectos enemigos: No,24,21,,45662e20656e656d2e204e6f2020202020,45666563746f7320656e656d69676f733a204e6f
+Opciones,0xc15e4,System Speed Fast,Sistema veloz,Velocidad rápida,24,18,,53697374656d612076656c6f7a20202020,56656c6f63696461642072f04070696461
+Menú,0xc1968,Menu,△Men.,Menú,12,8,81a2,81a24d656e2e,81a24d656ef044
+Menú,0xc1974,God Trial,Reto div.,Reto divino,12,12,,5265746f206469762e,5265746f20646976696e6f
+Menú,0xc1a28,Go to God Trial,Ir al reto div.,Al reto divino,16,15,,497220616c207265746f206469762e,416c207265746f20646976696e6f
+Récords,0xbfb44,Weeks,Ciclo,Semanas,8,8,,4369636c6f,53656d616e6173
+Récords,0xbfb7c,Purify Number,N.o purif.,Purificaciones,16,15,,4e2ef0752070757269662e2020,507572696669636163696f6e6573
+Récords,0xbfb90,Ally Kills,Bajas ali.,Bajas aliadas,24,14,,42616a617320616c692e,42616a617320616c6961646173
+Récords,0xbfba8,Enemy Kills,Bajas enem,Bajas enem.,12,12,,42616a617320656e656d20,42616a617320656e656d2e
+Récords,0xc1a40,Times Cleared,Veces ganado,Veces superado,20,15,,56656365732067616e61646f20,566563657320737570657261646f
+Inframundo,0xbf7b4,Send Monster,Env. bestia,Enviar bestia,24,14,,456e762e2062657374696120,456e7669617220626573746961
+Estado,0xbaf6c,High Demon,Diab. alto,Demon. alto,12,12,,446961622e20616c746f,44656d6f6e2e20616c746f
+Estado,0xbaf78,Great Demon,Gran diab.,Gran demon.,12,12,,4772616e20646961622e20,4772616e2064656d6f6e2e
+Estado,0xc0f3c,High Demon,Diab. alto,Demon. alto,12,12,,446961622e20616c746f,44656d6f6e2e20616c746f
+Estado,0xc0f48,Great Demon,Gran diab.,Gran demon.,12,12,,4772616e20646961622e20,4772616e2064656d6f6e2e
+Estado,0xbb4a4,Wisp,Fatu,Fuego fatuo,20,12,,46617475,467565676f20666174756f
+Estado,0xbb468,Hippo,Hipo,Hipopótamo,20,12,,4869706f20,4869706f70f04374616d6f
+Tienda,0xbf6f8,○Buy /△Try,○Buy /△Ver,Compra / Ver,16,16,pares de iconos originales,819b42757920815e81a2566572,819b436f6d707261815e81a2566572
+Tienda,0xbf710,○Wear&Buy,○Compra/e.,Eq. / Comprar,16,15,pares de iconos originales,819b436f6d7072612f652e,819b45712e8195436f6d70726172

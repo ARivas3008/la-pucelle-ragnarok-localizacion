@@ -1,0 +1,123 @@
+{
+  "registros_iso_ajenos_intactos": 27,
+  "ISO": {
+    "codigos": {
+      "2C": {
+        "gid": 5,
+        "ftd": "0xb01",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      },
+      "8141": {
+        "gid": 69,
+        "ftd": "0x801",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      },
+      "8143": {
+        "gid": 5,
+        "ftd": "0xb01",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      }
+    },
+    "pixeles_cambiados": 12,
+    "resto_dat_identico": true,
+    "tablas_y_paletas_identicas": true,
+    "sha256_dat": "2b28e1a0005703992b9437c4af69f116b106b95fbce45781d32c57218f8bfe20"
+  },
+  "DL_JP_00.EDAT": {
+    "codigos": {
+      "2C": {
+        "gid": 5,
+        "ftd": "0xb01",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      },
+      "8141": {
+        "gid": 69,
+        "ftd": "0x801",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      },
+      "8143": {
+        "gid": 5,
+        "ftd": "0xb01",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      }
+    },
+    "pixeles_cambiados": 15,
+    "resto_dat_identico": true,
+    "tablas_y_paletas_identicas": true,
+    "sha256_dat": "e4d8f1d1cf10c0ebc33e9184feae665df52b89879ab93343fe9987007318ef60"
+  },
+  "DL_JP_01.EDAT": {
+    "codigos": {
+      "2C": {
+        "gid": 5,
+        "ftd": "0xb01",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      },
+      "8141": {
+        "gid": 69,
+        "ftd": "0x801",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      },
+      "8143": {
+        "gid": 5,
+        "ftd": "0xb01",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      }
+    },
+    "pixeles_cambiados": 15,
+    "resto_dat_identico": true,
+    "tablas_y_paletas_identicas": true,
+    "sha256_dat": "e1c5df03f4098f8cdb89698adaaaa82c6f4e586a932c7a6e4957051a38a241b8"
+  },
+  "DL_JP_02.EDAT": {
+    "codigos": {
+      "2C": {
+        "gid": 5,
+        "ftd": "0xb01",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      },
+      "8141": {
+        "gid": 69,
+        "ftd": "0x801",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      },
+      "8143": {
+        "gid": 5,
+        "ftd": "0xb01",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      }
+    },
+    "pixeles_cambiados": 15,
+    "resto_dat_identico": true,
+    "tablas_y_paletas_identicas": true,
+    "sha256_dat": "4afabe3cfd0d178fed596e2e4087911e65ca7dfeb85bd25aaf4f816ddb52015f"
+  },
+  "DL_JP_03.EDAT": {
+    "codigos": {
+      "2C": {
+        "gid": 5,
+        "ftd": "0xb01",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      },
+      "8141": {
+        "gid": 69,
+        "ftd": "0x801",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      },
+      "8143": {
+        "gid": 5,
+        "ftd": "0xb01",
+        "dibujo_sha256_alpha": "3efd45bbfa9a45ddac1128d24740dd1e55d311214b7ffea0b55ed120ddf4fdfe"
+      }
+    },
+    "pixeles_cambiados": 15,
+    "resto_dat_identico": true,
+    "tablas_y_paletas_identicas": true,
+    "sha256_dat": "abb92440374fed7f1abc7ac51bd08fdb225da32267d65abc01acd0e50873056d"
+  },
+  "ppsspp": false,
+  "base": "RC030 de laboratorio y 4 DLC con FontB manual",
+  "idempotencia_iso_y_4_dlc": true,
+  "ejecutable_windows_sha256": "cf73f93549f1b0f51f050670b473578b8d909990e1209abde9b75d31a10b94d0",
+  "windows_ejecutado": false
+}

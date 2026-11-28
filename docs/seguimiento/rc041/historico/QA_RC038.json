@@ -1,0 +1,109 @@
+{
+  "version": "RC038",
+  "base_rc037_sha256": "cd765aa0a61f565180eb96a5d2c03e810486926a79a00395eea4e9378af01a1e",
+  "audited_talk_files": 21,
+  "aligned_runs": 20650,
+  "lines_before": 58168,
+  "lines_after": 58162,
+  "changed_runs": 82,
+  "confirmed_duplicates": 9,
+  "editorial_redundancies": 5,
+  "place_name_corrections": 68,
+  "changed_talk_members": 16,
+  "unchanged_runs": 20568,
+  "english_source_bigram_hits": 0,
+  "japanese_kana_kanji_hits": 0,
+  "adjacent_repetition_candidates_before": 28,
+  "adjacent_repetition_candidates_after": 19,
+  "remaining_repetitions": "Cotejadas: énfasis, tartamudeo, risas, nombres de técnicas repetidos en el original.",
+  "unchanged_whole_alphabetic_runs": 100,
+  "all_start_members_identical": true,
+  "all_dlc_unchanged": true,
+  "iso_same_size": true,
+  "iso_directory_identical": true,
+  "only_scriptpack_changed": true,
+  "source_controls_and_variables_preserved": true,
+  "full_replay_rc037": true,
+  "outputs": [
+    {
+      "name": "ISO",
+      "patch": "ISO.xor.gz",
+      "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+      "target_sha256": "29991b1418fb596311fcf13a3a6ff7371687cce7d4307b3b907505c83b07cb52",
+      "source_size": 858937344,
+      "target_size": 884445184
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "patch": "DL_JP_00_EDAT.xor.gz",
+      "source_sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00",
+      "target_sha256": "9de9ae1f8296e532b9f895c278d8dbdf07d06b6317f8d0ddca4732f945a4c468",
+      "source_size": 5127190,
+      "target_size": 5234948
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "patch": "DL_JP_01_EDAT.xor.gz",
+      "source_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+      "target_sha256": "4189e2b99aff532bbed38875aa105dbbd371c178188192d6236da825a1628024",
+      "source_size": 5203970,
+      "target_size": 5304278
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "patch": "DL_JP_02_EDAT.xor.gz",
+      "source_sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e",
+      "target_sha256": "922057563dc441f31bbe1b9a01b6db9bd5cb6716d3e5fb3bff9897f5946d1dc7",
+      "source_size": 5267964,
+      "target_size": 5370731
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "patch": "DL_JP_03_EDAT.xor.gz",
+      "source_sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e",
+      "target_sha256": "b13c3488f56179402cf6cca3dc0f8be8f4106cf2bff8245ae5667a1a67482e28",
+      "source_size": 5348846,
+      "target_size": 5454050
+    }
+  ],
+  "limitations": [
+    "Auditoría por patrones y cotejo de candidatos; no certifica ausencia absoluta de inglés ni una revisión editorial íntegra.",
+    "Se mantienen los nombres del glosario (Kinoko Jiru, Kitty Kitty, Common Veil) y las referencias a Re-Action, que el tutorial japonés cita explícitamente.",
+    "No se revisó texto fuera de TALK ni se corrigió el espaciado.",
+    "PPSSPP y GUI de Windows no ejecutados.",
+    "No se ha modificado GitHub."
+  ],
+  "replay_checks": [
+    {
+      "name": "ISO",
+      "sha256": "29991b1418fb596311fcf13a3a6ff7371687cce7d4307b3b907505c83b07cb52",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "sha256": "9de9ae1f8296e532b9f895c278d8dbdf07d06b6317f8d0ddca4732f945a4c468",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "sha256": "4189e2b99aff532bbed38875aa105dbbd371c178188192d6236da825a1628024",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "sha256": "922057563dc441f31bbe1b9a01b6db9bd5cb6716d3e5fb3bff9897f5946d1dc7",
+      "verified": true
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "sha256": "b13c3488f56179402cf6cca3dc0f8be8f4106cf2bff8245ae5667a1a67482e28",
+      "verified": true
+    }
+  ],
+  "windows_exe_sha256": "b053400f9b2bfa999c353ac298ac5cd64e0a7212b7f4813c3bfc876b926eb884",
+  "windows_exe_size": 35291648,
+  "windows_embedded_deltas_verified": true,
+  "linux_worker_self_test": true,
+  "windows_gui_executed": false,
+  "ppsspp_executed": false
+}

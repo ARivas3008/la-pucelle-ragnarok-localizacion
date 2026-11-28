@@ -1,0 +1,226 @@
+{
+  "version": "RC041",
+  "canonical": "Calamity",
+  "dialogue_changes": 7,
+  "object_fields_changed": 17,
+  "changes": [
+    {
+      "resource": "SP/talk11_jp.dat",
+      "offset": 143900,
+      "source": "That terrible darkness in his heart is what drew the fallen angel Calamity to him.",
+      "before": "Calamidad hacia él.",
+      "after": "Calamity hacia él."
+    },
+    {
+      "resource": "SP/talk11_jp.dat",
+      "offset": 191501,
+      "source": "To summon Calamity, the symbol of darkness, and to take her power for my own!",
+      "before": "Calamidad, símbolo",
+      "after": "Calamity, símbolo"
+    },
+    {
+      "resource": "SP/talk12_jp.dat",
+      "offset": 160671,
+      "source": "Master Noir... Why are you waiting to summon Calamity?",
+      "before": "invocar a Calamidad?",
+      "after": "invocar a Calamity?"
+    },
+    {
+      "resource": "SP/talk12_jp.dat",
+      "offset": 166516,
+      "source": "So that is how he plans to summon the fallen angel Calamity, hum?",
+      "before": "caído Calamidad, ¿eh?",
+      "after": "caído Calamity, ¿eh?"
+    },
+    {
+      "resource": "SP/talk12_jp.dat",
+      "offset": 175080,
+      "source": "Call Calamity!! I need some of her dark energy!",
+      "before": "¡Invoca a Calamidad!",
+      "after": "¡Invoca a Calamity!"
+    },
+    {
+      "resource": "SP/talk12_jp.dat",
+      "offset": 176546,
+      "source": "And so I decided to use Calamitys power to create a world for myself alone!!",
+      "before": "el poder de Calamidad para",
+      "after": "el poder de Calamity para"
+    },
+    {
+      "resource": "SP/talk12_jp.dat",
+      "offset": 180299,
+      "source": "Why did not you summon Calamity then?",
+      "before": "entonces a Calamidad?",
+      "after": "entonces a Calamity?"
+    },
+    {
+      "resource": "ISO_START/kis.dat",
+      "offset": 17789,
+      "source": "Filled with the power of Calamity",
+      "before": "Filled with the power of Calamity",
+      "after": "Imbuido del poder de Calamity."
+    },
+    {
+      "resource": "DL_JP_00.EDAT/kis.dat",
+      "offset": 8296,
+      "source": "堕天使の杖",
+      "before": "堕天使の杖",
+      "after": "Bastón oscuro"
+    },
+    {
+      "resource": "DL_JP_00.EDAT/kis.dat",
+      "offset": 8317,
+      "source": "堕天使カラミティーの力を宿した杖",
+      "before": "堕天使カラミティーの力を宿した杖",
+      "after": "Imbuido del poder de Calamity."
+    },
+    {
+      "resource": "DL_JP_00.EDAT/kis.dat",
+      "offset": 17768,
+      "source": "堕天使の指輪",
+      "before": "堕天使の指輪",
+      "after": "Anillo de Calamity"
+    },
+    {
+      "resource": "DL_JP_00.EDAT/kis.dat",
+      "offset": 17789,
+      "source": "Anillo hechizado por un ángel caído.",
+      "before": "Anillo hechizado por un ángel caído.",
+      "after": "Imbuido del poder de Calamity."
+    },
+    {
+      "resource": "DL_JP_01.EDAT/kis.dat",
+      "offset": 8296,
+      "source": "堕天使の杖",
+      "before": "堕天使の杖",
+      "after": "Bastón oscuro"
+    },
+    {
+      "resource": "DL_JP_01.EDAT/kis.dat",
+      "offset": 8317,
+      "source": "堕天使カラミティーの力を宿した杖",
+      "before": "堕天使カラミティーの力を宿した杖",
+      "after": "Imbuido del poder de Calamity."
+    },
+    {
+      "resource": "DL_JP_01.EDAT/kis.dat",
+      "offset": 17768,
+      "source": "堕天使の指輪",
+      "before": "堕天使の指輪",
+      "after": "Anillo de Calamity"
+    },
+    {
+      "resource": "DL_JP_01.EDAT/kis.dat",
+      "offset": 17789,
+      "source": "堕天使に魅了された指輪",
+      "before": "堕天使に魅了された指輪",
+      "after": "Imbuido del poder de Calamity."
+    },
+    {
+      "resource": "DL_JP_02.EDAT/kis.dat",
+      "offset": 8296,
+      "source": "堕天使の杖",
+      "before": "堕天使の杖",
+      "after": "Bastón oscuro"
+    },
+    {
+      "resource": "DL_JP_02.EDAT/kis.dat",
+      "offset": 8317,
+      "source": "堕天使カラミティーの力を宿した杖",
+      "before": "堕天使カラミティーの力を宿した杖",
+      "after": "Imbuido del poder de Calamity."
+    },
+    {
+      "resource": "DL_JP_02.EDAT/kis.dat",
+      "offset": 17768,
+      "source": "堕天使の指輪",
+      "before": "堕天使の指輪",
+      "after": "Anillo de Calamity"
+    },
+    {
+      "resource": "DL_JP_02.EDAT/kis.dat",
+      "offset": 17789,
+      "source": "堕天使に魅了された指輪",
+      "before": "堕天使に魅了された指輪",
+      "after": "Imbuido del poder de Calamity."
+    },
+    {
+      "resource": "DL_JP_03.EDAT/kis.dat",
+      "offset": 8296,
+      "source": "堕天使の杖",
+      "before": "堕天使の杖",
+      "after": "Bastón oscuro"
+    },
+    {
+      "resource": "DL_JP_03.EDAT/kis.dat",
+      "offset": 8317,
+      "source": "堕天使カラミティーの力を宿した杖",
+      "before": "堕天使カラミティーの力を宿した杖",
+      "after": "Imbuido del poder de Calamity."
+    },
+    {
+      "resource": "DL_JP_03.EDAT/kis.dat",
+      "offset": 17768,
+      "source": "堕天使の指輪",
+      "before": "堕天使の指輪",
+      "after": "Anillo de Calamity"
+    },
+    {
+      "resource": "DL_JP_03.EDAT/kis.dat",
+      "offset": 17789,
+      "source": "堕天使に魅了された指輪",
+      "before": "堕天使に魅了された指輪",
+      "after": "Imbuido del poder de Calamity."
+    }
+  ],
+  "all_other_talk_and_table_members_identical": true,
+  "outputs": [
+    {
+      "name": "ISO",
+      "patch": "ISO.xor.gz",
+      "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+      "target_sha256": "ece964522f6837112cec59ee0f69e00d25e47618af23e3f332fdbb1671a7a038",
+      "source_size": 858937344,
+      "target_size": 884445184
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "patch": "DL_JP_00_EDAT.xor.gz",
+      "source_sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00",
+      "target_sha256": "2ae83f14aa0ccc4c05f5f1ff3cb1a49c379218377cd51f0465038fdba96139ec",
+      "source_size": 5127190,
+      "target_size": 5235007
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "patch": "DL_JP_01_EDAT.xor.gz",
+      "source_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+      "target_sha256": "dd03210760c13cf2706b86f6148ceef2463d35f3b31ed69cc5e0fe8afd3298c1",
+      "source_size": 5203970,
+      "target_size": 5304440
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "patch": "DL_JP_02_EDAT.xor.gz",
+      "source_sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e",
+      "target_sha256": "a4dc49716ffdbc5c2a587693a8e2129a5b06b3266268803eca8e7958afd885ae",
+      "source_size": 5267964,
+      "target_size": 5370893
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "patch": "DL_JP_03_EDAT.xor.gz",
+      "source_sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e",
+      "target_sha256": "e0582b67947d248c7894ea1c0aa810cd35db10e633c00128f0d7e47089c6c841",
+      "source_size": 5348846,
+      "target_size": 5454212
+    }
+  ],
+  "limitations": [
+    "No se ha ejecutado Windows ni PPSSPP.",
+    "La apertura gráfica se conserva de RC040, sin volver a modificarla.",
+    "No se han revisado posibles variantes en imágenes no identificadas ni actualizado GitHub."
+  ],
+  "replay_originals_sha256_verified": 5,
+  "replay_log": "RC041-GUI-NATIVO | RC040 + Calamity unificado en diálogos y objetos de ISO y DLC; QA visual pendiente\nComprobando original: ISO\nComprobando original: DL_JP_00.EDAT\nComprobando original: DL_JP_01.EDAT\nComprobando original: DL_JP_02.EDAT\nComprobando original: DL_JP_03.EDAT\nAplicando parche: ISO\nVerificado SHA-256: ISO\nAplicando parche: DL_JP_00.EDAT\nVerificado SHA-256: DL_JP_00.EDAT\nAplicando parche: DL_JP_01.EDAT\nVerificado SHA-256: DL_JP_01.EDAT\nAplicando parche: DL_JP_02.EDAT\nVerificado SHA-256: DL_JP_02.EDAT\nAplicando parche: DL_JP_03.EDAT\nVerificado SHA-256: DL_JP_03.EDAT\nProceso terminado: /tmp/rc41/replay/JUEGO_PARA_PPSSPP_RC041\n"
+}

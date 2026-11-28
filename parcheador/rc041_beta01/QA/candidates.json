@@ -1,0 +1,50 @@
+[
+  {
+    "resource": "SP/talk06_jp.dat",
+    "entry": 481,
+    "offset": 49544,
+    "source": "・OK",
+    "target": "・Vale",
+    "candidate": "・Vale"
+  },
+  {
+    "resource": "SP/talk06_jp.dat",
+    "entry": 481,
+    "offset": 49566,
+    "source": "・No thanks.",
+    "target": "・No, gracias.",
+    "candidate": "・No, gracias."
+  },
+  {
+    "resource": "SP/talk08_jp.dat",
+    "entry": 647,
+    "offset": 111803,
+    "source": "・OK",
+    "target": "・Vale",
+    "candidate": "・Vale"
+  },
+  {
+    "resource": "SP/talk08_jp.dat",
+    "entry": 647,
+    "offset": 111825,
+    "source": "・No thanks.",
+    "target": "・No, gracias.",
+    "candidate": "・No, gracias."
+  },
+  {
+    "resource": "SP/talk09_jp.dat",
+    "entry": 647,
+    "offset": 111862,
+    "source": "・OK",
+    "target": "・Vale",
+    "candidate": "・Vale"
+  },
+  {
+    "resource": "SP/talk09_jp.dat",
+    "entry": 647,
+    "offset": 111884,
+    "source": "・No thanks.",
+    "target": "・No, gracias.",
+    "candidate": "・No, gracias."
+  }
+]
