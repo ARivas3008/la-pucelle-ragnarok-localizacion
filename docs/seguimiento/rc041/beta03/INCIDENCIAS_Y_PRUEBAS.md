@@ -26,7 +26,7 @@ Rama documental basada en BETA02 Compacta; no implica que el código fuente BETA
 - Objetos, Equipar, Estado, Habilidades, Ordenar: accesibles; incidencias visuales abiertas; no equivale a todas las operaciones funcionales.
 - Entrenar: no disponible en progreso actual.
 - Fin: vuelve al título. Guardar: ranura nueva creada y SFO leído.
-- Seguir → seleccionar ranura → Load completed: PASS para lectura del guardado; retorno a escena en comprobación.
+- Seguir → seleccionar ranura → Load completed: PASS para lectura del guardado; retorno al patio de la iglesia confirmado visualmente (45_carga_escena.png). Guardado normal funcional; no depende de save states.
 - Pendientes: todas las tiendas, combate, habilidades ejecutadas, entrenamiento, capítulos y finales, DLC en ejecución, regresión tipográfica, títulos de guardado de todos los capítulos, comparación PSP español.
 
 ## Política de cierre
