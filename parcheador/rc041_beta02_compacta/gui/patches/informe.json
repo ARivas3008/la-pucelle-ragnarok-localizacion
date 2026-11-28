@@ -1,0 +1,61 @@
+{
+  "version": "RC041 REV6 BETA02",
+  "base_sha256": "4bd82f29d2d2f33b2aa89713dae5b967e50b759861fc94f598e7133889b93342",
+  "intro_pairs": 11,
+  "intro_pixel_offset": "0xc60",
+  "intro_old_sha": "ad10a62e09bb1132de6df23e8f7eef15d57cae30beb05616260d4ff4a8b061d8",
+  "intro_new_sha": "52e61fa8c7ddc5e257d886fc0837825a6c0e0bfa497eaeb1195d3c663b1f5661",
+  "tutorial_lines_changed": 24,
+  "menu_previous_87_preserved": true,
+  "boot_menu_changes": 11,
+  "all_other_iso_files_unchanged": true,
+  "all_other_ANM_members_unchanged": true,
+  "all_other_DLC_members_unchanged": true,
+  "outputs": [
+    {
+      "name": "ISO",
+      "patch": "ISO.xor.gz",
+      "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+      "target_sha256": "dc46a91af17c0a79ed16501f994af27fca44cf2297d833b1eaad8392fed0a7fe",
+      "source_size": 858937344,
+      "target_size": 889505792
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "patch": "DL_JP_00_EDAT.xor.gz",
+      "source_sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00",
+      "target_sha256": "a7b6fb8e51c20b27f07c628522c5cf0bfb8c5b01baa7e04ef23b20cd66f49ed2",
+      "source_size": 5127190,
+      "target_size": 5254773
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "patch": "DL_JP_01_EDAT.xor.gz",
+      "source_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+      "target_sha256": "95e4afe53dda0c1a667400e01a9ea907ede081419f709402665648d2a7b9fb04",
+      "source_size": 5203970,
+      "target_size": 5365005
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "patch": "DL_JP_02_EDAT.xor.gz",
+      "source_sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e",
+      "target_sha256": "c08b3a85788de36341cc9c8069c6123093d8ec58a401d981d8e039dc6f46b74f",
+      "source_size": 5267964,
+      "target_size": 5431431
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "patch": "DL_JP_03_EDAT.xor.gz",
+      "source_sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e",
+      "target_sha256": "45456ee24de0980546f0b918392b3e1383b3fcd5372c9a5d5db077ea97305a7e",
+      "source_size": 5348846,
+      "target_size": 5515324
+    }
+  ],
+  "limitations": [
+    "RC024 acumulativa original no disponible; no se certifica recuperación histórica exhaustiva.",
+    "Los antiguos menús se conservan binariamente; su visualización debe validarse en ejecución.",
+    "Sin certificación Windows ni hardware PSP."
+  ]
+}

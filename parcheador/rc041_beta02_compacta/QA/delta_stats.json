@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ISO",
+    "compressed_bytes": 12448558,
+    "raw_bytes": 25135648,
+    "sha256": "fd575381d219fddba34fec69ef3cbee94169c6326e143ce5c5a1f5b13d1b0fc3",
+    "matcher": "866761532 literal=22744260 commands=264863"
+  },
+  {
+    "name": "DL_JP_00.EDAT",
+    "compressed_bytes": 1721013,
+    "raw_bytes": 3248238,
+    "sha256": "837a42e8a76e9000ad4f78e8035d02000f0a170e0dbd9b497bc1b36fa779585a",
+    "matcher": "2867414 literal=2387359 commands=95526"
+  },
+  {
+    "name": "DL_JP_01.EDAT",
+    "compressed_bytes": 1749660,
+    "raw_bytes": 3328616,
+    "sha256": "b444150cfe538a7e03575e59120543dbf84d38c34d4851086ecfb1325c225f21",
+    "matcher": "2912077 literal=2452928 commands=97171"
+  },
+  {
+    "name": "DL_JP_02.EDAT",
+    "compressed_bytes": 1775592,
+    "raw_bytes": 3367751,
+    "sha256": "e5bc16543bdfa82aef0ee8763683e30cac36381133ee7dd580815f0bb7b7c8f7",
+    "matcher": "2948742 literal=2482689 commands=98217"
+  },
+  {
+    "name": "DL_JP_03.EDAT",
+    "compressed_bytes": 1805630,
+    "raw_bytes": 3418108,
+    "sha256": "ebe40062419b2d31a0fbb6b2da30f18abef080de0acf6350b0e07106abd358ec",
+    "matcher": "2996192 literal=2519132 commands=99763"
+  }
+]

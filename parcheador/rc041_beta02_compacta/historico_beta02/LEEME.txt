@@ -1,0 +1,1 @@
+BETA02 acumulativa: ISO y cuatro DLC se verificaron desde originales. El código de laboratorio depende de rutas de trabajo y no incluye las ISO, DLC, texturas extraídas ni flujos XOR. PPSSPP 1.20.4 arrancó y se observó la primera línea de la introducción en la candidata con idéntico recurso ANM; no certifica las restantes escenas ni la GUI Windows.

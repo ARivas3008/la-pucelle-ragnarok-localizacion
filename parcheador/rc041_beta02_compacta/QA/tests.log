@@ -1,0 +1,24 @@
+=== RUN   TestCompact
+=== RUN   TestCompact/copy
+=== RUN   TestCompact/literal
+=== RUN   TestCompact/bad_source
+=== RUN   TestCompact/bad_target
+=== RUN   TestCompact/bad_op
+=== RUN   TestCompact/zero_len
+=== RUN   TestCompact/short
+=== RUN   TestCompact/trailing
+=== RUN   TestCompact/short_target
+--- PASS: TestCompact (0.00s)
+    --- PASS: TestCompact/copy (0.00s)
+    --- PASS: TestCompact/literal (0.00s)
+    --- PASS: TestCompact/bad_source (0.00s)
+    --- PASS: TestCompact/bad_target (0.00s)
+    --- PASS: TestCompact/bad_op (0.00s)
+    --- PASS: TestCompact/zero_len (0.00s)
+    --- PASS: TestCompact/short (0.00s)
+    --- PASS: TestCompact/trailing (0.00s)
+    --- PASS: TestCompact/short_target (0.00s)
+=== RUN   TestCRC
+--- PASS: TestCRC (0.00s)
+PASS
+ok  	_/tmp/lp_compact/gui	0.002s
