@@ -31,3 +31,27 @@ Rama documental basada en BETA02 Compacta; no implica que el código fuente BETA
 
 ## Política de cierre
 Cada incidencia requiere reproducción antes/después en la misma ruta, captura, hash de build, control de datos y resultado funcional. Los nombres de evidencia son referencias a archivos locales de QA, no enlaces publicados. No declarar 100 % por un arranque o por cobertura parcial.
+
+## Sesión siguiente — mapa mundial y Rosenqueen
+
+PPSSPP 1.20.4, misma ISO BETA03, continuación desde partida normal cargada. Capturas locales bajo `qa_beta03_combate/` (no subidas como binarios).
+
+| Prueba | Resultado | Evidencia |
+|---|---|---|
+| Iglesia → Calle Mayor → Mapa del mundo | PASS; «Mapa del mundo» y «Ciudad Pot-au-Feu» legibles | 05_calle_derecha.png, 09_mapa_sel.png |
+| Seleccionar Pot-au-Feu y regresar desde mapa | PASS; nuevo sector urbano accesible | 14_retorno.png |
+| Conversación NPC urbano | PASS en muestra; tildes y signos de apertura visibles | 17_npc.png, 20_npc.png |
+| Entrada a tienda Rosenqueen | PASS; rótulo y bienvenida en español | 27_entrada.png, 29_interior.png, 32_menu_tienda.png |
+| Menú comercial | PASS accesibilidad; Comprar/Vender visibles; Encuesta deshabilitada en progreso actual | 35_tienda_menu.png |
+| Catálogo y descripción de Puño viril | PASS en muestra, con siglas pendientes | 36_catalogo.png |
+| Compra real de Puño viril | PASS; 300 → 218 Pr, coste 82; objeto añadido a inventario de venta; plazas 250 → 249 | 36_catalogo.png, 39_compra_resultado.png, 42_vender.png |
+| Venta real de Puño viril | PASS; 218 → 259 Pr, ingreso 41; objeto eliminado; plazas 249 → 250 | 43_vender_puno.png, 45_venta_resultado.png |
+
+### Incidencias nuevas y ampliaciones
+- **B03-011 (alta, abierta)**: confirmación de compra presenta «Com» aislado; persistente en dos capturas separadas, sin texto completo. Reproducir con Puño viril y otros artículos; revisar cadena/longitud/terminador, mostrar confirmación natural completa. Evidencias 37_compra_confirmacion.png y 38_compra_texto.png.
+- **B03-012 (media, abierta)**: confirmación de venta muestra «Vende :» y ambas confirmaciones muestran «Ok». Mejorar redacción y puntuación, verificar si el espacio antes de dos puntos es parte del recurso. Evidencia 44_venta_confirmacion.png.
+- **B03-013 (media, abierta)**: etiquetas «Resta» y «Rango tienda» poco naturales/ambiguas. El contador Resta varía 250→249→250 al comprar/vender; parece plazas disponibles, verificar semántica original antes de traducir. Evidencias 35_tienda_menu.png, 36_catalogo.png, 39_compra_resultado.png, 45_venta_resultado.png.
+- **B03-001 ampliada**: tres ejemplares de Pastilla para la tos concatenan descripción con nombre en lista de venta, superponen precio y salen del panel; también en encabezado de detalle. Reproducido fuera del inventario general. Evidencias 42_vender.png, 45_venta_resultado.png.
+- **B03-005 ampliada**: panel comercial conserva Lv, HP, ATK, DEF, HIT, MV, SP, INT, SPD, RES, además de ATQ.; revisar convención global, no asumir que todas deban sustituirse. Evidencia 36_catalogo.png.
+
+Pendiente: Encuesta, otros NPC/establecimientos, desbloqueo de destino de combate (solo Pot-au-Feu accesible en mapa observado), combate y DLC. No se guardaron sobre la partida normal las transacciones de prueba. No se alteró el ejecutable ni la ISO.
