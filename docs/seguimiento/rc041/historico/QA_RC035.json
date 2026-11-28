@@ -1,0 +1,1130 @@
+{
+  "version": "RC035",
+  "base_sha256": "5572056b2bd6597a9347db617a8fd58f5df8bf77325c1564e04214d32a2f6fee",
+  "iso_sha256": "bd31d0bb5d115c57647723a9e4f7b587667843be75b82fc62b05971c46089c1b",
+  "intro": {
+    "member": "anm3000.dat",
+    "before_sha256": "4b985673ab0a62d0907214192674476d6c51750e0261915fad9709c18c9f1de3",
+    "after_sha256": "1581c988fb3c8946e0c154e338f4ac1f3c2701be39a344a641f086e6402bdefc",
+    "pairs": [
+      {
+        "main": 1,
+        "shadow": 2,
+        "text": "Esta es una leyenda que se ha transmitido desde tiempos remotos…",
+        "width": 366,
+        "height": 19,
+        "cut": [
+          372,
+          25
+        ],
+        "horizontal_scale": 0.697
+      },
+      {
+        "main": 3,
+        "shadow": 4,
+        "text": "«Cuando renazca el Príncipe de las Tinieblas, aparecerá la Santa Doncella».",
+        "width": 307,
+        "height": 18,
+        "cut": [
+          313,
+          24
+        ],
+        "horizontal_scale": 0.524
+      },
+      {
+        "main": 7,
+        "shadow": 8,
+        "text": "El Príncipe de las Tinieblas,",
+        "width": 126,
+        "height": 19,
+        "cut": [
+          132,
+          25
+        ],
+        "horizontal_scale": 0.588
+      },
+      {
+        "main": 5,
+        "shadow": 6,
+        "text": "amado por el ángel caído Calamity y rebelde contra la humanidad,",
+        "width": 363,
+        "height": 18,
+        "cut": [
+          369,
+          24
+        ],
+        "horizontal_scale": 0.699
+      },
+      {
+        "main": 9,
+        "shadow": 10,
+        "text": "sumirá al mundo en la oscuridad con su poder.",
+        "width": 262,
+        "height": 11,
+        "cut": [
+          268,
+          17
+        ],
+        "horizontal_scale": 0.718
+      },
+      {
+        "main": 11,
+        "shadow": 12,
+        "text": "Donde hay tinieblas, también hay luz.",
+        "width": 124,
+        "height": 18,
+        "cut": [
+          130,
+          24
+        ],
+        "horizontal_scale": 0.422
+      },
+      {
+        "main": 15,
+        "shadow": 16,
+        "text": "Cuando el príncipe despierte, una joven aparecerá",
+        "width": 314,
+        "height": 19,
+        "cut": [
+          320,
+          25
+        ],
+        "horizontal_scale": 0.797
+      },
+      {
+        "main": 13,
+        "shadow": 14,
+        "text": "para salvar al mundo.",
+        "width": 107,
+        "height": 18,
+        "cut": [
+          113,
+          24
+        ],
+        "horizontal_scale": 0.625
+      },
+      {
+        "main": 17,
+        "shadow": 18,
+        "text": "Ella es la Doncella de la Luz,",
+        "width": 107,
+        "height": 18,
+        "cut": [
+          113,
+          24
+        ],
+        "horizontal_scale": 0.486
+      },
+      {
+        "main": 21,
+        "shadow": 22,
+        "text": "mensajera de la diosa Poitreene",
+        "width": 208,
+        "height": 18,
+        "cut": [
+          292,
+          24
+        ],
+        "horizontal_scale": 0.837
+      },
+      {
+        "main": 19,
+        "shadow": 20,
+        "text": "y artífice de milagros.",
+        "width": 124,
+        "height": 18,
+        "cut": [
+          130,
+          24
+        ],
+        "horizontal_scale": 0.732
+      }
+    ],
+    "original_geometry_preserved": true,
+    "outside_authorized_pixels_preserved": true
+  },
+  "dialogue": {
+    "recovered": [
+      {
+        "resource": "talk10_jp.dat",
+        "source_offset": 123626,
+        "entry_id": 1003,
+        "source": [
+          "Ｉ　ｈａｖｅ　ｂｅｅｎ　ｗａｉｔｉｎｇ",
+          "ｆｏｒ　ｙｏｕ。"
+        ],
+        "spanish": "Te estaba esperando.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Te estaba",
+          "esperando."
+        ]
+      },
+      {
+        "resource": "talk10_jp.dat",
+        "source_offset": 123698,
+        "entry_id": 1003,
+        "source": [
+          "Ｈｅｙ、　ａｒｅ　ｙｏｕ　ｎｏｔ。。。？"
+        ],
+        "spanish": "Oye, ¿tú no eres...?",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Oye, ¿tú no eres...?"
+        ]
+      },
+      {
+        "resource": "talk10_jp.dat",
+        "source_offset": 128343,
+        "entry_id": 1004,
+        "source": [
+          "Ｔｈｅ　ｄａｒｋ　ｅｎｅｒｇｉｅｓ　ｍｕｓｔ",
+          "ｈａｖｅ　ｗｅａｋｅｎｅｄ。"
+        ],
+        "spanish": "La energía oscura debe de haberse debilitado.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "La energía oscura debe de",
+          "haberse debilitado."
+        ]
+      },
+      {
+        "resource": "talk10_jp.dat",
+        "source_offset": 128433,
+        "entry_id": 1004,
+        "source": [
+          "Ｔｈｉｓ　ｔｒｅｅ。。。！"
+        ],
+        "spanish": "¡Este árbol...!",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¡Este árbol...!"
+        ]
+      },
+      {
+        "resource": "talk10_jp.dat",
+        "source_offset": 136794,
+        "entry_id": 1007,
+        "source": [
+          "Ｙｏｕ　ｓｅｅｍ　ｗｏｒｒｉｅｄ　ａｂｏｕｔ",
+          "ｈｉｍ。"
+        ],
+        "spanish": "Parece que estás preocupado por él.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Parece que estás preocupado",
+          "por él."
+        ]
+      },
+      {
+        "resource": "talk10_jp.dat",
+        "source_offset": 136864,
+        "entry_id": 1007,
+        "source": [
+          "Ｙｅｓ。。。Ｔｈｅ　ｎｉｇｈｔ　ｉｓ　ｎｏｔ",
+          "ｇｏｏｄ　ｆｏｒ　ｈｉｍ。。。"
+        ],
+        "spanish": "Sí... La noche no le sienta bien...",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Sí... La noche no le sienta",
+          "bien..."
+        ]
+      },
+      {
+        "resource": "talk10_jp.dat",
+        "source_offset": 147233,
+        "entry_id": 1008,
+        "source": [
+          "Ｗｈａｔ　ｉｓ　ｇｏｉｎｇ　ｏｎ",
+          "ｈｅｒｅ？！"
+        ],
+        "spanish": "¿¡Qué está pasando aquí!?",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¿¡Qué está pasando",
+          "aquí!?"
+        ]
+      },
+      {
+        "resource": "talk10_jp.dat",
+        "source_offset": 147295,
+        "entry_id": 1008,
+        "source": [
+          "Ｔｈｅｓｅ　ｇｕｙｓ　ａｒｅ　ｆｏｌｌｏｗｅｒｓ",
+          "ｏｆ　Ｐｏｉｔｒｅｅｎｅ！"
+        ],
+        "spanish": "¡Estos tipos son seguidores de Poitreene!",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¡Estos tipos son seguidores",
+          "de Poitreene!"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 101560,
+        "entry_id": 1101,
+        "source": [
+          "Ｉ　ｗｉｌｌ　ｄｅｓｔｒｏｙ　ｙｏｕ、　ｌｉｋｅ",
+          "Ｉ　ｄｅｓｔｒｏｙｅｄ　ａｌｌ　ｔｈｅ",
+          "Ｍａｉｄｅｎｓ　ｏｆ　Ｌｉｇｈｔ　ｂｅｆｏｒｅ",
+          "ｙｏｕ！！"
+        ],
+        "spanish": "¡Te destruiré, como destruí a todas las Doncellas de la Luz antes que a ti!",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¡Te destruiré, como destruí",
+          "a todas las Doncellas de la",
+          "Luz antes que a",
+          "ti!"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 101725,
+        "entry_id": 1101,
+        "source": [
+          "Ｍａｉｄｅｎ！"
+        ],
+        "spanish": "¡Doncella!",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¡Doncella!"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 101938,
+        "entry_id": 1101,
+        "source": [
+          "Ｗｅ　ｗｅｒｅ　ｗｏｒｒｉｅｄ　ａｂｏｕｔ",
+          "ｙｏｕ。。。"
+        ],
+        "spanish": "Estábamos preocupados por ti...",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Estábamos preocupados por",
+          "ti..."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 102010,
+        "entry_id": 1101,
+        "source": [
+          "Ｌｉｓｔｅｎ　ｃａｒｅｆｕｌｌｙ。。。"
+        ],
+        "spanish": "Escucha con atención...",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Escucha con atención..."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 102267,
+        "entry_id": 1101,
+        "source": [
+          "Ｉ　ｈａｖｅ　ｊｕｓｔ　ｅｎｏｕｇｈ",
+          "ｐｏｗｅｒ　ｌｅｆｔ　ｔｏ　ｓｅａｌ　ｔｈｅ",
+          "Ｄａｒｋ　Ｐｒｉｎｃｅ。"
+        ],
+        "spanish": "Solo me queda poder suficiente para sellar al Príncipe de las Tinieblas.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Solo me queda poder",
+          "suficiente para sellar al",
+          "Príncipe de las Tinieblas."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 102387,
+        "entry_id": 1101,
+        "source": [
+          "Ｓｅａｌ　ｈｉｍ　ｉｎ？"
+        ],
+        "spanish": "¿Sellarlo?",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¿Sellarlo?"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 103272,
+        "entry_id": 1101,
+        "source": [
+          "Ｔｈｅ　ｆｌａｍｅ　ｔｈａｔ　ｉｓ　ｍｙ",
+          "ｌｉｆｅ　ｗｉｌｌ　ｆｌｉｃｋｅｒ　ａｎｄ　ｇｏ",
+          "ｏｕｔ。"
+        ],
+        "spanish": "La llama de mi vida parpadeará hasta apagarse.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "La llama de mi vida",
+          "parpadeará hasta",
+          "apagarse."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 103384,
+        "entry_id": 1101,
+        "source": [
+          "Ｙｏｕ　ｍｅａｎ　ｙｏｕ",
+          "ｗｉｌｌ。。。ｄｉｅ？"
+        ],
+        "spanish": "¿Quieres decir que... morirás?",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¿Quieres decir que...",
+          "morirás?"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 105015,
+        "entry_id": 1101,
+        "source": [
+          "Ｂｕｔ　ｉｆ　ｙｏｕ　ｆｏｕｇｈｔ　ｔｈｅ",
+          "Ｄａｒｋ　Ｐｒｉｎｃｅ　５０　ｙｅａｒｓ",
+          "ａｇｏ、　ｔｈａｔ　ｗｏｕｌｄ　ｍｅａｎ",
+          "ｙｏｕ。。。"
+        ],
+        "spanish": "Pero si luchaste contra el Príncipe de las Tinieblas hace cincuenta años, eso significa que tú...",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Pero si luchaste contra el",
+          "Príncipe de las Tinieblas",
+          "hace cincuenta años, eso",
+          "significa que tú..."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 105172,
+        "entry_id": 1101,
+        "source": [
+          "Ｉｔ　ｍｅａｎｓ　Ｉ　ｃｏｕｌｄ　ｂｅ",
+          "ｙｏｕｒ　ｇｒａｎｄｍｏｔｈｅｒ。"
+        ],
+        "spanish": "Significa que podría ser tu abuela.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Significa que podría ser tu",
+          "abuela."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 106621,
+        "entry_id": 1101,
+        "source": [
+          "Ａｎｄ　ｄｅｆｅａｔｉｎｇ　ｔｈｅ　Ｄａｒｋ",
+          "Ｐｒｉｎｃｅ　ｍｅａｎｓ　ｋｉｌｌｉｎｇ",
+          "Ｃｒｏｉｘ。。。"
+        ],
+        "spanish": "Y derrotar al Príncipe de las Tinieblas significa matar a Croix...",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Y derrotar al Príncipe de",
+          "las Tinieblas significa",
+          "matar a Croix..."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 106741,
+        "entry_id": 1101,
+        "source": [
+          "Ｉ　ｄｏ　ｎｏｔ　ｋｎｏｗ　ｉｆ　ｓｈｅ",
+          "ｃａｎ　ｈａｎｄｌｅ　ｔｈａｔ。。。"
+        ],
+        "spanish": "No sé si ella podrá soportarlo...",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "No sé si ella podrá",
+          "soportarlo..."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 108025,
+        "entry_id": 1101,
+        "source": [
+          "Ｗｈａｔ　ｉｓ　ｗｒｏｎｇ、　Ｓｉｓｔｅｒ",
+          "Ａｌｏｕｅｔｔｅ？"
+        ],
+        "spanish": "¿Qué sucede, hermana Alouette?",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¿Qué sucede, hermana",
+          "Alouette?"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 108103,
+        "entry_id": 1101,
+        "source": [
+          "Ｉ　ａｍ　ｔｅｒｒｉｂｌｙ　ｓｏｒｒｙ、　ｂｕｔ",
+          "Ｉ　ｃａｎｎｏｔ　ｇｏ。"
+        ],
+        "spanish": "Lo siento muchísimo, pero no puedo ir.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Lo siento muchísimo, pero no",
+          "puedo ir."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 108860,
+        "entry_id": 1101,
+        "source": [
+          "Ｙｏｕ　ｃａｎｎｏｔ　ｄｉｅ、　Ｓｉｓｔｅｒ",
+          "Ａｌｏｕｅｔｔｅ！！"
+        ],
+        "spanish": "¡No puedes morir, hermana Alouette!",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¡No puedes morir, hermana",
+          "Alouette!"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 108942,
+        "entry_id": 1101,
+        "source": [
+          "Ｔｈａｔ　ｅｘｐｌａｉｎｓ　ｔｈｅ　ｗａｙ",
+          "ｙｏｕ　ｈａｖｅ　ｂｅｅｎ　ａｃｔｉｎｇ",
+          "ｒｅｃｅｎｔｌｙ。"
+        ],
+        "spanish": "Eso explica cómo te has comportado últimamente.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Eso explica cómo te has",
+          "comportado",
+          "últimamente."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 109055,
+        "entry_id": 1101,
+        "source": [
+          "Ｙｏｕ　ｈａｖｅ　ｂｅｅｎ　ｈｕｒｒｙｉｎｇ",
+          "ｕｓ　ａｌｏｎｇ　ｂｅｃａｕｓｅ　ｙｏｕ",
+          "ｋｎｅｗ　ｙｏｕ　ｗｏｕｌｄ　ｂｅ",
+          "ｄｙｉｎｇ　ｓｏｏｎ。。。"
+        ],
+        "spanish": "Nos has estado metiendo prisa porque sabías que ibas a morir pronto...",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Nos has estado metiendo",
+          "prisa porque sabías que ibas",
+          "a morir",
+          "pronto..."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 112248,
+        "entry_id": 1102,
+        "source": [
+          "Ｉｔ　ｉｓ　ｍｅ。　Ｈｅｒｍｅｓ　ｆｒｏｍ",
+          "Ｃａｓｔｌｅ　Ｃｒｅｓｓｏｎ。"
+        ],
+        "spanish": "Soy yo. Hermes, del castillo de Cresson.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Soy yo. Hermes, del castillo",
+          "de Cresson."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 112338,
+        "entry_id": 1102,
+        "source": [
+          "Ｈｅｒｍｅｓ？！"
+        ],
+        "spanish": "¿¡Hermes!?",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¿¡Hermes!?"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 112370,
+        "entry_id": 1102,
+        "source": [
+          "Ｙｏｕ　ｇｏｔ　ｉｔ。",
+          "Ｓｏ　ｙｏｕ　ｒｅｍｅｍｂｅｒ　ｍｅ、",
+          "ｄｏ　ｙｏｕ？"
+        ],
+        "spanish": "Exacto. Así que te acuerdas de mí, ¿eh?",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Exacto. Así que te acuerdas",
+          "de mí,",
+          "¿eh?"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 112464,
+        "entry_id": 1102,
+        "source": [
+          "Ｗ－ｗｈｏ　ｉｓ　ｉｔ、　Ｃｕｌｏｔｔｅ？"
+        ],
+        "spanish": "¿Q-quién es, Culotte?",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¿Q-quién es, Culotte?"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 114399,
+        "entry_id": 1102,
+        "source": [
+          "Ｗｈａｔ　ｓｈａｌｌ　ｗｅ　ｄｏ、",
+          "Ｃｕｌｏｔｔｅ？"
+        ],
+        "spanish": "¿Qué hacemos, Culotte?",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¿Qué hacemos,",
+          "Culotte?"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 114467,
+        "entry_id": 1102,
+        "source": [
+          "Ｔｈｅｒｅ　ｉｓ　ｎｏ　ｔｉｍｅ　ｔｏ",
+          "ｗａｓｔｅ。　Ｈｕｒｒｙ　ｕｐ。"
+        ],
+        "spanish": "No hay tiempo que perder. ¡Date prisa!",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "No hay tiempo que perder.",
+          "¡Date prisa!"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 131641,
+        "entry_id": 1108,
+        "source": [
+          "Ｓｏ　Ｉ　ｗｉｌｌ　ｎｏｔ　ｂｅ　ａ",
+          "ｂｕｒｄｅｎ　ｔｏ　ｙｏｕ　ａｎｙ",
+          "ｌｏｎｇｅｒ。"
+        ],
+        "spanish": "Así dejaré de ser una carga para ti.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Así dejaré de ser una carga",
+          "para",
+          "ti."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 131741,
+        "entry_id": 1108,
+        "source": [
+          "Ｙｏｕｒ　ｏｔｈｅｒ　ｓｅｌｆ？"
+        ],
+        "spanish": "¿Tu otro yo?",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¿Tu otro yo?"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 132598,
+        "entry_id": 1108,
+        "source": [
+          "Ｉ　ｔｈｏｕｇｈｔ　ｙｏｕ　ｗｅｒｅ　ｃｕｔｅ",
+          "ｂｅｆｏｒｅ、　ｂｕｔ　ｙｏｕ　ａｒｅ",
+          "ｐｏｓｉｔｉｖｅｌｙ　ｒａｖｉｓｈｉｎｇ",
+          "ｎｏｗ。"
+        ],
+        "spanish": "Ya me parecías guapa antes, pero ahora estás deslumbrante.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Ya me parecías guapa antes,",
+          "pero ahora",
+          "estás",
+          "deslumbrante."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 132753,
+        "entry_id": 1108,
+        "source": [
+          "Ｈｅｌｌｏ？！",
+          "Ｗｅ　ａｒｅ　ｉｎ　ｔｈｅ　ｍｉｄｄｌｅ",
+          "ｏｆ　ａ　ｂａｔｔｌｅ　ｈｅｒｅ！"
+        ],
+        "spanish": "¿¡Hola!? ¡Estamos en plena batalla!",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "¿¡Hola!? ¡Estamos en",
+          "plena",
+          "batalla!"
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 135364,
+        "entry_id": 1105,
+        "source": [
+          "Ｂｕｔ　ｉｆ　Ａｌｏｕｅｔｔｅ　ｄｉｅｓ、",
+          "ｈｅｒ　ｓｐｅｌｌ　ｗｉｌｌ　ｂｅ",
+          "ｂｒｏｋｅｎ、　ａｎｄ　ｈｅ　ｗｉｌｌ",
+          "ｏｎｃｅ　ａｇａｉｎ　ｂｅｃｏｍｅ",
+          "ｔｈｅ　Ｄａｒｋ　Ｐｒｉｎｃｅ。"
+        ],
+        "spanish": "Pero si Alouette muere, su hechizo se romperá y él volverá a convertirse en el Príncipe de las Tinieblas.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Pero si Alouette muere, su",
+          "hechizo se romperá y él",
+          "volverá a convertirse en el",
+          "Príncipe de las",
+          "Tinieblas."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 138975,
+        "entry_id": 1106,
+        "source": [
+          "Ｙｏｕ　ｈａｖｅ　ｔｈｒｏｗｎ　ａｗａｙ",
+          "ｙｏｕｒ　ｅｎｔｉｒｅ　ｌｉｆｅ　ｔｏ　ｈｅｌｐ",
+          "ｍｅ。。。"
+        ],
+        "spanish": "Has renunciado a toda tu vida para ayudarme...",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "Has renunciado a toda tu",
+          "vida para",
+          "ayudarme..."
+        ]
+      },
+      {
+        "resource": "talk11_jp.dat",
+        "source_offset": 139093,
+        "entry_id": 1106,
+        "source": [
+          "Ｉ　ｈａｖｅ　ｎｏｔ　ｔｈｒｏｗｎ",
+          "ａｎｙｔｈｉｎｇ　ａｗａｙ。　Ｉ　ｃｏｕｌｄ",
+          "ｎｏｔ　ｂｅ　ｍｏｒｅ　ｓａｔｉｓｆｉｅｄ",
+          "ｗｉｔｈ　ｔｈｅ　ｗａｙ　Ｉ　ｈａｖｅ",
+          "ｌｉｖｅｄ　ｍｙ　ｌｉｆｅ。"
+        ],
+        "spanish": "No he renunciado a nada. No podría estar más a gusto con la vida que he llevado.",
+        "method": "ancla editorial SHA256",
+        "lines": [
+          "No he renunciado a nada. No",
+          "podría estar más a gusto con",
+          "la vida que",
+          "he",
+          "llevado."
+        ]
+      }
+    ],
+    "relocated_anchors": [
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        102525,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        102525
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        102889,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        102889
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        103222,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        103222
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        103305,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        103305
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        103644,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        103644
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        104263,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        104263
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        104435,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        104435
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        106890,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        106890
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        107353,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        107353
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        117737,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        117737
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        117792,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        117792
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        120046,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        120046
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        120118,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        120118
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        123626,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        123626
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        123698,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        123698
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        128343,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        128343
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        128433,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        128433
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        136794,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        136794
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        136864,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        136864
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        147233,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        147233
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        147295,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk10_jp.dat",
+        147295
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        101560,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        101560
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        101725,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        101725
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        101938,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        101938
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        102010,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        102010
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        102267,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        102267
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        102387,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        102387
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        103272,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        103272
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        103384,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        103384
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        105015,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        105015
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        105172,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        105172
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        106621,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        106621
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        106741,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        106741
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        108025,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        108025
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        108103,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        108103
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        108860,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        108860
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        108942,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        108942
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        109055,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        109055
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        112248,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        112248
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        112338,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        112338
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        112370,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        112370
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        112464,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        112464
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        114399,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        114399
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        114467,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        114467
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        131641,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        131641
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        131741,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        131741
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        132598,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        132598
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        132753,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        132753
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        135364,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        135364
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        135575,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        135575
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        138975,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        138975
+      ],
+      [
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk09_jp.dat",
+        139093,
+        "ISO/PSP_GAME/USRDIR/SCRIPTPACK.DAT/talk11_jp.dat",
+        139093
+      ]
+    ],
+    "skipped": {
+      "sin correspondencia editorial íntegra": 458,
+      "ya modificado o ambiguo": 257,
+      "no cabe en slots / controles": 1
+    },
+    "scriptpack_members": 2
+  },
+  "scriptpack_changed_members": [
+    "talk10_jp.dat",
+    "talk11_jp.dat"
+  ],
+  "all_previous_bytes_outside_authorized_intervals_preserved": true,
+  "dlc_unchanged_from_RC034": true,
+  "windows_gui_executed": false,
+  "ppsspp": false,
+  "limitations": [
+    "No se dispone de RC024 física, ni se certifica que todos los diálogos históricos estén recuperados.",
+    "Se han recuperado 38 bloques de la lista de 1342; otros bloques requieren reconciliación.",
+    "La leyenda se comprime horizontalmente en los recortes cortos originales; requiere validación visual.",
+    "Espaciado global y gráficos históricos pendientes."
+  ],
+  "verification": {
+    "replay_from_original_iso_and_4_dlc": true,
+    "engine_platform": "Linux",
+    "windows_binary": "PE32+ GUI x64",
+    "exe_sha256": "eb9f62ea6d8de214b6d33c4f4364dd13f301d92fcfba8f8071ef46d5203adb3f",
+    "outputs_manifest": [
+      {
+        "name": "ISO",
+        "patch": "ISO.xor.gz",
+        "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+        "target_sha256": "bd31d0bb5d115c57647723a9e4f7b587667843be75b82fc62b05971c46089c1b",
+        "source_size": 858937344,
+        "target_size": 875943936
+      },
+      {
+        "name": "DL_JP_00.EDAT",
+        "patch": "DL_JP_00_EDAT.xor.gz",
+        "source_sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00",
+        "target_sha256": "e8a639de1508377c5dbb9c6dacd2682fee68ddaecb23f5d7f9f2575cb87f6884",
+        "source_size": 5127190,
+        "target_size": 5228514
+      },
+      {
+        "name": "DL_JP_01.EDAT",
+        "patch": "DL_JP_01_EDAT.xor.gz",
+        "source_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+        "target_sha256": "919511016ce69ab9a61511c292bffabe7389b707dd982dbb96d8b51268d9858c",
+        "source_size": 5203970,
+        "target_size": 5297036
+      },
+      {
+        "name": "DL_JP_02.EDAT",
+        "patch": "DL_JP_02_EDAT.xor.gz",
+        "source_sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e",
+        "target_sha256": "f8b16920743587969eaa65300603e1722ba50c526a2752fe1ec7af557e44f1c2",
+        "source_size": 5267964,
+        "target_size": 5363461
+      },
+      {
+        "name": "DL_JP_03.EDAT",
+        "patch": "DL_JP_03_EDAT.xor.gz",
+        "source_sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e",
+        "target_sha256": "2f3956078ea8d55fab53453c8ee07242a1470e99d1ad7188b7e87c6b457a9003",
+        "source_size": 5348846,
+        "target_size": 5446801
+      }
+    ]
+  }
+}

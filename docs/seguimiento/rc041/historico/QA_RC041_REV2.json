@@ -1,0 +1,103 @@
+{
+  "version": "RC041-REV2",
+  "base_sha256": "ece964522f6837112cec59ee0f69e00d25e47618af23e3f332fdbb1671a7a038",
+  "changes": 4909,
+  "propagated_exact_dlc_fields": 4248,
+  "candidates": 135,
+  "skipped": 0,
+  "by_package": {
+    "ISO_START": 135,
+    "DLC_00": 121,
+    "DLC_01": 1551,
+    "DLC_02": 1551,
+    "DLC_03": 1551
+  },
+  "all_other_tables_unchanged": true,
+  "all_TALK_unchanged": true,
+  "all_other_ISO_files_unchanged": true,
+  "outputs": [
+    {
+      "name": "ISO",
+      "patch": "ISO.xor.gz",
+      "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+      "target_sha256": "a44a25ce53ddab7c69791334d030861bc56c11ff9e8346c15a4b9ef90a75ffe5",
+      "source_size": 858937344,
+      "target_size": 889489408
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "patch": "DL_JP_00_EDAT.xor.gz",
+      "source_sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00",
+      "target_sha256": "abcbed9e5e544b266fe55d4f9b58cc72831c396da558730a99b467d575d13f81",
+      "source_size": 5127190,
+      "target_size": 5238518
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "patch": "DL_JP_01_EDAT.xor.gz",
+      "source_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+      "target_sha256": "dae9540cffbddcd31cd4f171cacb64c2b7bde8c4b2ac5ebf4391f7f7870cfe6f",
+      "source_size": 5203970,
+      "target_size": 5349002
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "patch": "DL_JP_02_EDAT.xor.gz",
+      "source_sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e",
+      "target_sha256": "8c36fb2910b24839ca4abeef61354722b2b0ed2c67be6d7400a7fb70975f2124",
+      "source_size": 5267964,
+      "target_size": 5415423
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "patch": "DL_JP_03_EDAT.xor.gz",
+      "source_sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e",
+      "target_sha256": "fbb5aa0a3fdbe051183a2b45a998c39db06622cc49d6bb198c37434f7e156665",
+      "source_size": 5348846,
+      "target_size": 5498741
+    }
+  ],
+  "ppsspp": false,
+  "windows_gui": false,
+  "talk_audit": {
+    "original": 20650,
+    "actual": 20650,
+    "aligned": 20650,
+    "lines": 58162,
+    "entries": 17354,
+    "unmatched": 0,
+    "unchanged_alpha": 100,
+    "japanese_candidates": 6
+  },
+  "long_lines": 0,
+  "decode_error_candidates": 0,
+  "known_approved_graphics_exact": 21,
+  "carteles_exact": 19,
+  "intro_shadow_exact": true,
+  "map_exact": true,
+  "historical_units": 62,
+  "historical_units_in_unmodified_resources": 45,
+  "historical_units_in_modified_resources": 17,
+  "historical_closures_checked": 22,
+  "historical_closures_identical_to_original": 22,
+  "resource_inventory_graphics": 874,
+  "modified_graphic_resources": 50,
+  "windows_exe_sha256": "df508a054c38948b3c7a1fae426ddd1c6867e968c2fd466eb86b948cb9504666",
+  "embedded_streams_verified": {
+    "DL_JP_00.EDAT": "f2b0131f0073c72f83f9bb8c046819498ccad6ad08231c99b383be95ad469684",
+    "DL_JP_01.EDAT": "a3739cda745340dee30127c2814acf064b489d24f5992362bdda2afc175f3239",
+    "DL_JP_02.EDAT": "48163e41b081ee582a205d89dce8925ab9cfc36c6cf7ddf2143ae380441cb1b8",
+    "DL_JP_03.EDAT": "5f75b68f5359984ef2813f8c67c6642ea34bbb93b8b1b7d1d92ccd2fcd4fe927",
+    "ISO": "0d537968f45c1d5874d8997c16b5555c2975ca19e1c264c635bc0bafcc91f874"
+  },
+  "linux_replay_passes": 5,
+  "limitations": [
+    "No PPSSPP ni GUI Windows disponibles; no pruebas en ejecución.",
+    "No se ha recuperado RC024 ni el BPS privado de ROM039; los cierres y las ediciones gráficas históricas faltantes requieren payload aprobado o una nueva edición.",
+    "Auditoría TALK estructural y coincidencias exactas; no certifica revisión semántica de todo el juego.",
+    "Correcciones de tablas nuevas se basan en localización inglesa y anclas japonesas equivalentes; revisión contextual pendiente.",
+    "Los campos reutilizados de DLC00 mantienen traducción previa; no son traducciones nuevas.",
+    "Espaciado: no modificado sin confirmar el comportamiento del renderizador; no se puede validar por longitud de bytes.",
+    "No se han subido cambios al repositorio."
+  ]
+}

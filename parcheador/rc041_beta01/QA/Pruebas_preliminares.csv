@@ -1,0 +1,11 @@
+id,prueba,criterio,estado,evidencia
+PRE-001,Motor de parcheo REV6,Autoprueba de cinco flujos gzip,PASS,replay.log
+PRE-002,Reconstrucción ISO y cuatro DLC,Cinco SHA-256 coinciden,PASS,QA_BETA01.json
+PRE-003,Identidad de disco,"PARAM.SFO: ULJS00244, DISC_VERSION 1.01; 28 entradas del árbol",PASS,QA_BETA01.json
+PRE-004,EXE BETA01,Cinco deltas incrustados coinciden con REV6,PASS,QA_BETA01.json
+PRE-005,ISO de tamaño incorrecto,Rechazo sin salida parcial (REV6),PASS,wrong_iso.log
+PRE-006,Carpeta de salida existente,Rechazo sin sobrescritura (REV6),PASS,existing_output.log
+PRE-007,PARAM.PBP válido,Copia exacta del paquete de referencia; ISO y 4 DLC idénticos a REV6,PASS,replay_beta01.log
+PRE-008,PARAM.PBP ausente,Aviso y generación de cuatro DLC,PASS,missing_param.log
+PRE-009,PARAM.PBP no reconocido,Rechazo sin salida publicada,PASS,invalid_param.log
+PRE-010,Análisis TALK,21 recursos; 20.650 bloques alineados; 6 falsos positivos,PASS,QA_BETA01.json

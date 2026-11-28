@@ -1,0 +1,669 @@
+{
+  "version": "RC036",
+  "base_sha256": "bd31d0bb5d115c57647723a9e4f7b587667843be75b82fc62b05971c46089c1b",
+  "iso_sha256": "c2fae39c79aec6c184b8c33c4efc82b14d256d0d3c71fac1822382a0c10e4f9b",
+  "shadow_correction": {
+    "member": "anm3000.dat",
+    "original_sha256": "4b985673ab0a62d0907214192674476d6c51750e0261915fad9709c18c9f1de3",
+    "rc035_sha256": "1581c988fb3c8946e0c154e338f4ac1f3c2701be39a344a641f086e6402bdefc",
+    "rc036_sha256": "ad10a62e09bb1132de6df23e8f7eef15d57cae30beb05616260d4ff4a8b061d8",
+    "pairs": [
+      {
+        "main": 1,
+        "shadow": 2,
+        "transform_main_id": 1,
+        "transform_shadow_id": 2,
+        "main_transform": [
+          2,
+          0,
+          186,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          0,
+          3,
+          186,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          3,
+          0
+        ],
+        "old_fit_local_px": [
+          0,
+          0
+        ],
+        "new_fit_local_px": [
+          3,
+          0
+        ],
+        "original_fit_correlation": 0.8575,
+        "original_fit_rmse": 34.99,
+        "gaussian_sigma": 2.4,
+        "dilation_radius": 0,
+        "opacity_gain": 1.56639,
+        "old_effective_offset_estimate": [
+          -2.0,
+          3.0
+        ],
+        "new_effective_offset_estimate": [
+          0.25,
+          3.0
+        ],
+        "changed_pixels": 6522,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      },
+      {
+        "main": 3,
+        "shadow": 4,
+        "transform_main_id": 3,
+        "transform_shadow_id": 4,
+        "main_transform": [
+          2,
+          -1,
+          156,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          -1,
+          2,
+          156,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          4,
+          0
+        ],
+        "old_fit_local_px": [
+          0,
+          0
+        ],
+        "new_fit_local_px": [
+          4,
+          0
+        ],
+        "original_fit_correlation": 0.8586,
+        "original_fit_rmse": 37.832,
+        "gaussian_sigma": 2.4,
+        "dilation_radius": 0,
+        "opacity_gain": 1.53721,
+        "old_effective_offset_estimate": [
+          -3.0,
+          3.0
+        ],
+        "new_effective_offset_estimate": [
+          0.0,
+          3.0
+        ],
+        "changed_pixels": 5205,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      },
+      {
+        "main": 5,
+        "shadow": 6,
+        "transform_main_id": 5,
+        "transform_shadow_id": 6,
+        "main_transform": [
+          6,
+          28,
+          184,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          3,
+          31,
+          184,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          4,
+          0
+        ],
+        "old_fit_local_px": [
+          0,
+          0
+        ],
+        "new_fit_local_px": [
+          4,
+          0
+        ],
+        "original_fit_correlation": 0.852,
+        "original_fit_rmse": 37.754,
+        "gaussian_sigma": 2.4,
+        "dilation_radius": 0,
+        "opacity_gain": 1.50089,
+        "old_effective_offset_estimate": [
+          -3.0,
+          3.0
+        ],
+        "new_effective_offset_estimate": [
+          0.0,
+          3.0
+        ],
+        "changed_pixels": 6229,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      },
+      {
+        "main": 7,
+        "shadow": 8,
+        "transform_main_id": 7,
+        "transform_shadow_id": 8,
+        "main_transform": [
+          7,
+          -2,
+          66,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          4,
+          1,
+          66,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          4,
+          0
+        ],
+        "old_fit_local_px": [
+          0,
+          0
+        ],
+        "new_fit_local_px": [
+          4,
+          0
+        ],
+        "original_fit_correlation": 0.8892,
+        "original_fit_rmse": 26.141,
+        "gaussian_sigma": 2.4,
+        "dilation_radius": 0,
+        "opacity_gain": 1.50642,
+        "old_effective_offset_estimate": [
+          -3.0,
+          3.0
+        ],
+        "new_effective_offset_estimate": [
+          0.0,
+          3.0
+        ],
+        "changed_pixels": 2381,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      },
+      {
+        "main": 9,
+        "shadow": 10,
+        "transform_main_id": 9,
+        "transform_shadow_id": 10,
+        "main_transform": [
+          0,
+          0,
+          134,
+          8,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          1,
+          3,
+          137,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          4,
+          4
+        ],
+        "old_fit_local_px": [
+          3,
+          3
+        ],
+        "new_fit_local_px": [
+          4,
+          4
+        ],
+        "original_fit_correlation": 0.7893,
+        "original_fit_rmse": 47.477,
+        "gaussian_sigma": 2.0,
+        "dilation_radius": 1,
+        "opacity_gain": 0.81767,
+        "old_effective_offset_estimate": [
+          1.0,
+          1.9
+        ],
+        "new_effective_offset_estimate": [
+          1.75,
+          3.0
+        ],
+        "changed_pixels": 3991,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      },
+      {
+        "main": 11,
+        "shadow": 12,
+        "transform_main_id": 11,
+        "transform_shadow_id": 12,
+        "main_transform": [
+          3,
+          -1,
+          65,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          1,
+          2,
+          65,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          3,
+          0
+        ],
+        "old_fit_local_px": [
+          0,
+          0
+        ],
+        "new_fit_local_px": [
+          3,
+          0
+        ],
+        "original_fit_correlation": 0.8819,
+        "original_fit_rmse": 35.087,
+        "gaussian_sigma": 2.4,
+        "dilation_radius": 0,
+        "opacity_gain": 1.54101,
+        "old_effective_offset_estimate": [
+          -2.0,
+          3.0
+        ],
+        "new_effective_offset_estimate": [
+          0.25,
+          3.0
+        ],
+        "changed_pixels": 2218,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      },
+      {
+        "main": 13,
+        "shadow": 14,
+        "transform_main_id": 13,
+        "transform_shadow_id": 13,
+        "main_transform": [
+          2,
+          32,
+          56,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          2,
+          32,
+          56,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          2,
+          3
+        ],
+        "old_fit_local_px": [
+          0,
+          0
+        ],
+        "new_fit_local_px": [
+          2,
+          3
+        ],
+        "original_fit_correlation": 0.8964,
+        "original_fit_rmse": 35.002,
+        "gaussian_sigma": 2.4,
+        "dilation_radius": 0,
+        "opacity_gain": 1.52134,
+        "old_effective_offset_estimate": [
+          0.0,
+          0.0
+        ],
+        "new_effective_offset_estimate": [
+          1.5,
+          3.3
+        ],
+        "changed_pixels": 1946,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      },
+      {
+        "main": 15,
+        "shadow": 16,
+        "transform_main_id": 14,
+        "transform_shadow_id": 15,
+        "main_transform": [
+          3,
+          3,
+          160,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          1,
+          2,
+          160,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          2,
+          4
+        ],
+        "old_fit_local_px": [
+          0,
+          0
+        ],
+        "new_fit_local_px": [
+          2,
+          4
+        ],
+        "original_fit_correlation": 0.8404,
+        "original_fit_rmse": 38.616,
+        "gaussian_sigma": 2.4,
+        "dilation_radius": 0,
+        "opacity_gain": 1.50033,
+        "old_effective_offset_estimate": [
+          -2.0,
+          -1.0
+        ],
+        "new_effective_offset_estimate": [
+          -0.5,
+          3.4
+        ],
+        "changed_pixels": 5784,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      },
+      {
+        "main": 17,
+        "shadow": 18,
+        "transform_main_id": 16,
+        "transform_shadow_id": 17,
+        "main_transform": [
+          1,
+          2,
+          56,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          0,
+          2,
+          56,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          2,
+          3
+        ],
+        "old_fit_local_px": [
+          0,
+          0
+        ],
+        "new_fit_local_px": [
+          2,
+          3
+        ],
+        "original_fit_correlation": 0.8124,
+        "original_fit_rmse": 43.128,
+        "gaussian_sigma": 2.8,
+        "dilation_radius": 0,
+        "opacity_gain": 1.56805,
+        "old_effective_offset_estimate": [
+          -1.0,
+          0.0
+        ],
+        "new_effective_offset_estimate": [
+          0.5,
+          3.3
+        ],
+        "changed_pixels": 2026,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      },
+      {
+        "main": 19,
+        "shadow": 20,
+        "transform_main_id": 18,
+        "transform_shadow_id": 19,
+        "main_transform": [
+          2,
+          28,
+          65,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          1,
+          28,
+          65,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          3,
+          3
+        ],
+        "old_fit_local_px": [
+          0,
+          0
+        ],
+        "new_fit_local_px": [
+          3,
+          3
+        ],
+        "original_fit_correlation": 0.8632,
+        "original_fit_rmse": 38.437,
+        "gaussian_sigma": 2.0,
+        "dilation_radius": 1,
+        "opacity_gain": 0.78236,
+        "old_effective_offset_estimate": [
+          -1.0,
+          0.0
+        ],
+        "new_effective_offset_estimate": [
+          1.25,
+          3.3
+        ],
+        "changed_pixels": 2347,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      },
+      {
+        "main": 21,
+        "shadow": 22,
+        "transform_main_id": 20,
+        "transform_shadow_id": 21,
+        "main_transform": [
+          3,
+          3,
+          146,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "shadow_transform": [
+          2,
+          3,
+          146,
+          12,
+          75,
+          110,
+          0,
+          0
+        ],
+        "original_fit_local_px": [
+          2,
+          3
+        ],
+        "old_fit_local_px": [
+          0,
+          0
+        ],
+        "new_fit_local_px": [
+          2,
+          3
+        ],
+        "original_fit_correlation": 0.8664,
+        "original_fit_rmse": 35.484,
+        "gaussian_sigma": 2.4,
+        "dilation_radius": 0,
+        "opacity_gain": 1.5043,
+        "old_effective_offset_estimate": [
+          -1.0,
+          0.0
+        ],
+        "new_effective_offset_estimate": [
+          0.5,
+          3.3
+        ],
+        "changed_pixels": 3776,
+        "main_unchanged": true,
+        "shadow_uses_dark_clut_only": true,
+        "shadow_reread": true
+      }
+    ],
+    "changed_shadow_pixels": 42425,
+    "main_pixels_preserved": true,
+    "geometry_and_transform_tables_preserved": true,
+    "palettes_preserved": true,
+    "all_nibbles_outside_shadow_crops_preserved": true,
+    "method": "Ajuste por correlación de alfa con cada pareja japonesa original, búsqueda de desplazamiento y filtro; cálculo de posición relativa con tabla real de recortes, pivotes y escalas. La correlación es una estimación del diseño original, no una ejecución del motor.",
+    "ppsspp": false
+  },
+  "member_iso_offset": 745160704,
+  "bytes_outside_member_identical": true,
+  "iso_size_unchanged": true,
+  "dlc_deltas_identical_to_RC035": true,
+  "limitations": [
+    "No se ha ejecutado PPSSPP ni la GUI de Windows.",
+    "El desplazamiento se estima mediante comparación de máscaras originales y transformaciones reales.",
+    "Se conservan las limitaciones de traducción de RC035; no se han modificado diálogos, letras, carteles ni Mapa."
+  ],
+  "verification": {
+    "replay_checks": [
+      {
+        "name": "ISO",
+        "sha256": "c2fae39c79aec6c184b8c33c4efc82b14d256d0d3c71fac1822382a0c10e4f9b",
+        "pass_sha256": true
+      },
+      {
+        "name": "DL_JP_00.EDAT",
+        "sha256": "e8a639de1508377c5dbb9c6dacd2682fee68ddaecb23f5d7f9f2575cb87f6884",
+        "pass_sha256": true
+      },
+      {
+        "name": "DL_JP_01.EDAT",
+        "sha256": "919511016ce69ab9a61511c292bffabe7389b707dd982dbb96d8b51268d9858c",
+        "pass_sha256": true
+      },
+      {
+        "name": "DL_JP_02.EDAT",
+        "sha256": "f8b16920743587969eaa65300603e1722ba50c526a2752fe1ec7af557e44f1c2",
+        "pass_sha256": true
+      },
+      {
+        "name": "DL_JP_03.EDAT",
+        "sha256": "2f3956078ea8d55fab53453c8ee07242a1470e99d1ad7188b7e87c6b457a9003",
+        "pass_sha256": true
+      }
+    ],
+    "exe_sha256": "90fe04a41ef0919f6615c3637e5f76fd39964f1e89798839482873673e976be2",
+    "exe_size": 31240192,
+    "pe_x64_gui": true,
+    "self_test_linux": true,
+    "windows_gui_executed": false,
+    "ppsspp": false
+  }
+}

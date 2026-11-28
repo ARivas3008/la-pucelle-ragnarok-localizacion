@@ -1,0 +1,298 @@
+{
+  "alcance": "ISO de laboratorio con FontB manual y demás recursos base; no es RC024 del usuario",
+  "sha256_iso_entrada": "038eed24e3ed81f8005c089ecef2577b71f4426e92b385ad3633801d3f45d973",
+  "sha256_iso_salida": "25ffa865b1154381bcbc56dddc24d0afb96d5f12001844eb1f5ecea816db3ba6",
+  "reaplicacion_identica": true,
+  "archivos_ajenos_verificados": 20,
+  "miembros_talk_ajenos_verificados": 31,
+  "miembros_animacion_intactos": 342,
+  "carteles": 19,
+  "miembros_carteles": 18,
+  "prueba_sombras_fixture_espanol": {
+    "pares": 11,
+    "pixeles_modificados": 55994,
+    "idempotente": true,
+    "texto_principal_y_metadatos_intactos": true
+  },
+  "prueba_dialogo_mixto_fixture": "aprobada",
+  "ppsspp": false,
+  "windows_ejecucion": false,
+  "resultado": {
+    "fontb_intacta": true,
+    "graficos": {
+      "carteles": [
+        {
+          "estado": "integrado",
+          "grupo": 9433,
+          "miembro": "anm4201.dat",
+          "nombre": "Puerta Angelical",
+          "pixeles": 11813,
+          "sha256": "1a4652f3a74a34c3b671742e53d78ab67ab87da64f31e5da13cea149e7fdfc85"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9412,
+          "miembro": "anm3409.dat",
+          "nombre": "Monte Champiñón",
+          "pixeles": 13863,
+          "sha256": "40283c7d12c476be7f83e2885bcba5cc5af0eddfeddba69117b4383a69211c41"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9426,
+          "miembro": "anm3402.dat",
+          "nombre": "Puerto Mayonesa",
+          "pixeles": 10653,
+          "sha256": "859f4d4bc324c9f333d57adf94c057c56c4d501ec9df1f4d0b2997efd45854f4"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9401,
+          "miembro": "anm4007.dat",
+          "nombre": "Casa de Angélica",
+          "pixeles": 10697,
+          "sha256": "e150391eeccec4b211e0e73a31130fda60afe5b09f78235bc3197654cb5b8177"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9425,
+          "miembro": "anm4102.dat",
+          "nombre": "Biblioteca Real",
+          "pixeles": 6944,
+          "sha256": "e23fe651740108629697976d649152efc62f7bfb007b8a4e1b5803aa5d73972f"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9426,
+          "miembro": "anm4102.dat",
+          "nombre": "Puerto Mayonesa",
+          "pixeles": 10653,
+          "sha256": "859f4d4bc324c9f333d57adf94c057c56c4d501ec9df1f4d0b2997efd45854f4"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9415,
+          "miembro": "anm3602.dat",
+          "nombre": "Patio del castillo de Cresson",
+          "pixeles": 9930,
+          "sha256": "bdd9cb52b50f68ae29efbc6cbbf12585bc9abb81ee6dddcd8a02a9c3478134ec"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9422,
+          "miembro": "anm3304.dat",
+          "nombre": "Bosque Meunière",
+          "pixeles": 9729,
+          "sha256": "0e02fc9c90ff70b6fbf44f665377d26a37bbbe311dc1bd07fe90aebc770f3600"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9413,
+          "miembro": "anm3302.dat",
+          "nombre": "Castillo de Cresson",
+          "pixeles": 7125,
+          "sha256": "aca5edde1cbbbe5a4e53968c79edac8df7f58f36e732e42c69862953c3874013"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9404,
+          "miembro": "anm4103.dat",
+          "nombre": "Las tinieblas del corazón de Éclair",
+          "pixeles": 12193,
+          "sha256": "6380e96375d2e172920012d8d20bde344f7228fc007617dc02798809230a4c72"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9408,
+          "miembro": "anm3609.dat",
+          "nombre": "Habitación de Hermes",
+          "pixeles": 9410,
+          "sha256": "51ed1086a307068d0826efddf91d048f03944c23e3d11f89062859b6ca418981"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9419,
+          "miembro": "anm4003.dat",
+          "nombre": "Colina Chou-Fleur",
+          "pixeles": 12732,
+          "sha256": "b4c496c60d2b11a940a0cc93427294d046d6fc65a79a4b5f7e76152595258134"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9425,
+          "miembro": "anm3608.dat",
+          "nombre": "Biblioteca Real",
+          "pixeles": 6944,
+          "sha256": "e23fe651740108629697976d649152efc62f7bfb007b8a4e1b5803aa5d73972f"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9402,
+          "miembro": "anm4002.dat",
+          "nombre": "Ciudad deshabitada",
+          "pixeles": 7920,
+          "sha256": "1ce5edeaee3d4e18a3643e5845a59e9241d23599d054024c7ad6aa5b22070875"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9432,
+          "miembro": "anm3103.dat",
+          "nombre": "Fortaleza subterránea de Montblanc",
+          "pixeles": 12546,
+          "sha256": "e6c92c38dec91fc07a743756b1e76dbfc1c19090de6553748e9171547c54e44a"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9424,
+          "miembro": "anm3803.dat",
+          "nombre": "Cueva de las Ruinas",
+          "pixeles": 6907,
+          "sha256": "2e29e0ec9a14e1164488486818a58bee92882470b0de8be5ecfe2360a21c2b5f"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9423,
+          "miembro": "anm3102.dat",
+          "nombre": "Panza del Diablo",
+          "pixeles": 6901,
+          "sha256": "220491110be6bf424c685db496a02e49e9457a079e5e3263af3a7484e5801ca2"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9420,
+          "miembro": "anm3204.dat",
+          "nombre": "Monte Tarte",
+          "pixeles": 5619,
+          "sha256": "367040c6002f31e5eacb0f09f75611cf862da6335d12c0bd7611eea9f9946611"
+        },
+        {
+          "estado": "integrado",
+          "grupo": 9411,
+          "miembro": "anm3901.dat",
+          "nombre": "Aldea Cuscús",
+          "pixeles": 7461,
+          "sha256": "f09b14c7d2c53c24e2c4e57c9c2b3567a0c85ff917d628e2ce1bf601adaa8477"
+        }
+      ],
+      "carteles_integrados": 19,
+      "carteles_ya_presentes": 0,
+      "intro": {
+        "estado": "parcial: consultar pares",
+        "pares": [
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 1,
+            "sombra": 2
+          },
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 3,
+            "sombra": 4
+          },
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 5,
+            "sombra": 6
+          },
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 7,
+            "sombra": 8
+          },
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 9,
+            "sombra": 10
+          },
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 11,
+            "sombra": 12
+          },
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 13,
+            "sombra": 14
+          },
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 15,
+            "sombra": 16
+          },
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 17,
+            "sombra": 18
+          },
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 19,
+            "sombra": 20
+          },
+          {
+            "estado": "texto principal original; no tocado",
+            "principal": 21,
+            "sombra": 22
+          }
+        ],
+        "pixeles_modificados": 0,
+        "sincronizados": 0
+      }
+    },
+    "menus_y_lugares": {
+      "Aldea Croqueta": "integrado",
+      "Aldea Cuscús": "integrado",
+      "Aldea Fantasma": "integrado",
+      "Bar Nuevo del Castillo": "integrado",
+      "Bar Shin del Castillo": "integrado",
+      "Bar del Castillo": "integrado",
+      "Biblioteca Real": "integrado",
+      "Bosque Meunière": "integrado",
+      "Calle Mayor": "integrado",
+      "Casa de Angélica": "integrado",
+      "Castillo Berro": "integrado",
+      "Castillo Montblanc": "integrado",
+      "Cima de la Puerta Angelical": "integrado",
+      "Ciudad Pot-au-Feu": "integrado",
+      "Colina Chou-Fleur": "integrado",
+      "Cueva Vinagreta": "integrado",
+      "Cueva de las Pruebas": "integrado",
+      "Cueva de las Ruinas": "integrado",
+      "Equipar": "integrado",
+      "Iglesia": "integrado",
+      "Isla Secreta": "integrado",
+      "Lugar del Accidente": "integrado",
+      "Mapa del mundo": "integrado",
+      "Menú": "integrado",
+      "Monte Champiñón": "integrado",
+      "Orfanato": "integrado",
+      "Oscuridad Abismal": "integrado",
+      "Panza del Diablo": "integrado",
+      "Plaza Minka": "integrado",
+      "Puerta Angelical": "integrado",
+      "Puerto Mayonesa": "integrado",
+      "Santuario Oscuro": "integrado",
+      "Selva": "integrado",
+      "Tienda Rosenqueen": "integrado",
+      "Tienda de udon": "integrado",
+      "Valle Eringa": "integrado",
+      "Vol. mus.": "integrado; referencia de voz ajustada +2 bytes",
+      "¡MAPA SUPERADO!": "integrado"
+    },
+    "ppsspp": false,
+    "relectura_iso": true,
+    "tutorial": {
+      "delta_bytes": 34,
+      "entrada": 1019,
+      "estado": "integrado",
+      "lineas_nuevas": [
+        "Al purificar un portal",
+        "oscuro, dañas a los enemigos",
+        "situados sobre la corriente",
+        "de energía que sale de él."
+      ],
+      "lineas_originales": 4,
+      "sha256": "7b0c8a33cd83098ca76ee6541ae659bba0687cb025ed22471030c7b764790855"
+    }
+  }
+}

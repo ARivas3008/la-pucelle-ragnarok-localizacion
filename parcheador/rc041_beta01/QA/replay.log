@@ -1,0 +1,17 @@
+RC041-REV6-GUI-NATIVO | RC041 REV5 + Reacción, Omitir, título capítulo adicional 2 armonizado; QA visual pendiente
+Comprobando original: ISO
+Comprobando original: DL_JP_00.EDAT
+Comprobando original: DL_JP_01.EDAT
+Comprobando original: DL_JP_02.EDAT
+Comprobando original: DL_JP_03.EDAT
+Aplicando parche: ISO
+Verificado SHA-256: ISO
+Aplicando parche: DL_JP_00.EDAT
+Verificado SHA-256: DL_JP_00.EDAT
+Aplicando parche: DL_JP_01.EDAT
+Verificado SHA-256: DL_JP_01.EDAT
+Aplicando parche: DL_JP_02.EDAT
+Verificado SHA-256: DL_JP_02.EDAT
+Aplicando parche: DL_JP_03.EDAT
+Verificado SHA-256: DL_JP_03.EDAT
+Proceso terminado: /tmp/lapucelle_beta1/JUEGO_PARA_PPSSPP_RC041_REV6

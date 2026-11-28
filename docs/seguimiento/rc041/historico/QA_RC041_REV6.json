@@ -1,0 +1,84 @@
+{
+  "version": "RC041 REV6",
+  "base_sha256": "40e4ff1e2b30fc9abc1f97509b57f7c0159399be1d3efdf568e1f4cd15873cfa",
+  "dialogue_runs_reread": 20650,
+  "kinoko_jiru_residual": 0,
+  "graphics_physical": 11,
+  "graphics_resources": [
+    "ISO_START/sys2.txp",
+    "ISO_START/sys7.txp",
+    "DLC_00/sys2.txp",
+    "DLC_00/sys7.txp",
+    "DLC_01/sys2.txp",
+    "DLC_01/sys7.txp",
+    "DLC_02/sys2.txp",
+    "DLC_02/sys7.txp",
+    "DLC_03/sys2.txp",
+    "DLC_03/sys7.txp",
+    "BGPACK.DAT/at16.txp"
+  ],
+  "closures_preserved": 22,
+  "nonaffected_iso_files_identical": true,
+  "outputs": [
+    {
+      "name": "ISO",
+      "patch": "ISO.xor.gz",
+      "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+      "target_sha256": "4bd82f29d2d2f33b2aa89713dae5b967e50b759861fc94f598e7133889b93342",
+      "source_size": 858937344,
+      "target_size": 889505792
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "patch": "DL_JP_00_EDAT.xor.gz",
+      "source_sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00",
+      "target_sha256": "f42586f958ab7630bb123fd0241776831f35211278caa18cb8b43f10ec8b5f23",
+      "source_size": 5127190,
+      "target_size": 5254679
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "patch": "DL_JP_01_EDAT.xor.gz",
+      "source_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+      "target_sha256": "38f742e78faa2994d559b6b3d782758261230f76833764399441309037482e69",
+      "source_size": 5203970,
+      "target_size": 5364911
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "patch": "DL_JP_02_EDAT.xor.gz",
+      "source_sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e",
+      "target_sha256": "450413946c1a5a098656c7c9451fc08881bbc375b6012e05e444b9ec78cc8bcc",
+      "source_size": 5267964,
+      "target_size": 5431337
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "patch": "DL_JP_03_EDAT.xor.gz",
+      "source_sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e",
+      "target_sha256": "fd557b19acac20894af8b78643e9f66d85c06744ef7e1061af4ab643968cbc30",
+      "source_size": 5348846,
+      "target_size": 5515230
+    }
+  ],
+  "ppsspp": false,
+  "windows_gui": false,
+  "limitations": [
+    "Re-Action!! y スキップ reconstruidos sobre atlas original, pendientes de prueba de UV/legibilidad.",
+    "Capítulo adicional 2 armonizado con el cierre japonés ココロノカケラ.",
+    "Inventario de texturas independientes BGPACK/START no es exhaustivo de texturas internas ANMPACK, KM2, otros contenedores ni videos.",
+    "Revisión semántica y PPSSPP pendientes; no publicado en GitHub."
+  ],
+  "windows_exe_sha256": "cf371b898a2005011a064c18fa3314e4ac5c83a285544ed9055eef89ad753070",
+  "embedded_streams_verified": {
+    "DL_JP_00.EDAT": "b916986aa9d98523aeb03f7f5560e712ce499fae2a97f0213393ec99f56a0277",
+    "DL_JP_01.EDAT": "d48fe4182d166ccc77342c11d84a10af015cb279d85bb276ab13be7773dcf6bc",
+    "DL_JP_02.EDAT": "ff081214d6ed02b561ffe4d1d3b6a41ce30bc60a372b6c2a928807b812c3fc59",
+    "DL_JP_03.EDAT": "cbed585c37ed92eb3d4383c40ef5ee6c76967bcc10ca6465823b5850ccead85e",
+    "ISO": "121e8b8f5dd0ee1401a633dc48b84fe20f4e9c180e62e1c6f71d2e404c2c20e5"
+  },
+  "linux_replay_verified": 5,
+  "texture_inventory_physical": 92,
+  "texture_inventory_unique": 42,
+  "qa_status": "Verificación binaria; no ejecución PPSSPP ni GUI Windows"
+}

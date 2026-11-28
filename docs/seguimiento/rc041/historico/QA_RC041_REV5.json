@@ -1,0 +1,113 @@
+{
+  "version": "RC041 REV5",
+  "base_sha256": "0faef52e211447e42ed389fa480bfda243b15cdbd059aa53e14f49888046b38e",
+  "dialogue_changes": 117,
+  "table_changes": 15,
+  "text_skips": 0,
+  "dialogue_runs_reread": 20650,
+  "kinoko_jiru_residual": 0,
+  "chapter_titles": 16,
+  "graphics_physical": 36,
+  "graphics_resources": [
+    "ISO_START/item.txp",
+    "ISO_START/sys3.txp",
+    "ISO_START/sys5.txp",
+    "ISO_START/sys6.txp",
+    "DLC_00/item.txp",
+    "DLC_00/sys3.txp",
+    "DLC_00/sys5.txp",
+    "DLC_00/sys6.txp",
+    "DLC_01/item.txp",
+    "DLC_01/sys3.txp",
+    "DLC_01/sys5.txp",
+    "DLC_01/sys6.txp",
+    "DLC_02/item.txp",
+    "DLC_02/sys3.txp",
+    "DLC_02/sys5.txp",
+    "DLC_02/sys6.txp",
+    "DLC_03/item.txp",
+    "DLC_03/sys3.txp",
+    "DLC_03/sys5.txp",
+    "DLC_03/sys6.txp",
+    "BGPACK.DAT/at07.txp",
+    "BGPACK.DAT/at18.txp",
+    "BGPACK.DAT/at11.txp",
+    "BGPACK.DAT/at17.txp",
+    "BGPACK.DAT/at03.txp",
+    "BGPACK.DAT/at15.txp",
+    "BGPACK.DAT/at10.txp",
+    "BGPACK.DAT/at08.txp",
+    "BGPACK.DAT/at01.txp",
+    "BGPACK.DAT/at05.txp",
+    "BGPACK.DAT/at02.txp",
+    "BGPACK.DAT/at16.txp",
+    "BGPACK.DAT/at06.txp",
+    "BGPACK.DAT/at04.txp",
+    "BGPACK.DAT/at12.txp",
+    "BGPACK.DAT/at09.txp"
+  ],
+  "closures_preserved": 22,
+  "nonaffected_iso_files_identical": true,
+  "outputs": [
+    {
+      "name": "ISO",
+      "patch": "ISO.xor.gz",
+      "source_sha256": "4360707b251a0f7776a222512926f1f58fb47bda0060b667168de8a1e122e9f5",
+      "target_sha256": "40e4ff1e2b30fc9abc1f97509b57f7c0159399be1d3efdf568e1f4cd15873cfa",
+      "source_size": 858937344,
+      "target_size": 889505792
+    },
+    {
+      "name": "DL_JP_00.EDAT",
+      "patch": "DL_JP_00_EDAT.xor.gz",
+      "source_sha256": "723720fb885a092d1adb71b7ca24b90b6b03e828460669edb662ae6f38dfef00",
+      "target_sha256": "47b3117ac30faf5f4c71e9f3292e76ed0c830d45c84c1e69f19e70df3a4fa015",
+      "source_size": 5127190,
+      "target_size": 5254644
+    },
+    {
+      "name": "DL_JP_01.EDAT",
+      "patch": "DL_JP_01_EDAT.xor.gz",
+      "source_sha256": "fc2bcc6cdb9ff84d0a365b1f873e12d7d4546b5215a165473eb292a8d72ce17d",
+      "target_sha256": "12132455ee0a71b3c08782d33afd2d11148fd9bb22284f3ccc668c03c2241b9c",
+      "source_size": 5203970,
+      "target_size": 5364876
+    },
+    {
+      "name": "DL_JP_02.EDAT",
+      "patch": "DL_JP_02_EDAT.xor.gz",
+      "source_sha256": "bd88a3409a1d78b810ff1a07f1eb0d4ded05b9056bea874e720dbdca64bc329e",
+      "target_sha256": "3fac0af32257e41e92b103b025ba48feb5807024abcdd58ffc81b5f14e0915ad",
+      "source_size": 5267964,
+      "target_size": 5431302
+    },
+    {
+      "name": "DL_JP_03.EDAT",
+      "patch": "DL_JP_03_EDAT.xor.gz",
+      "source_sha256": "bb879fc608d42e326f41d1e460f97a6beacf6ead86b5734e2c200e515847175e",
+      "target_sha256": "e2051072be7b73080ab8c57819f54f544da708795bab7dd669ed96dcb658c469",
+      "source_size": 5348846,
+      "target_size": 5515195
+    }
+  ],
+  "ppsspp": false,
+  "windows_gui": false,
+  "limitations": [
+    "Títulos reconstruidos con fuente serif similar y fondo restaurado localmente; no recuperación histórica exacta.",
+    "Anuncios y rótulos nuevos pendientes de comprobar recortes UV y legibilidad en PPSSPP.",
+    "Pendiente verificar Re-Action!! de sys7, otras texturas fuera de inventario, y cotejo semántico completo.",
+    "Se conserva SELECT/START como nombres físicos de los botones y logo/copyright.",
+    "Capítulo adicional 2: el título de inicio original dice Demon Overlord; cierre histórico dice Fragmentos del corazón, pendiente de armonización contextual.",
+    "No publicado en GitHub."
+  ],
+  "windows_exe_sha256": "64aa0f1263607db1e9b597f2965cde41c3735086c47e35e5d3245dc4fd9267fe",
+  "embedded_streams_verified": {
+    "DL_JP_00.EDAT": "799b2de97abb63d6611e9af9516e5a88595b1d3deba1a7dec04f53ace726ae2d",
+    "DL_JP_01.EDAT": "fbf412fa2e4908bb8c4555fc7e6e0e48a6ed07d0fe1f874d2812c7e115fade8e",
+    "DL_JP_02.EDAT": "51de8d4b3062fa61313919c04cd2f69d85ed1b2a4cfde30225f717c4dca3303a",
+    "DL_JP_03.EDAT": "348e36b49377321a306d60a79067b2ceaa57c5296f88ae479fbfceb72935e75e",
+    "ISO": "777ceafa507d828e9376b3781a77a9f60c875d1ea327690a4701944bc6d7050c"
+  },
+  "linux_replay_verified": 5,
+  "qa_status": "Verificación binaria de ISO y cuatro DLC, sin ejecutar PPSSPP ni GUI Windows"
+}
